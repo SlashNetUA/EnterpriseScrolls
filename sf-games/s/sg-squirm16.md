@@ -3,7 +3,8 @@
 | | | | |
 | --- | --- | --- | --- |
 |![screen1](screenshots/scrn_squirm16_1.png)|![screen2](screenshots/scrn_squirm16_2.png)|![screen3](screenshots/scrn_squirm16_3.png)|![screen4](screenshots/scrn_squirm16_4.png)|
-Жанр: аркада, PacMan-like
+
+Жанр: аркада, PacMan-like  
 Кількість гравців: 1
 
 ## Опис
@@ -40,13 +41,12 @@
 ### Основні [елементи керування](../controllers.md):
 ⌨ Клавіатура (`Q`, `A`, `O`, `P`, `Space`)  
 🕹 Вбудований джойстик + `Enter`  
-🕹 Зовнішній джойстик 1️⃣/2️⃣
+🕹 Зовнішній джойстик 1/2
 
 `Fire` (під час руху): Зупинитись
 
 ### Додаткові клавіши:
 `F8`: Увімк./вимк. музику
-
 
 ## Чіт-коди та допомога у проходженні
 
@@ -58,22 +58,22 @@
 
 ## Посилання
 
-▶ [Easy Load&Play](https://t.me/EP128k_Load_n_Play/682) *(Telegram-канал Vibrant Waves)*
-💾 [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Squirm_16.rar)
-[Опис гри]() (угорська)
-[Тема на форумі enterpriseforever.com](https://enterpriseforever.com/commodore-rol/squirm-16/)
+▶ [Easy Load&Play](https://t.me/EP128k_Load_n_Play/682) *(Telegram-канал Vibrant Waves)*  
+💾 [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Squirm_16.rar)  
+[Опис гри]() (угорська)  
+[Тема на форумі enterpriseforever.com](https://enterpriseforever.com/commodore-rol/squirm-16/)  
 
 ## Автори
 ### Оригінальний реліз
-Платформа: [Commodore 64](https://www.lemon64.com/game/squirm)
-Програмісти: Tony Kelly
-Рік релізу: 1984
+Платформа: [Commodore 64](https://www.lemon64.com/game/squirm)  
+Програмісти: Tony Kelly  
+Рік релізу: 1984  
 
 ### Версія гри для [Commodore 16 Plus/4](https://plus4world.powweb.com/software/Squirm_16)
-Портування: Gaia, Csabo
+Портування: Gaia, Csabo  
 Дата релізу: 23.10.2020
 
 ### Версія гри для Enterprise
-Портування: [Geco](../../community/geco.md)
-Додаткові рівні та музика: [Szipucsu](../../community/szipucsu.md)
+Портування: [Geco](../../community/geco.md)  
+Додаткові рівні та музика: [Szipucsu](../../community/szipucsu.md)  
 Рік релізу: 2024
