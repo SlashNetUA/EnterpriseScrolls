@@ -10,80 +10,85 @@
 
 # A #
 
-A Team, The 
-Abadia Del Crimen, La  
-Abandoned Farmhouse Adventure, The (IS-DOS)  
-Abyss, The  
-Academy: Tau Ceti II  
-ACE  
-ACE 2: The Ultimate Head to Head Conflict  
-Action Force  
-Action Force 2  
-Action Reflex  
-Adios a la Casta. Episode 1  
-Adios a la Casta. Episode 2 - De Buen Rollo  
-Advanced Pinball Simulator  
-Adventure (IS-DOS)  
-Adventure Quest  
-African Trail Simulator  
-After the War. Part 1  
-Afterburner  
-Agent Orange  
-Airborne Ranger  
-Airbrush  
-Airwolf  
-Airwolf (ZX)  
-Airwolf II  
-Akasztófa (IS-Basic)  
-Aknamezö (IS-Basic)  
-Alcatraz Harry  
-Alchemist  
-Alien  
-Alien 8  
-Alien Attack  
-Alien Evolution  
-Alien Highway  
-Aliens  
-Alter Ego  
-Altered Beast  
-Alternative World Games  
-Amaurote  
-American Poker II  
-Amőba (Ötödölő) (IS-Basic)  
-Amoto's Puff  
-Angel Nieto Pole 500cc  
-Animal Vegetable Mineral  
-Ant-Attack (IS-Basic)  
-Antiriad  
-Arc of Yesod, The  
-Arcadia  
-Archon 1: The Light and the Dark  
-Archon 2: Adept  
-Arcticfox  
-Arkanoid 2: Revenge of Doh  
-Arkos. Part 2-3  
-Armageddon  
-Army Moves  
-Arnhem  
-Artax Cimlap (IS-Basic)  
-Artura  
-Ashby Manor (IS-Basic)  
-Asterix and the Magic Cauldron  
-Astro Blaster  
-ATF (Advanced Tactical Fighter)  
-Athena  
-Atic Atac  
-Atom Ant  
-Atomix  
-Atrog  
-Attack of the PETSCII Robots  
-Áttörés  
-ATV Simulator  
-Auf Wiedersehen Monty  
-Automania  
-Autós Teszt (IS-Basic)  
-Autóverseny (IS-Basic)  
-Avalon  
-Avenger  
-Awari (IS-Basic)  
-Awari Játék (IS-Basic)  
+|Назва|Жанр|Система|Оригінальна платформа|
+|-----|:-----:|:--:|:-------------------:|
+|The A Team|екшн, тир||ZX Spectrum 
+|La Abadia Del Crimen|пригода||Amstrad CPC
+|The Abandoned Farmhouse Adventure|текстова пригода|IS-DOS|мультиплатформа
+|The Abyss|аркада, лабіринт||Enterprise
+|Academy: Tau Ceti II| 3D екшн||ZX Spectrum  
+|ACE|авіасимулятор||ZX Spectrum  
+|ACE 2: The Ultimate Head to Head Conflict|авіасимулятор||ZX Spectrum  
+|Action Force|аркада, екшн||ZX Spectrum  
+|Action Force 2|аркада, тир||ZX Spectrum   
+|Action Reflex|екшн||ZX Spectrum   
+|Adios a la Casta. Episode 1|аркада, пригода, платформер||Amstrad CPC
+|Adios a la Casta. Episode 2 - De Buen Rollo|аркада, пригода, платформер||Amstrad CPC
+|Advanced Pinball Simulator|пінбол||ZX Spectrum  
+|Adventure|текстова пригода|IS-DOS|мультиплатформа  
+|Adventure Quest|текстова пригода||Enterprise  
+|African Trail Simulator|аркада, мотоперегони||ZX Spectrum  
+|After the War. Part 1|аркада, екшн||ZX Spectrum    
+|Agent Orange|аркада, екшн||ZX Spectrum  
+|Airborne Ranger|екшн||ZX Spectrum  
+|Airbrush|аркада||ZX Spectrum
+|Airwolf|екшн||Enterprise  
+|Airwolf|екшн||ZX Spectrum
+|Airwolf II|екшн||ZX Spectrum
+|Akasztófa|логіка, шибениця|IS-Basic|Enterprise
+|Aknamezö|логіка|IS-Basic|Enterprise
+|Alcatraz Harry|аркада||ZX Spectrum  
+|Alchemist|аркада, пригода||ZX Spectrum  
+|Alien|тактика||ZX Spectrum  
+|Alien 8|аркада, пригода||Amstrad CPC  
+|Alien Attack|аркада||Enterprise
+|Alien Evolution|аркада, екшн||ZX Spectrum  
+|Alien Highway|екшн, пригода||ZX Spectrum  
+|Aliens|тир, пригода||ZX Spectrum
+|Alter Ego|аркада, логіка||ZX Spectrum  
+|Altered Beast|аркада, бітемап||ZX Spectrum  
+|Alternative World Games|спорт, екшн||Enterprise  
+|Amaurote|аркада, екшн||ZX Spectrum  
+|American Poker II|аркадний автомат||Video slot machine
+|Amőba (Ötödölő)|логіка, тактика|IS-Basic|Enterprise
+|Amoto's Puff|аркада||ZX Spectrum  
+|Angel Nieto Pole 500cc|спорт, симулятор, перегони||ZX Spectrum  
+|Animal Vegetable Mineral|навчальна|IS-Basic|Enterprise  
+|Antiriad|аркада, пригода||ZX Spectrum
+|The Arc of Yesod|аркада, пригода||ZX Spectrum
+|Arcadia|аркада||ZX Spectrum  
+|Archon 2: Adept|стратегія||ZX Spectrum  
+|Arcticfox|екшн, симулятор||ZX Spectrum  
+|Arkanoid 2: Revenge of Doh|аркада, арканоід||ZX Spectrum  
+|Arkos. Part 2-3|аркада, екшн||ZX Spectrum  
+|Armageddon|аркада, екшн||ZX Spectrum  
+|Army Moves|аркада, екшн||ZX Spectrum  
+|Arnhem|стратегія||ZX Spectrum  
+|Artura|аркада, пригода||ZX Spectrum  
+|Ashby Manor|текстова пригода|IS-Basic|Enterprise
+|Asterix and the Magic Cauldron|аркада, пригода||ZX Spectrum  
+|Astro Blaster|аркада, екшн||ZX Spectrum  
+|ATF (Advanced Tactical Fighter)|авіасимулятор||Amstrad CPC  
+|ATF (Advanced Tactical Fighter)|авіасимулятор||ZX Spectrum  
+|Athena|аркада, платформер||ZX Spectrum  
+|Atic Atac|аркада, пригода||Amstrad CPC
+|Atom Ant|аркада, екшн||ZX Spectrum  
+|Atomix|логіка||Enterprise  
+|Atrog|аркада, екшн||ZX Spectrum  
+|[Attack of the PETSCII Robots<br>Attack of the PETSCII Robots+](sg-petscii-robots.md)|аркада, пригода||Commodore Pet<br>Commodore 64<br>Amiga
+|Áttörés|аркада, екшн||Enterprise  
+|ATV Simulator|аркада, симулятор||ZX Spectrum  
+|Auf Wiedersehen Monty|аркада, платформер||ZX Spectrum  
+|Automania|аркада, платформер||ZX Spectrum  
+|Autós Teszt|тест, жарт|IS-Basic|Enterprise
+|Autóverseny|вгадайка, рандомайзер|IS-Basic|Enterprise
+|Avalon|аркада, пригода||ZX Spectrum    
+|Avenger|аркада, лабіринт||ZX Spectrum  
+|Awari|класична гра, калах|IS-Basic|Enterprise
+|Awari Játék|класична гра, калах|IS-Basic|Enterprise
+
+[//]: # (bad conversions:)
+[//]: # (|Afterburner|авіасимулятор||ZX Spectrum)
+[//]: # (|Ant-Attack||IS-Basic| Enterprise)
+[//]: # (|Archon 1: The Light and the Dark|стратегія||ZX Spectrum  )
+[//]: # (|Artax Cimlap|аркада, пригода|IS-Basic|Enterprise  )

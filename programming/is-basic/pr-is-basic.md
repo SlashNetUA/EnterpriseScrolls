@@ -1,0 +1,45 @@
+# IS-Basic Programming Guide
+
+## Contents
+### Getting acquainted
+[Introduction](man_1-intro.md)  
+[First programs](man_1-firstpro.md)  
+[About programming](man_1-aboutpro.md)  
+[Doing things in order](man_1-doingthi.md)  
+[Immediate mode and keywords](man_1-immediate.md)  
+[Variables](man_1-variables.md)  
+[Operators and expressions](man_1-operators.md)  
+[Setting out text](man_1-settingout.md)  
+[Editing programs](man_1-editingpro.md)  
+[Word processing](man_1-wordproc.md)  
+[The function keys](man_1-funckeys.md)  
+[Function key operations](man_1-funcop.md)  
+[Handling programs on cassette](man_1-cassette.md)  
+
+### The tutorial
+[Strings](man_2-strings.md)  
+[Loops](man_2-loops.md)  
+[Decisions, decisions!](man_2-decisions.md)  
+[Storing larger amounts of information](man_2-storing.md)  
+[Defining functions](man_2-defining.md)  
+[Graphics](man_2-graphics.md)  
+[The character set](man_2-charset.md)  
+[Sound 'n' rhythm](man_2-sound.md)  
+[Making programs out of problems](man_2-problems.md)  
+[Minimal basic features](man_2-features.md)  
+[Channels](man_2-channels.md)  
+[Exception handling](man_2-exceptions.md)  
+[The net](man_2-net.md)  
+[Using machine code](man_2-mcode.md)  
+
+### Reference section
+[Rules of basic](man_3-rules.md)  
+[Commands and statements](man_3-commands.md)  
+[Machine options (general)](man_3-moptions.md)  
+[Video options](man_3-vidoptions.md)  
+[Sound options](man_3-souoptions.md)  
+[Built-in functions and variables](man_3-functs.md)  
+[EXOS](man_3-exos.md)  
+[Error messages](man_3-errors.md)  
+[Glossary](man_3-glossary.md)  
+[Index](man_3-index.md)  
