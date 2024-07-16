@@ -1,31 +1,33 @@
 # SELECT
 
-`select-line`  
-`case-line`  
-`  any number of statements or blocks`  
-`case-line option`  
-`  any number of statements or blocks`  
-`end-select-line`
+```
+select-line
+case-line 
+  any number of statements or blocks
+case-line option
+  any number of statements or blocks
+end-select-line
+```
 
-select-line:  
+**select-line**:  
 `SELECT CASE expression`
 
-case-line:  
+**case-line**:  
 `CASE expression`  
 `CASE expression TO expression`  
 `CASE IS relop expression`  
 `CASE ELSE`
 
-end-select-line:  
+**end-select-line**:  
 `END SELECT`
 
-The SELECT block is a group of statements to test the variable or expression against a number of alternative conditions.
+The **SELECT** block is a group of statements to test the variable or expression against a number of alternative conditions.
 
-The word CASE in the SELECT line is optional unless the expression begins with an identifier CASE.
+The word **CASE** in the **SELECT** line is optional unless the expression begins with an identifier **CASE**.
 
 e.g. `SELECT CASE CASE+23`
 
-There can be any number of CASE lines. The cases are tested in order of line-numbers. There is no point in having additional case-lines after a CASE ELSE, since they cannot normally be reached. Several cases can be combined on one line by separating them with commas.
+There can be any number of **CASE** lines. The cases are tested in order of line-numbers. There is no point in having additional case-lines after a **CASE ELSE**, since they cannot normally be reached. Several cases can be combined on one line by separating them with commas.
 
 e.g. `CASE 1,2,3 TO 6,99`
 
@@ -42,6 +44,6 @@ CASE ELSE
 END SELECT
 ```
 
-The CASE ELSE line can only be used once, and must follow all the other CASE lines. The other CASE lines can be used in any order as necessary, the lines in between two CASE lines forming a block. Control cannot be transferred from outside to inside of a SELECT block.
+The **CASE ELSE** line can only be used once, and must follow all the other **CASE** lines. The other **CASE** lines can be used in any order as necessary, the lines in between two **CASE** lines forming a block. Control cannot be transferred from outside to inside of a **SELECT** block.
 
-String SELECTS are also available.
+String **SELECTS** are also available.

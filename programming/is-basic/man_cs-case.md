@@ -1,4 +1,0 @@
-# CASE
-
-See SELECT block.
-

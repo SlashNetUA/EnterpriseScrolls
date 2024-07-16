@@ -2,7 +2,7 @@
 
 `DISPLAY £chan:AT a FROM b TO c`
 
-Defines a window to display a segment of a text or graphics video page. Screen-row 'a' is the position where the top line of the segment will be placed. Parameters 'b' and 'c' are character-rows on the page which is to be displayed, and define the top and bottom lines of the segment. The numbering of character-rows follows the conventions for text, whether the page displayed is text or graphics. See [PRINT](man_cs-print.md).
+Defines a window to display a segment of a text or graphics video page. Screen-row '**a**' is the position where the top line of the segment will be placed. Parameters '**b**' and '**c**' are character-rows on the page which is to be displayed, and define the top and bottom lines of the segment. The numbering of character-rows follows the conventions for text, whether the page displayed is text or graphics. See [PRINT](man_cs-print.md).
 
 # DISPLAY GRAPHICS
 

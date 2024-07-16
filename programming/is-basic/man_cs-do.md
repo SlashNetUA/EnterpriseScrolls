@@ -6,17 +6,17 @@ do-line
 loop-line
 ```
 
-do-line:  
+**do-line**:  
 `DO`  
 `DO WHILE relational-expression`  
 `DO UNTIL relational-expression`
 
-loop-line:  
+**loop-line**:  
 `LOOP`  
 `LOOP WHILE relational-expression`  
 `LOOP UNTIL relational-expression`
 
-The structure of a loop is defined as a block, with a DO line, the loop body, and a LOOP line. DO or LOOP cannot be placed on a conditional line.
+The structure of a loop is defined as a block, with a **DO** line, the loop body, and a **LOOP** line. **DO** or **LOOP** cannot be placed on a conditional line.
 
 ```
 DO WHILE A>3 AND A<10

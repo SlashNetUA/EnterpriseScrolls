@@ -4,7 +4,7 @@
 
 Specifies the current date held by the computer. The date is automatically incremented when the current time held by the computer reaches midnight.
 
-The date is specified in the International Standard format YYYYMMDD.
+The date is specified in the International Standard format **YYYYMMDD**.
 
 `DATE "19850727"`
 
