@@ -1,4 +1,4 @@
-# VIDEO OPTIONS
+﻿# VIDEO OPTIONS
 
 These work on the built-in video device, which can contain many video pages each with different parameters. The commands which work on individual pages can be given a channel specification, but if this is left out, some of them default to the standard text page (**£102**), others to the standard graphics page (**£101**) – as detailed below.
 
