@@ -27,6 +27,7 @@
 |11-a-Side Soccer (Four Soccer Simulator)|спорт, футбол||ZX Spectrum|
 |15 Squares|логіка|IS-Basic|Enterprise|
 |19 Part 1: Boot Camp|екшн||ZX Spectrum|
+|90 degreee!|аркада|IS-Basic|Enterprise|
 |180|спорт, дартс||ZX Spectrum|
 |720 Degrees|симулятор, скейтбоард||ZX Spectrum|
 |1942|аркада, екшн||ZX Spectrum|
