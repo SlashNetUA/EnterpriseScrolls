@@ -2,8 +2,10 @@
 
 `PLOT £chan:point-list`  
 `PLOT £chan:ANGLE expr`  
-`PLOT £chan:FORWARD/BACK expr`  
-`PLOT £chan:LEFT/RIGHT expr`  
+`PLOT £chan:FORWARD expr`  
+`PLOT £chan:BACK expr`  
+`PLOT £chan:LEFT expr`  
+`PLOT £chan:RIGHT expr`  
 `PLOT £chan:ELLIPSE expr, expr`  
 `PLOT £chan:PAINT`  
 
