@@ -7,5 +7,5 @@ The non-standard **CHR** construct is provided here so that constants may be use
 E.G.
 ```
 CONST	bs=CHR(8);
-		cr=CHR(13);
+	cr=CHR(13);
 ```
