@@ -17,7 +17,7 @@
 |--|:--:|--|
 |[EP32](em-ep32.md)|Win32|Старий але ще доволі популярний емулятор на базі Enter
 |Enter|Win32|
-|MESS||Якість емуляції на низькому рівні
+|MAME (MESS)||Якість емуляції на низькому рівні
 |Multi-Machine Emulator|Win9x, DOS|
 |Penelope|Win|
 |Enterprise Emulator|DOS|

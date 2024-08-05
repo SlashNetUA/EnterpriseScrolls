@@ -28,11 +28,11 @@ In this case **e** is output in hexadecimal. If **m=1** or **m=2** then the valu
 WRITE (1025:m:H);
 ```
 
-**m=1**	outputs: `1`
-**m=2**	outputs: `01`
-**m=3**	outputs: `0401`
-**m=4**	outputs: `0401`
-**m=5**	outputs: ` 0401`
+**m=1**	outputs: `1`  
+**m=2**	outputs: `01`  
+**m=3**	outputs: `0401`  
+**m=4**	outputs: `0401`  
+**m=5**	outputs: ` 0401`  
 
 3) **e** is of type real. The forms **e**, **em** or **e:m:n** may be used.
 
@@ -44,21 +44,21 @@ If **n** is not present then the number is output in scientific notation, with a
 WRITE (-1.23E10:m);
 ```
 
-**m=7**	gives: `-1.23000E+10`
-**m=8**	gives: `-1.2E+10`
-**m=9**	gives: `-1.23E+10`
-**m=10**	gives: `-1.230E+10`
-**m=11**	gives: `-1.2300E+10`
-**m=12**	gives: `-1.23000E+10`
-**m=13**	gives: ` -1.23000E+10`
+**m=7**	gives: `-1.23000E+10`  
+**m=8**	gives: `-1.2E+10`  
+**m=9**	gives: `-1.23E+10`  
+**m=10**	gives: `-1.230E+10`  
+**m=11**	gives: `-1.2300E+10`  
+**m=12**	gives: `-1.23000E+10`  
+**m=13**	gives: ` -1.23000E+10`  
 
 If the form **e:m:n** is used then a fixed-point representation of the number **e** will be written with **n** specifying the number of decimal places to be output. No leading spaces will be output unless the field width **m** is sufficiently large. If **n** is zero then **e** is output as an integer. If **e** is too large to be output in the specified field width then it is output in scientific format with a field width of **m** (see above). Examples:
 
-`WRITE(1E2:6:2)`	gives: `100.00`
-`WRITE(1E2:8:2)`	gives: `  100.00`
-`WRITE(23.455:6:1)`	gives: `  23.5`
-`WRITE(23.455:4:2)`	gives: `2.34550E+01`
-`WRITE(23.455:4:0)`	gives: `  23`
+`WRITE(1E2:6:2)`	gives: `100.00`  
+`WRITE(1E2:8:2)`	gives: `  100.00`  
+`WRITE(23.455:6:1)`	gives: `  23.5`  
+`WRITE(23.455:4:2)`	gives: `2.34550E+01`  
+`WRITE(23.455:4:0)`	gives: `  23`  
 
 4) **e** is of type character or type string.
 

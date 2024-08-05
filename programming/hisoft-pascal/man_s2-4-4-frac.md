@@ -6,5 +6,5 @@ As with **ENTIER** this function is useful for writing many fast mathematical ro
 
 Examples:
 
-`FRAC(1.5)`	returns `0.5`
+`FRAC(1.5)`	returns `0.5`  
 `FRAC(-12.56)`	returns `0.44`

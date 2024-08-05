@@ -23,8 +23,6 @@
 
 ## 2.4.4 ARITHMETIC FUNCTIONS
 
-In all the functions within this sub-section the parameter X must be of type real or integer.
-
 2.4.4.1 [ABS](man_s2-4-4-abs.md)  
 2.4.4.2 [SQR](man_s2-4-4-sqr.md)  
 2.4.4.3 [SQRT](man_s2-4-4-sqrt.md)  

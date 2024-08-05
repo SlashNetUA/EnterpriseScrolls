@@ -4,5 +4,5 @@
 
 Examples:
 
-`SUCC('A')`	returns '`B`'
+`SUCC('A')`	returns '`B`'  
 `SUCC('5')`	returns '`6`'

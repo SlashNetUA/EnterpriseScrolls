@@ -6,5 +6,5 @@ If **X** is of type integer then `ORD(X)=X;` this should normally be avoided.
 
 Examples:
 
-`ORD('a')`	returns `97`
+`ORD('a')`	returns `97`  
 `ORD('@')`	returns `64`

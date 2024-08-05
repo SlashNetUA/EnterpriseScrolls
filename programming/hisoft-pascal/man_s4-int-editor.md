@@ -1,4 +1,4 @@
-# SECTION 4 THE INTEGRAL EDITOR
+# SECTION 4: THE INTEGRAL EDITOR
 
 The integral editor supplied with HiSoft Pascal is a combination of the standard HiSoft line editor and the EXOS screen editor; this partnership leads to simple yet powerful creation and editing of your Pascal programs.
 
@@ -8,8 +8,8 @@ EXOS commands may be typed by prefixing them with a colon e.g. `:HELP` as in BAS
 
 Below the syntax of each command is given followed by an example and then the description of the command. In what follows
 
-**n1**,**n2**,**n3**	are line numbers.
-**s**,**s1**,**s2**	are strings.
+**n1**,**n2**,**n3**	are line numbers.  
+**s**,**s1**,**s2**	are strings.  
 **i**	is a line number increment.
 
 ## INSERT TEXT	COMMAND In,i
@@ -130,7 +130,12 @@ On the Enterprise 128 there is normally no need to change these values unless yo
 
 When using the Enterprise 64 to run graphics programs you will need to lower the stack to **£8000** to free **16k** to the operating system to use as extra video RAM.
 
-Thus when using the Turtle Graphics package on the 64 you should type `A` **Enter** **Enter** **Enter** `8000` **Enter** before compiling the program.
+Thus when using the Turtle Graphics package on the 64 you should type  
+`A` **Enter**  
+**Enter**  
+**Enter**  
+`8000` **Enter**  
+before compiling the program.
 
 ## CHANGE SCREEN WIDTH	COMMAND W
 

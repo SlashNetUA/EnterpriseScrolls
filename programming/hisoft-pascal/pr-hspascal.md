@@ -4,13 +4,13 @@
 
 ## INDEX
 
-SECTION 0	PRELIMINARIES  
+SECTION 0: PRELIMINARIES  
 0.0	[Introduction](man_s0-0-introduction.md)  
 0.1	[Loading HiSoft Pascal into your Enterprise](man_s0-1-loading.md)  
 0.2	[Scope of this manual](man_s0-2-scope.md)  
 0.3	[Compiling and running](man_s0-1-compile.md)  
 
-SECTION 1	SYNTAX AND SEMANTICS  
+SECTION 1: [SYNTAX AND SEMANTICS](man_s1-0-index.md)  
 1.1	[Identifier](man_s1-1-identifier.md)  
 1.2	[Unsigned Integer](man_s1-2-uns-integer.md)  
 1.3	[Unsigned number](man_s1-3-uns-number.md)  
@@ -30,24 +30,24 @@ SECTION 1	SYNTAX AND SEMANTICS
 1.17	[Program](man_s1-17-program.md)  
 1.18	[Strong typeing](man_s1-18-strong-typeing.md)  
 
-SECTION 2	PREDEFINED IDENTIFIERS  
+SECTION 2: [PREDEFINED IDENTIFIERS](man_s2-0-index.md)  
 2.1	[Constants](man_s2-1-constants.md)  
 2.2	[Types](man_s2-2-types.md)  
 2.3	[Variables](man_s2-3-variables.md)  
 2.4	[Procedures and functions](man_s2-4-procs-funcs.md)  
 
-SECTION 3	COMMENTS AND COMPILER OPTIONS  
+SECTION 3: [COMMENTS AND COMPILER OPTIONS](man_s3-0-index.md)  
 3.1	[Comments](man_s3-1-comments.md)  
 3.2	[Compiler options](man_s3-2-compile-options.md)  
 
-SECTION 4	[THE INTEGRAL EDITOR](man_s4-int-editor.md)
+SECTION 4: [THE INTEGRAL EDITOR](man_s4-int-editor.md)
 
-SECTION 5	[TURTLE GRAPHICS](man_s5-turtle.md)
+SECTION 5: [TURTLE GRAPHICS](man_s5-turtle.md)
 
-APPENDIX 1	[ERRORS](man_a1-errors.md)
+APPENDIX 1: [ERRORS](man_a1-errors.md)
 
-APPENDIX 2	[RESERVED WORDS AND PREDEFINED IDENTIFIERS](man_a2-reserved-words.md)
+APPENDIX 2: [RESERVED WORDS AND PREDEFINED IDENTIFIERS](man_a2-reserved-words.md)
 
-APPENDIX 3	[DATA REPRESENTATION AND STORAGE](man_a3-data-storage.md)
+APPENDIX 3: [DATA REPRESENTATION AND STORAGE](man_a3-data-storage.md)
 
-APPENDIX 4	[EXAMPLE HISOFT PASCAL PROGRAMS BIBLIOGRAPHY](man_a4-examples.md)
+APPENDIX 4: [EXAMPLE HISOFT PASCAL PROGRAMS BIBLIOGRAPHY](man_a4-examples.md)

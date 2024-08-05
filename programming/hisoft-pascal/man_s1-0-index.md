@@ -1,4 +1,4 @@
-# SECTION 1 SYNTAX AND SEMANTICS  
+# SECTION 1: SYNTAX AND SEMANTICS  
 
 This section details the syntax and the semantics of HiSoft Pascal — unless otherwise stated the implementation is as specified in the Pascal User Manual and Report Second Edition (Jensen/Wirth).
 

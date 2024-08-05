@@ -4,5 +4,5 @@
 
 Examples:
 
-`PRED('j')`	returns '`i`'
+`PRED('j')`	returns '`i`'  
 `PRED(TRUE)`	returns `FALSE`

@@ -4,5 +4,5 @@
 
 Examples:
 
-`POKE(£6000,'A')`	places **£41** at location **£6000**.
+`POKE(£6000,'A')`	places **£41** at location **£6000**.  
 `POKE(-16384,3.6E3)`	places **00 0B 80 70** at **£C000**.

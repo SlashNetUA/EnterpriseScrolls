@@ -4,5 +4,5 @@
 
 Examples:
 
-`CHR(49)`	returns '`1`'
+`CHR(49)`	returns '`1`'  
 `CHR(91)`	returns '`[`'
