@@ -5,10 +5,10 @@
 ## INDEX
 
 SECTION 0: PRELIMINARIES  
-0.0	[Introduction](man_s0-0-introduction.md)  
-0.1	[Loading HiSoft Pascal into your Enterprise](man_s0-1-loading.md)  
-0.2	[Scope of this manual](man_s0-2-scope.md)  
-0.3	[Compiling and running](man_s0-1-compile.md)  
+0.0 [Introduction](man_s0-0-introduction.md)  
+0.1 [Loading HiSoft Pascal into your Enterprise](man_s0-1-loading.md)  
+0.2 [Scope of this manual](man_s0-2-scope.md)  
+0.3 [Compiling and running](man_s0-1-compile.md)  
 
 SECTION 1: [SYNTAX AND SEMANTICS](man_s1-0-index.md)  
 1.1	[Identifier](man_s1-1-identifier.md)  
@@ -51,3 +51,13 @@ APPENDIX 2: [RESERVED WORDS AND PREDEFINED IDENTIFIERS](man_a2-reserved-words.md
 APPENDIX 3: [DATA REPRESENTATION AND STORAGE](man_a3-data-storage.md)
 
 APPENDIX 4: [EXAMPLE HISOFT PASCAL PROGRAMS BIBLIOGRAPHY](man_a4-examples.md)
+
+[BIBLIOGRAPHY](man-bibliography.md)
+
+----
+
+*PASCAL MANUAL*
+
+*Please note this manual was issued prior to the availability of PASCAL in cartridge form. If you have purchased the cartridge version, please ignore any instructions refering to tape cassettes.*
+
+*Enterprise Computers Limited*
