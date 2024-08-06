@@ -13,7 +13,7 @@ Examples:
 
 `1` ≡ `£0001`  
 `256` ≡ `£0100`  
-`-256` ≡ `£FFOO`
+`-256` ≡ `£FF00`
 
 The standard Z80 register used by the compiler to hold integers is **HL**.
 
@@ -54,7 +54,7 @@ Examples:
 101 | 0.100000000000000
          101
         ------
-		  110
+          110
           101
          -----   
             1000
@@ -78,10 +78,10 @@ So how do we use the above results to represent these numbers in the computer? W
 
 Thus:
 
-**2** ≡ `0 1000000 00000000 00000000 00000001` (**£40,£00,£00,£01**)
-**1** ≡ `0 1000000 00000000 00000000 00000000` (**£40,£00,£00,£00**)
-**-12.5** ≡ `1 1100100 00000000 00000000 00000011` (**£E4,£00,£00,£03**)
-**0.1** ≡ `0 1100110 01100110 01100110 11111100` (**£66,£66,£66,£FC**)
+**2** ≡ `0 1000000 00000000 00000000 00000001` (**£40,£00,£00,£01**)  
+**1** ≡ `0 1000000 00000000 00000000 00000000` (**£40,£00,£00,£00**)  
+**-12.5** ≡ `1 1100100 00000000 00000000 00000011` (**£E4,£00,£00,£03**)  
+**0.1** ≡ `0 1100110 01100110 01100110 11111100` (**£66,£66,£66,£FC**)  
 
 So, remembering that **HL** and **DE** are used to hold real numbers, then we would have to load the registers in the following way to represent each of the above numbers:
 
@@ -95,7 +95,7 @@ So, remembering that **HL** and **DE** are used to hold real numbers, then we wo
 ```
 ```
 -12.5 ≡ LD HL,£E400
-	    LD DE,£0300
+        LD DE,£0300
 ```
 ```
 0.1 ≡ LD HL,£6666
@@ -116,7 +116,7 @@ if
 **s**=size of each element then  
 the number of bytes occupied by the array is **n\*s**. e.g.
 
-an `ARRAY[1..10] OF INTEGER` requires **10\*2** = **20** bytes
+an `ARRAY[1..10] OF INTEGER` requires **10\*2** = **20** bytes  
 an `ARRAY[2..12,1..10] OF CHAR` has **11\*10**=**110** elements and so requires **110** bytes.
 
 ### A3.1.5 SETS
@@ -125,7 +125,7 @@ Sets are stored as bit strings and so if the base type has n elements then the n
 
 Examples:
 
-a `SET OF CHAR` requires **(256-1) DIV 8 + 1** = **32** bytes.
+a `SET OF CHAR` requires **(256-1) DIV 8 + 1** = **32** bytes.  
 a `SET OF (blue, green, yellow)` requires **(3-1) DIV 8 + 1** = **1** byte.
 
 ### A 3.1.6 POINTERS
@@ -206,9 +206,9 @@ then **i** is at **IX+2** and **IX+3** and space is reserved for the returned va
 
 HiSoft Pascal uses the following channel numbers:
 
-**105** - keyboard
-**120** - video for the editor
-**121** - editor channel itself
-**122**-**123** - internal for tape, printer etc.
+**105** - keyboard  
+**120** - video for the editor  
+**121** - editor channel itself  
+**122**-**123** - internal for tape, printer etc.  
 
 We recommend using channel numbers from **131** upwards for any extra channels you wish to open in your open programs.
