@@ -1,3 +1,5 @@
+# Character codes
+
 | CHR |        Keyboard        |             Meaning              |
 |:---:|:----------------------:|:--------------------------------:|
 |  0  |                        |                                  |
@@ -240,19 +242,21 @@
 | 237 |                        |                                  |
 | 238 |                        |                                  |
 | 239 |                        |                                  |
-| 240 |        Ctrl+**F1**         |         Reform paragraph         |
-| 241 |        Ctrl+**F2**         |           Centre line            |
-| 242 |        Ctrl+**F3**         |        Tab stop set/clear        |
-| 243 |        Ctrl+**F4**         |         Set left margin          |
-| 244 |        Ctrl+**F5**         |         Release margins          |
-| 245 |        Ctrl+**F6**         |        Move paragraph up         |
-| 246 |        Ctrl+**F7**         |        Change line colour        |
-| 247 |        Ctrl+**F8**         |                                  |
-| 248 |         Alt+**F1**         | Justify and</br>reform paragraph |
-| 249 |         Alt+**F2**         |       Clear all tab stops        |
-| 250 |         Alt+**F3**         |       Show/hide ruler line       |
-| 251 |         Alt+**F4**         |         Set right margin         |
-| 252 |         Alt+**F5**         |      Reset margins and tabs      |
-| 253 |         Alt+**F6**         |       Move paragraph down        |
-| 254 |         Alt+**F7**         |     Change paragraph colour      |
-| 255 |         Alt+**F8**         |                                  |
+| 240 |      Ctrl+**F1**       |         Reform paragraph         |
+| 241 |      Ctrl+**F2**       |           Centre line            |
+| 242 |      Ctrl+**F3**       |        Tab stop set/clear        |
+| 243 |      Ctrl+**F4**       |         Set left margin          |
+| 244 |      Ctrl+**F5**       |         Release margins          |
+| 245 |      Ctrl+**F6**       |        Move paragraph up         |
+| 246 |      Ctrl+**F7**       |        Change line colour        |
+| 247 |      Ctrl+**F8**       |                                  |
+| 248 |       Alt+**F1**       | Justify and</br>reform paragraph |
+| 249 |       Alt+**F2**       |       Clear all tab stops        |
+| 250 |       Alt+**F3**       |       Show/hide ruler line       |
+| 251 |       Alt+**F4**       |         Set right margin         |
+| 252 |       Alt+**F5**       |      Reset margins and tabs      |
+| 253 |       Alt+**F6**       |       Move paragraph down        |
+| 254 |       Alt+**F7**       |     Change paragraph colour      |
+| 255 |       Alt+**F8**       |                                  |
+|     |                        |                                  |
+
