@@ -1,6 +1,7 @@
 # REM
 
-`REM comment-line`
+`REM comment-line`  
+`! comment-line`
 
 Remark line.
 

@@ -1,6 +1,7 @@
 # SERIAL BAUD
 
-`SET SERIAL BAUD expr`
+`ASK SERIAL BAUD var`  
+`SET SERIAL BAUD expr`  
 
 The parameter (in the range **0**-**15**) determines the baud rate for the RS232 port and the network, according to the code given below. Can be used with [ASK](man_cs-ask.md).
 
@@ -24,3 +25,5 @@ The parameter (in the range **0**-**15**) determines the baud rate for the RS232
 |15<br>(default)|9600 baud
 
 Default baud rate is **9600** (value **15**).
+
+See also [EXOS VAR 16](../exos-info/exos-variables/exos_var16.md).   

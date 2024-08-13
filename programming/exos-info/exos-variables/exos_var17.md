@@ -1,9 +1,10 @@
-# SERIAL FORMAT
+# 17 - FORM_SER
 
-`ASK SERIAL FORMAT var`  
-`SET SERIAL FORMAT expr`
+`ASK 17 var`  
+`SET 17, expr`  
+`TOGGLE 17` - inverts value.
 
-Defines the word format for the serial device driver. The format is controlled by the binary bits in the number, as follows:
+Defines serial word format.
 
 |Bit|Value|Effect|Notes|
 |:-:|:---:|------|-----|
@@ -20,4 +21,4 @@ Bits **4 and upwards** must be **0**.
 
 Default format is **8 bits**, **no parity**, **2 stop bits**. Use of the network will always re-initialise this default.
 
-See also [EXOS VAR 17](../exos-info/exos-variables/exos_var17.md).   
+See also [SET SERIAL FORMAT](../is-basic/man_mo-ser-fmt.md).
