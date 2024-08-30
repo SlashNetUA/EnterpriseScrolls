@@ -72,4 +72,22 @@ Below is a list of all the EXOS variables supported by the EXOS kernel and built
 90 [FAST_VID](exos-variables/exos_var90.md)  
 91 [CD_PROMPT](exos-variables/exos_var91.md)  
 92  
-144 [VAR 144](exos-variables/exos_var144.md)  
+144 [VAR 144](exos-variables/exos_var144.md) Language extensions  
+
+180 [VAR 180](exos-variables/exos_var180.md)  MOUSE.XR  
+181 [VAR 181](exos-variables/exos_var181.md)  MOUSE.XR  
+182 [VAR 182](exos-variables/exos_var182.md)  MOUSE.XR  
+183 [VAR 183](exos-variables/exos_var183.md)  MOUSE.XR  
+184 [VAR 184](exos-variables/exos_var184.md)  MOUSE.XR  
+185 [VAR 185](exos-variables/exos_var185.md)  MOUSE.XR  
+186 [VAR 186](exos-variables/exos_var186.md)  MOUSE.XR  
+187 [VAR 187](exos-variables/exos_var187.md)  MOUSE.XR  
+188 [VAR 188](exos-variables/exos_var188.md)  MOUSE.XR  
+189 [VAR 189](exos-variables/exos_var189.md)  MOUSE.XR  
+190 [VAR 190](exos-variables/exos_var190.md)  MOUSE.XR  
+
+199 [EPPLUS_VARS](exos-variables/exos_var199.md) Enterprise Plus  
+200 [VDUMP_RES](exos-variables/exos_var200.md) Enterprise Plus  
+201 [JOY_MOD](exos-variables/exos_var201.md) Enterprise Plus  
+202 [VTPR_FLAG](exos-variables/exos_var202.md) Enterprise Plus  
+203 [DATUM_FLAG](exos-variables/exos_var203.md) Enterprise Plus  
