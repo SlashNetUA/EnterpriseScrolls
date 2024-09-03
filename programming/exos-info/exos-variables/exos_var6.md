@@ -6,7 +6,10 @@ Current keyboard lock status.
 `SET 6, expr`  
 `TOGGLE 6` - **1**↔**2**.
 
-**0**: normal input mode  
+**0**: normal input mode (default)  
 **1**: CAPS input mode  
 **2**: SHIFT input mode  
 **8**: ALT input mode  
+
+Memory address: **49099**
+

@@ -7,3 +7,5 @@ Type of [default device](https://gafz.enterpriseforever.com/Dokumentacio/Konyvek
 
 **0**: non file handling device (eg. **TAPE**)  
 **1**: file handling device (eg. **DISK**) or ep28emu FILEIO device.
+
+Memory address: **49096**

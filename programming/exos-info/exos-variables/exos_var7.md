@@ -7,4 +7,7 @@
 **0**: Key click enabled (default).  
 **255** (**≠0**): Key click disabled.
 
+
+Memory address: **49100**
+
 See also [SET KEY CLICK ON/OFF](../../is-basic/man_mo-key.md)  

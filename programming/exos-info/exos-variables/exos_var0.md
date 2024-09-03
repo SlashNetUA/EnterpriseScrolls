@@ -5,3 +5,6 @@
 **b4** - set to enable video IRQ.  
 **b6** - set to enable external IRQ.  
 **b1**, **b3**, **b5** & **b7** must be zero.
+
+**0**: Default value  
+Memory address: **49093**

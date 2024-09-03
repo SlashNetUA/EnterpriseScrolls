@@ -19,6 +19,8 @@ Defines serial word format.
 
 Bits **4 and upwards** must be **0**.
 
-Default format is **8 bits**, **no parity**, **2 stop bits**. Use of the network will always re-initialise this default.
+Default format is **8 bits**, **no parity**, **2 stop bits** (**0**). Use of the network will always re-initialise this default.
 
-See also [SET SERIAL FORMAT](../is-basic/man_mo-ser-fmt.md).
+Memory address: **49110**
+
+See also [SET SERIAL FORMAT](../../is-basic/man_mo-ser-fmt.md).

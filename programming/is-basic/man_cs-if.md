@@ -45,3 +45,17 @@ END IF
 ```
 
 The **ELSE** and **ELSE IF** lines can be used to break the block into sub-blocks with the usual meanings. **ELSE** may only be used once, but **ELSE IF** can be used as often as needed. Control cannot be transferred from outside to inside of an **IF** block.
+
+----
+
+## Tips
+
+Мы можем использовать инструкцию [IF](man_cs-if.md) для условного присвоения значения, например:  
+
+`IF V=1 THEN LET A=3`
+
+ Существует также более элегантный, но в некоторых случаях вариант предоставления значения времени выполнения на 10 % медленнее, остающийся в рамках предыдущего примера:
+
+`LET A=-3*(V=1)`
+
+Содержимое скобок проверяется системной программой на равенство (истинность). Если это правда, то выражение в скобках логически истинно и получает значение **-1**. Если это не так, то это будет **0**.

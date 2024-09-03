@@ -7,4 +7,7 @@
 **0**: No autorepeat.  
 **30**: Default value.
 
+Memory address: **49104**
+
+
 See also [SET KEY DELAY](../../is-basic/man_mo-key.md)

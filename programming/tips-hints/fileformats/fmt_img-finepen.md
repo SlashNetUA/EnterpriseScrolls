@@ -23,6 +23,9 @@ Other defaults:
 **video_colour** = **2** (16 colour mode)  
 **video_mode** = **1** (hirez)  
 
+File size always **10249** bytes.
+
+
 ## Body
 
 Ordinary [screen dump](fmt_img-screen.md)

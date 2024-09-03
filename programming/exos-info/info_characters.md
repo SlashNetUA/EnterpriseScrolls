@@ -12,12 +12,12 @@
 |  7  |       Ctrl+**G**       |                                  |
 |  8  |       Ctrl+**H**       |                                  |
 |  9  |  Ctrl+**I** / **Tab**  |               Tab                |
-| 10  |       Ctrl+**J**       |                                  |
-| 11  |       Ctrl+**K**       |                                  |
-| 12  |       Ctrl+**L**       |                                  |
+| 10  |       Ctrl+**J**       |               (LF)               |
+| 11  |       Ctrl+**K**       |             (VTTAB)              |
+| 12  |       Ctrl+**L**       |               (FF)               |
 | 13  | Ctrl+**M** / **Enter** |              Enter               |
-| 14  |       Ctrl+**N**       |                                  |
-| 15  |       Ctrl+**O**       |                                  |
+| 14  |       Ctrl+**N**       |               (SO)               |
+| 15  |       Ctrl+**O**       |               (SI)               |
 | 16  |       Ctrl+**P**       |                                  |
 | 17  |       Ctrl+**Q**       |                                  |
 | 18  |       Ctrl+**R**       |                                  |

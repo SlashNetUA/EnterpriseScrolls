@@ -6,7 +6,9 @@
 
 Keyboard auto-repeat rate in **1/50** second.
 
-**3**: Default value.
+**3**: Default value.  
+Memory address: **49103**
+
 
 See also [SET KEY RATE](../../is-basic/man_mo-key.md).
 

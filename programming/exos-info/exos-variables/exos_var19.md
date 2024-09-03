@@ -6,4 +6,7 @@
 
 **0**: Data received on network will cause a software interrupt (default).
 
-See also [SET INTERRUPT NET ON/OFF](../is-basic/man_mo-interrupt.md).
+Memory address: **49112**
+
+
+See also [SET INTERRUPT NET ON/OFF](../../is-basic/man_mo-interrupt.md).

@@ -2,6 +2,8 @@
 
 Below is a list of all the EXOS variables supported by the EXOS kernel and built in devices. More details of their functions can be found in the appropriate device or kernel specifications.
 
+Значение переменных EXOS по умолчанию устанавливается на основе таблицы в начале сегмента 0. На основании этого мы можем использовать POKE вместо SET, PEEK вместо ASK или мы можем читать состояния машины.
+
 0 [IRQ_ENABLE_STATE](exos-variables/exos_var0.md)  
 1 [FLAG_SOFT_IRQ](exos-variables/exos_var1.md)  
 2 [CODE_SOFT_IRQ](exos-variables/exos_var2.md)  

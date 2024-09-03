@@ -7,4 +7,7 @@
 **0** : Tape sound feedthrough enabled (default).  
 **255** (**≠0**): Feedthrough disabled.
 
+Memory address: **49105**
+
+
 See also [SET TAPE SOUND ON/OFF](../../is-basic/man_mo-tape-snd.md)
