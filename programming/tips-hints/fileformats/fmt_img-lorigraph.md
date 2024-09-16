@@ -16,7 +16,7 @@
 | COL5         | 1 byte |      9      | Palette index 5 colour from global set                                                                     |
 | COL6         | 1 byte |     10      | Palette index 6 colour from global set                                                                     |
 | COL7         | 1 byte |     11      | Palette index 7 colour from global set                                                                     |
-| BIAS         | 1 byte |     12      | Bias number in Nick I/O port format                                                                        |
+| BIAS         | 1 byte |     14      | Bias in basic format (See also [IS-Basic manual](../../is-basic/man_vo-bias.md))                           |
 
 See also [global colour palette](http://ep.lgb.hu/colors.html).
 

@@ -60,7 +60,7 @@
 
 ▶ [Easy Load&Play](https://t.me/EP128k_Load_n_Play/682) *(Telegram-канал Vibrant Waves)*  
 💾 [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Squirm_16.rar)  
-[Опис гри]() (угорська)  
+[Опис гри](http://ep128.hu/Ep_Games/Leiras/Squirm16.htm) (угорська)  
 [Тема на форумі enterpriseforever.com](https://enterpriseforever.com/commodore-rol/squirm-16/)  
 
 ## Автори

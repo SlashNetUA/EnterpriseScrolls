@@ -48,6 +48,10 @@
 
 Вихідний код мовою Pascal. Для запуску програм мовою Pascal вихідний код попередньо потрібно відкомпілювати в **.com**-файл. Використовуються з [HiSOFT Pascal](../programming/hisoft-pascal/pr-hspascal.md), Turbo Pascal та ін.
 
+### 4TH
+
+Вихідний код мовою Forth. Використовуються з [IS-Forth](../programming/is-forth/pr-isforth.md).
+
 ### WP
 
 Текстовий документ для вбудованого редактора **WP** (Word Processor).
