@@ -20,3 +20,8 @@
 [Ikon](fileformats/fmt_img-ikon.md)  
 [Spred](fileformats/fmt_img-spred.md)  
 
+# Emulator TAP images
+
+[ep128emu image](fileformats/fmt_tap-ep128emu.md)  
+[EPTE tape image](fileformats/fmt_tap-epte.md)  
+[Tapir tape image](fileformats/fmt_tap-tapir.md)  
