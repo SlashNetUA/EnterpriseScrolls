@@ -11,6 +11,35 @@
 |[JSep](em-jsep.md)|Online|Онлайн емулятор, заснований на емуляторі JSSpeccy
 |Eppe|Win32|В розробці
 
+## FPGA емулятори
+
+[Elan Enterprise FPGA implementation](https://github.com/Kyp069/ep)  
+[Тема на enterpriseforever.com](https://enterpriseforever.com/hardware/enterprise-deployment-attempt-over-fpga/msg89494/#msg89494)
+
+### MiST, MiSTer
+https://github.com/mist-devel/mist-binaries/tree/master/cores/enterprise  
+https://misterfpga.org/viewtopic.php?t=4645  
+https://retrowiki.es/viewtopic.php?f=107&t=200037978&p=200154146#p200154146  
+https://www.atari-forum.com/viewtopic.php?p=441454&hilit=Enterprise#p441454  
+
+
+### ZX-Uno, ZX-Tres
+
+### NeptUNO
+https://retrowiki.es/viewtopic.php?f=107&t=200037978&p=200154146#p200154146
+
+### Unamiga_Reloaded
+https://retrowiki.es/viewtopic.php?f=107&t=200037978&p=200154146#p200154146
+
+### Poseidon
+https://retrowiki.es/viewtopic.php?f=120&t=200039734&hilit=poseidon
+
+### SiDi 64/128
+https://github.com/ManuFerHi/SiDi-FPGA  
+https://github.com/ManuFerHi/SiDi-FPGA/tree/master/Cores/Computer/ElanEnterprise  
+
+### Spectrum Next / N-GO
+
 ## Застарілі емулятори
 
 |Назва|Платформи|Короткий опис|

@@ -1,3 +1,3 @@
-by Gyorgyei Balazs
-by Pear
-MultiJoy
+by Gyorgyei Balazs  
+by Pear  
+MultiJoy  
