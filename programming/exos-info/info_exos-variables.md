@@ -93,3 +93,10 @@ Below is a list of all the EXOS variables supported by the EXOS kernel and built
 201 [JOY_MOD](exos-variables/exos_var201.md) Enterprise Plus  
 202 [VTPR_FLAG](exos-variables/exos_var202.md) Enterprise Plus  
 203 [DATUM_FLAG](exos-variables/exos_var203.md) Enterprise Plus  
+
+200 [CBM 200 (BV)](exos-variables/exos_var200_cbm.md) CBM Multi File Transfer  
+201 [CBM 201 (BV+1)](exos-variables/exos_var201_cbm.md) CBM Multi File Transfer  
+202 [CBM 202 (BV+2)](exos-variables/exos_var202_cbm.md) CBM Multi File Transfer  
+203 [CBM 203 (BV+3)](exos-variables/exos_var203_cbm.md) CBM Multi File Transfer  
+204 [CBM 204 (BV+4)](exos-variables/exos_var204_cbm.md) CBM Multi File Transfer  
+205 [CBM 205 (BV+5)](exos-variables/exos_var205_cbm.md) CBM Multi File Transfer  
