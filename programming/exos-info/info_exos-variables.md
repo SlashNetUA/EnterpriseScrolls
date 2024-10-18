@@ -53,8 +53,8 @@ Below is a list of all the EXOS variables supported by the EXOS kernel and built
 69 [ECHO](exos-variables/exos_var69.md)  
 70 [VERIFY](exos-variables/exos_var70.md)  
 71 [DEF_UNIT](exos-variables/exos_var71.md)  
-72 [STEP_RATE](exos-variables/exos_var72.md)  
-73
+72 [BOOT DRV](exos-variables/exos_var72.md)  
+73 [STEP_RATE](exos-variables/exos_var73.md)  
 74 [DSK_CHK](exos-variables/exos_var74.md)  
 75 [IN_ERROR](exos-variables/exos_var75.md)  
 76 [OUT_ERROR](exos-variables/exos_var76.md)  
