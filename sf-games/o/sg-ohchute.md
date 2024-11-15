@@ -29,7 +29,7 @@
 ### Основні [елементи керування](../controllers.md):
 ⌨ Клавіатура (`O`, `P`, `Space`)  
 🕹 Вбудований джойстик  
-🕹 Зовнішній джойстик 1/2  
+🎮 Зовнішній джойстик 1/2  
 
 `↔️`: Керування під час спуску (тільки коли розкритий парашут)  
 `Fire`, `Space`: Вистрибнути / Розкрити парашут  
@@ -40,15 +40,16 @@
 
 ▶ [Easy Load&Play](https://t.me/EP128k_Load_n_Play/678) *(Telegram-канал Vibrant Waves)*  
 💾 [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Oh_Chute.rar)  
-[Опис гри](http://www.ep128.hu/Ep_Games/Leiras/OhChute.htm) (угорська)  
-[Тема на форумі enterpriseforever.com](https://enterpriseforever.com/cpc-rl/oh-chute!/)  
+📃 [Опис гри](http://www.ep128.hu/Ep_Games/Leiras/OhChute.htm) (угорська)  
+🗨 [Тема на форумі enterpriseforever.com](https://enterpriseforever.com/cpc-rl/oh-chute!/)  
+🏡 [Домашня сторінка гри](https://cwiiis.itch.io/oh-chute)
 
 ## Автори
 ### Оригінальний реліз
-Платформа: [Amstrad CPC+](https://www.cpc-power.com//index.php?page=detail&num=19279)  
-Розробники: Chris Lord, Laura Nailor  
-Рік релізу: 2024  
+🖥 Платформа: [Amstrad CPC+](https://www.cpc-power.com//index.php?page=detail&num=19279)  
+👨‍💻 Розробники: Chris Lord, Laura Nailor  
+📅 Рік релізу: 2024  
 
 ### Версія гри для Enterprise
-Портування: [Geco](../../community/geco.md)  
-Рік релізу: 2024
+👨‍💻 Портування: [Geco](../../community/geco.md)  
+📅 Рік релізу: 2024

@@ -41,7 +41,7 @@
 ### Основні [елементи керування](../controllers.md):
 ⌨ Клавіатура (`Q`, `A`, `O`, `P`, `Space`)  
 🕹 Вбудований джойстик + `Enter`  
-🕹 Зовнішній джойстик 1/2
+🎮 Зовнішній джойстик 1/2
 
 `Fire` (під час руху): Зупинитись
 
@@ -60,20 +60,20 @@
 
 ▶ [Easy Load&Play](https://t.me/EP128k_Load_n_Play/682) *(Telegram-канал Vibrant Waves)*  
 💾 [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Squirm_16.rar)  
-[Опис гри](http://ep128.hu/Ep_Games/Leiras/Squirm16.htm) (угорська)  
-[Тема на форумі enterpriseforever.com](https://enterpriseforever.com/commodore-rol/squirm-16/)  
+📃 [Опис гри](http://ep128.hu/Ep_Games/Leiras/Squirm16.htm) (угорська)  
+🗨 [Тема на форумі enterpriseforever.com](https://enterpriseforever.com/commodore-rol/squirm-16/)  
 
 ## Автори
 ### Оригінальний реліз
-Платформа: [Commodore 64](https://www.lemon64.com/game/squirm)  
-Програмісти: Tony Kelly  
-Рік релізу: 1984  
+🖥 Платформа: [Commodore 64](https://www.lemon64.com/game/squirm)  
+👨‍💻 Програмісти: Tony Kelly  
+📅 Рік релізу: 1984  
 
 ### Версія гри для [Commodore 16 Plus/4](https://plus4world.powweb.com/software/Squirm_16)
-Портування: Gaia, Csabo  
-Дата релізу: 23.10.2020
+👨‍💻 Портування: Gaia, Csabo  
+📅 Дата релізу: 23.10.2020
 
 ### Версія гри для Enterprise
-Портування: [Geco](../../community/geco.md)  
-Додаткові рівні та музика: [Szipucsu](../../community/szipucsu.md)  
-Рік релізу: 2024
+👨‍💻 Портування: [Geco](../../community/geco.md)  
+👨‍💻 Додаткові рівні та музика: [Szipucsu](../../community/szipucsu.md)  
+📅 Рік релізу: 2024

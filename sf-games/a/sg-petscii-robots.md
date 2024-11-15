@@ -42,7 +42,7 @@
 Пересування:  
 ⌨ Клавіатура (`I`, `J`, `K`, `L`)  
 🕹 Вбудований джойстик   
-🕹 Зовнішній джойстик 1/2  
+🎮 Зовнішній джойстик 1/2  
 
 `W` ,`S`, `A`, `D`: Здійснити постріл у відповідному напрямку *(при наявності зброї)*  
 `Space`, `Fire`: Використати обладнання  
@@ -72,16 +72,16 @@
 ▶ [Easy Load&Play](https://t.me/EP128k_Load_n_Play/419) *(Telegram-канал Vibrant Waves)*    
 💾 [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Attack_of_the_PETSCII_Robots.rar)    
 💾 [Завантажити гру («Плюс» версія)](http://www.ep128.hu/Ep_Games/Prg/Attack_of_the_PETSCII_Robots_Plus.rar)    
-[Опис гри](http://www.ep128.hu/Ep_Games/Leiras/Attack_of_the_PETSCII_Robots.htm) (угорська)    
-[Тема на форумі enterpriseforever.com](https://enterpriseforever.com/commodore-rol/attack-of-the-petscii-robots/)    
-[Домашня сторінка гри](https://www.the8bitguy.com/25753/petscii-robot-shareware-available)  
+📃 [Опис гри](http://www.ep128.hu/Ep_Games/Leiras/Attack_of_the_PETSCII_Robots.htm) (угорська)    
+🗨 [Тема на форумі enterpriseforever.com](https://enterpriseforever.com/commodore-rol/attack-of-the-petscii-robots/)    
+🏡 [Домашня сторінка гри](https://www.the8bitguy.com/25753/petscii-robot-shareware-available)  
 
 ## Автори
 ### Оригінальний реліз
-Платформа: [Commdore PET / Commodore 64]  
-Автор: David Murray (The 8-Bit Guy)  
-Рік релізу: 2021  
+🖥 Платформа: [Commdore PET / Commodore 64]  
+👨‍💻 Автор: David Murray (The 8-Bit Guy)  
+📅 Рік релізу: 2021  
 
 ### Версія гри для Enterprise
-Портування: [Geco](../../community/geco.md)    
-Рік релізу: 2023  
+👨‍💻 Портування: [Geco](../../community/geco.md)    
+📅 Рік релізу: 2023  

@@ -37,7 +37,7 @@
 ### Основні [елементи керування](../controllers.md): 
 ⌨ Клавіатура (`Q`, `A`, `O`, `P`, `M`) (можливість перевизначення)  
 🕹 Вбудований джойстик + `0` (можливість перевизначення)  
-🕹 Зовнішній джойстик 1/2  
+🎮 Зовнішній джойстик 1/2  
 
 `Space`: Призупинити гру
 
@@ -49,15 +49,15 @@
 
 ▶ [Easy Load&Play](https://t.me/EP128k_Load_n_Play/738) *(Telegram-канал Vibrant Waves)*  
 💾 [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Hyper_Active.rar)  
-[Опис гри](http://www.ep128.hu/Games/Hyper_Active.htm) (угорська)  
-[Тема на форумі enterpriseforever.com](https://enterpriseforever.com/spectrum-rol/hyperactive/)  
+📃 [Опис гри](http://www.ep128.hu/Games/Hyper_Active.htm) (угорська)  
+🗨 [Тема на форумі enterpriseforever.com](https://enterpriseforever.com/spectrum-rol/hyperactive/)  
 
 ## Автори
 ### Оригінальний реліз
-Платформа: [ZX Spectrum](https://spectrumcomputing.co.uk/entry/2413/ZX-Spectrum/Hyper_Active)  
-Розробник: Special FX Software Ltd  
-Рік релізу: 1988  
+🖥 Платформа: [ZX Spectrum](https://spectrumcomputing.co.uk/entry/2413/ZX-Spectrum/Hyper_Active)  
+👨‍💻 Розробник: Special FX Software Ltd  
+📅 Рік релізу: 1988  
 
 ### Версія гри для Enterprise
-Портування: [PJV](../../community/pjv.md)  
-Рік релізу: 2024
+👨‍💻 Портування: [PJV](../../community/pjv.md)  
+📅 Рік релізу: 2024
