@@ -1,4 +1,4 @@
-# Hyper Action
+# Hyper Active
 
 | | | | |
 | --- | --- | --- | --- |
