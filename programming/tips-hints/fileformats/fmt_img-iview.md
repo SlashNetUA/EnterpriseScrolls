@@ -6,4 +6,5 @@
 | ---------------- | -------- |:-----------:| ---------------------------------------------------------------------------------------------------------- |
 | EXOS module type | 2 bytes  |      0      | `00 49`                                                                                                    |
 
-(ToDo)
+
+[Enterprise Wiki](https://wiki.enterpriseforever.com/index.php?title=En:Epimgconv#Description_of_the_EPimgconv.2FIVIEW_file_format)

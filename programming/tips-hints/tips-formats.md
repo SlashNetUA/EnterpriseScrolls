@@ -17,6 +17,7 @@
 [Agsys](fileformats/fmt_img-agsys.md)  
 [AP](fileformats/fmt_img-ap.md)  
 [ArtStudio](fileformats/fmt_img-artstudio.md)  
+[MagicPen](fileformats/fmt_img-magicpen.md)  
 [Ikon](fileformats/fmt_img-ikon.md)  
 [Spred](fileformats/fmt_img-spred.md)  
 

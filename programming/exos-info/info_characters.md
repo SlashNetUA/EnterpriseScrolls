@@ -10,12 +10,12 @@
 |  5  |       Ctrl+**E**       |                                  |
 |  6  |       Ctrl+**F**       |                                  |
 |  7  |       Ctrl+**G**       |                                  |
-|  8  |       Ctrl+**H**       |                                  |
-|  9  |  Ctrl+**I** / **Tab**  |               Tab                |
-| 10  |       Ctrl+**J**       |               (LF)               |
-| 11  |       Ctrl+**K**       |             (VTTAB)              |
+|  8  |       Ctrl+**H**       |          (Cursor left)           |
+|  9  |  Ctrl+**I** / **Tab**  |        Tab (Cursor right)        |
+| 10  |       Ctrl+**J**       |           (Line feed)            |
+| 11  |       Ctrl+**K**       |       (VTTAB) (Cursor up)        |
 | 12  |       Ctrl+**L**       |               (FF)               |
-| 13  | Ctrl+**M** / **Enter** |              Enter               |
+| 13  | Ctrl+**M** / **Enter** |     Enter (Carriage return)      |
 | 14  |       Ctrl+**N**       |               (SO)               |
 | 15  |       Ctrl+**O**       |               (SI)               |
 | 16  |       Ctrl+**P**       |                                  |
@@ -24,15 +24,15 @@
 | 19  |       Ctrl+**S**       |                                  |
 | 20  |       Ctrl+**T**       |                                  |
 | 21  |       Ctrl+**U**       |                                  |
-| 22  |       Ctrl+**V**       |                                  |
+| 22  |       Ctrl+**V**       |          (Cursor down)           |
 | 23  |       Ctrl+**W**       |                                  |
 | 24  |       Ctrl+**X**       |                                  |
 | 25  |       Ctrl+**Y**       |                                  |
-| 26  |       Ctrl+**Z**       |                                  |
+| 26  |       Ctrl+**Z**       |          (Clear screen)          |
 | 27  | Ctrl+**\[** / **Esc**  |               Esc                |
 | 28  |      Ctrl+**\\**       |                                  |
 | 29  |      Ctrl+**\]**       |                                  |
-| 30  |       Ctrl+**^**       |                                  |
+| 30  |       Ctrl+**^**       |          (Cursor home)           |
 | 31  |       Ctrl+**0**       |                                  |
 | 32  |       **Space**        |                                  |
 | 33  |      Shift+**1**       |               `!`                |
@@ -250,7 +250,7 @@
 | 245 |      Ctrl+**F6**       |        Move paragraph up         |
 | 246 |      Ctrl+**F7**       |        Change line colour        |
 | 247 |      Ctrl+**F8**       |                                  |
-| 248 |       Alt+**F1**       | Justify and</br>reform paragraph |
+| 248 |       Alt+**F1**       |   Justify and reform paragraph   |
 | 249 |       Alt+**F2**       |       Clear all tab stops        |
 | 250 |       Alt+**F3**       |       Show/hide ruler line       |
 | 251 |       Alt+**F4**       |         Set right margin         |

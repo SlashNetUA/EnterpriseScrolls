@@ -7,5 +7,6 @@
 Ігри для емуляторів [SPEmu (ZX48k)](../zxemu/games-zx48.md) - [SPEmu128 (ZX128k)](../zxemu/games-zx128.md) - [CPCEmu (AmstradCPC)](../cpcemu/games-cpc.md) - [ZX81Emu (ZX81)](../zx81emu/games-zx81.md) - [TVCEmu (VideotonTVC)](../tvcemu/games-tvc.md) - [VIC20Emu (Commodore VIC-20)](../vic20emu/games-vic20.md)
 
 ----------
+[Space Invaders Arcade](sg-spaceinvaders-arcade.md) (Classic and Plus versions)  
 [Squirm 16](sg-squirm16.md)  
-[Squirm C16 original](sg-squirmc16.md)
+[Squirm C16 original](sg-squirmc16.md)  
