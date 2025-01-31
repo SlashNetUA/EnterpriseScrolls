@@ -8,7 +8,7 @@
 [VIC20Emu](se-vic20emu.md) (емуляція Commodore VIC-20)  
 [EP-Primo](se-primo.md) (емуляція Primo)  
 [SP 2.1](se-sp21.md) (емуляція Sinclair ZX Spectrum 48)  
-[Старі емулятори ZX Spectrum](se-oldzxemu.md)  
+
 
 ## Апаратні емулятори
 [ZX Spectrum Emulator](../hardware/he-zxemu.md)  
