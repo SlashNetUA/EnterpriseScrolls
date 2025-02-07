@@ -1,12 +1,12 @@
 # IS-Basic file
 
-[Tokenised BAS file](fileformats/fmt_is-basic.md)
+[Tokenised BAS file (.bas)](fileformats/fmt_is-basic.md)
 
 # Graphical files
 
 [Headerless screen dump](fileformats/fmt_img-screen.md)
 
-[IView](fileformats/fmt_img-iview.md)  
+[IView (.pic)](fileformats/fmt_img-iview.md)  
 [VSave/VLoad](fileformats/fmt_img-vsave-vload.md)  
 [VS/VL from ZozoTools](fileformats/fmt_img-vs-vl.md)  
 [PaintBox](fileformats/fmt_img-paintbox.md)  
@@ -21,8 +21,11 @@
 [Ikon](fileformats/fmt_img-ikon.md)  
 [Spred](fileformats/fmt_img-spred.md)  
 
+# Audio files
+[Enterprise MIDI (.epm)](fileformats/fmt_snd-epmidi.md)
+
 # Emulator TAP images
 
-[ep128emu image](fileformats/fmt_tap-ep128emu.md)  
-[EPTE tape image](fileformats/fmt_tap-epte.md)  
-[Tapir tape image](fileformats/fmt_tap-tapir.md)  
+[ep128emu image (.tap)](fileformats/fmt_tap-ep128emu.md)  
+[EPTE tape image (.tap)](fileformats/fmt_tap-epte.md)  
+[Tapir tape image (.tap)](fileformats/fmt_tap-tapir.md)  

@@ -19,20 +19,18 @@ http://ep128.hu/Ep_Util/SPEmu.htm
 
 Підтримка аудіопристроїв:
  - біпер
- - генератор звуку AY (тільки у **SPEmu128**)
+ - генератор звуку AY (стерео або моно) (тільки у **SPEmu128**)
 
 Підтримка пристроїв введення:
 
-| ZX Spectrum         | Enterprise                                                                                   |                       |
-| ------------------- | -------------------------------------------------------------------------------------------- | --------------------- |
-| Cursor Joystick     | [Internal Joystick](../sf-games/controllers.md)                                              |                       |
-| Sinclair Joystick 1 | [External Joystick 1](../sf-games/controllers.md)                                            |                       |
-| Sinclair Joystick 2 | [External Joystick 2](../sf-games/controllers.md)                                            |                       |
-| Kempston Mouse      | [EnterMice](../hardware/mouse-entermice.md) чи [BoxSoft Mouse](../hardware/mouse-boxsoft.md) | тільки у **SPEmu128** |
+ - Cursor Joystick: [Internal Joystick](../sf-games/controllers.md)
+ - Sinclair Joystick 1: [External Joystick 1](../sf-games/controllers.md)
+ - Sinclair Joystick 2: [External Joystick 2](../sf-games/controllers.md)
+ - Kempston Mouse: [EnterMice](../hardware/mouse-entermice.md) чи [BoxSoft Mouse](../hardware/mouse-boxsoft.md) (тільки у **SPEmu128**)
 
 |                         SPEmu                          |                         SPEmu128                          |
 |:------------------------------------------------------:|:---------------------------------------------------------:|
-| ![вікно емуляції SPEmu](screenshots/scrn_spemu_01.png) | ![вікно емуляції SPEmu128](screenshots/scrn_sp128_01.png) |
+| ![екран емуляції SPEmu](screenshots/scrn_spemu_01.png) | ![екран емуляції SPEmu128](screenshots/scrn_sp128_01.png) |
 |  ![головне меню SPEmu](screenshots/scrn_spemu_02.png)  |  ![головне меню SPEmu128](screenshots/scrn_sp128_02.png)  |
 
 ## Системні вимоги:
