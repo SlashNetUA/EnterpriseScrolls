@@ -8,4 +8,5 @@
 
 ----------
 
-[Magic Tower](sg-magictower.md)
+[Magic Tower](sg-magictower.md)  
+[Monty on the Run](sg-montyontherun.md)
