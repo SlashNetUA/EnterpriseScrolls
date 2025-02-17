@@ -91,6 +91,20 @@ Relational operators:
 |BAND|binary logical AND
 |BOR|binary logical OR
 
+`1100`
+BAND
+`1010`
+\=
+`1000`
+
+`1100`
+BOR
+`1010`
+\=
+`1110`
+
+
+
 ## ABBREVIATIONS
 
 The following abbreviations are used in this reference:
