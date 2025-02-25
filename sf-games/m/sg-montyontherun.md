@@ -40,5 +40,5 @@
 📅 Рік релізу: 1985  
 
 ### Версія гри для Enterprise
-👨‍💻 Портування: [Doberdo Brothers](../../community/doberdo-bros.md)  
+👨‍💻 Портування: [Doberdo Brothers](../../community/doberdo_brothers.md)  
 📅 Рік релізу: 2025
