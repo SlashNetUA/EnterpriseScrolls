@@ -2,7 +2,7 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|![screen1](screenshots/scrn_petscii-robots_1.png)|![screen2](screenshots/scrn_petscii-robots_2.png)|![screen3](screenshots/scrn_petscii-robots_3.png)|![screen4](screenshots/scrn_petscii-robots_4.png)|
+|![screen1](screenshots/scrn_petscii-robots_01.png)|![screen2](screenshots/scrn_petscii-robots_02.png)|![screen3](screenshots/scrn_petscii-robots_03.png)|![screen4](screenshots/scrn_petscii-robots_04.png)|
 
 Жанр: аркада, пригода, стратегія  
 Кількість гравців: 1  
@@ -80,10 +80,10 @@
 
 ## Автори
 ### Оригінальний реліз
-🖥 Платформа: [Commdore PET / Commodore 64]  
+🖥 Платформа: [Commodore PET / Commodore 64]  
 👨‍💻 Автор: David Murray (The 8-Bit Guy)  
 📅 Рік релізу: 2021  
 
 ### Версія гри для Enterprise
 👨‍💻 Портування: [Geco](../../community/geco.md)    
-📅 Рік релізу: 2023  
+📅 Рік релізу: [2023](../release_years/2023.md)  

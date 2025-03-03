@@ -79,4 +79,4 @@ https://www.arcade-history.com/?n=space-invaders&page=detail&id=2537
 
 ### Версія гри для Enterprise
 👨‍💻 Портування: [Geco](../../community/geco.md)  
-📅 Рік релізу: 2024
+📅 Рік релізу: [2024](../release_years/2024.md)
