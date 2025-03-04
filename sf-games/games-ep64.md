@@ -9,6 +9,15 @@
 ----------
 [Aerial](a/sg-aerial.md)  
 [AntiAir](a/sg-antiair.md)  
+[Ascend](a/sg-ascend.md)  
+
+[Battlot](b/sg-battlot.md)  
+[Bootskell](b/sg-bootskell.md)  
+
+[Cacorm](c/sg-cacorm.md)  
+[Cavit](c/sg-cavit.md)  
+[Cracky](c/sg-cracky.md)  
+
 
 [Hyper Active](h/sg-hyperactive.md)  
 

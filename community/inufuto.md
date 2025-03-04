@@ -11,11 +11,11 @@
 
 [Aerial](../sf-games/a/sg-aerial.md)  
 [AntiAir](../sf-games/a/sg-antiair.md)  
-
-
-
-
-
-
+[Ascend](../sf-games/a/sg-ascend.md)  
+[Battlot](../sf-games/b/sg-battlot.md)  
+[Bootskell](../sf-games/b/sg-bootskell.md)  
+[Cacorm](../sf-games/c/sg-cacorm.md)  
+[Cavit](../sf-games/c/sg-cavit.md)  
+[Cracky](../sf-games/c/sg-cracky.md)  
 
 

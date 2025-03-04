@@ -68,6 +68,7 @@
 | Arnhem                                                                                |          стратегія          |          |              ZX Spectrum               |
 | Artura                                                                                |       аркада, пригода       |          |              ZX Spectrum               |
 | Ashby Manor                                                                           |      текстова пригода       | IS-Basic |               Enterprise               |
+| [Ascend](sg-ascend.md)                                                                           |      аркада, логiка       | |               Enterprise               |
 | Asterix and the Magic Cauldron                                                        |       аркада, пригода       |          |              ZX Spectrum               |
 | Astro Blaster                                                                         |        аркада, екшн         |          |              ZX Spectrum               |
 | ATF (Advanced Tactical Fighter)                                                       |        авіасимулятор        |          |              Amstrad CPC               |
