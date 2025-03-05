@@ -34,7 +34,7 @@
 
 ## Посилання
 
-▶ [Easy Load&Play]() *(Telegram-канал Vibrant Waves)*  
+▶ [Easy Load&Play](https://t.me/EP128k_Load_n_Play/845) *(Telegram-канал Vibrant Waves)*  
 💾 [Завантажити гру]()  
 🏡 [Домашня сторінка гри](http://inufuto.web.fc2.com/8bit/yewdow/#ep64)
 
