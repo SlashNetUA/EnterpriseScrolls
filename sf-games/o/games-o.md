@@ -9,3 +9,4 @@
 ----------
 
 [Oh Chute!](sg-ohchute.md)  
+[Osotos](sg-osotos.md)  

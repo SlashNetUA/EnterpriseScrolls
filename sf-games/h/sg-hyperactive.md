@@ -2,7 +2,7 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|![screen1](screenshots/scrn_hyperactive_1.png)|![screen2](screenshots/scrn_hyperactive_2.png)|![screen3](screenshots/scrn_hyperactive_3.png)|![screen4](screenshots/scrn_hyperactive_4.png)|
+|![screen1](screenshots/scrn_hyperactive_01.png)|![screen2](screenshots/scrn_hyperactive_02.png)|![screen3](screenshots/scrn_hyperactive_03.png)|![screen4](screenshots/scrn_hyperactive_04.png)|
 
 Жанр: аркада, Scrollshooter  
 Кількість гравців: 1

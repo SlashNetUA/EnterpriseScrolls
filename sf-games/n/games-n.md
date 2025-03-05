@@ -8,4 +8,5 @@
 
 ----------
 
+[Neuras](sg-neuras.md)  
 [Nu, Pogodi!](sg-nupogodi.md) / [Ну, погоди!](sg-nupogodi.md)  

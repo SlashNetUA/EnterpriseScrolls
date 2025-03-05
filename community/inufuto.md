@@ -17,5 +17,13 @@
 [Cacorm](../sf-games/c/sg-cacorm.md)  
 [Cavit](../sf-games/c/sg-cavit.md)  
 [Cracky](../sf-games/c/sg-cracky.md)  
-
-
+[Guntus](../sf-games/g/sg-guntus.md)  
+[Hopman](../sf-games/h/sg-hopman.md)  
+[Impetus](../sf-games/i/sg-impetus.md)  
+[Lift](../sf-games/l/sg-lift.md)  
+[Mazy](../sf-games/m/sg-mazy.md)  
+[Mieyen](../sf-games/m/sg-mieyen.md)  
+[Neuras](../sf-games/n/sg-neuras.md)  
+[Osotos](../sf-games/o/sg-osotos.md)  
+[Ruptus](../sf-games/r/sg-ruptus.md)  
+[Yewdow](../sf-games/y/sg-yewdow.md)  

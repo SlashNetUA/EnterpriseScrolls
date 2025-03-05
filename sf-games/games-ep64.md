@@ -18,11 +18,27 @@
 [Cavit](c/sg-cavit.md)  
 [Cracky](c/sg-cracky.md)  
 
+[Guntus](g/sg-guntus.md)  
 
+[Hopman](h/sg-hopman.md)  
 [Hyper Active](h/sg-hyperactive.md)  
 
+[Impetus](i/sg-impetus.md)
+
+[Lift](l/sg-lift.md)  
+
+[Mazy](m/sg-mazy.md)  
+[Mieyen](m/sg-mieyen.md)  
+
+[Neuras](n/sg-neuras.md)  
 [Nu, Pogodi!](n/sg-nupogodi.md) / [Ну, постривай!](n/sg-nupogodi.md)
+
+[Osotos](o/sg-osotos.md)  
+
+[Ruptus](r/sg-ruptus.md)  
 
 [Space Invaders Arcade](s/sg-spaceinvaders-arcade.md)  
 [Squirm 16](s/sg-squirm16.md)  
-[Squirm C16 original](s/sg-squirmc16.md)
+[Squirm C16 original](s/sg-squirmc16.md)  
+
+[Yewdow](y/sg-yewdow.md)  
