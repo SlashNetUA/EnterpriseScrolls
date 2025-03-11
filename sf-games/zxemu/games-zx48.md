@@ -4,6 +4,19 @@
 
 Ігри для систем [IS-DOS](../games-is-dos.md) - [SymbOS](../games-symbos.md) - [EDC Windows](../games-edcw.md)
 
-Ігри для емуляторів [SPEmu (ZX48k)](../zxemu/games-zx48.md) - [SPEmu128 (ZX128k)](../zxemu/games-zx128.md) - [CPCEmu (AmstradCPC)](../cpcemu/games-cpc.md) - [ZX81Emu (ZX81)](../zx81emu/games-zx81.md) - [TVCEmu (VideotonTVC)](../tvcemu/games-tvc.md) - [VIC20Emu (Commodore VIC-20)](../vic20emu/games-vic20.md)
+Ігри для емуляторів [ZX Spectrum 48k](zxemu/games-zx48.md) - [ZX Spectrum 128k](zxemu/games-zx128.md) - [Amstrad CPC](cpcemu/games-cpc.md) - [Sinclair ZX81](zx81emu/games-zx81.md) - [Videoton TVC](tvcemu/games-tvc.md) - [Commodore VIC-20](vic20emu/games-vic20.md)
 
 ----------
+
+Для емуляції програмного забезпечення з платформи ZX Spectrum 48k можна використовувати наступні емулятори: 
+
+ - [SPEmu](../../software/se-spemu.md) - сучасний (завантаження з оригінальних касет, образів стрічок TAP та снепшотів SNA; введення POKE; Sinclair джойстики)
+ - [SP2](../../software/se-sp2.md) - старий, але деякі ігри емулюються лише у ньому та є підтримка Kepmston джойстика. Завантаження лише з оригінальних касет або снепшотів власного формату.
+
+⚠ "**ROM**" в колонці SPEmu вказує на те що гра працює тільки у ПЗП-версії емулятора.
+
+| Назва гри                             | SPEmu | SP2 |
+| ------------------------------------- |:-----:|:---:|
+| [Dizzy 1: Extended](sg-dizzy1-ext.md) |  ✅   | ✅  |
+| Dizzy 2: Extended                     |  ✅   | ✅  |
+|                                       |       |     |
