@@ -5,7 +5,9 @@
 |![screen1](screenshots/scrn_ohchute_01.png)|![screen2](screenshots/scrn_ohchute_02.png)|![screen3](screenshots/scrn_ohchute_03.png)|![screen4](screenshots/scrn_ohchute_04.png)|
 
 Жанр: аркада  
-Кількість гравців: 1-2 (по черзі)
+Кількість гравців: 1-2 (по черзі)  
+Мова гри: англійська  
+
 
 ## Опис
 

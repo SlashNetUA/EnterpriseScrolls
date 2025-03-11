@@ -5,7 +5,9 @@
 |![screen1](screenshots/scrn_cavit_01.png)|![screen2](screenshots/scrn_cavit_02.png)|![screen3](screenshots/scrn_cavit_03.png)|![screen4](screenshots/scrn_cavit_04.png)|
 
 Жанр: аркада  
-Кількість гравців: 1
+Кількість гравців: 1  
+Мова гри: англійська  
+
 
 ## Опис
 

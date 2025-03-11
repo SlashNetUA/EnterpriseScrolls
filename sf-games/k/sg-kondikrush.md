@@ -5,7 +5,9 @@
 |![screen1](screenshots/scrn_kondikrush_01.png)|![screen2](screenshots/scrn_kondikrush_02.png)|![screen3](screenshots/scrn_kondikrush_03.png)|![screen4](screenshots/scrn_kondikrush_04.png)|
 
 Жанр: три в ряд, тайм-кіллер  
-Кількість гравців: 1
+Кількість гравців: 1  
+Мова гри: англійська  
+
 
 ## Опис
 

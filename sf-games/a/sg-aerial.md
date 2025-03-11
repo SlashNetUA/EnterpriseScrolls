@@ -5,7 +5,8 @@
 |![screen1](screenshots/scrn_aerial_01.png)|![screen2](screenshots/scrn_aerial_02.png)|![screen3](screenshots/scrn_aerial_03.png)|![screen4](screenshots/scrn_aerial_04.png)|
 
 Жанр: аркада, скролшутер  
-Кількість гравців: 1
+Кількість гравців: 1  
+Мова гри: англійська  
 
 ## Опис
 

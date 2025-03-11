@@ -5,7 +5,9 @@
 |![screen1](screenshots/scrn_spaceinvaders-arcade_1.png)|![screen2](screenshots/scrn_spaceinvaders-arcade_2.png)|![screen3](screenshots/scrn_spaceinvaders-arcade_3.png)|![screen4](screenshots/scrn_spaceinvaders-arcade_4.png)|
 
 Жанр: аркада  
-Кількість гравців: 1-2 (по черзі)
+Кількість гравців: 1-2 (по черзі)  
+Мова гри: англійська  
+
 
 ## Опис
 

@@ -18,5 +18,5 @@
 | Назва гри                             | SPEmu | SP2 |
 | ------------------------------------- |:-----:|:---:|
 | [Dizzy 1: Extended](sg-dizzy1-ext.md) |  ✅   | ✅  |
-| Dizzy 2: Extended                     |  ✅   | ✅  |
+| [Dizzy 2: Extended](sg-dizzy2-ext.md) |  ❌   | ✅  |
 |                                       |       |     |

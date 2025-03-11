@@ -5,7 +5,9 @@
 |![screen1](screenshots/scrn_mazy_01.png)|![screen2](screenshots/scrn_mazy_02.png)|![screen3](screenshots/scrn_mazy_03.png)|![screen4](screenshots/scrn_mazy_04.png)|
 
 Жанр: аркада, лабіринт  
-Кількість гравців: 1
+Кількість гравців: 1  
+Мова гри: англійська  
+
 
 ## Опис
 

@@ -5,7 +5,9 @@
 |![screen1](screenshots/scrn_magictower_1.png)|![screen2](screenshots/scrn_magictower_2.png)|![screen3](screenshots/scrn_magictower_3.png)|![screen4](screenshots/scrn_magictower_4.png)|
 
 Жанр: аркада, платформер
-Кількість гравців: 1
+Кількість гравців: 1  
+Мова гри: англійська  
+
 
 ## Опис
 

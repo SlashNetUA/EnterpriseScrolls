@@ -5,7 +5,9 @@
 |![screen1](screenshots/scrn_squirmc16_1.png)|![screen2](screenshots/scrn_squirmc16_2.png)|![screen3](screenshots/scrn_squirmc16_3.png)|![screen4](screenshots/scrn_squirmc16_4.png)|
 
 Жанр: аркада, PacMan-like  
-Кількість гравців: 1-2 (по черзі)
+Кількість гравців: 1-2 (по черзі)  
+Мова гри: англійська  
+
 
 ## Опис
 

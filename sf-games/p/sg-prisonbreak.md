@@ -5,7 +5,9 @@
 |![screen1](screenshots/scrn_prisonbreak_01.png)|![screen2](screenshots/scrn_prisonbreak_02.png)|![screen3](screenshots/scrn_prisonbreak_03.png)|![screen4](screenshots/scrn_prisonbreak_04.png)|
 
 Жанр: пригода, лабіринт  
-Кількість гравців: 1
+Кількість гравців: 1  
+Мова гри: англійська  
+
 
 ## Опис
 

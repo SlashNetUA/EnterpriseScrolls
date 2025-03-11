@@ -5,7 +5,9 @@
 |![screen1](screenshots/scrn_valleyofrains_1.png)|![screen2](screenshots/scrn_valleyofrains_2.png)|![screen3](screenshots/scrn_valleyofrains_3.png)|![screen4](screenshots/scrn_valleyofrains_4.png)|
 
 Жанр: екшн  
-Кількість гравців: 1
+Кількість гравців: 1  
+Мова гри: англійська  
+
 
 ## Опис
 

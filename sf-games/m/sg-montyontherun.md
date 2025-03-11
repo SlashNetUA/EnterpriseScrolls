@@ -5,7 +5,9 @@
 |![screen1](screenshots/scrn_montyontherun_01.png)|![screen2](screenshots/scrn_montyontherun_02.png)|![screen3](screenshots/scrn_montyontherun_03.png)|![screen4](screenshots/scrn_montyontherun_04.png)|
 
 Жанр: аркада, пригода  
-Кількість гравців: 1
+Кількість гравців: 1  
+Мова гри: англійська  
+
 
 ## Опис
 

@@ -5,7 +5,9 @@
 |![screen1](screenshots/scrn_ruptus_01.png)|![screen2](screenshots/scrn_ruptus_02.png)|![screen3](screenshots/scrn_ruptus_03.png)|![screen4](screenshots/scrn_ruptus_04.png)|
 
 Жанр: аркада, скролшутер  
-Кількість гравців: 1
+Кількість гравців: 1  
+Мова гри: англійська  
+
 
 ## Опис
 
