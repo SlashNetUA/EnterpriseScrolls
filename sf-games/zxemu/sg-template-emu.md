@@ -78,7 +78,7 @@
 Нескінченність часу (**Так**/**Ні**)
 
 ### Додаткові файли:
-🗺 [Мапа](https://t.me/EP128k_Load_n_Play/678)  
+🗺 [Мапа гри](https://t.me/EP128k_Load_n_Play/678)  
 
 ### Відеопроходження:
 [![video](https://img.youtube.com/vi/1YNSxdI-ZT0/0.jpg)](https://www.youtube.com/watch?v=1YNSxdI-ZT0)
