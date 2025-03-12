@@ -4,7 +4,7 @@
 
 Ігри для систем [IS-DOS](../games-is-dos.md) - [SymbOS](../games-symbos.md) - [EDC Windows](../games-edcw.md)
 
-Ігри для емуляторів [ZX Spectrum 48k](zxemu/games-zx48.md) - [ZX Spectrum 128k](zxemu/games-zx128.md) - [Amstrad CPC](cpcemu/games-cpc.md) - [Sinclair ZX81](zx81emu/games-zx81.md) - [Videoton TVC](tvcemu/games-tvc.md) - [Commodore VIC-20](vic20emu/games-vic20.md)
+Ігри для емуляторів [ZX Spectrum 48k/128k](zxemu/games-zxemu.md) - [Amstrad CPC](cpcemu/games-cpc.md) - [Sinclair ZX81](zx81emu/games-zx81.md) - [Videoton TVC](tvcemu/games-tvc.md) - [Commodore VIC-20](vic20emu/games-vic20.md)
 
 ----------
 [Space Invaders Arcade](sg-spaceinvaders-arcade.md) (Classic and Plus versions)  
