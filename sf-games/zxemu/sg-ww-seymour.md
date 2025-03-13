@@ -45,6 +45,11 @@
 ### Додаткові файли:
 🗺 [Мапа гри](https://maps.speccy.cz/maps/Seymour3.png)
 
+### Коди рівней:
+Акт 2: `21D135008`  
+Акт 3: `10C700068`  
+Акт 4: `238A35008`  
+
 ### Відеопроходження:
 [![video](https://img.youtube.com/vi/YSGXLKTYCSU/0.jpg)](https://www.youtube.com/watch?v=YSGXLKTYCSU)
 
