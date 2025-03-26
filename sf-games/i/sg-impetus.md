@@ -35,7 +35,8 @@
 ## Посилання
 
 ▶ [Easy Load&Play](https://t.me/EP128k_Load_n_Play/817) *(Telegram-канал Vibrant Waves)*  
-💾 [Завантажити гру]()  
+💾 [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Impetus.rar)  
+📃 [Опис гри](http://www.ep128.hu/Games/Impetus.htm) (угорська)  
 🏡 [Домашня сторінка гри](http://inufuto.web.fc2.com/8bit/impetus/#ep64)
 
 ## Автори

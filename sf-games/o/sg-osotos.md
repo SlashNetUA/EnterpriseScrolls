@@ -38,7 +38,8 @@
 ## Посилання
 
 ▶ [Easy Load&Play](https://t.me/EP128k_Load_n_Play/837) *(Telegram-канал Vibrant Waves)*  
-💾 [Завантажити гру]()  
+💾 [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Osotos.rar)  
+📃 [Опис гри](http://www.ep128.hu/Games/Osotos.htm) (угорська)  
 🏡 [Домашня сторінка гри](http://inufuto.web.fc2.com/8bit/osotos/#ep64)
 
 ## Автори

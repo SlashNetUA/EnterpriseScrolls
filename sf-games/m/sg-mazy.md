@@ -37,7 +37,8 @@
 ## Посилання
 
 ▶ [Easy Load&Play](https://t.me/EP128k_Load_n_Play/825) *(Telegram-канал Vibrant Waves)*  
-💾 [Завантажити гру]()  
+💾 [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Mazy.rar)  
+📃 [Опис гри](http://www.ep128.hu/Games/Mazy.htm) (угорська)  
 🏡 [Домашня сторінка гри](http://inufuto.web.fc2.com/8bit/mazy/#ep64)
 
 ## Автори
