@@ -7,3 +7,5 @@
 Ігри для емуляторів [ZX Spectrum 48k/128k](zxemu/games-zxemu.md) - [Amstrad CPC](cpcemu/games-cpc.md) - [Sinclair ZX81](zx81emu/games-zx81.md) - [Videoton TVC](tvcemu/games-tvc.md) - [Commodore VIC-20](vic20emu/games-vic20.md)
 
 ----------
+
+[Повний каталог ігрового програмного забезпечення](https://drive.google.com/drive/folders/1yKjXlATVuQCeVjZDJYHMZFnFBmhgUj-g) (включно з неробочими та загубленими релізами)

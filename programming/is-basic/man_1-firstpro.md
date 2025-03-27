@@ -3,19 +3,19 @@
 Try typing in the contents of the box below. Computers are a bit funny about little mistakes, so check your typing before you finish. Remember that you must press the key marked 'enter' at the end of each line. Don't forget the numbers which begin the lines, they're important too. However, you needn't worry about the blank spaces which appear after the numbers. The Enterprise can put spaces in automatically, to make programs look neater. Notice that computers use a special symbol for nought (**0**), to distinguish it from the capital letter **O**.
 
 ```
-100	GRAPHICS
-110	PLOT 640, 360,
-120	!
-130	DO
-140		FOR RADIUS = 250 TO 1 STEP-16
-150			SET INK RND(3)+1
-160			PLOT ELLIPSE RADIUS, RADIUS,
-170			PLOT PAINT
-180		NEXT RADIUS
-190		PING
-200	LOOP
-210	!
-220	END
+100 GRAPHICS
+110 PLOT 640, 360,
+120 !
+130 DO
+140   FOR RADIUS = 250 TO 1 STEP-16
+150     SET INK RND(3)+1
+160     PLOT ELLIPSE RADIUS, RADIUS,
+170     PLOT PAINT
+180   NEXT RADIUS
+190   PING
+200 LOOP
+210 !
+220 END
 ```
 
 ## CORRECTING MISTAKES
@@ -49,7 +49,7 @@ If you want to, you can re-start the program by typing in [CONTINUE](man_cs-cont
 
 On the other hand, if you're bored with this you can add to it. Type in the line below.
 ```
-135	SET PALETTE RND (256), RND (256), RND (256), RND (256)
+135 SET PALETTE RND (256), RND (256), RND (256), RND (256)
 ```
  
 ## CLEARING THE SCREEN
@@ -74,155 +74,158 @@ The programs on the following pages are simple examples of the Enterprise's tale
 
 Try them all! They are just a few things you can do with this machine. In this book you will find out how to do all of them for yourself - plus a lot more. Don't forget to use [TEXT](man_cs-text.md) to get a full screen to type onto when you want it. You can also use [CLEAR SCREEN](man_cs-clear.md) to empty the TV screen when it gets full. These commands don't actually remove any program lines from the computer's memory; you can view the whole program again any time you like, by typing [LIST](man_cs-list.md).
 ```
-10	PROGRAM "Fire-tunnel"
-20	!
-30	!	This program draws a
-40	!	multi-coloured tunnel with
-50	!	exploding fireballs.
-60	!
-100	GRAPHICS HIRES 256
-110	LET X=640: LET Y=360
-120	F0R R=1 T0 255
-130		SET INK R
-140		LET A=X-R-220: LET A1=Y-R-50
-150		LET C=X+R+220: LET C1=Y+R+50
-160		PLOT A, A1; A, C1; C, C1; C, A1; A, A1
-170		PRINT R
-180	NEXT
-190	FOR BALL=1 TO 100
-200		CALL FIREBALL (256, X, Y)
-210	NEXT
-220	!
-230	END
-240	!
-250	!
-1000	DEF FIREBALL (COLOURS, A, B)
-1010		SET LINE MODE 3
-1020		SET INK RND(COLOURS)
-1030		FOR GO=1 TO 2
-1040			FOR AROUND=1 TO 650 STEP 30
-1050				PLOT A, B, ELLIPSE AROUND, AROUND
-1060			NEXT
-1070		NEXT
-1080		SET LINE MODE 0
-1090	END DEF
+10 PROGRAM "Fire-tunnel"
+20 !
+30 ! This program draws a
+40 ! multi-coloured tunnel with
+50 ! exploding fireballs.
+60 !
+100 GRAPHICS HIRES 256
+110 LET X=640: LET Y=360
+120 F0R R=1 T0 255
+130   SET INK R
+140   LET A=X-R-220: LET A1=Y-R-50
+150   LET C=X+R+220: LET C1=Y+R+50
+160   PLOT A, A1; A, C1; C, C1; C, A1; A, A1
+170   PRINT R
+180 NEXT
+190 FOR BALL=1 TO 100
+200   CALL FIREBALL (256, X, Y)
+210 NEXT
+220 !
+230 END
+240 !
+250 !
+1000 DEF FIREBALL (COLOURS, A, B)
+1010   SET LINE MODE 3
+1020   SET INK RND(COLOURS)
+1030   FOR GO=1 TO 2
+1040     FOR AROUND=1 TO 650 STEP 30
+1050       PLOT A, B, ELLIPSE AROUND, AROUND
+1060     NEXT
+1070   NEXT
+1080   SET LINE MODE 0
+1090 END DEF
 ```
+
 ```
-100	!	This program will draw boxes.
-110	!
-120	!	100-140 are comment lines.
-130	!	You don't have to type them.
-140	!	----------------------------------------
-150	CLEAR SCREEN
-160	PRINT AT 5,11:"THIS PROGRAM WILL"
-170	PRINT AT 6,10:"DRAW BOXES FOR YOU."
-180	PRINT AT 8,1:"The program will ask you to type in"
-190	PRINT AT 9,1:"some numbers, in pairs. The first"
-200	PRINT AT 10,1:"number of each pair should not be more"
-210	PRINT AT 11,1:"than 1279, and the second should not"
-220	PRINT AT 12,1:"be more than 719. Press 'enter'"
-230	PRINT AT 13,1:"after typing each number."
-240	FOR A=1 TO 5000
-250	NEXT A
-260	!	---------------------------------------------
-270	!	Lines 240-250 make the computer
-280	!	wait for about 10 seconds.
-290	!	---------------------------------------------
-300	DO
-310		CLEAR SCREEN
-320		INPUT AT 5,5,PROMPT "Numbers for one corner: ":X
-330		INPUT AT 6,29,PROMPT " ":Y
-340		INPUT AT 8,5,PROMPT "Numbers for opposite corner: ":V
-350		INPUT AT 9,34,PROMPT " ":W
-360		PRINT AT 11,5:"For how long should the box"
-370		PRINT AT 12,5:"be displayed?"
-380		INPUT AT 14,5,PROMPT "Seconds: ":TIME
-390		!	-------------------------------------
-400		!	Lines 450-480 are the
-410		!	instructions for drawing the
-420		!	box and holding it on the
-430		!	screen for the time you want.
-440		!	-------------------------------------
-450		GRAPHICS
-460		PLOT X,Y;X,W;V,W;V,Y;X,Y
-470		FOR B=1 TO 500*TIME
-480		NEXT B
-490		TEXT
-500		PRINT AT 15,18:"More?"
-510		DO
-520			INPUT AT 17,17,PROMPT "y or n:":ANS$
-530		LOOP WHILE ANS$<>"y" AND ANS$<>"n"
-540	LOOP WHILE ANS$="y"
-550	!
-560	END ! This is the end of the program.
+100 ! This program will draw boxes.
+110 !
+120 ! 100-140 are comment lines.
+130 ! You don't have to type them.
+140 ! ----------------------------------------
+150 CLEAR SCREEN
+160 PRINT AT 5,11:"THIS PROGRAM WILL"
+170 PRINT AT 6,10:"DRAW BOXES FOR YOU."
+180 PRINT AT 8,1:"The program will ask you to type in"
+190 PRINT AT 9,1:"some numbers, in pairs. The first"
+200 PRINT AT 10,1:"number of each pair should not be more"
+210 PRINT AT 11,1:"than 1279, and the second should not"
+220 PRINT AT 12,1:"be more than 719. Press 'enter'"
+230 PRINT AT 13,1:"after typing each number."
+240 FOR A=1 TO 5000
+250 NEXT A
+260 ! ---------------------------------------------
+270 ! Lines 240-250 make the computer
+280 ! wait for about 10 seconds.
+290 ! ---------------------------------------------
+300 DO
+310   CLEAR SCREEN
+320   INPUT AT 5,5,PROMPT "Numbers for one corner: ":X
+330   INPUT AT 6,29,PROMPT " ":Y
+340   INPUT AT 8,5,PROMPT "Numbers for opposite corner: ":V
+350   INPUT AT 9,34,PROMPT " ":W
+360   PRINT AT 11,5:"For how long should the box"
+370   PRINT AT 12,5:"be displayed?"
+380   INPUT AT 14,5,PROMPT "Seconds: ":TIME
+390   ! -------------------------------------
+400   ! Lines 450-480 are the
+410   ! instructions for drawing the
+420   ! box and holding it on the
+430   ! screen for the time you want.
+440   ! -------------------------------------
+450   GRAPHICS
+460   PLOT X,Y;X,W;V,W;V,Y;X,Y
+470   FOR B=1 TO 500*TIME
+480   NEXT B
+490   TEXT
+500   PRINT AT 15,18:"More?"
+510   DO
+520     INPUT AT 17,17,PROMPT "y or n:":ANS$
+530   LOOP WHILE ANS$<>"y" AND ANS$<>"n"
+540 LOOP WHILE ANS$="y"
+550 !
+560 END ! This is the end of the program.
 ```
+
 ```
-100	!	This program sorts 10 numbers
-106	!	into numerical order.
-108	!	------------------------------------------
-110	NUMERIC ARRAY(1 TO 10)
-120	NUMERIC VAR,NUM,BIG
-130	CLEAR SCREEN
-150	PRINT AT 10,10:"NUMBER SORT"
-160	FOR N=1 TO 10
-170		PRINT AT 14,10:"TYPE NUMBER";N;
-180		INPUT PROMPT ": ":ARRAY(N)
-190		PRINT AT 14,25:"                                  "
-200	NEXT N
-210	CLEAR SCREEN
-220	PRINT AT 20,20:"SORTING..."
-240	LET FIN=10
-250	FOR X=1 TO 10
-255		LET BIG=0
-260		FOR Y=1 TO FIN
-270			IF ARRAY(Y)>BIG THEN LET BIG=ARRAY(Y)
-280			IF ARRAY(Y)=BIG THEN LET NUM=Y
-390		NEXT Y
-300		LET VAR=ARRAY(FIN)
-310		LET ARRAY(FIN)=BIG
-320		LET ARRAY(NUM)=VAR
-340		LET FIN=FIN-1
-350	NEXT X
-355	CLEAR SCREEN
-360	FOR X=1 TO 10
-370		PRINT ARRAY(X)
-380	NEXT X
-390	END
+100 ! This program sorts 10 numbers
+106 ! into numerical order.
+108 ! ------------------------------------------
+110 NUMERIC ARRAY(1 TO 10)
+120 NUMERIC VAR,NUM,BIG
+130 CLEAR SCREEN
+150 PRINT AT 10,10:"NUMBER SORT"
+160 FOR N=1 TO 10
+170   PRINT AT 14,10:"TYPE NUMBER";N;
+180   INPUT PROMPT ": ":ARRAY(N)
+190   PRINT AT 14,25:"                                  "
+200 NEXT N
+210 CLEAR SCREEN
+220 PRINT AT 20,20:"SORTING..."
+240 LET FIN=10
+250 FOR X=1 TO 10
+255   LET BIG=0
+260   FOR Y=1 TO FIN
+270     IF ARRAY(Y)>BIG THEN LET BIG=ARRAY(Y)
+280     IF ARRAY(Y)=BIG THEN LET NUM=Y
+390   NEXT Y
+300   LET VAR=ARRAY(FIN)
+310   LET ARRAY(FIN)=BIG
+320   LET ARRAY(NUM)=VAR
+340   LET FIN=FIN-1
+350 NEXT X
+355 CLEAR SCREEN
+360 FOR X=1 TO 10
+370   PRINT ARRAY(X)
+380 NEXT X
+390 END
 ```
+
 ```
-100	!	This program gives the
-110	!	area/circumference of circles.
-120	!	----------------------------------------
-130	LET A$=" of the circle is:"
-140	LET B$="Type the radius of the circle: "
-150	NUMERIC RADIUS,AREA,CIRCUM
-160	DO
-170		CLEAR SCREEN
-180		PRINT AT 10,10:"1) AREA"
-190		PRINT AT 11,10:"2) CIRCUMFERENCE"
-200		PRINT AT 12,10:"3) QUIT"
-210		DO
-220			PRINT AT 15,10:"Type the number"
-230			INPUT AT 16,10,PROMPT "of your choice: ":NUM
-240		LOOP WHILE NUM<1 OR NUM>3 OR NUM<>INT(NUM)
-250		CLEAR SCREEN
-260		IF NUM=1 THEN
-270			INPUT AT 10,1,PROMPT B$:RADIUS
-280			LET AREA=PI*RADIUS^2
-290			PRINT AT 15,5:"The area";A$;
-300			PRINT AT 16,4:AREA
-310			FOR X=1 TO 5000
-320			NEXT X
-330		ELSE IF NUM=2 THEN
-340			INPUT AT 10,1,PROMPT B$:RADIUS
-350			LET CIRCUM=2*PI*RADIUS
-360			PRINT AT 15,1:"The circumference";A$
-370			PRINT AT 16,1:STR$(CIRCUM)
-380			FOR X=1 TO 5000
-390			NEXT X
-400		END IF
-410	LOOP WHILE NUM<>3
-420	END
+100 ! This program gives the
+110 ! area/circumference of circles.
+120 ! ----------------------------------------
+130 LET A$=" of the circle is:"
+140 LET B$="Type the radius of the circle: "
+150 NUMERIC RADIUS,AREA,CIRCUM
+160 DO
+170   CLEAR SCREEN
+180   PRINT AT 10,10:"1) AREA"
+190   PRINT AT 11,10:"2) CIRCUMFERENCE"
+200   PRINT AT 12,10:"3) QUIT"
+210   DO
+220     PRINT AT 15,10:"Type the number"
+230     INPUT AT 16,10,PROMPT "of your choice: ":NUM
+240   LOOP WHILE NUM<1 OR NUM>3 OR NUM<>INT(NUM)
+250   CLEAR SCREEN
+260   IF NUM=1 THEN
+270     INPUT AT 10,1,PROMPT B$:RADIUS
+280     LET AREA=PI*RADIUS^2
+290     PRINT AT 15,5:"The area";A$;
+300     PRINT AT 16,4:AREA
+310     FOR X=1 TO 5000
+320     NEXT X
+330   ELSE IF NUM=2 THEN
+340     INPUT AT 10,1,PROMPT B$:RADIUS
+350     LET CIRCUM=2*PI*RADIUS
+360     PRINT AT 15,1:"The circumference";A$
+370     PRINT AT 16,1:STR$(CIRCUM)
+380     FOR X=1 TO 5000
+390     NEXT X
+400   END IF
+410 LOOP WHILE NUM<>3
+420 END
 ```
 
 ## ALTERING PROGRAMS
