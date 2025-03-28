@@ -8,7 +8,7 @@ All computers understand instructions, usually in the form of words or lists of 
 
 The diagram below shows (using an everyday example) how one task must be broken up into several small ones to make up a program.
 
-![Algorythm](SW_IS-BASIC_ProgrGuide(Algorythm).png)
+![Algorythm](IS-BASIC_ProgrGuide(Algorythm).png)
  
 ## COMPUTER LANGUAGES
 

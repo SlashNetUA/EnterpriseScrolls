@@ -6,30 +6,30 @@ Imagine two boxes, labelled **X** and **Y**. Into each box we can put a number. 
 
 We are now going to tell the computer that each time we [RUN](man_cs-run.md) the following program and put a pair of numbers into the two boxes, we want it to add together the contents of **X** and those of **Y**.
 ```
-10 ! ------------------------------
-20 ! 60 and 70 ask you to type in
-25 ! numbers. They wait for your
-30 ! answer. Press 'enter' when you
-40 ! have typed each number.
-50 ! ------------------------------
+10 !	------------------------------
+20 !	60 and 70 ask you to type in
+25 !	numbers. They wait for your
+30 !	answer. Press 'enter' when you
+40 !	have typed each number.
+50 !	------------------------------
 60 INPUT PROMPT "Type in number X: ":X
 70 INPUT PROMPT "Type in number Y: ":Y
-80 ! ------------------------------
-90 ! Line 120 adds up numbers X and
-95 ! Y and puts the sum
-100 ! into a variable called Z.
-110 ! ------------------------------
+80 !	------------------------------
+90 !	Line 120 adds up numbers X and
+95 !	Y and puts the sum
+100 !	into a variable called Z.
+110 !	------------------------------
 120 LET Z=X+Y
-130 ! ------------------------------
-140 ! Line 160 displays the answer.
-150 ! ------------------------------
+130 !	------------------------------
+140 !	Line 160 displays the answer.
+150 !	------------------------------
 160 PRINT X;"+";Y;"=";Z
 170 END
-180 ! ------------------------------
-190 ! Line 170 tells you and the
-200 ! computer where the end of the
-210 ! program is.
-220 ! ------------------------------
+180 !	------------------------------
+190 !	Line 170 tells you and the
+200 !	computer where the end of the
+210 !	program is.
+220 !	------------------------------
 ```
 
 You may not even need to [RUN](man_cs-run.md) this to see what it is doing. It's something you might have come across at school (or, if you're a parent, in your children's maths books). Do you sec how you have to tell the computer everything it must do?
@@ -67,7 +67,7 @@ Here's another use for variables.
 ```
 10 LET A=0 !          A begins as 0.
 20 DO !               DO/LOOP begins.
-30   LET A=A+1 !	  Add 1 to A.
+30   LET A=A+1 !      Add 1 to A.
 40   PRINT A, !	      Display A's value.
 50 LOOP UNTIL A=20 !  Go back, repeat loop.
 60 !                  Loop ends when A=20.

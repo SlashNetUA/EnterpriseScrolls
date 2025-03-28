@@ -56,8 +56,8 @@ Then four further numbers (again with a semicolon in front of them) define the t
 
 If you type in and run the two program lines we've been looking at, they will combine to produce a sound that can be represented by this pair of graphs:
 
-![volume](SW_IS-BASIC_ProgrGuide(Volume).png)
-![pitch](SW_IS-BASIC_ProgrGuide(Pitch).png)
+![volume](IS-BASIC_ProgrGuide(Volume).png)
+![pitch](IS-BASIC_ProgrGuide(Pitch).png)
 
 Sounds can be much more complex than this, of course. We shall later see how an envelope can be defined with any number of phases up to **255**.
 
