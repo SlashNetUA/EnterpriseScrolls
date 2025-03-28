@@ -10,32 +10,32 @@ With one exception ([GOTO](man_cs-goto.md), which can be treated as a loop), eve
 
 Let's deal with the easiest kind first, [DO](man_cs-do.md)/[LOOP](man_cs-do.md)s. You have already come across these. They look like this:
 ```
-80	INPUT PROMPT "Please type in a number and I'll print the 'times table' for it. ":A
-90	LET B=A
-100	DO !	Beginning of DO/LOOP
-120		LET B=B+A
-130		PRINT B,
-140		!	---------------------------------
-150		!	Line 90 puts your number into
-155		!	another variable, B. Then, in
-160		!	lines 120 and 130, the value of
-170		!	A (which has not changed) is
-175		!	added to B. and the new value
-180		!	for B is put on the screen. This
-185		!	happens each time round the
-190		!	loop, so B increases by the value
-200		!	of A each time.
-210		!	---------------------------------
-220	LOOP UNTIL B>150 !	End of DO/LOOP
-230	!	-------------------------------------
-240	!	UNTIL B>350 stops the program
-245	!	going on forever without any
-250	!	interference from you (e.g. 'stop' or
-260	!	'hold' keys). UNTIL means exactly
-265	!	what you might think it does – i.e.
-270	!	'until B is bigger than 150'.
-280	!	-------------------------------------
-290	END
+80 INPUT PROMPT "Please type in a number and I'll print the 'times table' for it. ":A
+90 LET B=A
+100 DO !	Beginning of DO/LOOP
+120   LET B=B+A
+130   PRINT B,
+140   !	---------------------------------
+150   !	Line 90 puts your number into
+155   !	another variable, B. Then, in
+160   !	lines 120 and 130, the value of
+170   !	A (which has not changed) is
+175   !	added to B. and the new value
+180   !	for B is put on the screen. This
+185   !	happens each time round the
+190   !	loop, so B increases by the value
+200   !	of A each time.
+210   !	---------------------------------
+220 LOOP UNTIL B>150 !	End of DO/LOOP
+230 !	-------------------------------------
+240 !	UNTIL B>350 stops the program
+245 !	going on forever without any
+250 !	interference from you (e.g. 'stop' or
+260 !	'hold' keys). UNTIL means exactly
+265 !	what you might think it does – i.e.
+270 !	'until B is bigger than 150'.
+280 !	-------------------------------------
+290 END
 ```
 A [DO](man_cs-do.md)/[LOOP](man_cs-do.md), as you can see, makes the computer 'go around in a circle' until some condition is met which tells it to stop. This condition may be specified by using the word [UNTIL](man_cs-do.md) or [WHILE](man_cs-do.md).
 
@@ -49,7 +49,7 @@ Try changing the loop above by using a [WHILE](man_cs-do.md) condition in place 
 
 At any time, if you want to, you can make the machine get out of a loop by using the word [EXIT](man_cs-exit.md). Now, [EXIT](man_cs-exit.md) applies to [FOR](man_cs-for.md)/[NEXT](man_cs-for.md) loops as well (these are described opposite). So you need to specify which type of loop you are exiting – [EXIT FOR](man_cs-exit.md) or [EXIT DO](man_cs-exit.md) is the way to do this. You should exit using some sort of condition – e.g.:
 ```
-1000	IF X>25 THEN EXIT DO
+1000 IF X>25 THEN EXIT DO
 ```
 A quick look at the chapter about decisions will tell you how to do this using [SELECT CASE](man_cs-select.md) as well.
 
@@ -61,35 +61,35 @@ Remember that the word [EXIT](man_cs-exit.md) is the only proper way to leave a 
 
 Here is a short [FOR](man_cs-for.md)/[NEXT](man_cs-for.md) loop:
 ```
-100	INPUT PROMPT "How many times would you like me to loop? ":X
-110	!	------------------------------------
-120	!	Notice that in this and other INPUT
-125	!	PROMPTS, a space is put at the end
-130	!	of the prompt itself. This makes the
-140	!	screen look tidier.
-150	!	------------------------------------
-160	FOR P=1 TO X
-170		PRINT "LOOP THE LOOP!"
-180	NEXT P
-190	END
+100 INPUT PROMPT "How many times would you like me to loop? ":X
+110 !	------------------------------------
+120 !	Notice that in this and other INPUT
+125 !	PROMPTS, a space is put at the end
+130 !	of the prompt itself. This makes the
+140 !	screen look tidier.
+150 !	------------------------------------
+160 FOR P=1 TO X
+170   PRINT "LOOP THE LOOP!"
+180 NEXT P
+190 END
 ```
 Do you see how the number you type is the number of times the computer will perform the loop? This is the essential purpose of a [FOR](man_cs-for.md)/[NEXT](man_cs-for.md) – you can specify quickly and concisely how many times the loop should be done. There is no need to use conditions except in special circumstances.
 
 [FOR](man_cs-for.md)/[NEXT](man_cs-for.md) can also count in successions of three, twenty, 0.2, 1000, 466.666 or even backwards. [STEP](man_cs-for.md) is the key to this little ability. Here's a program which counts backwards by twos.
 ```
-10	FOR P=40 TO 0 STEP -2
-20		PRINT P,
-30	NEXT P
-40	END
+10 FOR P=40 TO 0 STEP -2
+20   PRINT P,
+30 NEXT P
+40 END
 ```
 
 You cannot simply ask the machine to count from **40** to **0** without giving it a [STEP](man_cs-for.md) command. It has to know to subtract (counting in minus numbers) from the number given in the [FOR](man_cs-for.md) line before it will do this. Unless you specify by using [STEP](man_cs-for.md), a [FOR](man_cs-for.md)/[NEXT](man_cs-for.md) loop will always count upward in steps of **1**. Note also the **PRINT P** statement. The first line of the loop creates a variable, in this case **P**, of which the value changes each time the loop is performed. The 'times table' program, used as an example of the [DO](man_cs-do.md)/[LOOP](man_cs-do.md), will be shorter if we use [FOR](man_cs-for.md)/[NEXT](man_cs-for.md):
 ```
-100	INPUT PROMPT "Please type in a number and I will give you a 'times table' for it. ":A
-110	FOR P=0 TO 150 STEP A
-120		PRINT P,
-130	NEXT P
-140	END
+100 INPUT PROMPT "Please type in a number and I will give you a 'times table' for it. ":A
+110 FOR P=0 TO 150 STEP A
+120   PRINT P,
+130 NEXT P
+140 END
 ```
 That program does almost the same thing as the [DO](man_cs-do.md)/[LOOP](man_cs-do.md) (page 59) but in a different way. [DO](man_cs-do.md)/[LOOP](man_cs-do.md)s are just a little easier to read and understand when you're unfamiliar with computer programs.
 
@@ -101,13 +101,13 @@ You might like to try different ways of presenting this program using **PRINT AT
 
 These words might sound rather strange. Nested loops, though, are just loops placed inside loops. The important thing to remember is never to end the second loop outside the first one. Here is an example:
 ```
-100	FOR P=1 TO 20 !	First loop begins.
-110		PRINT P,
-120		FOR A=1 TO 4 !	Second loop begins.
-130			PRINT P+10; P-10;
-140		NEXT A !	Second loop ends.
-145		PRINT
-150	NEXT P !	First loop ends.
+100 FOR P=1 TO 20 !	First loop begins.
+110   PRINT P,
+120   FOR A=1 TO 4 !	Second loop begins.
+130     PRINT P+10; P-10;
+140   NEXT A !	Second loop ends.
+145   PRINT
+150 NEXT P !	First loop ends.
 ```
 You can nest another loop inside the second one as well, and another inside that, and so on. If you look at a series of nested loops, the end lines should come in descending order as you look down the program. The beginnings should be in ascending order. Look at the diagram.
 

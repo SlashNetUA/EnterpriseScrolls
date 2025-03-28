@@ -13,15 +13,15 @@ When the computer is turned on, it automatically connects channel **104** to the
 
 You can also refer to channel numbers by using variable names, so the program itself can choose where to send a message.
 ```
-120	INPUT PROMPT "Please enter a message: ":A$
-130	PRINT
-140	PRINT "Where would you like the message repeated?"
-150	DO
-160		INPUT PROMPT "Please enter 0 for screen or 104 for printer: ":CHANNEL
-170	LOOP UNTIL CHANNEL=0 OR CHANNEL=104
-190	PRINT £CHANNEL:	! Blank line to screen or printer
-200	PRINT £CHANNEL:A$	! Message sent to screen or printer
-220	END
+120 INPUT PROMPT "Please enter a message: ":A$
+130 PRINT
+140 PRINT "Where would you like the message repeated?"
+150 DO
+160   INPUT PROMPT "Please enter 0 for screen or 104 for printer: ":CHANNEL
+170 LOOP UNTIL CHANNEL=0 OR CHANNEL=104
+190 PRINT £CHANNEL:   !   Blank line to screen or printer
+200 PRINT £CHANNEL:A$ !   Message sent to screen or printer
+220 END
 ```
 This program will, of course, only work if you have a printer connected and turned on. But you can try out the same experiment with channel **101** instead of channel **104** – this will connect you with the usual graphics screen instead. Include the command [GRAPHICS](man_cs-graphics.md) in the program to see what is happening.
 

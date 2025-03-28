@@ -62,34 +62,34 @@ Strings have a maximum length of **254** characters, if declared to this length 
 
 Arithmetic operators:
 
-|   | |
-|:-:|-|
-|\*|multiply
-|/|divide
-|^|to the power of
-|+|plus
-|-|minus
+|     |                 |
+|:---:| --------------- |
+| \*  | multiply        |
+|  /  | divide          |
+|  ^  | to the power of |
+|  +  | plus            |
+|  -  | minus           |
 
 String operators:
 
-|   | |
-|:-:|-|
-|&|concatenate
+|     |             |
+|:---:| ----------- |
+|  &  | concatenate |
 
 Relational operators:
 
-|   | |
-|:-:|-|
-|>|greater than
-|<|less than
-|=|equals
-|>=|greater than or equals
-|<=|less than or equals
-|<>|not equals
-|AND|logical AND (true/false)
-|OR|logical OR (true/false)
-|BAND|binary logical AND
-|BOR|binary logical OR
+|      |                          |
+|:----:| ------------------------ |
+|  >   | greater than             |
+|  <   | less than                |
+|  =   | equals                   |
+|  >=  | greater than or equals   |
+|  <=  | less than or equals      |
+|  <>  | not equals               |
+| AND  | logical AND (true/false) |
+|  OR  | logical OR (true/false)  |
+| BAND | binary logical AND       |
+| BOR  | binary logical OR        |
 
 `1100`
 BAND
@@ -109,12 +109,12 @@ BOR
 
 The following abbreviations are used in this reference:
 
-|   | |
-|:-:|-|
-|chan|channel-number
-|id|identifier (e.g. variable name)
-|str|string
-|var|variable
-|expr|expression
-|relop|relational operator (i.e. >, >=,etc.)
-|para|parameter
+|       |                                       |
+|:-----:| ------------------------------------- |
+| chan  | channel-number                        |
+|  id   | identifier (e.g. variable name)       |
+|  str  | string                                |
+|  var  | variable                              |
+| expr  | expression                            |
+| relop | relational operator (i.e. >, >=,etc.) |
+| para  | parameter                             |

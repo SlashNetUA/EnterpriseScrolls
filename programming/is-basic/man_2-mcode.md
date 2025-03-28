@@ -40,8 +40,8 @@ TEST: 29 ADD HL, HL	; add number to itself
 ```
 – can be inserted into the BASIC program like this:
 ```
-100	ALLOCATE 2
-110	CODE TEST=HEX$("29,C9")
+100 ALLOCATE 2
+110 CODE TEST=HEX$("29,C9")
 ```
 Once you have run this part of the program, the routine is stored in the memory you set aside.
 

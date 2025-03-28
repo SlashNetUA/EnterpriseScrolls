@@ -12,38 +12,38 @@ BASIC also allows for you to make up your own exceptions. These must be numbered
 
 Let's begin looking at exception handling by causing one within a program and then dealing with it using exception handler statements.
 ```
-50	WHEN EXCEPTION USE INPUT_ERROR
-60		!--------------------------------------
-65		! 50 tells the computer to use the
-70		! handler (see below) if an exception
-75		! occurs. It is valid until the computer
-80		! reaches END WHEN in 145.
-90		!--------------------------------------
-100		INPUT PROMPT "Please type a word: ":STRING$
-110		IF VAL(STRING$)<>0 THEN
-115			CAUSE EXCEPTION 10
-120		ELSE
-130			PRINT "Your word has been accepted."
-140		END IF
-145	END WHEN
-150	END
-160	!--------------------------------------
-170	! 260 to 310 is the part of the
-180	! program which copes with an
-190	! exception; in this case exception
-200	! number 10. This is caused if you
-210	! type in a number, not a word.
-220	! You may notice some parallels
-230	! between the exception handler and
-240	! calling functions.
-250	!--------------------------------------
-260	HANDLER INPUT_ERROR
-270		IF EXTYPE=10 THEN
-280			PRINT "That was not a word."
-285		ELSE IF EXTYPE<>10 THEN
-290			EXIT HANDLER
-300		END IF
-310	END HANDLER
+ 50 WHEN EXCEPTION USE INPUT_ERROR
+ 60   !--------------------------------------
+ 65   ! 50 tells the computer to use the
+ 70   ! handler (see below) if an exception
+ 75   ! occurs. It is valid until the computer
+ 80   ! reaches END WHEN in 145.
+ 90   !--------------------------------------
+100   INPUT PROMPT "Please type a word: ":STRING$
+110   IF VAL(STRING$)<>0 THEN
+115     CAUSE EXCEPTION 10
+120   ELSE
+130     PRINT "Your word has been accepted."
+140   END IF
+145 END WHEN
+150 END
+160 !--------------------------------------
+170 ! 260 to 310 is the part of the
+180 ! program which copes with an
+190 ! exception; in this case exception
+200 ! number 10. This is caused if you
+210 ! type in a number, not a word.
+220 ! You may notice some parallels
+230 ! between the exception handler and
+240 ! calling functions.
+250 !--------------------------------------
+260 HANDLER INPUT_ERROR
+270   IF EXTYPE=10 THEN
+280     PRINT "That was not a word."
+285   ELSE IF EXTYPE<>10 THEN
+290     EXIT HANDLER
+300   END IF
+310 END HANDLER
 ```
 You can probably see that this could be done using other methods. Line **110** actually makes the computer register a 'mistake' according to your instructions.
 

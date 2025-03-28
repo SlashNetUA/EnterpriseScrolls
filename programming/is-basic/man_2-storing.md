@@ -16,9 +16,9 @@ Type this into the computer as line **100**. It tells the computer to set aside 
 
 Now type in the following lines:
 ```
-110	FOR S=1 TO 10
-120		INPUT PROMPT "Enter a number ":STORE(S)
-130	NEXT S
+110 FOR S=1 TO 10
+120   INPUT PROMPT "Enter a number ":STORE(S)
+130 NEXT S
 ```
 This enables you to put numbers into your array. Run this, and when it has finished, type in **PRINT STORE(9)** or **(8)** or any other number from **1** to **10**. As you can see, you can call up numbers from the array. You've put a list of numbers into the computer. If you wanted to record the temperatures each day for the month of December, you could do this in an array called **DECEMBER** with elements numbered **1** to **31**. The temperature for each day would form the contents of an element, and the element numbers would signify the dates.
 
@@ -28,37 +28,37 @@ An array could also consist of elements numbered **56** to **76**, or **123** to
 
 An array can be more complex than just a list. The diagrams below and on the next page show you the difference between one-dimensional and two-dimensional arrays.
 
-|   |
-|:-:|
-|1|						
-|2|						
-|3|						
-|4|						
-|5|						
-|6|						
-|7|						
-|8|						
-|9|						
-|10|						
-|11|						
-|12|						
-|13|						
-|14|						
-|15|						
-|16|						
-|17|						
-|18|						
-|19|						
-|20|						
+|     |
+|:---:|
+|  1  |
+|  2  |
+|  3  |
+|  4  |
+|  5  |
+|  6  |
+|  7  |
+|  8  |
+|  9  |
+| 10  |
+| 11  |
+| 12  |
+| 13  |
+| 14  |
+| 15  |
+| 16  |
+| 17  |
+| 18  |
+| 19  |
+| 20  |
  
 A two-dimensional array can be pictured as a grid. Or (if you like), you can imagine that this time you are storing your boxes in a cupboard where each shelf is given a number and there is room for the same number of boxes on each shelf. **A(1 TO 4,1 TO 4)** would produce an array which can be visualized like this:
 
-| | | | |
-|:-:|:-:|:-:|:-:|
-|1,1|1,2|1,3|1,4
-|2,1|2,2|2,3|2,4
-|3,1|3,2|3,3|3,4
-|4,1|4,2|4,3|4,4
+|     |     |     |     |
+|:---:|:---:|:---:|:---:|
+| 1,1 | 1,2 | 1,3 | 1,4 |
+| 2,1 | 2,2 | 2,3 | 2,4 |
+| 3,1 | 3,2 | 3,3 | 3,4 |
+| 4,1 | 4,2 | 4,3 | 4,4 |
 
 An example of the use of this kind of array is as the board for a game like draughts or Othello. The array could be used to store information as to which pieces are on which squares of the board. You could also use an array like this as a table of numbers or words – a more versatile sort of list.
 
@@ -88,15 +88,15 @@ Many BASIC words go hand in hand with other BASIC words. [READ](man_cs-read.md) 
 
 These are mentioned in this part of the manual because they represent yet another way to keep large amounts of information inside a program. They also represent another way to put numbers or strings into an array. [READ](man_cs-read.md) is the word which does all the hard work. Here is a short example.
 ```
- 80	LET P=1
- 90	DO UNTIL P=0
-100		READ P
-110		PRINT P,
-120	LOOP
-130	DATA 1,2,3,4,5,6,7,8,9,10
-150	DATA 11,12,13,14,15,16,17,18
-160	DATA 19,20,21,22,23,24,25,0
-170	END
+ 80 LET P=1
+ 90 DO UNTIL P=0
+100   READ P
+110   PRINT P,
+120 LOOP
+130 DATA 1,2,3,4,5,6,7,8,9,10
+150 DATA 11,12,13,14,15,16,17,18
+160 DATA 19,20,21,22,23,24,25,0
+170 END
 ```
 The [DATA](man_cs-data.md) statements simply hold the information. Each item of information must be separated from the next with a comma – this indicates that one piece of information is over and the next one follows. [READ](man_cs-read.md) tells the computer to look at one [DATA](man_cs-data.md) item and do with it whatever you want. In this case, the item is placed in the variable **P**, and then the contents of **P** are printed on the screen.
 
@@ -106,60 +106,60 @@ The computer will only read each [DATA](man_cs-data.md) item once. Once an item 
 
 The program below demonstrates the use of [READ](man_cs-read.md)/[DATA](man_cs-data.md) with strings.
 ```
-150	CLEAR SCREEN
-200	PRINT "I'm going to tell you a story."
-250	PRINT
-300	PRINT "Here goes!"
-350	PRINT
-400	PRINT
-410	FOR X=1 TO 5000
-415	NEXT X
-420	!	-----------------------------------------
-430	!	Lines 410 and 415 merely specify an
-440	!	interval. The DO/LOOP (550-810 is the
-450	!	important part. Let's go round it and see
-460	!	what happens. First it READs A$ – which
-470	!	means il looks for a DATA statement
-480	!	(which can be anywhere in the program),
-490	!	reads it and checks to see if
-500	!	it's "END". If it is, the computer
-515	!	stops looping and goes to
-520	!	the rest of the program. If not, 700
-525	!	tells the computer to print the
-530	!	string from the DATA statement
-535	!	on the screen (and put a space after it).
-540	!	-----------------------------------------
-550	DO
-600		READ A$
-650		IF A$="END" THEN EXIT DO
-700		PRINT A$;" ";
-750		FOR Y=1 TO 500
-760		NEXT Y
-810	LOOP
-820	!	-------------------------------------
-830	!	The rest of this program may look
-840	!	confusing. If you remember that the
-850	!	DATA statements are read by an
-855	!	earlier part of the program, and that
-870	!	900-1100 are actually performed
-873	!	after the DATA has been read and
-875	!	put on the screen, the logic of
-880	!	the program will fall into place.
-890	!	-------------------------------------
-900	PRINT
-950	PRINT
-1000	PRINT"					THE END"
-1050	PRINT
-1100	PRINT
-1125	END
-1150	DATA Once,upon,a,time,there,was,a,little,computer,
-1200	DATA called,the,Enterprise.,It,was,a,very,
-1250	DATA happy,computer.,All,the,best,programmers,in,
-1300	DATA a.land.called,England,had,worked,all,day,
-1350	DATA and,all,night,for,months,to,make,the,Enterprise,
-1400	DATA the,best,computer,ever.,Today,you're,learning,
-1450	DATA to,write,BASIC,on,the,Enterprise.,Aren't,you,
-1500	DATA lucky?,END
+150 CLEAR SCREEN
+200 PRINT "I'm going to tell you a story."
+250 PRINT
+300 PRINT "Here goes!"
+350 PRINT
+400 PRINT
+410 FOR X=1 TO 5000
+415 NEXT X
+420 !	-----------------------------------------
+430 !	Lines 410 and 415 merely specify an
+440 !	interval. The DO/LOOP (550-810 is the
+450 !	important part. Let's go round it and see
+460 !	what happens. First it READs A$ – which
+470 !	means il looks for a DATA statement
+480 !	(which can be anywhere in the program),
+490 !	reads it and checks to see if
+500 !	it's "END". If it is, the computer
+515 !	stops looping and goes to
+520 !	the rest of the program. If not, 700
+525 !	tells the computer to print the
+530 !	string from the DATA statement
+535 !	on the screen (and put a space after it).
+540 !	-----------------------------------------
+550 DO
+600   READ A$
+650   IF A$="END" THEN EXIT DO
+700   PRINT A$;" ";
+750   FOR Y=1 TO 500
+760   NEXT Y
+810 LOOP
+820 !	-------------------------------------
+830 !	The rest of this program may look
+840 !	confusing. If you remember that the
+850 !	DATA statements are read by an
+855 !	earlier part of the program, and that
+870 !	900-1100 are actually performed
+873 !	after the DATA has been read and
+875 !	put on the screen, the logic of
+880 !	the program will fall into place.
+890 !	-------------------------------------
+900 PRINT
+950 PRINT
+1000 PRINT"					THE END"
+1050 PRINT
+1100 PRINT
+1125 END
+1150 DATA Once,upon,a,time,there,was,a,little,computer,
+1200 DATA called,the,Enterprise.,It,was,a,very,
+1250 DATA happy,computer.,All,the,best,programmers,in,
+1300 DATA a.land.called,England,had,worked,all,day,
+1350 DATA and,all,night,for,months,to,make,the,Enterprise,
+1400 DATA the,best,computer,ever.,Today,you're,learning,
+1450 DATA to,write,BASIC,on,the,Enterprise.,Aren't,you,
+1500 DATA lucky?,END
 ```
 There is a possible modification you could make to this program. Try adding `100 DO` and `1120 LOOP` to this program. Then [RUN](man_cs-run.md) it again. As you will now see, it works fine once and then comes up with a message to say there is no more [DATA](man_cs-data.md). So add line `1110 RESTORE`. This will tell the computer to go back and use the [DATA](man_cs-data.md) again. If you want to, you can put `RESTORE 1400`, which tells the computer to use the [DATA](man_cs-data.md) which comes in line **1400** and afterwards. This makes it possible for you to choose one part of the [DATA](man_cs-data.md) and use it several times over if you want to.
 

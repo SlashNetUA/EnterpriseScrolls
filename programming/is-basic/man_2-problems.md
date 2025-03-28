@@ -103,73 +103,73 @@ The diagram shows the order in which the actual BASIC will appear, while the arr
 
 First type in the variable declarations:
 ```
-100	NUMERIC TOTDISC, NEWPRICE
-110	!	Then the main program:
-120	DO
-130		CLEAR SCREEN
-140		INPUT PROMPT "Please type in the price ":PRICE
-150		INPUT PROMPT "Please type in the percentage discount offered ":DISC
-160		CALL DISCOUNT
-170		CLEAR SCREEN
-180		PRINT "A discount of ";DISC;" percent on goods priced at £";PRICE
-190		PRINT "Would be £";TOTDISC;"."
-200		PRINT
-210		PRINT "The new price would be £";NEWPRICE; "."
-215		PRINT
-218		PRINT
-220		INPUT PROMPT "Would you like to know more discounts? ":ANS$
-230	LOOP WHILE UCASE$(ANS$(1:1))="Y"
-240	END
+100 NUMERIC TOTDISC, NEWPRICE
+110 !	Then the main program:
+120 DO
+130   CLEAR SCREEN
+140   INPUT PROMPT "Please type in the price ":PRICE
+150   INPUT PROMPT "Please type in the percentage discount offered ":DISC
+160   CALL DISCOUNT
+170   CLEAR SCREEN
+180   PRINT "A discount of ";DISC;" percent on goods priced at £";PRICE
+190   PRINT "Would be £";TOTDISC;"."
+200   PRINT
+210   PRINT "The new price would be £";NEWPRICE; "."
+215   PRINT
+218   PRINT
+220   INPUT PROMPT "Would you like to know more discounts? ":ANS$
+230 LOOP WHILE UCASE$(ANS$(1:1))="Y"
+240 END
 ```
 That's the main program. Now all you need to do is add the function:
 ```
-250	DEF DISCOUNT
-260		LET TOTDISC=(PRICE/100)*DISC
-270		LET NEWPRICE=PRICE-TOTDISC
-280	END DEF
+250 DEF DISCOUNT
+260   LET TOTDISC=(PRICE/100)*DISC
+270   LET NEWPRICE=PRICE-TOTDISC
+280 END DEF
 ```
 If you [RUN](man_cs-run.md) this program now, you'll find it works, but it is really only the bones of a program which need some padding. The program below is essentially the same, but far tidier than what you have just typed in. Anything you don't understand should appear in the **!** lines (there are plenty of those!).
 ```
-100	NUMERIC TOTDISC, NEWPRICE
-120	CLEAR SCREEN
-160	PRINT AT 9,5:"A PROGRAM TO WORK OUT DISCOUNTS"
-170	PRINT AT 11,9:"ON MARKED RETAIL PRICES"
-180	!	-----------------------------------------
-190	!	160 and 170 print a title in the centre
-200	!	of the screen, which is neater
-205	!	than the top. 220 and 230 ensure that the
-207	!	title remains displayed for about 5
-208	!	seconds.
-210	!	-----------------------------------------
-220	FOR X=1 TO 2500
-230	NEXT X
-240	CLEAR SCREEN
-310	!	-----------------------------------------
-320	!	360 to 440 are the main program.
-325	!	They control the function called
-330	!	DISCOUNT. It is through this part
-335	!	that you exit the program when
-340	!	you need to.
-350	!	-----------------------------------------
-360	DO
-365		CLEAR SCREEN
-370		INPUT PROMPT "Please type in the price of the goods ":PRICE
-375		PRINT
-380		INPUT PROMPT "Please type in the percentage discount offered ":DISC
-390		CALL DISCOUNT
-400		PRINT "A";DISC;"percent discount on goods priced at £";PRICE
-405		PRINT
-410		PRINT "would be £";TOTDISC;"."
-415		PRINT
-420		PRINT "The new price would be £";NEWPRICE;"."
-425		PRINT
-430		INPUT PROMPT "Would you like to know any other discounts? ":ANS$
-440	LOOP WHILE UCASE$(ANS$(1:1))="Y"
-445	END
-450	DEF DISCOUNT
-460		LET TOTDISC=(PRICE/100)*DISC
-470		LET NEWPRICE=PRICE-TOTDISC
-480	END DEF
+100 NUMERIC TOTDISC, NEWPRICE
+120 CLEAR SCREEN
+160 PRINT AT 9,5:"A PROGRAM TO WORK OUT DISCOUNTS"
+170 PRINT AT 11,9:"ON MARKED RETAIL PRICES"
+180 !	-----------------------------------------
+190 !	160 and 170 print a title in the centre
+200 !	of the screen, which is neater
+205 !	than the top. 220 and 230 ensure that the
+207 !	title remains displayed for about 5
+208 !	seconds.
+210 !	-----------------------------------------
+220 FOR X=1 TO 2500
+230 NEXT X
+240 CLEAR SCREEN
+310 !	-----------------------------------------
+320 !	360 to 440 are the main program.
+325 !	They control the function called
+330 !	DISCOUNT. It is through this part
+335 !	that you exit the program when
+340 !	you need to.
+350 !	-----------------------------------------
+360 DO
+365   CLEAR SCREEN
+370   INPUT PROMPT "Please type in the price of the goods ":PRICE
+375   PRINT
+380   INPUT PROMPT "Please type in the percentage discount offered ":DISC
+390   CALL DISCOUNT
+400   PRINT "A";DISC;"percent discount on goods priced at £";PRICE
+405   PRINT
+410   PRINT "would be £";TOTDISC;"."
+415   PRINT
+420   PRINT "The new price would be £";NEWPRICE;"."
+425   PRINT
+430   INPUT PROMPT "Would you like to know any other discounts? ":ANS$
+440 LOOP WHILE UCASE$(ANS$(1:1))="Y"
+445 END
+450 DEF DISCOUNT
+460   LET TOTDISC=(PRICE/100)*DISC
+470   LET NEWPRICE=PRICE-TOTDISC
+480 END DEF
 ```
 The program above has one small defect. When it asks you if you want to work out any more discounts, it is unable to cope with a mistaken input. It would be quite easy for you to type '**t**' instead of '**y**', which would have the result of ending the program. A good program should make allowance for mistakes by users.
 
@@ -177,74 +177,74 @@ This may not make a crucial amount of difference to your programs now, but it wi
 
 The program below doesn't provide all the answers, but it does show you how you can make sure a program won't end or fail to work because you type in the wrong input.
 ```
-100	DO
-110		!	-------------------------------------
-120		!	The whole program is a large DO/
-125		!	LOOP. In 480 to 500 you will
-130		!	notice another DO/LOOP inside
-140		!	the large one. This is fine – as long
-145		!	as the one loop is inside the
-150		!	other. A loop inside a loop is
-160		!	a nested loop. 175 to 290 are
-165		!	also a nested loop.
-170		!	-------------------------------------
-175		DO
-180			INPUT PROMPT "Type in a whole number from 1 to 5: ":NUM
-190			!	--------------------------------
-200			!	180 asks you to give input as
-205			!	shown. 290 makes sure it is an
-210			!	acceptable number by check-
-220			!	ing first that it is not bigger
-225			!	than 5 or less than 1, and
-230			!	secondly that it is a whole
-235			!	number – this is done by
-240			!	making sure the variable
-245			!	NUM is not bigger or smaller
-250			!	than its integer part. If NUM is
-260			!	acceptable, the LOOP is not
-270			!	repeated.
-280			!	--------------------------------
-290		LOOP WHILE NUM>5 OR NUM<1 OR NUM<>INT(NUM)
-300		SELECT CASE NUM
-310		CASE 1
-320			PRINT "Number 1"
-330		CASE 2
-340			PRINT "Number 2"
-350		CASE 3
-360			PRINT "Number 3"
-370		CASE 4
-380			PRINT "Number 4"
-390		CASE 5
-400			PRINT "Number 5"
-410		END SELECT
-420		!	-------------------------------------
-430		!	Lines 300 to 410 select the
-435		!	right response to your number.
-440		!	If the number is not 1 the computer
-445		!	drops down to the next line and
-450		!	checks that, and so on. SELECT
-460		!	CASE is dealt with on page 64.
-470		!	-------------------------------------
-480		DO
-490			INPUT PROMPT "Do you want to try another? ":ANS$
-500		LOOP UNTIL UCASE$(ANS$(1:1))="Y" OR UCASE$(ANS$(1:1))="N"
-510		!	-------------------------------------
-520		!	480 to 500 are the nested loop.
-530		!	It will keep looping until the
-540		!	first letter of your response,
-545		!	converted to a capital letter, is
-550		!	"Y" or "N". This is the same in
-555		!	principle as the check used on the
-560		!	variable NUM above, but the
-565		!	method is different. 640 tells the
-590		!	computer to go back to the
-600		!	beginning as long as the first
-610		!	letter of ANS$ is "Y". That means
-615		!	that when it is "N" the machine
-620		!	leaves the loop.
-630		!	-------------------------------------
-640	LOOP WHILE UCASE$(ANS$(1:1))="Y"
-650	END
+100 DO
+110   !	-------------------------------------
+120   !	The whole program is a large DO/
+125   !	LOOP. In 480 to 500 you will
+130   !	notice another DO/LOOP inside
+140   !	the large one. This is fine – as long
+145   !	as the one loop is inside the
+150   !	other. A loop inside a loop is
+160   !	a nested loop. 175 to 290 are
+165   !	also a nested loop.
+170   !	-------------------------------------
+175   DO
+180     INPUT PROMPT "Type in a whole number from 1 to 5: ":NUM
+190     !	--------------------------------
+200     !	180 asks you to give input as
+205     !	shown. 290 makes sure it is an
+210     !	acceptable number by check-
+220     !	ing first that it is not bigger
+225     !	than 5 or less than 1, and
+230     !	secondly that it is a whole
+235     !	number – this is done by
+240     !	making sure the variable
+245     !	NUM is not bigger or smaller
+250     !	than its integer part. If NUM is
+260     !	acceptable, the LOOP is not
+270     !	repeated.
+280     !	--------------------------------
+290   LOOP WHILE NUM>5 OR NUM<1 OR NUM<>INT(NUM)
+300   SELECT CASE NUM
+310   CASE 1
+320     PRINT "Number 1"
+330   CASE 2
+340     PRINT "Number 2"
+350   CASE 3
+360     PRINT "Number 3"
+370   CASE 4
+380     PRINT "Number 4"
+390   CASE 5
+400     PRINT "Number 5"
+410   END SELECT
+420   !	-------------------------------------
+430   !	Lines 300 to 410 select the
+435   !	right response to your number.
+440   !	If the number is not 1 the computer
+445   !	drops down to the next line and
+450   !	checks that, and so on. SELECT
+460   !	CASE is dealt with on page 64.
+470   !	-------------------------------------
+480   DO
+490     INPUT PROMPT "Do you want to try another? ":ANS$
+500   LOOP UNTIL UCASE$(ANS$(1:1))="Y" OR UCASE$(ANS$(1:1))="N"
+510   !	-------------------------------------
+520   !	480 to 500 are the nested loop.
+530   !	It will keep looping until the
+540   !	first letter of your response,
+545   !	converted to a capital letter, is
+550   !	"Y" or "N". This is the same in
+555   !	principle as the check used on the
+560   !	variable NUM above, but the
+565   !	method is different. 640 tells the
+590   !	computer to go back to the
+600   !	beginning as long as the first
+610   !	letter of ANS$ is "Y". That means
+615   !	that when it is "N" the machine
+620   !	leaves the loop.
+630   !	-------------------------------------
+640 LOOP WHILE UCASE$(ANS$(1:1))="Y"
+650 END
 ```
 Remember, the method used here is just one way of checking input. Many of the functions provided by the computer can be used to do this in one way or another. The secret of writing efficient programs lies partly in inventing little devices like those above – among several other things – and so does much of the fun of it too.
 

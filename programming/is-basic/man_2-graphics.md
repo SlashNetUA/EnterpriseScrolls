@@ -6,9 +6,9 @@ In the first part of the manual, `PRINT AT` was explained to you. This command m
 
 The graphics commands use a similar system to put lines and dots on the screen and enable you to make diagrams and pictures. In this case, though, the 'screen positions' are much smaller. Here's a short program which will draw a line.
 ```
-100	GRAPHICS
-110	PLOT 640,360;1000,700
-120	END
+100 GRAPHICS
+110 PLOT 640,360;1000,700
+120 END
 ```
 You will have come across the first statement in earlier examples. The word [GRAPHICS](man_cs-graphics.md) is a quick and simple way of selecting a blank 'page' on which you can make pictures.
 
@@ -31,13 +31,13 @@ When you learn about 'channels' and the more sophisticated features of the graph
 
 Try changing the [PLOT](man_cs-plot.md) statement in the program so that it simply reads:
 ```
-110	PLOT 100,100
+110 PLOT 100,100
 ```
 — and run the program again. A dot appears on the screen.
 
 Now add a semicolon after `100,100`. Then add:
 ```
-115	PLOT 1000,700
+115 PLOT 1000,700
 ```
 — and run the program once more, it draws a line again. Then remove the semicolon from line **110**. Run the program. Two dots appear. Why?
 
@@ -49,17 +49,17 @@ You can also use the commands [SET BEAM ON](man_vo-beam.md) and [SET BEAM OFF](m
 
 Here's a measles program:
 ```
-100	RANDOMIZE
-110	INPUT PROMPT "How many measles? ": B
-120	GRAPHICS
-130	LET Z=0
-140	DO
-150		LET X=RND(1279)
-160		LET Y=RND(719)
-170		PLOT X,Y
-180		LET Z=Z+1
-190	LOOP UNTIL Z=B
-200	END
+100 RANDOMIZE
+110 INPUT PROMPT "How many measles? ": B
+120 GRAPHICS
+130 LET Z=0
+140 DO
+150   LET X=RND(1279)
+160   LET Y=RND(719)
+170   PLOT X,Y
+180   LET Z=Z+1
+190 LOOP UNTIL Z=B
+200 END
 ```
 That program will plot dots in random positions on the screen. By changing **170** to:
 ```
@@ -69,10 +69,10 @@ That program will plot dots in random positions on the screen. By changing **170
 
 Any of the graphics commands can, of course, be included in the definition of a function. The following example shows, incidentally, that you can put several screen positions in one [PLOT](man_cs-plot.md) command and draw lines between them all:
 ```
-100	DEF DIAGRAM
-110		GRAPHICS
-120		PLOT 504,544;564,464;516,448;504,544;460,464;516,448
-130	END DEF
+100 DEF DIAGRAM
+110   GRAPHICS
+120   PLOT 504,544;564,464;516,448;504,544;460,464;516,448
+130 END DEF
 ```
 Run this, then type `CALL DIAGRAM` in immediate mode.
 
@@ -82,18 +82,18 @@ If you put a comma after a pair of co-ordinates, no dot will be inserted in that
 
 We shall now look at another set of commands which enable you to draw lines. They are called 'turtle' commands, because they were first used for controlling a slow-moving robot animal. This time, we don't need to work out the co-ordinates of a whole series of screen positions.
 ```
-100	OPTION ANGLE DEGREES
-110	GRAPHICS
-120	PLOT 300,150;
-130	PLOT ANGLE 80;
-140	PLOT FORWARD 500;
-150	PLOT BACK 320;
-160	PLOT RIGHT 35;
-170	PLOT FORWARD 420;
-180	PLOT BACK 285;
-190	PLOT RIGHT 100;
-200	PLOT FORWARD 340
-210	END
+100 OPTION ANGLE DEGREES
+110 GRAPHICS
+120 PLOT 300,150;
+130 PLOT ANGLE 80;
+140 PLOT FORWARD 500;
+150 PLOT BACK 320;
+160 PLOT RIGHT 35;
+170 PLOT FORWARD 420;
+180 PLOT BACK 285;
+190 PLOT RIGHT 100;
+200 PLOT FORWARD 340
+210 END
 ```
 You can see, sure enough, that this is rather like guiding an animal around the screen. But some of the program lines need a little explanation.
 
@@ -111,10 +111,10 @@ Notice that with 'turtle' commands you still have to use semicolons to keep the 
 
 The following program plots an ellipse:
 ```
-100	GRAPHICS
-110	PLOT 640,250,
-120	PLOT ELLIPSE 100,200,
-130	END
+100 GRAPHICS
+110 PLOT 640,250,
+120 PLOT ELLIPSE 100,200,
+130 END
 ```
 Line **110** gives the centre of the ellipse. The first number after [PLOT ELLIPSE](man_cs-plot.md) is the horizontal distance (in screen positions) between the centre and the circumference, and the next number is the vertical distance. If these two numbers were the same, the program would draw a circle. Notice the commas at the ends of lines **110** and **120**. If you missed out either of these, the centre of the ellipse would be marked on the screen by a dot. As it is, the program leaves the beam in this centre position but turns it off.
 
@@ -124,20 +124,20 @@ You are probably well aware that the Enterprise can display **256** colours. Up 
 
 The following program will display all **256** colours at once:
 ```
-100	!	------------------------------------
-110	GRAPHICS 256 !	Note the number which this
-120	!	time has to follow
-125	!	GRAPHICS.
-130	!	------------------------------------
-140	LET Z=0
-150	FOR Y=0 TO 560 STEP 80
-160		FOR X=32 TO 1052 STEP 32
-170			SET INK Z
-180			PLOT X,Y;X,Y+70
-190			LET Z=Z+1
-200		NEXT X
-210	NEXT Y
-220	END
+100 !	------------------------------------
+110 GRAPHICS 256 !	Note the number which this
+120 !	time has to follow
+125 !	GRAPHICS.
+130 !	------------------------------------
+140 LET Z=0
+150 FOR Y=0 TO 560 STEP 80
+160   FOR X=32 TO 1052 STEP 32
+170     SET INK Z
+180     PLOT X,Y;X,Y+70
+190     LET Z=Z+1
+200   NEXT X
+210 NEXT Y
+220 END
 ```
 The Enterprise identifies each colour by a code-number in the range **0**-**255**. For simplicity, a special function '[RGB](man_fn-rgb.md)' is supplied to allow you to select colours by mixing amounts of red, green and blue. This is explained later in the chapter.
 
@@ -193,16 +193,16 @@ So `SET INK RGB(1,.5,.5)` would give you pink as a plotting colour. `RGB(.4,.4,0
 
 The **8** colours below can be selected very simply, by just typing their names (e.g. `SET INK GREEN`). Here are the 'mixtures' to which they correspond: —
 
-|   |   |
-|:-:|:-:|
-|BLACK|RGB(0,0,0)
-|RED|RGB(1,0,0)
-|GREEN|RGB(0,1,0)
-|YELLOW|RGB(1,1,0)
-|BLUE|RGB(0,0,1)
-|MAGENTA|RGB(1,0,1)
-|CYAN|RGB(0,1,1)
-|WHITE|RGB(1,1,1)
+|         |            |
+|:-------:|:----------:|
+|  BLACK  | RGB(0,0,0) |
+|   RED   | RGB(1,0,0) |
+|  GREEN  | RGB(0,1,0) |
+| YELLOW  | RGB(1,1,0) |
+|  BLUE   | RGB(0,0,1) |
+| MAGENTA | RGB(1,0,1) |
+|  CYAN   | RGB(0,1,1) |
+|  WHITE  | RGB(1,1,1) |
 
 ## THE PALETTE
 
@@ -210,7 +210,7 @@ If you give the command `GRAPHICS HIRES 16`, restricting yourself to **16** colo
 
 First, type [SET PALETTE](man_vo-palette.md), then list eight of the colours that you want to use. These can be freely chosen from the full range of **256**, and you can specify them by their standard code-numbers, by their names (if they are in the above list), or by defining them as a 'mixture'. For example, you could type:
 ```
-100	SET PALETTE 67,31,WHITE,4,RGB(0.,3,.8),RGB(.7,.7,.1),187,190
+100 SET PALETTE 67,31,WHITE,4,RGB(0.,3,.8),RGB(.7,.7,.1),187,190
 ```
 – and these colours would then be numbered **0**-**7** in your 'palette'.
 
@@ -234,36 +234,36 @@ In the following program, which creates ellipses of random sizes and colours, we
 
 The program ends with an infinite loop – it will never finish unless interrupted. To halt execution, press the 'Stop' key.
 ```
-100	RANDOMIZE
-140	GRAPHICS HIRES 4
-150	SET PALETTE BLUE,BLUE,BLUE,BLUE
-160	!	------------------
-170	!	Invisible display.
-180	!	------------------
-190	DO
-200		SET INK RND*3+1
-210		PLOT 625,330,
-220		PLOT ELLIPSE RND*500,RND*300,
-230	LOOP WHILE INKEY$=""
-240	!	----------------------------------
-250	!	When key is pressed, show display.
-260	!	----------------------------------
-270	DO
-280		SET PALETTE BLUE,BLUE,RED,GREEN
-290		!	------------------------
-300		FOR X=1 TO 500 !	Delay for
-310		NEXT X !	nearly 1 second.
-320		!	------------------------
-330		SET PALETTE BLUE,RED,GREEN,BLUE
-340		FOR X=1 TO 500
-350		NEXT X
-360		SET PALETTE BLUE,GREEN,BLUE,RED
-370		FOR X=1 TO 500
-380		NEXT X
-390	LOOP
-400	!	-------------------------------
-410	!	Use 'stop' key to halt program.
-420	!	-------------------------------
+100 RANDOMIZE
+140 GRAPHICS HIRES 4
+150 SET PALETTE BLUE,BLUE,BLUE,BLUE
+160 !	------------------
+170 !	Invisible display.
+180 !	------------------
+190 DO
+200   SET INK RND*3+1
+210   PLOT 625,330,
+220   PLOT ELLIPSE RND*500,RND*300,
+230 LOOP WHILE INKEY$=""
+240 !	----------------------------------
+250 !	When key is pressed, show display.
+260 !	----------------------------------
+270 DO
+280   SET PALETTE BLUE,BLUE,RED,GREEN
+290   !	------------------------
+300   FOR X=1 TO 500 !	Delay for
+310   NEXT X !	nearly 1 second.
+320   !	------------------------
+330   SET PALETTE BLUE,RED,GREEN,BLUE
+340   FOR X=1 TO 500
+350   NEXT X
+360   SET PALETTE BLUE,GREEN,BLUE,RED
+370   FOR X=1 TO 500
+380   NEXT X
+390 LOOP
+400 !	-------------------------------
+410 !	Use 'stop' key to halt program.
+420 !	-------------------------------
 ```
 Note, by the way, that the [PALETTE](man_vo-palette.md), [INK](man_vo-ink.md) and [PAPER](man_vo-paper.md) commands can also be used if you are working with a 'text' page. The '[Video Options](man_3-vidoptions.md)' chapter in the Reference Section gives details of this. Try the following experiments:
 ```
@@ -275,17 +275,17 @@ SET £102:INK 3
 
 This instruction fills a solid shape with the current 'ink' colour. Here is a program which will draw one circle inside another and then paint in two different colours:
 ```
-100	GRAPHICS HIRES 4
-110	SET PALETTE WHITE,YELLOW,BLUE
-120	PLOT 400,400,
-130	PLOT ELLIPSE 200,200,
-140	PLOT ELLIPSE 80,80,
-150	SET INK 3
-160	PLOT PAINT
-170	PLOT 400,250,
-180	SET INK 2
-190	PLOT PAINT
-200	END
+100 GRAPHICS HIRES 4
+110 SET PALETTE WHITE,YELLOW,BLUE
+120 PLOT 400,400,
+130 PLOT ELLIPSE 200,200,
+140 PLOT ELLIPSE 80,80,
+150 SET INK 3
+160 PLOT PAINT
+170 PLOT 400,250,
+180 SET INK 2
+190 PLOT PAINT
+200 END
 ```
 So the area filled in by [PLOT PAINT](man_cs-plot.md) is one which currently contains the 'beam' and is enclosed by a continuous line of a different colour from the beam position. Any gaps in the line will mean that the painting will go outside the shape and try to fill the whole screen. Notice the commas at the ends of program lines **130**, **140** and **170**; we had to prevent a dot from appearing in the beam position, since otherwise [PLOT PAINT](man_cs-plot.md) would have painted this dot only.
 
@@ -306,15 +306,15 @@ There are two main advantages in opening new 'channels' for your pages:
 
 The following example creates a small text page and shows it in the middle of the screen:
 ```
-50	SET BORDER CYAN
-100	SET VIDEO MODE 0
-110	SET VIDEO COLOUR 0
-120	SET VIDEO X 20
-130	SET VIDEO Y 10
-140	OPEN £1:"VIDEO:"
-150	DISPLAY £1:AT 7 FROM 1 TO 10
-160	PRINT £1:"A small text page..."
-170	END
+ 50 SET BORDER CYAN
+100 SET VIDEO MODE 0
+110 SET VIDEO COLOUR 0
+120 SET VIDEO X 20
+130 SET VIDEO Y 10
+140 OPEN £1:"VIDEO:"
+150 DISPLAY £1:AT 7 FROM 1 TO 10
+160 PRINT £1:"A small text page..."
+170 END
 ```
 Line **140** assigns channel number **1** to our new video page. But the 'video mode', 'colour mode', and page dimensions have to be specified before this is done.
 
@@ -322,12 +322,12 @@ Video mode **0** is a **40**-column text page; mode **1** is a graphics page; mo
 
 [VIDEO COLOUR](man_vo-video-col.md) selects the colour-mode, according to the following convention:
 
-|   |   |
-|:-:|:--|
-|VIDEO COLOUR 0|2-colour mode
-|VIDEO COLOUR 1|4-colour mode
-|VIDEO COLOUR 2|16-colour mode
-|VIDEO COLOUR 3|256-colour mode
+|                |                 |
+|:--------------:|:--------------- |
+| VIDEO COLOUR 0 | 2-colour mode   |
+| VIDEO COLOUR 1 | 4-colour mode   |
+| VIDEO COLOUR 2 | 16-colour mode  |
+| VIDEO COLOUR 3 | 256-colour mode |
 
 A text page should always be in colour mode **0**; this still allows you some choice of colours.
 
@@ -339,46 +339,46 @@ Notice that the [PRINT](man_cs-print.md) command in line **160** has to include 
 
 The height specified for the page can, if you like, be greater than the height of the screen. (The maximum is **255** character-rows.) The following program defines a page measuring **8** columns across by **30** rows down, and plots an ellipse on it; then two segments, containing the bottom and top portions of the drawing, are displayed in turn.
 ```
-100	SET VIDEO MODE 1
-110	SET VIDEO COLOUR 2
-120	SET VIDEO X 8
-130	SET VIDEO Y 30
-140	OPEN £1:"VIDEO:"
-150	PLOT £1:128,540,
-160	PLOT £1:ELLIPSE 115,500,
-170	DISPLAY £1:AT 10 FROM 21 TO 30
-180	FOR X=1 TO 1500
-190	NEXT X
-200	DISPLAY £1:AT 10 FROM 1 TO 10
-210	END
+100 SET VIDEO MODE 1
+110 SET VIDEO COLOUR 2
+120 SET VIDEO X 8
+130 SET VIDEO Y 30
+140 OPEN £1:"VIDEO:"
+150 PLOT £1:128,540,
+160 PLOT £1:ELLIPSE 115,500,
+170 DISPLAY £1:AT 10 FROM 21 TO 30
+180 FOR X=1 TO 1500
+190 NEXT X
+200 DISPLAY £1:AT 10 FROM 1 TO 10
+210 END
 ```
 The next example defines **3** 'pages' and displays them simultaneously in different parts of the screen:
 ```
-100	SET VIDEO MODE 0
-110	SET VIDEO COLOUR 0
-120	SET VIDEO X 42
-130	SET VIDEO Y 8
-140	!				----------
-150	OPEN £1:"VIDEO:" !	Text page.
-160	!				----------
-170	SET VIDEO MODE 1
-180	SET VIDEO COLOUR 3
-190	!				--------------------
-200	OPEN £2: "VIDEO:" !	256-colour graphics.
-210	!				--------------------
-220	SET VIDEO COLOUR 1
-230	!				------------------
-240	OPEN £3:"VIDEO:" !	4-colour graphics.
-250	!				------------------
-260	DISPLAY £1:AT 9 FROM 1 TO 8
-270	DISPLAY £2:AT 1 FROM 1 TO 8
-280	DISPLAY £3:AT 17 FROM 1 TO 8
-290	PRINT £1:"Text..."
-300	SET £2:BEAM ON
-310	PLOT £2:100,100;
-320	SET £3:BEAM ON
-330	PLOT £3:100,100;
-340	END
+100 SET VIDEO MODE 0
+110 SET VIDEO COLOUR 0
+120 SET VIDEO X 42
+130 SET VIDEO Y 8
+140 !				----------
+150 OPEN £1:"VIDEO:" !	Text page.
+160 !				----------
+170 SET VIDEO MODE 1
+180 SET VIDEO COLOUR 3
+190 !				--------------------
+200 OPEN £2: "VIDEO:" !	256-colour graphics.
+210 !				--------------------
+220 SET VIDEO COLOUR 1
+230 !				------------------
+240 OPEN £3:"VIDEO:" !	4-colour graphics.
+250 !				------------------
+260 DISPLAY £1:AT 9 FROM 1 TO 8
+270 DISPLAY £2:AT 1 FROM 1 TO 8
+280 DISPLAY £3:AT 17 FROM 1 TO 8
+290 PRINT £1:"Text..."
+300 SET £2:BEAM ON
+310 PLOT £2:100,100;
+320 SET £3:BEAM ON
+330 PLOT £3:100,100;
+340 END
 ```
 After running this, you won't be able to see what you are typing. Type [TEXT](man_cs-text.md) or press function key 5 to return to normal.
 
