@@ -8,12 +8,12 @@ All of the above operators can be used on the Enterprise. Some of them will be o
 
 Here are the rest, just to make sure:
 
-`^` means 'to the power of' or 'involution'. **2^3** is **2 cubed**.
-`<` means 'less than', e.g. **2<3**.
-`>` means 'greater than', e.g. **3>2**.
-`<>` means 'greater or less than', or 'not equal to'.
-`<=` means 'less than or equal to'.
-`>=` means 'greater than or equal to'.
+`^` means 'to the power of' or 'involution'. **2^3** is **2 cubed**.  
+`<` means 'less than', e.g. **2<3**.  
+`>` means 'greater than', e.g. **3>2**.  
+`<>` means 'greater or less than', or 'not equal to'.  
+`<=` means 'less than or equal to'.  
+`>=` means 'greater than or equal to'.  
 
 The last five operators are known as 'relational operators'. Their main use on a computer is in handling variables – for instance:
 

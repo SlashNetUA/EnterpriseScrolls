@@ -16,4 +16,6 @@ e.g. `DELETE FIRST-100,500-LAST`
 or `DELETE TO 100,500-`  
 for `DELETE FIRST TO 100,500 TO LAST`
 
-Lines defining a function P can be deleted with `DELETE P`. **DELETE** on its own will remove all program lines; can be halted with 'Stop' key.
+Lines defining a function P can be deleted with `DELETE P`.
+
+**DELETE** on its own will remove all program lines; can be halted with '**Stop**' key.
