@@ -29,14 +29,14 @@
 
 
 ```
-    +-------------+-------+-------+-· · ·-+-------+
-    | Block Count | BLOCK | BLOCK |       | BLOCK |
-    +-------------+-------+-------+-· · ·-+-------+
-       __________/         \____________________
-      /                                         \
-     +------------+--· · ·--+---------+----------+
-     | Byte Count |   Data  | Low CRC | High CRC |
-     +------------+--· · ·--+---------+----------+
+┌─────────────┬───────┬───────┬-- - --┬───────┐
+│ Block Count │ BLOCK │ BLOCK │       │ BLOCK │
+└─────────────┴───────┴───────┴-- - --┴───────┘
+   __________/         \____________________
+  /                                         \
+ ┌────────────┬─-- - --─┬─────────┬──────────┐
+ │ Byte Count │   Data  │ Low CRC │ High CRC │
+ └────────────┴─-- - --─┴─────────┴──────────┘
 ```
 
 Detail information look at [EXOS 2.1 Cassette Driver Specification](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXOS_2.1_technikal_information/exos/cassette/Ch6.html)
