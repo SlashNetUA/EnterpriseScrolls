@@ -1,6 +1,14 @@
+# EXOS-files
+
+[User relocatable module (REL)](fileformats/fmt_exe2-rel.md) (type 2)  
+[New Applications Program (APP)](fileformats/fmt_exe5-app.md) (type 5)  
+[Absolute System Extension (XABS)](fileformats/fmt_exe6-xabs.md) (type 6)  
+[Relocatable System Extension (XREL)](fileformats/fmt_exe7-xrel.md) (type 7)  
+
+
 # IS-Basic file
 
-[Tokenised BAS file (.bas)](fileformats/fmt_is-basic.md)
+[Tokenised BAS file (.bas)](fileformats/fmt_is-basic.md) (type 3 and 4)
 
 # Graphical files
 
