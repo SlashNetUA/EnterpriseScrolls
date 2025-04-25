@@ -3,7 +3,7 @@
 Written by [Zoltán Povázsay (Povi)](../../community/povi.md)  
 Published in [Enterpress 2017 \#2-3](http://enterprise.iko.hu/magazines/Enterpress_2017_per_2-3_UK.pdf#page=10)  
 
-In the first three years of the Enterpress magazine (1990-92), a 12-part series of articles featured the Pascal language from the pen of László Ujlaki. The primary target audience of the publication were Enterprise users who knew well IS-BASIC and were enough „skilled”. The speed of BASIC limits the writing of „more serious” programs, and one of the biggest shortcomings of the [ZZZIP Basic compiler](../zzzip/zzzip-compiler.md) is that it does not accept floating point numbers.  
+In the first three years of the Enterpress magazine (1990-92), a [12-part series of articles](http://www.ep128.hu/Ep_Konyv/Enterpress_Pascal.htm) featured the Pascal language from the pen of László Ujlaki. The primary target audience of the publication were Enterprise users who knew well IS-BASIC and were enough „skilled”. The speed of BASIC limits the writing of „more serious” programs, and one of the biggest shortcomings of the [ZZZIP Basic compiler](../zzzip/zzzip-compiler.md) is that it does not accept floating point numbers.  
 
 However, there are few applications on the Enterprise written in Pascal, the ones I know made with Borland Turbo Pascal, running in [IS-DOS](../../software/ss-is-dos.md) (CP/M); for example PCBPrise, an electronic PCB design program.
 

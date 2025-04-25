@@ -5,13 +5,14 @@
 
 # HiSoft Pascal
 [HiSoft Pascal Manual](hisoft-pascal_man-en/pr-hspascal.md) (EN)  
-[Hisoft Pascal Felhasználói kézikönyv](http://ep128.hu/Ep_Konyv/Pascal.htm) (HU)  
+[Hisoft Pascal Felhasználói kézikönyv](http://ep128.hu/Ep_Util/Hisoft_Pascal.htm) (HU)  
 Офіційний посібник
 
 [Enterprise Wiki](https://wiki.enterpriseforever.com/index.php?title=HiSoft_Pascal) (HU)  
 Сторінка на Enterprise Wiki
 
 ## Статті у періодичних виданнях
+
 [Hisoft Pascal. Parts 1-2](hisoft-pascal_enterpress/enterpress2017-2-3_en.md) (EN)  
 [Hisoft Pascal. Parts 1-2](http://enterprise.iko.hu/magazines/Enterpress_2017_per_2-3.pdf#page=10) (HU)  
 Стаття опублікована у журналі **Enterpress 2017 №2-3** розповідає про нововведення у Hisoft Pascal версії 1.2, роботу з клавіатурою та джойстиком і вставками машинного коду.
