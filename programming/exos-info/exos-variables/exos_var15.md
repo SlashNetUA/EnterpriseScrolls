@@ -11,4 +11,4 @@ Sound envelope storage size in *phases*.
 Memory address: **49108**
 
 
-See also [SET SOUND BUFFER](../../is-basic/man_so-sound-buffer.md)
+See also [SET SOUND BUFFER](../../is-basic_man-en/man_so-sound-buffer.md)

@@ -6,7 +6,7 @@
 | ------------ | ------ |:-----------:| -------------------------------------------------------------------------------------- |
 | HEADER       | 4 byte |      0      | `MPEN` header                                                                          |
 | FMT          | 1 byte |      4      | Format mode:</br>`00h`: Normal</br>`01h`: Extended</br>`02h`: Interlace                |
-| VIDEO_COLOUR | 1 byte |      5      | Graphics colour mode (See also [IS-Basic manual](../../is-basic/man_vo-video-col.md )) |
+| VIDEO_COLOUR | 1 byte |      5      | Graphics colour mode (See also [IS-Basic manual](../../is-basic_man-en/man_vo-video-col.md )) |
 | Y            | 1 byte |      6      | **Y** size in pixels                                                                   |
 | ???          | 1 byte |      7      | `00h`                                                                                  |
 | LX_CHAR      | 1 byte |      8      | Left image border position                                                             |

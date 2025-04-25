@@ -10,4 +10,4 @@
 
 Memory address: **49100**
 
-See also [SET KEY CLICK ON/OFF](../../is-basic/man_mo-key.md)  
+See also [SET KEY CLICK ON/OFF](../../is-basic_man-en/man_mo-key.md)  

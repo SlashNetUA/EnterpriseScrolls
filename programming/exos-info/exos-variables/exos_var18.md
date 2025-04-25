@@ -13,6 +13,6 @@ A net number must be specified before using the network, and should not be the s
 Memory address: **49111**
 
 
-See also [SET NET NUMBER](../../is-basic/man_mo-net-number.md).
+See also [SET NET NUMBER](../../is-basic_man-en/man_mo-net-number.md).
 
 

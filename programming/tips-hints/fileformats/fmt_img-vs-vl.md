@@ -7,11 +7,11 @@
 | EXOS module type  | 2 bytes |      0      | `00 DA`                                                                                                    |
 | VIDEO_Y           | 1 byte  |      2      | Image height in characters (Result image height = **video_y**\***9**)                                      |
 | VIDEO_X           | 1 byte  |      3      | Image width. (**2**..**84**)</br>**video_x**\***4** for hirez mode.</br>**video_x**\***8** for lorez mode. |
-| VIDEO_COLOUR      | 1 byte  |      4      | Graphics colour mode (See also [IS-Basic manual](../../is-basic/man_vo-video-col.md))                      |
-| VIDEO_MODE        | 1 byte  |      5      | Graphics video mode (See also [IS-Basic manual](../../is-basic/man_vo-video-mode.md))                      |
-| DISP_AT           | 1 byte  |      6      | See [IS-Basic manual](../../is-basic/man_cs-display.md)                                                    |
-| DISP_LINES        | 1 byte  |      7      | See [IS-Basic manual](../../is-basic/man_cs-display.md)                                                    |
-| DISP_FROM         | 1 byte  |      8      | See [IS-Basic manual](../../is-basic/man_cs-display.md)                                                    |
+| VIDEO_COLOUR      | 1 byte  |      4      | Graphics colour mode (See also [IS-Basic manual](../../is-basic_man-en/man_vo-video-col.md))                      |
+| VIDEO_MODE        | 1 byte  |      5      | Graphics video mode (See also [IS-Basic manual](../../is-basic_man-en/man_vo-video-mode.md))                      |
+| DISP_AT           | 1 byte  |      6      | See [IS-Basic manual](../../is-basic_man-en/man_cs-display.md)                                                    |
+| DISP_LINES        | 1 byte  |      7      | See [IS-Basic manual](../../is-basic_man-en/man_cs-display.md)                                                    |
+| DISP_FROM         | 1 byte  |      8      | See [IS-Basic manual](../../is-basic_man-en/man_cs-display.md)                                                    |
 | NO_DISP           | 1 byte  |      9      | **0**: Show image</br>**≠0**: Don't show image                                                             |
 | (reserved)        | 6 bytes |     10      | `00 00 00 00 00 00`                                                                                        |
 | COL0              | 1 byte  |     16      | Palette index 0 colour from global set                                                                     |

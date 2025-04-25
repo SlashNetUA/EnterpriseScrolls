@@ -58,5 +58,5 @@
 2.4.6.6 [PEEK](man_s2-4-6-peek.md)  
 2.4.6.7 [SIZE](man_s2-4-6-size.md)  
 2.4.6.8 [INP](man_s2-4-6-inp.md)  
-2.4.6.9 [EXIS](man_s2-4-6-exis.md)  
+2.4.6.9 [EXOS](man_s2-4-6-exos.md)  
 2.4.6.10 [MAKESTR](man_s2-4-6-makestr.md)  

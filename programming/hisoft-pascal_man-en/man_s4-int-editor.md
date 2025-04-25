@@ -16,7 +16,7 @@ Below the syntax of each command is given followed by an example and then the de
 
 `I100,10`
 
-Insert text starting at line **100**, incrementing line numbers in **10**s; this does a true insert, moving up existing lines as necessary. The default for **n** and **i** is **10**. Line numbers are generated automatically for you, like BASIC's [AUTO](../is-basic/man_cs-auto.md). Hit **Stop** to get out.
+Insert text starting at line **100**, incrementing line numbers in **10**s; this does a true insert, moving up existing lines as necessary. The default for **n** and **i** is **10**. Line numbers are generated automatically for you, like BASIC's [AUTO](../is-basic_man-en/man_cs-auto.md). Hit **Stop** to get out.
 
 ## EDIT TEXT	COMMAND En
 

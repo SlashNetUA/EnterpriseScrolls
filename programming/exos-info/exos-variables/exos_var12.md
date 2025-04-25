@@ -10,4 +10,4 @@
 Memory address: **49105**
 
 
-See also [SET TAPE SOUND ON/OFF](../../is-basic/man_mo-tape-snd.md)
+See also [SET TAPE SOUND ON/OFF](../../is-basic_man-en/man_mo-tape-snd.md)

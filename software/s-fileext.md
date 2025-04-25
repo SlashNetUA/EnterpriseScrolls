@@ -41,12 +41,12 @@
 
 **(типи EXOS модуля: 3 та 4)**
 
-Програма написана на мові [IS-BASIC](../programming/is-basic/pr-is-basic.md).
-Текст програми зберігаються у токенізованому форматі. Але інтерпретатор вміє читати файли і у звичайному текстовому форматі. Ці файли можуть бути завантажені у [IS-BASIC](../programming/is-basic/pr-is-basic.md).
+Програма написана на мові [IS-BASIC](../programming/is-basic_man-en/pr-is-basic.md).
+Текст програми зберігаються у токенізованому форматі. Але інтерпретатор вміє читати файли і у звичайному текстовому форматі. Ці файли можуть бути завантажені у [IS-BASIC](../programming/is-basic_man-en/pr-is-basic.md).
 
 ### PAS
 
-Вихідний код мовою Pascal. Для запуску програм мовою Pascal вихідний код попередньо потрібно відкомпілювати в **.com**-файл. Використовуються з [HiSOFT Pascal](../programming/hisoft-pascal/pr-hspascal.md), Turbo Pascal та ін.
+Вихідний код мовою Pascal. Для запуску програм мовою Pascal вихідний код попередньо потрібно відкомпілювати в **.com**-файл. Використовуються з [HiSOFT Pascal](../programming/hisoft-pascal_man-en/pr-hspascal.md), Turbo Pascal та ін.
 
 ### 4TH
 
@@ -68,7 +68,7 @@
 
 **(тип EXOS модуля: 4)**
 
-Завантажувач компільованої BASIC-програми ([Zzzip](../programming/zzzip/zzzip-compiler.md)). Не плутати з розповсюдженим форматом архіву. Ці файли можуть бути завантажені у [IS-BASIC](../programming/is-basic/pr-is-basic.md). Зазвичай перейменовують на стандартний **.bas**.
+Завантажувач компільованої BASIC-програми ([Zzzip](../programming/zzzip/zzzip-compiler.md)). Не плутати з розповсюдженим форматом архіву. Ці файли можуть бути завантажені у [IS-BASIC](../programming/is-basic_man-en/pr-is-basic.md). Зазвичай перейменовують на стандартний **.bas**.
 
 ### Z
 
