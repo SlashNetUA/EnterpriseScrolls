@@ -1,5 +1,6 @@
 # IS-Basic
 [IS-Basic Programming Manual](is-basic_man-en/pr-is-basic.md)  
+[Zzzip Integer Compiler](zzzip/zzzip-compiler.md)  
 
 ----  
 
@@ -10,6 +11,15 @@
 
 [Enterprise Wiki](https://wiki.enterpriseforever.com/index.php?title=HiSoft_Pascal) (HU)  
 Сторінка на Enterprise Wiki
+
+### Додаткові бібліотеки
+[GRAPH16](hisoft-pascal-hpu/graph16.hpu.md) – 16-колірний графічний режим та робота із спрайтами  
+[GRAFCS/GRAFCSX](hisoft-pascal-hpu/grafcs.hpu.md) – робота з графічними режимами використовуючи функції EXOS  
+[TEXTVID](hisoft-pascal-hpu/textvid.hpu.md) – робота із текстовим режимом екрану  
+[LPTUNIT](hisoft-pascal-hpu/lptunit.hpu.md) – робота з відеоекранами  
+[SOUND](hisoft-pascal-hpu/sound.hpu.md) – робота із звуком  
+[OS](hisoft-pascal-hpu/os.hpu.md) – додаткові функції EXOS  
+[TURTLE](hisoft-pascal-hpu/turtle.hpu.md) – черепашкова графіка  
 
 ## Статті у періодичних виданнях
 
@@ -33,8 +43,20 @@
 [A HiSoft Pascal rejtelmei](http://enterprise.iko.hu/magazines/Enterpress_2018_per_1.pdf#page=10) (HU)  
 Стаття опублікована у журналі **Enterpress 2018 №1-2** розповідає про тонкощі оптимізації додавання та множення чисел.
 
+----
 
+# IS-Forth
 
+[Forth Programming manual](http://enterprise.iko.hu/books/IS-FORTH.pdf) (EN)  
+
+----
+
+# IS-LISP
+
+[LISP Programming manual](http://enterprise.iko.hu/books/IS-LISP_English.pdf) (EN)  
+[Lisp Programozási Segédlet](http://ep128.hu/Ep_Konyv/Lisp.htm) (HU)  
+
+[User overview](https://enterpriseforever.com/programming/lisp/)  
 
 ----  
 # Various information

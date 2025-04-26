@@ -176,8 +176,8 @@ Finally, a very simple demo program (without procedures, they must of course be 
 ```
 program grdemo; 
 begin  
-  SetVar(22, 1)      { graphics hi-res };  
-  SetVar(23, 2)          { 16 colours mode };  
+  SetVar(22, 1)         { graphics hi-res };  
+  SetVar(23, 2)         { 16 colours mode };  
   SetVar(24, 40)        { 40 characters wide };  
   SetVar(25, 20)        { 20 characters high }; 
   OpenVideoChannel(1);  { open the video page };   
@@ -191,7 +191,9 @@ begin  
 end; 
 ```
 
-In the last line, the User procedure reviews the 120-text video page. The routine at this address is the same as Display (120, 1, 1, 24). 
+![](Enterpress_2017_per_4_UK-033.png)
+
+In the last line, the User procedure reviews the 120-text video page. The routine at this address is the same as `Display (120, 1, 1, 24)`. 
 
 This is necessary because without this, the top 20 lines of the text video sheet will no longer be displayed after the graphics video is closed. 
 
