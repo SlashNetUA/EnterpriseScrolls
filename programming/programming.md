@@ -13,13 +13,13 @@
 Сторінка на Enterprise Wiki
 
 ### Додаткові бібліотеки
-[GRAPH16](hisoft-pascal-hpu/graph16.hpu.md) – 16-колірний графічний режим та робота із спрайтами  
-[GRAFCS/GRAFCSX](hisoft-pascal-hpu/grafcs.hpu.md) – робота з графічними режимами використовуючи функції EXOS  
-[TEXTVID](hisoft-pascal-hpu/textvid.hpu.md) – робота із текстовим режимом екрану  
-[LPTUNIT](hisoft-pascal-hpu/lptunit.hpu.md) – робота з відеоекранами  
-[SOUND](hisoft-pascal-hpu/sound.hpu.md) – робота із звуком  
-[OS](hisoft-pascal-hpu/os.hpu.md) – додаткові функції EXOS  
-[TURTLE](hisoft-pascal-hpu/turtle.hpu.md) – черепашкова графіка  
+[GRAPH16](hisoft-pascal-hpu/graph16.hpu.md) – 16-колірний графічний режим, робота із спрайтами та мишою.  
+[GRAFCS/GRAFCSX](hisoft-pascal-hpu/grafcs.hpu.md) – робота з графічними режимами використовуючи функції EXOS.  
+[TEXTVID](hisoft-pascal-hpu/textvid.hpu.md) – робота із текстовим режимом екрану.  
+[LPTUNIT](hisoft-pascal-hpu/lptunit.hpu.md) – робота з відеоекранами.  
+[SOUND](hisoft-pascal-hpu/sound.hpu.md) – робота із звуком.  
+[OS](hisoft-pascal-hpu/os.hpu.md) – додаткові функції EXOS.  
+[TURTLE](hisoft-pascal-hpu/turtle.hpu.md) – черепашкова графіка.  
 
 ## Статті у періодичних виданнях
 
