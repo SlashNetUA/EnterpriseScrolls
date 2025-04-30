@@ -151,7 +151,7 @@ NICK дозволяє вам чекати в залежності від так�
 |  2  |  Tab   |     `W`      |     `E`      |       `T`       |     `R`      | `Y`<br>(`Z`) |      `Q`      | `U`  |     | Ext5 Down  | Ext3 Down  | Ext1 Down  |
 |  3  |  Esc   |     `2`      |     `3`      |       `5`       |     `4`      |     `6`      |      `1`      | `7`  |     | Ext5 Left  | Ext3 Left  | Ext1 Left  |
 |  4  |   F1   |      F2      |      F7      |       F5        |      F6      |      F3      |      F8       |  F4  |     | Ext5 Right | Ext3 Right | Ext1 Right |
-|  5  |        |    Erase     | `^`<br>( \` )  |       `0`       | `-`<br>(`β`) |     `9`      |               | `8`  |     | Ext6 Fire  | Ext4 Fire  | Ext2 Fire  |
+|  5  |        |    Erase     | `^`<br>( &#96; )  |       `0`       | `-`<br>(`β`) |     `9`      |               | `8`  |     | Ext6 Fire  | Ext4 Fire  | Ext2 Fire  |
 |  6  |        | `]`<br>(`#`) | `:`<br>(`Ä`) |       `L`       | `;`<br>(`Ö`) |     `K`      |               | `J`  |     |  Ext6 Up   |  Ext4 Up   |  Ext2 Up   |
 |  7  |  Alt   |    Enter     |     Left     | Hold<br>(Pause) |      Up      |    Right     |     Down      | Stop |     | Ext6 Down  | Ext4 Down  | Ext2 Down  |
 |  8  |  Ins   |    Space     |    RShift    |       `.`       | `/`<br>(`-`) |     `,`      |      Del      | `M`  |     | Ext6 Left  | Ext4 Left  | Ext2 Left  |
