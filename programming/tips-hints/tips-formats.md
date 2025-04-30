@@ -29,6 +29,11 @@
 [Ikon](fileformats/fmt_img-ikon.md)  
 [Spred](fileformats/fmt_img-spred.md)  
 
+# Font files
+[Standard binary font dump](fileformats/fmt_fnt-epfnt.md)  
+[Stílusfaragó FONTSET](fileformats/fmt_fnt-epfnt8x.md)  
+[EP128pal EPF](fileformats/fmt_fnt-epf.md)  
+
 # Audio files
 [Enterprise MIDI (.epm)](fileformats/fmt_snd-epmidi.md)
 

@@ -61,3 +61,6 @@ APPENDIX 4: [EXAMPLE HISOFT PASCAL PROGRAMS BIBLIOGRAPHY](man_a4-examples.md)
 *Please note this manual was issued prior to the availability of PASCAL in cartridge form. If you have purchased the cartridge version, please ignore any instructions refering to tape cassettes.*
 
 *Enterprise Computers Limited*
+
+
+[Additional syntax](add_syntax.md)
