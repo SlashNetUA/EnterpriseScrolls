@@ -28,6 +28,7 @@
 [Lift](l/sg-lift.md)  
 
 [Mazy](m/sg-mazy.md)  
+[Mazy 2](m/sg-mazy2.md)  
 [Mieyen](m/sg-mieyen.md)  
 
 [Neuras](n/sg-neuras.md)  
@@ -35,10 +36,15 @@
 
 [Osotos](o/sg-osotos.md)  
 
+[Painter Man](p/sg-painter-man.md)
+
 [Ruptus](r/sg-ruptus.md)  
 
 [Space Invaders Arcade](s/sg-spaceinvaders-arcade.md)  
 [Squirm 16](s/sg-squirm16.md)  
 [Squirm C16 original](s/sg-squirmc16.md)  
+
+[Throbbin' Headache DX](t/sg-throbbin-headache.md)  
+[Throbby Heartache](t/sg-throbby-heartache.md)
 
 [Yewdow](y/sg-yewdow.md)  

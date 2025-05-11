@@ -22,6 +22,7 @@
 [Impetus](../sf-games/i/sg-impetus.md)  
 [Lift](../sf-games/l/sg-lift.md)  
 [Mazy](../sf-games/m/sg-mazy.md)  
+[Mazy 2](../sf-games/m/sg-mazy2.md)  
 [Mieyen](../sf-games/m/sg-mieyen.md)  
 [Neuras](../sf-games/n/sg-neuras.md)  
 [Osotos](../sf-games/o/sg-osotos.md)  

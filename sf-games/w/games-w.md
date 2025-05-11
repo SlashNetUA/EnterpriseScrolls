@@ -7,3 +7,5 @@
 Ігри для емуляторів [ZX Spectrum 48k/128k](../zxemu/games-zxemu.md) - [Amstrad CPC](../cpcemu/games-cpc.md) - [Sinclair ZX81](../zx81emu/games-zx81.md) - [Videoton TVC](../tvcemu/games-tvc.md) - [Commodore VIC-20](../vic20emu/games-vic20.md)
 
 ----------
+
+[Welcome to Chump Town!! - Episode 4: A New Joke](sg-chump-town.md)

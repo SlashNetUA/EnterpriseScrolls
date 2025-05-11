@@ -10,5 +10,6 @@
 
 [Magic Tower](sg-magictower.md)  
 [Mazy](sg-mazy.md)  
+[Mazy 2](sg-mazy2.md)  
 [Mieyen](sg-mieyen.md)  
 [Monty on the Run](sg-montyontherun.md)  
