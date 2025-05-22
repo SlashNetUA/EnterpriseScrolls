@@ -1,2 +1,3 @@
-[Characters](info_characters.md)  
-[EXOS variables](info_exos-variables.md)
+[Таблиця символів](info_characters.md)  
+[змінні EXOS](info_exos-variables.md)  
+функції EXOS

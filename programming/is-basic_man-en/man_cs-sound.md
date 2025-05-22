@@ -19,3 +19,51 @@ The **STYLE** parameter is in the range **0**-**255** (default: **0**); for its 
 **SYNC** allows the start of the sound to be precisely synchronized with **1**, **2** or **3** other sounds from different 'sources'. If, for example, three sounds are to start together, each one can be given the instruction `SYNC 2`, causing it to be synchronized with the two others. (Default value is **0**).
 
 **INTERRUPT**, if included, causes the new sound to replace any sound (from the same source) which may currently be going.
+
+----
+
+Значення PITCH які відповідають нотам
+
+|   нота    |              | Pitch  |
+|:---------:|:------------:|:------:|
+|    ДО     |    **C**     |   37   |
+|  ДО-дієз  |    **C#**    | 38 (?) |
+|    РЕ     |    **D**     |   39   |
+|  РЕ-дієз  |    **D#**    | 40 (?) |
+|    МІ     |    **E**     |   41   |
+|    ФА     |    **F**     |   42   |
+|  ФА-дієз  |    **F#**    | 43 (?) |
+|   СОЛЬ    |    **G**     |   44   |
+| СОЛЬ-дієз |    **G#**    | 45 (?) |
+|    ЛЯ     |    **A**     |   46   |
+|  ЛЯ-дієз  |    **A#**    | 47 (?) |
+|    СІ     | **H**(**B**) |   48   |
+|           |    1    C    |   49   |
+|           |   1    C#    | 50 (?) |
+|           |    1    D    |   51   |
+|           |   1    D#    |   52   |
+|           |    1    E    |   53   |
+|           |    1    F    |   54   |
+|           |   1    F#    |   55   |
+|           |    1    G    |   56   |
+|           |   1    G#    |   57   |
+|           |    1    A    |   58   |
+|           |   1    A#    |   59   |
+|           |    1    B    |   60   |
+|           |    2    C    |   61   |
+|           |   2    C#    |   62   |
+|           |    2    D    |   63   |
+|           |   2    D#    |   64   |
+|           |    2    E    |   65   |
+|           |    2    F    |   66   |
+|           |   2    F#    |   67   |
+|           |    2    G    |   68   |
+|           |   2    G#    |   69   |
+|           |    2    A    |   70   |
+|           |   2    A#    |   71   |
+|           |    2    B    |   72   |
+|           |   3     C    |   73   |
+|           |   3     C#   |   74   |
+|           |   3     D    |   75   |
+|           |   3     D#   |   76   |
+
