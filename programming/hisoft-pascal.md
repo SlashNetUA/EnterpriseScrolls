@@ -8,6 +8,8 @@
 
 ### Додаткові бібліотеки
 [GRAPH16](hisoft-pascal-hpu/graph16.hpu.md) – 16-колірний графічний режим, робота із спрайтами та мишою.  
+- [GRAPH16-PICO8 mod](hisoft-pascal-hpu/snpico.hpu.md) - модифікація бібліотеки для простішого адаптування ігор з Pico-8   
+
 [GRAFCS](hisoft-pascal-hpu/grafcs.hpu.md) – робота з відеосторінками використовуючи функції EXOS.  
 [TEXTVID](hisoft-pascal-hpu/textvid.hpu.md) – робота із текстовим режимом екрану.  
 [LPTUNIT](hisoft-pascal-hpu/lptunit.hpu.md) – робота з відеоекранами.  
