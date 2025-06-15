@@ -5,3 +5,5 @@
 [Виведення "тайлової" графіки](snpico-drawtiles.md)
 
 ["Конвертація" звуків з Pico-8](snpico-sounds.md)
+
+[Адаптація програм](snpico-adaptation.md)

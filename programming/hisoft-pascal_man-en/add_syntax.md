@@ -3,8 +3,7 @@
 ```
 CASE selector OF
     caseValue0: statement;
-    caseValue1,caseValue7: statement;
-    caseValue10..caseValue20: statement
+    caseValue1,caseValue7: statement
 ELSE statement;
 ```
 
@@ -12,7 +11,7 @@ ELSE statement;
 CASE selector OF
   caseValue0,caseValue1: BEGIN statement; statement END;
   caseValue2: BEGIN statement; statement END
-  ELSE BEGIN statement; statement END;
+ELSE BEGIN statement; statement END;
 ```
 
 ```

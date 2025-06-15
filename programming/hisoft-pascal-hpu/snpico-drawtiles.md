@@ -39,7 +39,7 @@ DrawTile8(tindex,dx,dy);
 
 Аналогічно, перед виводом тайлу можна зберегти потрібну область фону у змінну чи пам'ять розміром 32 байти, щоб пізніше можна було відтворити фон.
 
-Ось варіант процедури з використанням машинного коду який виконується значно швидше:
+Ось варіант процедури виведення тайлів шириною 8 пікселів з використанням машинного коду який виконується значно швидше:
 
 ```
 procedure DrawTile(Source,Destination:integer; Height:char);
@@ -57,5 +57,34 @@ begin
   sa:=addr(tile8)+32*tileindex;
   da:=#C000+(ty*64+tx);
   DrawTile(sa,da,chr(8));
+end;
+```
+
+
+Ось варіант процедури, яка вміє виводити змінний розмір тайлів. Ширина та координата **x** можуть бути лише парними.
+
+```
+procedure DrawTile(sa:integer;tx,ty,hght,wdth:char);
+begin
+  inline(#DD,#46,#03,#DD,#56,#04,#AF,#37);
+  inline(#CB,#1A,#1F,#37,#CB,#1A,#1F,#DD);
+  inline(#86,#05,#5F,#DD,#6E,#06,#DD,#66);
+  inline(#07,#DD,#4E,#02,#3E,#40,#91,#C5);
+  inline(#06,#00,#ED,#B0,#EB,#4F,#09,#EB);
+  inline(#C1,#10,#F4);
+end;
+
+procedure DrawTile8(tileindex:integer;tx,ty:char);
+var sa:integer;
+begin
+  sa:=addr(tile8)+32*tileindex;   
+  DrawTile(sa,tx,ty,chr(8),chr(4));
+end;
+
+procedure DrawTile16(tileindex:integer;tx,ty:char);
+var sa:integer;
+begin
+  sa:=addr(tile16)+128*tileindex;
+  DrawTile(sa,tx,ty,chr(16),chr(8));
 end;
 ```
