@@ -25,7 +25,7 @@
 Процедура [ClearFont](../hisoft-pascal-hpu/textvid.hpu.md) з бібліотеки TEXTVID.HPU повертає усі символи до початкового стану.
 
 ### Esc-послідовності
-[Детальніше](../exos-info/esc-seq/1b4b-define-character.md)  
+[Детальніше](../exos-info/esc-seq/1b4b-video.md)  
 
 ## Завантаження символів із зовнішнього файлу
 ### Завантаження FNT-файлів (1152 байтів)

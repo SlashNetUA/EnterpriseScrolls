@@ -1,4 +1,4 @@
-# Зміна кольору палітри
+# Зміна кольору палітри (усі відеосторінки)
 
 Керуюча послідовність, яка дозволяє змінити лише один колір палітри.
 
@@ -12,7 +12,7 @@
 
 Під час вибору нових кольорів палітри будь-які блоки параметрів лінії, що відповідають цій відеосторінці, будуть оновлені, тому кольори на екрані зміняться.
 
-Також див: [Set Palette Colours](1b43-palette-colours.md)
+Також див: [Set Palette Colours](1b43-video.md)
 
 ## Eng
 Escape sequence which allows just one palette colour to be changed.
@@ -27,4 +27,4 @@ Where **n** is the palette colour number **0**—**7** and **c** is the new valu
 
 When new palette colours are selected any line parameter blocks which correspond to this video page will be updated so the colours on the screen will change.
 
-See also: [Set Palette Colours](1b43-palette-colours.md).
+See also: [Set Palette Colours](1b43-video.md).
