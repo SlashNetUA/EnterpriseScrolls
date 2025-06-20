@@ -66,7 +66,7 @@ Exos(8);                              {виконуємо функцію EXOS 8 
 ## Програми редагування шрифтів
 
 ### CHR2012 (EP)
-![](screenshots/scrn_chr2012_01s.png)
+![](../../software/screenshots/scrn_chr2012_01s.png)
 
 ([детальний опис](../../software/su-chr2012.md))
 
