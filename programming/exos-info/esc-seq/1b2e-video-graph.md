@@ -1,4 +1,8 @@
-# Вибір стилю малювання ліній (Line Style) (графічні відеосторінки)
+# Вибір стилю малювання ліній (Line Style)
+
+Тип каналів: графічні відеосторінки
+
+Формат: 
 
 `esc.<n>`
 
@@ -13,7 +17,7 @@ dec: `27`,`46`,**n**
 
 ![](../../is-basic_man-en/line-style.png)
 
-Див. також [Режим малювання ліній](1b4d-video-graph.md)
+Див. також [Режим малювання ліній](1b4d-video-graph.md) та [IS-Basic](../../is-basic_man-en/man_vo-line-style.md).
 
 ## Eng
 **Graphics Line Style**

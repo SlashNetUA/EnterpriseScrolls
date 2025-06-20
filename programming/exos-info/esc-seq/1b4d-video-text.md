@@ -1,4 +1,8 @@
-# Зміна кольору для відмальовки курсора (текстові відеосторінки)
+# Зміна кольору курсора
+
+Тип каналів: текстові відеосторінки
+
+Формат: 
 
 `escM<n>`
 
@@ -12,4 +16,4 @@ dec: `27`,`77`,**n**
 
 Set cursor to palette colour **n**.
 
-[IS-BASIC](../../is-basic_man-en/man_vo-cursor.md).
+[IS-Basic](../../is-basic_man-en/man_vo-cursor.md).

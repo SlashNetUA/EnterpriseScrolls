@@ -1,4 +1,8 @@
-# Зміна коду символа для відмальовки курсора (текстові відеосторінки)
+# Зміна коду символа для відмальовки курсора
+
+Тип каналів: текстові відеосторінки
+
+Формат: 
 
 `esc.<n>`
 
@@ -12,4 +16,4 @@ dec: `27`,`46`,**n**
 
 Set cursor character to character code **n**.
 
-[IS-BASIC](../../is-basic_man-en/man_vo-cursor.md).
+[IS-Basic](../../is-basic_man-en/man_vo-cursor.md).
