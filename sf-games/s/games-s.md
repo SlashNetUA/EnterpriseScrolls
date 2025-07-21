@@ -8,5 +8,6 @@
 
 ----------
 [Space Invaders Arcade](sg-spaceinvaders-arcade.md) (Classic and Plus versions)  
+[Spherical](sg-spherical.md)  (short info)  
 [Squirm 16](sg-squirm16.md)  
 [Squirm C16 original](sg-squirmc16.md)  

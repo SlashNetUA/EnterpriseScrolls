@@ -109,3 +109,6 @@ Escape-послідовності можна зберігати у файл і �
 
 When a character is read from the video driver the result depends on the mode. In text modes the ASCII code of the character at the cursor position will be returned, without moving the cursor. In graphics mode the palette colour of the pixel at the current beam position will be returned. This will be **0** or **1** in *two colour mode*, **0**—**3** in *four colour mode*, **0**—**15** in *sixteen colour* or *attribute modes* and **0**—**255** in *256 colour mode*.
 
+# Приклади
+
+Музичне демо [EnterTunes](https://youtu.be/rJ-msxpS6j4) використовує esc-послідовності для завантаження шрифтів, відмальовки головного екрану (файл **menu.fdr**), та зберігання музичних даних (файли **music1**-**4**)
