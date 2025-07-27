@@ -262,7 +262,14 @@ Double reference
 Если была объявлена переменная(массив), а после того сделано присвоение/объявление обычной переменной с тем же именем.
 
 ```
-numeric line$(2)
-let line$(1)=”string”
-let line$=”here is error”
+NUMERIC LINE$(2)
+LET LINE$(1)="string"
+LET LINE$="here is error"
+```
+
+Или было использовано одно и то же имя и для переменной, и для функции. Например:  
+
+```
+LET MACSKA=8  
+DEF MACSKA(I,J)=...
 ```
