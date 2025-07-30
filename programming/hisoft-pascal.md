@@ -1,7 +1,8 @@
 # HiSoft Pascal
 [HiSoft Pascal Manual](hisoft-pascal_man-en/pr-hspascal.md) (EN)  
 [Hisoft Pascal Felhasználói kézikönyv](http://ep128.hu/Ep_Util/Hisoft_Pascal.htm) (HU)  
-Офіційний посібник
+Офіційний посібник  
+[Особливості компілятора](hisoft-pascal_man-en/add_particulars.md)  
 
 [Enterprise Wiki](https://wiki.enterpriseforever.com/index.php?title=HiSoft_Pascal) (HU)  
 Сторінка на Enterprise Wiki
