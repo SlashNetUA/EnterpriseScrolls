@@ -4,6 +4,8 @@
 | --- | --- | --- | --- |
 |![screen1](screenshots/scrn_aerial_01.png)|![screen2](screenshots/scrn_aerial_02.png)|![screen3](screenshots/scrn_aerial_03.png)|![screen4](screenshots/scrn_aerial_04.png)|
 
+<img src="screenshots/scrn_aerial_01.png" width="180"><img src="screenshots/scrn_aerial_02.png" width="180"><img src="screenshots/scrn_aerial_03.png" width="180"><img src="screenshots/scrn_aerial_04.png" width="180">
+
 Жанр: аркада, скролшутер  
 Кількість гравців: 1  
 Мова гри: англійська  
@@ -14,7 +16,7 @@
 
 Бонус з написом "UP" додає одне життя.
 
-[![video](../../thumbs/51xiEkxXPdc.jpg)](https://www.youtube.com/watch?v=51xiEkxXPdc)
+[![video](../../thumbs/YT_51xiEkxXPdc.jpg)](https://www.youtube.com/watch?v=51xiEkxXPdc)
 
 ## Системні вимоги
 
