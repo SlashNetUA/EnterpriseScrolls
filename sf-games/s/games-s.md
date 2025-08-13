@@ -8,7 +8,7 @@
 
 ----------
 
-Noon 30 Shovel Duck (featuring Dollar Bill)
+[Noon 30 Shovel Duck (featuring Dollar Bill)](sg-shovelduck.md)  
 [Space Invaders Arcade](sg-spaceinvaders-arcade.md) (Classic and Plus versions)  
 [Spherical](sg-spherical.md)  (short info)  
 [Squirm 16](sg-squirm16.md)  

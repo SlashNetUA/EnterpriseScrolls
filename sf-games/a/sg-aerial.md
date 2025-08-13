@@ -14,7 +14,7 @@
 
 Бонус з написом "UP" додає одне життя.
 
-[![video](https://img.youtube.com/vi/51xiEkxXPdc/0.jpg)](https://www.youtube.com/watch?v=51xiEkxXPdc)
+[![video](../../thumbs/51xiEkxXPdc.jpg)](https://www.youtube.com/watch?v=51xiEkxXPdc)
 
 ## Системні вимоги
 
