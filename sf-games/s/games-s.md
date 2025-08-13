@@ -7,6 +7,8 @@
 Ігри для емуляторів [ZX Spectrum 48k/128k](../zxemu/games-zxemu.md) - [Amstrad CPC](../cpcemu/games-cpc.md) - [Sinclair ZX81](../zx81emu/games-zx81.md) - [Videoton TVC](../tvcemu/games-tvc.md) - [Commodore VIC-20](../vic20emu/games-vic20.md)
 
 ----------
+
+Noon 30 Shovel Duck (featuring Dollar Bill)
 [Space Invaders Arcade](sg-spaceinvaders-arcade.md) (Classic and Plus versions)  
 [Spherical](sg-spherical.md)  (short info)  
 [Squirm 16](sg-squirm16.md)  

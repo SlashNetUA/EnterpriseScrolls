@@ -56,5 +56,5 @@
 🏡 [Домашня сторінка гри](https://ktbproductions.itch.io/enterprise-games)
 
 ## Автори
-👨‍💻 Автор: Mas  
+👨‍💻 Автор: Mas (KTB Retrocomputing Productions)  
 📅 Рік релізу: 2025  

@@ -18,6 +18,8 @@
 [Cavit](c/sg-cavit.md)  
 [Cracky](c/sg-cracky.md)  
 
+[DIA TanX!!](d/sg-diatanx.md)  
+
 [Guntus](g/sg-guntus.md)  
 
 [Hopman](h/sg-hopman.md)  
@@ -26,6 +28,7 @@
 [Impetus](i/sg-impetus.md)
 
 [Lift](l/sg-lift.md)  
+[Little John Can't Jump](l/sg-little-john-cant-jump.md)  
 
 [Mazy](m/sg-mazy.md)  
 [Mazy 2](m/sg-mazy2.md)  
@@ -36,7 +39,7 @@
 
 [Osotos](o/sg-osotos.md)  
 
-[Painter Man](p/sg-painter-man.md)
+[Painter Man !!](p/sg-painter-man.md)
 
 [Ruptus](r/sg-ruptus.md)  
 
