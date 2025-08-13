@@ -1,9 +1,5 @@
 # Aerial
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_aerial_01.png)|![screen2](screenshots/scrn_aerial_02.png)|![screen3](screenshots/scrn_aerial_03.png)|![screen4](screenshots/scrn_aerial_04.png)|
-
 <img src="screenshots/scrn_aerial_01.png" width="24%"> <img src="screenshots/scrn_aerial_02.png" width="24%"> <img src="screenshots/scrn_aerial_03.png" width="24%"> <img src="screenshots/scrn_aerial_04.png" width="24%">
 
 Жанр: аркада, скролшутер  

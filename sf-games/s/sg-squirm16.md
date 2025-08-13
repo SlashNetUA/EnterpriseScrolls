@@ -31,7 +31,7 @@
 
 Після завантаження ви можете вибрати між класичним режимом (3 життя/3 лабіринти) та розширеним режимом (8 життів/3 класичні + 13 додаткових лабіринтів)
 
-[![video](https://img.youtube.com/vi/cSfx-C0ePpA/0.jpg)](https://www.youtube.com/watch?v=cSfx-C0ePpA)
+[![video](../../thumbs/YT_cSfx-C0ePpA.jpg)](https://www.youtube.com/watch?v=cSfx-C0ePpA)
 
 ## Системні вимоги
 

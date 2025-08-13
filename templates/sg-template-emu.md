@@ -1,8 +1,7 @@
 # Squirm 16
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_squirm16_1.png)|![screen2](screenshots/scrn_squirm16_2.png)|![screen3](screenshots/scrn_squirm16_3.png)|![screen4](screenshots/scrn_squirm16_4.png)|
+<img src="screenshots/scrn_aerial_01.png" width="24%"> <img src="screenshots/scrn_aerial_02.png" width="24%"> <img src="screenshots/scrn_aerial_03.png" width="24%"> <img src="screenshots/scrn_aerial_04.png" width="24%">
+
 
 Жанр: аркада, PacMan-like  
 Кількість гравців: 1  
@@ -40,7 +39,7 @@
 
 ### Поради у проходженні
 
-[![video](https://img.youtube.com/vi/cSfx-C0ePpA/0.jpg)](https://www.youtube.com/watch?v=cSfx-C0ePpA)
+[![video](../../thumbs/YT_cSfx-C0ePpA.jpg)](https://www.youtube.com/watch?v=cSfx-C0ePpA)
 
 ## Системні вимоги
 
