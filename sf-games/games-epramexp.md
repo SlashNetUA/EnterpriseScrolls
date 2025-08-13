@@ -7,3 +7,18 @@
 Ігри для емуляторів [ZX Spectrum 48k/128k](zxemu/games-zxemu.md) - [Amstrad CPC](cpcemu/games-cpc.md) - [Sinclair ZX81](zx81emu/games-zx81.md) - [Videoton TVC](tvcemu/games-tvc.md) - [Commodore VIC-20](vic20emu/games-vic20.md)
 
 ----------
+
+Attack of the PETSCII Robots Plus (192k)  
+Castlevania. Spectral Interlude (128k-176k)  
+The Hobbit (128k-640k)  
+Los Amores de Brunilda (592k)  
+MicroProse Soccer Reloaded (128k-144k)
+Mozaik (128k-192k)  
+The Next War (128k-2.5M)  
+North & South (128k-256k)  
+Robocop 3 (224k)  
+The Sword of Ianna (560k)  
+Where Time Stood Still (128k-160k)  
+Wolfenstein 2004 (128k+)  
+
+Nasa Guy 6 (bird)  

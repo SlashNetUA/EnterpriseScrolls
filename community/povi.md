@@ -1,4 +1,4 @@
 Zoltán Povázsay  
 Povi
 
-![](povi.jpg)
+![](pics/povi.jpg)
