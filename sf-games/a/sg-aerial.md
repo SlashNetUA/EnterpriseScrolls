@@ -14,6 +14,8 @@
 
 [![video](../../thumbs/YT_51xiEkxXPdc.jpg)](https://www.youtube.com/watch?v=51xiEkxXPdc)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/51xiEkxXPdc" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
 ## Системні вимоги
 
 |Мінімальні системні вимоги:|Рекомендовані системні вимоги:|
