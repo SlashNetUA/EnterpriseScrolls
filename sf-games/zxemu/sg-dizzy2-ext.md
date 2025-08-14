@@ -1,8 +1,9 @@
 # Dizzy 2: Extended (Treasure Island Dizzy)
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_dizzy2-ext_01.png)|![screen2](screenshots/scrn_dizzy2-ext_02.png)|![screen3](screenshots/scrn_dizzy2-ext_03.png)|![screen4](screenshots/scrn_dizzy2-ext_04.png)|
+<img src="screenshots/scrn_dizzy2-ext_01.png" width="24%"> 
+<img src="screenshots/scrn_dizzy2-ext_02.png" width="24%"> 
+<img src="screenshots/scrn_dizzy2-ext_03.png" width="24%"> 
+<img src="screenshots/scrn_dizzy2-ext_04.png" width="24%">
 
 Жанр: пригода, платформер  
 Кількість гравців: 1  
@@ -65,7 +66,7 @@
 
 
 ### Відеопроходження:
-[![video](https://img.youtube.com/vi/oygm5nGmK58/0.jpg)](https://www.youtube.com/watch?v=oygm5nGmK58)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oygm5nGmK58) zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

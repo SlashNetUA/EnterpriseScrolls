@@ -1,8 +1,9 @@
 # Magic Tower
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_magictower_1.png)|![screen2](screenshots/scrn_magictower_2.png)|![screen3](screenshots/scrn_magictower_3.png)|![screen4](screenshots/scrn_magictower_4.png)|
+<img src="screenshots/scrn_magictower_01.png" width="24%"> 
+<img src="screenshots/scrn_magictower_02.png" width="24%"> 
+<img src="screenshots/scrn_magictower_03.png" width="24%"> 
+<img src="screenshots/scrn_magictower_04.png" width="24%">
 
 Жанр: аркада, платформер
 Кількість гравців: 1  
@@ -32,7 +33,7 @@
 Безкінечна кількість життів (**Так**/**Ні**)  
 
 ### Відеопроходження:
-[![video](https://img.youtube.com/vi/8AAqUJHXjaA/0.jpg)](https://www.youtube.com/watch?v=8AAqUJHXjaA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8AAqUJHXjaA" hMGBnchV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

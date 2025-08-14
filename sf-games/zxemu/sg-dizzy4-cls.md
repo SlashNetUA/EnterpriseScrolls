@@ -1,8 +1,9 @@
 # Dizzy 4: Classic + (Magicland Dizzy)
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_dizzy4-cls_01.png)|![screen2](screenshots/scrn_dizzy4-cls_02.png)|![screen3](screenshots/scrn_dizzy4-cls_03.png)|![screen4](screenshots/scrn_dizzy4-cls_04.png)|
+<img src="screenshots/scrn_dizzy4-cls_01.png" width="24%"> 
+<img src="screenshots/scrn_dizzy4-cls_02.png" width="24%"> 
+<img src="screenshots/scrn_dizzy4-cls_03.png" width="24%"> 
+<img src="screenshots/scrn_dizzy4-cls_04.png" width="24%">
 
 Жанр: пригода, платформер  
 Кількість гравців: 1  
@@ -49,7 +50,7 @@
 🗺 [Мапа гри](https://yolkfolk.com/media/images/maps/MagiclandDizzy_2024ClassicEdition_Spectrum.png)
 
 ### Відеопроходження:
-[![video](https://img.youtube.com/vi/GqafPQDuCLg/0.jpg)](https://www.youtube.com/watch?v=GqafPQDuCLg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GqafPQDuCLg) zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

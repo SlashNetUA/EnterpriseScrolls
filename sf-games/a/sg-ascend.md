@@ -1,8 +1,9 @@
 # Ascend
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_ascend_01.png)|![screen2](screenshots/scrn_ascend_02.png)|![screen3](screenshots/scrn_ascend_03.png)|![screen4](screenshots/scrn_ascend_04.png)|
+<img src="screenshots/scrn_ascend_01.png" width="24%"> 
+<img src="screenshots/scrn_ascend_02.png" width="24%"> 
+<img src="screenshots/scrn_ascend_03.png" width="24%"> 
+<img src="screenshots/scrn_ascend_04.png" width="24%">
 
 Жанр: аркада, платформер, логіка  
 Кількість гравців: 1  
@@ -13,7 +14,7 @@
 
 Ви маєте піднятись на самий верх. Зробити це заважатимуть привиди та живі вогники. Заблокувати їм прохід можливо коробками які можна виштовхувати знизу (при потребі коробки можна запхати назад). Бонус з символом "!" надасть вам тимчасову невразливість. Усього у грі є 10 унікальних рівней, які циклічно повторюються до закінчення ваших життів.  
 
-[![video](https://img.youtube.com/vi/EjB8vlGG4v8/0.jpg)](https://www.youtube.com/watch?v=EjB8vlGG4v8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EjB8vlGG4v8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

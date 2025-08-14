@@ -1,8 +1,9 @@
 # Mole Mole
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_molemole_01.png)|![screen2](screenshots/scrn_molemole_02.png)|![screen3](screenshots/scrn_molemole_03.png)|![screen4](screenshots/scrn_molemole_04.png)|
+<img src="screenshots/scrn_molemole_01.png" width="24%"> 
+<img src="screenshots/scrn_molemole_02.png" width="24%"> 
+<img src="screenshots/scrn_molemole_03.png" width="24%"> 
+<img src="screenshots/scrn_molemole_04.png" width="24%">
 
 Жанр: логічна  
 Кількість гравців: 1  
@@ -12,7 +13,7 @@
 
 Кротик дуже хоче в своє ліжечко. Щоб дістатись до нього він має прокласти новий шлях у підземному лабіринті. Використовуючи бомби можна створювати нові проходи, але будьте уважні: вода швидко просочується навіть у найменшу щілинку.
 
-[![video](https://img.youtube.com/vi/ANpnlPCR2Hs/0.jpg)](https://www.youtube.com/watch?v=ANpnlPCR2Hs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ANpnlPCR2Hs" hMGBnchV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 
@@ -34,7 +35,7 @@
 `F1`+`F8`: Пропустити рівень
 
 ### Відеопроходження:
-[![video](https://img.youtube.com/vi/Owtj3zwea3Q/0.jpg)](https://www.youtube.com/watch?v=Owtj3zwea3Q)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Owtj3zwea3Q" hMGBnchV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

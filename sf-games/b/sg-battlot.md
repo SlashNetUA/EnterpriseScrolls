@@ -1,8 +1,9 @@
 # Battlot
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_battlot_01.png)|![screen2](screenshots/scrn_battlot_02.png)|![screen3](screenshots/scrn_battlot_03.png)|![screen4](screenshots/scrn_battlot_04.png)|
+<img src="screenshots/scrn_battlot_01.png" width="24%"> 
+<img src="screenshots/scrn_battlot_02.png" width="24%"> 
+<img src="screenshots/scrn_battlot_03.png" width="24%"> 
+<img src="screenshots/scrn_battlot_04.png" width="24%">
 
 Жанр: аркада  
 Кількість гравців: 1  
@@ -15,7 +16,7 @@
 
 У грі 10 різних рівней, після чого вони починають повторюватись.
 
-[![video](https://img.youtube.com/vi/s3s4x_kFsYc/0.jpg)](https://www.youtube.com/watch?v=s3s4x_kFsYc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3s4x_kFsYc" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

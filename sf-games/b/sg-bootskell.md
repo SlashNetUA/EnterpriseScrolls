@@ -1,8 +1,9 @@
 # Bootskell
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_bootskell_01.png)|![screen2](screenshots/scrn_bootskell_02.png)|![screen3](screenshots/scrn_bootskell_03.png)|![screen4](screenshots/scrn_bootskell_04.png)|
+<img src="screenshots/scrn_bootskell_01.png" width="24%"> 
+<img src="screenshots/scrn_bootskell_02.png" width="24%"> 
+<img src="screenshots/scrn_bootskell_03.png" width="24%"> 
+<img src="screenshots/scrn_bootskell_04.png" width="24%">
 
 Жанр: аркада  
 Кількість гравців: 1  
@@ -15,7 +16,7 @@
 
 У грі 10 різних рівней, після чого вони починають повторюватись.
 
-[![video](https://img.youtube.com/vi/swe_2sHXNDA/0.jpg)](https://www.youtube.com/watch?v=swe_2sHXNDA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/swe_2sHXNDA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

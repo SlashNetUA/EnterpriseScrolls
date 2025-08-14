@@ -1,8 +1,9 @@
 # Cavit
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_cavit_01.png)|![screen2](screenshots/scrn_cavit_02.png)|![screen3](screenshots/scrn_cavit_03.png)|![screen4](screenshots/scrn_cavit_04.png)|
+<img src="screenshots/scrn_cavit_01.png" width="24%"> 
+<img src="screenshots/scrn_cavit_02.png" width="24%"> 
+<img src="screenshots/scrn_cavit_03.png" width="24%"> 
+<img src="screenshots/scrn_cavit_04.png" width="24%">
 
 Жанр: аркада  
 Кількість гравців: 1  
@@ -17,7 +18,7 @@
 
 Якщо ви знайомі з класичною грою Digger, то і тут ви не розгубитесь.
 
-[![video](https://img.youtube.com/vi/KtXDIsZU8wY/0.jpg)](https://www.youtube.com/watch?v=KtXDIsZU8wY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KtXDIsZU8wY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

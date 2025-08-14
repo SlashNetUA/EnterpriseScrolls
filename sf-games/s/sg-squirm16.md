@@ -1,8 +1,9 @@
 # Squirm 16
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_squirm16_1.png)|![screen2](screenshots/scrn_squirm16_2.png)|![screen3](screenshots/scrn_squirm16_3.png)|![screen4](screenshots/scrn_squirm16_4.png)|
+<img src="screenshots/scrn_squirm16_01.png" width="24%"> 
+<img src="screenshots/scrn_squirm16_02.png" width="24%"> 
+<img src="screenshots/scrn_squirm16_03.png" width="24%"> 
+<img src="screenshots/scrn_squirm16_04.png" width="24%">
 
 Жанр: аркада, PacMan-like  
 Кількість гравців: 1  
@@ -31,7 +32,7 @@
 
 Після завантаження ви можете вибрати між класичним режимом (3 життя/3 лабіринти) та розширеним режимом (8 життів/3 класичні + 13 додаткових лабіринтів)
 
-[![video](../../thumbs/YT_cSfx-C0ePpA.jpg)](https://www.youtube.com/watch?v=cSfx-C0ePpA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C0ePpAaPFWGzEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

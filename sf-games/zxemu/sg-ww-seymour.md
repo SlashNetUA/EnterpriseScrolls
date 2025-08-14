@@ -1,8 +1,9 @@
 # Wild West Seymour
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_ww-seymour_01.png)|![screen2](screenshots/scrn_ww-seymour_02.png)|![screen3](screenshots/scrn_ww-seymour_03.png)|![screen4](screenshots/scrn_ww-seymour_04.png)|
+<img src="screenshots/scrn_ww-seymour_01.png" width="24%"> 
+<img src="screenshots/scrn_ww-seymour_02.png" width="24%"> 
+<img src="screenshots/scrn_ww-seymour_03.png" width="24%"> 
+<img src="screenshots/scrn_ww-seymour_04.png" width="24%">
 
 Жанр: пригода, платформер  
 Кількість гравців: 1  
@@ -51,7 +52,7 @@
 Акт 4: `238A35008`  
 
 ### Відеопроходження:
-[![video](https://img.youtube.com/vi/YSGXLKTYCSU/0.jpg)](https://www.youtube.com/watch?v=YSGXLKTYCSU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YSGXLKTYCSU) zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

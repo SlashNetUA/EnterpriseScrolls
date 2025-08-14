@@ -6,9 +6,9 @@ http://ep128.hu/Ep_Util/ZX81_Emulator.htm
 `F2`: Якщо в системі є наявний EXDOS, показує список перших 256 файлів (\*.p) з можливістю вибору для завантаження  
 `F7`: Reset комп'ютера ZX81  
 
-|                                                         |                                                    |                                                         |
-| ------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------- |
-| ![екран емуляції ZX81](screenshots/scrn_zx81emu_01.png) | ![екран допомоги](screenshots/scrn_zx81emu_02.png) | ![екран вибору файлів](screenshots/scrn_zx81emu_03.png) |
+<img src="screenshots/scrn_zx81emu_01.png" width="32%"> 
+<img src="screenshots/scrn_zx81emu_02.png" width="32%"> 
+<img src="screenshots/scrn_zx81emu_03.png" width="32%"> 
 
 ## Швидкий старт
 

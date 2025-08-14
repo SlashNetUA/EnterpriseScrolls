@@ -1,8 +1,9 @@
 # Kondi Krush!
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_kondikrush_01.png)|![screen2](screenshots/scrn_kondikrush_02.png)|![screen3](screenshots/scrn_kondikrush_03.png)|![screen4](screenshots/scrn_kondikrush_04.png)|
+<img src="screenshots/scrn_kondikrush_01.png" width="24%"> 
+<img src="screenshots/scrn_kondikrush_02.png" width="24%"> 
+<img src="screenshots/scrn_kondikrush_03.png" width="24%"> 
+<img src="screenshots/scrn_kondikrush_04.png" width="24%">
 
 Жанр: три в ряд, тайм-кіллер  
 Кількість гравців: 1  
@@ -13,7 +14,7 @@
 
 Основний ігровий процес оснований на заміні двох сусідніх цукерок між кількома на ігровому полі, щоб утворити рядок або стовпець із принаймні трьох цукерок однакового кольору. Ціль гри — зібрати як можна більше очок за обмежену кількість переміщення елементів щоб отримати відповідну кількість зірок.
 
-[![video](https://img.youtube.com/vi/rhhb-hMGBnc/0.jpg)](https://www.youtube.com/watch?v=rhhb-hMGBnc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZuO1xu2aCDY" hMGBnchV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

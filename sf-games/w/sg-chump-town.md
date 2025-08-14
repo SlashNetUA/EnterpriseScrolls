@@ -1,8 +1,9 @@
 # Welcome to Chump Town!! - Episode 4: A New Joke
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_chumptown_01.png)|![screen2](screenshots/scrn_chumptown_02.png)|![screen3](screenshots/scrn_chumptown_03.png)|![screen4](screenshots/scrn_chumptown_04.png)|
+<img src="screenshots/scrn_chumptown_01.png" width="24%"> 
+<img src="screenshots/scrn_chumptown_02.png" width="24%"> 
+<img src="screenshots/scrn_chumptown_03.png" width="24%"> 
+<img src="screenshots/scrn_chumptown_04.png" width="24%">
 
 Жанр: аркада, платформер, скролшутер  
 Кількість гравців: 1  

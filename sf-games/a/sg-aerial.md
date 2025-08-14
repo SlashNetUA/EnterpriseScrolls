@@ -1,6 +1,9 @@
 # Aerial
 
-<img src="screenshots/scrn_aerial_01.png" width="24%"> <img src="screenshots/scrn_aerial_02.png" width="24%"> <img src="screenshots/scrn_aerial_03.png" width="24%"> <img src="screenshots/scrn_aerial_04.png" width="24%">
+<img src="screenshots/scrn_aerial_01.png" width="24%"> 
+<img src="screenshots/scrn_aerial_02.png" width="24%"> 
+<img src="screenshots/scrn_aerial_03.png" width="24%"> 
+<img src="screenshots/scrn_aerial_04.png" width="24%">
 
 Жанр: аркада, скролшутер  
 Кількість гравців: 1  
@@ -11,8 +14,6 @@
 Керуючи літаком, ви маєте знищити все на своєму шляху.  
 
 Бонус з написом "UP" додає одне життя.
-
-[![video](../../thumbs/YT_51xiEkxXPdc.jpg)](https://www.youtube.com/watch?v=51xiEkxXPdc)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/51xiEkxXPdc" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 

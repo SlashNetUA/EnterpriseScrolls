@@ -1,8 +1,9 @@
 # Yoomp!
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_yoomp_01.png)|![screen2](screenshots/scrn_yoomp_02.png)|![screen3](screenshots/scrn_yoomp_03.png)|![screen4](screenshots/scrn_yoomp_04.png)|
+<img src="screenshots/scrn_yoomp_01.png" width="24%"> 
+<img src="screenshots/scrn_yoomp_02.png" width="24%"> 
+<img src="screenshots/scrn_yoomp_03.png" width="24%"> 
+<img src="screenshots/scrn_yoomp_04.png" width="24%">
 
 Жанр: аркада, платформер  
 Кількість гравців: 1  
@@ -13,7 +14,7 @@
 
 Проскачіть м'ячиком через 21 циліндричну трасу, назбирайте якомога більше очок і намагайтеся не впасти у прірву!  
 
-[![video](https://img.youtube.com/vi/BXybXA11L40/0.jpg)](https://www.youtube.com/watch?v=BXybXA11L40)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BXybXA11L40zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 
@@ -53,7 +54,7 @@
 Ввести у головному меню код **736418**
 
 ### Відеопроходження:
-[![video](https://img.youtube.com/vi/fB4Yrk6v96c/0.jpg)](https://www.youtube.com/watch?v=fB4Yrk6v96c)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fB4Yrk6v96c) zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 *(версія гри для комп'ютера Atari 8-bit)*
 
 ## Посилання

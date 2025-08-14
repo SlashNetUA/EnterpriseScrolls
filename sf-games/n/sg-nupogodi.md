@@ -1,8 +1,9 @@
 # Nu, Pogodi! / Ну, постривай!
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_nupogodi_01.png)|![screen2](screenshots/scrn_nupogodi_02.png)|![screen3](screenshots/scrn_nupogodi_03.png)|![screen4](screenshots/scrn_nupogodi_04.png)|
+<img src="screenshots/scrn_nupogodi_01.png" width="24%"> 
+<img src="screenshots/scrn_nupogodi_02.png" width="24%"> 
+<img src="screenshots/scrn_nupogodi_03.png" width="24%"> 
+<img src="screenshots/scrn_nupogodi_04.png" width="24%">
 
 Жанр: аркада  
 Кількість гравців: 1  
@@ -18,7 +19,7 @@
 
 Гра має два ступені складності, що викликаються відповідно кнопками «Гра А» і «Гра Б». Гра А означає, що яйця починають котитися тільки трьома лотками одночасно, у Грі Б - усіма чотирма. Невикористаний лоток у Грі А залежить від кількості штрафних очок: за 0 очок не використовується нижній лівий лоток, за 0,5 і 1 штрафного очка - нижній правий лоток, за 1,5 і 2 штрафних очка - верхній лівий лоток, а за 2,5 штрафних очка - верхній правий лоток. Під час анулювання штрафних очок незадіяний лоток змінюється на нижній лівий.
 
-[![video](https://img.youtube.com/vi/xQI7g0ZFbuw/0.jpg)](https://www.youtube.com/watch?v=xQI7g0ZFbuw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xQI7g0ZFbuw" Y1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

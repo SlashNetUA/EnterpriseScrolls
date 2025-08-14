@@ -1,8 +1,9 @@
 # Valley of Rains
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_valleyofrains_1.png)|![screen2](screenshots/scrn_valleyofrains_2.png)|![screen3](screenshots/scrn_valleyofrains_3.png)|![screen4](screenshots/scrn_valleyofrains_4.png)|
+<img src="screenshots/scrn_valleyofrains_01.png" width="24%"> 
+<img src="screenshots/scrn_valleyofrains_02.png" width="24%"> 
+<img src="screenshots/scrn_valleyofrains_03.png" width="24%"> 
+<img src="screenshots/scrn_valleyofrains_04.png" width="24%">
 
 Жанр: екшн  
 Кількість гравців: 1  
@@ -64,7 +65,7 @@
 Нескінченність часу (**Так**/**Ні**)
 
 ### Відеопроходження:
-[![video](https://img.youtube.com/vi/b5_Scx2u63I/0.jpg)](https://www.youtube.com/watch?v=b5_Scx2u63I)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b5_Scx2u63IzEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

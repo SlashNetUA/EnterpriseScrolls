@@ -1,8 +1,9 @@
 # Noon 30 Shovel Duck (featuring Dollar Bill)
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_shovelduck_01.png)|![screen2](screenshots/scrn_shovelduck_02.png)|![screen3](screenshots/scrn_shovelduck_03.png)|![screen4](screenshots/scrn_shovelduck_04.png)|
+<img src="screenshots/scrn_shovelduck_01.png" width="24%"> 
+<img src="screenshots/scrn_shovelduck_02.png" width="24%"> 
+<img src="screenshots/scrn_shovelduck_03.png" width="24%"> 
+<img src="screenshots/scrn_shovelduck_04.png" width="24%">
 
 Жанр: аркада, платформер, пригода  
 Кількість гравців: 1  

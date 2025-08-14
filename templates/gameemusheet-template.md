@@ -1,10 +1,21 @@
 # Squirm 16
 
-<img src="screenshots/scrn_aerial_01.png" width="24%"> <img src="screenshots/scrn_aerial_02.png" width="24%"> <img src="screenshots/scrn_aerial_03.png" width="24%"> <img src="screenshots/scrn_aerial_04.png" width="24%">
+<img src="screenshots/scrn_aerial_01.png" width="24%"> 
+<img src="screenshots/scrn_aerial_02.png" width="24%"> 
+<img src="screenshots/scrn_aerial_03.png" width="24%"> 
+<img src="screenshots/scrn_aerial_04.png" width="24%">
 
 Жанр: аркада, PacMan-like  
 Кількість гравців: 1  
 Мова гри: англійська  
+
+## Емуляція
+### SPEmu
+➖ погано працює звук  
+➖ керування лише з клавіатури  
+### SP2
+➕ звук працює задовільно  
+➕ можна грати за допомогою джойстиків  
 
 ## Опис
 
@@ -30,7 +41,7 @@
 
 ### Поради у проходженні
 
-[![video](../../thumbs/YT_cSfx-C0ePpA.jpg)](https://www.youtube.com/watch?v=cSfx-C0ePpA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/51xiEkxXPdc" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 
@@ -68,15 +79,17 @@
 Нескінченність часу (**Так**/**Ні**)
 
 ### Додаткові файли:
-🗺 [Мапа](https://t.me/EP128k_Load_n_Play/678)  
+🗺 [Мапа гри](https://t.me/EP128k_Load_n_Play/678)  
 
 ### Відеопроходження:
-[![video](https://img.youtube.com/vi/1YNSxdI-ZT0/0.jpg)](https://www.youtube.com/watch?v=1YNSxdI-ZT0)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/51xiEkxXPdc" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 
 ▶ [Easy Load&Play](https://t.me/EP128k_Load_n_Play/678) *(Telegram-канал Vibrant Waves)*  
 💾 [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Oh_Chute.rar)  
+📃 [Spectrum Computing](http://www.ep128.hu/Ep_Games/Leiras/OhChute.htm)  
 📃 [Опис гри](http://www.ep128.hu/Ep_Games/Leiras/OhChute.htm) (угорська)  
 🗨 [Тема на форумі enterpriseforever.com](https://enterpriseforever.com/cpc-rl/oh-chute!/)  
 🏡 [Домашня сторінка гри](https://cwiiis.itch.io/oh-chute)

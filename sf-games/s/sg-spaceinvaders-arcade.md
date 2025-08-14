@@ -1,8 +1,9 @@
 # Space Invaders Arcade
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_spaceinvaders-arcade_1.png)|![screen2](screenshots/scrn_spaceinvaders-arcade_2.png)|![screen3](screenshots/scrn_spaceinvaders-arcade_3.png)|![screen4](screenshots/scrn_spaceinvaders-arcade_4.png)|
+<img src="screenshots/scrn_spaceinvaders-arcade_01.png" width="24%"> 
+<img src="screenshots/scrn_spaceinvaders-arcade_02.png" width="24%"> 
+<img src="screenshots/scrn_spaceinvaders-arcade_03.png" width="24%"> 
+<img src="screenshots/scrn_spaceinvaders-arcade_04.png" width="24%">
 
 Жанр: аркада  
 Кількість гравців: 1-2 (по черзі)  
@@ -34,7 +35,7 @@ https://www.arcade-history.com/?n=space-invaders&page=detail&id=2537
 | -------------------------------------- | ------------------------------------------- |
 | Оперативна пам'ять: **64 КБ**<br>*(тільки класична версія гри без звуку)*          | Оперативна пам'ять: **128 КБ (або більше)** |
 
-[![video](https://img.youtube.com/vi/lvxaPFWGzEE/0.jpg)](https://www.youtube.com/watch?v=lvxaPFWGzEE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lvxaPFWGzEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Керування та тонкощі запуску
 

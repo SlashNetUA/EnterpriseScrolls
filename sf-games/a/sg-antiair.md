@@ -1,8 +1,9 @@
 # AntiAir
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_antiair_01.png)|![screen2](screenshots/scrn_antiair_02.png)|![screen3](screenshots/scrn_antiair_03.png)|![screen4](screenshots/scrn_antiair_04.png)|
+<img src="screenshots/scrn_antiair_01.png" width="24%"> 
+<img src="screenshots/scrn_antiair_02.png" width="24%"> 
+<img src="screenshots/scrn_antiair_03.png" width="24%"> 
+<img src="screenshots/scrn_antiair_04.png" width="24%">
 
 Жанр: аркада  
 Кількість гравців: 1  
@@ -15,7 +16,7 @@
 
 Прибульці скидують блоки, що заважають пересуванню, бомби, що детонують через деякий час, та ракети, які вибухають від дотику з поверхнею. Бомби та ракети також знищують і перешкоди на вашому шляху.
 
-[![video](https://img.youtube.com/vi/lbiyVWxnMu4/0.jpg)](https://www.youtube.com/watch?v=lbiyVWxnMu4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lbiyVWxnMu4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

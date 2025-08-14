@@ -1,8 +1,9 @@
 # Oh Chute!
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_ohchute_01.png)|![screen2](screenshots/scrn_ohchute_02.png)|![screen3](screenshots/scrn_ohchute_03.png)|![screen4](screenshots/scrn_ohchute_04.png)|
+<img src="screenshots/scrn_ohchute_01.png" width="24%"> 
+<img src="screenshots/scrn_ohchute_02.png" width="24%"> 
+<img src="screenshots/scrn_ohchute_03.png" width="24%"> 
+<img src="screenshots/scrn_ohchute_04.png" width="24%">
 
 Жанр: аркада  
 Кількість гравців: 1-2 (по черзі)  
@@ -13,7 +14,7 @@
 
 Ви – Рон Денджер, каскадер і любитель екстремальних видів спорту. Ви просто не можете насититися стрибками з парашутом, але місцевим пілотам вертольотів набридли ваші витівки, і вони полюють на вас... Саме ви маєте показати їм, хто тут головний! Додаткові бали (і зірки) нараховуються за особливо небезпечні трюки, такі як пізнє відкриття парашута або небезпечне наближення до вертольота.
 
-[![video](https://img.youtube.com/vi/y9KALur0TNE/0.jpg)](https://www.youtube.com/watch?v=y9KALur0TNE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y9KALur0TNE" Y1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

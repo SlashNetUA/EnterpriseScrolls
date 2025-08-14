@@ -1,8 +1,9 @@
 # Neuras
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_neuras_01.png)|![screen2](screenshots/scrn_neuras_02.png)|![screen3](screenshots/scrn_neuras_03.png)|![screen4](screenshots/scrn_neuras_04.png)|
+<img src="screenshots/scrn_neuras_01.png" width="24%"> 
+<img src="screenshots/scrn_neuras_02.png" width="24%"> 
+<img src="screenshots/scrn_neuras_03.png" width="24%"> 
+<img src="screenshots/scrn_neuras_04.png" width="24%">
 
 Жанр: аркада  
 Кількість гравців: 1  
@@ -15,7 +16,7 @@
 
 У грі 10 різних рівней, після чого вони починають повторюватись.
 
-[![video](https://img.youtube.com/vi/aE_WatcdY-Y/0.jpg)](https://www.youtube.com/watch?v=aE_WatcdY-Y)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w5iOx8ynD8U" Y1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

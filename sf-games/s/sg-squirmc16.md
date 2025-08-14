@@ -1,8 +1,9 @@
 # Squirm С16 original
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_squirmc16_1.png)|![screen2](screenshots/scrn_squirmc16_2.png)|![screen3](screenshots/scrn_squirmc16_3.png)|![screen4](screenshots/scrn_squirmc16_4.png)|
+<img src="screenshots/scrn_squirmc16_01.png" width="24%"> 
+<img src="screenshots/scrn_squirmc16_02.png" width="24%"> 
+<img src="screenshots/scrn_squirmc16_03.png" width="24%"> 
+<img src="screenshots/scrn_squirmc16_04.png" width="24%">
 
 Жанр: аркада, PacMan-like  
 Кількість гравців: 1-2 (по черзі)  
@@ -29,7 +30,7 @@
 - Світлячок — 300 балів
 - Кожен сегмент доріжки — 1 бал
 
-[![video](https://img.youtube.com/vi/l_xLnVhSVCY/0.jpg)](https://www.youtube.com/watch?v=l_xLnVhSVCY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l_xLnVhSVCYzEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

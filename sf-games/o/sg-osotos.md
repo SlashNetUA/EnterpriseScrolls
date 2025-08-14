@@ -1,8 +1,9 @@
 # Osotos
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_osotos_01.png)|![screen2](screenshots/scrn_osotos_02.png)|![screen3](screenshots/scrn_osotos_03.png)|![screen4](screenshots/scrn_osotos_04.png)|
+<img src="screenshots/scrn_osotos_01.png" width="24%"> 
+<img src="screenshots/scrn_osotos_02.png" width="24%"> 
+<img src="screenshots/scrn_osotos_03.png" width="24%"> 
+<img src="screenshots/scrn_osotos_04.png" width="24%">
 
 Жанр: аркада, платформер  
 Кількість гравців: 1  
@@ -15,7 +16,7 @@
 
 У грі 8 різних рівней, після чого вони починають повторюватись.
 
-[![video](https://img.youtube.com/vi/SzjbtKmJ85o/0.jpg)](https://www.youtube.com/watch?v=SzjbtKmJ85o)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SzjbtKmJ85o" Y1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

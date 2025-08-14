@@ -1,8 +1,9 @@
 # Throbbin' Headache DX
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_throbhead_01.png)|![screen2](screenshots/scrn_throbhead_02.png)|![screen3](screenshots/scrn_throbhead_03.png)|![screen4](screenshots/scrn_throbhead_04.png)|
+<img src="screenshots/scrn_throbhead_01.png" width="24%"> 
+<img src="screenshots/scrn_throbhead_02.png" width="24%"> 
+<img src="screenshots/scrn_throbhead_03.png" width="24%"> 
+<img src="screenshots/scrn_throbhead_04.png" width="24%">
 
 Жанр: аркада, платформер  
 Кількість гравців: 1  

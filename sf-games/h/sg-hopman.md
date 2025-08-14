@@ -1,8 +1,9 @@
 # Hopman
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_hopman_01.png)|![screen2](screenshots/scrn_hopman_02.png)|![screen3](screenshots/scrn_hopman_03.png)|![screen4](screenshots/scrn_hopman_04.png)|
+<img src="screenshots/scrn_hopman_01.png" width="24%"> 
+<img src="screenshots/scrn_hopman_02.png" width="24%"> 
+<img src="screenshots/scrn_hopman_03.png" width="24%"> 
+<img src="screenshots/scrn_hopman_04.png" width="24%">
 
 Жанр: аркада, платформер  
 Кількість гравців: 1  
@@ -15,7 +16,7 @@
 
 У грі 8 різних рівней, після чого вони починають повторюватись.
 
-[![video](https://img.youtube.com/vi/qu8fbE3bh4k/0.jpg)](https://www.youtube.com/watch?v=qu8fbE3bh4k)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qu8fbE3bh4k" tL1hV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

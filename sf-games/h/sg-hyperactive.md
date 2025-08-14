@@ -1,8 +1,9 @@
 # Hyper Active
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_hyperactive_01.png)|![screen2](screenshots/scrn_hyperactive_02.png)|![screen3](screenshots/scrn_hyperactive_03.png)|![screen4](screenshots/scrn_hyperactive_04.png)|
+<img src="screenshots/scrn_hyperactive_01.png" width="24%"> 
+<img src="screenshots/scrn_hyperactive_02.png" width="24%"> 
+<img src="screenshots/scrn_hyperactive_03.png" width="24%"> 
+<img src="screenshots/scrn_hyperactive_04.png" width="24%">
 
 Жанр: аркада, Scrollshooter  
 Кількість гравців: 1  
@@ -27,7 +28,7 @@
 
 Отримані нами травми споживають нашу енергію, рівень якої позначається чотирма смужками, видимими під ігровим полем посередині. Коли всі чотири стовпці закінчуються, одне життя втрачається через брак енергії. Чотири стовпці енергії зліва направо: швидкий вогонь, щит, радар, енергія зброї. Так от, якщо одна з колонок зводиться до нуля, це впливає на вогневу міць нашої зброї або роботу радара!
 
-[![video](https://img.youtube.com/vi/DDGrmMSlA0s/0.jpg)](https://www.youtube.com/watch?v=DDGrmMSlA0s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DDGrmMSlA0s" tL1hV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

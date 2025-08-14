@@ -1,8 +1,9 @@
 # Rush!
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_rush_01.png)|![screen2](screenshots/scrn_rush_02.png)|![screen3](screenshots/scrn_rush_03.png)|![screen4](screenshots/scrn_rush_04.png)|
+<img src="screenshots/scrn_rush_01.png" width="24%"> 
+<img src="screenshots/scrn_rush_02.png" width="24%"> 
+<img src="screenshots/scrn_rush_03.png" width="24%"> 
+<img src="screenshots/scrn_rush_04.png" width="24%">
 
 Жанр: стратегія, тауер дефенс  
 Кількість гравців: 1  
@@ -36,7 +37,7 @@
 - ***2-й рівень***: 300 золотих
 - ***3-й рівень***: 600 золотих
 
-[![video](https://img.youtube.com/vi/cSt4xLlUJV4/0.jpg)](https://www.youtube.com/watch?v=cSt4xLlUJV4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cSt4xLlUJV4" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

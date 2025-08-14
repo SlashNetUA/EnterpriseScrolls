@@ -1,8 +1,9 @@
 # Mieyen
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_mieyen_01.png)|![screen2](screenshots/scrn_mieyen_02.png)|![screen3](screenshots/scrn_mieyen_03.png)|![screen4](screenshots/scrn_mieyen_04.png)|
+<img src="screenshots/scrn_mieyen_01.png" width="24%"> 
+<img src="screenshots/scrn_mieyen_02.png" width="24%"> 
+<img src="screenshots/scrn_mieyen_03.png" width="24%"> 
+<img src="screenshots/scrn_mieyen_04.png" width="24%">
 
 Жанр: аркада  
 Кількість гравців: 1  
@@ -15,7 +16,7 @@
 
 У грі 8 різних рівней, після чого вони починають повторюватись.
 
-[![video](https://img.youtube.com/vi/X2i1J6ijJwQ/0.jpg)](https://www.youtube.com/watch?v=X2i1J6ijJwQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X2i1J6ijJwQ" hMGBnchV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

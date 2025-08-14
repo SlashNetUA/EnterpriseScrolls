@@ -1,8 +1,9 @@
 # Spherical
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_spherical_01.png)|![screen2](screenshots/scrn_spherical_02.png)|![screen3](screenshots/scrn_spherical_03.png)|![screen4](screenshots/scrn_spherical_04.png)|
+<img src="screenshots/scrn_spherical_01.png" width="24%"> 
+<img src="screenshots/scrn_spherical_02.png" width="24%"> 
+<img src="screenshots/scrn_spherical_03.png" width="24%"> 
+<img src="screenshots/scrn_spherical_04.png" width="24%">
 
 ## Легенда про Пульграма та Вурона
 

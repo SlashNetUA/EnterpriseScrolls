@@ -1,8 +1,9 @@
 # Monty on the Run
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_montyontherun_01.png)|![screen2](screenshots/scrn_montyontherun_02.png)|![screen3](screenshots/scrn_montyontherun_03.png)|![screen4](screenshots/scrn_montyontherun_04.png)|
+<img src="screenshots/scrn_montyontherun_01.png" width="24%"> 
+<img src="screenshots/scrn_montyontherun_02.png" width="24%"> 
+<img src="screenshots/scrn_montyontherun_03.png" width="24%"> 
+<img src="screenshots/scrn_montyontherun_04.png" width="24%">
 
 Жанр: аркада, пригода  
 Кількість гравців: 1  
@@ -15,7 +16,7 @@
 
 Монті може бігти, перекидатися, лазити по канатах, літати назад, їздити, телепортуватися і т.д. Деякі механізми спричиняють смерть (приховані бомби, преси і т.д.), інші допомагають або навпаки перешкоджають (наприклад, телепортація). Деякі з предметів, які ви можете підбирати, змінюють деталі певних кімнат (мотузка, пестицид, паспорт, протигаз і т.д.) що допомагає просуватись у грі.
 
-[![video](https://img.youtube.com/vi/w5iOx8ynD8U/0.jpg)](https://www.youtube.com/watch?v=w5iOx8ynD8U)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w5iOx8ynD8U" hMGBnchV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

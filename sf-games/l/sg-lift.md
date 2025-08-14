@@ -1,8 +1,9 @@
 # Lift
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_lift_01.png)|![screen2](screenshots/scrn_lift_02.png)|![screen3](screenshots/scrn_lift_03.png)|![screen4](screenshots/scrn_lift_04.png)|
+<img src="screenshots/scrn_lift_01.png" width="24%"> 
+<img src="screenshots/scrn_lift_02.png" width="24%"> 
+<img src="screenshots/scrn_lift_03.png" width="24%"> 
+<img src="screenshots/scrn_lift_04.png" width="24%">
 
 Жанр: аркада, платформер  
 Кількість гравців: 1  
@@ -15,7 +16,7 @@
 
 У грі 10 різних рівней, після чого вони починають повторюватись.  
 
-[![video](https://img.youtube.com/vi/muk4lU_hkrA/0.jpg)](https://www.youtube.com/watch?v=muk4lU_hkrA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/muk4lU_hkrA" hMGBnchV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

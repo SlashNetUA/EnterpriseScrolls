@@ -1,8 +1,9 @@
 # Dizzy 1: Extended (The Ultimate Cartoon Adventure)
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_dizzy1-ext_01.png)|![screen2](screenshots/scrn_dizzy1-ext_02.png)|![screen3](screenshots/scrn_dizzy1-ext_03.png)|![screen4](screenshots/scrn_dizzy1-ext_04.png)|
+<img src="screenshots/scrn_dizzy1-ext_01.png" width="24%"> 
+<img src="screenshots/scrn_dizzy1-ext_02.png" width="24%"> 
+<img src="screenshots/scrn_dizzy1-ext_03.png" width="24%"> 
+<img src="screenshots/scrn_dizzy1-ext_04.png" width="24%">
 
 Жанр: пригода, платформер  
 Кількість гравців: 1  
@@ -62,7 +63,7 @@
 🗺 [Мапа гри](https://maps.speccy.cz/maps/DizzyExtendedEdition2021.png)  
 
 ### Відеопроходження:
-[![video](https://img.youtube.com/vi/guNCHODHj3o/0.jpg)](https://www.youtube.com/watch?v=guNCHODHj3o)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/guNCHODHj3o) zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

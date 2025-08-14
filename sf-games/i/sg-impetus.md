@@ -1,8 +1,9 @@
 # Impetus
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_impetus_01.png)|![screen2](screenshots/scrn_impetus_02.png)|![screen3](screenshots/scrn_impetus_03.png)|![screen4](screenshots/scrn_impetus_04.png)|
+<img src="screenshots/scrn_impetus_01.png" width="24%"> 
+<img src="screenshots/scrn_impetus_02.png" width="24%"> 
+<img src="screenshots/scrn_impetus_03.png" width="24%"> 
+<img src="screenshots/scrn_impetus_04.png" width="24%">
 
 Жанр: аркада, скроллшутер  
 Кількість гравців: 1  
@@ -13,7 +14,7 @@
 
 Метою гри є набрати якомога більше очок, знищуючи інопланетних завойовників. В кінці кожного етапу на вас чекатиме бос. Гра закінчується, коли зіб'ють ваш останній винищувач.
 
-[![video](https://img.youtube.com/vi/ZuO1xu2aCDY/0.jpg)](https://www.youtube.com/watch?v=ZuO1xu2aCDY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZuO1xu2aCDY" tL1hV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

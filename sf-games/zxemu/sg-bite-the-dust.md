@@ -1,8 +1,9 @@
 # Bite the Dust
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_bite-the-dust_01.png)|![screen2](screenshots/scrn_bite-the-dust_02.png)|![screen3](screenshots/scrn_bite-the-dust_03.png)|![screen4](screenshots/scrn_bite-the-dust_04.png)|
+<img src="screenshots/scrn_bite-the-dust_01.png" width="24%"> 
+<img src="screenshots/scrn_bite-the-dust_02.png" width="24%"> 
+<img src="screenshots/scrn_bite-the-dust_03.png" width="24%"> 
+<img src="screenshots/scrn_bite-the-dust_04.png" width="24%">
 
 Жанр: BoulderDash-like  
 Кількість гравців: 1  

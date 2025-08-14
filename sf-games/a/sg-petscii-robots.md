@@ -1,8 +1,9 @@
 # Attack of the PETSCII Robots
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_petscii-robots_01.png)|![screen2](screenshots/scrn_petscii-robots_02.png)|![screen3](screenshots/scrn_petscii-robots_03.png)|![screen4](screenshots/scrn_petscii-robots_04.png)|
+<img src="screenshots/scrn_petscii-robots_01.png" width="24%"> 
+<img src="screenshots/scrn_petscii-robots_02.png" width="24%"> 
+<img src="screenshots/scrn_petscii-robots_03.png" width="24%"> 
+<img src="screenshots/scrn_petscii-robots_04.png" width="24%">
 
 Жанр: аркада, пригода, стратегія  
 Кількість гравців: 1  
@@ -18,7 +19,7 @@
 
 У більшості випадків є спосіб перемогти кожного робота, не вступаючи з ним у лобову сутичку. Хитрість полягає в тому, щоб навчитися знаходити всі необхідні інструменти і навчитися ними користуватися.
 
-[![video](https://img.youtube.com/vi/t23FI3rXqu4/0.jpg)](https://www.youtube.com/watch?v=t23FI3rXqu4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t23FI3rXqu4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 ### Attack of the PETSCII Robots

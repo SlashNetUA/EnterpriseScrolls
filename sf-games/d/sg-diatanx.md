@@ -1,8 +1,9 @@
 # DIA TanX!!
 
-| | | | |
-| --- | --- | --- | --- |
-|![screen1](screenshots/scrn_diatanx_01.png)|![screen2](screenshots/scrn_diatanx_02.png)|![screen3](screenshots/scrn_diatanx_03.png)|![screen4](screenshots/scrn_diatanx_04.png)|
+<img src="screenshots/scrn_diatanx_01.png" width="24%"> 
+<img src="screenshots/scrn_diatanx_02.png" width="24%"> 
+<img src="screenshots/scrn_diatanx_03.png" width="24%"> 
+<img src="screenshots/scrn_diatanx_04.png" width="24%">
 
 Жанр: аркада  
 Кількість гравців: 1  
