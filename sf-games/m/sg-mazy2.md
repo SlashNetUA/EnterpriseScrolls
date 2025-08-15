@@ -16,7 +16,7 @@
 
 У даній гри кожен рівень складається з декількох лабіринтів.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OE0lNUefKIo" hMGBnchV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OE0lNUefKIo" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

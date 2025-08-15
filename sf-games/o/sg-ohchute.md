@@ -14,7 +14,7 @@
 
 Ви – Рон Денджер, каскадер і любитель екстремальних видів спорту. Ви просто не можете насититися стрибками з парашутом, але місцевим пілотам вертольотів набридли ваші витівки, і вони полюють на вас... Саме ви маєте показати їм, хто тут головний! Додаткові бали (і зірки) нараховуються за особливо небезпечні трюки, такі як пізнє відкриття парашута або небезпечне наближення до вертольота.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y9KALur0TNE" Y1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y9KALur0TNE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

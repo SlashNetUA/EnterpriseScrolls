@@ -1,35 +1,27 @@
 # Retro Pack 1
 
-## Side A
-Ball Breaker
+| **Side A**           | **Side B**                        |
+| -------------------- | --------------------------------- |
+| Ball Breaker         | Cybernoid: The Fighting Machine   |
+| Renegade             | Cybernoid II: The Revenge         |
+| Spy Hunter           | Heartland                         |
+| Nebulus              | 3D Starstrike                     |
+| Game Over            | Academy: Tau Ceti II              |
+| Cauldron             | Highway Encounter                 |
+| Army Moves           | Jack the Nipper                   |
+| Playground Adventure | Jack the Nipper in Coconut Capers |
 
-Renegade
 
-Spy Hunter
 
-Nebulus
 
-Game Over
 
-Cauldron
 
-Army Moves
 
-Playground Adventure
 
-## Side B
-Cybernoid: The Fighting Machine
 
-Cybernoid II: The Revenge
 
-Heartland
 
-3D Starstrike
 
-Academy: Tau Ceti II
 
-Highway Encounter
 
-Jack the Nipper
 
-Jack the Nipper in Coconut Capers

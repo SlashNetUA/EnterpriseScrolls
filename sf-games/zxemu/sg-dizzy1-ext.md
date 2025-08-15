@@ -1,9 +1,9 @@
 # Dizzy 1: Extended (The Ultimate Cartoon Adventure)
 
-<img src="screenshots/scrn_dizzy1-ext_01.png" width="24%"> 
-<img src="screenshots/scrn_dizzy1-ext_02.png" width="24%"> 
-<img src="screenshots/scrn_dizzy1-ext_03.png" width="24%"> 
-<img src="screenshots/scrn_dizzy1-ext_04.png" width="24%">
+<img src="screenshots/d/scrn_dizzy1-ext_01.png" width="24%"> 
+<img src="screenshots/d/scrn_dizzy1-ext_02.png" width="24%"> 
+<img src="screenshots/d/scrn_dizzy1-ext_03.png" width="24%"> 
+<img src="screenshots/d/scrn_dizzy1-ext_04.png" width="24%">
 
 Жанр: пригода, платформер  
 Кількість гравців: 1  
@@ -44,6 +44,11 @@
 - Міст, що руйнується, тепер з'являється знову, коли ви втрачаєте життя в ямі.
 - Магніт підкови тепер виконує певну функцію, він є ключовим предметом для початку відвідування нових локацій.
 
+## Системні вимоги
+
+### Мінімальні системні вимоги
+Оперативна пам'ять: **128 КБ**
+
 ## Керування та тонкощі запуску
 ### Елементи керування меню:
 
@@ -63,7 +68,7 @@
 🗺 [Мапа гри](https://maps.speccy.cz/maps/DizzyExtendedEdition2021.png)  
 
 ### Відеопроходження:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/guNCHODHj3o) zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/guNCHODHj3o" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

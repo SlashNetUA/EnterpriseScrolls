@@ -16,7 +16,7 @@
 
 У грі 10 різних рівней, після чого вони починають повторюватись.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w5iOx8ynD8U" Y1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aE_WatcdY-Y" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

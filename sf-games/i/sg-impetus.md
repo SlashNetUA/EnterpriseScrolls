@@ -14,7 +14,7 @@
 
 Метою гри є набрати якомога більше очок, знищуючи інопланетних завойовників. В кінці кожного етапу на вас чекатиме бос. Гра закінчується, коли зіб'ють ваш останній винищувач.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZuO1xu2aCDY" tL1hV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZuO1xu2aCDY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

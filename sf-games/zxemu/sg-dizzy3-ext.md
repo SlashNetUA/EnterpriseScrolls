@@ -1,9 +1,9 @@
 # Dizzy 3: Extended (Fantasy World Dizzy)
 
-<img src="screenshots/scrn_dizzy3-ext_01.png" width="24%"> 
-<img src="screenshots/scrn_dizzy3-ext_02.png" width="24%"> 
-<img src="screenshots/scrn_dizzy3-ext_03.png" width="24%"> 
-<img src="screenshots/scrn_dizzy3-ext_04.png" width="24%">
+<img src="screenshots/d/scrn_dizzy3-ext_01.png" width="24%"> 
+<img src="screenshots/d/scrn_dizzy3-ext_02.png" width="24%"> 
+<img src="screenshots/d/scrn_dizzy3-ext_03.png" width="24%"> 
+<img src="screenshots/d/scrn_dizzy3-ext_04.png" width="24%">
 
 Жанр: пригода, платформер  
 Кількість гравців: 1  
@@ -43,6 +43,10 @@
 * Додана пасхалка.
 * Додано кілька нових екранів, предметів та деяку кількість іншої графіки.
 
+## Системні вимоги
+### Мінімальні системні вимоги
+Оперативна пам'ять: **128 КБ**
+
 ## Керування та тонкощі запуску
 ### Елементи керування меню:
 
@@ -54,11 +58,8 @@
 
 `Q`: Вихід на головний екран  
 
-### Додаткові файли:
-(відсутні)
-
 ### Відеопроходження:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7vbbIH1T8R0) zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7vbbIH1T8R0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

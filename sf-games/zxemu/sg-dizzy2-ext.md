@@ -1,9 +1,9 @@
 # Dizzy 2: Extended (Treasure Island Dizzy)
 
-<img src="screenshots/scrn_dizzy2-ext_01.png" width="24%"> 
-<img src="screenshots/scrn_dizzy2-ext_02.png" width="24%"> 
-<img src="screenshots/scrn_dizzy2-ext_03.png" width="24%"> 
-<img src="screenshots/scrn_dizzy2-ext_04.png" width="24%">
+<img src="screenshots/d/scrn_dizzy2-ext_01.png" width="24%"> 
+<img src="screenshots/d/scrn_dizzy2-ext_02.png" width="24%"> 
+<img src="screenshots/d/scrn_dizzy2-ext_03.png" width="24%"> 
+<img src="screenshots/d/scrn_dizzy2-ext_04.png" width="24%">
 
 Жанр: пригода, платформер  
 Кількість гравців: 1  
@@ -45,6 +45,11 @@
 * Додані додаткові звуки.
 * Максимальне число очок у грі: 143600
 
+## Системні вимоги
+
+### Мінімальні системні вимоги
+Оперативна пам'ять: **128 КБ**
+
 ## Керування та тонкощі запуску
 ### Елементи керування меню:
 
@@ -66,7 +71,7 @@
 
 
 ### Відеопроходження:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oygm5nGmK58) zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oygm5nGmK58" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

@@ -16,7 +16,7 @@
 
 Класичний геймплей у стилі Galaga
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WCpbbhbd62A" tL1hV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8V-tL1hV1pM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

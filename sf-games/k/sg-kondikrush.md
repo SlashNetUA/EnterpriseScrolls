@@ -14,7 +14,7 @@
 
 Основний ігровий процес оснований на заміні двох сусідніх цукерок між кількома на ігровому полі, щоб утворити рядок або стовпець із принаймні трьох цукерок однакового кольору. Ціль гри — зібрати як можна більше очок за обмежену кількість переміщення елементів щоб отримати відповідну кількість зірок.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZuO1xu2aCDY" hMGBnchV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rhhb-hMGBnc" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

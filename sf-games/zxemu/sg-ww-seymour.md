@@ -1,9 +1,9 @@
 # Wild West Seymour
 
-<img src="screenshots/scrn_ww-seymour_01.png" width="24%"> 
-<img src="screenshots/scrn_ww-seymour_02.png" width="24%"> 
-<img src="screenshots/scrn_ww-seymour_03.png" width="24%"> 
-<img src="screenshots/scrn_ww-seymour_04.png" width="24%">
+<img src="screenshots/w/scrn_ww-seymour_01.png" width="24%"> 
+<img src="screenshots/w/scrn_ww-seymour_02.png" width="24%"> 
+<img src="screenshots/w/scrn_ww-seymour_03.png" width="24%"> 
+<img src="screenshots/w/scrn_ww-seymour_04.png" width="24%">
 
 Жанр: пригода, платформер  
 Кількість гравців: 1  
@@ -29,6 +29,13 @@
 
 Записуйте спеціальні коди, які ви отримуєте в кінці кожного акту.  На початку гри ви можете миттєво повернутися до цього акту, пройшовши через двері, позначені як акт 2, 3 або 4.  У цей момент Джин запитає у вас ваше кодове слово, яке потрібно ввести з клавіатури.  Якщо ви не знаєте жодного коду, просто просто вийдіть з лівого боку екрану.
 
+## Системні вимоги
+### Мінімальні системні вимоги
+Оперативна пам'ять: **128 КБ**
+### Рекомендовані системні вимоги
+Оперативна пам'ять: **128 КБ та більше**
+
+
 ## Керування та тонкощі запуску
 ### Елементи керування меню:
 
@@ -52,7 +59,7 @@
 Акт 4: `238A35008`  
 
 ### Відеопроходження:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YSGXLKTYCSU) zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YSGXLKTYCSU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

@@ -65,7 +65,7 @@
 Нескінченність часу (**Так**/**Ні**)
 
 ### Відеопроходження:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b5_Scx2u63IzEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b5_Scx2u63I" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

@@ -1,40 +1,30 @@
 # Retro Pack 2
 
-## Side A
-Raid over Moscow
+| **Side A**                                         | **Side B**                                           |
+| -------------------------------------------------- | ---------------------------------------------------- |
+| Raid over Moscow                                   | Stop the Express                                     |
+| Submarine Commander                                | Match Day II                                         |
+| Digi Pok                                           | Chains                                               |
+| Rambo: First Blood Part II                         | Xeno<br>(пошкоджена плівка - завантажити дуже важко) |
+| Death Diver                                        | Sabre Wulf                                           |
+| The Sacred Armour of Antiriad                      | Beach-Head                                           |
+| Fantasia Diamond                                   | Beatcha                                              |
+| Nightshade<br>(пошкоджена плівка - не вантажиться) | Match Point                                          |
+| Nether Earth                                       | Fernando Martin Basket Master                        |
 
-Submarine Commander
 
-Digi Pok
 
-Rambo: First Blood Part II
 
-Death Diver
 
-The Sacred Armour of Antiriad
 
-Fantasia Diamond
 
-Nightshade (пошкоджена плівка - не вантажиться)
 
-Nether Earth
 
-## Side B
 
-Stop the Express
 
-Match Day II
 
-Chains
 
-Xeno (пошкоджена плівка - завантажити дуже важко)
 
-Sabre Wulf
 
-Beach-Head
 
-Beatcha
 
-Match Point
-
-Fernando Martin Basket Master

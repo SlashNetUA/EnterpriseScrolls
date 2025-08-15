@@ -13,7 +13,7 @@
 
 Кротик дуже хоче в своє ліжечко. Щоб дістатись до нього він має прокласти новий шлях у підземному лабіринті. Використовуючи бомби можна створювати нові проходи, але будьте уважні: вода швидко просочується навіть у найменшу щілинку.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ANpnlPCR2Hs" hMGBnchV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ANpnlPCR2Hs" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 
@@ -35,7 +35,7 @@
 `F1`+`F8`: Пропустити рівень
 
 ### Відеопроходження:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Owtj3zwea3Q" hMGBnchV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Owtj3zwea3Q" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

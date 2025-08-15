@@ -25,7 +25,7 @@
 Портали телепортують вас у обох напрямках.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SzjbtKmJ85o" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FgOfA-CFN8Y" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

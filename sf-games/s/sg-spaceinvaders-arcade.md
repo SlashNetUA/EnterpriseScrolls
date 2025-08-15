@@ -35,7 +35,7 @@ https://www.arcade-history.com/?n=space-invaders&page=detail&id=2537
 | -------------------------------------- | ------------------------------------------- |
 | Оперативна пам'ять: **64 КБ**<br>*(тільки класична версія гри без звуку)*          | Оперативна пам'ять: **128 КБ (або більше)** |
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lvxaPFWGzEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lvxaPFWGzEE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Керування та тонкощі запуску
 

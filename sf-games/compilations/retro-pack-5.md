@@ -1,38 +1,15 @@
 # Retro Pack 5
 
-## Side A
-Reversi, Dama, Awari
+| **Side A**             | **Side B**                 |
+| ---------------------- | -------------------------- |
+| Reversi, Dama, Awari   | Jammin'                    |
+| BAM Flipper            | Sorcery                    |
+| Fantomas               | Deviants                   |
+| Airwolf                | Get Dexter                 |
+| The Land of Havoc      | Boulder Dash III           |
+| Super Pipeline II      | Rentakill Rita             |
+| Zolyx                  | Legend of the Amazon Women |
+| Enter-Stack            |                            |
+| Unicum                 |                            |
+| Death Star Interceptor |                            |
 
-BAM Flipper
-
-Fantomas
-
-Airwolf
-
-The Land of Havoc
-
-Super Pipeline II
-
-Zolyx
-
-Enter-Stack
-
-Unicum
-
-Death Star Interceptor
-
-## Side B
-
-Jammin'
-
-Sorcery
-
-Deviants
-
-Get Dexter
-
-Boulder Dash III
-
-Rentakill Rita
-
-Legend of the Amazon Women

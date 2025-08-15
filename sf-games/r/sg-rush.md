@@ -37,7 +37,7 @@
 - ***2-й рівень***: 300 золотих
 - ***3-й рівень***: 600 золотих
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cSt4xLlUJV4" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cSt4xLlUJV4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

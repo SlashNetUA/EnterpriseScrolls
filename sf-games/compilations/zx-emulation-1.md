@@ -17,42 +17,15 @@
 
 [Детальніше про емулятор SPEMU](../../software/se-spemu.md)
 
-## Side A
-
-Frank N Stein Re-booted
-
-Dr. Acula
-
-Merged!
-
-Duck Tales: Webby to the Rescue!
-
-Duck Tales: Family Comes First!
-
-Mr. Hair and the Kitty Katakombs
-
-Rubinho Cucaracha
-
-7th Element
-
-## Side B
-
-Red Raid 1: The Beginning
-
-Red Raid 2: The Sinking
-
-Yokai Monk
-
-Cavit
-
-Cracky
-
-Hopman
-
-Neuras
-
-Yewdow
-
-Tobit
-
-Mr. Vintik
+| **Side A**                       | **Side B**                |
+| -------------------------------- | ------------------------- |
+| Frank N Stein Re-booted          | Red Raid 1: The Beginning |
+| Dr. Acula                        | Red Raid 2: The Sinking   |
+| Merged!                          | Yokai Monk                |
+| Duck Tales: Webby to the Rescue! | Cavit                     |
+| Duck Tales: Family Comes First!  | Cracky                    |
+| Mr. Hair and the Kitty Katakombs | Hopman                    |
+| Rubinho Cucaracha                | Neuras                    |
+| 7th Element                      | Yewdow                    |
+|                                  | Tobit                     |
+|                                  | Mr. Vintik                | 

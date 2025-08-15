@@ -1,56 +1,19 @@
 # Retro Pack 3
 
-## Side A
-Jetpac
+| **Side A**                  | **Side B**                     |
+| --------------------------- | ------------------------------ |
+| Jetpac                      | Flight Simulator               |
+| Exolon                      | Stainless Steel                |
+| Lunar Jetman                | Psi Chess                      |
+| Rebelstar                   | Cyrus Chess II                 |
+| Mercenary: Escape from Targ | Colossus Chess 4               |
+| Star Raiders II             | Robin of the Wood              |
+| Slap Fight                  | Impossible Mission             |
+| Nodes of Yesod              | Impossible Mission II          |
+| The Abyss                   | Rasputin                       |
+| Hypaball                    | Alien 8                        |
+| Enterball                   | Frost Byte                     |
+| Motos                       | Asterix and the Magic Cauldron |
+| Orient Express              |                                |
+| Turbo-Rudi                  |                                |
 
-Exolon
-
-Lunar Jetman
-
-Rebelstar
-
-Mercenary: Escape from Targ
-
-Star Raiders II
-
-Slap Fight
-
-Nodes of Yesod
-
-The Abyss
-
-Hypaball
-
-Enterball
-
-Motos
-
-Orient Express
-
-Turbo-Rudi
-
-## Side B
-
-Flight Simulator
-
-Stainless Steel
-
-Psi Chess
-
-Cyrus Chess II
-
-Colossus Chess 4
-
-Robin of the Wood
-
-Impossible Mission
-
-Impossible Mission II
-
-Rasputin
-
-Alien 8
-
-Frost Byte
-
-Asterix and the Magic Cauldron

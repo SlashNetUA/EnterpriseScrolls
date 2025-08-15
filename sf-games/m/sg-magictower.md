@@ -33,7 +33,7 @@
 Безкінечна кількість життів (**Так**/**Ні**)  
 
 ### Відеопроходження:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8AAqUJHXjaA" hMGBnchV1pMitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8AAqUJHXjaA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

@@ -14,7 +14,7 @@
 
 Проскачіть м'ячиком через 21 циліндричну трасу, назбирайте якомога більше очок і намагайтеся не впасти у прірву!  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BXybXA11L40zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BXybXA11L40" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 
@@ -54,7 +54,7 @@
 Ввести у головному меню код **736418**
 
 ### Відеопроходження:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fB4Yrk6v96c) zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fB4Yrk6v96c" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 *(версія гри для комп'ютера Atari 8-bit)*
 
 ## Посилання

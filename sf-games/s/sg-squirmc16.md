@@ -30,7 +30,7 @@
 - Світлячок — 300 балів
 - Кожен сегмент доріжки — 1 бал
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l_xLnVhSVCYzEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l_xLnVhSVCY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Системні вимоги
 

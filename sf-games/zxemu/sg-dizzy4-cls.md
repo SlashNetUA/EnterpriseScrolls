@@ -1,9 +1,9 @@
 # Dizzy 4: Classic + (Magicland Dizzy)
 
-<img src="screenshots/scrn_dizzy4-cls_01.png" width="24%"> 
-<img src="screenshots/scrn_dizzy4-cls_02.png" width="24%"> 
-<img src="screenshots/scrn_dizzy4-cls_03.png" width="24%"> 
-<img src="screenshots/scrn_dizzy4-cls_04.png" width="24%">
+<img src="screenshots/d/scrn_dizzy4-cls_01.png" width="24%"> 
+<img src="screenshots/d/scrn_dizzy4-cls_02.png" width="24%"> 
+<img src="screenshots/d/scrn_dizzy4-cls_03.png" width="24%"> 
+<img src="screenshots/d/scrn_dizzy4-cls_04.png" width="24%">
 
 Жанр: пригода, платформер  
 Кількість гравців: 1  
@@ -33,6 +33,10 @@
 * Перемальовані деякі предмети та покращено розмальовку лісу.
 * Додана пасхалка.
 
+## Системні вимоги
+### Мінімальні системні вимоги
+Оперативна пам'ять: **128 КБ**
+
 ## Керування та тонкощі запуску
 ### Елементи керування меню:
 
@@ -50,7 +54,7 @@
 🗺 [Мапа гри](https://yolkfolk.com/media/images/maps/MagiclandDizzy_2024ClassicEdition_Spectrum.png)
 
 ### Відеопроходження:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GqafPQDuCLg) zEE" CFN8Yitle="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GqafPQDuCLg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 

@@ -1,50 +1,18 @@
 # Retro Pack 7
 
-## Side A
-Scooby Doo in the Castle Mystery
+| **Side A**                       | **Side B**                            |
+| -------------------------------- | ------------------------------------- |
+| Scooby Doo in the Castle Mystery | Universal Hero                        |
+| Beyond the Ice Palace            | Three Weeks in Paradise               |
+| Soldier of Fortune               | Street Soccer                         |
+| Gridtrouble II                   | Ping Pong                             |
+| Gridtrouble III                  | Monte Carlo Casino                    |
+| I, Ball 2: Quest for the Past    | Street Hawk                           |
+| Rock Star Ate My Hamster!        | Bobby Bearing                         |
+| Diamonds                         | The Curse of Sherwood                 |
+| Samantha Fox Strip Poker         | Dizzy: The Ultimate Cartoon Adventure |
+| Chip Tamadas                     | Dizzy II: Treasure Island Dizzy       |
+| N.O.M.A.D.                       |                                       |
+| Bounces                          |                                       |
+| Strike!                          |                                       |
 
-Beyond the Ice Palace
-
-Soldier of Fortune
-
-Gridtrouble II
-
-Gridtrouble III
-
-I, Ball 2: Quest for the Past
-
-Rock Star Ate My Hamster!
-
-Diamonds
-
-Samantha Fox Strip Poker
-
-Chip Tamadas
-
-N.O.M.A.D.
-
-Bounces
-
-Strike!
-
-## Side B
-
-Universal Hero
-
-Three Weeks in Paradise
-
-Street Soccer
-
-Ping Pong
-
-Monte Carlo Casino
-
-Street Hawk
-
-Bobby Bearing
-
-The Curse of Sherwood
-
-Dizzy: The Ultimate Cartoon Adventure
-
-Dizzy II: Treasure Island Dizzy
