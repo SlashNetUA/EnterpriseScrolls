@@ -21,19 +21,21 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t23FI3rXqu4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
-## Системні вимоги
-### Attack of the PETSCII Robots
+## Системні вимоги Attack of the PETSCII Robots
+### Мінімальні системні вимоги
+Оперативна пам'ять: **128 КБ**  
+### Рекомендовані системні вимоги
+Оперативна пам'ять: **128 КБ (або більше)**  
+[EXDOS](../../software/ss-exdos.md)  
+[SID card](../../hardware/hs-sidcard.md)  
 
-|Мінімальні системні вимоги:|Рекомендовані системні вимоги:|
-|---------------------------|------------------------------|
-|Оперативна пам'ять: **128 КБ**|Оперативна пам'ять: **128 КБ (або більше)** <br>[EXDOS](../../software/ss-exdos.md) <br>[SID card](../../hardware/hs-sidcard.md)| 
-
-### Attack of the PETSCII Robots Plus (16-colour version)
-
-|Мінімальні системні вимоги:|Рекомендовані системні вимоги:|
-|---------------------------|------------------------------|
-|Оперативна пам'ять: **192 КБ**|Оперативна пам'ять: **192 КБ (або більше)** <br>[EXDOS](../../software/ss-exdos.md) <br>[SID card](../../hardware/hs-sidcard.md)| 
-
+## Системні вимоги Attack of the PETSCII Robots Plus (16-colour version)
+### Мінімальні системні вимоги
+Оперативна пам'ять: **192 КБ**  
+### Рекомендовані системні вимоги
+Оперативна пам'ять: **192 КБ (або більше)**  
+[EXDOS](../../software/ss-exdos.md)  
+[SID card](../../hardware/hs-sidcard.md)
 
 ## Керування та тонкощі запуску
 ### Завантаження та запуск
