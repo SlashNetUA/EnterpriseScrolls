@@ -66,7 +66,7 @@
 🗺 [Мапа гри](https://maps.speccy.cz/maps/DizzyExtendedEdition2021.png)  
 
 ### Відеопроходження:
-<iframe width="100%" src="https://www.youtube.com/embed/guNCHODHj3o" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="236" src="https://www.youtube.com/embed/guNCHODHj3o" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Посилання
 
