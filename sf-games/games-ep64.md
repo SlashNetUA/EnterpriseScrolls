@@ -46,6 +46,7 @@
 [Space Invaders Arcade](s/sg-spaceinvaders-arcade.md)  
 [Squirm 16](s/sg-squirm16.md)  
 [Squirm C16 original](s/sg-squirmc16.md)  
+[Svellas](s/sg-svellas.md)  
 
 [Throbbin' Headache DX](t/sg-throbbin-headache.md)  
 [Throbby Heartache](t/sg-throbby-heartache.md)

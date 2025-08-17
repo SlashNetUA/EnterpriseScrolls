@@ -27,4 +27,5 @@
 [Neuras](../sf-games/n/sg-neuras.md)  
 [Osotos](../sf-games/o/sg-osotos.md)  
 [Ruptus](../sf-games/r/sg-ruptus.md)  
+[Svellas](../sf-games/s/sg-svellas.md)  
 [Yewdow](../sf-games/y/sg-yewdow.md)  
