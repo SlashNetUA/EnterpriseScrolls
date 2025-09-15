@@ -171,3 +171,8 @@ The specific messages are:
 Error messages can be trapped, if desired, by using [WHEN EXCEPTION](man_cs-when.md) and a handler block (page 134). An exception handler can be used to trap any error, even those such as a memory overflow or a syntax error (a keyword mis-spelled, for example). This must be handled with care, as a [RETRY](man_cs-retry.md) to a permanent error will cause the program to loop indefinitely.
 
 Errors like a division by zero, or a negative [SQR](man_fn-sqr.md) argument, can be caught without crashing the program.
+
+----
+
+> [!NOTE]
+> message "Statement not allowed after THEN" not only after lines with THEN but sometimes when the line was too long. Sometimes it stands for "Identifier too long". It must be an IS-BASIC bug.

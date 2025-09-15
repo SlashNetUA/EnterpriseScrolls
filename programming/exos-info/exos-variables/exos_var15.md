@@ -4,7 +4,7 @@
 `SET 15, expr`  
 `TOGGLE 15` - inverts value.
 
-Sound envelope storage size in *phases*.
+Sound envelope storage size in *phases*. Possible values are **1**-**255**
 
 **20**: Default
 
