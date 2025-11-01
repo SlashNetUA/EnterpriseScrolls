@@ -7,3 +7,9 @@ Enquires about some option (e.g. **KEY RATE**); see '[Machine Options](man_3-mop
 e.g. `ASK KEY RATE A`
 
 assigns the current keyboard repeat rate to the variable A.
+
+----
+
+Також за допомогою цієї команди можна отримати значення [системних змінних](../system-info/info_exos-variables.md).
+
+`ASK EXOS-var-number var`

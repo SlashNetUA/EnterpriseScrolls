@@ -26,4 +26,4 @@ The parameter (in the range **0**-**15**) determines the baud rate for the RS232
 
 Default baud rate is **9600** (value **15**).
 
-See also [EXOS VAR 16](../exos-info/exos-variables/exos_var16.md).   
+See also [EXOS VAR 16](../system-info/exos-variables/exos_var16.md).   

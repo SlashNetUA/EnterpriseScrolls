@@ -24,7 +24,7 @@ This is the copy of the flag set by the device and is the variable that should b
 |  20h  | KEYBOARD | **Stop** key pressed                        |       all        |
 |  21h  | KEYBOARD | Any normal key pressed (disable by default) |       all        |
 |  30h  |   NET    | Data block received on a network channel    |       all        |
-|  40h  |  KERNEL  | The [TIMER](exos-variables/exos_var5.md) EXOS variable has counted to zero | v2.1 and greater |
+|  40h  |  KERNEL  | The [TIMER](exos_var5.md) EXOS variable has counted to zero | v2.1 and greater |
 |       |          |                                             |                  |
 
 

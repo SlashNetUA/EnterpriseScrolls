@@ -8,4 +8,4 @@ Sets, asks or toggles the specified operating system variable. For further detai
 
 ----
 
-See also: [EXOS variables](../exos-info/info_exos-variables.md).
+See also: [EXOS variables](../system-info/info_exos-variables.md).

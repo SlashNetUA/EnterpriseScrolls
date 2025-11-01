@@ -5,7 +5,7 @@
 
 Determines whether a click is heard with each key-press. Can be used with [TOGGLE](man_cs-toggle.md).
 
-See also See also [EXOS VAR 7](../exos-info/exos-variables/exos_var7.md).   
+See also [EXOS VAR 7](../system-info/exos-variables/exos_var7.md).   
 
 # KEY DELAY
 
@@ -14,7 +14,7 @@ See also See also [EXOS VAR 7](../exos-info/exos-variables/exos_var7.md).
 
 Sets the initial keyboard delay before auto-repeat starts, in units of **1/50** second. Can be used with [ASK](man_cs-ask.md). Default value - **30**.  
 
-See also [EXOS VAR 11](../exos-info/exos-variables/exos_var11.md).   
+See also [EXOS VAR 11](../system-info/exos-variables/exos_var11.md).   
 
 # KEY RATE
 
@@ -23,4 +23,4 @@ See also [EXOS VAR 11](../exos-info/exos-variables/exos_var11.md).
  
 Specifies the keyboard auto-repeal rate, in units of **1/50** second. Can be used with [ASK](man_cs-ask.md). Default value - **3**.
 
-See also [EXOS VAR 10](../exos-info/exos-variables/exos_var10.md).   
+See also [EXOS VAR 10](../system-info/exos-variables/exos_var10.md).   

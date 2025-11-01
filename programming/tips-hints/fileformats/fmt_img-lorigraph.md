@@ -18,7 +18,7 @@
 | COL7         | 1 byte |     11      | Palette index 7 colour from global set                                                                   |
 | BIAS         | 1 byte |     14      | Bias in basic format (See also [IS-Basic manual](../../is-basic_man-en/man_vo-bias.md))                  |
 
-See also [global colour palette](http://ep.lgb.hu/colors.html).
+See also [colour palette information](../../system-info/info_colour-palette.md).
 
 
 ## Body

@@ -20,4 +20,4 @@ Bits **4 and upwards** must be **0**.
 
 Default format is **8 bits**, **no parity**, **2 stop bits**. Use of the network will always re-initialise this default.
 
-See also [EXOS VAR 17](../exos-info/exos-variables/exos_var17.md).   
+See also [EXOS VAR 17](../system-info/exos-variables/exos_var17.md).   

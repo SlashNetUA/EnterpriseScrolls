@@ -20,4 +20,4 @@
 | BIAS             | 1 byte  |     14      | Bias in basic format (See also [IS-Basic manual](../../is-basic_man-en/man_vo-bias.md))              |
 | Z                | 1 byte  |     15      | `5A`                                                                                                 |
 
-See also [global colour palette](http://ep.lgb.hu/colors.html).
+See also [colour palette information](../../system-info/info_colour-palette.md).

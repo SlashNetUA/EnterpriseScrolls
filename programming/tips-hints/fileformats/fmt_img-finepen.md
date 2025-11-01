@@ -14,7 +14,7 @@
 | COL7 | 1 byte |      7      | Palette index 7 colour from global set |
 | BIAS | 1 byte |      8      | Bias number in Nick I/O port format    |
 
-See also [global colour palette](http://ep.lgb.hu/colors.html).
+See also [colour palette information](../../system-info/info_colour-palette.md).
 
 Other defaults:
 

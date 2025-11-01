@@ -13,7 +13,7 @@
 
 ⚠ Colours **1**-**16** are not stored in image file.
 
-See also [global colour palette](http://ep.lgb.hu/colors.html).
+See also [colour palette information](../../system-info/info_colour-palette.md).
 
 Used in **Enterprise SlideShow 1** (16-col) and **Col 256 Demo** (256-col).
 
@@ -31,7 +31,7 @@ Used in **Enterprise SlideShow 1** (16-col) and **Col 256 Demo** (256-col).
 
 ⚠ Colours **1**-**16** are not stored in image file.
 
-See also [global colour palette](http://ep.lgb.hu/colors.html).
+See also [colour palette information](../../system-info/info_colour-palette.md).
 
 Used in **Fall demo**
 

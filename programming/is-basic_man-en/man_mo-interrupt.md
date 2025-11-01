@@ -9,17 +9,17 @@ Asks the software interrupt code for the last interrupt.
 
 When '**on**', causes a software interrupt from any key-press. Can be used with [TOGGLE](man_cs-toggle.md).
 
-See also [EXOS VAR 9](../exos-info/exos-variables/exos_var9.md).   
+See also [EXOS VAR 9](../system-info/exos-variables/exos_var9.md).   
 
 `SET INTERRUPT NET ON/OFF`
 
 Turns on or off the software interrupt caused by receiving data from the network.
 
-See also [EXOS VAR 19](../exos-info/exos-variables/exos_var19.md).   
+See also [EXOS VAR 19](../system-info/exos-variables/exos_var19.md).   
 
 `SET INTERRUPT STOP ON/OFF`  
 `TOGGLE INTERRUPT STOP`
 
 Turns on or off the software interrupt from the 'Stop' key. Can be used with [TOGGLE](man_cs-toggle.md).
 
-See also [EXOS VAR 8](../exos-info/exos-variables/exos_var8.md).   
+See also [EXOS VAR 8](../system-info/exos-variables/exos_var8.md).   

@@ -23,7 +23,7 @@ BIAS for EXOS/BASIC: **184**
 BIAS for Nick I/O port: **23**  
 Colour numbers: **184**-**191**
 
-See also [global colour palette](http://ep.lgb.hu/colors.html).
+See also [colour palette information](../../system-info/info_colour-palette.md).
 
 ## Body
 

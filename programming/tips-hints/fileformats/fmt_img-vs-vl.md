@@ -25,7 +25,7 @@
 | BIAS              | 1 byte  |     24      | Bias number in Nick I/O port format                                                                      |
 | 16BIT_DATA_LENGHT | 2 bytes |     25      | Length of compressed data                                                                                |
 
-See also [global colour palette](http://ep.lgb.hu/colors.html).
+See also [colour palette information](../../system-info/info_colour-palette.md).
 
 ## Body
 

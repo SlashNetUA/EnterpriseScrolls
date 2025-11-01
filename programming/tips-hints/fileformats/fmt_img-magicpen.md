@@ -19,7 +19,7 @@
 | ???          | 1 byte |     14      |                                                                                               |
 | ???          | 1 byte |     15      |                                                                                               |
 
-See also [global colour palette](http://ep.lgb.hu/colors.html).
+See also [colour palette information](../../system-info/info_colour-palette.md).
 
 
 ## Body

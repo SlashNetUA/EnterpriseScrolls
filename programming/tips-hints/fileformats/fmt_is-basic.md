@@ -4,7 +4,7 @@
 
 | Name             | Length  | Byte offset | Description                                                                |
 | ---------------- | ------- |:-----------:| -------------------------------------------------------------------------- |
-| EXOS module type | 2 bytes |      0      | `00 03`: IS-BASIC programs in 1 file<br>`00 04`: IS-BASIC program (single) |
+| EXOS module type | 2 bytes |      0      | `00 03`: 2 or more IS-BASIC programs in 1 file<br>`00 04`: single IS-BASIC program |
 |                  |         |             |                                                                            |
 
 
@@ -107,3 +107,25 @@
 |  91   | [WAIT](../../is-basic_man-en/man_cs-wait-delay.md)          |
 |  92   | [ON](../../is-basic_man-en/man_cs-on.md)                    |
 |       |                                       |
+
+[Детальніше](https://ep128.hu/Ep_Konyv/Gepi_kod_2.htm#327)
+
+⚠ Програмні розширення Бейсіку використовують додаткові токени, значення яких змінюється в залежності порядку завантаження розширень. Без завантажених розширень програма не буде працювати (просто зависне), як і буде неможливим виконання команди LIST та інших.
+
+
+### EnterSprite Extension Tokens
+
+|   Value   | Meaning   |
+|:---------:| --------- |
+| 93 (5Dh)  | SPRON     |
+| 94 (5Eh)  | SPROFF    |
+| 95 (5Fh)  | DIRECTION |
+| 96 (60h)  | CHANGE    |
+| 97 (61h)  | POSITION  |
+| 98 (62h)  | ANIMON    |
+| 99 (63h)  | ANIMOFF   |
+| 100 (64h) | SPEEDAN   |
+| 101 (65h) | SPEEDSPR  |
+| 102 (66h) | SLOAD     |
+| 103 (67h) | ANIMATE   |
+| 104 (68h) | INIT      |

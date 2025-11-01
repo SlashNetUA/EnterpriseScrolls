@@ -48,7 +48,7 @@ Also see [VER$](../is-basic_man-en/man_fn-ver.md) and [VERNUM](../is-basic_man-e
 
 ## Localisation extentions
 
-See [EXOS VAR 144](../exos-info/exos-variables/exos_var144.md)
+See [EXOS VAR 144](../system-info/exos-variables/exos_var144.md)
 
 ## RAM
 
@@ -57,10 +57,10 @@ See [EXOS VAR 144](../exos-info/exos-variables/exos_var144.md)
 ## Storage devices
 
 My suggestion for the loader:  
-Check EXOS variable 3 [DEF_TYPE](../exos-info/exos-variables/exos_var3.md) with EXOS 16 function call.  
+Check EXOS variable 3 [DEF_TYPE](../system-info/exos-variables/exos_var3.md) with EXOS 16 function call.  
 -If it is 0 then tape only configuration, disable loading music.  
 -If not 0 then EXDOS used or ep28emu FILE device.  
-Check EXOS variable 71 [DEF_UNIT](../exos-info/exos-variables/exos_var71.md) (=current drive number)  
+Check EXOS variable 71 [DEF_UNIT](../system-info/exos-variables/exos_var71.md) (=current drive number)  
 -If not exist, then non EXDOS configuration, ep128emu FILE device used, enable loading music.  
 -If it is 5, already running from RAMDISK, enable loading music.  
 -If it is 6 or more then SD or hard disk used, enable loading music.  
