@@ -19,24 +19,26 @@ ALL rights reserved.
 [Using Batch Files](is-dos-man/isdos-p1-batch-files.md)  
 [Help Files](is-dos-man/isdos-p1-help.md)  
 
+
 [PART 2 - OPERATOR'S REFERENCE SECTION](is-dos-man/isdos-p2.md)
 
 [Notation](is-dos-man/isdos-p2-notation.md)  
 [General Rules](is-dos-man/isdos-p2-rules.md)  
 [Detailed Description of Commands](is-dos-man/isdos-p2-commands.md)  
 
+
 [PART 3 - PROGRAMMER’S REFERENCE SECTION](is-dos-man/isdos-p3.md)
 
 [Introduction](is-dos-man/isdos-p3-intro.md)  
 [Transient Program Environment](is-dos-man/isdos-p3-tpe.md)  
-File Control Blocks (FCBs)  
-Is-DOS Function Calls  
-Screen Output  
-Exos Variables  
+[File Control Blocks (FCBs)](is-dos-man/isdos-p3-fcbs.md)  
+[IS-DOS Function Calls](is-dos-man/isdos-p3-functions.md)  
+[Screen Output](is-dos-man/isdos-p3-scr-output.md)  
+[EXOS Variables](is-dos-man/isdos-p3-exos-vars.md)  
 
-APPENDICES  
-1 Summary of Commands  
-2 Error Messages  
-3 List of CP/M Programs Tested  
 
-INDEX
+[APPENDICES](is-dos-man/isdos-pa.md)  
+
+[Summary of Commands](is-dos-man/isdos-pa1.md)  
+[Error Messages](is-dos-man/isdos-pa2.md)  
+[List of CP/M Programs Tested](is-dos-man/isdos-pa3.md)  

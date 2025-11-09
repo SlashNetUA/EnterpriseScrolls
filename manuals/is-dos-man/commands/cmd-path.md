@@ -24,7 +24,7 @@ If no **PATH** command has been given, the default action when searching for com
 PATH ;
 ```
 
-can be used to cancel a previous PATH command.
+can be used to cancel a previous **PATH** command.
 
 Other valid separators, apart from a **semi-colon**, are **space**, **comma**, `/` and `=`.
 

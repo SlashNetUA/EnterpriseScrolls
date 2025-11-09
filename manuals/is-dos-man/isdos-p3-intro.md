@@ -15,5 +15,5 @@ The second type of function call (direct calls to **FISH** or **DISKIO** in the 
 
 The bulk of the Programmer's Reference Section describes in some detail the function calls of the third type — IS-DOS function calls. These are designed to be compatible with CP/M 2.2 and MSX-DOS 1.0, with a few additional functions most of which are specific to the Enterprise/EXOS environment.
 
-The fourth type of function call (CP/M compatible BIOS calls) is not described in detail, since it will normally only be used by converted CP/M programs. Certain points relating to the use of these calls are mentioned in section 2.4.
+The fourth type of function call (CP/M compatible BIOS calls) is not described in detail, since it will normally only be used by converted CP/M programs. Certain points relating to the use of these calls are mentioned in [section 2.4](isdos-p3-tpe.md).
 

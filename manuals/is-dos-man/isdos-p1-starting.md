@@ -1,16 +1,16 @@
 # Starting IS-DOS
 
-Your system should be set up as described in the EXDOS manual. We will assume you have just powered up the computer or performed a "cold reset' (two quick presses on the RESET button). Press a key to enter BASIC. Insert the IS-DOS disk into drive **A**. Then, from the BASIC screen, type:
+Your system should be set up as described in the EXDOS manual. We will assume you have just powered up the computer or performed a "cold reset" (two quick presses on the **Reset** button). Press a key to enter BASIC. Insert the IS-DOS disk into drive **A**. Then, from the BASIC screen, type:
 
 `:ISDOS` **\<Enter\>**
 
-IS-DOS will now load. The status line at the top of the screen will display "IS-DOS", and you will be given the prompt:
+IS-DOS will now load. The status line at the top of the screen will display "**IS-DOS**", and you will be given the prompt:
 
 `A>`
 
-Any of the IS-DOS commands, as listed in the Operator's Reference Section of this manual, may now be used.
+Any of the [IS-DOS commands](isdos-p2-commands.md), as listed in the Operator's Reference Section of this manual, may now be used.
 
-Once in IS-DOS, the screen will default to 80-column mode. This will be difficult to read if you are using a TV receiver. To obtain a 40-column screen, type:
+Once in IS-DOS, the screen will default to **80**-column mode. This will be difficult to read if you are using a TV receiver. To obtain a **40**-column screen, type:
 
 `MODE 40` **\<Enter\>**
 
@@ -35,7 +35,7 @@ The first of these, **ISDOS.SYS**, is the system file containing the IS-DOS oper
 
 There are three kinds of command which IS-DOS recognizes: internal, external and transient.
 
-To execute internal commands, IS-DOS does not need to load any additional program data from the system disk (or any other disk). The command ATTR is one example; you could remove the system disk from the drive, insert a different one, then type the following (which will convert all files on the disk into "read only" files):
+To execute internal commands, IS-DOS does not need to load any additional program data from the system disk (or any other disk). The command [ATTR](commands/cmd-attr.md) is one example; you could remove the system disk from the drive, insert a different one, then type the following (which will convert all files on the disk into "read only" files):
 
 `ATTR a: R` **\<Enter\>**
 
@@ -43,13 +43,13 @@ External commands are those which are passed, for implementation, to EXOS system
 
 A transient command, however, is treated as an instruction to load and execute a program contained in a disk file. On receiving the command, IS-DOS will search for a file with a name consisting of the command word plus the extension "**COM**" or "**BAT**". The file is loaded and executed if found.
 
-The Programmer's Reference Section explains to the machine code programmer how to configure his own programs as transient command files. The utilities supplied on the system disk, which we have listed, are also examples of transient command programs, and are labeled as such in the Operator's Reference Section.
+The [Programmer's Reference Section](isdos-p3.md) explains to the machine code programmer how to configure his own programs as transient command files. The utilities supplied on the system disk, which we have listed, are also examples of transient command programs, and are labeled as such in the [Operator's Reference Section](isdos-p2.md).
 
 Your first use of these utilities should be to make a backup copy of the system disk itself. Replace this disk in drive **A** (if you have removed it). If you have a multi-drive system, insert a new disk (or one containing no files that you want to preserve) into drive **B**. Then type:
 
 `BACKUP a: b:/F` **\<Enter\>**
 
-This will execute the **BACKUP.COM** program. Notice that the command is the same as the file name - without the suffix, but followed by an appropriate set of parameters. On receiving the command, IS-DOS searches for the file in the current directory of the logged-on drive. (It is possible to make it search other directories too; for this, see the PATH command in the Operator's Reference Section.)
+This will execute the **BACKUP.COM** program. Notice that the command is the same as the file name — without the suffix, but followed by an appropriate set of parameters. On receiving the command, IS-DOS searches for the file in the current directory of the logged-on drive. (It is possible to make it search other directories too; for this, see the [PATH](commands/cmd-path.md) command in the Operator's Reference Section).
 
 If you are using a single-drive system, the computer will prompt you each time you need to change disks.
 

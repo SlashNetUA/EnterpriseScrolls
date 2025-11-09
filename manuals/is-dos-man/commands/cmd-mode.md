@@ -10,7 +10,7 @@ Changes the screen mode or I/O devices.
 
 ## Use
 
-If no parameters are given, then the current MODE settings are displayed.
+If no parameters are given, then the current **MODE** settings are displayed.
 
 If a number is given, then this must be **40** or **80**, and the screen is changed to **40** of **80** column mode as appropriate.
 
@@ -26,9 +26,13 @@ The output device used for standard printer output. **LST:** defaults to the EXO
 
 Special purpose auxiliary input device, which has no standard function but may be used by programs. By default, **RDR:** uses the device assigned to **AUX:** (see below).
 
+*(In CP/M used as Paper Tape Reader Device)*
+
 ### PUN:
 
 Special purpose auxiliary output device, which has no standard function but may be used by programs. By default, **PUN:** uses the device assigned to **AUX:** (see below).
+
+*(In CP/M used as Paper Tape Punch Device)*
 
 ### AUX:
 

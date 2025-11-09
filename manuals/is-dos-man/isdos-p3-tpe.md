@@ -17,11 +17,11 @@ A transient program can terminate itself in any of the following four ways:
  3. IS-DOS function call **00h**.
  4. IS-DOS function call **80h**.
 
-The first three of these methods are identical as far as IS-DOS is concerned, and are compatible with CP/M and MSX-DOS. The fourth method (function call **80h**) is an addition which allows the program to return an error code to IS-DOS. The first three methods always return error code zero.
+The first three of these methods are identical as far as IS-DOS is concerned, and are compatible with CP/M and MSX-DOS. The fourth method ([function call 80h](functions/f80h.md)) is an addition which allows the program to return an error code to IS-DOS. The first three methods always return error code zero.
 
 A transient program can also be terminated by the user typing '**Ctrl-C**' at the console (depending on the type of I/O being done), or by the user selecting "Abort" as the response to an "Abort/Retry/Ignore" message during a disk operation. In both of these cases an error code will be returned to IS-DOS.
 
-A transient program can define an "abort routine". This will be called when the program is terminated by **Ctrl-C**, by an abort after a disk error or by a function call **80h**. The method of defining this routine, and its uses, are explained in section 4.44.
+A transient program can define an "abort routine". This will be called when the program is terminated by **Ctrl-C**, by an abort after a disk error or by a [function call 80h](functions/f80h.md). The method of defining this routine, and its uses, are explained in [section 4.44](functions/f81h.md).
 
 ## 2.3 Page Zero Usage
 
@@ -114,11 +114,11 @@ The entries in the BIOS jump vector are as below:
 
 An IS-DOS transient program has two major ways in which it can do "console" input and output. These are by making EXOS calls to the default channel (channel number **255**) or by making CP/M compatible IS-DOS or BIOS calls. Generally a program should use one or the other of these methods and not try to mix them since this can have unpredictable results.
 
-The default EXOS channel will normality be an editor channel, although if printer echo is enabled it will be a channel to a special internal device which directs its output to the editor and to the printer. This is the channel which the IS-DOS CLI uses for its input and output. All the supplied transient programs ([DISKCOPY](cmd-diskcopy.md), [BACKUP](cmd-backup.md), [CHKDSK](cmd-chkdsk.md), [UNDEL](cmd-undel.md) and [XDIR](cmd-xdir.md)) also use this channel.
+The default EXOS channel will normality be an editor channel, although if printer echo is enabled it will be a channel to a special internal device which directs its output to the editor and to the printer. This is the channel which the IS-DOS CLI uses for its input and output. All the supplied transient programs ([DISKCOPY](commands/cmd-diskcopy.md), [BACKUP](commands/cmd-backup.md), [CHKDSK](commands/cmd-chkdsk.md), [UNDEL](commands/cmd-undel.md) and [XDIR](commands/cmd-xdir.md)) also use this channel.
 
 IS-DOS console input and output functions use the EXOS keyboard and video channels directly without going through the editor channel. This is necessary because the editor is a line orientated device and CP/M input and output is character orientated. When the first character output function call is made, the screen is cleared to ensure that the old text from the editor will not interfere. The output produced by the program is displayed on the screen but will not be in the editor's buffer; so when the program terminates, the text, though visible, cannot be edited in the normal way or scrolled back after going off the screen.
 
-When characters are written using IS-DOS character output function calls, they are first translated from **VT52** control codes and escape sequences to EXOS video driver ones. This allows CP/M programs which are installed for **VT52** terminals to be used directly without re-installation. IS-DOS also contains a built-in **VT52** driver which bypasses the normal EXOS video driver and accesses screen memory directly. This is intended for use where speed of screen access is particularly important (eg for word processors). These programs can be installed to select the fast video driver automatically when they start up. Details of the IS-DOS function call to do this are in section 4.48.
+When characters are written using IS-DOS character output function calls, they are first translated from **VT52** control codes and escape sequences to EXOS video driver ones. This allows CP/M programs which are installed for **VT52** terminals to be used directly without re-installation. IS-DOS also contains a built-in **VT52** driver which bypasses the normal EXOS video driver and accesses screen memory directly. This is intended for use where speed of screen access is particularly important (eg for word processors). These programs can be installed to select the fast video driver automatically when they start up. Details of the IS-DOS function call to do this are in [section 4.48](functions/f85h.md).
 
 The advantage of using EXOS calls is that the facilities of the EXOS screen editor are available — and provide a user interface to the program which will feel like the IS-DOS command interpreter and other Enterprise programs. The disadvantages are that it is not CP/M compatible and is rather slower at output; generally it is necessary for a program to buffer output and block write it a line at a time to the default channel to improve the speed.
 

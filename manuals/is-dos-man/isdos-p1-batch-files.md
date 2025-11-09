@@ -8,9 +8,9 @@ When the computer is first powered up, or following a cold reset, an EXDOS batch
 
 Every time IS-DOS is entered (eg from BASIC), a file named **AUTOEXEC.BAT** is searched for, and executed if found. **AUTOEXEC.BAT** is therefore likely to be executed several times in one session.
 
-The IS-DOS system disk contains an **EXDOS.INI** file (which prompts the user to enter the current date and time). It does not contain an **AUTOEXEC.BAT** file. You may find it useful to create one yourself - for example, it could contain the `MODE 40` command, to set up the 40-column screen automatically upon loading of IS-DOS.
+The IS-DOS system disk contains an **EXDOS.INI** file (which prompts the user to enter the current date and time). It does not contain an **AUTOEXEC.BAT** file. You may find it useful to create one yourself — for example, it could contain the `MODE 40` command, to set up the 40-column screen automatically upon loading of IS-DOS.
 
-IS-DOS batch files may contain commands for executing **COM** programs. In addition - unlike EXDOS batch files - they may have parameters passed to them.
+IS-DOS batch files may contain commands for executing **COM** programs. In addition (unlike EXDOS batch files) they may have parameters passed to them.
 
 As a simple example of this, you could create a batch file called **FVID.BAT**, containing the following single command:
 
@@ -24,7 +24,7 @@ Then you would execute the file by typing its name followed by the desired param
 FVID ON
 ```
 
-This is equivalent to typing `VAR 90 ON`, and selects IS-DOS's fast video driver (see the VAR command in the Operator's Reference Section). `FVID ON` is more convenient, since you don't need to remember that **90** is the relevant EXOS variable number. On execution of the batch file, the parameter is automatically substituted for **%1**. Typing `FVID` by itself would be equivalent to `VAR 90`. The current status of the fast video driver (**0**: ON; **255**: OFF) would then be displayed.
+This is equivalent to typing `VAR 90 ON`, and selects IS-DOS's fast video driver (see the [VAR](commands/cmd-var.md) command in the Operator's Reference Section). `FVID ON` is more convenient, since you don't need to remember that **90** is the relevant [EXOS variable](../../programming/system-info/info_exos-variables.md) number. On execution of the batch file, the parameter is automatically substituted for **%1**. Typing `FVID` by itself would be equivalent to `VAR 90`. The current status of the fast video driver (**0**: ON; **255**: OFF) would then be displayed.
 
 The number of parameters passed to a batch file can be anything up to **9**. Suppose you have a file named `MISC.BAT`, and you execute it by typing its name followed by-three parameters:
 

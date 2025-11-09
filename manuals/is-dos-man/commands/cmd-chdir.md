@@ -3,7 +3,6 @@
 ## Format
 
 `CHDIR [d:] [path]`  
-or  
 `CD [d:] [path]`
 
 ## Purpose
@@ -16,7 +15,7 @@ If no path is specified, then the current directory path for the default or spec
 
 If a path is specified, then the current directory for the default or specified drive is changed to the directory specified by the path.
 
-The **CD** command is an abbreviated form of the CHDIR command provided for convenience and MS-DOS compatibility.
+The **CD** command is an abbreviated form of the **CHDIR** command provided for convenience and MS-DOS compatibility.
 
 ## Examples
 

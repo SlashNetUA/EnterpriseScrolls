@@ -15,9 +15,9 @@ To make a backup copy of a disk or a sub-set of files on a disk.
 
 If only one of the above is given, it is assumed to be the source, and the destination is taken to be the default drive. If neither source nor destination is specified, the program will prompt for both drives.
 
-The drives specified in the command are the logical drive names. If ASSIGN has been used with the effect that both source and destination refer to the same physical drive, then an error will be given. Operations of MAPDISK continue as normal, with prompts issued by the system if the backup involves two disks utilizing the same actual drive.
+The drives specified in the command are the logical drive names. If [ASSIGN](cmd-assign.md) has been used with the effect that both source and destination refer to the same physical drive, then an error will be given. Operations of [MAPDISK](cmd-mapdisk.md) continue as normal, with prompts issued by the system if the backup involves two disks utilizing the same actual drive.
 
-If no filename is given for the source, or if an ambiguous filename is specified which includes a match with a directory name, then all descendant sub-directories will be included within the backup operation. (This is an advantage of **BACKUP** over the COPY command provided by EXDOS).
+If no filename is given for the source, or if an ambiguous filename is specified which includes a match with a directory name, then all descendant sub-directories will be included within the backup operation. (This is an advantage of **BACKUP** over the [COPY](cmd-copy.md) command provided by EXDOS).
 
 It is not possible to specify names of files and directories to be created on the destination disk, as these are given the same names as on the source disk. Following the backup operation, the destination disk will have the same sub-directory structure as the source disk, starting from the paths specified (although specifying a path on the destination disk will cause an error if the **/F** option is given — see below).
 
@@ -37,7 +37,7 @@ When backing up from one file to another, the attributes are not affected, and t
 
 The **/V** option is used to verify that the data was written correctly.
 
-**BACKUP** has the advantage over DISKCOPY (see later) that it will be quicker if the source disk is only partly full, and that it consolidates all files into contiguous blocks on the destination disk; it also does not promulgate the disk errors of the source disk, and can be used to backup onto media of a different format (number of tracks etc).
+**BACKUP** has the advantage over [DISKCOPY](cmd-diskcopy.md) that it will be quicker if the source disk is only partly full, and that it consolidates all files into contiguous blocks on the destination disk; it also does not promulgate the disk errors of the source disk, and can be used to backup onto media of a different format (number of tracks etc).
 
 Note that this is a transient command, and must be loaded from disk.
 

@@ -1,8 +1,8 @@
 # Help Files
 
-The HELP command displays information about the system. If you type the word on its own, it lists the system extensions that are present. Alternatively, you may obtain information on some facility in particular, by typing (eg) `HELP WP` or `HELP EXDOS`.
+The [HELP](commands/cmd-help.md) command displays information about the system. If you type the word on its own, it lists the system extensions that are present. Alternatively, you may obtain information on some facility in particular, by typing (eg) `HELP WP` or `HELP EXDOS`.
 
-Under IS-DOS, the HELP command may also be used to display text files that you have created yourself. Suppose you have a disk in drive **B**, containing these programs:
+Under IS-DOS, the [HELP](commands/cmd-help.md) command may also be used to display text files that you have created yourself. Suppose you have a disk in drive **B**, containing these programs:
 
 ```
 1ST-PROG.COM
@@ -36,9 +36,9 @@ This specifies the drive in which help files will subsequently be searched for. 
 
 — to see the text of the corresponding file printed on the screen.
 
-The IS-DOS disk contains help files relating to all standard IS-DOS commands. So if this disk is in drive **A**, and you now want information on (say) the MODE command, type:
+The IS-DOS disk contains help files relating to all standard IS-DOS commands. So if this disk is in drive **A**, and you now want information on (say) the [MODE](commands/cmd-mode.md) command, type:
 
 `HELP A:` **\<Enter\>**  
 `HELP MODE` **\<Enter\>**
 
-See also the explanation of the HELP command in the Operator's Reference Section.
+See also the explanation of the [HELP](commands/cmd-help.md) command in the Operator's Reference Section.
