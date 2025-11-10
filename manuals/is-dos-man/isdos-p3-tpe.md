@@ -28,40 +28,40 @@ A transient program can define an "abort routine". This will be called when the 
 On entry, various parameter areas are set up for the transient program in the first **256** bytes of RAM. The layout of this area is as below and is compatible with CP/M, apart from the area reserved for EXOS entry code.
 
 ```
-      ┌──────╌──────╌──────┬──────╌──────┬──────╌──────╌──────┐
+      ┌──────•──────•──────┬──────•──────┬──────•──────•──────┐
 0000h │    Reboot entry    │  Reserved   │   IS-DOS entry     │
-      ├──────╌──────╌──────┴──────╌──────┴──────╌──────╌──────┤
+      ├──────•──────•──────┴──────•──────┴──────•──────•──────┤
 0008h │                                                       │
 0010h │                                                       │
 0018h │        Unused.   Available for transient programs     │
 0020h │                                                       │
 0028h │                                                       │
-      ├──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┤
+      ├──────•──────•──────•──────•──────•──────•──────•──────┤
 0030h │   EXOS system call entry code .....................   │
-      ├──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┤
+      ├──────•──────•──────┬──────•──────•──────┬──────•──────┤
 0038h │  Interrupt vector  │  Soft ISR address  │             │
-      ├──────┬──────┬──────┼──────┬──────┬──────┤             │
+      ├──────•──────•──────┴──────•──────•──────┘             │
 0040h │                                                       │
       │                                                       │
 0048h │      Reserved for EXOS entry and return code          │
       │                                                       │
 0050h │                                                       │
-      │                           ┌──────┬──────┬──────┬──────┤
+      │                           ┌──────•──────•──────•──────┤
 0058h │                           │                           │
-      ├──────┬──────┬──────┬──────┘                           │
+      ├──────•──────•──────•──────┘                           │
 0060h │         Unopened CP/M FCB for first filename          │
-      │                           ┌──────┬──────┬──────┬──────┤
+      │                           ┌──────•──────•──────•──────┤
 0068h │                           │                           │
-      ├──────┬──────┬──────┬──────┘                           │
+      ├──────•──────•──────•──────┘                           │
 0070h │         Unopened CP/M FCB for second filename         │
-      │                           ┌──────┬──────┬──────┬──────┤
+      │                           ┌──────•──────•──────•──────┤
 0078h │                           │    Space for end of FCB   │
-      ├──────┬──────┬──────┬──────┼──────┬──────┬──────┬──────┤
+      ├──────•──────•──────•──────┴──────•──────•──────•──────┤
 0080h │                                                       │
-  .   .                                                       .
-  .   .   Default Disk transfer address.  Initialised to      .
-  .   .   original command line parameters.                   .
-  .   .                                                       .
+  •   •                                                       •
+  •   •   Default Disk transfer address.  Initialised to      •
+  •   •   original command line parameters.                   •
+  •   •                                                       •
 00F8h │                                                       │
       └───────────────────────────────────────────────────────┘
 ```
