@@ -15,7 +15,7 @@ begin
 end.
 ```
 
-The watchful reader may immediately suspect that the result of the operation will certainly not fit within the range represented by an integer: the result is greater than **2<sup>15</sup>-1**, or **32767**. The more watchful reader who has already read HiSoft Pascal’s description of the „[Compiler Options](../hisoft-pascal_man-en/man_s3-2-compile-options.md)” which says, „*if the overflow control compile option is switched on, the program will stop with an overflow error message!*”
+The watchful reader may immediately suspect that the result of the operation will certainly not fit within the range represented by an integer: the result is greater than **2<sup>15</sup>-1**, or **32767**. The more watchful reader who has already read HiSoft Pascal’s description of the „[Compiler Options](../../manuals/hisoft-pascal-man-en/man_s3-2-compile-options.md)” which says, „*if the overflow control compile option is switched on, the program will stop with an overflow error message!*”
 
 Let’s see what the documentation says about this: the ‚`O`’ option controls overflow handling for certain arithmetic instructions. Integer multiplication and division, and all real type operations are always checked. In the case of integer addition and subtraction, it is checked only if the option (`O+`) is switched on. The default is that this option is on. 
 

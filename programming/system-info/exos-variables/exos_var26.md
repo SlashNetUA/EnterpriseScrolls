@@ -10,4 +10,4 @@
 Memory address: **49119**
 
 
-See also [SET STATUS ON/OFF](../../is-basic_man-en/man_mo-status.md)    
+See also [SET STATUS ON/OFF](../../../manuals/is-basic-man-en/options/man_mo-status.md)    

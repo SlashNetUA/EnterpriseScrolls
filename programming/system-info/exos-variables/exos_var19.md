@@ -9,4 +9,4 @@
 Memory address: **49112**
 
 
-See also [SET INTERRUPT NET ON/OFF](../../is-basic_man-en/man_mo-interrupt.md).
+See also [SET INTERRUPT NET ON/OFF](../../../manuals/is-basic-man-en/options/man_mo-interrupt.md).

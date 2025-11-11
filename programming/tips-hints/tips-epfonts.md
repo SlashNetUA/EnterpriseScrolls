@@ -15,9 +15,9 @@
 ## Зміна символу
 
 ### IS-Basic
-Команда [SET CHARACTER](../is-basic_man-en/man_vo-character.md) змінює символ шрифта.
+Команда [SET CHARACTER](../../manuals/is-basic-man-en/options/man_vo-character.md) змінює символ шрифта.
 
-Команда [CLEAR FONT](../is-basic_man-en/man_cs-clear.md) повертає усі символи до початкових.
+Команда [CLEAR FONT](../../manuals/is-basic-man-en/commands/man_cs-clear.md) повертає усі символи до початкових.
 
 ### HiSoft Pascal
 Процедура [Character](../hisoft-pascal-hpu/grafcs.hpu.md) з бібліотеки GRAFCS.HPU / TEXTVID.HPU змінює символ шрифта.

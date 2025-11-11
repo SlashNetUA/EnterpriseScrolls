@@ -16,4 +16,4 @@ dec: `27`,`77`,**n**
 
 Set cursor to palette colour **n**.
 
-[IS-Basic](../../is-basic_man-en/man_vo-cursor.md).
+[IS-Basic](../../../manuals/is-basic-man-en/options/man_vo-cursor.md).

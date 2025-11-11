@@ -44,7 +44,7 @@ So, generaly don't need switch of OS, just don't use it under the main program.
 IF IN(**176**)=**252** THEN **EP64 machine**.  
 IF IN(**176**)<=**248** THEN **EP128 machine**.
 
-Also see [VER$](../is-basic_man-en/man_fn-ver.md) and [VERNUM](../is-basic_man-en/man_fn-vernum.md) system variables.
+Also see [VER$](../../manuals/is-basic-man-en/functions/man_fn-ver.md) and [VERNUM](../../manuals/is-basic-man-en/functions/man_fn-vernum.md) system variables.
 
 ## Localisation extentions
 

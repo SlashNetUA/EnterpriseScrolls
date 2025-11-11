@@ -18,7 +18,7 @@ DEC: `27`,`67`,**c0**,**c1**,**c2**,**c3**,**c4**,**c5**,**c6**,**c7**
 
 Існує ще одна керуюча послідовність, яка дозволяє змінити лише один колір палітри: [set palette colour](1b63-video.md)
 
-[IS-Basic](../../is-basic_man-en/man_vo-palette.md).
+[IS-Basic](../../../manuals/is-basic-man-en/options/man_vo-palette.md).
 
 ## Eng
 Each video page has a palette of eight colours associated with it which is initialised to a useful set of colours when the channel is opened. There is an escape sequence with which the user can change all these colours.

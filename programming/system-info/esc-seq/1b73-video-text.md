@@ -13,4 +13,4 @@ dec: `27`,`115`
 
 Див. також [дозволити прокручування](1b53-video-text.md).
 
-[IS-Basic](../../is-basic_man-en/man_vo-scroll.md).
+[IS-Basic](../../../manuals/is-basic-man-en/options/man_vo-scroll.md).

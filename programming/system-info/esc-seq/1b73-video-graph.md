@@ -10,6 +10,6 @@ hex: `1B`,`73`
 
 dec: `27`,`115`
 
-[IS-Basic](../../is-basic_man-en/man_vo-beam.md).
+[IS-Basic](../../../manuals/is-basic-man-en/options/man_vo-beam.md).
 
 Див. також [Увімкнути промінь](1b53-video-graph.md).

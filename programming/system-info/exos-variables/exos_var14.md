@@ -10,4 +10,4 @@
 Memory address: **49107**
 
 
-See also [SET SPEAKER ON/OFF](../../is-basic_man-en/man_so-speaker.md).
+See also [SET SPEAKER ON/OFF](../../../manuals/is-basic-man-en/options/man_so-speaker.md).

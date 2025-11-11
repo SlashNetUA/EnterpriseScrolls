@@ -10,4 +10,4 @@
 Memory address: **49106**
 
 
-See also [SET SOUND STOP ON/OFF](../../is-basic_man-en/man_so-sound-stop.md).
+See also [SET SOUND STOP ON/OFF](../../../manuals/is-basic-man-en/options/man_so-sound-stop.md).

@@ -1,0 +1,45 @@
+# IS-Basic Programming Guide
+
+## Contents
+### Getting acquainted
+[Introduction](is-basic-man-en/man_1-intro.md)  
+[First programs](is-basic-man-en/man_1-firstpro.md)  
+[About programming](is-basic-man-en/man_1-aboutpro.md)  
+[Doing things in order](is-basic-man-en/man_1-doingthi.md)  
+[Immediate mode and keywords](is-basic-man-en/man_1-immediate.md)  
+[Variables](is-basic-man-en/man_1-variables.md)  
+[Operators and expressions](is-basic-man-en/man_1-operators.md)  
+[Setting out text](is-basic-man-en/man_1-settingout.md)  
+[Editing programs](is-basic-man-en/man_1-editingpro.md)  
+[Word processing](is-basic-man-en/man_1-wordproc.md)  
+[The function keys](is-basic-man-en/man_1-funckeys.md)  
+[Function key operations](is-basic-man-en/man_1-funcop.md)  
+[Handling programs on cassette](is-basic-man-en/man_1-cassette.md)  
+
+### The tutorial
+[Strings](is-basic-man-en/man_2-strings.md)  
+[Loops](is-basic-man-en/man_2-loops.md)  
+[Decisions, decisions!](is-basic-man-en/man_2-decisions.md)  
+[Storing larger amounts of information](is-basic-man-en/man_2-storing.md)  
+[Defining functions](is-basic-man-en/man_2-defining.md)  
+[Graphics](is-basic-man-en/man_2-graphics.md)  
+[The character set](is-basic-man-en/man_2-charset.md)  
+[Sound 'n' rhythm](is-basic-man-en/man_2-sound.md)  
+[Making programs out of problems](is-basic-man-en/man_2-problems.md)  
+[Minimal basic features](is-basic-man-en/man_2-features.md)  
+[Channels](is-basic-man-en/man_2-channels.md)  
+[Exception handling](is-basic-man-en/man_2-exceptions.md)  
+[The net](is-basic-man-en/man_2-net.md)  
+[Using machine code](is-basic-man-en/man_2-mcode.md)  
+
+### Reference section
+[Rules of basic](is-basic-man-en/man_3-rules.md)  
+[Commands and statements](is-basic-man-en/man_3-commands.md)  
+[Machine options (general)](is-basic-man-en/man_3-moptions.md)  
+[Video options](is-basic-man-en/man_3-vidoptions.md)  
+[Sound options](is-basic-man-en/man_3-souoptions.md)  
+[Built-in functions and variables](is-basic-man-en/man_3-functs.md)  
+[EXOS](is-basic-man-en/man_3-exos.md)  
+[Error messages](is-basic-man-en/man_3-errors.md)  
+[Glossary](man_3-glossary.md)  
+[Index](man_3-index.md)  

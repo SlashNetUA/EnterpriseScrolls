@@ -15,9 +15,9 @@ dec: `27`,`46`,**n**
 **1**: Суцільна лінія *(за замовчуванням)*  
 **2**–**14**: Різні типи розривних та пунктирних ліній.
 
-![](../../is-basic_man-en/line-style.png)
+![](../../../manuals/is-basic-man-en/line-style.png)
 
-Див. також [Режим малювання ліній](1b4d-video-graph.md) та [IS-Basic](../../is-basic_man-en/man_vo-line-style.md).
+Див. також [Режим малювання ліній](1b4d-video-graph.md) та [IS-Basic](../../../manuals/is-basic-man-en/options/man_vo-line-style.md).
 
 ## Eng
 **Graphics Line Style**

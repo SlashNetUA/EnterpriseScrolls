@@ -16,7 +16,7 @@
 
 Примітка: У текстовому режимі високої роздільної здатності фактично відображатимуться лише середні шість бітів байтів символів, оскільки два інші маскуються та використовуються для задання кольору символу.
 
-[IS-Basic](../../is-basic_man-en/man_vo-character.md)
+[IS-Basic](../../../manuals/is-basic-man-en/options/man_vo-character.md)
 
 ## Eng
 This escape sequence aliows the user to re-define one of the 256 characters. Although it is sent to a specific channel, it actually affects the global character font and will thus affect other channels. Characters already

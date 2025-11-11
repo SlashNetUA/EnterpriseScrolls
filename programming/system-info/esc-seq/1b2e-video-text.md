@@ -16,4 +16,4 @@ dec: `27`,`46`,**n**
 
 Set cursor character to character code **n**.
 
-[IS-Basic](../../is-basic_man-en/man_vo-cursor.md).
+[IS-Basic](../../../manuals/is-basic-man-en/options/man_vo-cursor.md).

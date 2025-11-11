@@ -23,4 +23,4 @@ Default format is **8 bits**, **no parity**, **2 stop bits** (**0**). Use of the
 
 Memory address: **49110**
 
-See also [SET SERIAL FORMAT](../../is-basic_man-en/man_mo-ser-fmt.md).
+See also [SET SERIAL FORMAT](../../../manuals/is-basic-man-en/options/man_mo-ser-fmt.md).

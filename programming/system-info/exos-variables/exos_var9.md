@@ -10,5 +10,5 @@
 Memory address: **49102**
 
 
-See also [SET INTERRUPT KEY ON/OFF](../../is-basic_man-en/man_mo-interrupt.md)
+See also [SET INTERRUPT KEY ON/OFF](../../../manuals/is-basic-man-en/options/man_mo-interrupt.md)
 

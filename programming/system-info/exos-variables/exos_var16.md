@@ -28,4 +28,4 @@ Defines serial baud rate.
 Memory address: **49109**
 
 
-See also [SET SERIAL BAUD](../../is-basic_man-en/man_mo-ser-baud.md)
+See also [SET SERIAL BAUD](../../../manuals/is-basic-man-en/options/man_mo-ser-baud.md)

@@ -14,7 +14,7 @@
 
 Під час вибору нових кольорів палітри будь-які блоки параметрів лінії, що відповідають цій відеосторінці, будуть оновлені, тому кольори на екрані зміняться.
 
-Також див: [Set Palette Colours](1b43-video.md) та [IS-Basic](../../is-basic_man-en/man_vo-colour.md)
+Також див: [Set Palette Colours](1b43-video.md) та [IS-Basic](../../../manuals/is-basic-man-en/options/man_vo-colour.md)
 
 ## Eng
 Escape sequence which allows just one palette colour to be changed.
