@@ -2,7 +2,7 @@
 
 The job of an operating system is to control the standard functions of a computer, and to provide a simple means for programs to work within the computer.
 
-Each Enterprise contains EXOS — the operating system used by IS-BASIC and other Enterprise programs. In addition to controlling the computer, EXOS provides special routines for graphics and sound features, and also enables the use of cassette tapes for saving and loading programs or other data.
+Each Enterprise contains [EXOS](../../software/ss-exos.md) — the operating system used by IS-BASIC and other Enterprise programs. In addition to controlling the computer, EXOS provides special routines for graphics and sound features, and also enables the use of cassette tapes for saving and loading programs or other data.
 
 Each disk interface contains EXDOS — an extension of EXOS which fully integrates the use of floppy disks with normal computer operations. Since disks add a significant extra capability to the computer, the operating system has to be made more powerful to take advantage of this capability.
 

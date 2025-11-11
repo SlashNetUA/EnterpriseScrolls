@@ -1,8 +1,8 @@
 # Chapter 6: Formatting and Using a Disk
 
-As we have mentioned previously, before a new disk can be used it must be formatted to suit the system in which it will be working. The FORMAT command should be used with care as formatting a disk containing data will irretrievably destroy that data) EXDOS always gives a warning message and asks for confirmation before formatting a disk.
+As we have mentioned previously, before a new disk can be used it must be formatted to suit the system in which it will be working. The [FORMAT](../dos-commands/cmd-format.md) command should be used with care as formatting a disk containing data will irretrievably destroy that data) EXDOS always gives a warning message and asks for confirmation before formatting a disk.
 
-EXDOS automatically formats the disk to the maximum capacity of the disk drive used (ie. **40** or **80 track** and **single** or **double sided**). It is also possible to format a disk for a'lesser drive (ie. **40 track** on an **80 track** drive and/or **single sided** on a **double sided** drive). Further information on use of these special options is given under the heading FORMAT in the command reference section of this guide.
+EXDOS automatically formats the disk to the maximum capacity of the disk drive used (ie. **40** or **80 track** and **single** or **double sided**). It is also possible to format a disk for a'lesser drive (ie. **40 track** on an **80 track** drive and/or **single sided** on a **double sided** drive). Further information on use of these special options is given under the heading [FORMAT](../dos-commands/cmd-format.md) in the command reference section of this guide.
 
 To format a disk to the default settings, the procedure is as follows:
 
@@ -12,13 +12,13 @@ Insert a new disk into the required drive (see Figures 7 or 8 for disk insertion
 
 ## Diagram 8: Inserting a 5.25” disk
 
-Enter the EXDOS command interpreter (see previous chapter).
+Enter the EXDOS command interpreter (see [previous chapter](exdos-5install.md)).
 
 Type:
 
 `FORMAT x:` **\[Enter\]**
 
-where **x** is the drive containing the disk to be formatted. Valid drives are **A:** through **D:** depending on the number of drives fitted, with **E:** being reserved for RAMDISK (see command reference section). When the FORMAT command has been entered, the message:
+where **x** is the drive containing the disk to be formatted. Valid drives are **A:** through **D:** depending on the number of drives fitted, with **E:** being reserved for [RAMDISK](../dos-commands/cmd-ramdisk.md) (see command reference section). When the [FORMAT](../dos-commands/cmd-format.md) command has been entered, the message:
 
 ```
 Destroy data on drive x: (Y/N)?
@@ -30,7 +30,7 @@ If a **Y** (YES) response is given followed by an **\[Enter\]**, the disk is for
 
 The disk will take approximately three minutes to format, if it is a full capacity (80 track, double sided) drive. You will probably be able to hear the "stepping" operations of the drive, as the disk is formatted.
 
-Once the disk is formatted, it is ready for use. Try using a DIRectory command. Type:
+Once the disk is formatted, it is ready for use. Try using a [DIR](../dos-commands/cmd-dir.md)ectory command. Type:
 
 `DIR` **\[Enter\]**
 
@@ -43,11 +43,11 @@ Directory of x:\
 *** File not found
 ```
 
-The DIRectory command gives the contents of the current directory, but in this case no files exist as the disk is freshly formatted. More information is given on the use of directories and sub-directories later in this manual.
+The [DIR](../dos-commands/cmd-dir.md)ectory command gives the contents of the current directory, but in this case no files exist as the disk is freshly formatted. More information is given on the use of directories and sub-directories later in this manual.
 
 ## SAVEing and LOADing files.
 
-With the disk interface connected, the disk system becomes the "default" filing system. This means that BASIC and word processor commands such as LOAD and SAVE automatically use the disk system. As an example we will try saving a small BASIC program. To save and load BASIC programs we must be on the BASIC editor screen, not in the EXDOS command interpreter.
+With the disk interface connected, the disk system becomes the "default" filing system. This means that BASIC and [Word Processor](../../software/st-wp.md) commands such as LOAD and SAVE automatically use the disk system. As an example we will try saving a small BASIC program. To save and load BASIC programs we must be on the BASIC editor screen, not in the EXDOS command interpreter.
 
 To enter BASIC from EXDOS we type:
 
@@ -64,13 +64,13 @@ First we will type in this small BASIC program:
 
 Now [SAVE](../is-basic-man-en/commands/man_cs-save.md) this program as if you were using a tape based system. If no file name is specified then the default file name given in line **100** will be used.
 
-The suffix "**.BAS**" is a file name extension to show that this is a BASIC program. The extension need not be used but it does simplify the recognition of files in a directory. Similarly a "**.WP**" suffix might be used for word processor files. There is no need to stick to these conventions, you can invent your own suffixes to suit the files you are creating.
+The suffix "**.BAS**" is a file name extension to show that this is a BASIC program. The extension need not be used but it does simplify the recognition of files in a directory. Similarly a "**.WP**" suffix might be used for [Word Processor](../../software/st-wp.md) files. There is no need to stick to these conventions, you can invent your own suffixes to suit the files you are creating.
 
 The rules for filenames are slightly different when using a disk system instead of tape. When specifying file names for tape operations, they can be up to **28 characters** long. When specifying filenames for disk operations, the main name can be up to **8 characters** long, with the optional extension up to **3 characters** long. Also certain characters have a special meaning to the disk system. This is explained in detail in the command reference section.
 
 Although the extensions are not obligatory, they do become part of the file name and so MUST be specified when attempting to load a particular file.
 
-If we now try our DIRectory command, from BASIC:
+If we now try our [DIR](../dos-commands/cmd-dir.md)ectory command, from BASIC:
 
 `:dir` **\[Enter\]**
 
@@ -151,13 +151,13 @@ and, similarly, to save a program on tape we would type:
 
 `SAVE "tape:filename"` **\[Enter\]**
 
-It is also possible to COPY from one filing system to the other. Refer to the command reference section for details. NOTE: Protected files cannot be copied.
+It is also possible to [COPY](../dos-commands/cmd-copy.md) from one filing system to the other. Refer to the command reference section for details. NOTE: Protected files cannot be copied.
 
 ## Disks and the word processor
 
-SAVE and LOAD operations on word processor files behave in the same way as on the tape system.
+SAVE and LOAD operations on [Word Processor](../../software/st-wp.md) files behave in the same way as on the tape system.
 
-It is possible to pass commands to EXDOS and to enter the command screen from the word processor. Let us try some examples. First we must enter word processor mode.
+It is possible to pass commands to EXDOS and to enter the command screen from the [Word Processor](../../software/st-wp.md). Let us try some examples. First we must enter word processor mode.
 
 Type:
 
@@ -167,7 +167,7 @@ from BASIC or use **Shift**+**Fkey 8** followed by **\[Enter\]**.
 
 Type some text on the screen or load up a previously saved file. Remember to use "`tape:`" before the filename if loading from cassette.
 
-In order to enter the EXDOS command screen from the word processor, we must first press **Fkey 8** (EXIT). When the message:
+In order to enter the EXDOS command screen from the Word Processor, we must first press **Fkey 8** (EXIT). When the message:
 
 `Press ENTER to enter BASIC`
 
@@ -175,7 +175,7 @@ appears, DO NOT press  **\[Enter\]** but type:
 
 `exdos` **\[Enter\]**
 
-and the EXDOS command screen will appear. Commands can now be entered in the normal way. Try the DIRectory command, and you will see that the directory appears on the command screen. To return to the word processor screen, press the **Escape** key, and you will find that your text is intact.
+and the EXDOS command screen will appear. Commands can now be entered in the normal way. Try the [DIR](../dos-commands/cmd-dir.md)ectory command, and you will see that the directory appears on the command screen. To return to the Word Processor screen, press the **Escape** key, and you will find that your text is intact.
 
 It is also possible to execute an EXDOS command without entering the command screen. In this case, however, the results will appear IN the word processor text. Try pressing **Fkey 8** (EXIT) again, but, this time type:
 
@@ -183,10 +183,10 @@ It is also possible to execute an EXDOS command without entering the command scr
 
 when the message appears. You will notice that the directory is now included within your text.
 
-When using the word processor to create files for use by other programs, or to operate as batch files (see appendix E), you will find it most convenient to use the PRINT function of the word processor.
+When using the Word Processor to create files for use by other programs, or to operate as batch files (see [appendix E](exdos-a5batch-files.md)), you will find it most convenient to use the PRINT function of the Word Processor.
 
-With your text on the word processor screen, press **Fkey 3** (PRINT) and the following prompt will appear:
+With your text on the Word Processor screen, press **Fkey 3** (PRINT) and the following prompt will appear:
 
 `Press ENTER for parallel printer, or type device-name:`
 
-When you see this prompt, give a filename and then press **\[Enter\]**. Your word processor text will be saved on disk, under the filename specified, in "ASCII" format. This format will allow the text to be used by other programs, or by the TYPE command (see the reference section).
+When you see this prompt, give a filename and then press **\[Enter\]**. Your Word Processor text will be saved on disk, under the filename specified, in "ASCII" format. This format will allow the text to be used by other programs, or by the [TYPE](../dos-commands/cmd-type.md) command (see the reference section).

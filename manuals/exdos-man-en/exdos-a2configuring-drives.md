@@ -56,11 +56,11 @@ As we mentioned in the chapter on connecting your system, it is sometimes necess
 
 ## Step rates
 
-If your drives have a step rate slower than 6ms, it will be necessary to give an instruction to the Enterprise to work with this slower step rate, and this instruction will have to be given every time you start up the computer or give it a cold reset.
+If your drives have a step rate slower than **6ms**, it will be necessary to give an instruction to the Enterprise to work with this slower step rate, and this instruction will have to be given every time you start up the computer or give it a cold reset.
 
 A simple way to give this instruction to the computer is to include it in the **EXDOS.INI** start-up file, which is explained in appendix E but if you do so it is essential that **EXDOS.INI** is the first file you copy to a fresh disk when it is formatted. This disk should then be put in drive **A:** whenever you start up the computer.
 
-The instruction for changing the step rate consists of altering an [EDOS variable 73](../../programming/system-info/exos-variables/exos_var73.md). This can be done through use of the [EXDOS VAR](../dos-commands/cmd-var.md) command (see the reference section for further details, and appendix F).
+The instruction for changing the step rate consists of altering an [EDOS variable 73](../../programming/system-info/exos-variables/exos_var73.md). This can be done through use of the [EXDOS VAR](../dos-commands/cmd-var.md) command (see the reference section for further details, and [appendix F](exdos-a6sys-vars.md)).
 
 The following step rate commands are possible:
 
@@ -81,4 +81,4 @@ If you are only using disk drives which DO provide the disk change signal (eg **
 
 `:VAR 89, off`
 
-This will turn on recognition by EXDOS of the signal. You will have to give the instruction after every power up or cold reset of the computer, and so is best placed in your EXDOS.INI file (see appendix E).
+This will turn on recognition by EXDOS of the signal. You will have to give the instruction after every power up or cold reset of the computer, and so is best placed in your EXDOS.INI file (see [appendix E](exdos-a5batch-files.md)).

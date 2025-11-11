@@ -47,7 +47,7 @@ Now try this process on your computer. In EXDOS command mode, as above, type:
 
 `md England` **\[Enter\]**
 
-MD is the shorter version of the command MKDIR, which "makes" a directory.
+[MD](../dos-commands/cmd-mkdir.md) is the shorter version of the command [MKDIR](../dos-commands/cmd-mkdir.md), which "makes" a directory.
 
 Now type:
 
@@ -65,7 +65,7 @@ Using the screen editor again, enter the line:
 
 `cd England\London.N1\31Hoxton` **\[Enter\]**
 
-CD is the shorter version of the command CHDIR, which "changes" the current directory.
+[CD](../dos-commands/cmd-chdir.md) is the shorter version of the command [CHDIR](../dos-commands/cmd-chdir.md), which "changes" the current directory.
 
 Now type:
 
@@ -84,7 +84,7 @@ Now type:
 
 `wp` **\[Enter\]**
 
-to enter the word processor, and then create a document. For example, type:
+to enter the Word Processor, and then create a document. For example, type:
 
 ```
 The home of the Enterprise computer
@@ -106,9 +106,9 @@ For each disk on line to EXDOS there is a current directory. This is the default
 
 Assuming that the files on disk are well organised, it is still necessary to perform "housekeeping" operations, such as copying, deleting, renaming, and moving files.
 
-The EXDOS command which you will possibly use most often, after DIR, is COPY. Disks are not 100% reliable, even though a single disk will probably perform millions of operations before it fails, and an indispensible process when using disks is to make back-up copies of files in case the originals are lost. COPY is also used when duplicating files onto different disks, and so for transfer of data to other computers.
+The EXDOS command which you will possibly use most often, after [DIR](../dos-commands/cmd-dir.md), is [COPY](../dos-commands/cmd-copy.md). Disks are not 100% reliable, even though a single disk will probably perform millions of operations before it fails, and an indispensible process when using disks is to make back-up copies of files in case the originals are lost. [COPY](../dos-commands/cmd-copy.md) is also used when duplicating files onto different disks, and so for transfer of data to other computers.
 
-A COPY command can be used to transfer a single file at a time. For example, to make a back-up copy of the file "ECL" created earlier, one could type:
+A [COPY](../dos-commands/cmd-copy.md) command can be used to transfer a single file at a time. For example, to make a back-up copy of the file "ECL" created earlier, one could type:
 
 `copy ecl ecl.bak` **\[Enter\]**
 
@@ -130,7 +130,7 @@ is really the command:
 
 `dir *.*` **\[Enter\]**
 
-since "`*.*`" is taken as the default parameter to the command DIR.
+since "`*.*`" is taken as the default parameter to the command [DIR](../dos-commands/cmd-dir.md).
 
 One could type:
 
@@ -144,5 +144,5 @@ The other wildcard character is "`?`", which is used as an ambiguous specificati
 
 might produce a directory listing containing the files "TEST.BAS" and "TEST.BAT".
 
-For a detailed description of the disk housekeeping commands, refer to the next chapter — the command reference section.
+For a detailed description of the disk housekeeping commands, refer to the next chapter — [the command reference section](exdos-8command-reference.md).
 

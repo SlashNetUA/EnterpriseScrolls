@@ -17,7 +17,7 @@ Your Enterprise interface pack should contain the following items. If any are mi
 
 The following items will also be required:
  5. An **Enterprise 64** or **128** computer!
- 6. Self powered Shugart 410 compatible disk drive(s). See Appendix B for further details on acceptable disk drives.
+ 6. Self powered Shugart 410 compatible disk drive(s). See [Appendix B](exdos-a2configuring-drives.md) for further details on acceptable disk drives.
  7. A-supply of suitable floppy disks. Note that disks are of varying quality depending on the amount of data they are expected to contain, and whether they are intended for single or dual side operation.
 
 Your local computer store should be able to offer advice on the choice of drive and disks. If in doubt please contact Enterprise Computers Ltd. or (if outside the UK) their local distributor.
@@ -31,23 +31,23 @@ Step by step instructions.
 
 Refer to Diagram 6 to see the general layout of the connected items.
 
- A) Arrange your computer on the desk or table so that there is sufficient room for the interface and drives on the right hand side of the computer.
+ a) Arrange your computer on the desk or table so that there is sufficient room for the interface and drives on the right hand side of the computer.
 
- B) Connect the ribbon cable from your disk drive(s) to the connector on the rear of the Interface module. The interface connector is polarised to prevent mis-insertion of polarised drive cables.
+ b) Connect the ribbon cable from your disk drive(s) to the connector on the rear of the Interface module. The interface connector is polarised to prevent mis-insertion of polarised drive cables.
 
  If your drive cable has an unpolarised connector then ensure that the marker arrow is to the right and top of the cable when looking INTO the interface connector. This will normally mean that the red ‘tracer’ on the ribbon cable is also on the right. If in doubt, please refer to your disk drive manual.
 
  Clip the "ears" on the interface connector over the ribbon connector to hold it firmly in place.
 
- C) Plug the interface module into the adaptor unit. The ventilation slots on the adaptor unit should be underneath and the auxiliary power socket to the rear.
+ c) Plug the interface module into the adaptor unit. The ventilation slots on the adaptor unit should be underneath and the auxiliary power socket to the rear.
 
- D) Remove the cover from the expansion port on the right hand side of the Enterprise computer.
+ d) Remove the cover from the expansion port on the right hand side of the Enterprise computer.
 
- E) Carefully plug the adaptor unit / interface module combination into the Enterprise expansion port. Ensure that both computer and interface are fully supported to reduce strain on the connectors.
+ e) Carefully plug the adaptor unit / interface module combination into the Enterprise expansion port. Ensure that both computer and interface are fully supported to reduce strain on the connectors.
 
- F) Refer to Diagram 6 to ensure that your system matches that shown.
+ f) Refer to Diagram 6 to ensure that your system matches that shown.
 
- G) Reconnect your monitor, printer and other peripheral cables. **DO NOT connect the power supply at this stage**.
+ g) Reconnect your monitor, printer and other peripheral cables. **DO NOT connect the power supply at this stage**.
 
 ## Testing the system
 
@@ -107,7 +107,7 @@ If the message displayed does not include the word **EXDOS**, then the disk inte
 
 This concludes the initial testing of the disk interface unit. Even if no disk drives are connected to the interface unit, it is possible to go through this installation procedure, and EXDOS gives you a range of commands which are useful even without disk drives.
 
-In fact the Enterprise can be operated as if it is a disk-based computer, with no disk drives attached at all, through the use of the EXDOS RAMDISK feature. More about this later in the manual.
+In fact the Enterprise can be operated as if it is a disk-based computer, with no disk drives attached at all, through the use of the EXDOS [RAMDISK](../dos-commands/cmd-ramdisk.md) feature. More about this later in the manual.
 
 ## Giving commands to EXDOS
 
@@ -115,7 +115,7 @@ If we now type:
 
 `:help exdos` **\[Enter\]**
 
-this will result in the copyright message being displayed, followed by a list of EXDOS commands. An explanation of the functions and use of these commands is given in the command reference section of this manual (chapter 8).
+this will result in the copyright message being displayed, followed by a list of EXDOS commands. An explanation of the functions and use of these commands is given in the command reference section of this manual ([chapter 8](exdos-8command-reference.md)).
 
 > [!NOTE]
 > EXDOS commands may be entered in upper or lower case letters. When using commands from the BASIC editor screen, they must be preceded by a colon (`:`). The use of EXDOS commands from within a BASIC program and from the word processor are described later in this manual.

@@ -1,14 +1,14 @@
 # Chapter 2: Choosing Your Disk Drives
 
-The Enterprise disk interface is "**Shugart 410**" compatible and can be used with most of the modern **5.25”** and **3.5”** drives. Appendices A and B at the back of this manual give a detailed description of the disk drive connecting socket, and specify the characteristics of drives compatible with the Enterprise.
+The Enterprise disk interface is "**Shugart 410**" compatible and can be used with most of the modern **5.25”** and **3.5”** drives. [Appendices A](exdos-a1shugart-socket.md) and [B](exdos-a2configuring-drives.md) at the back of this manual give a detailed description of the disk drive connecting socket, and specify the characteristics of drives compatible with the Enterprise.
 
 It is also possible to connect certain types of **3”** drive, although some modification to the connections may be required. Enterprise will not be supporting the **3”** format when releasing disk based programs. It is not possible to use "dedicated" drives such as those designed for the CBM 64 or the Atari 800 series. The larger, **8”** drives are also unsuitable.
 
-Any drive considered for use with your Enterprise should ideally have its own power supply, as the Enterprise has no facility for powering drives. Alternatively a separate power supply could be used (see Appendix B).
+Any drive considered for use with your Enterprise should ideally have its own power supply, as the Enterprise has no facility for powering drives. Alternatively a separate power supply could be used (see [Appendix B](exdos-a2configuring-drives.md)).
 
 As was mentioned in the introduction, the Enterprise can handle up to four drives and these can be a mixture of **40** or **80 track**, **double-** or **single sided**, **3.5”** or **5.25”**. Your own choice of drive may be made on one or more factors including price, availability and the use to which your computer will be put. Disk based programs from Enterprise will be generally available only on the **3.5”** format, although **5.25”** program disks will be available by special request directly from Enterprise or their overseas distributors.
 
-The amount of storage available varies from approx. **180K** for a single sided 40 track drive up to approx. **720K** for a double sided 80 track drive. Double sided drives are treated as one, larger capacity drive.
+The amount of storage available varies from approx. **180K** for a **single sided 40 track** drive up to approx. **720K** for a **double sided 80 track** drive. Double sided drives are treated as one, larger capacity drive.
 
 A system with **80** track drives can read and write to **40** track disks and double sided drives can access single sided disks. Obviously it is not possible to use **80** track formatted disks with a **40** track drive or a disk formatted as double sided on a single sided drive.
 
@@ -22,7 +22,7 @@ Maximum flexibility for the interchange of data with other computers could be ac
 
 It should be stressed that we are talking about transferring data to and from these computers, NOT running programs from them.
 
-Although twin drives will make your system more efficient, many of the advantages of a disk system can be obtained with a single disk drive. EXDOS features an automatic MAPDISK mode which prompts a single drive user to change disks when required. This is more fully explained in Appendix C at the back of this manual.
+Although twin drives will make your system more efficient, many of the advantages of a disk system can be obtained with a single disk drive. EXDOS features an automatic [MAPDISK](../dos-commands/cmd-mapdisk.md) mode which prompts a single drive user to change disks when required. This is more fully explained in [Appendix C](exdos-a3single-drive.md) at the back of this manual.
 
 ## Diagram 1: The 3.5” floppy disk
 

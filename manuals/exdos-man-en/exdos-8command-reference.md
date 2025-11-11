@@ -24,7 +24,7 @@ The following is a list of items which can appear on a command line:
 
 This indicates that a drive name is required (**A:**, **B:** etc.). If not given, then the default of the current logged-on drive is specified.
 
-Valid filename designators are **A:**...**Z:**, although only drives **A:**, **B:**, **C:** and **D:** are supported by the standard disk interface hardware, with drive **E:** reserved for the standard RAMDISK.
+Valid filename designators are **A:**...**Z:**, although only drives **A:**, **B:**, **C:** and **D:** are supported by the standard disk interface hardware, with drive **E:** reserved for the standard [RAMDISK](../dos-commands/cmd-ramdisk.md).
 
 **path**
 
