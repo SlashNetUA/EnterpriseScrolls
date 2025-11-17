@@ -38,4 +38,6 @@ For **%0**, the name of the batch file itself is substituted, including any driv
 
 If the character following the "**%**" is not a number (**0**–**9**), it is taken as a literal character — ie no special meaning is attached to it, and nothing will be substituted for it.
 
+Thus `%%` puts one `%` symbol in the command line, and `%` followed by a **space** allows a space to be included in a single parameter (space normally being a parameter separator).
+
 One IS-DOS batch file may contain instructions to execute other batch files — which in turn may contain similar instructions. Normally, this "nesting" of batch files can be continued to a maximum depth of **10**, though this figure may be reduced if large numbers of parameters are passed. When the execution of one file ends, the file which invoked it is automatically resumed.
