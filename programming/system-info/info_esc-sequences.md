@@ -69,6 +69,53 @@ Escape-послідовності можна зберігати у файл і �
 | `esc U` | 1Bh, 55h | 27, 85  | Прокрутити екран догори                     | [детальніше](esc-seq/1b55-video-text.md) |
 | `esc D` | 1Bh, 44h | 27, 68  | Прокрутити екран донизу                     | [детальніше](esc-seq/1b44-video-text.md) |
 
+## Для каналу EDITOR
+
+|      Символ      | HEX | DEC | Опис                                             |
+|:----------------:|:---:|:---:| ------------------------------------------------ |
+|                  | 00h |  0  | Writes a null to video to check it is still Ok.  |
+|       `^I`       | 09h |  9  | Move to, or insert spaces to, next tab stop.     |
+|       `^J`       | 0Ah | 10  | Ignored.                                         |
+|       `^M`       | 0Dh | 13  | Goes to start of new line (equivalent to CR-LF). |
+|       `^X`       | 18h | 24  | Set left margin at cursor column.                |
+|       `^Y`       | 19h | 25  | Clear to end of line.                            |
+|       `^Z`       | 1Ah | 26  | Clear whole buffer and screen and home cursor.   |
+|     `Delete`     | A0h | 160 | Delete character right.                          |
+| `Shift`+`Delete` | A1h | 161 | Delete line right.                               |
+| `Ctrl`+`Delete`  | A2h | 162 | Delete word right.                               |
+|     `Erase`      | A4h | 164 | Erase character left.                            |
+| `Shift`+`Erase`  | A5h | 165 | Erase line left.                                 |
+|  `Ctrl`+`Erase`  | A6h | 166 | Erase word left.                                 |
+|      `Ins`       | A8h | 168 | Insert a space.                                  |
+|  `Shift`+`Ins`   | A9h | 169 | Insert a new line.                               |
+|   `Ctrl`+`Ins`   | AAh | 170 | Toggle insert/overwrite mode.                    |
+|       `UP`       | B0h | 176 | Cursor up line.                                  |
+|   `Shift`+`UP`   | B1h | 177 | Cursor up page.                                  |
+|   `Ctrl`+`UP`    | B2h | 178 | Cursor up paragraph.                             |
+|      `DOWN`      | B4h | 180 | Cursor down line.                                |
+|  `Shift`+`DOWN`  | B5h | 181 | Cursor down page.                                |
+|  `Ctrl`+`DOWN`   | B6h | 182 | Cursor down paragraph.                           |
+|      `LEFT`      | B8h | 184 | Cursor left character.                           |
+|  `Shift`+`LEFT`  | B9h | 185 | Cursor to start of line.                         |
+|  `Ctrl`+`LEFT`   | BAh | 186 | Cursor left word.                                |
+|     `RIGHT`      | BCh | 188 | Cursor right character.                          |
+|  `Shift`+`LEFT`  | BDh | 189 | Cursor to end of line.                           |
+|  `Ctrl`+`LEFT`   | BEh | 190 | Cursor right word.                               |
+|   `Ctrl`+`F1`    | F0h | 240 | Reform paragraph.                                |
+|   `Ctrl`+`F2`    | F1h | 241 | Centre line.                                     |
+|   `Ctrl`+`F3`    | F2h | 242 | Toggle tab.                                      |
+|   `Ctrl`+`F4`    | F3h | 243 | Set left margin.                                 |
+|   `Ctrl`+`F5`    | F4h | 244 | Release margins.                                 |
+|   `Ctrl`+`F6`    | F5h | 245 | Move paragraph up.                               |
+|   `Ctrl`+`F7`    | F6h | 246 | Change line colour.                              |
+|    `Alt`+`F1`    | F8h | 248 | Justify paragraph.                               |
+|    `Alt`+`F2`    | F9h | 249 | Remove all tab stops.                            |
+|    `Alt`+`F3`    | FAh | 250 | Toggle ruler line display.                       |
+|    `Alt`+`F4`    | FBh | 251 | Set right margin.                                |
+|    `Alt`+`F5`    | FCh | 252 | Reset margins and tabs.                          |
+|    `Alt`+`F6`    | FDh | 253 | Move paragraph down.                             |
+|    `Alt`+`F7`    | FEh | 254 | Change paragraph colour.                         |
+
 ## Для графічних відеосторінок
 
 | Символ  |   HEX    |   DEC   | Опис                                                                         | Опис                                      |

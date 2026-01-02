@@ -14,7 +14,7 @@ See [OPEN](../../manuals/is-basic-man-en/commands/man_cs-open.md) for more info.
 **#103**: Default SOUND channel  
 **#104**: Default PRINTER channel  
 **#105**: Default KEYBOARD channel  
-**#106**: Used for file-based input/output operations
+**#106**: Used for file-based input/output operations  
 **#107**: Used for network operations
 
 ## HiSoft Pascal

@@ -1,5 +1,10 @@
 [Таблиця символів](info_characters.md)  
 [Змінні EXOS](info_exos-variables.md)  
-функції EXOS  
-[Escape-послідовності та керуючі символи](info_exos-esc-sequences.md)  
+[Функції EXOS](info_exos-functions.md)  
+[Escape-послідовності та керуючі символи](info_esc-sequences.md)  
 [Палітра кольорів](info_colour-palette.md)  
+
+[Порти введення-виведення](info_io-ports.md)  
+[Канали](info_channels.md)  
+[Пристрої EXOS](info-exos-devices.md)  
+[Помилки](info_errors.md)  
