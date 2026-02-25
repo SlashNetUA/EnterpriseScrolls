@@ -76,27 +76,78 @@ Below is a list of all the EXOS variables supported by the EXOS kernel and built
 92  
 144 [VAR 144](exos-variables/exos_var144.md) Language extensions  
 
-180 [VAR 180](exos-variables/exos_var180.md)  MOUSE.XR  
-181 [VAR 181](exos-variables/exos_var181.md)  MOUSE.XR  
-182 [VAR 182](exos-variables/exos_var182.md)  MOUSE.XR  
-183 [VAR 183](exos-variables/exos_var183.md)  MOUSE.XR  
-184 [VAR 184](exos-variables/exos_var184.md)  MOUSE.XR  
-185 [VAR 185](exos-variables/exos_var185.md)  MOUSE.XR  
-186 [VAR 186](exos-variables/exos_var186.md)  MOUSE.XR  
-187 [VAR 187](exos-variables/exos_var187.md)  MOUSE.XR  
-188 [VAR 188](exos-variables/exos_var188.md)  MOUSE.XR  
-189 [VAR 189](exos-variables/exos_var189.md)  MOUSE.XR  
-190 [VAR 190](exos-variables/exos_var190.md)  MOUSE.XR  
+## EXDOS 3.0
 
-199 [EPPLUS_VARS](exos-variables/exos_var199.md) Enterprise Plus  
-200 [VDUMP_RES](exos-variables/exos_var200.md) Enterprise Plus  
-201 [JOY_MOD](exos-variables/exos_var201.md) Enterprise Plus  
-202 [VTPR_FLAG](exos-variables/exos_var202.md) Enterprise Plus  
-203 [DATUM_FLAG](exos-variables/exos_var203.md) Enterprise Plus  
+90 [Drive A: type](exos-variables/exos_var90-93_exdos30.md)  
+91 [Drive B: type](exos-variables/exos_var90-93_exdos30.md)  
+92 [Drive C: type](exos-variables/exos_var90-93_exdos30.md)  
+93 [Drive D: type](exos-variables/exos_var90-93_exdos30.md)  
+94 [Drive A: clock](exos-variables/exos_var94-97_exdos30.md)  
+95 [Drive B: clock](exos-variables/exos_var94-97_exdos30.md)  
+96 [Drive C: clock](exos-variables/exos_var94-97_exdos30.md)  
+97 [Drive D: clock](exos-variables/exos_var94-97_exdos30.md)  
 
-200 [CBM 200 (BV)](exos-variables/exos_var200_cbm.md) CBM Multi File Transfer  
-201 [CBM 201 (BV+1)](exos-variables/exos_var201_cbm.md) CBM Multi File Transfer  
-202 [CBM 202 (BV+2)](exos-variables/exos_var202_cbm.md) CBM Multi File Transfer  
-203 [CBM 203 (BV+3)](exos-variables/exos_var203_cbm.md) CBM Multi File Transfer  
-204 [CBM 204 (BV+4)](exos-variables/exos_var204_cbm.md) CBM Multi File Transfer  
-205 [CBM 205 (BV+5)](exos-variables/exos_var205_cbm.md) CBM Multi File Transfer  
+## MOUSE (Hsoft)
+
+128 [XPL](exos-variables/exos_var128-131_mouse-hsoft.md)  
+129 [XPH](exos-variables/exos_var128-131_mouse-hsoft.md)  
+130 [YPL](exos-variables/exos_var128-131_mouse-hsoft.md)  
+131 [YPH](exos-variables/exos_var128-131_mouse-hsoft.md)  
+132 [KEY](exos-variables/exos_var132_mouse-hsoft.md)  
+133 [SI](exos-variables/exos_var133_mouse-hsoft.md)  
+134 [XE](exos-variables/exos_var134-135_mouse-hsoft.md)  
+135 [YE](exos-variables/exos_var134-135_mouse-hsoft.md)  
+136 [BL](exos-variables/exos_var136-138_mouse-hsoft.md)  
+137 [BH](exos-variables/exos_var136-138_mouse-hsoft.md)  
+138 [BS](exos-variables/exos_var136-138_mouse-hsoft.md)  
+
+## Speak (speech syntez)
+
+150 [Volume](exos-variables/exos_var150-153_speak.md)  
+151 [Speed](exos-variables/exos_var150-153_speak.md)  
+152 [Tone](exos-variables/exos_var150-153_speak.md)  
+153 [Pause](exos-variables/exos_var150-153_speak.md)  
+
+## MOUSE.XR
+
+180 [VAR 180](exos-variables/exos_var180_mouse.md)  
+181 [VAR 181](exos-variables/exos_var181_mouse.md)  
+182 [VAR 182](exos-variables/exos_var182_mouse.md)  
+183 [VAR 183](exos-variables/exos_var183_mouse.md)  
+184 [VAR 184](exos-variables/exos_var184_mouse.md)  
+185 [VAR 185](exos-variables/exos_var185_mouse.md)  
+186 [VAR 186](exos-variables/exos_var186_mouse.md)  
+187 [VAR 187](exos-variables/exos_var187_mouse.md)  
+188 [VAR 188](exos-variables/exos_var188_mouse.md)  
+189 [VAR 189](exos-variables/exos_var189_mouse.md)  
+190 [VAR 190](exos-variables/exos_var190_mouse.md)  
+
+## Enterprise Plus
+
+199 [EPPLUS_VARS](exos-variables/exos_var199_epplus.md)  
+200 [VDUMP_RES](exos-variables/exos_var200_epplus.md)  
+201 [JOY_MOD](exos-variables/exos_var201_epplus.md)  
+202 [VTPR_FLAG](exos-variables/exos_var202_epplus.md)  
+203 [DATUM_FLAG](exos-variables/exos_var203_epplus.md)  
+
+## CBM Multi File Transfer
+
+200 [CBM 200 (BV)](exos-variables/exos_var200_cbm.md)  
+201 [CBM 201 (BV+1)](exos-variables/exos_var201_cbm.md)  
+202 [CBM 202 (BV+2)](exos-variables/exos_var202_cbm.md)  
+203 [CBM 203 (BV+3)](exos-variables/exos_var203_cbm.md)  
+204 [CBM 204 (BV+4)](exos-variables/exos_var204_cbm.md)  
+205 [CBM 205 (BV+5)](exos-variables/exos_var205_cbm.md)  
+
+## Watch.rsx / Clock.ext
+
+247 [VAR 247](exos-variables/exos_var247-255_watch.ext.md)  
+248 [VAR 248](exos-variables/exos_var247-255_watch.ext.md)  
+249 [VAR 249](exos-variables/exos_var247-255_watch.ext.md)  
+250 [VAR 250](exos-variables/exos_var247-255_watch.ext.md)  
+251 [VAR 251](exos-variables/exos_var247-255_watch.ext.md)  
+252 [VAR 252](exos-variables/exos_var247-255_watch.ext.md)  
+253 [VAR 253](exos-variables/exos_var247-255_watch.ext.md)  
+254 [VAR 254](exos-variables/exos_var247-255_watch.ext.md)  
+255 [VAR 255](exos-variables/exos_var247-255_watch.ext.md)  
+

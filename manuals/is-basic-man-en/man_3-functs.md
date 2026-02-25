@@ -99,3 +99,8 @@ Trigonometric functions work in degrees or radians (see [OPTION](commands/man_cs
 [WORD$](functions/man_fn-word.md)  
   
 [YELLOW](functions/man_fn-colcodes.md)  
+
+# Видалені функції
+
+[COLOR](functions/man_fn-rgb.md)  
+[COLOUR](functions/man_fn-rgb.md)  

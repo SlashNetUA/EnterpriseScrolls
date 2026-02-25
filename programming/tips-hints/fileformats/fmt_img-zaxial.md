@@ -17,7 +17,7 @@
 | COL5             | 1 byte  |     11      | Palette index 5 colour from global set                                                               |
 | COL6             | 1 byte  |     12      | Palette index 6 colour from global set                                                               |
 | COL7             | 1 byte  |     13      | Palette index 7 colour from global set                                                               |
-| BIAS             | 1 byte  |     14      | Bias in basic format (See also [IS-Basic manual](../../../manuals/is-basic-man-en/options/man_vo-bias.md))              |
+| BIAS             | 1 byte  |     14      | Bias in Basic format (See also [IS-Basic manual](../../../manuals/is-basic-man-en/options/man_vo-bias.md))              |
 | Z                | 1 byte  |     15      | `5A`                                                                                                 |
 
 See also [colour palette information](../../system-info/info_colour-palette.md).

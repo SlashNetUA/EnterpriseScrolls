@@ -41,6 +41,11 @@ CLOSEOUT
 
 джойстик 1 не генерує ніяких значень на будь-які положення.
 
+---
+
+Команда **OPENOUT** не працює (створюється лише порожній файл).  
+Команда **OPENIN** не працює (вилітає з помилкою [25](https://www.grimware.org/doku.php/documentations/software/locomotive.basic/startdo=export_xhtml#file.type.error)).
+
 
 ### Як перевіряти ігри на можливість запуску
 

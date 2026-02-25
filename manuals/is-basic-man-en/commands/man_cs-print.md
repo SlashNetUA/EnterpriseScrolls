@@ -14,3 +14,13 @@ The row and column co-ordinates for the **AT** specification follow the conventi
 `PRINT AT x,y:"o";`
 
 The **USING** option controls the format of the output. The line-number must be the number of an [IMAGE](man_cs-image.md) statement. See [IMAGE](man_cs-image.md) for the details of the format specification.
+
+----
+
+У команді `PRINT USING` є помилка, яка некоректно виводить дробові числа у проміжку від **-1** до **1**.
+
+```
+PRINT USING "##.####":0.1234
+ 1.2340
+```
+

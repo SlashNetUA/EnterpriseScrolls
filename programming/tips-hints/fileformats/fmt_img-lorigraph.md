@@ -16,7 +16,7 @@
 | COL5         | 1 byte |      9      | Palette index 5 colour from global set                                                                   |
 | COL6         | 1 byte |     10      | Palette index 6 colour from global set                                                                   |
 | COL7         | 1 byte |     11      | Palette index 7 colour from global set                                                                   |
-| BIAS         | 1 byte |     14      | Bias in basic format (See also [IS-Basic manual](../../../manuals/is-basic-man-en/options/man_vo-bias.md))                  |
+| BIAS         | 1 byte |     14      | Bias in Basic format (See also [IS-Basic manual](../../../manuals/is-basic-man-en/options/man_vo-bias.md))                  |
 
 See also [colour palette information](../../system-info/info_colour-palette.md).
 
@@ -27,4 +27,4 @@ Ordinary [screen dump](fmt_img-screen.md)
 
 # Lorigraph font file
 
-Same as usual Enterprise font memory dump
+Same as usual [Enterprise font memory dump](fmt_fnt-epfnt.md).
