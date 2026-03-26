@@ -7,3 +7,5 @@
 [IS Forth](is-forth.md)
 
 [Додаткова інформація](additional-info.md)
+
+[DevTool](devtool.md)
