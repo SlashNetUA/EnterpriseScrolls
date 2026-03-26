@@ -13,4 +13,4 @@ Sets the fast saving speed for tape operations. This speed is approximately **24
 
 Loading from tape automatically copes with variations in saving speed.
 
-Can be used with [TOGGLE](commands/man_cs-toggle.md).
+Can be used with [TOGGLE](../commands/man_cs-toggle.md).

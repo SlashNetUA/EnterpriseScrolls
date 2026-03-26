@@ -181,7 +181,7 @@ GRAPHICS ATTRIBUTE
 
 ## SELECTING COLOURS
 
-Let's turn again to the **256**-colour mode. In this mode you can draw shapes in whatever colour you like, by preceding the plotting commands with the statement [SET INK](options/man_vo-ink.md) and the code-number of the colour. Also, before using [CLEAR GRAPHICS][CLEAR](man_cs-clear.md), you can type [SET PAPER](options/man_vo-paper.md)..., so as to choose the colour of the 'background'.
+Let's turn again to the **256**-colour mode. In this mode you can draw shapes in whatever colour you like, by preceding the plotting commands with the statement [SET INK](options/man_vo-ink.md) and the code-number of the colour. Also, before using [CLEAR GRAPHICS](commands/man_cs-clear.md), you can type [SET PAPER](options/man_vo-paper.md)..., so as to choose the colour of the 'background'.
 
 Experience could teach you which colour corresponds to which number: 18 is a light green, 91 is bright yellow, etc. But if you want to use a particular colour and don't happen to know what code-number goes with it, there is an alternative way to specify it.
 

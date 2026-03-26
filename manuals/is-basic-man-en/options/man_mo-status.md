@@ -4,7 +4,7 @@
 `ASK STATUS var`  
 `TOGGLE STATUS`
 
-Turns the '**status line**' (at the top of the display) **on** or **off**. Can be used with [TOGGLE](commands/man_cs-toggle.md).
+Turns the '**status line**' (at the top of the display) **on** or **off**. Can be used with [TOGGLE](../commands/man_cs-toggle.md).
 
 **0**: Status on  
 **255** (**≠0**): Status off

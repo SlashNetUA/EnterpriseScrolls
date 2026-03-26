@@ -6,4 +6,4 @@ Specifies the default system channel. This channel value can then be used by ser
 
 In particular this channel will be used by programs responding to the **HELP** command sent via the operating system.
 
-Before having been [SET](commands/man_cs-set.md), this channel will be number **0**.
+Before having been [SET](../commands/man_cs-set.md), this channel will be number **0**.

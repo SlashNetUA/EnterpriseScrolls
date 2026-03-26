@@ -2,7 +2,7 @@
 
 `SET £chan:BIAS colour-code`
 
-Establishes which group of colours will figure as numbers **8**-**15** within the palette. The number specified in the command is the standard **color-code** of any colour within the desired group; there are **32** effective values. The bias may also be specified using the [RGB](functions/man_fn-rgb.md) function.
+Establishes which group of colours will figure as numbers **8**-**15** within the palette. The number specified in the command is the standard **color-code** of any colour within the desired group; there are **32** effective values. The bias may also be specified using the [RGB](../functions/man_fn-rgb.md) function.
 
 `SET BIAS RGB(0,.6,.4)`
 

@@ -3,7 +3,7 @@
 `ASK SERIAL BAUD var`  
 `SET SERIAL BAUD expr`  
 
-The parameter (in the range **0**-**15**) determines the baud rate for the RS232 port and the network, according to the code given below. Can be used with [ASK](commands/man_cs-ask.md).
+The parameter (in the range **0**-**15**) determines the baud rate for the RS232 port and the network, according to the code given below. Can be used with [ASK](../commands/man_cs-ask.md).
 
 |Parameter value|Baud rate| 
 |:-------------:|--------:|

@@ -4,8 +4,8 @@
 
 Defines the pattern of the character with ASCII code '**n**'. Each of the parameters **r1**-**r9** defines one row of the pattern, starting from the top.
 
-To assist in creating characters, the [BIN](functions/man_fn-bin.md) function can be used to specify each pixel in a row as a **0** or **1**.
+To assist in creating characters, the [BIN](../functions/man_fn-bin.md) function can be used to specify each pixel in a row as a **0** or **1**.
 
 Although a channel number is specified, the command will affect all video pages. The channel number defaults to **£102**.
 
-To return all characters to their default settings, use [CLEAR FONT](commands/man_cs-clear.md).
+To return all characters to their default settings, use [CLEAR FONT](../commands/man_cs-clear.md).

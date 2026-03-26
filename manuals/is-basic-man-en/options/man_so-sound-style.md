@@ -1,6 +1,6 @@
 # SOUND STYLE
 
-The values for the **STYLE** parameter in a [SOUND](commands/man_cs-sound.md) statement have the following effects.
+The values for the **STYLE** parameter in a [SOUND](../commands/man_cs-sound.md) statement have the following effects.
 
 On **tone channel 0**:
 

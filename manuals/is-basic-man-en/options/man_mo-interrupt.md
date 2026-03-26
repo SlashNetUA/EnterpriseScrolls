@@ -7,7 +7,7 @@ Asks the software interrupt code for the last interrupt.
 `SET INTERRUPT KEY ON/OFF`  
 `TOGGLE INTERRUPT KEY`
 
-When '**on**', causes a software interrupt from any key-press. Can be used with [TOGGLE](commands/man_cs-toggle.md).
+When '**on**', causes a software interrupt from any key-press. Can be used with [TOGGLE](../commands/man_cs-toggle.md).
 
 See also [EXOS VAR 9](../../../programming/system-info/exos-variables/exos_var9.md).   
 
@@ -20,6 +20,6 @@ See also [EXOS VAR 19](../../../programming/system-info/exos-variables/exos_var1
 `SET INTERRUPT STOP ON/OFF`  
 `TOGGLE INTERRUPT STOP`
 
-Turns on or off the software interrupt from the 'Stop' key. Can be used with [TOGGLE](commands/man_cs-toggle.md).
+Turns on or off the software interrupt from the 'Stop' key. Can be used with [TOGGLE](../commands/man_cs-toggle.md).
 
 See also [EXOS VAR 8](../../../programming/system-info/exos-variables/exos_var8.md).   
