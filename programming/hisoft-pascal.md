@@ -1,7 +1,11 @@
 # HiSoft Pascal
 [HiSoft Pascal Manual](../manuals/pr-hisoft-pascal-manual-en.md) (EN)  
 [Hisoft Pascal Felhasználói kézikönyv](http://ep128.hu/Ep_Util/Hisoft_Pascal.htm) (HU)  
-Офіційний посібник  
+
+ - [список констант, типів, змінних, процедур та функцій](../manuals/hisoft-pascal-man-en/man_s2-0-index.md)
+ - [опції компілятора](../manuals/hisoft-pascal-man-en/man_s3-2-compile-options.md)
+ - [список помилок](../manuals/hisoft-pascal-man-en/man_a1-errors.md)
+
 [Особливості компілятора](../manuals/hisoft-pascal-man-en/add_particulars.md)  
 
 [Enterprise Wiki](https://wiki.enterpriseforever.com/index.php?title=HiSoft_Pascal) (HU)  

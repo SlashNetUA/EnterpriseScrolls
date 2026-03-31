@@ -9,3 +9,9 @@ To assist in creating characters, the [BIN](../functions/man_fn-bin.md) function
 Although a channel number is specified, the command will affect all video pages. The channel number defaults to **£102**.
 
 To return all characters to their default settings, use [CLEAR FONT](../commands/man_cs-clear.md).
+
+----
+
+Так як EXOS використовує відеосторінки лише із **128** друкованими символами, то за допомогою цієї команди можна змінити шрифт лише у символів **32**-**159**. Інші значення параметру **n** будуть автоматично скоректовані до потрібних (**0**-**31** → **128**-**159**; **160**-**255** → **32**-**127**).
+
+[Таблиця символів](../../../programming/system-info/info_characters.md)

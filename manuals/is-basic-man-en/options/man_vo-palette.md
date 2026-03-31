@@ -9,3 +9,6 @@ Only the **first four** colours can be used in colour-mode **1**, and a graphics
 The colours to be placed in the palette are specified by standard **colour-code** in the range **0**-**255**, or by the [RGB](../functions/man_fn-rgb.md) function (see '[Built-in Functions and Variables](man_3-functs.md)'). The 'Teletext primary' colours can be specified by name (e.g. **MAGENTA**).
 
 The palette contains **16** colours in all, although only the first **8** can be chosen entirely freely. See the [BIAS](man_vo-bias.md) option for details on the remaining **8** colours.
+
+----
+[Палітра кольорів](../../../programming/system-info/info_colour-palette.md)
