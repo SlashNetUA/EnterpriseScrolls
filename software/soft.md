@@ -2,7 +2,7 @@
 
 # Системи
 
-[ss-exos](ss-exos.md)  
+[EXOS](ss-exos.md) (базове ПЗ яке забезпечує роботу комп'ютера)   
 [EXDOS](ss-exdos.md) (дискова система)  
-[IS-DOS](ss-is-dos.md) (для CP/M 2.2 програм)  
-[ss-symbos](ss-symbos.md)  
+[IS-DOS](ss-is-dos.md) (підсистема для запуску CP/M 2.2 програм)  
+[SymbOS](ss-symbos.md) (сучасна графічна операційна система)  

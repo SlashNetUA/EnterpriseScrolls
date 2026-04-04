@@ -24,3 +24,5 @@ PRINT USING "##.####":0.1234
  1.2340
 ```
 
+
+[Application Note №23: How to use 'control codes' and 'escape sequences'](http://enterprise.iko.hu/technical/Enterprise-AppNote-23.pdf)  

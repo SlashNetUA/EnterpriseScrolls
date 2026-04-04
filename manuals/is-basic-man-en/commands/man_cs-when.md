@@ -11,3 +11,7 @@ Specifies the exception handler to be used when an exception caused by program e
 The program statements can include additional nested **WHEN** blocks.
 
 See [HANDLER](man_cs-handler.md).
+
+----
+
+[Application Note №21: Use of exception handlers](http://enterprise.iko.hu/technical/Enterprise-AppNote-21.pdf)  

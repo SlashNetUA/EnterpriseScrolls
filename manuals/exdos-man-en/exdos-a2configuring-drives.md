@@ -49,6 +49,7 @@ Certain drives designed for use with the Acorn BBC computer are fitted with a DC
 
 ## Diagram B: Looking INTO power connector on "BBC" compatible drives.
 
+![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/010abra.GIF)
 
 ## Drive selection
 

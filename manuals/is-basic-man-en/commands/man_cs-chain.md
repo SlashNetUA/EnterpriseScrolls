@@ -9,4 +9,8 @@ Parameters may be passed by value from one program to the other, e.g.:
 
 `CHAIN "My_Program" (1,"Fred")`
 
-See also [PROGRAM](man_cs-program.md).
+See also [PROGRAM](man_cs-program.md) and [EDIT](man_cs-edit.md).
+
+----
+
+[Application Note №24: The use of multiple programs](http://enterprise.iko.hu/technical/Enterprise-AppNote-24.pdf)  

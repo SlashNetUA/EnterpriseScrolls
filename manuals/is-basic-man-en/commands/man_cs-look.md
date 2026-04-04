@@ -6,6 +6,8 @@ Assigns to variable '**v**' the palette colour at point (**x**,**y**) on the sta
 
 ----
 
+[Application Note №8: Use of the 'LOOK' command](http://enterprise.iko.hu/technical/Enterprise-AppNote-08.pdf)  
+
 ## Bugs
 
 **LOOK** command without parameters causing cool freezes.

@@ -11,6 +11,14 @@
 
 [Zzzip Integer Compiler](zzzip-compiler.md)  
 
+## Додаткова технічна інформація
+
+[Introduction to Extensions](http://enterprise.iko.hu/technical/BOOK16-1_Chapter_16_IS-BASIC_Introduction_to_Extensions.pdf)  
+[Data Structures](http://enterprise.iko.hu/technical/BOOK16-1_Chapter_17_IS-BASIC_Data_Structures.pdf)  
+[Statement Extensions](http://enterprise.iko.hu/technical/BOOK18-1_Chapter_18_IS-BASIC_Statement_Extensions.pdf)  
+[Function Extensions](http://enterprise.iko.hu/technical/BOOK19-1_Chapter_19_IS-BASIC_Function_Extensions.pdf)  
+[Variables](http://enterprise.iko.hu/technical/BOOK20-1_Chapter_20_IS-BASIC_Variables.pdf)  
+[System Calls](http://enterprise.iko.hu/technical/BOOK21-1_Chapter_21_IS-BASIC_System_Calls.pdf)  
 
 ## Розширення команд Бейсіка
 

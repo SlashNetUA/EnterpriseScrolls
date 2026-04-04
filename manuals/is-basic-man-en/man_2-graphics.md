@@ -396,3 +396,8 @@ PRINT £3:"Hello"
 As used in the first example of this section, you can select a colour for the border round the whole visible display – the 'desk' onto which the various text or graphics 'pages' are placed. The [SET BORDER](options/man_vo-border.md) command is independent of all 'palette' commands (which only apply to particular pages), so this colour must be set by specifying a standard code-number, a colour name, or a 'mixture'. For example, `SET BORDER 255`, `SET BORDER WHITE` or `SET BORDER RGB(1,1,1)` will give a white border to the whole display.
 
 If channel **101** (the channel of the standard graphics page) is not open when the border colour is set, the command must be given with a suitable channel number (usually **£102**, the number for the standard 'text' page) – e.g. `SET £102:BORDER 116`.
+
+----
+
+[Application Note №13: Dumping graphics to the printer](http://enterprise.iko.hu/technical/Enterprise-AppNote-13.pdf)  
+[Application Note №15: Saving and loading of graphics screens](http://enterprise.iko.hu/technical/Enterprise-AppNote-15.pdf)  

@@ -10,7 +10,11 @@ Insert a new disk into the required drive (see Figures 7 or 8 for disk insertion
 
 ## Diagram 7: Inserting a 3.5” disk
 
+![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/007abra.GIF)
+
 ## Diagram 8: Inserting a 5.25” disk
+
+![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/008abra.GIF)
 
 Enter the EXDOS command interpreter (see [previous chapter](exdos-5install.md)).
 

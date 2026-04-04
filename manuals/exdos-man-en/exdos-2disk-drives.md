@@ -26,4 +26,8 @@ Although twin drives will make your system more efficient, many of the advantage
 
 ## Diagram 1: The 3.5” floppy disk
 
-## Diagram 2: The 5.25” floppy disk.
+![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/001abra.gif)
+
+## Diagram 2: The 5.25” floppy disk
+
+![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/002abra.GIF)

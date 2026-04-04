@@ -84,3 +84,7 @@ Some more advanced ways to format text are explained on [page 89](man_2-graphics
 The command `TEXT 80` enables you to type up to **80** characters on each line, instead of only **40**; the characters will now be narrower, of course, and may not be clear on your TV screen. (The command simultaneously clears the screen.)
 
 `TEXT 40` returns you to **40**-column typing.
+
+----
+
+[Application Note №25: Multi-coloured text on the Enterprise](http://enterprise.iko.hu/technical/Enterprise-AppNote-25.pdf)  

@@ -24,6 +24,8 @@ Your local computer store should be able to offer advice on the choice of drive 
 
 ## Diagram 6: The complete system
 
+![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/006abra.GIF)
+
 Step by step instructions.
 
 > [!IMPORTANT]

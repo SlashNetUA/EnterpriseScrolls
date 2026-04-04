@@ -7,3 +7,7 @@ Declares numeric or string arrays; lower bound defaults to 0 if not specified. O
 `DIM А(1 TO 10), FRED$(9), B(-7899 TO -7890)`
 
 Note: all the above have 10 elements.
+
+----
+
+[Application Note №14: Saving string & numeric arrays](http://enterprise.iko.hu/technical/Enterprise-AppNote-14.pdf)  

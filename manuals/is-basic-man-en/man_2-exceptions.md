@@ -56,3 +56,7 @@ The [VAL](functions/man_fn-val.md) of a string will be **0** if there is no vali
 [EXTYPE](functions/man_fn-extype.md) is the type number of the exception – in the program it is number **10**. The [EXTYPE](functions/man_fn-extype.md) varies according to what has gone wrong and, in the case of a [CAUSE EXCEPTION](commands/man_cs-exception.md) statement, to what number you give the exception to be caused. See page 180, which deals with error messages. Another word, [EXLINE](functions/man_fn-exline.md), gives the line number where the exception happened.
 
 The previous program illustrated one type of exception handling. In principle this is rather like [CALL](commands/man_cs-call.md)ing a function (using it as a subroutine or module). Notice that this method used the words [WHEN EXCEPTION USE](commands/man_cs-when.md), which you can think of as meaning 'in the event of a mistake anywhere, use these handlers'. This command has to be matched with an [END WHEN](commands/man_cs-end.md) statement.
+
+----
+
+[Application Note №21: Use of exception handlers](http://enterprise.iko.hu/technical/Enterprise-AppNote-21.pdf)  

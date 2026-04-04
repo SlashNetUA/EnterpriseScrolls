@@ -10,6 +10,7 @@ As we have previously mentioned there are several sizes of floppy disks availabl
 
 ## Diagram 3: How data is stored on a floppy disk
 
+![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/003abra.GIF)
 
 ## Care of disks
 
@@ -33,5 +34,8 @@ Disks may be "write protected", to stop any data being written to the disk or an
 
 ## Diagram 4: Write protecting a 3.5” disk
 
+![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/004abra.GIF)
+
 ## Diagram 5: Write protecting a 5.25” disk
 
+![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/005abra.GIF)

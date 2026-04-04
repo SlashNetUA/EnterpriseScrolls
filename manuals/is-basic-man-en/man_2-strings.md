@@ -223,3 +223,7 @@ You would do it this way if you wanted to use the abbreviation repeatedly. If yo
 260 PRINT STRING$(1:1)&STRING$(LEN(STRING$):LEN(STRING$))&"."
 ```
 In this case the ampersands could be replaced by semicolons.
+
+----
+
+[Application Note №20: Sorting strings in IS-Basic](http://enterprise.iko.hu/technical/Enterprise-AppNote-20.pdf)  

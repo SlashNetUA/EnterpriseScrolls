@@ -168,3 +168,7 @@ Don't be confused by the fact that string [DATA](commands/man_cs-data.md) does n
 The same applies to [INPUT](commands/man_cs-input.md) statements – you can type 'yes' or 'no' in response to a question put by an [INPUT PROMPT](commands/man_cs-input.md), but you do not need to type inverted commas. The computer is told by the '**$**' at the end of the variable name to accept a string.
 
 However, you do have to put inverted commas around a [DATA](commands/man_cs-data.md) or [INPUT](commands/man_cs-input.md) item if you want to include a comma in the string – otherwise the computer thinks that the comma marks the end of the string.
+
+----
+
+[Application Note №14: Saving string & numeric arrays](http://enterprise.iko.hu/technical/Enterprise-AppNote-14.pdf)  

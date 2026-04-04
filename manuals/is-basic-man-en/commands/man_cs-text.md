@@ -9,3 +9,7 @@ Opens a text page covering the entire display except for the area of the status 
 **40** or **80** specifies the number of columns on the screen. If this is not specified, then the previous value will be used.
 
 See [DISPLAY TEXT](man_cs-display.md).
+
+----
+
+[Application Note №25: Multi-coloured text on the Enterprise](http://enterprise.iko.hu/technical/Enterprise-AppNote-25.pdf)  
