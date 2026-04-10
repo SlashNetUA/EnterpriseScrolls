@@ -1,10 +1,26 @@
 # IView image
 
-## Header (xx bytes)
+## Header (16 bytes)
 
-| Name             | Length   | Byte offset | Description                                                                                                |
-| ---------------- | -------- |:-----------:| ---------------------------------------------------------------------------------------------------------- |
-| EXOS module type | 2 bytes  |      0      | `00 49`                                                                                                    |
+| Name             | Length  | Byte offset | Description                                                                                                                                                                                                                                                              |
+| ---------------- | ------- |:-----------:| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| EXOS module type | 2 bytes |      0      | `00 49`                                                                                                                                                                                                                                                                  |
+| VMODE_LINES      | 1 byte  |      2      | Video mode changing every VMODE_LINES lines. **0**: video mode is same for entire picture                                                                                                                                                                                |
+| BIAS_LINES       | 1 byte  |      3      | BIAS changing every BIAS_LINES lines. **0**: BIAS is same for entire picture                                                                                                                                                                                             |
+| PAL_LINES        | 1 byte  |      4      | Palette changing every PAL_LINES lines. **0**: Palette is same for entire picture                                                                                                                                                                                        |
+| INT_MODE         | 1 byte  |      5      | Interlace mode:<br> - bit **7**: 2x vertical resolution (first half frame is top)<br> - bit **4**: video data interlace<br> - bit **3**: attribute interlace<br> - bit **2**: palette interlace<br> - bit **1**: FIXBIAS interlace<br> - bit **0**: video mode interlace |
+| HEIGHT           | 2 byte  |      6      | height (half frame in interlace) in lines                                                                                                                                                                                                                                |
+| WIDTH            | 1 byte  |      8      | width in characters                                                                                                                                                                                                                                                      |
+| BORDER_COL       | 1 byte  |      9      | Border color                                                                                                                                                                                                                                                             |
+| COMP_TYPE        | 1 byte  |     10      | Compression type:<br> - **0**: none<br> - **1**: epcompress -m2<br> - **3**: epcompress -m3                                                                                                                                                                                             |
+| FRAMES_NUM       | 1 byte  |     11      | Number of animation/interlace frames, **0** or **1**: simple still image, **2**: interlace, etc. *(always even in interlace mode)*                                                                                                                                       |
+| ANIM_SPEED       | 1 byte  |     12      | Animation speed (time between frames in **1/50** second; **0**: **1/50** second) in case of vertical interlace the time unit is **1/25** second, the whole image is repeated                                                                                             |
+| ATTR_LINES       | 1 byte  |     13      | Attributes changing every ATTR_LINES lines. (**0**: **1** line)                                                                                                                                                                                                          |
+| (reserved)       | 1 byte  |     14      | `00` *(reserved for later versions)*                                                                                                                                                                                                                                     |
+|                  | 1 byte  |     15      | `00`                                                                                                                                                                                                                                                                     |
+
+## Body
+
 
 
 [Enterprise Wiki](https://wiki.enterpriseforever.com/index.php?title=En:Epimgconv#Description_of_the_EPimgconv.2FIVIEW_file_format)

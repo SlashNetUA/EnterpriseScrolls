@@ -16,10 +16,10 @@ The word "HELP" has a special significance as it requires all external programs 
 
 Additional application and service programs will define their own command names and parameter requirements. Often these programs will respond to the instruction
 
-`EXT "HELP NAME"`
+`EXT "HELP name"`
 
 (where "NAME" is the main name of the program) by giving a list of available string commands.
 
 The same effect as **EXT** can be obtained in immediate mode by starting a line with a colon. In this case, no quotes are required around the parameter string.
 
-`:HELP NAME`
+`:HELP name`

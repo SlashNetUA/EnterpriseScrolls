@@ -8,3 +8,5 @@
 [Канали](info_channels.md)  
 [Пристрої EXOS](info-exos-devices.md)  
 [Помилки](info_errors.md)  
+
+[Список команд розширень](info_exos-commands-list)
