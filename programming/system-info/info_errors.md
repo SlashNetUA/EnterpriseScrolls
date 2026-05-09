@@ -4,3 +4,4 @@
 
 [err-exdos-isdos](errors/err-exdos-isdos.md)
 
+[http://enterprise.iko.hu/errors.htm](http://enterprise.iko.hu/errors.htm)  

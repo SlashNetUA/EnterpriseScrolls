@@ -81,7 +81,16 @@
  - [`ZZZIP`](../zzzip-compiler.md): цілочисельний компілятор Бейсіка **ZZZIP**.
     - `ZIP` / `ZIP/F`: компілювати програму завантаживши її з файлу.
     - `ZIP/M`: компілювати поточну програму у пам'яті.
+ - [`HP`](../hisoft-pascal.md): запуск компілятора **HiSoft Pascal**.
 
+### Монітори, асемблери, дебагери
+
+ - `GEN`: Запуск HiSoft GEN Asssembler.
+ - `MON` / `MON5`: Запуск HiSoft MON Debugger.
+ - `ASMON`: Asmon Assembler
+    - `VAR`: перегляд/зміна системної змінної.
+ - `SIMON`: Simon Assembler
+    - `VAR`: перегляд/зміна системної змінної.
 ### Емулятори
 
  - [`SPEMU`](../../software/se-spemu.md): Запуск програмного емулятора ZX Spectrum 48k.  
@@ -92,3 +101,51 @@
  - [`ZX`](../../hardware/he-zxemu.md): Запуск апаратного емулятора ZX Spectrum 48k.  
     - `ZX назва_файлу`: Запуск та автозавантаження файлу в емулятор.
  - [`TVC`](../../software/se-tvcemu.md): Запуск програмного емулятора Videoton TVC 64k
+
+### Ігри
+
+ - `BRUNILDA`: запуск ПЗП-версії гри "Los Amores de Brunilda".
+ - `CYRUS`: запуск шахів **Cyrus II**.
+ - `HEA`: запуск ПЗП-версії гри "Heathrow A.T.C.".
+ - `IANNA`: запуск ПЗП-версії гри "The Sword of Ianna".
+
+### Утіліти
+
+ - **CBM**: драйвер **CBM Multi File Transfer** (не є командою)
+ 
+ - `COMP`: запуск програми **Comp** (для порівняння файлів).
+
+ - **DDUMP**: програма для роботи з Epson-сумісним принтером (не є командою)
+    - `DDPRINT назва_файлу`: виведення вмісту екрану на принтер чи у файл
+    - `DDPRN назва_файлу`
+    - `DDPRN2 назва_файлу`
+    - `DDPRN3 назва_файлу`
+    - `DDSTPRD`
+    - `DDSTPWR`
+    - `DDART назва_файлу`: вивести на екран зображення з файлу у форматі ArtStudio. 
+    - `DDPBOX назва_файлу`: вивести на екран зображення з файлу у [форматі PaintBox](../tips-hints/fileformats/fmt_img-paintbox.md). 
+    - `DDVLD назва_файлу`: вивести на екран зображення з файлу у [форматі VLOAD](../tips-hints/fileformats/fmt_img-vsave-vload.md). 
+    - `DDOPTIONS`
+    - `DDHEADER "текст"`: задання текстової стрічки що буде надрукована над зображенням.
+    - `DDPALETTE P0,P1,P2,P3,P4,P5,P6,P7,P8`: задання палітри для роздруку зображення.
+    - `DDCOLOR Pn,0-7`: зміна одного з кольорів палітри.
+    - `DDMARGIN n`: задання лівого поля друку
+    - `DDBORDER n`
+    - `DDVIDEOX n` / `DDVIDEOY n`: задання горизонтального та вертикального розмірів друку зображення.
+    - `DDUP n` / `DDDOWN n` / `DDLEFT n` / `DDRIGHT n`
+    - `DDLPT #n`
+    - `DDROTATION n`: роздрук зображення з поворотом на кут що кратний 90°.
+    - `DDDECODE n`
+    - `DDMODE n`
+
+ - `EPROM`: запуск програми [Eprom](http://ep128.hu/Ep_Util/Eprompck.htm) (для прошивки ПЗП)
+
+Програма для компресії даних [Pack](http://ep128.hu/Ep_Util/Eprompck.htm)
+
+ - `PACK`: Стистення даних каналів
+ - `UPCK`: Розпаковка даних каналів
+ - `PCK`: Стиснення ігрових програм у файл PCK
+ - `PP`: 
+ - `DPP`: Розпакування PCK
+ - `FILE`: відкриває вікно для вибору файлів зі списку.
+ - `KEYCH`: Повертає поточний номер каналу Клавіатури

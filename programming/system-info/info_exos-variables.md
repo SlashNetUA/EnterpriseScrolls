@@ -2,48 +2,54 @@
 
 Below is a list of all the EXOS variables supported by the EXOS kernel and built in devices. More details of their functions can be found in the appropriate device or kernel specifications.
 
-Значение переменных EXOS по умолчанию устанавливается на основе таблицы в начале сегмента 0. На основании этого мы можем использовать POKE вместо SET, PEEK вместо ASK или мы можем читать состояния машины.
+Значення змінних EXOS за замовчуванням встановлюється на основі таблиці на початку сегмента 0. На підставі цього ми можемо використовувати POKE замість SET, PEEK замість ASK або ми можемо читати стан машини.
 
-0 [IRQ_ENABLE_STATE](exos-variables/exos_var0.md)  
-1 [FLAG_SOFT_IRQ](exos-variables/exos_var1.md)  
-2 [CODE_SOFT_IRQ](exos-variables/exos_var2.md)  
-3 [DEF_TYPE](exos-variables/exos_var3.md)  
-4 [DEF_CHAN](exos-variables/exos_var4.md)  
-5 [TIMER](exos-variables/exos_var5.md)  
-6 [LOCK_KEY](exos-variables/exos_var6.md)  
-7 [CLICK_KEY](exos-variables/exos_var7.md)  
-8 [STOP_IRQ](exos-variables/exos_var8.md)  
-9 [KEY_IRQ](exos-variables/exos_var9.md)  
-10 [RATE_KEY](exos-variables/exos_var10.md)  
-11 [DELAY KEY](exos-variables/exos_var11.md)  
-12 [TAPE_SND](exos-variables/exos_var12.md)  
-13 [WAIT_SND](exos-variables/exos_var13.md)  
-14 [MUTE_SND](exos-variables/exos_var14.md)  
-15 [BUF_SND](exos-variables/exos_var15.md)  
-16 [BAUD_SER](exos-variables/exos_var16.md)  
-17 [FORM_SER](exos-variables/exos_var17.md)  
-18 [ADDR_NET](exos-variables/exos_var18.md)  
-19 [NET_IRQ](exos-variables/exos_var19.md)  
-20 [CHAN_NET](exos-variables/exos_var20.md)  
-21 [MATCH_NET](exos-variables/exos_var21.md)  
-22 [MODE_VID](exos-variables/exos_var22.md)  
-23 [COLR_VID](exos-variables/exos_var23.md)  
-24 [X_SIZ_VID](exos-variables/exos_var24.md)  
-25 [Y_SIZ_VID](exos-variables/exos_var25.md)  
-26 [ST_FLAG](exos-variables/exos_var26.md)  
-27 [BORD_VID](exos-variables/exos_var27.md)  
-28 [BIAS_VID](exos-variables/exos_var28.md)  
-29 [VID_ EDIT](exos-variables/exos_var29.md)  
-30 [KEY_EDIT](exos-variables/exos_var30.md)  
-31 [BUF_EDIT](exos-variables/exos_var31.md)  
-32 [FLG_EDIT](exos-variables/exos_var32.md)  
-33 [SP_TAPE](exos-variables/exos_var33.md)  
-34 [PROTECT](exos-variables/exos_var34.md)  
-35 [LV_TAPE](exos-variables/exos_var35.md)  
-36 [REM1](exos-variables/exos_var36.md)  
-37 [REM2](exos-variables/exos_var37.md)  
-38 [SPRITE](exos-variables/exos_var38.md)  
-39 [RANDOM_IRQ](exos-variables/exos_var39.md)  
+0 [IRQ_ENABLE_STATE](exos-variables/exos_var0.md) (system)  
+1 [FLAG_SOFT_IRQ](exos-variables/exos_var1.md) (system)  
+2 [CODE_SOFT_IRQ](exos-variables/exos_var2.md) (system)  
+3 [DEF_TYPE](exos-variables/exos_var3.md) (system)  
+4 [DEF_CHAN](exos-variables/exos_var4.md) (system)  
+5 [TIMER](exos-variables/exos_var5.md) (system)  
+6 [LOCK_KEY](exos-variables/exos_var6.md) (keyboard)  
+7 [CLICK_KEY](exos-variables/exos_var7.md) (keyboard)  
+8 [STOP_IRQ](exos-variables/exos_var8.md) (keyboard)  
+9 [KEY_IRQ](exos-variables/exos_var9.md) (keyboard)  
+10 [RATE_KEY](exos-variables/exos_var10.md) (keyboard)  
+11 [DELAY KEY](exos-variables/exos_var11.md) (keyboard)  
+12 [TAPE_SND](exos-variables/exos_var12.md) (sound)  
+13 [WAIT_SND](exos-variables/exos_var13.md) (sound)  
+14 [MUTE_SND](exos-variables/exos_var14.md) (sound)  
+15 [BUF_SND](exos-variables/exos_var15.md) (sound)  
+16 [BAUD_SER](exos-variables/exos_var16.md) (serial, net)  
+17 [FORM_SER](exos-variables/exos_var17.md) (serial, net)  
+18 [ADDR_NET](exos-variables/exos_var18.md) (network)  
+19 [NET_IRQ](exos-variables/exos_var19.md) (network)  
+20 [CHAN_NET](exos-variables/exos_var20.md) (network)  
+21 [MATCH_NET](exos-variables/exos_var21.md) (network)  
+22 [MODE_VID](exos-variables/exos_var22.md) (video)  
+23 [COLR_VID](exos-variables/exos_var23.md) (video)  
+24 [X_SIZ_VID](exos-variables/exos_var24.md) (video)  
+25 [Y_SIZ_VID](exos-variables/exos_var25.md) (video)  
+26 [ST_FLAG](exos-variables/exos_var26.md) (video)  
+27 [BORD_VID](exos-variables/exos_var27.md) (video)  
+28 [BIAS_VID](exos-variables/exos_var28.md) (video)  
+29 [VID_ EDIT](exos-variables/exos_var29.md) (editor)  
+30 [KEY_EDIT](exos-variables/exos_var30.md) (editor)  
+31 [BUF_EDIT](exos-variables/exos_var31.md) (editor)  
+32 [FLG_EDIT](exos-variables/exos_var32.md) (editor)  
+33 [SP_TAPE](exos-variables/exos_var33.md) (tape)  
+34 [PROTECT](exos-variables/exos_var34.md) (tape)  
+35 [LV_TAPE](exos-variables/exos_var35.md) (tape)  
+36 [REM1](exos-variables/exos_var36.md) (tape)  
+37 [REM2](exos-variables/exos_var37.md) (tape)  
+38 [SPRITE](exos-variables/exos_var38.md) (video) *(EXOS 2.1 та вище)*  
+39 [RANDOM_IRQ](exos-variables/exos_var39.md) (system) *(EXOS 2.1 та вище)*  
+
+140 [VAR 140](exos-variables/exos_var140.md) Language extensions  
+144 [VAR 144](exos-variables/exos_var144.md) Language extensions  
+191 [VAR 191](exos-variables/exos_var191.md) Memory wait states *(EXOS 2.4 та вище)*
+
+## EXDOS
 
 64 [ROM_EXDOS](exos-variables/exos_var64.md)  
 65 [IS_P0](exos-variables/exos_var65-68.md)  
@@ -74,7 +80,13 @@ Below is a list of all the EXOS variables supported by the EXOS kernel and built
 90 [FAST_VID](exos-variables/exos_var90.md)  
 91 [CD_PROMPT](exos-variables/exos_var91.md)  
 92  
-144 [VAR 144](exos-variables/exos_var144.md) Language extensions  
+93  
+94  
+95  
+96  
+97  
+98  
+99  
 
 ## EXDOS 3.0
 
@@ -101,12 +113,30 @@ Below is a list of all the EXOS variables supported by the EXOS kernel and built
 137 [BH](exos-variables/exos_var136-138_mouse-hsoft.md)  
 138 [BS](exos-variables/exos_var136-138_mouse-hsoft.md)  
 
+## ZozoTools
+
+141 [VAR 141](exos-variables/exos_var141_zozotools.md)  
+142 [VAR 142](exos-variables/exos_var142_zozotools.md)  
+143 [VAR 143](exos-variables/exos_var143_zozotools.md)  
+
+## DBASX
+
+145 [VAR 145](exos-variables/exos_var145_dbasx.md)  
+
 ## Speak (speech syntez)
 
 150 [Volume](exos-variables/exos_var150-153_speak.md)  
 151 [Speed](exos-variables/exos_var150-153_speak.md)  
 152 [Tone](exos-variables/exos_var150-153_speak.md)  
 153 [Pause](exos-variables/exos_var150-153_speak.md)  
+
+## Pluto
+
+150-161  
+
+## ODD
+
+150-157  
 
 ## MOUSE.XR
 
@@ -121,6 +151,10 @@ Below is a list of all the EXOS variables supported by the EXOS kernel and built
 188 [VAR 188](exos-variables/exos_var188_mouse.md)  
 189 [VAR 189](exos-variables/exos_var189_mouse.md)  
 190 [VAR 190](exos-variables/exos_var190_mouse.md)  
+
+## EPDOS 2.x
+
+192-211  
 
 ## Enterprise Plus
 
@@ -138,6 +172,10 @@ Below is a list of all the EXOS variables supported by the EXOS kernel and built
 203 [CBM 203 (BV+3)](exos-variables/exos_var203_cbm.md)  
 204 [CBM 204 (BV+4)](exos-variables/exos_var204_cbm.md)  
 205 [CBM 205 (BV+5)](exos-variables/exos_var205_cbm.md)  
+
+## Venus
+
+240-249
 
 ## Watch.rsx / Clock.ext
 

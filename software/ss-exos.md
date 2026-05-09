@@ -13,6 +13,8 @@
 7. **Послідовний інтерфейс** типу RS232.
 8. **Інтелектуальний трипровідний мережевий інтерфейс** (Intelligent Net).
 
+[Опис версій EXOS](exos/exos-versions.md)  
+
 
 [Технічна документація](http://enterprise.iko.hu/technical.htm) (EN)
 
