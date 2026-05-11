@@ -4,6 +4,8 @@ Below is a list of all the EXOS variables supported by the EXOS kernel and built
 
 Значення змінних EXOS за замовчуванням встановлюється на основі таблиці на початку сегмента 0. На підставі цього ми можемо використовувати POKE замість SET, PEEK замість ASK або ми можемо читати стан машини.
 
+RST_ADDR - warm reset address
+
 0 [IRQ_ENABLE_STATE](exos-variables/exos_var0.md) (system)  
 1 [FLAG_SOFT_IRQ](exos-variables/exos_var1.md) (system)  
 2 [CODE_SOFT_IRQ](exos-variables/exos_var2.md) (system)  

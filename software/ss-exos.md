@@ -15,6 +15,7 @@
 
 [Опис версій EXOS](exos/exos-versions.md)  
 
+[Завантажити](exos/exos-download.md)
 
 [Технічна документація](http://enterprise.iko.hu/technical.htm) (EN)
 
