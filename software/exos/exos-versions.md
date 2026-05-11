@@ -55,7 +55,7 @@
 
 `Reset` (подвійний): **Cold reset** (в деяких некоректно написаних програмах може не спрацьовувати).  
 
-`Reset` (одинарний): **Warm reset** - Теплий перезапуск не виконує тестування оперативної пам'яті або пошук модулів ПЗП. Уся пам'ять, виділена користувачеві, залишається недоторканою, а будь-які підключені розширення системної пам'яті або пристрої користувача зберігають свій стан. Однак усі канали примусово закриваються, а всі пристрої ініціалізуються повторно; будь-яка оперативна пам'ять, що була виділена під буфери каналів, звільняється. Після цього керування передається користувацькій підпрограмі (якщо вона була передбачена). Таким чином деякі програми можуть обробляти натискання кнопки Reset (наприклад, в інтерпретаторі IS-Basic програма не видаляється з пам'яті, у IS-DOS виконується "аварійне" завершення поточної програми, а в деяких іграх виконується зберігання таблиці лідерів у файл).
+`Reset` (одинарний): **Warm reset** - Теплий перезапуск не виконує тестування оперативної пам'яті або пошук модулів ПЗП. Уся пам'ять, виділена користувачеві, залишається недоторканою, а будь-які підключені розширення системної пам'яті або пристрої користувача зберігають свій стан. Однак усі канали примусово закриваються, а всі пристрої ініціалізуються повторно; будь-яка оперативна пам'ять, що була виділена під буфери каналів, звільняється. Після цього керування передається користувацькій підпрограмі (якщо вона була передбачена). Таким чином деякі програми обробляють натискання кнопки Reset (наприклад, в інтерпретаторі IS-Basic програма не видаляється з пам'яті, у IS-DOS виконується "аварійне" завершення поточної програми і перехід до командного рядка, а в деяких іграх виконується зберігання таблиці лідерів у файл).
 
 ## v 2.2 (CYR)
 
@@ -123,34 +123,33 @@
 
 `Reset`(подвійний)+`E` або `Reset`+`C`+`E`: **Cold reset** з використанням старої процедури тестування (як у v2.0-2.1).  
 
-`Reset`+`C`+`N`: Use the original EXOS RAM testing routine to test RAM segments. This is the most reliable but the slowest test at the same time. It is needed only after having installed a new memory expansion.  
+`Reset`+`C`+`N`: **Запустити оригінальний алгоритм тестування оперативної пам'яті EXOS для перевірки сегментів RAM**. Це найнадійніший, але водночас і найповільніший тест. Він необхідний лише після встановлення нового розширення пам'яті.
 
-`Reset`+`C`+`S`: Slow test. It's similar to the fast test, but checks all the bytes. You should rather run the fast test.  
+`Reset`+`C`+`S`: **Повільний тест**. Він схожий на швидкий тест, але перевіряє усі байти. Краще користуватись швидким тестом.  
 
-`Reset`+`C`+`T`: Enable TEST_ROM feature. Normally the EXOS doesn't search for the `TEST_ROM` because the new internal test program is better than the traditional fast test programs. But with the **T** key you can run the `TEST_ROM` program. An extra feature: the EXOS searches at all segments for `TEST_ROM`. (The original EXOS searches only at the **04H** segment.) (MIT JELENT?)  
+`Reset`+`C`+`T`: **Enable TEST_ROM feature**. Normally the EXOS doesn't search for the `TEST_ROM` because the new internal test program is better than the traditional fast test programs. But with the **T** key you can run the `TEST_ROM` program. An extra feature: the EXOS searches at all segments for `TEST_ROM`. (The original EXOS searches only at the **04H** segment.) (MIT JELENT?)  
 
-`Reset`+`C`+`R`: Normally the EXOS detects and preserves the RAMDISK. If you want to delete it, press **R**.  
+`Reset`+`C`+`R`: **Видалити RAMDISK**. Зазвичай EXOS розпізнає та залишає [RAMDISK](../../manuals/dos-commands/cmd-ramdisk.md). Якщо ви хочете його видалити використовуйте цю опцію.  
 
-`Reset`+`C`+`F1`: Testing only **128KB** memory. Some buggy programs only run on the original 128KB configurations.  
+`Reset`+`C`+`F1`: **Перевірити та задіяти лише 128 кБ ОЗП**. Деякі некоректно написані програми працюють лише на оригінальних конфігураціях з 128 кБ.  
 
-`Reset`+`C`+`ALT`: Only **64KB** memory will be tested, it is suitable for some EP64 games which run too fast on 128K machines, such as Tombs of Doom.  
+`Reset`+`C`+`ALT`: **Перевірити та задіяти лише 64 кБ ОЗП**. Це буде корисним для ігор написаних для EP64, які працюють занадто швидко на машинах з 128 кБ (і більше), такі як **Tombs of Doom** чи **The Abyss**.  
 
-`Reset`+`4,5,6,7`: Having SRAM chips in the cartridge they can be used as memory expansion by pressing one of these keys. The memory test runs to **04H**, **05H**, **06H**, **07H** segments. (MIT JELENT?) Originally run only to **08H** for searching RAM segments. (MIT JELENT?)  
+`Reset`+`C`+`4,5,6,7`: Having SRAM chips in the cartridge they can be used as memory expansion by pressing one of these keys. The memory test runs to **04H**, **05H**, **06H**, **07H** segments. (MIT JELENT?) Originally run only to **08H** for searching RAM segments. (MIT JELENT?)  
 
-`Reset`+`F2`: Застосувати старий метод пошуку ПЗП в сегментах пам'яті. New EXOS searches for ROM extensions at ALL segments. (MIT JELENT?) It is great for using higher capacity EPROMs, you can burn more programs to a single EPROM. But if you want you can return to the normal EXOS ROM search routine with the **F2** key. The original routine tests only **04H**-**07H**, **10H**, **20H**,...**F0H** segments. (MIT JELENT?) This feature is practical for temporarily disabling some ROM extensions for some compatibility reasons.  
+`Reset`+`C`+`F2`: **Застосувати старий метод пошуку ПЗП в сегментах пам'яті**. New EXOS searches for ROM extensions at ALL segments. (MIT JELENT?) It is great for using higher capacity EPROMs, you can burn more programs to a single EPROM. But if you want you can return to the normal EXOS ROM search routine with the **F2** key. The original routine tests only **04H**-**07H**, **10H**, **20H**,...**F0H** segments. (MIT JELENT?) This feature is practical for temporarily disabling some ROM extensions for some compatibility reasons. 
 
-`Reset`+`F3`: Don't check the ROM equality. (MIT JELENT?) Normally only the lower ROM is added to the ROM list if two ROM segments are equal (the first 255 bytes compared). For example, this feature is recommended when you want to try out a BASIC cartridge but the internal BASIC ROM disables it. If you press **F3**, the cartridge BASIC is also added to the ROM list and runs.  
+`Reset`+`C`+`F3`: **Не перевіряти ідентичність ROM.** Зазвичай, якщо два сегменти ПЗП ідентичні (порівнюються перші 255 байт), до списку ROM додається лише той, що знаходиться в нижчих адресах. Наприклад, цю функцію рекомендовано використовувати, коли ви хочете випробувати картридж із BASIC, але внутрішній BASIC у ПЗП комп'ютера блокує його. Якщо ви натиснете **F3**, BASIC із картриджа також буде додано до списку ROM, і він запуститься.
 
-`Reset`+`F4`: Delete ROM simulations. With new EXOS you can simulate ROM extensions in the RAM. Before any segment tested as RAM segment, the new test routine checks if it is started with the `EXOS_ROM` or `TEST_ROM` string? (MIT JELENT?) If yes, this segment is skipped at the RAM test and can be detected as ROM.  
+`Reset`+`C`+`F4`: **Видалити симуляції ROM**. У новій версії EXOS ви можете симулювати розширення ПЗП в оперативній пам'яті. За замовчуванням, перед тестуванням будь-якого сегмента як пам'яті RAM, нова підпрограма перевіряє, чи починається він із рядка `EXOS_ROM` або `TEST_ROM`? Якщо так, цей сегмент пропускається під час тесту RAM і може бути розпізнаний як ROM. 
 
-`Reset`+`F5`: Delete EDCW extensions. Extensions of the [EDC Windows](http://www.ep128.hu/Ep_Util/Edcw.htm) handled similar to the ROM simulations.  
+`Reset`+`C`+`F5`: **Видалити розширення EDCW**. Розширення для [EDC Windows](http://www.ep128.hu/Ep_Util/Edcw.htm) обробляються аналогічно симуляціям ПЗП.  
 
-`Reset`+`F6`: пропуск пошуку ПЗП в картріджі.  
-Це було розроблено для [SD-картриджа](../../hardware/hd-sd-card-adapter.md), Flash-пам'ять якого можна оновлювати безпосередньо з Enterprise. Оскільки мікросхема має поверхневий монтаж, її важко відновити у разі збою, якщо система взагалі не запускається через пошкоджений ROM. За допомогою цієї функції проблему можна вирішити та завантажити програму для відновлення Flash-пам'яті з дискети (для тих, хто має [EXDOS](../../hardware/hd-exdos.md)) або через аудіовхід.
+`Reset`+`C`+`F6`: **пропуск пошуку ПЗП в картріджі**. Це було розроблено для [SD-картриджа](../../hardware/hd-sd-card-adapter.md), Flash-пам'ять якого можна оновлювати безпосередньо з Enterprise. Оскільки мікросхема має поверхневий монтаж, її важко відновити у разі збою, якщо система взагалі не запускається через пошкоджений ROM. За допомогою цієї функції проблему можна вирішити та завантажити програму для відновлення Flash-пам'яті з дискети (для тих, хто має [EXDOS](../../hardware/hd-exdos.md)) або через аудіовхід.
 
-`Reset`+`STOP`: Halt on when deffective RAM segments are detected. You can read the segment numbers which are deffective. The test can be continued by pressing any key. (EZ AZ EGÉSZ MIT JELENT?)
+`Reset`+`C`+`STOP`: **Зупинка при виявленні дефектних сегментів пам’яті (RAM)**. Ви можете побачити номери пошкоджених сегментів. Тестування можна продовжити, натиснувши будь-яку клавішу.
 
-`Reset`+`ESC`: Go to the Enterprise logo. You can't exit from some games because the program uses the warm restart address. If the **ESC** key is pressed when you reset the computer, the EXOS 2.3 doesn't execute the warm restart routine, going to the Enterprise routine instead. With this method your preloaded system extensions can be preserved, EXOS variables (such as Time, Date) can be set, etc. (MIT JELENT?) Using a hard-to-quit program with original EXOS you had to switch your computer off and on again, and all these informations lost...
+`Reset`+`ESC`: **Перейти до стартового екрану з логотипом Enterprise**. З деяких ігор неможливо вийти через те, що програма використовує адресу теплого перезапуску. Якщо під час скидання комп'ютера утримувати клавішу **Esc**, новий EXOS не виконує стандартну процедуру теплого перезапуску, а замість цього переходить до оригінальної процедури Enterprise. Завдяки цьому методу ваші попередньо завантажені розширення системи зберігаються, змінні EXOS (такі як час, дата) не скидаються тощо. Раніше, використовуючи програму, з якої важко вийти, вам довелося б вимикати та знову вмикати комп’ютер, через що вся ця інформація була б втрачена...
 
 `Hold`/`Pause` (на екрані тестування): Призупинення процесу тестування.
 
