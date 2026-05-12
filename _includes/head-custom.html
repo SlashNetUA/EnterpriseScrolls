@@ -1,0 +1,49 @@
+﻿<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
+
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // 1. Автоматично обгортаємо всі зображення (md-синтаксис та <img> теги)
+    const images = document.querySelectorAll('img');
+    
+    images.forEach(img => {
+      // Пропускаємо, якщо картинка вже є посиланням
+      if (img.closest('a')) return;
+
+      const link = document.createElement('a');
+      link.href = img.src;
+      link.dataset.fancybox = "gallery";
+      
+      // Додаємо клас для стилізації (опційно)
+      link.classList.add('fancybox-trigger');
+
+      img.parentNode.insertBefore(link, img);
+      link.appendChild(img);
+    });
+
+    // 2. Ініціалізація Fancybox з налаштуваннями для ретро-графіки
+    Fancybox.bind("[data-fancybox]", {
+      Images: {
+        Panzoom: {
+          maxScale: 3 // Дозволяємо сильне збільшення для скріншотів EXOS
+        }
+      },
+      // Вимикаємо розмиття при збільшенні (піксельна чіткість)
+      on: {
+        ready: (fancybox) => {
+          const container = fancybox.container;
+          container.style.imageRendering = 'pixelated';
+        }
+      }
+    });
+  });
+</script>
+
+<style>
+  /* Щоб піксель-арт на Enterprise 128 виглядав чітким, а не розмитим */
+  .fancybox__content img {
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+  }
+</style>
