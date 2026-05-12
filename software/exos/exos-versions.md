@@ -22,8 +22,6 @@
 
 ## v 2.0
 
-
-
 <img src="scrn_exos20-testscreen.png" width="45%"> 
 <img src="scrn_exos20-startscreen.png" width="45%"> 
 
