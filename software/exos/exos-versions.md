@@ -9,7 +9,7 @@
 
 ## v 1.x
 
-<img src="scrn_exos1x-startscreen.png" width="42%">  
+<img src="scrn_exos1x-startscreen.png" width="45%"> 
 
 *Приблизно так виглядав екран після включення комп'ютера*
 
@@ -22,8 +22,8 @@
 
 ## v 2.0
 
-<img src="scrn_exos20-testscreen.png" width="42%">  
-<img src="scrn_exos20-startscreen.png" width="42%">  
+<img src="scrn_exos20-testscreen.png" width="45%"> 
+<img src="scrn_exos20-startscreen.png" width="45%"> 
 
 Створено: **Intelligent Software Ltd.**  
 Рік: **1984**    
@@ -34,12 +34,12 @@
 
 `Reset` (подвійний): **Cold reset** (в деяких некоректно написаних програмах може не спрацьовувати).  
 
-`Reset` (одинарний): **Warm reset** - Теплий перезапуск не виконує тестування оперативної пам'яті або пошук модулів ПЗП. Уся пам'ять, виділена користувачеві, залишається недоторканою, а будь-які підключені розширення системної пам'яті або пристрої користувача зберігають свій стан. Однак усі канали примусово закриваються, а всі пристрої ініціалізуються повторно; будь-яка оперативна пам'ять, що була виділена під буфери каналів, звільняється. Після цього керування передається користувацькій підпрограмі (якщо вона була передбачена). Таким чином деякі програми можуть обробляти натискання кнопки Reset (наприклад, в інтерпретаторі IS-Basic програма не видаляється з пам'яті, у IS-DOS виконується "аварійне" завершення поточної програми, а в деяких іграх виконується зберігання таблиці лідерів у файл).
+`Reset` (одинарний): **Warm reset** - Теплий перезапуск не виконує тестування оперативної пам'яті або пошук модулів ПЗП. Уся пам'ять, виділена користувачеві, залишається недоторканою, а будь-які підключені розширення системної пам'яті або пристрої користувача зберігають свій стан. Однак усі канали примусово закриваються, а всі пристрої ініціалізуються повторно; будь-яка оперативна пам'ять, що була виділена під буфери каналів, звільняється. Після цього керування передається користувацькій підпрограмі (якщо вона була передбачена). Таким чином деякі програми можуть обробляти натискання кнопки Reset (наприклад, в інтерпретаторі IS-Basic програма не видаляється з пам'яті, у IS-DOS виконується "аварійне" завершення поточної програми і перехід до командного рядка, а в деяких іграх виконується зберігання таблиці лідерів у файл).
 
 ## v 2.1
 
-<img src="scrn_exos21-testscreen.png" width="42%">  
-<img src="scrn_exos21-startscreen.png" width="42%">  
+<img src="scrn_exos21-testscreen.png" width="45%"> 
+<img src="scrn_exos21-startscreen.png" width="45%"> 
 
 Створено: **Intelligent Software Ltd.**  
 Рік: **1985**  
@@ -67,8 +67,8 @@
 
 ## v 2.2 (unofficial)
 
-<img src="scrn_exos22-testscreen.png" width="42%">  
-<img src="scrn_exos21-startscreen.png" width="42%">  
+<img src="scrn_exos22-testscreen.png" width="45%"> 
+<img src="scrn_exos21-startscreen.png" width="45%"> 
 
 Створено: **ZozoSoft** та **Apuci**.  
 Рік: **1992**  
@@ -78,16 +78,16 @@
 
 ## v 2.3 (unofficial)
 
-<img src="scrn_exos23-testscreen.png" width="42%">  
-<img src="scrn_exos21-startscreen.png" width="42%">  
+<img src="scrn_exos23-testscreen.png" width="45%"> 
+<img src="scrn_exos21-startscreen.png" width="45%"> 
 
 Створено: **ZozoSoft** та **Apuci**.  
 Рік: **1993**  
 
 ## v 2.31 (unofficial)
 
-<img src="scrn_exos231-testscreen.png" width="42%">  
-<img src="scrn_exos21-startscreen.png" width="42%">  
+<img src="scrn_exos231-testscreen.png" width="45%"> 
+<img src="scrn_exos21-startscreen.png" width="45%"> 
 
 Створено: **ZozoSoft** та **Apuci**.  
 Рік: **2008**  
@@ -96,8 +96,8 @@
 
 ## v 2.32 (unofficial)
 
-<img src="scrn_exos232-testscreen.png" width="42%">  
-<img src="scrn_exos21-startscreen.png" width="42%">  
+<img src="scrn_exos232-testscreen.png" width="45%"> 
+<img src="scrn_exos21-startscreen.png" width="45%"> 
 
 Створено: **ZozoSoft** та **Apuci**.  
 Рік: **2010**  
@@ -107,8 +107,8 @@
 
 ## v 2.4 (unofficial)
 
-<img src="scrn_exos24-testscreen.png" width="42%">  
-<img src="scrn_exos21-startscreen.png" width="42%">  
+<img src="scrn_exos24-testscreen.png" width="45%"> 
+<img src="scrn_exos21-startscreen.png" width="45%"> 
 
 Створено: **ZozoSoft** та **Apuci**.  
 Рік: **2014**  
