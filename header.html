@@ -1,0 +1,33 @@
+﻿<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Шукаємо всі картинки в основному контенті сайту
+    const images = document.querySelectorAll('img');
+    
+    images.forEach(img => {
+      // Якщо картинка вже в посиланні, пропускаємо
+      if (img.closest('a')) return;
+
+      const link = document.createElement('a');
+      link.href = img.src;
+      link.dataset.fancybox = "gallery";
+      
+      // Копіюємо стилі (наприклад, width="45%"), щоб не зламати верстку
+      if (img.style.width) link.style.width = img.style.width;
+      if (img.width) link.style.width = img.width + (img.width.toString().includes('%') ? '' : 'px');
+
+      img.parentNode.insertBefore(link, img);
+      link.appendChild(img);
+    });
+
+    Fancybox.bind("[data-fancybox]", {
+      Images: {
+        Panzoom: {
+          maxScale: 2
+        }
+      }
+    });
+  });
+</script>

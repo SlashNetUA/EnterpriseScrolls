@@ -22,7 +22,9 @@
 
 ## v 2.0
 
-<img src="scrn_exos20-testscreen.png" width="45%"> 
+<a href="scrn_exos20-testscreen.png" data-fancybox>
+  <img src="scrn_exos20-testscreen.png" width="45%">
+</a>
 <img src="scrn_exos20-startscreen.png" width="45%"> 
 
 Створено: **Intelligent Software Ltd.**  
