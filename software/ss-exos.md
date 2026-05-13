@@ -17,6 +17,8 @@
 
 [Завантажити](exos/exos-download.md)
 
+[Оновлення EXOS](../hardware/mods/exos-rom-upgrade.md)
+
 [Технічна документація](http://enterprise.iko.hu/technical.htm) (EN)
 
 [Технічна документація](https://www.ep128.hu/Ep_Konyv/Exos.htm) (HU)
