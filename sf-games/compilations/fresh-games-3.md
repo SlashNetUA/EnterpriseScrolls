@@ -1,7 +1,7 @@
 # Fresh Games 3
 
-| **Side A**       | **Side B** |
-| ---------------- | ---------- |
-| Mole Mole        |            |
-| Skeleton Gelatin |            |
-|                  |            |
+| **Side A**            | **Side B** |
+| --------------------- | ---------- |
+| Ludic: Break The Loop |            |
+| Nothing               |            |
+| Cubix                 |            |
