@@ -1,4 +1,8 @@
 # IS-Basic
+
+<img src="../software/releases/covr_is-basic.png" height="288"> 
+<img src="../software/screenshots/scrn_is-basic_01.png" height="288"> 
+
 [IS-Basic Programming Manual](../manuals/pr-is-basic-manual-en.md)  
 
  - [список операторів](../manuals/is-basic-man-en/man_3-commands.md)

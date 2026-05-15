@@ -1,4 +1,7 @@
 # HiSoft Pascal
+
+<img src="../software/screenshots/scrn_hisoft-pascal-12_01.png" height="288"> 
+
 [HiSoft Pascal Manual](../manuals/pr-hisoft-pascal-manual-en.md) (EN)  
 [Hisoft Pascal Felhasználói kézikönyv](http://ep128.hu/Ep_Util/Hisoft_Pascal.htm) (HU)  
 
