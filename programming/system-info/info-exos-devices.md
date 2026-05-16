@@ -9,4 +9,5 @@
 [tape](exos-devices/tape.md)  
 [video](exos-devices/video.md)  
 
+[rom](exos-devices/romfs.md)
 
