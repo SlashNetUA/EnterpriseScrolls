@@ -60,12 +60,17 @@ External Cartridge Bay
 
 ## Як зробити самому
 
+### Плата
+
 by Pear
 Basic
 Flash
 
 Cartridge 512K switchable
 
+### Корпус
+
+[3dpr-cartridge](3dprint/3dpr-cartridge.md)
 
 ## Що записати
 
