@@ -49,30 +49,53 @@
 
 ## Інші виробники
 
-Quick-change EPROM Cartridge
+Крім офіційних моделей були й інші, що пропонувались користувачам неофіційними виробниками, які подавали плати, корпуси и ПЗП-мікросхеми (як записані, так і порожні). Дехто робив модифікації з можливістю встановлення трьох ПЗП-чіпів (один основний, а другий та третій слот вибирались вручну зовнішнім перемикачем).
+
+![](cartridge/cart_zl-03-view.jpg)
+
+В наш час користувачі роблять навіть картріджі з можливістю швидкої зміни EPROM-мікросхем.
+
+<img src="cartridge/cart_qchrom_1.jpg" height="280"> 
+<img src="cartridge/cart_qchrom_2.jpg" height="280"> 
 
 ## Інші пристрої
+
 CBM Multi File Transfer (Cartridge version)  
 MIDI Cartridge  
 [SD-card reader](hd-sd-card-adapter.md)  
 
-
 External Cartridge Bay  
-
 
 ## Як зробити самому
 
 ### Плата
+#### Модель Basic від Pear
 
-by Pear
-Basic
-Flash
+Для EPROM **27C128** або **27C256**. 
 
-Cartridge 512K switchable
+[https://enterpriseforever.com/hardware/replacement-for-a-standard-cartridge/msg78651/#msg78651](https://enterpriseforever.com/hardware/replacement-for-a-standard-cartridge/msg78651/#msg78651)
+
+![](cartridge/cart_pear-basic.jpg)
+
+#### Модель Flash від Pear
+
+Для EPROM **27C512**
+
+[https://enterpriseforever.com/hardware/replacement-for-a-standard-cartridge/msg78653/#msg78653](https://enterpriseforever.com/hardware/replacement-for-a-standard-cartridge/msg78653/#msg78653)
+
+![](cartridge/cart_pear-flash.jpg)
+
+#### Модель 512K switchable від Modular Circuits
+
+[Гітхаб](https://github.com/andrastantos/enterprise_cartridge)
+
+Хоча він має деякі неточності. [Подробиці](https://enterpriseforever.com/programozas/eprom-ba-irhato-jatekok/msg95573/#msg95573).
+
+![](cartridge/cart_modcirc_512k-switch.jpg)
 
 ### Корпус
 
-[3dpr-cartridge](3dprint/3dpr-cartridge.md)
+Корпус для картріджа можна придбати в угорському [онлайн-магазині Ентерпрайз Клубу](https://enterprise128.hu/hu/online-ep-piacter) (Enterprise Cartridge tok), або [роздрукувати самому](3dprint/3dpr-cartridge.md).
 
 ## Що записати
 
