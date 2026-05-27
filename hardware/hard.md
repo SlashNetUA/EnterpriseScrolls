@@ -1,35 +1,137 @@
 # Накопичувачі інформації та контролери
 
+Магнітофони  
 [Картріджі](hc-cartridge.md)  
 [EXDOS](hd-exdos.md)  
+Дисководи  
 [Адаптер SD-карт](hd-sd-card-adapter.md)  
 Контролери жорстких дисків  
+CBM Multi File Transfer  
 
 # Емулятори
 
 [Апаратний емулятор ZX Spectrum 48](he-zxemu.md)
 
-# Введення інформації
+# Пристрої введення інформації
 
-## Joystick
+## Клавіатури
+Оригінальна  
+Цифрова клавіатура  
+
+## Джойстики
 [Joystick adapters](joy-adapters.md)
 
-## Mouse
+## Мишки
 ### Сучасні
-
 [EnterMice Adapter](mouse-entermice.md)  
 
 ### Класичні
-
 [Enterprise Mouse](mouse-epmouse.md)  
 [BoxSoft Mouse](mouse-boxsoft.md)  
 [Serial Mouse](mouse-serial.md)  
 
+## Інше
+Графічний планшет  
+
 # Аудіопристрої
 
+SID-card  
+HDIGI  
 SpeakEasy (синтез мовлення)  
 
-SID-card  
+## MIDI-інтерфейс
 
-MIDI Cartridge
+MIDI Cartridge  
+MIDI Card  
+RSF3
+
+# Відеопристрої
+
+Карта апаратних спрайтів  
+GFX-NINE V9990 video card  
+
+## Конвертери сигналу
+
+Модифікації комп'ютера  
+
+## Монітори
+
+Ciaegi M14H  
+Ciaegi N12H  
+Ciaegi PM-RGB+A  
+Fidelity CM 14  
+Microvitec CUB 1451 MS  
+
+# Meрежеві пристрої
+
+Вбудована  
+EPNET  
+ESP  
+Модеми  
+
+# Пристрої системної шини розширення
+
+Bus Bridge
+
+# Зовнішні розширення ПЗП/ОЗП
+
+# Принтери
+
+# Живлення
+
+Блок живлення  
+Адаптери  
+Вимикачі  
+
+# Універсальні пристрої
+
+Symbiface 3  
+RSF3  
+
+# Розпіновки та інтерфейсні кабелі
+
+![](http://enterprise.iko.hu/backside.gif)  
+[Pinouts](http://enterprise.iko.hu/pinouts.htm)
+
+# Інше
+
+RTC
+
+# Системна плата та її модифікації
+
+## Системна плата
+
+Версії системних плат
+
+## Внутрішнє ПЗП (EXOS)
+
+[Оновлення EXOS](mods/exos-rom-upgrade.md)
+
+## Внутрішні розширення ОЗП
+
+## Процесори/сопроцесори
+
+Zilog Z80  
+Zilog Z180  
+AM9511  
+
+## Чіпсет
+
+NICK  
+DAVE  
+
+## Розгін
+
+## Живлення
+
+EPower  
+REpower  
+
+
+## Відеосигнал
+
+## Інше
+
+Speaker switch
+
 

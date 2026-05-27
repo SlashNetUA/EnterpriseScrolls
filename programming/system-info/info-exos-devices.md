@@ -11,3 +11,4 @@
 
 [rom](exos-devices/romfs.md)
 
+[file](exos-devices/file.md)
