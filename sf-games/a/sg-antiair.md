@@ -16,7 +16,9 @@
 
 Прибульці скидують блоки, що заважають пересуванню, бомби, що детонують через деякий час, та ракети, які вибухають від дотику з поверхнею. Бомби та ракети також знищують і перешкоди на вашому шляху.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lbiyVWxnMu4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/lbiyVWxnMu4"  
+style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
 
 ## Системні вимоги
 ### Мінімальні системні вимоги

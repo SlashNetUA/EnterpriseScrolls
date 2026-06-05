@@ -7,7 +7,7 @@
 ## Офіційні пристрої
 
 Модуль розширення EXDOS  
-Diskettenstation 3.5  
+[Diskettenstation 3.5](hd-diskettenstation-35.md)  
 MFM HDD Interface  
 
 ## Неофіційні пристрої
@@ -23,5 +23,5 @@ Dual Floppy Drive by Attila Nagy
 
 EXDOS Card+RAM Ext by MIKROTEAM  
 EXDOS Card by Gyula Meszaros  
-DDC by Jan Versteeg  
+[DDC by Jan Versteeg](hd-exdos-ddc.md)  
 Enterprise Disc-Controller by Werner Lindner  
