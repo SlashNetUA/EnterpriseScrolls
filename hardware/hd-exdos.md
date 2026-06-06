@@ -6,7 +6,7 @@
 
 ## Офіційні пристрої
 
-Модуль розширення EXDOS  
+Модуль розширення EXDOS (німецькі без наліпки)  
 [Diskettenstation 3.5](hd-diskettenstation-35.md)  
 MFM HDD Interface  
 
@@ -14,14 +14,14 @@ MFM HDD Interface
 
 ### Сучасні 
 
-ZOZOtool by kvaczko  
+ZOZOtool by [kvaczko](../community/kvaczko.md)  
 EXDOS Floppy Controller by Wilco2009  
-EXDOS Floppy Disk Controller by Pear  
+EXDOS Floppy Disk Controller by [Pear](../community/pear.md)  
 Dual Floppy Drive by Attila Nagy  
 
 ### Класичні
 
 EXDOS Card+RAM Ext by MIKROTEAM  
 EXDOS Card by Gyula Meszaros  
-[DDC by Jan Versteeg](hd-exdos-ddc.md)  
-Enterprise Disc-Controller by Werner Lindner  
+[DDC](exdos/hd-exdos-ddc.md) by Jan Versteeg  
+Enterprise Disc-Controller by [Werner Lindner](../peoples/ec/pers_werner-lindner.md)  

@@ -47,7 +47,7 @@ RSF3
 
 # Відеопристрої
 
-Карта апаратних спрайтів  
+[2dfx](hv-2dfx.md)  
 GFX-NINE V9990 video card  
 
 ## Конвертери сигналу
@@ -117,8 +117,8 @@ AM9511
 
 ## Чіпсет
 
-NICK  
-DAVE  
+[Nick](hm-nick.md)  
+[Dave](hm-dave.md)  
 
 ## Розгін
 

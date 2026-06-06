@@ -2,5 +2,4 @@
 
 ![зовнішній вигляд інтерфейсу](https://enterpriseforever.com/hardver/eger/?action=dlattach;attach=781;image)
 
-# Посилання на зовнішні ресурси
-
+[pers_tim-box](../peoples/pers_tim-box.md)

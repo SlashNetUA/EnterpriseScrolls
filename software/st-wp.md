@@ -14,26 +14,26 @@
 
 ## version 2.0-2.1
 
-<img src="scrn_wp_01.png" width="24%"> 
-<img src="scrn_wp_02.png" width="24%"> 
-<img src="scrn_wp_03.png" width="24%"> 
-<img src="scrn_wp_04.png" width="24%"> 
+<img src="screenshots/scrn_wp_01.png" width="24%"> 
+<img src="screenshots/scrn_wp_02.png" width="24%"> 
+<img src="screenshots/scrn_wp_03.png" width="24%"> 
+<img src="screenshots/scrn_wp_04.png" width="24%"> 
 
 Версії вбудовані у всі версії EXOS.  
 В неофіційних версіях EXOS стару версію WP ще можна викликати командою `CALL USR(62905,0)` з інтерпретатора IS-Basic (хоч це і не має великого сенсу🙂), але у майбутніх версіях EXOS планується видалення коду старої версії WP.
 
 ## version 2.5 (Super WP)
 
-<img src="scrn_super-wp-25_01.png" width="24%"> 
-<img src="scrn_super-wp-25_02.png" width="24%"> 
-<img src="scrn_super-wp-25_03.png" width="24%"> 
-<img src="scrn_super-wp-25_04.png" width="24%"> 
+<img src="screenshots/scrn_super-wp-25_01.png" width="24%"> 
+<img src="screenshots/scrn_super-wp-25_02.png" width="24%"> 
+<img src="screenshots/scrn_super-wp-25_03.png" width="24%"> 
+<img src="screenshots/scrn_super-wp-25_04.png" width="24%"> 
 
 Версія створена Enterprise Computers GmbH і продавалась на касетах та дисках.
 
 ## version 2.6 (Super WP)
 
-<img src="scrn_super-wp-26_01.png" width="24%"> 
+<img src="screenshots/scrn_super-wp-26_01.png" width="24%"> 
 
 Версія вбудована у неофіційні версії EXOS.
 

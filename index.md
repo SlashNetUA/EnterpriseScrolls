@@ -5,7 +5,7 @@
 [Програмне забезпечення](software/soft.md)  
 [Апаратне забезпечення](hardware/hard.md)  
 [Преса](press/press.md)  
-History  
+[History](history/history.md)  
 [Посилання](links.md)
 
 ----
