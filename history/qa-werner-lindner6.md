@@ -1,3 +1,14 @@
+ 1. [Історичні подробиці](qa-werner-lindner1.md)
+ 2. [Розробка апаратного забезпечення](qa-werner-lindner2.md)
+ 3. [Апаратні розширення та картриджі](qa-werner-lindner3.md)
+ 4. [Апаратні розширення (EXDOS)](qa-werner-lindner4.md)
+ 5. [Прототип MIDI-картріджа](qa-werner-lindner5.md)
+ 6. Прошивки ПЗП
+ 7. [Enterprise X, Model 911 або Project Vulcan](qa-werner-lindner7.md)
+ 8. [Кирилична версія для радянських шкіл](qa-werner-lindner8.md)
+ 9. [Різне](qa-werner-lindner9.md)
+ 10. [Модуль жорсткого диску](qa-werner-lindner10.md)
+
 # Прошивки ПЗП
 
 [(оригінал повідомлення)](https://enterpriseforever.com/hall-of-fame/qa-with-werner-lindner-technical-director-of-the-enterprise-computers-gmbh/msg45556/#msg45556)
@@ -74,4 +85,7 @@ DIAG 1.0 та 1.1: використовувалися на фабриці для
 
 > **Werner Lindner**: Я розробив схему тестового блоку "Test-Unit-II", який повністю сумісний із тестовим стендом Hypertone у тому, що стосується перевірки плат за допомогою картриджів. У додатку ви знайдете принципові схеми та мій дизайн плати 1992 року. Для підключення цього тестового блоку до ENTERPRISE вам знадобляться кабелі, але в усьому іншому він має працювати точнісінько як оригінальний блок введення/виведення (I/O-Unit) від Hypertone.
 
+----
+
+[Наступна сторінка: Enterprise X, Model 911 або Project Vulcan](qa-werner-lindner7.md)
 

@@ -1,4 +1,15 @@
-# Enterprise X, Model 911 или Project Vulcan
+ 1. [Історичні подробиці](qa-werner-lindner1.md)
+ 2. [Розробка апаратного забезпечення](qa-werner-lindner2.md)
+ 3. [Апаратні розширення та картриджі](qa-werner-lindner3.md)
+ 4. [Апаратні розширення (EXDOS)](qa-werner-lindner4.md)
+ 5. [Прототип MIDI-картріджа](qa-werner-lindner5.md)
+ 6. [Прошивки ПЗП](qa-werner-lindner6.md)
+ 7. Enterprise X, Model 911 або Project Vulcan
+ 8. [Кирилична версія для радянських шкіл](qa-werner-lindner8.md)
+ 9. [Різне](qa-werner-lindner9.md)
+ 10. [Модуль жорсткого диску](qa-werner-lindner10.md)
+
+# Enterprise X, Model 911 або Project Vulcan
 
 [(оригінал повідомлення)](https://enterpriseforever.com/hall-of-fame/qa-with-werner-lindner-technical-director-of-the-enterprise-computers-gmbh/msg45627/#msg45627)
 
@@ -201,3 +212,7 @@
 
 <img src="../hardware/pics-ep/model911/m911-900-12-printer-cable_01.jpg" width="30%"> 
 <img src="../hardware/pics-ep/model911/m911-900-12-printer-cable_02.jpg" width="30%"> 
+
+----
+
+[Наступна сторінка: кирилична версія для радянських шкіл](qa-werner-lindner8.md)

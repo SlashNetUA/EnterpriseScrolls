@@ -1,3 +1,14 @@
+ 1. [Історичні подробиці](qa-werner-lindner1.md)
+ 2. [Розробка апаратного забезпечення](qa-werner-lindner2.md)
+ 3. [Апаратні розширення та картриджі](qa-werner-lindner3.md)
+ 4. [Апаратні розширення (EXDOS)](qa-werner-lindner4.md)
+ 5. Прототип MIDI-картріджа
+ 6. [Прошивки ПЗП](qa-werner-lindner6.md)
+ 7. [Enterprise X, Model 911 або Project Vulcan](qa-werner-lindner7.md)
+ 8. [Кирилична версія для радянських шкіл](qa-werner-lindner8.md)
+ 9. [Різне](qa-werner-lindner9.md)
+ 10. [Модуль жорсткого диску](qa-werner-lindner10.md)
+
 # Прототип MIDI-картріджа
 
 [(оригінал повідомлення)](https://enterpriseforever.com/hall-of-fame/qa-with-werner-lindner-technical-director-of-the-enterprise-computers-gmbh/msg45751/#msg45751)
@@ -71,3 +82,7 @@
 <img src="../hardware/sound/pics/midi-cart_07.jpg" width="30%"> 
 <img src="../hardware/sound/pics/midi-cart_08.jpg" width="30%"> 
 <img src="../hardware/sound/pics/midi-cart_09.jpg" width="30%"> 
+
+----
+
+[Наступна сторінка: прошивки ПЗП](qa-werner-lindner6.md)

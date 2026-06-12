@@ -1,4 +1,15 @@
-# Кирилична версія для шкіл
+ 1. [Історичні подробиці](qa-werner-lindner1.md)
+ 2. [Розробка апаратного забезпечення](qa-werner-lindner2.md)
+ 3. [Апаратні розширення та картриджі](qa-werner-lindner3.md)
+ 4. [Апаратні розширення (EXDOS)](qa-werner-lindner4.md)
+ 5. [Прототип MIDI-картріджа](qa-werner-lindner5.md)
+ 6. [Прошивки ПЗП](qa-werner-lindner6.md)
+ 7. [Enterprise X, Model 911 або Project Vulcan](qa-werner-lindner7.md)
+ 8. Кирилична версія для радянських шкіл
+ 9. [Різне](qa-werner-lindner9.md)
+ 10. [Модуль жорсткого диску](qa-werner-lindner10.md)
+
+# Кирилична версія для радянських шкіл
 
 [(оригінал повідомлення)](https://enterpriseforever.com/hall-of-fame/qa-with-werner-lindner-technical-director-of-the-enterprise-computers-gmbh/msg46220/#msg46220)
 
@@ -11,7 +22,12 @@
 <img src="pics/w-lindner/cartridge-cyril_02.jpg" width="30%"> 
 
 > Делегація була вражена, але попросила додати специфічні казахські символи (ви можете побачити їх у першому ряду клавіатури на фотографіях). Ми пообіцяли, що зможемо це зробити, і завдяки цьому вони підписали контракт на дві демонстраційні мережі для Алмати. Встановлення мало відбутися незабаром (тобто до кінця 1989 року). Нам дійсно довелося викластися на повну, щоб встигнути до цього терміну. Обладнання (стандартні немодифіковані машини зі складу в Мюнхені) негайно відправили авіафрахтом, а ми з [Вілмошем](../peoples/pers_vilmos-kopacsy.md) полетіли до Алмати наприкінці листопада, де й залишалися до 23 грудня. Програмне забезпечення для перших двох мереж було готове десь 17–18 грудня, і ми тестували комп'ютери та мережі прямо в готельних номерах, які слугували нам "офісом" та "лабораторією". Ми вилетіли назад 23–24 грудня, але наш літак затримався, і 24 грудня вже не було жодного рейсу з Москви до Будапешта. Нам довелося провести Різдво в московському аеропорту, і ми вилетіли до Будапешта лише 25 грудня, де на мене чекала моя машина.
-> 
+
+<div style="text-align:center;">
+<img src="pics/w-lindner/cyril_charmap.png" width="50%"><br>
+<i>Блакитним кольором позначено нові літери</i>
+</div>
+
 > Як ви вже помітили, кириличні прошивки (ROM) мають деякі особливості:
 > 
 > - Нам довелося перевести всі доступні системні повідомлення та коди помилок у ВЕРХНІЙ РЕГІСТР через відсутність малих латинських літер у кириличному режимі.
@@ -128,14 +144,17 @@
 
 > **Werner Lindner**: Монітор [N12H](../hardware/monitor/hv-ciaegi-n12h.md) мав монохромну трубку з бурштиновим свіченням (amber) і використовувався як учнівський монітор у всіх шкільних мережах. Усі учнівські комп'ютери були англійськими моделями зі 128 КБ пам'яті.
 
-<img src="../hardware/monitor/ciaegi-n12h_01.jpg" width="30%"> 
-<img src="../hardware/monitor/ciaegi-n12h_02.jpg" width="30%"> 
-<img src="../hardware/monitor/ciaegi-n12h_03.jpg" width="30%"> 
-<img src="../hardware/monitor/ciaegi-n12h_04.jpg" width="30%"> 
-<img src="../hardware/monitor/ciaegi-n12h_05.jpg" width="30%"> 
-<img src="../hardware/monitor/ciaegi-n12h_06.jpg" width="30%"> 
+<img src="../hardware/monitor/pics/ciaegi-n12h_01.jpg" width="30%"> 
+<img src="../hardware/monitor/pics/ciaegi-n12h_02.jpg" width="30%"> 
+<img src="../hardware/monitor/pics/ciaegi-n12h_03.jpg" width="30%"> 
+<img src="../hardware/monitor/pics/ciaegi-n12h_04.jpg" width="30%"> 
+<img src="../hardware/monitor/pics/ciaegi-n12h_05.jpg" width="30%"> 
+<img src="../hardware/monitor/pics/ciaegi-n12h_06.jpg" width="30%"> 
 
 ----
 
 > **Werner Lindner**: Учительські станції в радянських мережах комплектувалися моніторами [CIAEGI M14H](../hardware/monitor/hv-ciaegi-m14h.md) (кольоровий RGB із роз'ємом SCART).
 
+----
+
+[Наступна сторінка: різне](qa-werner-lindner9.md)
