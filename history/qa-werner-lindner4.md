@@ -165,10 +165,10 @@
 
 **Zozosoft**: Німецька брошура, яку ми ніколи раніше не бачили: Вона містить фотографію німецької [Floppy Station](../hardware/hd-diskettenstation-35.md), але придивіться ближче: вона з іншим приводом, а не зі звичайним дисководом BASF. Також відсутня кришка слота від [моста системної шини](../hardware/hb-bus-bridge.md). Думаю, це один із ранніх прототипів.
 
-<img src="../press/adverts/broshure-germany_01.jpg" width="24%"> 
-<img src="../press/adverts/broshure-germany_02.jpg" width="24%"> 
-<img src="../press/adverts/broshure-germany_03.jpg" width="24%"> 
-<img src="../press/adverts/broshure-germany_04.jpg" width="24%"> 
+<img src="../press/proms/broshure-germany_01.jpg" width="24%"> 
+<img src="../press/proms/broshure-germany_02.jpg" width="24%"> 
+<img src="../press/proms/broshure-germany_03.jpg" width="24%"> 
+<img src="../press/proms/broshure-germany_04.jpg" width="24%"> 
 
 > **Werner Lindner**: Привід у німецькій брошурі — це Mitsubishi MF-353-12M, я маю один із таких дисководів і зроблю для вас кілька фотографій.
 

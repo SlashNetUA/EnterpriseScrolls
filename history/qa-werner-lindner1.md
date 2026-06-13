@@ -73,14 +73,14 @@
 [(оригінал повідомлення)](https://enterpriseforever.com/hall-of-fame/qa-with-werner-lindner-technical-director-of-the-enterprise-computers-gmbh/msg46278/#msg46278)
 
 Стаття з журналу **Mein Homecomputer, 12/1985**:  
-<img src="http://enterprise.iko.hu/articles/HCMeinHeim-Computer851200122.jpg" width="24%"> 
-<img src="http://enterprise.iko.hu/articles/HCMeinHeim-Computer851200123.jpg" width="24%"> 
+<img src="../press/articles/1985/12/1985-12-hc-mein-heim-computer/1985-12-hc-mhc_01.jpg" width="24%"> 
+<img src="../press/articles/1985/12/1985-12-hc-mein-heim-computer/1985-12-hc-mhc_02.jpg" width="24%"> 
 
 І з **Computer Aktuell 01/1986**:  
-<img src="http://enterprise.iko.hu/articles/Computer-Aktuell-01-1986-1.jpg" width="24%"> 
-<img src="http://enterprise.iko.hu/articles/Computer-Aktuell-01-1986-2.jpg" width="24%"> 
-<img src="http://enterprise.iko.hu/articles/Computer-Aktuell-01-1986-3.jpg" width="24%"> 
-<img src="http://enterprise.iko.hu/articles/Computer-Aktuell-01-1986-4.jpg" width="24%">
+<img src="../press/articles/1986/1986-01-computer-aktuell/1986-01-ca-01.jpg" width="24%"> 
+<img src="../press/articles/1986/1986-01-computer-aktuell/1986-01-ca-02.jpg" width="24%"> 
+<img src="../press/articles/1986/1986-01-computer-aktuell/1986-01-ca-03.jpg" width="24%"> 
+<img src="../press/articles/1986/1986-01-computer-aktuell/1986-01-ca-04.jpg" width="24%"> 
 
 Ціни з каталогу **METRO** за 1986 рік. Для порівняння наведено сторінки, присвячені IBM PC:  
 <img src="pics/w-lindner/pric_metro-1986_01.jpg" width="24%"> 

@@ -82,8 +82,8 @@
 <img src="../hardware/monitor/pics/microvitec-cub-1451-ms_05.jpg" width="30%"> 
 <img src="../hardware/monitor/pics/microvitec-cub-1451-ms_06.jpg" width="30%"> 
 
-<img src="../press/adverts/brochure-uk-ep128.jpg" width="30%"> 
-<img src="../press/adverts/broshure-germany_01.jpg" width="30%"> 
+<img src="../press/proms/brochure-uk-ep128.jpg" width="30%"> 
+<img src="../press/proms/broshure-germany_01.jpg" width="30%"> 
 <img src="pics/w-lindner/poster-with-microvitec-monitor.jpg" width="30%"> 
 
 ----
