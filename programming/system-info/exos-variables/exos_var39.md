@@ -1,3 +1,11 @@
-СЛУЧАЙНОЕ-IRQ  
-Оно увеличивается при каждом прерывании. Его можно использовать как генератор случайных саней.  
-Адрес 49132
+# 39 - RANDOM_IRQ
+
+Only in [EXOS 2.1](../../../software/exos/exos-versions.md) and greater.
+
+`ASK 39 var`  
+`SET 39, expr`  
+`TOGGLE 39` - inverts value.
+
+Incremented on every interrupt. Can be used as a source of random numbers provided it is only accessed infrequently.
+
+Memory address: **49132**

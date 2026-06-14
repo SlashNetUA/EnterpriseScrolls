@@ -13,3 +13,6 @@ Controls the volume level used when saving to tape. Acceptable tape levels are i
 |5|350|
 |6 - 255|700|
 
+----
+
+See also [EXOS VAR 35 - LV_TAPE](../../../programming/system-info/exos-variables/exos_var35.md)

@@ -12,3 +12,7 @@ The channel number defaults to **£101**. The bias is, however, applied to every
 
 > [!NOTE]
 > BIAS is available for the whole screen, it is handled by port 80h, not the LPT, you can enter to any channels even non existing ones, it will change the bias
+
+----
+
+See also [EXOS VAR 28 - BIAS_VID](../../../programming/system-info/exos-variables/exos_var28.md)

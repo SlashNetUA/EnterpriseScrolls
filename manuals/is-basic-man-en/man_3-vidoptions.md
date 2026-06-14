@@ -16,8 +16,10 @@ Note that **COLOR** is always acceptable in place of **COLOUR**.
 [LINE STYLE](options/man_vo-line-style.md)  
 [PALETTE](options/man_vo-palette.md)  
 [PAPER](options/man_vo-paper.md)  
+[PRIORITY](options/man_vo-priority.md)  (незадокументована)  
 [SCROLL](options/man_vo-scroll.md)  
 [VIDEO COLOUR](options/man_vo-video-col.md)  
 [VIDEO MODE](options/man_vo-video-mode.md)  
 [VIDEO X](options/man_vo-video-xy.md)  
 [VIDEO Y](options/man_vo-video-xy.md)  
+

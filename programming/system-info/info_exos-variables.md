@@ -27,7 +27,7 @@ RST_ADDR - warm reset address
 18 [ADDR_NET](exos-variables/exos_var18.md) (network)  
 19 [NET_IRQ](exos-variables/exos_var19.md) (network)  
 20 [CHAN_NET](exos-variables/exos_var20.md) (network)  
-21 [MATCH_NET](exos-variables/exos_var21.md) (network)  
+21 [MACH_NET](exos-variables/exos_var21.md) (network)  
 22 [MODE_VID](exos-variables/exos_var22.md) (video)  
 23 [COLR_VID](exos-variables/exos_var23.md) (video)  
 24 [X_SIZ_VID](exos-variables/exos_var24.md) (video)  
@@ -42,8 +42,8 @@ RST_ADDR - warm reset address
 33 [SP_TAPE](exos-variables/exos_var33.md) (tape)  
 34 [PROTECT](exos-variables/exos_var34.md) (tape)  
 35 [LV_TAPE](exos-variables/exos_var35.md) (tape)  
-36 [REM1](exos-variables/exos_var36.md) (tape)  
-37 [REM2](exos-variables/exos_var37.md) (tape)  
+36 [REM1](exos-variables/exos_var36-37.md) (tape)  
+37 [REM2](exos-variables/exos_var36-37.md) (tape)  
 38 [SPRITE](exos-variables/exos_var38.md) (video) *(EXOS 2.1 та вище)*  
 39 [RANDOM_IRQ](exos-variables/exos_var39.md) (system) *(EXOS 2.1 та вище)*  
 

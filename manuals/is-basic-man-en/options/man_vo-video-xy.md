@@ -9,3 +9,7 @@ Defines the horizontal size of video pages subsequently to be opened. (Channel n
 `SET VIDEO Y expr`
 
 As above, only defines the vertical size of the page as a number of character-rows in the range **1**-**255**.
+
+----
+
+See also: [EXOS VAR 24 - X_SIZ_VID](exos_var24.md), [EXOS VAR 25 - Y_SIZ_VID](exos_var25.md)

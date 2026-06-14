@@ -12,3 +12,7 @@ Parameter values are as follows:
 |  2   | 80-column text page (4 colour-pairs) |
 |  5   | low resolution graphics page         |
 |  15  | 'attribute' graphics screen          |
+
+----
+
+See also [VIDEO COLOUR](man_vo-video-col.md), [EXOS VAR 22](../../../programming/system-info/exos-variables/exos_var22.md)

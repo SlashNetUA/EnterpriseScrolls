@@ -5,7 +5,8 @@
 `TOGGLE 26` - inverts value.
 
 **0**: Status line visible (default).  
-**255** (**≠0**): Hidden status line.
+**255** (**≠0**): Hidden status line.  
+**42**: Show `Written by: Mrl BT NMV GNH CGE AEL` easter egg.
 
 Memory address: **49119**
 
