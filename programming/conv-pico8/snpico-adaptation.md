@@ -1,4 +1,4 @@
-# Адаптація програм Pico-8
+# Адаптація програм Pico-8 у [HiSoft Pascal](../hisoft-pascal.md)
 [Скорочена інформація по функціям Pico-8](https://iiviigames.github.io/pico8-api/)
 
 [Перелік функцій Pico-8](https://www.lexaloffle.com/bbs/files/16585/PICO-8_CheatSheet_0111Gm_4k.png)

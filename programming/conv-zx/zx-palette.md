@@ -19,7 +19,7 @@
 [Деякі поради щодо підбору палітри при портуванні програм зі Спектруму](https://ep128.hu/Ep_Konyv/Sp-Ep_konvertalas.htm#m)
 
 
-### SPEmu / SPEmu128 colours palette
+### [SPEmu / SPEmu128](../../software/se-spemu.md) colours palette
 
 **0**-**7**: palette colours  
 **8**-**15**: BIAS colours (Nick I/O BIAS=**24**)
@@ -34,7 +34,7 @@
 |                                192                                |                                193                                |                                194                                |                                195                                |                                196                                |                                197                                |                                198                                |                                199                                |
 | ![#242400](https://dummyimage.com/40x20/242400/000000.png&text=+) | ![#B62400](https://dummyimage.com/40x20/B62400/000000.png&text=+) | ![#24B600](https://dummyimage.com/40x20/24B600/000000.png&text=+) | ![#B6B600](https://dummyimage.com/40x20/B6B600/000000.png&text=+) | ![#2424AA](https://dummyimage.com/40x20/2424AA/000000.png&text=+) | ![#B624AA](https://dummyimage.com/40x20/B624AA/000000.png&text=+) | ![#24B6AA](https://dummyimage.com/40x20/24B6AA/000000.png&text=+) | ![#B6B6AA](https://dummyimage.com/40x20/B6B6AA/000000.png&text=+) |
 
-### SP2 colours palette
+### [SP2](../../software/se-sp2.md) colours palette
 
 **0**-**7**: palette colours  
 **8**-**15**: BIAS colours (Nick I/O BIAS=**7**)
