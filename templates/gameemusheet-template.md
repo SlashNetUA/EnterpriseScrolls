@@ -105,6 +105,6 @@
 📅 Дата релізу: 23.10.2020
 
 ### Версія гри для Enterprise
-👨‍💻 Портування: [Geco](../../community/geco.md)  
-👨‍💻 Додаткові рівні та музика: [Szipucsu](../../community/szipucsu.md)  
+👨‍💻 Портування: [Geco](../peoples/community/geco.md)  
+👨‍💻 Додаткові рівні та музика: [Szipucsu](../peoples/community/szipucsu.md)  
 📅 Рік релізу: 2024

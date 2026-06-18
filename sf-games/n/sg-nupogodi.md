@@ -50,6 +50,6 @@
 
 ## Автори
 ### Версія гри для Enterprise
-👨‍💻 Код: [Geco](../../community/geco.md)  
+👨‍💻 Код: [Geco](../../peoples/community/geco.md)  
 👨‍💻 Графіка: Musaic  
 📅 Рік релізу: [2025](../release_years/2025.md)

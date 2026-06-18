@@ -14,9 +14,9 @@ MFM HDD Interface
 
 ### Сучасні 
 
-ZOZOtool by [kvaczko](../community/kvaczko.md)  
+ZOZOtool by [kvaczko](../peoples/community/kvaczko.md)  
 EXDOS Floppy Controller by Wilco2009  
-EXDOS Floppy Disk Controller by [Pear](../community/pear.md)  
+EXDOS Floppy Disk Controller by [Pear](../peoples/community/pear.md)  
 Dual Floppy Drive by Attila Nagy  
 
 ### Класичні

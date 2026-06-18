@@ -47,9 +47,9 @@
 ## Автори
 ### Оригінальний реліз
 🖥 Платформа: [Videoton TVC](http://tvc.hu/html/k.html)  
-👨‍💻 Програмісти: [Kis Róbert (AnyStone Games)](../../community/anystone.md)  
+👨‍💻 Програмісти: [Kis Róbert (AnyStone Games)](../../peoples/community/anystone.md)  
 📅 Рік релізу: 2022  
 
 ### Версія гри для Enterprise
-👨‍💻 Портування: [Kis Róbert (AnyStone Games)](../../community/anystone.md)  
+👨‍💻 Портування: [Kis Róbert (AnyStone Games)](../../peoples/community/anystone.md)  
 📅 Рік релізу: [2025](../release_years/2025.md)  

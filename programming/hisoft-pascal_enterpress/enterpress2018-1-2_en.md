@@ -1,6 +1,6 @@
 # The mysteries of HiSoft Pascal
 
-Written by [Zoltán Povázsay (Povi)](../../community/povi.md)  
+Written by [Zoltán Povázsay (Povi)](../../peoples/community/povi.md)  
 Published in [Enterpress 2018 \#1-2](http://enterprise.iko.hu/magazines/Enterpress_2018_per_1-2_UK.pdf#page=10)  
 
 Let’s start this article with a riddle: What does the following program say? 

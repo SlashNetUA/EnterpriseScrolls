@@ -89,5 +89,5 @@
 📅 Рік релізу: 2021  
 
 ### Версія гри для Enterprise
-👨‍💻 Портування: [Geco](../../community/geco.md)    
+👨‍💻 Портування: [Geco](../../peoples/community/geco.md)    
 📅 Рік релізу: [2023](../release_years/2023.md)  

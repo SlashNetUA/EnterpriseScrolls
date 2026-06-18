@@ -49,5 +49,5 @@
 📅 Рік релізу: 2024  
 
 ### Версія гри для Enterprise
-👨‍💻 Портування: [Povi](../../community/povi.md)  
+👨‍💻 Портування: [Povi](../../peoples/community/povi.md)  
 📅 Рік релізу: [2024](../release_years/2024.md)

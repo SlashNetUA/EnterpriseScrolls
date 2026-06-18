@@ -30,3 +30,4 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 [Редактор спрайтів].
 
+[Програмування](../programming/2dfx-programming.md)

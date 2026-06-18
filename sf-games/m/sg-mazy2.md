@@ -42,5 +42,5 @@
 🏡 [Домашня сторінка гри](http://inufuto.web.fc2.com/8bit/mazy2/#ep64)
 
 ## Автори
-👨‍💻 Розробник: [Inufuto](../../community/inufuto.md)  
+👨‍💻 Розробник: [Inufuto](../../peoples/community/inufuto.md)  
 📅 Рік релізу: [2025](../release_years/2025.md)  

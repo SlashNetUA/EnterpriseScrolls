@@ -73,7 +73,7 @@
 <img src="scrn_exos22-testscreen.png" width="45%"> 
 <img src="scrn_exos21-startscreen.png" width="45%"> 
 
-Створено: [ZozoSoft](../../community/zozosoft.md) та **Apuci**.  
+Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та **Apuci**.  
 Рік: **1992**  
 
 Є модифікацією офіційної версії **2.1**. Одним з головних нововведень цієї версії є швидкий тест оперативної пам'яті, який працює суттєво швидше, ніж стандартний. Раніше користувачі систем із розширенням ОЗП (200-300 КБ і більше) стикалися з тривалим очікуванням завершення процедури тестування пам'яті, яку неможливо було перервати.
@@ -84,7 +84,7 @@
 <img src="scrn_exos23-testscreen.png" width="45%"> 
 <img src="scrn_exos21-startscreen.png" width="45%"> 
 
-Створено: [ZozoSoft](../../community/zozosoft.md) та **Apuci**.  
+Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та **Apuci**.  
 Рік: **1993**  
 
 ## v 2.31 (unofficial)
@@ -92,7 +92,7 @@
 <img src="scrn_exos231-testscreen.png" width="45%"> 
 <img src="scrn_exos21-startscreen.png" width="45%"> 
 
-Створено: [ZozoSoft](../../community/zozosoft.md) та **Apuci**.  
+Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та **Apuci**.  
 Рік: **2008**  
 
 Версія з екраном тестування на різних мовах (EN, ES, HU) .
@@ -102,7 +102,7 @@
 <img src="scrn_exos232-testscreen.png" width="45%"> 
 <img src="scrn_exos21-startscreen.png" width="45%"> 
 
-Створено: [ZozoSoft](../../community/zozosoft.md) та **Apuci**.  
+Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та **Apuci**.  
 Рік: **2010**  
 
 Версія з екраном тестування на різних мовах (EN, ES, HU) .
@@ -113,7 +113,7 @@
 <img src="scrn_exos24-testscreen.png" width="45%"> 
 <img src="scrn_exos21-startscreen.png" width="45%"> 
 
-Створено: [ZozoSoft](../../community/zozosoft.md) та **Apuci**.  
+Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та **Apuci**.  
 Рік: **2014**  
 
 ### Керування перезапуском та тестом пам'яті

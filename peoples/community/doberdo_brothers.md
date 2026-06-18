@@ -7,8 +7,8 @@ Sáránszki Mihály
 
 # Програмне забезпечення
 [PuckMan]()  
-[Monty on the Run](../sf-games/m/sg-montyontherun.md)  
-[Fitter](../sf-games/f/sg-fitter.md)  
+[Monty on the Run](../../sf-games/m/sg-montyontherun.md)  
+[Fitter](../../sf-games/f/sg-fitter.md)  
 
 
 

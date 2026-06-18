@@ -71,4 +71,33 @@ Palette: 0,224,232,17,199,75,230,255
 BIAS: 88
 ```
 
+альтернативний варіант (проблема з блакитним та темносинім)
+
+
+|  №  |     RGB-код     |                          Колір<br>Pico-8                          |                            Колір<br>EP                            |       RGB       | Номер палітри<br>(глобальний) | Номер палітри<br>(локальний) |
+|:---:|:---------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:---------------:|:-----------------------------:|:----------------------------:|
+|  0  |    (2, 4, 8)    | ![#020408](https://dummyimage.com/40x40/020408/000000.png&text=+) | ![#000000](https://dummyimage.com/40x40/000000/000000.png&text=+) |    (0, 0, 0)    |               0               |              0               |
+|  1  |  (29, 43, 83)   | ![#1D2B53](https://dummyimage.com/40x40/1D2B53/000000.png&text=+) | ![#4949AA](https://dummyimage.com/40x40/4949AA/000000.png&text=+) |  (73, 73, 170)  |         28 (BIAS 24)          |              12              |
+|  2  |  (126, 37, 83)  | ![#7E2553](https://dummyimage.com/40x40/7E2553/000000.png&text=+) | ![#6D2455](https://dummyimage.com/40x40/6D2455/000000.png&text=+) |  (109, 36, 85)  |              232              |              1               |
+|  3  |  (0, 135, 81)   | ![#008751](https://dummyimage.com/40x40/008751/000000.png&text=+) | ![#009255](https://dummyimage.com/40x40/009255/000000.png&text=+) |  (0, 146, 85)   |              34               |              3               |
+|  4  |  (171, 82, 54)  | ![#AB5236](https://dummyimage.com/40x40/AB5236/000000.png&text=+) | ![#DB4900](https://dummyimage.com/40x40/DB4900/000000.png&text=+) |  (219, 73, 0)   |         25 (BIAS 24)          |              9               |
+|  5  |  (95, 87, 79)   | ![#5F574F](https://dummyimage.com/40x40/5F574F/000000.png&text=+) | ![#494900](https://dummyimage.com/40x40/494900/000000.png&text=+) |   (73, 73, 0)   |         24 (BIAS 24)          |              8               |
+|  6  | (194, 195, 199) | ![#C2C3C7](https://dummyimage.com/40x40/C2C3C7/000000.png&text=+) | ![#B6B6AA](https://dummyimage.com/40x40/B6B6AA/000000.png&text=+) | (182, 182, 170) |              199              |              6               |
+|  7  | (255, 241, 232) | ![#FFF1E8](https://dummyimage.com/40x40/FFF1E8/000000.png&text=+) | ![#FFFFFF](https://dummyimage.com/40x40/FFFFFF/000000.png&text=+) | (255, 255, 255) |              255              |              7               |
+|  8  |  (255, 0, 77)   | ![#FF004D](https://dummyimage.com/40x40/FF004D/000000.png&text=+) | ![#FF0055](https://dummyimage.com/40x40/FF0055/000000.png&text=+) |  (255, 0, 85)   |              105              |              4               |
+|  9  |  (255, 163, 0)  | ![#FFA300](https://dummyimage.com/40x40/FFA300/000000.png&text=+) | ![#FF9200](https://dummyimage.com/40x40/FF9200/000000.png&text=+) |  (255, 146, 0)  |              75               |              2               |
+| 10  | (255, 236, 39)  | ![#FFEC27](https://dummyimage.com/40x40/FFEC27/000000.png&text=+) | ![#DBDB00](https://dummyimage.com/40x40/DBDB00/000000.png&text=+) |  (219, 219, 0)  |         27 (BIAS 24)          |              11              |
+| 11  |  (0, 228, 54)   | ![#00E436](https://dummyimage.com/40x40/00E436/000000.png&text=+) | ![#49DB00](https://dummyimage.com/40x40/49DB00/000000.png&text=+) |  (73, 219, 0)   |         26 (BIAS 24)          |              10              |
+| 12  | (41, 173, 255)  | ![#29ADFF](https://dummyimage.com/40x40/29ADFF/000000.png&text=+) | ![#49DBAA](https://dummyimage.com/40x40/49DBAA/000000.png&text=+) | (73, 219, 170)  |         30 (BIAS 24)          |              14              |
+| 13  | (131, 118, 156) | ![#83769C](https://dummyimage.com/40x40/83769C/000000.png&text=+) | ![#9292AA](https://dummyimage.com/40x40/9292AA/000000.png&text=+) | (146, 146, 170) |               7               |              5               |
+| 14  | (255, 119, 168) | ![#FF77A8](https://dummyimage.com/40x40/FF77A8/000000.png&text=+) | ![#DB49AA](https://dummyimage.com/40x40/DB49AA/000000.png&text=+) | (219, 73, 170)  |         29 (BIAS 24)          |              13              |
+| 15  | (255, 204, 170) | ![#FFCCAA](https://dummyimage.com/40x40/FFCCAA/000000.png&text=+) | ![#DBDBAA](https://dummyimage.com/40x40/DBDBAA/000000.png&text=+) | (219, 219, 170) |         31 (BIAS 24)          |              15              |
+
+```
+Palette: 0,232,75,34,105,7,199,255
+BIAS: 24
+```
+
+
+
 Але якщо у грі Pico-8 деякі кольори не використовуються, то можна підібрати BIAS у який попадуть найменш важливі кольори. А важливі розмістити у місцях 0-7.

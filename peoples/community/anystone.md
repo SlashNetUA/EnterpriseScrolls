@@ -6,5 +6,5 @@ Kis Róbert
 [Youtube](https://www.youtube.com/@AnyStoneGames)  
 
 # Програмне забезпечення
-[Kondi Krush!](../sf-games/k/sg-kondikrush.md)  
-[Prison Break](../sf-games/p/sg-prisonbreak.md)  
+[Kondi Krush!](../../sf-games/k/sg-kondikrush.md)  
+[Prison Break](../../sf-games/p/sg-prisonbreak.md)  

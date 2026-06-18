@@ -4,7 +4,7 @@ http://ep128.hu/Ep_Util/SPEmu.htm
 
 Емулятор комп'ютерів **Sinclair ZX Spectrum 48/128**.
 
-Автор: [Geco](../community/geco.md)
+Автор: [Geco](../peoples/community/geco.md)
 
 Підтримка форматів для завантаження:
  - аудіовхід (у форматі стандартного сигналу для ZX Spectrum) 

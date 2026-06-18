@@ -26,7 +26,7 @@
 
 ## Розширення команд Бейсіка
 
-### BoxSoft extensions (також інтегровані у картрідж Enterprise Plus)
+### BoxSoft extensions (також інтегровані у картрідж [Enterprise Plus](../hardware/cartridge/hc-enterprise-plus.md))
  - BASX_A (асемблер)
  - BASX_C (робота з символами)
  - BASX_G (загальні функції)

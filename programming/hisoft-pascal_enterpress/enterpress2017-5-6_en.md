@@ -1,6 +1,6 @@
 # File management in Pascal
 
-Written by [Zoltán Povázsay (Povi)](../../community/povi.md)  
+Written by [Zoltán Povázsay (Povi)](../../peoples/community/povi.md)  
 Published in [Enterpress 2017 \#5-6](http://enterprise.iko.hu/magazines/Enterpress_2017_per_5-6_UK.pdf#page=8)  
 
 HiSoft Pascal does not recognize file types. But there are two non-standard procedures for managing files, which we can use(with some limitations) to perform simple file operations: 

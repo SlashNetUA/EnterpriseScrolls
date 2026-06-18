@@ -1,6 +1,6 @@
 # HiSoft Pascal
 
-Written by [Zoltán Povázsay (Povi)](../../community/povi.md)  
+Written by [Zoltán Povázsay (Povi)](../../peoples/community/povi.md)  
 Published in [Enterpress 2017 \#2-3](http://enterprise.iko.hu/magazines/Enterpress_2017_per_2-3_UK.pdf#page=10)  
 
 In the first three years of the Enterpress magazine (1990-92), a [12-part series of articles](http://www.ep128.hu/Ep_Konyv/Enterpress_Pascal.htm) featured the Pascal language from the pen of László Ujlaki. The primary target audience of the publication were Enterprise users who knew well IS-BASIC and were enough „skilled”. The speed of BASIC limits the writing of „more serious” programs, and one of the biggest shortcomings of the [ZZZIP Basic compiler](../zzzip-compiler.md) is that it does not accept floating point numbers.  
@@ -25,7 +25,7 @@ As mentioned above, the Enterprise version exploits the possibilities of [EXOS](
 
 ![](Enterpress_2017_per_2-3_UK-026.png)
 
-Although the last official version **1.1** of Hisoft Pascal is a very powerful tool, enhanced version **1.2** from [PovySoft](../../community/povi.md) contains useful modifications and improvements:
+Although the last official version **1.1** of Hisoft Pascal is a very powerful tool, enhanced version **1.2** from [PovySoft](../../peoples/community/povi.md) contains useful modifications and improvements:
 
 Now the system starts on an 80-character screen mode instead of only 40. Has been corrected a bug that appeared when in a program a row of numbers is followed by 13 spaces. The source code now can be also written in lowercase (for better readability). However, after the input, the commands are stored tokenized in the memory and displayed as capitalized on the program listing. It no more writes spaces after the numbers, matching Turbo Pascal. The [PAGE](../../manuals/hisoft-pascal-man-en/man_s2-4-1-page.md) procedure has been fixed: **CHR (26)** is sent to the screen and **CHR (12)** is sent to the printer. The **EXOS** calls are now converted to a procedure (see below).  
 Three new functions and three new procedures have been implemented.

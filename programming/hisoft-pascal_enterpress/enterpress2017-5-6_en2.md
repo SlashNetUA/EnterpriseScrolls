@@ -1,6 +1,6 @@
 # Implementing string management functions
 
-Written by: [Kiss László (Lacika)](../../community/lacika.md)  
+Written by: [Kiss László (Lacika)](../../peoples/community/lacika.md)  
 Published in [Enterpress 2017 \#5-6](http://enterprise.iko.hu/magazines/Enterpress_2017_per_5-6_UK.pdf#page=9)  
 
 In Pascal, therefore, a string of characters always stores the same number of characters, and this is settled when you specify the type of index when defining the type. If you want, for example, to use a string whose length varies during the program run, the following defining type is recommended: 
