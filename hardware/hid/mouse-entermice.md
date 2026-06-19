@@ -1,6 +1,6 @@
 Сучасний інтерфейс для підключення PS/2 миші та/або джойстиків.
 
-[pear](../peoples/community/pear.md)
+[pear](../../peoples/community/pear.md)
 
 # Посилання на зовнішні ресурси
 

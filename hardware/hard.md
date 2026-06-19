@@ -23,12 +23,12 @@ CBM Multi File Transfer
 
 ## Мишки
 ### Сучасні
-[EnterMice Adapter](mouse-entermice.md)  
+[EnterMice Adapter](hid/mouse-entermice.md)  
 
 ### Класичні
-[Enterprise Mouse](mouse-epmouse.md)  
-[BoxSoft Mouse](mouse-boxsoft.md)  
-[Serial Mouse](mouse-serial.md)  
+[Enterprise Mouse](hid/mouse-epmouse.md)  
+[BoxSoft Mouse](hid/mouse-boxsoft.md)  
+[Serial Mouse](hid/mouse-serial.md)  
 
 ## Інше
 Графічний планшет  
@@ -38,12 +38,13 @@ CBM Multi File Transfer
 SID-card  
 HDIGI  
 SpeakEasy (синтез мовлення)  
+[hs-msx-se-one](sound/hs-msx-se-one.md)  
 
 ## MIDI-інтерфейс
 
 MIDI Cartridge  
 MIDI Card  
-RSF3
+[RSF3](he-rsf3.md)
 
 # Відеопристрої
 
@@ -85,8 +86,8 @@ Bus Bridge
 
 # Універсальні пристрої
 
-Symbiface 3  
-RSF3  
+[SymbiFace III](he-sf3.md)  
+[RSF III](he-rsf3.md)  
 
 # Розпіновки та інтерфейсні кабелі
 

@@ -26,7 +26,7 @@ http://ep128.hu/Ep_Util/SPEmu.htm
  - Cursor Joystick: [Internal Joystick](../sf-games/controllers.md)
  - Sinclair Joystick 1: [External Joystick 1](../sf-games/controllers.md)
  - Sinclair Joystick 2: [External Joystick 2](../sf-games/controllers.md)
- - Kempston Mouse: [EnterMice](../hardware/mouse-entermice.md) чи [BoxSoft Mouse](../hardware/mouse-boxsoft.md) (тільки у **SPEmu128**)
+ - Kempston Mouse: [EnterMice](../hardware/hid/mouse-entermice.md) чи [BoxSoft Mouse](../hardware/hid/mouse-boxsoft.md) (тільки у **SPEmu128**)
 
 |                         SPEmu                          |                         SPEmu128                          |
 |:------------------------------------------------------:|:---------------------------------------------------------:|
@@ -38,7 +38,7 @@ http://ep128.hu/Ep_Util/SPEmu.htm
 | SPEmu                                                                                                     | SPEmu128                                                                                                                                                                                                    |
 |:--------------------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Мінімальні системні вимоги:* <br>RAM: **128 KB** (**112 KB** для ROM-версії)                             | *Мінімальні системні вимоги:* <br>RAM: **240 KB** (**176 KB** для ROM-версії)                                                                                                                               |
-| *Рекомендовані системні вимоги:* <br>RAM: **176 KB** (**160 KB** для ROM-версії) <br>[EXDOS](ss-exdos.md) | *Рекомендовані системні вимоги:* <br>RAM: **368 KB** (**304 KB** для ROM-версії) <br>[EXDOS](ss-exdos.md) <br>[EnterMice](../hardware/mouse-entermice.md) або [BoxSoft Mouse](../hardware/mouse-boxsoft.md) |
+| *Рекомендовані системні вимоги:* <br>RAM: **176 KB** (**160 KB** для ROM-версії) <br>[EXDOS](ss-exdos.md) | *Рекомендовані системні вимоги:* <br>RAM: **368 KB** (**304 KB** для ROM-версії) <br>[EXDOS](ss-exdos.md) <br>[EnterMice](../hardware/hid/mouse-entermice.md) або [BoxSoft Mouse](../hardware/hid/mouse-boxsoft.md) |
 
 
 ## Гарячі клавіши (на екрані емуляції):

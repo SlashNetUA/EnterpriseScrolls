@@ -1,6 +1,6 @@
 # Elec & Eltek
 
-![](pics/elec-and-eltek-logo.jpg)
+![](pics/logo_elec-and-eltek.jpg)
 
 [https://www.eleceltek.com](https://www.eleceltek.com)
 

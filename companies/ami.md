@@ -1,6 +1,6 @@
 # AMI
 
-![](pics/ami-austria.png)
+![](pics/logo_ami-austria.png)
 
 https://en.wikipedia.org/wiki/AMS-Osram
 
@@ -14,4 +14,4 @@ https://en.wikipedia.org/wiki/AMS-Osram
 
 ---- 
 
-![](pics/ami-usa.png)
+![](pics/logo_ami-usa.png)

@@ -3,6 +3,11 @@
 <img src="../software/releases/covr_is-basic.png" height="288"> 
 <img src="../software/screenshots/scrn_is-basic_01.png" height="288"> 
 
+Розробник: [Intelligent Software Ltd.](../companies/intelligent-sofware-ltd.md)  
+Автори: [Bruce Tanner](../peoples/ec/pers_bruce-tanner.md) та [Mike Johnson](../peoples/ec/pers_mike-johnson.md) (рання версія написана на С) 
+
+----
+
 [IS-Basic Programming Manual](../manuals/pr-is-basic-manual-en.md)  
 
  - [список операторів](../manuals/is-basic-man-en/man_3-commands.md)

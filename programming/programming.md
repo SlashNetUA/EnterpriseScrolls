@@ -2,6 +2,8 @@
 
 [Технічна інформація по платформі](additional-info.md)
 
+[Короткий опис платформи](http://ep.lgb.hu/epdesc.txt)
+
 ----
 
 [IS-Basic](is-basic.md)

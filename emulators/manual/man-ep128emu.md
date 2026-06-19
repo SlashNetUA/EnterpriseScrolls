@@ -34,7 +34,7 @@
  - [Spectrum emulator card](../../hardware/he-zxemu.md) emulation
  - real time clock (at ports 7E, 7F)
  - external 4-channel 8-bit DAC at ports F0 to F3
- - mouse emulation, an [EnterMice](../../hardware/mouse-entermice.md) device with up to **5** buttons and mouse wheel is emulated in native mode on column **K** of the keyboard matrix
+ - mouse emulation, an [EnterMice](../../hardware/hid/mouse-entermice.md) device with up to **5** buttons and mouse wheel is emulated in native mode on column **K** of the keyboard matrix
  - [SD card](../../hardware/hd-sd-card-adapter.md) (SDEXT) emulation, this is an experimental feature based on
     code from LGB's [Xep128](../em-xemu.md) emulator
  - SID card emulation at ports 0E (address) and 0F (data) using reSID 1.0; NOTE: this currently breaks the external DAC emulation when active

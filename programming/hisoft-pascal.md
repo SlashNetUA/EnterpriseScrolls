@@ -2,6 +2,10 @@
 
 <img src="../software/screenshots/scrn_hisoft-pascal-12_01.png" height="288"> 
 
+Розробник: [HiSoft](../companies/hisoft-systems.md)
+
+----
+
 [HiSoft Pascal Manual](../manuals/pr-hisoft-pascal-manual-en.md) (EN)  
 [Hisoft Pascal Felhasználói kézikönyv](http://ep128.hu/Ep_Util/Hisoft_Pascal.htm) (HU)  
 
@@ -11,8 +15,7 @@
 
 [Особливості компілятора](../manuals/hisoft-pascal-man-en/add_particulars.md)  
 
-[Enterprise Wiki](https://wiki.enterpriseforever.com/index.php?title=HiSoft_Pascal) (HU)  
-Сторінка на Enterprise Wiki
+[Enterprise Wiki](https://wiki.enterpriseforever.com/index.php?title=HiSoft_Pascal) (HU) Сторінка на Enterprise Wiki
 
 ### Додаткові бібліотеки
 [GRAPH16](hisoft-pascal-hpu/graph16.hpu.md) – 16-колірний графічний режим, робота із спрайтами та мишою.  
