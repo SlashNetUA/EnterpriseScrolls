@@ -2,7 +2,7 @@
 
 ## Питання та відповіді з Вернером Лінднером
 
-Наступні сторінки містять переклад листування з [Вернером Лінднером](../peoples/ec/pers_werner-lindner.md) на форумі [enterpriseforever.com](http://enterpriseforever.com/hall-of-fame/qa-with-werner-lindner-technical-director-of-the-enterprise-computers-gmbh/) у 2015 році.
+Наступні сторінки містять переклад листування з [Вернером Лінднером](../peoples/ec-de/pers_werner-lindner.md) на форумі [enterpriseforever.com](http://enterpriseforever.com/hall-of-fame/qa-with-werner-lindner-technical-director-of-the-enterprise-computers-gmbh/) у 2015 році.
 
 Вернер розповідає про свою роботу в компанії [Enterprise Computers GmbH](../../companies/enterprise-computers-gmbh.md) і робить огляд різноманітного обладнання для Enterprise, прототипів і програмного забезпечення, про які існували лише чутки та домисли.
 

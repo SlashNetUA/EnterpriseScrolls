@@ -95,7 +95,7 @@
 
 > **Werner Lindner**: Модуль розширення (Expansion Unit):
 > 
-> Планувався, але ніколи не випускався серійно. Ймовірно, це був лише прототип для тестування шини розширення під повним навантаженням. Креслень корпусу для нього немає. Цей юніт дуже схожий на різноманітні концепції розширення з Данії, Німеччини та Угорщини, і в ньому використовуються оригінальні ножові роз'єми (edge-connectors) на платах розширення. Існуючий [міст системної шини](../hardware/hb-bus-bridge.md) є найменшим з можливих варіантів цієї системи.
+> Планувався, але ніколи не випускався серійно. Ймовірно, це був лише прототип для тестування шини розширення під повним навантаженням. Креслень корпусу для нього немає. Цей юніт дуже схожий на різноманітні концепції розширення з Данії, Німеччини та Угорщини, і в ньому використовуються оригінальні ножові роз'єми (edge-connectors) на платах розширення. Існуючий [міст системної шини](../hardware/system-bus/hb-bus-bridge.md) є найменшим з можливих варіантів цієї системи.
 > 
 > Важливо: цей модуль відрізняється від того, на який у мене є детальні конструкторські креслення. Той, інший, мав концепцію з двома дисководами FDD/EXDOS та блоком живлення, що розташовувалися поруч із комп'ютером, а далі йшла система модулів, які можна було ставити один на один (максимум чотири) з правого боку від FDD. Цей модуль показаний на одному з ранніх англійських рекламних проспектів (який я все ще шукаю у своїх архівах). Він має чудовий вигляд і типовий для ENTERPRISE дизайн. Але я думаю, що він був занадто дорогим для виробництва. З іншого боку, система від [IS](../companies/intelligent-sofware-ltd.md) була аж надто великою, щоб підключати її з правого боку комп'ютера, тому її також ніколи не випускали.
 
@@ -166,11 +166,11 @@
 
 [(оригінал повідомлення)](https://enterpriseforever.com/hall-of-fame/qa-with-werner-lindner-technical-director-of-the-enterprise-computers-gmbh/msg46750/#msg46750)
 
-> **Werner Lindner**: Ідея створення системи розширення для Enterprise з'явилась в мене ще у 1986 році, коли я розробив [власний EXDOS-контролер](../hardware/exdos/hd-exdos-w-lindner.md). Я був не в захваті від ножових роз'ємів (edge connectors) комп'ютера Enterprise. Особливо роз'єм розширення з його 66 виводами — він був занадто великим, занадто специфічним, занадто дорогим і не дуже надійним з механічної та електричної точок зору. І найбільша проблема: він уже був зайнятий [мостом системної шини](../hardware/hb-bus-bridge.md)  та оригінальним [контролером EXDOS](../hardware/hd-exdos.md).
+> **Werner Lindner**: Ідея створення системи розширення для Enterprise з'явилась в мене ще у 1986 році, коли я розробив [власний EXDOS-контролер](../hardware/exdos/hd-exdos-w-lindner.md). Я був не в захваті від ножових роз'ємів (edge connectors) комп'ютера Enterprise. Особливо роз'єм розширення з його 66 виводами — він був занадто великим, занадто специфічним, занадто дорогим і не дуже надійним з механічної та електричної точок зору. І найбільша проблема: він уже був зайнятий [мостом системної шини](../hardware/system-bus/hb-bus-bridge.md)  та оригінальним [контролером EXDOS](../hardware/hd-exdos.md).
 > 
-> Не знаючи нічого про систему розширення від [IS](../companies/intelligent-sofware-ltd.md)/[EC UK](../companies/enterprise-computers-ltd.md), ми з моїм другом [Міхаелем Леопольдседером](../peoples/pers-michael-leopoldseder.md) вирішили створити власну невелику систему розширення на базі роз'ємів DIN 41612. Вони були (і залишаються) дешевими, надійними та механічно стабільними. Крім того, вони мають 64 виводи, що майже збігається з кількістю контактів системної шини Enterprise. Ба більше, у продажу є безліч макетних плат (гетинаксових та з текстоліту FR4), які вже мають монтажні отвори та мідні контактні майданчики під ці роз'єми. Робити прототипи для такої системи дуже легко, а фінальні плати виходять дуже міцними й можуть використовуватися роками, як і повноцінні фабричні друковані плати.
+> Не знаючи нічого про систему розширення від [IS](../companies/intelligent-sofware-ltd.md)/[EC UK](../companies/enterprise-computers-ltd.md), ми з моїм другом [Міхаелем Леопольдседером](../peoples/ec-de/pers-michael-leopoldseder.md) вирішили створити власну невелику систему розширення на базі роз'ємів DIN 41612. Вони були (і залишаються) дешевими, надійними та механічно стабільними. Крім того, вони мають 64 виводи, що майже збігається з кількістю контактів системної шини Enterprise. Ба більше, у продажу є безліч макетних плат (гетинаксових та з текстоліту FR4), які вже мають монтажні отвори та мідні контактні майданчики під ці роз'єми. Робити прототипи для такої системи дуже легко, а фінальні плати виходять дуже міцними й можуть використовуватися роками, як і повноцінні фабричні друковані плати.
 > 
-> Ми розробили концепцію буферизації шини й знайшли дуже дешевий спосіб керування сигналом `/EXP` (ми зробили це за допомогою звичайного діода: спочатку 1N4148, а пізніше BAT46 через менше падіння напруги), який підключався до сигналу `/RD` плати. Ми прибрали всі сигнальні лінії, які могли б створювати перешкоди на шині (ніяких аналогових сигналів, ніякого аудіо/відео тощо), а все інше забуферизували в одному або двох напрямках. Усі слоти на шині мали однакову схему розведення, тобто ми не робили жодного попереднього декодування для конкретних слотів, пам'яті чи адресного простору. Це означає, що плати розширення для цієї системи повинні самостійно виконувати правильне й повне декодування всіх портів введення-виведення (I/O) та всіх адресних ліній, але це лише незначний недолік порівняно з системою, яка взагалі не має обмежень. Ми придумали назву "[MINIBUS](../hardware/hb-minibus.md)" для меншої версії, яка підключається безпосередньо до порту розширення комп'ютера. Після завершення роботи над [моїм EXDOS-контролером](../hardware/exdos/hd-exdos-w-lindner.md) ми обидва використовували цю систему вдома, і вона слугувала стабільною платформою для майбутніх апаратних розширень (наприклад, [інтерфейсу жорсткого диска](../hardware/exdos/hd-exdos-hdd-mfm.md)). Я зробив другу версію адаптера MINIBUS із роз'ємом DIN-VG, який був припаяний безпосередньо до моєї тестової машини. Я встановив на машину додатковий стабілізатор на 5 В, щоб живити a4/b4 напряму, і зібрав схему на 8 МГц для підтримки EXDOS-контролера на машині з частотою 6 МГц. Вона була взята з [материнської плати 911](../hardware/hm-911.md) (зроблено на швидку руку).
+> Ми розробили концепцію буферизації шини й знайшли дуже дешевий спосіб керування сигналом `/EXP` (ми зробили це за допомогою звичайного діода: спочатку 1N4148, а пізніше BAT46 через менше падіння напруги), який підключався до сигналу `/RD` плати. Ми прибрали всі сигнальні лінії, які могли б створювати перешкоди на шині (ніяких аналогових сигналів, ніякого аудіо/відео тощо), а все інше забуферизували в одному або двох напрямках. Усі слоти на шині мали однакову схему розведення, тобто ми не робили жодного попереднього декодування для конкретних слотів, пам'яті чи адресного простору. Це означає, що плати розширення для цієї системи повинні самостійно виконувати правильне й повне декодування всіх портів введення-виведення (I/O) та всіх адресних ліній, але це лише незначний недолік порівняно з системою, яка взагалі не має обмежень. Ми придумали назву "[MINIBUS](../hardware/system-bus/hb-minibus.md)" для меншої версії, яка підключається безпосередньо до порту розширення комп'ютера. Після завершення роботи над [моїм EXDOS-контролером](../hardware/exdos/hd-exdos-w-lindner.md) ми обидва використовували цю систему вдома, і вона слугувала стабільною платформою для майбутніх апаратних розширень (наприклад, [інтерфейсу жорсткого диска](../hardware/exdos/hd-exdos-hdd-mfm.md)). Я зробив другу версію адаптера MINIBUS із роз'ємом DIN-VG, який був припаяний безпосередньо до моєї тестової машини. Я встановив на машину додатковий стабілізатор на 5 В, щоб живити a4/b4 напряму, і зібрав схему на 8 МГц для підтримки EXDOS-контролера на машині з частотою 6 МГц. Вона була взята з [материнської плати 911](../hardware/hm-911.md) (зроблено на швидку руку).
 > 
 > Пізніше я створив модульну систему шини розширення материнської плати (Motherboard-Extension-Bus-System). Вона складалася з двох плат: одна (комп'ютерний інтерфейс) поміщалася в корпус EXDOS і використовувала міст системної шини (System-Bus-Bridge) для підключення до ENTERPRISE. Інша сторона (інтерфейс шини) використовувала друковану плату формату європлати (160х100 мм) і встановлювалася в стандартний 19-дюймовий корпус із 64-контактним крос-плейном (backplane) у якості шинної системи. Корпус містив блок живлення на 5/12 В, потужності якого вистачало для живлення жорсткого диска. На жаль, зберігся лише комп'ютерний інтерфейс. Свій 19-дюймовий корпус я віддав іншому користувачеві ENTERPRISE, плануючи зробити новий, повністю професійний на вигляд, але так і не довів це до кінця. У мене залишився тільки корпус із встановленим крос-плейном для нього, і більше нічого. Але в принципі я міг би доробити його, щоб мати повну систему. Спеціального розширення пам'яті для цієї системи я ніколи не робив (навіть не питайте чому).
 > 
@@ -178,28 +178,28 @@
 
 **Zozosoft**: Ви розробили все це нічого не знаючи про систему розширення з [Intelligent Software](../companies/intelligent-sofware-ltd.md)/[Enterprise Computers UK](../companies/enterprise-computers-ltd.md) і без отриманих від них всіх схем?
 
-> **Werner Lindner**: Плани створення невеликої системи розширення народилися разом із [моїм EXDOS-контролером](../hardware/exdos/hd-exdos-w-lindner.md). Це було у 1986 році, і все було готово ще до того, як я вийшов на прямий контакт із [EC GmbH](../companies/enterprise-computers-gmbh.md). Тому на той час я мав лише повний комплект принципових схем самого комп'ютера та контролера EXDOS, і нічого більше. Контролер EXDOS став моєю "перепусткою" в [EC GmbH](../companies/enterprise-computers-gmbh.md), оскільки я показав цей контролер і свою шинну систему своєму дилеру, а той негайно зателефонував в [EC GmbH](../companies/enterprise-computers-gmbh.md). [Майк Віндіш](../peoples/pers_h-m-windisch.md) (Mike Windisch) запросив [Міхаеля Леопольдседера](../peoples/pers-michael-leopoldseder.md) і мене до офісу на Зонненштрассе, 3 у Мюнхені, і це стало початком нашої співпраці. Приблизно через пів року ми отримали технічну документацію на систему розширення з Англії.
+> **Werner Lindner**: Плани створення невеликої системи розширення народилися разом із [моїм EXDOS-контролером](../hardware/exdos/hd-exdos-w-lindner.md). Це було у 1986 році, і все було готово ще до того, як я вийшов на прямий контакт із [EC GmbH](../companies/enterprise-computers-gmbh.md). Тому на той час я мав лише повний комплект принципових схем самого комп'ютера та контролера EXDOS, і нічого більше. Контролер EXDOS став моєю "перепусткою" в [EC GmbH](../companies/enterprise-computers-gmbh.md), оскільки я показав цей контролер і свою шинну систему своєму дилеру, а той негайно зателефонував в [EC GmbH](../companies/enterprise-computers-gmbh.md). [Майк Віндіш](../peoples/ec-de/pers_h-m-windisch.md) (Mike Windisch) запросив [Міхаеля Леопольдседера](../peoples/ec-de/pers-michael-leopoldseder.md) і мене до офісу на Зонненштрассе, 3 у Мюнхені, і це стало початком нашої співпраці. Приблизно через пів року ми отримали технічну документацію на систему розширення з Англії.
 
 Базова система MiniBus з картками
 
-<img src="../hardware/system-bus/minibus-base_01.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-base_02.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-base_03.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-base_04.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-base_05.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-base_06.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-base_01.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-base_02.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-base_03.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-base_04.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-base_05.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-base_06.jpg" width="30%"> 
 
 Другий прототип MiniBus з перетворювачем 8 МГц
 
-<img src="../hardware/system-bus/minibus-2nd-proto_01.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-2nd-proto_02.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-2nd-proto_03.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-2nd-proto_04.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-2nd-proto_05.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-2nd-proto_06.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-2nd-proto_07.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-2nd-proto_08.jpg" width="30%"> 
-<img src="../hardware/system-bus/minibus-2nd-proto_09.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-2nd-proto_01.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-2nd-proto_02.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-2nd-proto_03.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-2nd-proto_04.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-2nd-proto_05.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-2nd-proto_06.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-2nd-proto_07.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-2nd-proto_08.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/minibus-2nd-proto_09.jpg" width="30%"> 
 
 Плата ROM з джампером для вибору сегмента пам'яті
 
@@ -213,18 +213,18 @@
 
 Enterprise GmbH Motherboard Bus
 
-<img src="../hardware/system-bus/mb-ext-bus_01.jpg" width="30%"> 
-<img src="../hardware/system-bus/mb-ext-bus_02.jpg" width="30%"> 
-<img src="../hardware/system-bus/mb-ext-bus_03.jpg" width="30%"> 
-<img src="../hardware/system-bus/mb-ext-bus_04.jpg" width="30%"> 
-<img src="../hardware/system-bus/mb-ext-bus_05.jpg" width="30%"> 
-<img src="../hardware/system-bus/mb-ext-bus_06.jpg" width="30%"> 
-<img src="../hardware/system-bus/mb-ext-bus_07.jpg" width="30%"> 
-<img src="../hardware/system-bus/mb-ext-bus_08.jpg" width="30%"> 
-<img src="../hardware/system-bus/mb-ext-bus_09.jpg" width="30%"> 
-<img src="../hardware/system-bus/mb-ext-bus_10.jpg" width="30%"> 
-<img src="../hardware/system-bus/mb-ext-bus_11.jpg" width="30%"> 
-<img src="../hardware/system-bus/mb-ext-bus_12.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/mb-ext-bus_01.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/mb-ext-bus_02.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/mb-ext-bus_03.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/mb-ext-bus_04.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/mb-ext-bus_05.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/mb-ext-bus_06.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/mb-ext-bus_07.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/mb-ext-bus_08.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/mb-ext-bus_09.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/mb-ext-bus_10.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/mb-ext-bus_11.jpg" width="30%"> 
+<img src="../hardware/system-bus/pics/mb-ext-bus_12.jpg" width="30%"> 
 
 ----
 

@@ -4,7 +4,7 @@
 
 Автор: [Jörn Prodaval](../peoples/community/prodatron.md)
 
-**SYmbiosis Multitasking Based Operating System** (**SymbOS**) це багатозадачна операційна система 8-бітних комп'ютерів побудованих на процесорі Zilog Z80.
+**SYmbiosis Multitasking Based Operating System** (**SymbOS**) це багатозадачна операційна система для 8-бітних комп'ютерів побудованих на процесорі Zilog Z80.
 
 [Сайт проекту](http://www.symbos.org/download.htm)
 

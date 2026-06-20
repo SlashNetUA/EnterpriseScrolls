@@ -8,9 +8,9 @@
 
 # Підбір кольорів з інших платформ
 
-[ZX Spectrum](../conv-zx/zx-palette.md)
-
-[Pico-8](../conv-pico8/snpico-colours.md)
+[ZX Spectrum](../conv-zx/zx-palette.md)  
+[Amstrad CPC](../conv-cpc/cpc-palette.md)  
+[Pico-8](../conv-pico8/snpico-colours.md)  
 
 
 # Визначення кольорів

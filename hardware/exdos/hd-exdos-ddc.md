@@ -1,6 +1,6 @@
-# DDC by Jan Versteeg
+# DDC (Disk Drive Controller)
 
-
+Автор: Jan Versteeg
 
 <img src="pics/exdos-ddc_01.jpg" width="30%"> 
 <img src="pics/exdos-ddc_02.jpg" width="30%"> 

@@ -24,4 +24,4 @@ Dual Floppy Drive by Attila Nagy
 EXDOS Card+RAM Ext by MIKROTEAM  
 EXDOS Card by Gyula Meszaros  
 [DDC](exdos/hd-exdos-ddc.md) by Jan Versteeg  
-Enterprise Disc-Controller by [Werner Lindner](../peoples/ec/pers_werner-lindner.md)  
+Enterprise Disc-Controller by [Werner Lindner](../peoples/ec-de/pers_werner-lindner.md)  

@@ -4,7 +4,7 @@
 <img src="../software/screenshots/scrn_is-lisp-06_01.png" height="288"> 
 
 Розробник: [Intelligent Software Ltd.](../companies/intelligent-sofware-ltd.md)  
-Автор: [Mark Richer](../peoples/ec/pers_mark-richer.md)  
+Автор: [Mark Richer](../peoples/ec-uk/pers_mark-richer.md)  
 
 ----
 

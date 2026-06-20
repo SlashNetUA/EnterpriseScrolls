@@ -5,7 +5,7 @@
 </div>
 
 Тип: Відеопроцессор  
-Розробник: [Nick Toop](../peoples/ec/pers_nick-toop.md)  
+Розробник: [Nick Toop](../peoples/ec-uk/pers_nick-toop.md)  
 Внутрішня назва: **ELITE**  
 Внутрішній номенклатурні номери: **08-04** та **08-47**  
 

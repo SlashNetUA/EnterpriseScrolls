@@ -18,6 +18,6 @@
 
 Через спільний процесор Z80 та схожі відеорежими, графіка й код ігор з Amstrad CPC відносно просто переносяться на Enterprise. Угорські розробники в наш час портували багато топових європейських хітів, які на Enterprise виглядали значно краще за версії зі Spectrum.
 
-[Amstrad CPC](http://ep.homeserver.hu/Programozas/CPC_programok_atirasa/Amstrad_CPC_programok_atirasa.htm) (угорською)
+[Інформація щодо портування](https://wiki.enterpriseforever.com/index.php?title=CPC_programok_%C3%A1t%C3%ADr%C3%A1sa) (угорською)
 
 [Палітра](cpc-palette.md)

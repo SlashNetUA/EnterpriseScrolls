@@ -4,7 +4,7 @@
 <img src="../software/screenshots/scrn_is-forth-11_01.png" height="288"> 
 
 Розробник: [Intelligent Software Ltd.](../companies/intelligent-sofware-ltd.md)  
-Автор: [Bruce Tanner](../peoples/ec/pers_bruce-tanner.md)  
+Автор: [Bruce Tanner](../peoples/ec-uk/pers_bruce-tanner.md)  
 
 ----
 

@@ -4,7 +4,7 @@
 <img src="../software/screenshots/scrn_is-basic_01.png" height="288"> 
 
 Розробник: [Intelligent Software Ltd.](../companies/intelligent-sofware-ltd.md)  
-Автори: [Bruce Tanner](../peoples/ec/pers_bruce-tanner.md) та [Mike Johnson](../peoples/ec/pers_mike-johnson.md) (рання версія написана на С) 
+Автори: [Bruce Tanner](../peoples/ec-uk/pers_bruce-tanner.md) та [Mike Johnson](../peoples/ec-uk/pers_mike-johnson.md) (рання версія написана на С) 
 
 ----
 

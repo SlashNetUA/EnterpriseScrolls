@@ -5,7 +5,7 @@
 </div>
 
 Тип: **Менеджмент пам'яті, обробка переривань та генерація звуку**  
-Розробник: [Dave Woodfield](../peoples/ec/pers_dave-woodfield.md)  
+Розробник: [Dave Woodfield](../peoples/ec-uk/pers_dave-woodfield.md)  
 Внутрішня назва: **ESPRIT**  
 Внутрішній номенклатурний номер: **08-05**  
 
