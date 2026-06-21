@@ -15,20 +15,20 @@
 
 [Технічний опис EXOS 2.1](http://www.ep128.hu/Ep_Konyv/Exos.htm) (угорською)
 
-[Змінні EXOS](info_exos-variables.md)  
-[Функції EXOS](info_exos-functions.md)  
-[Пристрої EXOS](info-exos-devices.md)  
+[Змінні EXOS](system-info/info_exos-variables.md)  
+[Функції EXOS](system-info/info_exos-functions.md)  
+[Пристрої EXOS](system-info/info-exos-devices.md)  
 
-[Escape-послідовності та керуючі символи](info_esc-sequences.md)  
+[Escape-послідовності та керуючі символи](system-info/info_esc-sequences.md)  
 
-[Канали](info_channels.md)  
-[Помилки](info_errors.md)  
+[Канали](system-info/info_channels.md)  
+[Помилки](system-info/info_errors.md)  
 
-[Список команд розширень](info_exos-commands-list)
+[Список команд розширень](system-info/info_exos-commands-list.md)
 
 ## Апаратне забезпечення
 
-[Порти введення-виведення](info_io-ports.md)  
+[Порти введення-виведення](system-info/info_io-ports.md)  
 
 [Dave (доповнення)](https://enterpriseforever.com/hardver/dave/msg19278/#msg19278)
 
