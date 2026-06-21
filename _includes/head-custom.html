@@ -35,6 +35,12 @@
           const container = fancybox.container;
           container.style.imageRendering = 'pixelated';
         }
+      },
+      caption: (fancybox, slide) => {
+          const img = slide.triggerEl?.querySelector("img");
+          return img?.getAttribute("alt")
+              || img?.getAttribute("title")
+              || "";
       }
     });
   });
