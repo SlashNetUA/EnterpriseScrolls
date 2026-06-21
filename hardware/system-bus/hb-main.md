@@ -35,6 +35,8 @@ Expansion Motherboard (проект)
 
 [New Bus Expander](hb-new-bus-expander.md)
 
+ -  [M-Slot](hb-m-slot.md)
+
 ## Німецька версія
 
 Автор: [Вернер Лінднер](../../peoples/ec-de/pers_werner-lindner.md)  

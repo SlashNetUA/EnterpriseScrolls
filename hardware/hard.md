@@ -42,9 +42,10 @@ SpeakEasy (синтез мовлення)
 
 ## MIDI-інтерфейс
 
-MIDI Cartridge  
-MIDI Card  
-[RSF3](he-rsf3.md)
+[MIDI Card](sound/hs-midi-card.md)  
+[RSF3](he-rsf3.md)  
+[MIDI Cartridge](sound/hs-midi-cartridge.md)  
+
 
 # Відеопристрої
 
@@ -126,8 +127,8 @@ AM9511
 
 ## Живлення
 
-EPower  
-REpower  
+[EPower](mods/epower.md)  
+[REpower](mods/repower.md)  
 
 
 ## Відеосигнал
