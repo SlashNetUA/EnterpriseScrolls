@@ -1,7 +1,7 @@
 # EXDOS від [Pear](../../peoples/community/pear.md)
 
 <div style="text-align:center;">
-    <img src="https://wiki.enterpriseforever.com/images/a/a2/EXDOSv2.jpg" width="50%">
+    <img src="https://wiki.enterpriseforever.com/images/a/a2/EXDOSv2.jpg" alt="плата контролера" width="50%">
 </div>
 
 Автор: [Pear](../../peoples/community/pear.md)  

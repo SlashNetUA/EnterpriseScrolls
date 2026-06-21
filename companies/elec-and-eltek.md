@@ -7,13 +7,13 @@
 Один з виробників материнських плат та карт розширень.
 
 <div style="text-align:center; font-style:italic;">
-<img src="pics/elec-and-eltek-sn-sticker.jpg" width="50%"><br>  
+<img src="pics/elec-and-eltek-sn-sticker.jpg" alt="Стікер з серійним номером на материнській платі" width="50%"><br>  
 Стікер з серійним номером на материнській платі<br><br>
 </div>
 
 
 <div style="text-align:center; font-style:italic;">
-<img src="pics/elec-and-eltek-pcb.jpg" width="50%"><br>  
+<img src="pics/elec-and-eltek-pcb.jpg" alt="Лого на платі EXDOS" width="50%"><br>  
 Лого на платі EXDOS
 </div>
 

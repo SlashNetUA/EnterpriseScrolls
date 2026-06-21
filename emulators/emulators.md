@@ -2,14 +2,14 @@
 
 ## Сучасні емулятори
 
-|Назва|Платформи|Короткий опис|
-|--|:--:|--|
-|[ep128emu](em-ep128emu.md)|Win32, Linux, MacOS|Найбільш точний емулятор
-|[Xemu](em-xemu.md)|Win32, Linux, MacOS|Експериментальний мультиплатформений емулятор
-|[Clock Signal (CLK)](em-clk.md)|Linux, MacOS|
-|[RetroArch](em-retroarch.md)|Win32, Linux, MacOS, ARM|Ядро Libretro на основі ep128emu
-|[JSep](em-jsep.md)|Online|Онлайн емулятор, заснований на емуляторі JSSpeccy
-|Eppe|Win32|В розробці
+| Назва                           |        Платформи         | Короткий опис                                     |
+| ------------------------------- |:------------------------:| ------------------------------------------------- |
+| [ep128emu](em-ep128emu.md)      |   Win32, Linux, MacOS    | Найбільш точний емулятор                          |
+| [Clock Signal (CLK)](em-clk.md) |       Linux, MacOS       |                                                   |
+| [RetroArch](em-retroarch.md)    | Win32, Linux, MacOS, ARM | Ядро Libretro на основі ep128emu                  |
+| [JSep](em-jsep.md)              |          Online          | Онлайн емулятор, заснований на емуляторі JSSpeccy |
+| [Xemu](em-xemu.md)              |   Win32, Linux, MacOS    | Експериментальний мультиплатформений емулятор     |
+| [Eppe](em-eppe.md)              |          Win32           | В розробці                                        |
 
 ## FPGA емулятори
 
@@ -21,7 +21,6 @@ https://github.com/mist-devel/mist-binaries/tree/master/cores/enterprise
 https://misterfpga.org/viewtopic.php?t=4645  
 https://retrowiki.es/viewtopic.php?f=107&t=200037978&p=200154146#p200154146  
 https://www.atari-forum.com/viewtopic.php?p=441454&hilit=Enterprise#p441454  
-
 
 ### ZX-Uno, ZX-Tres
 
@@ -42,14 +41,14 @@ https://github.com/ManuFerHi/SiDi-FPGA/tree/master/Cores/Computer/ElanEnterprise
 
 ## Застарілі емулятори
 
-|Назва|Платформи|Короткий опис|
-|--|:--:|--|
-|[EP32](em-ep32.md)|Win32|Старий але ще доволі популярний емулятор на базі Enter
-|Enter|Win32|
-|MAME (MESS)||Якість емуляції на низькому рівні
-|Multi-Machine Emulator|Win9x, DOS|
-|Penelope|Win|
-|Enterprise Emulator|DOS|
-|xent|Unix, Linux|
-|Enterprise128 Emu by Attus|DOS|
+| Назва                      |  Платформи  | Короткий опис                                          |
+| -------------------------- |:-----------:| ------------------------------------------------------ |
+| [EP32](em-ep32.md)         |    Win32    | Старий але ще доволі популярний емулятор на базі Enter |
+| [Enter](em-enter.md)       |    Win32    |                                                        |
+| MAME (MESS)                |             | Якість емуляції на низькому рівні                      |
+| Multi-Machine Emulator     | Win9x, DOS  |                                                        |
+| Penelope                   |     Win     |                                                        |
+| Enterprise Emulator        |     DOS     |                                                        |
+| xent                       | Unix, Linux |                                                        |
+| Enterprise128 Emu by Attus |     DOS     |                                                        |
 

@@ -1,7 +1,7 @@
 # HiSoft Systems
 
-<img src="pics/logo_hisoft-systems.png" width="30%"> 
-<img src="pics/logo_hisoft-systems_02.png" width="45%">
+<img src="pics/logo_hisoft-systems.png" alt="новий логотип" width="30%"> 
+<img src="pics/logo_hisoft-systems_02.png" alt="старий логотип" width="45%">
 
 
 
