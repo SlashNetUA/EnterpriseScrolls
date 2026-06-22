@@ -8,6 +8,7 @@
 [Програмування](programming/programming.md)  
 [Програмне забезпечення](software/soft.md)  
 [Апаратне забезпечення](hardware/hard.md)  
+[Програми та утіліти для ПК](software-pc/soft-pc-main.md)  
 [Преса](press/press.md)  
 [History](history/history.md)  
 [Посилання](links.md)
