@@ -40,7 +40,7 @@
 > 
 > Більшість материнських плат були виготовлені компанією [OPC](../companies/opc-manufacturing-ltd.md): [http://www.hkexporter.net/electronic/circuit/opc-manufacturing.html](https://web.archive.org/web/20230131230926/http://www.hkexporter.net/electronic/circuit/opc-manufacturing.html)
 > 
-> Отже, в принципі: майже всі материнські плати (а також [EXDOS](../hardware/hd-exdos.md) та [картриджі](../hardware/hc-cartridge.md)) постачалися з Далекого Сходу, і [AMI](../companies/ami.md) відправляла виробничі партії чипів прямо до Гонконгу. Саме тому в Англії ніколи не було суттєвих запасів нерозпаяних мікросхем [NICK](../hardware/hm-nick.md)/[DAVE](../hardware/hm-dave.md).
+> Отже, в принципі: майже всі материнські плати (а також [EXDOS](../hardware/hd-exdos.md) та [картриджі](../hardware/cartridge/cart-main.md)) постачалися з Далекого Сходу, і [AMI](../companies/ami.md) відправляла виробничі партії чипів прямо до Гонконгу. Саме тому в Англії ніколи не було суттєвих запасів нерозпаяних мікросхем [NICK](../hardware/hm-nick.md)/[DAVE](../hardware/hm-dave.md).
 > 
 > Назви **AEL** та **FLHK** наразі вилетіли мені з голови, але у мене є копія кодової книги ENTERPRISE — це свого роду «біблія» всіх компонентів, які коли-небудь використовувала компанія. Ймовірно, я зможу знайти щось там. Будь ласка, запасіться терпінням.
 

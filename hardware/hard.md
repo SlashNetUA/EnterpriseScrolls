@@ -1,7 +1,7 @@
 # Накопичувачі інформації та контролери
 
 Магнітофони  
-[Картріджі](hc-cartridge.md)  
+[Картріджі](cartridge/cart-main.md)  
 [EXDOS](hd-exdos.md)  
 Дисководи  
 [Адаптер SD-карт](hd-sd-card-adapter.md)  
@@ -99,6 +99,10 @@ ESP
 # Інше
 
 RTC
+
+# Корпус та 3D-моделі
+
+[3dprn-main](3dprint/3dprn-main.md)
 
 # Системна плата та її модифікації
 

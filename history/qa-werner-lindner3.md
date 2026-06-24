@@ -238,18 +238,18 @@ Enterprise GmbH Motherboard Bus
 
 [(оригінал повідомлення)](https://enterpriseforever.com/hall-of-fame/qa-with-werner-lindner-technical-director-of-the-enterprise-computers-gmbh/msg45583/#msg45583)
 
-**Zozosoft**: Ми вже дещо знаємо про [цю плату](../hardware/hn-bugtronics-modem.md) від [її розробника](../peoples/pers_anders-nielsen.md), але у нього самого її немає. А от у Вернера вона є! Це плата модему, в Данії її використовували для Enterprise BBS!
+**Zozosoft**: Ми вже дещо знаємо про [цю плату](../hardware/net/hn-bugtronics-modem.md) від [її розробника](../peoples/pers_anders-nielsen.md), але у нього самого її немає. А от у Вернера вона є! Це плата модему, в Данії її використовували для Enterprise BBS!
 
 > **Werner Lindner**: Плата має процесор Z80CPU, що працює на частоті 2.4 МГц, 2 КБ статичної оперативної пам'яті (SRAM) та мікросхему Z80DART. Це найскладніше розширення для ENTERPRISE, яке я знаю. Принаймні, воно має не більше потужності, ніж комп'ютер, до якого воно підключалося.
 > 
 > Роз'єм точно такий самий, як і той, що використовувався для [нідерландського контролера EXDOS](../hardware/exdos/hd-exdos-ddc.md).
 
-<img src="../hardware/bugtronics/bugtronisc-modem_01.jpg" width="30%"> 
-<img src="../hardware/bugtronics/bugtronisc-modem_02.jpg" width="30%"> 
-<img src="../hardware/bugtronics/bugtronisc-modem_03.jpg" width="30%"> 
-<img src="../hardware/bugtronics/bugtronisc-modem_04.jpg" width="30%"> 
-<img src="../hardware/bugtronics/bugtronisc-modem_05.jpg" width="30%"> 
-<img src="../hardware/bugtronics/bugtronisc-modem_06.jpg" width="30%"> 
+<img src="../hardware/net/pics/bugtronics-modem_01.jpg" width="30%"> 
+<img src="../hardware/net/pics/bugtronics-modem_02.jpg" width="30%"> 
+<img src="../hardware/net/pics/bugtronics-modem_03.jpg" width="30%"> 
+<img src="../hardware/net/pics/bugtronics-modem_04.jpg" width="30%"> 
+<img src="../hardware/net/pics/bugtronics-modem_05.jpg" width="30%"> 
+<img src="../hardware/net/pics/bugtronics-modem_06.jpg" width="30%"> 
 
 ----
 

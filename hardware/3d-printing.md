@@ -1,3 +1,3 @@
 # Моделі для роздруку
 
-[3dpr-cartridge](3dprint/3dpr-cartridge.md)
+[3dprn-cartridge](3dprint/3dprn-cartridge.md)

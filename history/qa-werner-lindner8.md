@@ -96,7 +96,7 @@
 <img src="pics/w-lindner/scrn_exdos22.png" width="40%"> 
 
 Кириличний ROM:  
-Першим і найбільшим сюрпризом для мене став стартовий екран! Це варіант картриджа [Enterprise Plus](../hardware/cartridge/hc-enterprise-plus.md) від угорської студії [«a» Studió](../companies/a-studio.md). Для порівняння я також зробив скріншоти з оригінальним Plus ROM.
+Першим і найбільшим сюрпризом для мене став стартовий екран! Це варіант картриджа [Enterprise Plus](../hardware/cartridge/enterprise-plus.md) від угорської студії [«a» Studió](../companies/a-studio.md). Для порівняння я також зробив скріншоти з оригінальним Plus ROM.
 
 <img src="pics/w-lindner/scrn_ciril-start.png" width="40%"> 
 <img src="pics/w-lindner/scrn_plus-start.png" width="40%"> 

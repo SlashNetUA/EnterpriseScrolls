@@ -184,4 +184,6 @@
 В матеріалах Enterprise Computers, які врятував Вернер Лінднер, була виявлений прототип ПЗП із файловою системою ROMFS, яка дозволяє використовувати картрідж як ще один носій даних з якого можна завантажувати програми. На цій основі ентузіасти створили її розширену версію, яка дозволяла використовувати всі 4 сегменти пам'яті та можливість самотужки створювати власні збірки.
 
 > [!NOTE]
-> todo
+> todo  
+> [short info 1](https://wiki.enterpriseforever.com/index.php?title=T%C3%B6m%C3%B6r%C3%ADtett_ROM_f%C3%A1jlrendszer_k%C3%A9sz%C3%ADt%C3%A9se_(ROM:_eszk%C3%B6z))  
+> [short info 2](https://enterpriseforever.com/programozas/eprom-ba-irhato-jatekok/msg95599/#msg95599)
