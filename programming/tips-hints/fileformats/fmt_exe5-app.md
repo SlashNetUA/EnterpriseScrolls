@@ -7,7 +7,7 @@ The _new applications program_ module type is loaded automatically by EXOS whe
 | Name             | Length   | Byte offset | Description                                 |
 | ---------------- | -------- |:-----------:| ------------------------------------------- |
 | EXOS module type | 2 bytes  |      0      | `00 05`                                     |
-| SIZE             | 2 bytes  |      2      | Size of program in bytes *(low byte first)* |
+| SIZE             | 2 bytes  |      2      | Size of program in bytes without header *(low byte first)* |
 | OTHER            | 12 bytes |      4      | zero                                        | 
 
 See also [New Applications Programs](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXOS_2.1_technikal_information/exos/kernel/Ch10.html#10.6)

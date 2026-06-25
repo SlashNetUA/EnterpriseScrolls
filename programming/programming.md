@@ -2,7 +2,7 @@
 
 [Технічна інформація по платформі](additional-info.md)
 
-[Короткий опис платформи](http://ep.lgb.hu/epdesc.txt)
+[Короткий опис платформи](http://ep.lgb.hu/epdesc.txt) від [LGB](../peoples/community/lgb.md)
 
 ----
 
@@ -15,6 +15,10 @@
 [IS-Forth](is-forth.md)
 
 [2dfx Programming](2dfx-programming.md)
+
+# Низькорівневе програмування
+
+[Заготовки для програм](templates/tmpl-main.md)
 
 [Z80 Assembly programming for the Elan Enterprise 128](https://www.chibiakumas.com/z80/enterprise128.php)  
 [Відео курс по програмуванню від ChibiAkumas](https://www.youtube.com/playlist?list=PLp_QNRIYljFosStEZ3G_mfH0QgNECMWoG)
