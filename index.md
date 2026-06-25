@@ -2,6 +2,7 @@
     <img src="hardware/pics-ep/title-ep.jpg" width="75%">
 </div>
 
+[Ознайомча інформація про платформу](short-info.md)  
 [Емуляція](emulators/emulators.md)  
 [Ігри](sf-games/games.md)  
 [Демки](sf-demos/demos.md)  
