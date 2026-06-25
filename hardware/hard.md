@@ -38,7 +38,7 @@ CBM Multi File Transfer
 SID-card  
 HDIGI  
 SpeakEasy (синтез мовлення)  
-[hs-msx-se-one](sound/hs-msx-se-one.md)  
+[MSX SE-One](sound/hs-msx-se-one.md)  
 
 ## MIDI-інтерфейс
 
@@ -67,18 +67,21 @@ Microvitec CUB 1451 MS
 # Meрежеві пристрої
 
 Вбудована  
-EPNET  
+[EPNET](net/hn-epnet.md)  
 ESP  
 Модеми  
 
 # Пристрої розширення системної шини
 
-[hb-main](system-bus/hb-main.md)
+Пристрої що дають можливість одночасно підключити декілька апаратних розширень.
 
+[Список пристроїв](system-bus/hb-main.md)
 
 # Зовнішні розширення ПЗП/ОЗП
 
 # Принтери
+
+Enterprise EP 80+
 
 # Живлення
 
@@ -93,7 +96,8 @@ ESP
 
 # Розпіновки та інтерфейсні кабелі
 
-![](http://enterprise.iko.hu/backside.gif)  
+![](pics-ep/backside.png)
+
 [Pinouts](http://enterprise.iko.hu/pinouts.htm)
 
 # Інше
@@ -129,16 +133,18 @@ AM9511
 
 ## Розгін
 
+[miniTurbo](mods/miniturbo.md)
+
 ## Живлення
 
 [EPower](mods/epower.md)  
 [REpower](mods/repower.md)  
 
-
 ## Відеосигнал
 
 ## Інше
 
+[The 'L2'](mods/the-l2.md)  
 Speaker switch
 
 
