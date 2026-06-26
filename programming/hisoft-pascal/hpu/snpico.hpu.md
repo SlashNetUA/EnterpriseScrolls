@@ -2,10 +2,10 @@
 
 Модифікація бібліотеки [graph16.hpu](graph16.hpu.md) для створення графічної сторінки 128×128 пікселів (пікселі подвійної висоти та ширини) для імітації екрану консолі Pico-8. Відеосторінка розміщена по адресі C000h-DFFFh, + таблиця LPT (E000h-E870h). Додаткова текстова сторінка може бути створена та розміщена у рядку 27 до команди **GrafOn**. А команди **GrafOff** - не існує.
 
-[Підбір кольорів](../conv-pico8/snpico-colours.md)
+[Підбір кольорів](../../conv-pico8/snpico-colours.md)
 
-[Виведення "тайлової" графіки](../conv-pico8/snpico-drawtiles.md)
+[Виведення "тайлової" графіки](../../conv-pico8/snpico-drawtiles.md)
 
-["Конвертація" звуків з Pico-8](../conv-pico8/snpico-sounds.md)
+["Конвертація" звуків з Pico-8](../../conv-pico8/snpico-sounds.md)
 
-[Адаптація програм](../conv-pico8/snpico-adaptation.md)
+[Адаптація програм](../../conv-pico8/snpico-adaptation.md)

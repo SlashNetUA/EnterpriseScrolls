@@ -8,6 +8,6 @@
 **255** (**≠0**): Key click disabled.
 
 
-Memory address: **49100**
+----
 
 See also [SET KEY CLICK ON/OFF](../../../manuals/is-basic-man-en/options/man_mo-key.md)  

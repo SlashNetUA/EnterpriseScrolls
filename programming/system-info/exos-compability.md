@@ -1,89 +1,43 @@
 # EXOS-сумісність
 
-## Керування пам'яттю, сумісне з EXOS
+## Коротко
 
-У комп'ютерах Enterprise розподіл пам'яті керується за допомогою системних викликів операційної системи EXOS. Для того, щоб ваші програми або портовані ігри коректно працювали на стандартних моделях (EP64/EP128) або системах із великими платами розширення пам'яті, **категорично заборонено здійснювати пряме перемикання банків пам'яті (пейджинг)** через порти конфігуратора (панелі розрядів Dave) без відома ОС.
+[оригінал статті](https://enterpriseforever.com/programming/how-to-begin-assembly-on-enterprise/msg38698/#msg38698)
 
-Нижче наведено правила та методи для створення EXOS-сумісного коду.
+Писати програми, несумісні з EXOS — це дуже погана ідея!
 
-### 1. Базові принципи розподілу пам'яті
+На жаль, з самого початку ніхто не приділяв уваги правильному, сумісному з EXOS програмуванню. Enterprise має справді чудову розширювану операційну систему. Через це може існувати безліч різних конфігурацій заліза. У перші роки існували 64- та 128-кілобайтні, англійські та німецькі машини, а пізніше вони поєднувалися з картами EXDOS.
 
-Простір пам'яті процесора Z80 розділено на 4 сегменти (сторінки) по 16 КБ кожен:
+За багато років було створено величезну кількість розширень RAM, ROM та іншої периферії, систем жорстких дисків, а сьогодні — і систем роботи з SD-картами.
 
-- **Page 0** (0000h–3FFFh) — зазвичай зайнятий системною ROM (EXOS).
-- **Page 1** (4000h–7FFFh) — часто використовується для коду програми.
-- **Page 2** (8000h–BFFFh) — стандартна сторінка для користувацьких даних та коду.
-- **Page 3** (C000h–FFFFh) — область системних змінних, стеку та відеобуфера.
+У такій розширюваній системі, як EXOS, більшість речей розташовані за динамічними адресами! Фіксоване програмування в стилі C64 або ZX Spectrum — це погана ідея для Enterprise!
 
-Замість того, щоб самостійно записувати номери сегментів у порти порту Dave (`B0h`–`B3h`), програма повинна запитувати вільні блоки пам'яті в ОС.
+Через погано написані, несумісні з EXOS програми (які використовують фіксовані адреси), за ці роки виникла купа проблем. Наприклад, робота лише на суто англійській або суто німецькій машині, робота тільки зі 128 КБ ОЗП, або відмова запускатися з розширенням пам'яті. Також такі програми не запускаються з дискети. А запуск із жорсткого диска взагалі затирає область пам'яті драйвера жорсткого диска, що призводить до втрати даних тощо...
 
-### 2. Системні виклики (EXOS Calls) для роботи з пам'яттю
+Багато поганих програм уже виправлено, і ця робота з їхнього лікування триває постійно. Останні років десять ми ретельно стежимо за тим, щоб усі нові програми були сумісними з EXOS, аби більше не створювати нових проблем.
 
-Для виділення та звільнення блоків ОЗП використовуються спеціальні функції розподільника пам'яті EXOS:
+Найважливіші речі:
 
-- **`ALLOC` (Виділити сегмент):** Запитує у системи вільний 16-кілобайтний банк пам'яті. Система повертає логічний номер виділеного сегмента.
-- **`FREE` (Звільнити сегмент):** Повертає раніше виділений сегмент назад у пул вільної пам'яті системи.
-- **`USER RAM`:** Запит інформації про загальний обсяг доступної користувацької пам'яті.
+ - ніколи не використовуйте пам'ять, яку ви офіційно не виділили (не запросили) через EXOS! Виділення пам'яті здійснюється викликом `EXOS 24`.
+ - обов'язково перевіряйте помилки (після виділення пам'яті або дискових операцій), і в разі помилки використовуйте стандартну рутину виходу для коректного повернення в EXOS.
+ - вмійте працювати зі змінними номерами сегментів: для звичайного ОЗП їх потрібно просто зберегти в таблицю сторінок, а для відеосегментів також необхідно правильно вираховувати відеоадресу на основі номера отриманого сегмента.
+ - обов'язково вказуйте рутину теплого старту (перезапуск програми або вихід).
 
-### 3. Правила сумісності для портів (Патчі для EP64 / EP128)
+Усе це вже реалізовано у файлі [sample4с.asm](../templates/tmpl-main.md)! Вам залишається лише написати свій основний код! :-)
 
-Багато ранніх програм або швидких некоректних портів (наприклад, із ZX Spectrum чи Amstrad CPC) використовували фіксовані номери банків, припускаючи, що у комп'ютера є рівно 128 КБ пам'яті, а архітектура ОЗП статична. Це призводить до таких проблем:
+Якщо ви пишете гру або демо, вам знадобиться тип файлу [New Application Program](../tips-hints/fileformats/fmt_exe5-app.md) із заголовком `05h`. Він завантажується з адреси `0100h`...
 
-1. **Збій на EP64:** Програма намагається увімкнути сегмент, якого фізично не існує в базовій моделі без розширення, що викликає зависання або «сміття» на екрані.
-2. **Конфлікт із відеобуфером:** Пряме перемикання банків затирає область пам'яті, виділену відеочіпом [Nick](../../hardware/hm-nick.md) для відображення поточної картинки, або пошкоджує [системні змінні EXOS](info_exos-variables.md) у Page 3.
+Нижче адреси `0100h` операційна система EXOS використовує лише область `0030h`-`005Bh`. Тому простір `0000h`-`002Fh` може вільно використовуватися програмами користувача — зазвичай для швидких підпрограм команд `RST 00h-28h`. Область `005Ch`-`00FFh` також доступна, багато програм використовують її під стек нижче адреси `0100h`.
 
-**Як виправляти код (процес EXOS-адаптації):**
+Загалом, демо та ігри не використовують EXOS під час своєї роботи, звертаючись до неї лише для файлових операцій введення-виведення та виділення пам'яті. Системний обробник переривань (EXOS IRQ) можна замінити (поставивши перехід `JP` на адресу `38h`), але його обов'язково потрібно відновлювати перед кожним новим викликом EXOS (наприклад, перед завантаженням наступного рівня у грі або перед виходом із програми.
 
-1. На початку роботи програми виконати виклики `EXOS 24` (або відповідну підпрограму розподілу) стільки разів, скільки 16К-сегментів потрібно програмі.
-    
-2. Отримані від системи реальні номери фізичних банків зберегти в таблицю всередині програми.
-    
-3. У місцях коду, де виконується перемикання сторінок, замінити жорстко прописані константи (наприклад, `LD A, 4` -> `OUT (0B1h), A`) на динамічне зчитування збереженого номера банку з вашої таблиці.
-    
+Якщо ви програмуєте залізо безпосередньо, вам потрібно або вимкнути переривання EXOS, або визначити власний обробник переривань і замінити ним системний EXOS IRQ.
 
-### 4. Робота з системним стеком та перериваннями
-
-При написанні EXOS-сумісного коду не переміщуйте стек (`SP`) в області пам'яті, які можуть бути неочікувано перемикнуті операційною системою. Також, якщо ваша програма використовує власні процедури обробки переривань (режим `IM 2`), переконайся, що вектор переривань та сама рутина обробки містяться в зафіксованому (неперемикаємому) сегменті ОЗП, зазвичай у нижніх адресах Page 1 або зарезервованих областях Page 3, які EXOS гарантовано залишає для користувача.
-
-# EXOS-сумісність
-
-
-[original post](https://enterpriseforever.com/programming/how-to-begin-assembly-on-enterprise/msg38698/#msg38698)
-
-It is very bad idea write EXOS incompatible program!  
-Unfortunatelly no focus is placed about the right EXOS compatible programming at the start :cry: The Enterprise have really good, expandable operating system. (At the release time it is better than the MS-DOS!) Then many different configuration can be exist. At the start years exist a 64 and 128K, English and German machines, later these combined with EXDOS card.  
-And under the many years, many-many-many... RAM, ROM and other expansion created, Hard Disk system, and in current days SD Card systems.  
-In the expandable EXOS system many things are at variable address! Fix programing like as C64 or ZX Spectrum are bad idea on Enterprise!  
-
-With the bad programmed, EXOS incompatible programs (using fix address), found many-many problems under the years. For example running only on just English or just German machine, only with 128K, not running with memory expansion. Not running from floppy. Running from hard disk destroy Hard Disk extension RAM area and generate data loss, etc...  
-
-Many bad programs fixed, and continously fixing these. And at about the last ten years we care about all new programs are EXOS compatible then no new problem created :-)  
-
-From the practical side:  
-The most important things:  
-- don't use any memory what you not allocated from EXOS! EXOS 24 call the allocation.  
-- check errors (after memory allocation, or file operations) and if error use regular exit routine for step back to EXOS  
-- handle variable segment numbers, at general RAM only need store to paging table, with video segments also needed to calculate video address from the segment number  
-- specify warm start routine (restart program or exit)  
-
-All of these are included in the sample.asm! You need just write the main code! :-)  
-
-If you can specify which memory paging, and which video mode needed for you then I can modify the sample for your requirements!  
-
-
-If you will write game or demo you will use New Application Program type with header 05h.  
-It is loaded from 0100h...  
-Under the 0100h EXOS only use 0030h-005Bh area. Then 0000h-002Fh area can be used by the user programs, usualy for RST 00h-28h routines. 005Ch-00FFh also can be used, many programs use as stack under 0100h.  
-
-Generaly demos/games don't use EXOS during the running, use it only for file I/O, and memory allocation. EXOS IRQ routine can be replaced (placing jump to 38h) but it is needed to restored before EXOS calls used (for example load next level in the game), or exit program.  
-If you directly programing the HW then need to disable EXOS interrupts, or define your own IRQ routine and replace the EXOS IRQ.  
-
-So, generaly don't need switch of OS, just don't use it under the main program.  
-
+Тобто, загалом повністю вимикати ОС не потрібно — просто не використовуйте її всередині свого головного циклу програми.
 
 # Керування пам'яттю, сумісне з EXOS
 
-([оригінальна стаття](https://wiki.enterpriseforever.com/index.php?title=EXOS_kompatibilis_mem%C3%B3riakezel%C3%A9s))
+([оригінал статті](https://wiki.enterpriseforever.com/index.php?title=EXOS_kompatibilis_mem%C3%B3riakezel%C3%A9s))
 
 ## Вступ
 

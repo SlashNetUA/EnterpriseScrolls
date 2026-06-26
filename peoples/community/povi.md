@@ -1,5 +1,7 @@
-Zoltán Povázsay  
-Povi
+# Zoltán Povázsay  
+
+aka **Povi**  
+aka **PoviSoft**
 
 ![](pics/povi.jpg)
 

@@ -8,8 +8,6 @@ Border colour of screen.
 
 **0**: (default)
 
-Memory address: **49120**
-
 ----
 
 See also: [BORDER](../../../manuals/is-basic-man-en/options/man_vo-border.md)

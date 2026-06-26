@@ -15,6 +15,8 @@ When defining a text video page, colour mode **0** must always be selected. For 
 
 On a **LORES** graphics page (using half as much memory as **HIRES**), the colour quantity for each mode is as above, but the horizontal resolution is halved.
 
+Attribute mode must always be in **0** (two colour mode), although sixteen colours will actually be available on the page.
+
 ----
 
 See also [VIDEO MODE](man_vo-video-mode.md), [EXOS VAR 23](../../../programming/system-info/exos-variables/exos_var23.md)

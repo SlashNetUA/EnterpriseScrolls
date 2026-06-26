@@ -25,7 +25,6 @@ Defines serial baud rate.
 |14|9600 baud
 |15<br>(default)|9600 baud
 
-Memory address: **49109**
-
+----
 
 See also [SET SERIAL BAUD](../../../manuals/is-basic-man-en/options/man_mo-ser-baud.md)

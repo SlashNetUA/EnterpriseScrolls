@@ -63,4 +63,4 @@ APPENDIX 4: [EXAMPLE HISOFT PASCAL PROGRAMS BIBLIOGRAPHY](hisoft-pascal-man-en/m
 *Enterprise Computers Limited*
 
 
-[Additional syntax](hisoft-pascal-man-en/add_syntax.md)
+[Additional syntax](../programming/hisoft-pascal/tips-syntax.md)

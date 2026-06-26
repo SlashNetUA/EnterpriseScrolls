@@ -24,8 +24,6 @@ The external colour will only be selected when the `/EXTC` input is low and the 
 
 https://enterpriseforever.com/hardver/a-nick-elfeledett-titka/msg95581/#msg95581
 
-Memory address: **49131**
-
 ----
 
 See also: [PRIORITY](../../../manuals/is-basic-man-en/options/man_vo-priority.md).

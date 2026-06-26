@@ -5,3 +5,7 @@
 `WRITELN(P1,P2,..........P3);` is equivalent to:
 
 `BEGIN WRITE(P1,P2,........P3); WRITELN END;`
+
+----
+
+Дивись також [зміна поточного каналу](../../programming/hisoft-pascal/hp12/tips-curr-chan.md)

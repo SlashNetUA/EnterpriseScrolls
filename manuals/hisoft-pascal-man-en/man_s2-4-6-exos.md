@@ -1,6 +1,6 @@
 # 2.4.6.9 EXOS(f)
 
-This powerful function has one INTEGER parameter which is the EXOS function number passed in the **A** register and returns a character value returned by EXOS in the **A** register. This is normally a flag to indicate if the operation was successful. **CHR(0)** is returned in this case. Other arguments are passed to and from EXOS using the predefined variables **RB**, **RC**, **RD**, **RE**, **RH**, **RL**, **RDE**, **RBC** and **RHL**. For examples of the use of the EXOS function please see the source of the Turtle graphics package supplied with HiSoft Pascal.
+This powerful function has one INTEGER parameter which is the [EXOS function](../../programming/system-info/info_exos-functions.md) number passed in the **A** register and returns a character value returned by EXOS in the **A** register. This is normally a flag to indicate if the operation was successful. **CHR(0)** is returned in this case. Other arguments are passed to and from EXOS using the predefined variables **RB**, **RC**, **RD**, **RE**, **RH**, **RL**, **RDE**, **RBC** and **RHL**. For examples of the use of the EXOS function please see the source of the Turtle graphics package supplied with HiSoft Pascal.
 
 
 ----
@@ -10,10 +10,20 @@ This has changed on version **1.2**, the Exos command has been modified to proce
 The using of EXOS() now is like this:
   
 ```
-10 procedure ToggleVar(x : integer);
-20 begin
-30   rb:=chr(2);
-40   rc:=chr(x);
-50   exos(16);
-60 end;
+procedure ToggleVar(x:integer);
+begin
+	rb:=chr(2);
+	rc:=chr(x);
+	exos(16);
+end;
+```
+
+```
+procedure SetTime(hour,min,sec:integer);  
+begin  
+	rc:=chr(tobcd(hour));  
+	rd:=chr(tobcd(min));  
+	re:=chr(tobcd(sec));  
+	exos(31)  
+end;
 ```

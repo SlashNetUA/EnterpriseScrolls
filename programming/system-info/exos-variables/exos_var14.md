@@ -7,7 +7,6 @@
 **0**: Internal speaker active (default).  
 **255** (**≠0**): Internal speaker disabled.
 
-Memory address: **49107**
-
+----
 
 See also [SET SPEAKER ON/OFF](../../../manuals/is-basic-man-en/options/man_so-speaker.md).

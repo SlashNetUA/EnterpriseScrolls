@@ -16,7 +16,7 @@ dec: `27`,`90`,**n**
 **n**: **0**, **1** або **2** для *тонального каналу* та **3** для *шумового каналу*.
 
 [IS-Basic (CLEAR QUEUE)](../../../manuals/is-basic-man-en/commands/man_cs-clear.md).  
-[HiSoft Pascal](../../hisoft-pascal-hpu/sound.hpu.md).
+[HiSoft Pascal](../../hisoft-pascal/hpu/sound.hpu.md).
 
 ## Eng 
 

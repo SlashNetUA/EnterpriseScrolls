@@ -1,6 +1,6 @@
 # The mysteries of HiSoft Pascal
 
-Written by [Zoltán Povázsay (Povi)](../../peoples/community/povi.md)  
+Written by [Zoltán Povázsay (Povi)](../../../peoples/community/povi.md)  
 Published in [Enterpress 2018 \#1-2](http://enterprise.iko.hu/magazines/Enterpress_2018_per_1-2_UK.pdf#page=10)  
 
 Let’s start this article with a riddle: What does the following program say? 
@@ -15,13 +15,13 @@ begin
 end.
 ```
 
-The watchful reader may immediately suspect that the result of the operation will certainly not fit within the range represented by an integer: the result is greater than **2<sup>15</sup>-1**, or **32767**. The more watchful reader who has already read HiSoft Pascal’s description of the „[Compiler Options](../../manuals/hisoft-pascal-man-en/man_s3-2-compile-options.md)” which says, „*if the overflow control compile option is switched on, the program will stop with an overflow error message!*”
+The watchful reader may immediately suspect that the result of the operation will certainly not fit within the range represented by an integer: the result is greater than **2<sup>15</sup>-1**, or **32767**. The more watchful reader who has already read HiSoft Pascal’s description of the „[Compiler Options](../../../manuals/hisoft-pascal-man-en/man_s3-2-compile-options.md)” which says, „*if the overflow control compile option is switched on, the program will stop with an overflow error message!*”
 
 Let’s see what the documentation says about this: the ‚`O`’ option controls overflow handling for certain arithmetic instructions. Integer multiplication and division, and all real type operations are always checked. In the case of integer addition and subtraction, it is checked only if the option (`O+`) is switched on. The default is that this option is on. 
 
 Based on the above, we expect the program to stop around the first **WriteLn** line with an overflow error message. What do we see instead? 
 
-![](Enterpress_2018_per_1-2_UK-029.png)
+![](pics/Enterpress_2018_per_1-2_UK-029.png)
 
 The first **WriteLn** line ran without errors, although the overflow monitoring option is on!
 
@@ -77,7 +77,7 @@ end.
 
 According to Pascal documentation, integer multiplications are always checked for overflow, regardless of the value of the “`O`” option. Instead, we see that the first multiplication runs, even though the result is greater than **32767**.
 
-![](Enterpress_2018_per_1-2_UK-031.png)
+![](pics/Enterpress_2018_per_1-2_UK-031.png)
 
 Do you think the documentation is not good? Is it possible to switch off the overflow option for the multiplication operations? This is contradicted by the fact that our second WriteLn line actually stopped with an overflow error message! Then how it could be?! 
 

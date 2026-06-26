@@ -8,8 +8,6 @@ Source machine number of network block
 
 **255**: (default)
 
-Memory address: **49114**
-
 ----
 
 See also [NET MACHINE](../../../manuals/is-basic-man-en/options/man_mo-net-machine.md)

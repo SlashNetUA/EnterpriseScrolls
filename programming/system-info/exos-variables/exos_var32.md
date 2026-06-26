@@ -8,4 +8,3 @@ Flags to control reading from editor.
 
 **20**: (default)
 
-Memory address: **49125**

@@ -8,8 +8,6 @@ Channel number of video page for editor.
 
 **102**: (default)
 
-Memory address: **49122**
-
 ----
 
 See also: [EDITOR VIDEO](../../../manuals/is-basic-man-en/options/man_mo-ed-vid.md)

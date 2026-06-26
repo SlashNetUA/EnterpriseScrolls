@@ -11,5 +11,5 @@ Current keyboard lock status.
 **2**: SHIFT input mode  
 **8**: ALT input mode  
 
-Memory address: **49099**
+
 

@@ -10,8 +10,6 @@ Set to zero to make cassette write out protected file.
  **≠0**: non protected  
 **0**: protected  
 
-Memory address: **49127**
-
 ----
 
 See also: [TAPE PROTECT](../../../manuals/is-basic-man-en/options/man_mo-tape-protect.md)

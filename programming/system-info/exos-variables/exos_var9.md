@@ -7,7 +7,8 @@
 **0**: Any key press causes soft IRQ, well as returning a code.  
 **255** (**≠0**): Default
 
-Memory address: **49102**
+
+----
 
 
 See also [SET INTERRUPT KEY ON/OFF](../../../manuals/is-basic-man-en/options/man_mo-interrupt.md)

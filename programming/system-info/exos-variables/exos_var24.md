@@ -10,7 +10,6 @@ X page size. This variable select the characteristics of a video page when it op
 
 The horizontal size is specified in low resolution character widths, and can be any number from **2** to **42**. Invalid values will produce an error (.VSIZE) when a channel is opened.
 
-Memory address: **49117**
 
 ----
 

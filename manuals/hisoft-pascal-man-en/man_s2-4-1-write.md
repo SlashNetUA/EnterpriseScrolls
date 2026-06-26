@@ -67,3 +67,7 @@ Either **e** or **e:m** may be used and the character or string of characters wi
 5) **e** is of type Boolean.
 
 Either **e** or **e:m** may be used and '**TRUE**' or '**FALSE**' will be output depending on the Boolean Value of **e**, using a minimum field width of **4** or **5** respectively.
+
+----
+
+Дивись також [зміна поточного каналу](../../programming/hisoft-pascal/hp12/tips-curr-chan.md)

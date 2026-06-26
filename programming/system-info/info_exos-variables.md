@@ -1,10 +1,14 @@
 # EXOS variables
 
-Below is a list of all the EXOS variables supported by the EXOS kernel and built in devices. More details of their functions can be found in the appropriate device or kernel specifications.
+Ці змінні керують багатьма різноманітними функціями системи, але особливо вони корисні для налаштування параметрів периферії перед відкриттям відповідних каналів. Ті з них, які мають важливе значення безпосередньо для вбудованих драйверів пристроїв, описані в межах інструкцій до цих конкретних драйверів. Проте тут наводиться їхній повний перелік.
 
-Значення змінних EXOS за замовчуванням встановлюється на основі таблиці на початку сегмента 0. На підставі цього ми можемо використовувати POKE замість SET, PEEK замість ASK або ми можемо читати стан машини.
+Кожна змінна має 8-бітне значення, і кожна з них ідентифікується так само 8-бітним номером змінної EXOS. Наведений список містить усі змінні, що використовуються ядром EXOS, але системні розширення можуть створювати додаткові змінні з ідентифікаторами понад 127.
 
-RST_ADDR - warm reset address
+Будь-яку змінну можна встановити в довільне значення від 0 до 255. Однак чимало з цих змінних працюють як перемикачі (прапорці), що вмикають або вимикають певну функцію. У таких випадках значення **0** відповідає стану "увімкнено", а **255** — стану "вимкнено". Для маніпуляцій із ними можна використовувати спеціальний виклик EXOS — так зване перемикання (інверсію), яке робить інверсію бітів поточного значення, змінюючи таким чином 0 на 255 і навпаки.
+
+Системні виклики EXOS для читання / запису / інверсії (перемикання) системних змінних дозволяють користувачеві, драйверу периферії або розширенню системи отримувати доступ до цих змінних, не знаючи їхніх фактичних адрес у пам'яті. 
+
+
 
 0 [IRQ_ENABLE_STATE](exos-variables/exos_var0.md) (system)  
 1 [FLAG_SOFT_IRQ](exos-variables/exos_var1.md) (system)  
@@ -46,10 +50,6 @@ RST_ADDR - warm reset address
 37 [REM2](exos-variables/exos_var36-37.md) (tape)  
 38 [SPRITE](exos-variables/exos_var38.md) (video) *(EXOS 2.1 та вище)*  
 39 [RANDOM_IRQ](exos-variables/exos_var39.md) (system) *(EXOS 2.1 та вище)*  
-
-140 [VAR 140](exos-variables/exos_var140.md) Language extensions  
-144 [VAR 144](exos-variables/exos_var144.md) Language extensions  
-191 [VAR 191](exos-variables/exos_var191.md) Memory wait states *(EXOS 2.4 та вище)*
 
 ## EXDOS
 
@@ -121,6 +121,10 @@ RST_ADDR - warm reset address
 142 [VAR 142](exos-variables/exos_var142_zozotools.md)  
 143 [VAR 143](exos-variables/exos_var143_zozotools.md)  
 
+## Language extensions
+140 [VAR 140](exos-variables/exos_var140.md) Language extensions  (?)
+144 [VAR 144](exos-variables/exos_var144.md) Language extensions  
+
 ## DBASX
 
 145 [VAR 145](exos-variables/exos_var145_dbasx.md)  
@@ -153,6 +157,10 @@ RST_ADDR - warm reset address
 188 [VAR 188](exos-variables/exos_var188_mouse.md)  
 189 [VAR 189](exos-variables/exos_var189_mouse.md)  
 190 [VAR 190](exos-variables/exos_var190_mouse.md)  
+
+## EXOS 2.4
+
+191 [VAR 191](exos-variables/exos_var191.md) Memory wait states *(EXOS 2.4 та вище)*
 
 ## EPDOS 2.x
 

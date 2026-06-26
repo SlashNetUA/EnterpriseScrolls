@@ -9,8 +9,6 @@ State of cassette remote controls.
 **≠0**: (default) off (hold)  
 **0**: on (release)
 
-Memory address: **49129**
-
 # 37 - REM2
 
 `ASK 37 var`  
@@ -21,8 +19,6 @@ State of cassette remote controls.
 
 **≠0**: (default) off (hold)  
 **0**: on (release)
-
-Memory address: **49130**
 
 ----
 

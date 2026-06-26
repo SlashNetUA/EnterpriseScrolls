@@ -8,8 +8,6 @@ Colour BIAS for palette colours **8**...**15**.
 
 **0**: (default)
 
-Memory address: **49121**
-
 ----
 
 See also: [BIAS](../../../manuals/is-basic-man-en/options/man_vo-bias.md)

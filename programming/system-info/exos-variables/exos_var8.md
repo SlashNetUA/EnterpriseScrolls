@@ -8,4 +8,4 @@
 **255** (**≠0**): STOP key returns [key code 3](../info_characters.md) - [SET INTERRUPT STOP OFF](../../../manuals/is-basic-man-en/options/man_mo-interrupt.md)
 
 
-Memory address: **49101**
+

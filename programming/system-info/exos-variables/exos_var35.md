@@ -8,8 +8,6 @@ Controls tape output level.
 
 **2**: (default) 40 mV
  
-Memory address: **49128**
-
 ----
 
 See also: [TAPE LEVEL](../../../manuals/is-basic-man-en/options/man_mo-tape-lev.md)

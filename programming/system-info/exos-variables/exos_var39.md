@@ -8,4 +8,3 @@ Only in [EXOS 2.1](../../../software/exos/exos-versions.md) and greater.
 
 Incremented on every interrupt. Can be used as a source of random numbers provided it is only accessed infrequently.
 
-Memory address: **49132**

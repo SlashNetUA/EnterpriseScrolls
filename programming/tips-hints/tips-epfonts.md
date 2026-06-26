@@ -20,9 +20,9 @@
 Команда [CLEAR FONT](../../manuals/is-basic-man-en/commands/man_cs-clear.md) повертає усі символи до початкових.
 
 ### HiSoft Pascal
-Процедура [Character](../hisoft-pascal-hpu/grafcs.hpu.md) з бібліотеки GRAFCS.HPU / TEXTVID.HPU змінює символ шрифта.
+Процедура [Character](../hisoft-pascal/hpu/grafcs-textvid.hpu.md) з бібліотеки GRAFCS.HPU / TEXTVID.HPU змінює символ шрифта.
 
-Процедура [ClearFont](../hisoft-pascal-hpu/textvid.hpu.md) з бібліотеки TEXTVID.HPU повертає усі символи до початкового стану.
+Процедура [ClearFont](../hisoft-pascal/hpu/textvid.hpu.md) з бібліотеки TEXTVID.HPU повертає усі символи до початкового стану.
 
 ### Esc-послідовності
 [Детальніше](../system-info/esc-seq/1b4b-video.md)  

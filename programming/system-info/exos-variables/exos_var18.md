@@ -10,8 +10,7 @@ Sets up the computer's network address number. This must be in the range **1** t
 
 A net number must be specified before using the network, and should not be the same value as set by any other computer on the network.
 
-Memory address: **49111**
-
+----
 
 See also [SET NET NUMBER](../../../manuals/is-basic-man-en/options/man_mo-net-number.md).
 

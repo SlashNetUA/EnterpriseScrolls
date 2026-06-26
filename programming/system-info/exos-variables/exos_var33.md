@@ -9,8 +9,6 @@ Saving speed for tape operations.
 **0**: (default) high - 2400 baud  
 **≠0**: low - 1200 baud
 
-Memory address: **49126**
-
 ----
 
 See also: [FAST SAVE](../../../manuals/is-basic-man-en/options/man_mo-fastsave.md)

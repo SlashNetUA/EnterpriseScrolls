@@ -6,17 +6,19 @@
 
 ## Робота з графікою та шрифтами
 
+[EPImgConv](pc_epimgconv.md)  
 [ep128pal](ep128pal.md)  
-[EPImgConv](pc_epimgconv.md)
+
 
 ## Робота з аудіо
 
-MIDIConv
+MIDIConv  
+[Dave Test](pc-dave-test.md)
 
 ## Компресори
 
 [EPCompress](pc_epcompress.md)  
-DTF
+[DTF](pc-dtf.md)  
 
 ## Програмування
 

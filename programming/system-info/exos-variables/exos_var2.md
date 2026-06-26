@@ -27,6 +27,3 @@ This is the copy of the flag set by the device and is the variable that should b
 |  40h  |  KERNEL  | The [TIMER](exos_var5.md) EXOS variable has counted to zero | v2.1 and greater |
 |       |          |                                             |                  |
 
-
-Memory address: **49095**
-

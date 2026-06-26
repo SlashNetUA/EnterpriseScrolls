@@ -14,8 +14,6 @@ Video mode. This variable select the characteristics of a video page when it ope
 
 Any other values will produce an error (.VMODE) when an attempt is made to open a channel. The three graphics modes correspond to the PIXEL, LPIXEL and ATTRIBUTE modes of the NICK chip.
 
-Memory address: **49115**
-
 ----
 
 See also: [VIDEO MODE](../../../manuals/is-basic-man-en/options/man_vo-video-mode.md)
