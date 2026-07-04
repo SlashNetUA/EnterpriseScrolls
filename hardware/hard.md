@@ -35,7 +35,7 @@ CBM Multi File Transfer
 
 # Аудіопристрої
 
-SID-card  
+[SID-card](sound/hs-sid-card.md)  
 HDIGI  
 SpeakEasy (синтез мовлення)  
 [MSX SE-One](sound/hs-msx-se-one.md)  
