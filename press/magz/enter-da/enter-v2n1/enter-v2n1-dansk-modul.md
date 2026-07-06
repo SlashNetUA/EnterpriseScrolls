@@ -1,0 +1,24 @@
+# DANSK MODUL
+
+[Semicap Data](../../../../companies/semicap-aps.md) lancerer i øjeblikket et Basic [modul](../../../../software/ss-localizations.md), som gør at computeren kan «tale» dansk. Alle fejlmeddelelser og hele danske tekster. Selvfølgelig bliver selve Basic sproget ikke oversat til dansk. Det ville jo være stik imod EDB-terminologien. Foruden selve modulet følger der en manual og fem nye taster med. På to af tasterne er der trykt de samme tegn som allerede findes på din Enterprise. De har dog en anden form, således at de passer på deres nye plads. Disse fem taster kan du selv sætte i, ved hjælp af en sløv bordkniv. Kniven lirkes ind under den gamle tast som forsigtigt vippes og fjernes. Den nye tast kan let trykkes på plads.
+
+Forestil dig den enorme lettelse det er, hvis du er en flittig bruger af [WP](../../../../software/st-wp.md)'en. For det første sidder de danske karakterer, hvor de skal, og de er defineret når du tænder maskinen. En anden ting, og sikkert den største fordel ved det danske modul, er at WP'en ikke længere deler ved `Æ`,`Ø` eller `Å`, men hele ordet «word-wrappes» d.v.s. det bliver taget med ned på den næste linie, hvis det ikke kan være på den foregående.
+
+De danske karakterer er lagt ned som en 'system extention'. Således, at hvis man skriver `:HELP`, vil man se at der foruden **BASIC** og **WP** står **UK**. Hvis man skriver `:UK` vil maskinen opfører sig som om, at det danske modul ikke var i maskinen. Pascal-brugere og andre, der ofte benytter sig af de skarpe paranteser vil sikkert hilse den sidste mode velkommen.
+
+Basic kommandoen: `CLEAR FONT` laver `Æ`,`Ø`,`Å` om til hhv. `[`,`\` og `]`, men de er stadigvæk placeret på de «danske pladser».
+
+Som et ekstra plus ligger der tre skærm-rutiner i modulet. Nemlig `VDUMP`, `VSAVE` og `VLOAD`. `VDUMP` laver en grafikdump til en printer. D.v.s. at den skriver grafik ud på printer. (Det kræves dog at printeren er en [EP80+](../../../../hardware/printer/ep80.md) eller kompatipel ). Alle opløsninger kan klares dog ikke i farver. Istedet er der 16 forskellige nuancer, så billederne erfaktisk meget flotte. `VLOAD` og `VSAVE`, hhv. henter og gemmer en grafikside på enten tape eller disk. En grafikside på 27 linier tager kun 7 sek. at 'loade' fra disk. Et minus er dog, at du selv skal huske at åbne en grafikside, nøjagtig magen til den gemte, før der 'loades'. Det synes vi godt at VLOAD selv kunne gøre.
+
+Du skal endvidere gøres opmærksom på at nogle af programmerne ikke kan køres med det nye modul isat. Modulet reserverer 1-2 Kbytes til tabeller, hvilket medfører at der går 'Anders And' i programmet, hvis det er for stort og overskrider disse tabeller. Programmet må naturligvis heller ikke benytte sig af samme område i RAM'en til sine tabeller. Vi vil derfor kraftigt understrege: BRUG ENTEN UDELUKKENDE [EXOS](../../../../software/ss-exos.md) ELLER LAD VÆRE MED AT BRUGE EXOS OVERHOVEDET. Lad være med at peek'e eller poke'e andre steder end hvor [EXOS](../../../../software/ss-exos.md) har afsat plads til dig, f.eks ved [ALLOCATE](../../../../manuals/is-basic-man-en/commands/man_cs-allocate.md). Er det en maskinkoderutine, piller du bare modulet ud mens du kører den. Er det et basicprogram, må du omskrive det for at kunne bruge det. Følgende programmer er foreløbig testet til ikke at virke med det danske modul: SORCERY, DEVILS LAIR, DEMO128 og AIR WOLF.
+
+For at du kan få dette nye modul skal du indsende dit gamle basic-modul sammen med 585 kr. Når nu der er så mange programmer der ikke kan benyttes sammen med det danske modul, synes vi at [Semicap](../../../../companies/semicap-aps.md) godt kunne lade købere beholde deres gamle modul sammen med det nye. Har de tænkt sig at ombytte spillene med enten nogle nye eller nogle spil, der virker skal vi da ikke klage mere.
+
+Modulet har da også en lille bug, som alt nyt har. Editoren opfatter bindestreg på lige fod med et bogstav. Så vil du dele et ord med bindestreg, bliver du først nødt til at skrive f.eks. et lighedstegn, justificere teksten og dernæst rette lighedstegnet til en bindestreg. Det er en lille fejl, men når modulet er så forholdsvis dyrt, (det gamle modul skal jo afleveres), synes vi godt at Semicap kunne yde denne service, med at bytte spil og rette fejlen.
+
+Her vil vi undlade at give en karakter, men blot sige: «Har du 585 kr., i overskud, synes vi så absolut det er en kæmpe fordel at have modulet. Og bruger du [WP](../../../../software/st-wp.md)'eren meget, kan du ikke undvære dette vidunder». Dette blad er skrevet med modulet, og det var en kæmpe lettelse, ikke at skulle rette de danske bogstaver ind.
+
+----
+
+<div style="text-align:center;">
+<img src="enter_v2n1_06.png" alt="»Er du sikker på han ikke ville foretrække et videospil?«" width="50%"><br><i>»Er du sikker på han ikke ville foretrække et videospil?«</i></div>
