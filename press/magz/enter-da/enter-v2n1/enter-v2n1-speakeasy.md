@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # SPEAKEASY
 
 Så fik vi den endelig. ENTER modtog for et par måneder siden et eksemplar af talemodulet, også kaldet [SPEAKEASY](../../../../hardware/sound/hs-speakeasy.md), for at anmelde det. Det skal indrømmes, at det var med en anelse skepsis, vi åbnede æsken med modulet, hvilket dog senere viste sig at være aldeles ubegrundet.

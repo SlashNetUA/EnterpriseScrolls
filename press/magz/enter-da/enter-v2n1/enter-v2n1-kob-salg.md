@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # KØB >< SALG
 
 Alle kan sikkert godt huske, hvad ideen med denne side var. Hvis ikke kommer,der her et lille resume af sidste nummers tekst: Mangler du noget eller har du for meget? Har du for eksempel en printer for meget eller har du en for lidt? Har du et eller andet du vil købe, sælge eller bytte væk, så benyt dig af ENTER's annonceside®. For den ringe sum af kr. 10,- kan du få en annonce i næste nummer af bladet. Størrelsen af annoncen bestemmer du selv, det eneste krav er blot at du er en privatperson.

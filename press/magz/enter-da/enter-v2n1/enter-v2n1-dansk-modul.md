@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # DANSK MODUL
 
 [Semicap Data](../../../../companies/semicap-aps.md) lancerer i øjeblikket et Basic [modul](../../../../software/ss-localizations.md), som gør at computeren kan «tale» dansk. Alle fejlmeddelelser og hele danske tekster. Selvfølgelig bliver selve Basic sproget ikke oversat til dansk. Det ville jo være stik imod EDB-terminologien. Foruden selve modulet følger der en manual og fem nye taster med. På to af tasterne er der trykt de samme tegn som allerede findes på din Enterprise. De har dog en anden form, således at de passer på deres nye plads. Disse fem taster kan du selv sætte i, ved hjælp af en sløv bordkniv. Kniven lirkes ind under den gamle tast som forsigtigt vippes og fjernes. Den nye tast kan let trykkes på plads.

@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # INPUT >< PRINT
 
 **INPUT £1**: «Forst tak for ENTER nr.2. Der er mange gode tips og fiduser.

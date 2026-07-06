@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # ENTER I/S
 
 Dette blad må ikke gøres til genstand for udlån! Enhver form for mangfoldiggørelse af dette blad, fotografisk, kemisk, mekanisk elektronisk eller på enhver anden måde, er overtrædelse af gældende love!

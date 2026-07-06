@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # Random Access Filer
 
 stod der i den farvestrålende brochure fra [Enterprise Computers](../../../../companies/enterprise-computers-ltd.md).

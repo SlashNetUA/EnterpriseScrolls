@@ -9,7 +9,7 @@
 | Enterprise Magazine                                   |            нідерландська            |         1986         |
 | Enterprise News                                       |              угорська               |         1999         |
 | Enterprise Szolgálat                                  |              угорська               |      1990-1991       |
-| ENTERface                                             |              угорська               |         1989         |
+| ENTERFACE                                             |              угорська               |         1989         |
 | ENTER-NEWS                                            |              німецька               |         1999         |
 | Enterprise Info                                       |              німецька               |         1988         |
 | Chip Special                                          |              німецька               |         1986         |

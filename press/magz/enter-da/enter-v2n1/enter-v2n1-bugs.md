@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # BUGS
 
 Der har, som i alle nye computere, også indsneget sig nogle bugs, altså fejl, i enten [BASIC](../../../../programming/is-basic.md), [WP](../../../../software/st-wp.md) eller [EXOS](../../../../software/ss-exos.md)'en i Enterprisen. Det kan ikke undgås og den eneste måde, at få dem rettet på, er ved at DU skriver til ENTER og fortæller, hvad du har fundet ud af og eventuelt hvordan de kan omgås, så også andre kan få glæde af dine opdagelser. Herefter vil vi selvfølgelig skrive om dem, samt rette henvendelse til [Semicap Data](../../../../companies/semicap-aps.md), som vil sørge for at [Enterprise Computers](../../../../companies/enterprise-computers-ltd.md) bliver gjort opmærksom på fejlene, så de kan blive rettede i senere udgaver.

@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # NØD'en
 
 Og dog. Vi har ikke fået et eneste løsningsforslag til den hårde nød. Det var måske alt for let? Så var det nogle nemme penge at tjene. Det drejede sig trods alt om et dansk modul til en værdi af 585 kr. Er den for svær, eller GIDER I bare ikke? Det er ikke til at vide, for vi har ikke fået nogle breve om det.

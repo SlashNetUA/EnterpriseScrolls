@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # RACE ACE
 
 Dette spil minder noget om Pittstop, det meget populære spil til commodore 64 (undskyld jeg bander), altså en racerbil-simulering.

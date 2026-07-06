@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # SORCERY
 
 For de fleste vil SORCERY nok være en gammel kending. I hvert fald for de medlemmer, der kender lidt til programmerne til både commodore 64 og armstradt.

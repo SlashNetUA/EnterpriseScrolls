@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # THE ABYSS
 
 **The Abyss** er et mærkeligt spil. Det tager sin tid at finde ud af hvad spillet egentlig går ud på.

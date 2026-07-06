@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # ENTERPRISE'n STYREKODER
 
 Enterprise tekstbehandling (WP) indeholder ikke nogen specielle koder til at styre Enterpriseprinteren [EP80+](../../../../hardware/printer/ep80.md) med. Dette betyder imidlertid ikke, at der ikke kan sendes styrekoder fra [WP](../../../../software/st-wp.md) til [EP80+](../../../../hardware/printer/ep80.md), blot fremgår det ikke helt indlysende hvordan.

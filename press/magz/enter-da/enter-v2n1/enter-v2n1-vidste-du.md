@@ -1,3 +1,5 @@
+Стаття з журналу [ENTER Vol 2 #1](../enter-v2n1.md).
+
 # VIDSTE DU
 
  - at ENTER stadigvæk har adskellige [SPEAKEASY](../../../../hardware/sound/hs-speakeasy.md) moduler tilbage til kun 495,- incl. moms for medlemmer.

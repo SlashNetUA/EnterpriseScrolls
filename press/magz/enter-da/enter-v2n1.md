@@ -1,4 +1,4 @@
-# ENTER Vol 2 #1 (1986)
+# ENTER Vol.2 #1 (1986)
 
 <div style="text-align:center;">
 <img src="enter-v2n1/enter_v2n1_01.jpg" alt="обкладинка" width="50%"></div>
