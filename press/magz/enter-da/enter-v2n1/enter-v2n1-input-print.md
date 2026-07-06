@@ -54,7 +54,7 @@ Brevene behøver ikke at være skrevet på printer. Det eneste krav vi stiller e
 
 Hvad I vil gøre ved mit brev, det bliver Jeres problem. Hvis altså I vil bringe det i ENTER. Her er både punkter, som kan gå under «risroser» og noget der kan gå under «input><print», andet kan måske slet ikke placeres under nogen af disse rubrikker. Men her er altså 14 punkter:
 
-1) I '[Private Enterprise](../../../pr-private-enterprise.md)', som sikkert alle medlemmer har modtaget (eller hvor mange er der nu?), er der en lille fejl i screensaver programmet. Hvis man ikke allerede har fundet fejlen, så er den her: i linie 210 skal der stå `RUN 300` og ikke bare `RUN`. Ellers vil programmet køre i en løkke indtil der ikke er mere «allocate-plads». Prøv at sætte `TRACE ON`!
+1) I '[Private Enterprise](../../../pr-private-enterprise-uk.md)', som sikkert alle medlemmer har modtaget (eller hvor mange er der nu?), er der en lille fejl i screensaver programmet. Hvis man ikke allerede har fundet fejlen, så er den her: i linie 210 skal der stå `RUN 300` og ikke bare `RUN`. Ellers vil programmet køre i en løkke indtil der ikke er mere «allocate-plads». Prøv at sætte `TRACE ON`!
 
 2) I sidste nummer af ENTER havde I et tredimentionelt tegneprogram på siderne **26**-**29**. I mit nummer af ENTER er det yderste af nogen af siderne desværre forsvundet i trykket. Det drejer sig om linierne **660**, **700**, **770**, **780** og **1030** på side **27**. Også på side **28** har jeg problemer i linie **520**. Vil man gøre mig den tjeneste at vise disse linier igen i næste nummer af ENTER?
 

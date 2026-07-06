@@ -106,7 +106,7 @@
 
 [(оригінал повідомлення)](https://enterpriseforever.com/hall-of-fame/qa-with-werner-lindner-technical-director-of-the-enterprise-computers-gmbh/msg45550/#msg45550)
 
-> **Werner Lindner**: додаю обіцяні фотографії дуже стильного на вигляд [EXDOS-контролера з Нідерландів](../hardware/exdos/hd-exdos-ddc.md) (фото на обкладинці [Enterface 87/04-05](../press/pr-enterface.md)). Він має пластиковий корпус, а дизайн дуже схожий на оригінальний стиль ENTERPRISE. Механічну структуру гнізда/роз'єму порту розширення можна побачити на обкладинці [Enterface 89/05-06](../press/pr-enterface.md), але я ніколи не бачив додаткових плат розширення для цієї системи. Плата на самому верху "стопки" — це макетна плата, тому я вважаю, що цей EXDOS-контролер був єдиною професійно випущеною платою.
+> **Werner Lindner**: додаю обіцяні фотографії дуже стильного на вигляд [EXDOS-контролера з Нідерландів](../hardware/exdos/hd-exdos-ddc.md) (фото на обкладинці [Enterface 87/04-05](../press/pr-enterface-nl.md)). Він має пластиковий корпус, а дизайн дуже схожий на оригінальний стиль ENTERPRISE. Механічну структуру гнізда/роз'єму порту розширення можна побачити на обкладинці [Enterface 89/05-06](../press/pr-enterface-nl.md), але я ніколи не бачив додаткових плат розширення для цієї системи. Плата на самому верху "стопки" — це макетна плата, тому я вважаю, що цей EXDOS-контролер був єдиною професійно випущеною платою.
 > 
 > <img src="../hardware/exdos/pics/exdos-ddc-enterface_01.jpg" width="40%"> <img src="../hardware/exdos/pics/exdos-ddc-enterface_02.jpg" width="40%"> 
 > 
