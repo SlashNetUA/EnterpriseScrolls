@@ -10,7 +10,7 @@
 
 ## Чернетка вмісту
 
-```
+
 "page-000.ppm" ------------------------------------------------------------ 
 "page-001.ppm" ------------------------------------------------------------ 
 BESTUURSMEDEDELINGEN
@@ -128,4 +128,3 @@ In het volgende nummer onder andere:
 = bizonderheden over IS-D0S en CP/M
 - nieuws over de ENTERPRISE-uitbreidingen
 
-```

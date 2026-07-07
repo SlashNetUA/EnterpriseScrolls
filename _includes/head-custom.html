@@ -66,4 +66,27 @@ document.addEventListener("DOMContentLoaded", () => {
     image-rendering: pixelated;
     image-rendering: crisp-edges;
   }
+
+.tiles {
+    display: grid;
+
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+
+    gap: 16px;
+}
+
+.tile {
+    text-align: center;
+}
+
+.tile img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: contain;
+}
+
+.title {
+    margin-top: 6px;
+}
+
 </style>
