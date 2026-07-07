@@ -14,33 +14,23 @@
 ## 1986
 
 <div class="tiles">
-
   <div class="tile">
     <img src="magz/enterface-nl/1986-05/enterface_1986-05_01.png" width="24%">
-    <div class="title"><a href="magz/enterface-nl/ef-86-05.md">Травень</a></div>
+    <div class="title"><a href="magz/enterface-nl/ef-86-05.html">Травень</a></div>
   </div>
   <div class="tile">
     <img src="magz/enterface-nl/1986-09/enterface_1986-09_01.png" width="24%">
-    <div class="title"><a href="magz/enterface-nl/ef-86-09.md">Вересень</a></div>
+    <div class="title"><a href="magz/enterface-nl/ef-86-09.html">Вересень</a></div>
   </div>
   <div class="tile">
-    <img src="magz/enterface-nl/1986-11-nooduitgave/enterface_1986-11-nooduitgave_01.png" width="24%">
-    <div class="title"><a href="magz/enterface-nl/ef-86-11-nooduitgave.md">Листопад<br>(екстрений випуск)</a></div>
+    <img src="magz/enterface-nl/1986-11-ndtgv/enterface_1986-11-ndtgv_01.png" width="24%">
+    <div class="title"><a href="magz/enterface-nl/ef-86-11-nooduitgave.html">Листопад<br>(екстрений випуск)</a></div>
   </div>
   <div class="tile">
     <img src="magz/enterface-nl/1986-12/enterface_1986-12_01.png" width="24%">
-    <div class="title"><a href="magz/enterface-nl/ef-86-12.md">Грудень</a></div>
+    <div class="title"><a href="magz/enterface-nl/ef-86-12.html">Грудень</a></div>
   </div>
-
 </div>
-
-[ef-86-05](magz/enterface-nl/ef-86-05.md)
-
-[ef-86-09](magz/enterface-nl/ef-86-09.md)
-
-[ef-86-11-nooduitgave](magz/enterface-nl/ef-86-11-nooduitgave.md)
-
-[ef-86-12](magz/enterface-nl/ef-86-12.md)
 
 ## 1987
 
