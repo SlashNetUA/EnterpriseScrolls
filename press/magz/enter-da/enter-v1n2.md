@@ -1,4 +1,4 @@
-# ENTER Vol.1 #2 (1985)
+# ENTER Vol.1 #2 (1985 ≈вересень-грудень)
 
 <div style="text-align:center;">
 <img src="enter-v1n2/enter_v1n2_01.jpg" alt="обкладинка" width="50%"></div>
@@ -7,4 +7,2572 @@
 
 
 ## Зміст
+
+## Чернетка вмісту
+
+"page-000.jpg" ------------------------------------------------------------ 
+1. =D
+1) NR.
+
+sam Er E— )
+
+7 med fuld ag
+kraft fremad..!
+
+"page-001.jpg" ------------------------------------------------------------ 
+SENTER I/S
+
+Dette blad må ikke gøres til
+genstand for udlån!
+
+Enhver form for mangfoldig-
+gørelse == af dette blad,
+fotografisk, kemisk,
+mekaninsk, elektronisk eller
+på enhver anden måde er
+overtrædelse af … gældende
+love!
+
+Erik Dam Olsen
+
+Redaktion 5
+& Lars Lie
+
+Ansvarshav. : Erik Dam Olsen
+" Lars Lie
+
+Oplag: 500 eksemplarer
+
+ENTER er en forening, som
+
+beskæftiger sig med
+computeren Enterprise.
+Foreningens formål er Sat
+forøge brugernes udbytte af
+denne maskine, gennem
+udveksling sp r-53 tips,
+informationer og programmer.
+
+Foreningen | hviler
+økonomisk i sig selv, og har
+ingen økonomiske eller
+kommercielle ==  Svinteresser,
+ligesom foreningen ingen
+forbindelse har med
+Enterprise Computers, hverken
+interessemæssigt eller
+økonomisk.
+
+DEAD-LINE for stof til ENTER
+nr. 03: 31/12-1985.
+
+Foreningen udsender 4
+gange om året sit medlemsblad
+ENTER. Et medlemsskab af
+foreningen er $ helt
+uforpligtende, og man kan
+selv vælge, hvornår man ikke
+ønsker flere medlemsblade
+tilsendt, Alle kan bidrage
+til medlemsbladet, også ikke-
+
+medlemmer, men det er kun
+
+medlemmer der
+bladet. TAS
+Man bliver medlem af
+foreningen ved at indbetale
+kr 2257 på giro nr, 8 40
+95 36. Medlemsindtegningen
+sker en gang om året, pr 1.
+januar. Medlemmer der melder
+sig ind senere, får så vidt
+muligt tilsendt de
+medlemsblade, der er udkommet
+fra 1. januar det pågældende
+år. '-
+Forespørgsler vedrørende
+foreningen og dens
+
+modtager
+
+aktiviteter kan rettes til:
+
+Erik Dam Olsen, tlf: (06)
+240396 ; 2
+Lars. Lie, LES 406)
+240218
+
+Da lovgivningen omkring
+anvendelsen af  datamatisk
+udstyr og programmel ikke er
+fulgt med udviklingen, ser vi
+os nødsaget til at fastslå,
+at hverken ENTER eller
+forfattere til artikler i
+ENTER kan drages til ansvar
+for eventuelle følger af
+anvendelsen af det
+publicerede stof. Man må ikke
+forvente, at redaktionen har
+tid og kræfter BT at
+gennemteste EJ eks. publiceret
+programmer i sådan grad, at
+de kan garenteres fejlfri.
+
+Foreningens adresse:
+
+ENTER I/S.
+
+Spobjergvej 113,
+8220. Brabrand.
+"page-002.pbm" ------------------------------------------------------------ 
+LEDER
+
+Den 13. sep 1985 skete der
+noget bemærkelsesværdigt med
+ENTER. På denne dato fik vi,
+Lars Lie og Erik Dam Olsen
+overdraget ansvaret for
+ENTER. Hidtil har det været
+Semicap Data, som har stået
+for udgivelsen af ENTER. De
+er stadig med som støtte for
+de tekniske spørgsmål.
+
+Da vi gerne vil vide
+hvilket besiddelse. af, bedes
+du indsende vedlagte kupon i
+udfyldt stand.
+
+Du har sikkert været
+medlem af ENTER i lang tid,
+måske siden starten. Derfor
+tænker du sikkert: "Hvad nu,
+jeg har allerede været medlem
+i lang tid. Løber mit
+abonement snart ud?". NEJ,
+kære medlem. Dit abonement på
+ENTER vil gælde fra og med
+dette blad og et år frem i
+tiden.
+
+Foreløbigt er det vores
+mening at udkomme 4 gange
+årligt, men det afhænger
+først og fremmest af DIG.
+Modtager vi meget stof fra
+dig, kan vi måske udkomne
+noget oftere. Det afhænger
+dog også af hvad der sker i
+England. .
+
+Har du et eller andet du
+ikke kan forstå, sidder du
+med et problem til en god og
+effektiv løsning af dit
+seneste program, har du
+opdaget noget interessant, du
+kunne tænke dig at vide mere
+om eller har du ønsker om
+artikler, så SKRIV TIL ENTER.
+Selvom du måske har noget som
+ser simpelt ud,så skriv også.
+
+Det kan jo være at andre
+medlemmer ikke har fundet ud
+af det. F.eks. er utroligt
+mange interesseret i peeks og
+pokes. Har du noget sjovt, s
+
+fat pennen og skriv. Har du
+nogle spørgsmål til ENTER, så
+skriv om du vil have svar med
+det samme eller om du kan
+
+vente til næste nummer
+udkommer. Under alle
+omstændigheder bliver alle
+breve, indsendt til ENTER,
+offentliggjort.
+
+Når du indsender
+hjemmelavede programmer,
+bedes du sende dem på et
+bånd, som selvfølgelig vil
+
+blive returneret.
+Vi glæder os til at høre
+nærmere fra dig.
+
+LEDER eee ……5680ee0edeedee0deeedeeEeeEe de 3
+VIDSTE DU eg ease seet eee 4
+FIND DIG SELV sees Åå
+DISK CONTROLLER 00000002 7
+BREV FRA PETER EKSTRAM ... 8
+GAMMEL/NY NØD see 0o00…e
+128'RENS HASTIGHED ...0………
+PIRATER SBGeee0eedebeebeededede tee
+KØB > < SALG se 68800 tee
+ANMELDELSER eve eee
+RISROSER sGe0eese0e0egeeeededee
+INPUT > < PRINT sees s…0…
+PERSPEKTIV eGG06Ge08g88ebte0e0edeteeetee
+"page-003.pbm" ------------------------------------------------------------ 
+Vidste du:
+
+- hvordan man får en dansk
+manual eller et
+program? I ENTER nr. 1 kunne
+du læse,at Semicap Data gav
+en gratis dansk manual eller
+eet program til en værdi på
+op til 200.-, til alle der
+har købt en” Enterprise i
+Danmark.
+
+Hvordan får man så den
+danske manual? Du skal rive
+den første side i den
+engelske manual ud. Det er
+den, hvor der øverst står:
+
+PROGRAMMING GUIDE
+og nederst på siden står der
+Version 1
+
+På denne side skriver du
+dit navn, adresse og din
+Enterprise' s serienummer (det
+står bag på computeren), og
+om det er en 64'er eller en
+128'er. Hvornår du har købt
+den samt hvor skal også med.
+
+Husk. også at skrive om du
+vil have en manual eller et
+program og hvilket program.
+Send siden til:
+
+Semicap Data ApS.
+Odinsgade 31
+5000 Odense C
+
+- at har du købt en
+
+Enterprise 64 til 4995.-, kan
+du til en særpris få
+opgraderet den til en 128'er
+for kun 995.-, ellers koster
+det 1595,-
+
+gratis
+
+- at der desværre ikke indkom
+nogle brugbare slogans til
+konkurrencen fra ENTER nx. 1.
+
+- at alt hvad der har med
+Enterprise at gøre, er
+flyttet til Odense. Se
+adressen andetsteds på denne
+side. Selvfølgelig har de
+andre Semicap-butikker også
+Enterprise, både hardware og
+software.
+
+- at ENTER har et TILBUD på
+software. Vi har 16 Adventure
+Playground og 11 Colossal
+Adventures til salg for
+henholdsvis kr. 110,- og kr.
+150,-. Normalprisen er hhv.
+kr. 140,- og kr. 190,-.
+
+Find dig selv.
+
+S=fSSSSS SS SS SEERE
+S33S33S3S33S3S3Sss2eEerns
+
+Bruger du |Enterprise's
+mulighed for turtle-grafik?
+Hvis ja, har du sikkert tit
+været ude for, ikke at vide
+hvor på skærmen du befinder
+dig, har jeg ikke ret? Det er
+især, hvis du bruger.
+rekursive kald, at det er
+komplet umuligt at beregne
+nøjagtigt, hvor man befinder
+sig på video-siden.
+
+Til at afhjælpe dette
+problem, har jeg lavet en
+maskinkode-rutine, der finder
+ud af din nøjagtige
+placering:
+"page-004.pbm" ------------------------------------------------------------ 
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+240
+250
+260
+
+270.
+
+280
+290
+300
+310
+320
+330
+340
+350
+360
+370
+380
+390
+400
+410
+420
+430
+440
+450
+460
+470
+
+480
+
+PROGRAM "READPOS"
+!
+
+1! Lavet af Erik Dam Olsen.
+
+LET UN$="ALLOCATE TEST"
+LET DS=50
+LET SZ=DS+LEN(UN$)
+IF VERNUM=2 THEN
+LET TT=PEEK (544)+256%PEEK(545)-S2
+FOR X=1 TO LEN(UN$)
+IF PEEK(X+TT-1)<>ORD(UN$(X:X)) THEN
+ALLOCATE SZ
+POKE 542,PEEK(544):POKE 543,PEEK(545)
+CODE ="ALLOCATE TEST"
+RUN
+END IF
+NEXT
+LET X=X+TT:POKE 540,X BAND 255;POKE 541,X/256
+ELSE ALLOCATE DS
+END IF
+
+CODE PLACE="0000"
+
+CODE READ=HEX$("1B,40")
+
+CODE CHAN=HEX$ ("65")
+
+CODE READPOS=HEX$ ("22") &WORD$ (CHAN) &HEX$("3a"")
+CODE =WORD$(CHAN)&HEX$("1,2,0,11")&WORD$ (READ)
+CODE =HEX$("F7,8,3a")&WORD$ (CHAN) &HEX$("1,4,0,11")
+
+CODE =WORD$ (PLACE) &HEX$ ("F7,6,C9")
+CODE DATA="""
+
+GRAPHICS HIRES 16
+DO
+SET INK RND(16)+1
+PLOT RND(1279)+1,RND(719)+1
+CALL USR(READPOS,101)
+1! parameteren betegner kanalnummer på grafik-siden.
+PRINT "”X-pos:" PEEK(PLACE)+256%PEEK(PLACE+1),
+
+PRINT "Y-pos:" PEEK(PLACE+2)+256%PEEK(;PLACE+3 )
+LOOP
+"page-005.pbm" ------------------------------------------------------------ 
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+240
+250
+260
+270
+280
+290
+300
+310
+320
+330
+340
+350
+360
+370
+380
+390
+400
+410
+420
+421
+422
+423
+424
+425
+480
+490
+500
+
+Følgende lille program,
+demonstrerer brugen af
+
+READPOS
+
+ved at tegne et binært træ.
+Hvert niveau på træet har sin ,
+egen farve (op til 16
+forskellige): '
+
+PROGRAM "GROWTREE"
+'
+
+i Lavet af Erik Dam Olsen (C).
+
+LET UN$="ALLOCATE TEST"
+LET DS=50
+LET SZ=DS+LEN(UN$)
+IF VERNUM=2 THEN
+LET TT=PEEK (544)+256%PEEK (545)-S2
+FOR X=1 TO LEN(UN$)
+IF PEEK(X+TT-1)<>ORD(UN$(X:X)) THEN
+ALLOCATE S2
+POKE 542,PEEK(544):POKE 543,PEEK(545)
+CODE ="ALLOCATE TEST"
+RUN
+END IF
+
+NEXT
+LET X=X+TT:POKE 540,X BAND 255:POKE 541,X/256
+
+ELSE ALLOCATE DS
+END IF
+
+CODE PLACEz="0000"
+
+CODE READ=HEX$("1B,40")
+
+CODE CHAN=HEX$ ("65")
+
+CODE READPOS=HEX$ ("22") &WORD$ (CHAN) &HEX$("3a")
+CODE =WORD$ (CHAN) &HEX$("1,2,0,11") &WORD$ (READ)
+CODE =HEX$("F7,8,3a")&WORD$ (CHAN) &HEX$("1,4,0,11")
+CODE  =WORD$ (PLACE) &HEX$("F7,6,C9")
+
+CODE DATA=""
+
+!
+
+DEF TREE (DIRECTION,LENGTH)
+
+Tree tegner et tr i retning direction, hvis
+grenlngde starter med length og derefter af-
+tager med een for hvert kald. Grenlingder
+multipliceres med unit.
+
+- fm fæ fæ fm
+
+NUMERIC X,Y
+SET INK LENGTH
+PLOT ANGLE DTRECT CY":
+
+6
+"page-006.pbm" ------------------------------------------------------------ 
+510 PLOT FORWARD LENGTHZUNIT,
+520 CALL USR(READPOS,101)
+530 LET X=PEEK(PLACE)+256%PEEK(PLACE+1)
+540 LET Y=PEEK (PLACE+2)+256%PEEK(PLACE+3)
+550 IF LENGTH>1- THEN
+560 CALL TREE(DIRECTION-45,LENGTH-1)
+570 PLOT X,Y
+580 CALL TREE(DIRECTION+45,LENGTH-1)
+590 END IF
+600 END DEF
+610 ! .
+620 GRAPHICS HIRES 16
+630 OPTION ANGLE DEGREES
+640 INPUT PROMPT "X, Y, enhed: "SX,Y,UNIT
+650 INPUT PROMPT "Retning, hjde: "SDIRECTION,HEIGHT
+660 PLOT X,Y '
+670 CALL TREE(DIRECTION, HEIGHT)
+680 END ! growtree
+dantliggende. Controlleren
+
+NU KOMMER DEN SNART.
+
+78781117 FEE HK
+Ss38S38sssSssSsss8s8Ss3sSessSss ss
+
+Floppy disk controlleren
+er på vej. Du havde måske
+ventet et kompakt system,
+bestående af drives,
+strømforsyning, kasse og
+controller? Disse planer er
+man i England gået bort fra
+til fordel for et mere
+kompakt system. Grunden til
+dette er, at der findes så
+mange billige diskette-drev
+på markedet, at et
+færdigtsyet system ville
+blive for dyrt. Semicap Data
+vil dog kunne tilbyde færdige
+
+systemer på enten 5 1/4"
+eller 3 1/2" og med en
+kapacitet på 800K bytes
+
+formateret. Drevene er af den
+anerkendte type Cumana.
+
+FDC'en er en af de
+smarteste, der er lavet til
+dato. Alt du skal foretage
+dig er at tilslutte dit
+diskette drev, det være
+sig 5 1/4", 3 1/2" eller
+sågar Amstrads 3", hvis du
+skulle have et så-
+
+"4
+
+kan kontrollere helt op til
+fire drev på en gang. De kan
+være af typensingle density,
+double density, single sided
+eller double sided, 40 eller
+80 spors. Alt dette finder
+din FDC selv ud af, Det
+eneste den kræver er, at det
+skal være Shugart 410
+kompatibelt, men da langt de
+fleste drev, som er på
+markedet er af denne type,
+skulle det ikke betyde noget.
+
+Controlleren er
+filkompatibel med PC-DOS, MS-
+DOS og MSX-DOS og med den
+samme struktur i Directory.
+Senere på året vil der komme
+en option til EXDOS, så denne
+bliver program- og
+filkompatibel med CP/M,
+nemlig en IS-DOS. Det betyder
+at man kan køre f.eks.
+WordStar på sin Enterprise.
+Der kommer som nævnt ikke
+nogen egentlig CP/M. Den
+største årsag er nokden pris
+
+'det koster for at måtte kalde
+
+sit operativsystem for CP/M,
+for det andet bliver IS-DOS
+meget mere smart. Det er et
+af de mest, om ikke det mest
+"page-007.pbm" ------------------------------------------------------------ 
+gennemtænkte systen mellem en
+computers eget operativsystem
+og CP/M. Vi tør faktisk godt
+påstå at det er langt bedre
+end CP/M. Lad os tage et
+eksempel: Du sidder og
+arbejder med WordStar i
+almindelig CP/M. Efter et par
+timer vil du lige gemme din
+tekst. Du giver dig til at
+lagre dine data og disketten
+bliver fyldt op inden du er
+færdig, eller der er måske et
+dårligt spor på disketten.
+
+Derfor overtager CP/M nu
+kontrollen og du mister hele
+din tekst og timers arbejde
+er spildt. Det er her at 1S-
+DOS'en har en af sine klare
+
+" fordele. iIS-DOS nøjes nemlig
+
+med at melde tilbage. at der
+er for lidt plads, et dårligt
+spor eller hvad der nu måtte
+være galt. Du bliver derefter
+spurgt hvad du vil stille op.
+Intet arbejde er spildt.
+Lækkert ikk'?
+
+INSUFFICIENT MEMORY
+
+Se engang på det øverste af
+de to programmer. Det
+indeholder en funktion ved
+navn JOY, der har til formål
+at returnere joystickets
+stilling.
+
+Programmet fungerer ikke,
+det giver fejlmeddelelsen:
+
+kkk Insufficient stack space
+
+og så må det vel være
+Enterprise, der har sat
+forlidt plads af til 'stack'
+- eller måske den pågældende
+Enterprise der er noget galt
+med??
+
+Ingenlunde, der er
+derimod tale om det man
+kalder en syntaksfejl, det
+vil sige at de sproglige
+regler ikke er overholdt -
+med andre ord, så gryver di
+ok mæ dekker ste de. - Nej
+vel? Den gled ikke ned?
+Ligeså med Enterprise, den
+skal også have tingene
+ordentligt forklaret.
+
+Lad os prøve at spore
+fejlen (irace, som det hedder
+på engelsk), så vi sætter
+TRACE ON. Vi kan da bl.a. se,
+at programmet, når det er
+nået til linie 240 første
+gang, bliver ved med at hoppe
+mellen linierne 240 og 250 og
+
+aldrig kommer videre til
+linie 260!
+
+Programlinie 250 'kalder'
+altså linie 240; linie 240 er
+den første linie i funktionen
+"Joy" 1?! Funktionen "Joy"
+kalder altså sig selv - det
+hedder rekursion. Når
+funktionen "JOY" bliver bedt
+om at returnere en værdi,
+sådan som det sker i linie
+130, bliver den altså ved med
+at bede SIG SELV om en værdi!
+
+Det er altså her
+problevet med den manglende
+'stack space' opstår, i
+"JoY"'s uendelige kald til
+sig selv.
+"page-008.pbm" ------------------------------------------------------------ 
+Hvad er det så, der får
+JOY til at bede sig selv om,
+at returnere en værdi til sig
+selv> Det er selvfølgelig
+ordet 'JOY' i funktionen!
+'"JOY(0)' er et kald til den
+brugerdefinerede funktion "
+JoY", der har højere
+prioritet en Enterprise's
+indbyggede funktion JOY(x),
+der har til formål at
+
+100 PROGRAM "Jo0Y"
+110 CLEAR SCREEN
+
+returnere joystickets
+stilling.
+
+Problemet opstår ved brug
+af iIS-Basic nøgleord. Det er
+ikke syntaktisk forkert, men
+kan give årsag til problemer
+som her. I det nederste af
+programmerne er funktionens
+navn ændret til "JOB",
+hvorefter programmet fungerer
+
+uden at give fejlmeddelelse.
+
+120 PRINT AT 10,10:"BRUG STICK"
+130 ON JOY GOTO 180,160,140,200
+
+140 CLEAR SCREEN
+
+150 PRINT AT 10,10:"TIL HOEJRE"
+
+160 CLEAR SCREEN
+
+170 PRINT AT 10,10:"TIL VENSTRE"
+
+180 CLEAR SCREEN
+
+190 PRINT AT 10,10:"FREMAD"
+
+200 CLEAR SCREEN
+
+210 PRINT AT 10,10:"TILBAGE"
+
+220 END
+230 DEF JOY
+240 DO
+
+250 LET STICK=ABS((JOY(0)=1)x3+(JO0Y(0)=2)
+x2+(JOY(0)=4)%4+(JOY(0)=8)=1)
+260 LOOP UNTIL STICK«>0
+
+270 LET JOY=STICK
+280 END DEF
+
+TRACE ON
+
+BRUG STICK
+
+<130><240><250><240><250><240><250><
+240><250><240><250><240><250><240><
+250><240>«<250><240><250><240><250><
+240><250><240>«<250><240><250><240><
+
+250><240><250>
+
+kkk Insufficient stack space.
+
+230 DEF JOY
+
+copy
+"page-009.pbm" ------------------------------------------------------------ 
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+240
+250
+
+PROGRAM "JOB"
+CLEAR SCREEN
+
+CLEAR
+PRINT
+CLEAR
+PRINT
+CLEAR
+PRINT
+CLEAR
+PRINT
+END
+DEF JOB
+DO
+
+SCREEN
+SCREEN
+SCREEN
+
+SCREEN
+
+PRINT AT 10,10:"BRUG STICK"
+ON JOB GOTO 180,160,140,200
+
+AT 10,10:"TIL HOEJRE"
+AT 10,10:"TIL VENSTRE"
+AT 10,10:"FREMAD"
+
+AT 10,10: "TILBAGE"
+
+LET STICK=ABS((JOY(0)=1)x3+(JOY(0)=2)
+
+x2+JOY(0)=4)%4+(JOY(0)=8)%1)
+
+260
+270
+280
+
+LET JOB=STICK
+END DEF
+
+Den hårde Nød: PROTECT.
+
+—IMÆ)—]VT SST TEDE
+s=so2ssssuessssssSs2Su>e238 83S3:3Ssss=
+
+af
+fra ENETR
+
+"Den hårde
+nr. 1 er
+
+vinderen
+Nød"
+fundet.
+
+Frederik Willerup
+Norske Alle 5
+2840 Holte.
+
+indsendte følgende meget fine
+svar, som præmieres af
+Semicap Data med software af
+valgfri titel til en samlet
+værdi af kr. 500,-.
+
+19
+
+LOOP UNTIL STICK«>0
+
+Peter Ekstram
+
+Svaret lød:
+NDROTECT kommandoen:
+Syntaks:
+
+SET TAPE PROTECT ON/OFF
+TOGGLE TAPE PROTECT
+ASK TAPE PROTECT variabel
+
+Disse kommandoer bruges til
+at manipulere og kontrollere
+værdien af EXOS-variabel nr.
+34, nemlig PROTECT. Når man
+gemmer filer af forskellig
+art med OPEN, bliver en byte
+i cfilens header sat lig med
+
+PROTECT's værdi. Dette
+medfører, at filen til en
+hvis grad er beskytte mod
+
+kopiering på følgende måde:
+"page-010.pbm" ------------------------------------------------------------ 
+Når filen, med PROTECT-
+
+byten "true", på et senere
+tidspunkt åbnes . med
+kommandoen
+
+OPEN £x:"TAPE:"ACCESS INPUT
+
+vil et forsøg på at. åbne en
+outputfil med kommandoen OPEN
+£y:"TAPE:navn"ACCESS OUTPUT,
+resultere i EXOS-fejl nr.
+9227 ("Protection violation")
+Dette forhindrer, at man ikke
+kan benytte COPY-kommandoen
+til kopiering af filen.
+
+"OPEN-OUTPUT forbudet"
+ophæves først når
+inputkanalen (£x) lukkes. Det
+skal tilføjes, at PROTECT
+ingen reel betydning har på
+BASIC programfiler."
+
+siger tak og god
+fornøjelse med din software,
+frederik. Håber at høre mere
+fra dig i nærmere fremtid.
+
+Vi
+
+Det
+sidste
+
+kan godt være at
+
+nummers nød var for
+svær. Vi fik ihvertfald ikke
+så mange løsninger som vi
+havde ventet. Dette håber vi
+skulle blive anderledes med
+denne nød. Der er her tale om
+programmeringsteknik fremfor
+kandskabet til selve
+maskinen.
+
+Du skal skrive et program
+som henter enten en ASCII-
+eller en teksbehandlingsfil
+ind og oversætter = nogle
+specialtegn, til de danske
+tegn " Øø, å, Æ, Ø og Å".
+Der skal selvfølgelig tages
+hensyn til store bogstaver
+efter punktum, kolon og andre
+specielle tilfælde. Altså
+ganske i overensstemmelse med
+den danske retstavning. Der
+skal endvidere udfærdiges en
+brugsanvisning til pro-
+grammet. Efter oversættelsen
+skal teksten igen lagres
+tape. Det er tilladt
+antage, at brugeren
+programmet er i besiddelse
+to båndoptagere.
+
+Der vil i bedømmelsen af
+opgaven blive taget hensyn
+til overskuligheden af
+programmet ligesom program-
+strukturen bliver bedømt
+meget kritisk. Brugsanvis-
+ningen skal være kort og
+koncis.
+
+Det ligger frit for
+opgaveløseren at bestemme
+programmeringssproget. Et
+maskinkodeprogram tæller ikke
+mere end et Basicprogram.
+
+Alle de indsendte
+løsninger vurderes og Erik
+Kempf, Semicap Data, Erik Dam
+Olsen og Lars Lie, begge fra
+ENTER. Det bedste vil blive
+præmieret med et, ja grin nu
+ikke, dansk tastetursæt.
+
+Få så støvet din
+Enterprise af, og send dit lø
+sningsforslag ind, senest
+inden to måneder fra bladets
+udgivelsesdag. Har du
+eventuelt nogle forslag til
+
+næste  snummers Nød, modtages
+de stadigt med kyshånd.
+"page-011.pbm" ------------------------------------------------------------ 
+128'er Hastighed.
+
+— FT NSSSESSDETEDE
+sss2s32Ss2u2S8SSsSss3S ==
+
+Hastigheden på
+er som du sikkert ved, noget
+større end på 64'eren. Det
+drejer sig om 25-30%. Det er
+så meget at softwarehusene
+har fået sig et nyt problem.
+Maskinen kører alt for
+hurtigt til at man kan følge
+med i nogen spil. De havde
+regnet med at en Enterprise
+
+var en Enterprise, men der
+er jo som nævnt denne
+behagelige forskel. Derfor
+må softwaren, for at få
+hastigheden ens, teste om
+der er tale om en 64'er
+
+eller en 128'er. Men hvad er
+egentligt sqgrunden til denne
+store hasighedsforøgelse?
+
+Hele Enterprises
+hukommelse, hvad enten det
+drejer sig om ROM eller RAM
+hukommelse, er delt op i
+
+segmenter. På 64'eren er der
+minimum 7 segmenter
+128'eren har som minimum 11
+segmenter. Der kan på begge
+maskiner maximalt være 256
+segmenter. Grunden til denne
+opdeling er, at
+Enterprise'ns CPU (altså den
+chip, der laver alt regne-
+arbejdet i maskinen), er en
+280A processor. Denne kan
+kun adressere op til 64K
+bytes. Derfor bliver man
+nødt til at dele hukommelsen
+op i segmenter a 16K bytes.
+
+128'eren -
+
+og .
+
+Nu er det organiseret
+sådan, at segmenterne, med
+numrene 252, 253, 254 og
+255, er de eneste, som
+grafikchippen NICK kan
+adressere. På 64'eren er
+disse segmenter det eneste
+RAM-område i maskinen. 2Z80
+
+processoren og NICK-chippen
+må derfor pænt deles om
+denne RAM; der opstår altså
+en del venten. På 128'eren
+
+og maskiner med RAM
+udviddelser, eksisterer
+dette problem ikke. Her er
+de fire topsegmenter afsat
+
+til video-RAM, mens de, andre
+segmenter så kan bruges til
+programmer, buffere og
+andet.
+Endvidere er Basic'en og
+
+EXOS 2.1 noget hurtigere.
+Alle disse ting er med til"
+at give 128'eren den større
+
+hastighed.
+
+ONE
+
+12
+
+TUC)
+
+EIGHT.
+"page-012.pbm" ------------------------------------------------------------ 
+Kender du en Pirat?
+
+I al den tid mennesket
+har handlet, har der fandtes
+pirater. 1 det gamle
+kejserdømme i Kina, i Sararas
+ørken, i Vikinge-tiden tog
+vikingerne ud og plyndrede og
+1800 tallet var det
+røverne, som plyndrede
+blandt de søfarende,
+landevej srøverne
+landjorden. Nutidens pirater
+sidder indendørs bag
+nedrullede gardiner og
+arbejder i ly af mørket med
+deres computer. De røver,
+kopierer, programmer til
+deres hjemmecomputerer. De
+har nok eksisteret siden
+computeren kom frem i større
+stil. I denne tid hvor salget
+af hjemmecomputeren er på sit
+højeste, sker der ligefrem en
+organiseret piratkopiering.
+Du så måske TV-avisen, jeg
+tror det var i September,
+hvor en ung mand sad og
+fortalte sin mening, ja
+ligefrem var han stolt da han
+fortalte om omfanget af hans
+kopiering og den organisation
+han var med i. Den dækkede
+det meste af verden, f.eks.
+fik han knækkede programmer
+fra. Sydamerika. Endvidere så
+man hvordan hans
+crackingprogram virkede og
+han fortalte lidt om hvordan
+han arbejdede.
+
+I Den Blå Avis kan man
+hver uge læse om originale
+programmer, der sælges til
+utroligt lave priser. Jeg
+forstår ikke hvordan man tør
+
+annoncere med piratsoftware.
+Politiet læser jo også
+aviser.
+
+13
+
+Der er også eksempler på
+skoleelever, der bruger
+skolens computer til i
+timerne at kopiere programmer
+på. "Der er sågar skoler,hvor
+lærerne kun køber et
+eksemplar af et givet stykke
+software for derefter at
+
+kopiere det til resten af
+skolens computere. Dette er
+
+selvfølgelig både ulovligt og
+uetisk. Een computer, eet
+stykke originalt software.
+
+For private brugere er
+sagen en lille smule
+anderledes. Her er det
+
+stadigt lovligt at tage en
+sikkerhedskopi af et købt
+program til EGET brug, men
+lige så snart man låner det
+ud, det bliver solgt eller
+man bytter med andre
+programmer, overtræder man
+loven om ophavsret.
+
+Både de private
+programmøre, softwarehusene,
+distributørerne og
+forhandlerne ofte
+investeret penge i
+softwaren. Da det er de to
+førstnævnte, som udvikler
+softwaren, investerer de ofte
+meget store summer i dette
+udviklingsarbejde, og
+eftersom det er softwaren,
+der skal holde liv i en
+computer på længere sigt, er
+piratkopiering derfor, groft
+sagt, "den rene død" for en
+computer. Man kunne godt
+tænke sig at kopieringen blev
+så omfattende at
+softwareudviklerne stoppede
+deres udviklingsarbejde, hvem
+ved, der skal måske ikke så
+meget til det?
+
+har
+menge
+"page-013.pbm" ------------------------------------------------------------ 
+I det engelske bruger-
+blad, Private Enterprise,
+foreslog en læser,” man
+startede en  sprogram-bytte-
+klub. I denne skulle
+medlemmerne for et symbolsk
+beløb kunne købe kopier af
+spil og lignende programmer.
+
+Hjemmelavede programmer kunne
+også indgå i denne "service".
+
+Hvad mener du? Lad ENTER
+få din mening om
+piratkopiering at. høre. Hvad
+enten den er for eller imod.
+Start en debat i ENTER.
+
+YBINS
+
+SJILNS3I3
+
+SJILNSI
+
+S3.N3
+
+SIMS
+
+IHILINS3I
+
+TIL
+TI
+TIL
+TIL
+TI
+
+TIL
+
+14
+
+NISMAaS
+
+”"IMMS
+
+NIMAS
+
+WIMAS
+
+WnWISAS
+
+NI HAS
+"page-014.pbm" ------------------------------------------------------------ 
+KØB > < SALG
+
+Mangler du noget, eller har
+du for meget? Har du for
+eksempel en printer for meget
+eller har du en for lidt?
+Står du og  smangler et
+joystick, har du bygget en
+lille stereoforstærker til at
+udnytte Enterprise's
+formidable stereolyd fuldt ud
+eller har du bare noget du
+vil købe, sælge eller bytte
+væk, så benyt dig af ENTER's
+annonceside(r). For den ringe
+sum af kr. 10,- kan du få en
+annonce i næste nummer af
+ENTER. Størelsen af annoncen
+bestemmer du, det eneste krav
+er, at du er en privatperson.
+
+15
+"page-015.pbm" ------------------------------------------------------------ 
+pay
+
+ANMELDELSER
+
+rubrik vil for
+eftertiden være forbeholdt
+anmeldelser af software og
+hardware til Enterprise'n.
+Alle anmeldelser vil
+indeholde en beskrivelse af
+emnet i korte træk, men vil
+ikke, som du måske
+forventede, indeholde en
+karakter. Grunden hertil er,
+at vi her på redaktionen
+mener at ingen andre end
+brugeren af soft- hardwaren
+kan bedømme det. Derfor vil
+vi også tilstræbe at
+beskivelsen fra os bliver så
+objektiv som mulig.
+
+Rubrikken i denne uge er,
+som du ser, ikke særlig stor.
+Det skyldes, at vi til dato
+ingen software eller hardware
+har modtaget fra Semicap
+Data, men vi håber da på, at
+vi inden længe vil få et godt
+samarbejde i gang på dette
+område.
+
+Denne
+
+NODES OF YESOD |
+
+EF 1-5
+s2»238ssS33303SS38=
+
+Nodes of Yesod er et
+space-spil, hvor man er mere
+duperet over grafikken end
+
+over spillet som sådan.
+
+Spillet starter med at
+tegne et billede af en
+astronaut, hvoraf E.P.'s
+fremragende grafik virkelig
+fremgår.
+
+Efter at have beundret
+dette billede et stykke tid
+kan man,ved et tryk på ENTER,
+få gang i selve spillet.
+
+16
+
+Igen er det første, der
+slår en, grafikken. Den er
+mildest talt fremragende.
+
+Man ser med det samme,at man
+befinder sig paa månen. Ude i
+den sorte horisont blinker
+stjernerne side om side med
+jorden.
+
+Midt spå månen står så
+vores lille komiske
+astronaut. Han kan nu
+manøvreres rundt på månen ved
+hjælp af enten tasteturet,
+on-board joysticken eller en
+ekstra joustick.
+
+Ved hjælp af mellemrums-
+tasten får man ham til at
+springe, hvilket under gang
+medfører,at han slår en smuk
+saltormotale. Alt i alt
+virker hans  Ssfremturén på
+månen særdeles morsomt.
+
+På et tidspunkt under
+hans fremfærd, dratter han i
+et månekrater, hvorefter
+løjerne virkelig starter. Her
+nede, dybt under månens
+overflade, befinder der sig
+en række underlige dyr, med
+både gode og dårlige
+egenskaber.
+
+Det er nu vores lille
+helts opgave at indsamle
+forskellige genstande, ved at
+
+løbe, hoppe og springe.
+
+KONKLUSION: Alt i alt afviger
+dette spil ikke meget fra de
+hundrede andre spil i samme
+genre, bortset fra grafikken,
+som efter min mening er alle
+pengene værd.
+"page-016.pbm" ------------------------------------------------------------ 
+RISROSER
+
+Hvad mener du om ENTER?
+Har du et forslag til
+ændringer, forbedringer, er
+der et emne, der interesserer
+dig og du derfor gerne vil
+høre mere om det eller har du
+måske et spar roser i
+overskud, som du kunne tænke
+dig at forære ENTER, er du
+meget velkommen til at skrive
+din mening. Vi bliver endda
+taknemmelige hvis du skriver
+til os. Alle breve bliver
+trykt uden censur.
+
+For fremtiden bliver denne
+side stående til rådighed for
+læserne. Skal den forblive
+tom? Ja, det er i høj grad op
+til dig.
+
+1%
+"page-017.pbm" ------------------------------------------------------------ 
+INPUT > < PRINT
+
+INPUT £2:"Jeg er ved at lave
+et "GUFFER"-spil i Basic, så
+jeg har et par spørgsmål:
+
+1.) Hvordan bruger jeg "LOOK"
+kommandoen til” at undersøge
+om man går ind i væggen og om
+
+jeg spiser "prikker og
+spøgelser"?
+2.) Hvordan kan  Ssjeg få
+spøgelserne til at gå efter
+"GUFPFEREN" ?
+
+På forhånd tak for nogle gode
+svar"
+
+Lars Olsen
+Svebølle
+
+PRINT £2:"Jeg vil gætte på at
+dit spil kommer til at køre
+ulidelig langsomt, men du
+skal selvfølgelig lave det
+alligevel. Der kommer jo
+snart en Basic-compiler, så
+hvis du køber den, kan dit
+spil jo speedes væsentligt
+
+op.
+Ad 1.) Hvis du skriver
+LOOK E£chan,at x,Yy:v
+
+får du farven på den aktuelle
+beam-position returneret i v.
+Dette gælder dog kun på en
+grafikside, hvis du derimod
+laver banen på en tekstside
+skal du bruge GET istedet.
+
+Prøv for eksempel følgende
+lille program:
+
+"160
+
+100
+110
+120
+130
+140
+150
+
+PROGRAM "GET TEST"
+
+SET VIDEO MODE 2
+
+SET VIDEO Y 5
+
+OPEN £1:"VIDEO:"
+
+PRINT £1,AT 1,1:"GUFFEREN"
+PRINT £1:CHR$(27)&8"0"
+PRINT AT 15,1:
+
+170 FOR I=1 TO 8
+
+180 PRINT £1,AT 1,1:;
+190 GET £1:;A$
+200: PRINT A$;
+210 NEXT
+
+" ad 2.) For at spøgelserne
+ikke på et tidspunkt skal
+bevæge sig på de samme to
+
+18
+
+felter hele tiden, skal du
+starte deres bevægelse med at
+teste den samme retning som
+det kom ind. i det nye felt
+fra. Er dette felt en mur,
+kan du teste det næste felt
+omkring = spøgelset og så.
+fremdeles. Samtidigt skal du
+undersøge om afstanden til
+Gufferen bliver mindre. Det
+kan du gøre med følgende
+formel:
+
+sqgr(sx(i)”sy(i)+gxygy)
+
+Sx(i) og sy(i) er henholdsvis
+spøgelse nr  i's x og y
+koordinat. Gx og gy er
+gufferens koordinater."
+"page-018.pbm" ------------------------------------------------------------ 
+INPUT £1:"1,. Hvis jeg lister
+et program og derefter vil
+flytte cursoren til den 1.
+linie f.eks. for at lave
+rettelser, så sker det af og
+til at billedet "låser" fast
+f.eks. ved linie 200. Hvis
+jeg så vil have fat i linie
+190 må jeg liste forfra. Hvis
+det har låst sig fast ved 200
+kan jeg ikke komme forbi -
+men stadig scrolle den anden
+vej 210, 220 osv. Hvad kan
+jeg gøre ved det?
+
+2. Ifølge ENTER nr.1 kan man
+udskrive udtryk som fx. A$&
+NAVN$ til en fil. Det kan jeg
+ikke, men hvis jeg skriver
+udtrykkene i hver sin linie
+går det fint. Det er jo bare
+lidt mere omstændigt - især
+hvis det drejer sig om mange
+strenge, En det min 128'er
+det er galt med eller hva'?
+
+3. Når  disk-controlleren
+kommer, vil man så f.eks. med
+et BBC drev kunne køre BBC's
+Comal version ind?"
+
+Med venlig hilsen
+Ole Frederiksen
+
+PRINT £2:"Det er rart at se
+at vi har medlemmer helt oppe
+i Grønland.
+
+1. Grunden til at billedet
+på din Enterprise låser sig
+fast,er den simple at
+editorens tekstbuffer løber
+fuld. Hvordan kan dette
+forhindres eller rettere sagt
+udskydes? Det aktuelle
+størelse på bufferen finder
+du ved at skrive
+
+ask editor buffer a
+print 256xa
+
+19
+
+Normalt er bufferens
+størelse i Basic'en er
+normalt 8x+256. Er dette ikke
+nok til dit brug kan denne
+ændres ved følgende lille
+program:
+
+100 CLOSE £0
+110 SET EDITOR BUFFER x
+120 OPEN £0:"EDITOR:"
+130 END
+! x SKAL LIGGE FRA 0 TIL 254.
+er ved
+editoren
+
+et lille
+og måske
+
+Når vi nu
+tekstbufferen til
+kan vi lige afklare
+problem som du,
+mange andre har. Hvad er det
+tal, som står oppe i højre
+hjørne af statuslinien? Når
+bufferen løber fuld, fjernes
+en linie øverst eller nederst
+i bufferen afhængig af om du
+
+står i toppen eller i bunden
+af  bufferen. Står du i
+toppen, fjernes enlinie i
+
+bunden og omvendt. Når der er
+mindre end 100 tegn ledig i
+bufferen, kommer tælleren til
+syne i statuslinien som en
+lille advarsel til dig om, at
+
+der snart vil blive fjernet
+linier fra bufferen. Det sker
+når tælleren når ned på 0.
+
+Nummeret kommer kun til syne
+
+når editoren venter på input
+fra tastaturet og ikke når
+f.eks. Basic'en lister et
+
+program, også selvom bufferen
+måtte løbe fuld. Det er altså
+
+dette problem, du har i dette
+tilfælde.
+
+2. Det skulle ikke være din
+128'er der er noget i vejen
+med, da min udmærket kan
+klare det. Prøv med dette
+lille program:
+"page-019.pbm" ------------------------------------------------------------ 
+100 a$="Dette "
+
+110 b$="er "
+
+120 c$="en lille test."
+
+130 open £1:"filtest"
+access output
+
+140 print £1:a$&b$&c$
+
+150 close £1
+
+160 end
+
+Når dette program en kørt,
+kører du næste del af
+programmet fra linie 170
+
+170 open £1:"filtest"
+180 input £1:af$
+
+190 print a$
+
+200 close £1
+
+210 end
+
+3. Det kan kun lade sig
+gøre hvis følgende tre
+betingelser er opfyldt. For
+det første skal drevet være
+kompatibelt med Shugart 410
+typen for at disc-
+controlleren kan styre den.
+For det andet skal Comal
+
+programmet være CP/M-80
+kompatibelt og for det tredie
+skal Comal-udgaven være
+
+skrevet så den ikke foretager
+kald til skærmrutiner o.lign.
+udenom CP/M's Bios. Dette er
+desværre sjældent tilfældet
+med de forskellige Comal-80
+udgaver, så den udgave du
+nævner vil sikkert ikke kunne
+køre. Så når du alligevel
+skal 'ud at KØBE en Comal-80,
+bør du derfor sikre dig, at
+ovennævnte krav er opfyldt.
+
+2O
+"page-020.pbm" ------------------------------------------------------------ 
+INPUT £2:" Hvis jeg
+tilslutter min båndoptager
+efter bogen, altså i "REM1",
+
+ja så , stopper båndoptageren
+ikke når den har indspillet
+et program, men hvis jeg
+
+tilslutter den til ”"REM2", så
+virker den. Forhandleren
+siger, at de kører parallelt
+og afdelingen i Fredericia at
+
+de ikke kører  sparallelt,
+derfor vil jeg gerne vide
+hvem der har ret, og hvilken
+forskel der er på de to
+
+udgange til fjernbetjeningen?
+
+2.) Er der fejl i programmet
+"Voveligt" fra ENTER 1? for
+efter at have kørt programmet
+ind, kører det også, men
+linjenr. 2350 og 380 virker
+ikke. Efter at have udskrevet
+ln. 340 og jeg trykker på j,
+så bliver skærmen blank og
+der står ok i hjørnet og man
+må trykke på start for at
+starte igen. Point bliver
+heller ikke overført. Hvad er
+fejlen.
+
+3.) Kan det lade sig gøre at
+få en dansk oversættelse af
+de forskellige fejlmeddelser,
+samt en kort beskrivelse af
+
+hvorfor netop den kommer med
+den fejl?"
+
+Leif Pedersen
+
+Nørhalne
+
+el
+
+PRINT
+begge
+
+£2:"Ad 1.) De har
+ret, men på hver sin
+måde. Inde i maskinen sidder
+to relæer, et til REM1 og et
+til QREM2. Når du skriver "
+SAVE" eller "LOAD" åbnes
+begge relæer samtidigt og de
+lukkes samtidigt når
+operationen er færdig. Det er
+kun i dette tilfælde, de
+kører "parallelt". Hvis du
+derimod åbner en kanal for
+input, skulle det meget gerne
+kun være rem1, der åbner.
+Åbner du en output-kanal skal
+kun 0REM2 åbne. Har du kun
+problemer når save'r og
+load'er kan du bare bruge
+REM2 fremfor 0 REM1. Afbrydes
+REM1 ikke når du åbner for en
+input-kanal små du hellere
+sende din Enterprise til et
+
+eftersyn.
+I EXOS
+
+du
+
+2.1 er disse
+forvirrende ting med remote-
+kontrollerne blevet rettet.
+Kun hvis der direkte bliver
+specificeret at 0REM2 skal
+bruges (ved en ACCESS OUTPUT
+kanal) trækker 0 REM2-relæet.
+Ellers er det altid kun REM1
+der bliver åbnet for.
+
+Ad 2.) Nej, der er ingen
+fejl i "Voveligt”. Kopien i
+ENTER nr. 1 er en hardkopi,
+altså en direkte kopi af det
+
+kørende program. Derfor kan
+jeg med en vis sikkerhed
+påstå at det er fejlfrit. Det
+tyder derfor på, at dine fejl
+skyldes indtastningsfejl. De
+to første linier du refererer
+til, nr. 380 og 2350 er
+almindelige  PRINT-sætninger.
+
+De er ihvertfald fejlfrie.
+Mon ikke du skulle have
+skrevet "PRINT £1;" istedet
+
+for "PRINT £1:"? Linie 340 er
+en DO-sætning, den er også
+uden fejl.
+"page-021.pbm" ------------------------------------------------------------ 
+få  highscoren
+spil til spil
+
+For at
+overført fra
+skal du skrive:
+
+RUN (high).
+Ad 3.) Der vil om kort tid
+komme et dansk tastetursæt
+til Enterprise. Har du det
+tilsluttet bliver alle
+fejlmeddelelser, også ud-
+skrevet på dansk.
+Tekstbehandlingen Ssvil også
+være på dansk. Det danske
+tegnsæt vil bestå af nogle
+nye taster, som du selv kan
+sætte i uden at garantien
+udløber ved dette indgreb, og
+
+Basic-cartridgen bliver
+udskiftet.
+Ønsker du en beskrivelse
+
+af fejlen bliver du nødt til
+at skrive til ENTER. Vi skal
+med glæde prøve at hjælpe med
+dit problem. Du skal bare
+sende en kopi af programmet
+lagret på bånd, samt et brev
+med en kort beskrivelse af
+problemet og endelig et par
+eksempler, hvor det  Sgår
+galt."
+
+INPUT £2:"Michael Nørregaard
+fra Holte, har som han selv
+skriver det, nogle nemme
+
+forslag til "Den hårde nød":
+
+1.) Find en måde at lagre
+skærmbilleder på bånd (det
+skal Svære både grafik og
+tekst).
+
+2.) Find en måde at få alle
+fejlmeddelser skrevet ud på
+skærmen.
+
+22
+
+3.) Hvordan kan man få data
+fra en Brother EP-44 over den
+serielle indgang og ind til
+WP? Både stikforbindelser og
+den serielle  indgan skal
+være forberedt på sådan en
+overførsel.
+
+Samme læser havde også
+nogle = spørgsmål af almen
+interesse:
+
+4.) Hvad skal den lodrette
+streg på knappen nederst i
+venstre hjørne bruges til, og
+er det kun på min computer,
+den bliver skrevet som et
+"stort kolon"?
+
+5.) Er det også min computer
+der er noget galt med, når
+den  Save'r, når jeg som det
+er beskrevet i ENTER nr. 1,
+
+skriver "SERIAL;", den virker
+
+godt nok, hvis jeg skriver "
+SERIAL: "?
+
+6.) En dag jeg sad og skrev
+på WP og da jeg så ville
+skifte fra 40 til 80 tegn pr.
+linie, fik jeg følgende
+fejlmeddelse:
+
+"PATAL WP ERROR",
+Hvorfor kommer denne
+fejlmeddelse og er der andre
+fejlmeddelser specielt
+
+beregnet til wp?"
+"page-022.pbm" ------------------------------------------------------------ 
+£2:"Det
+
+PRINT var jo en
+større omgang. Tak skal du
+ha'. Desværre kan vi ikke
+bruge dine forslag til "Den
+
+hårde Nød". Hvorfor, skal jeg
+gøre rede for.
+
+Ad 1.) I det engelske bru-
+gerblad "Private Enterprise",
+som alle nuværende medlemmer
+forhåbentligt har fået
+tilsendt fra Semicap Data,
+findes en sådan rutine.
+
+Ad 2.) Alle fejlmeddelelserne
+findes jo i din manual, men
+hvis' du vil have skrevet dem
+ud' på skærmen kan du bruge
+følgende lille program:
+
+100 FOR i=0 TO 30000
+110 PRINT exstring$(i)
+120 NEXT i
+
+Ad 3.) Da det antageligt
+ikke er alle indehavere af en
+Enterprise, der har en
+Brother EP-44 til rådighed,
+har de derfor ikke mulighed
+for at løse opgaven.
+
+Jeg håber du er tilfreds
+med mine begrundelser. Her
+kommer svarene på dine andre
+spørgsmål:
+
+Ad 4.) Den lodrette streg er
+såmænd et "gø". Tuborg-
+parenteserne æ" og et
+
+er et "
+oa '
+nå" Tegnene disse
+
+å'. under
+svarer til de store bogstaver
+
+for disse. Når du skriver
+disse teg ud på de fleste
+printere, hvis de har dansk
+
+karaktersæt, bliver de til de
+danske tegn.
+
+23
+
+Ad 5.) Nej, din
+fejler heller ikke
+dette tilfælde. Det har
+derimod knebet lidt for
+forfatteren af den pågældende
+artikel at holde rede på
+kolon semikolon. Det
+rigtige  Sskal altså være
+følgende for at få tegnene ud
+på den serielle port:
+
+computer
+noget i
+
+og
+
+SET SERIAL BAUD x
+OPEN E£chan: "SERIAL:"
+
+Se i din manual hvad x
+
+skal være. Output fås f.eks.
+ved:
+
+PRINT £chan:"Dette virker."
+
+Ad 6.) Denne fejlmeddelse
+har jeg også set engang. Den
+var faktisk meget sjov at se
+på. Hele skærmen flimrede i
+
+røde og blå skråstreger. Tryk
+
+een gang på RESET og du vil
+komme tilbage til en 40 tegns
+skårm.
+
+Jeg gætter på du har en
+Enterprise 64 og et CYRUS
+CHESS II. Problemet opstår
+
+nemlig,hvis du har loadet en
+system-udviddelse, dette er
+CYRUS faktisk, ind i din
+computer. Det bliver lagt på
+samme niveau som WP og IS-
+BASIC. Prøv f.eks. at skrive:
+
+:HELP
+"page-023.pbm" ------------------------------------------------------------ 
+Her kan du se hvilke
+
+programmer (sprog), der |
+ligger i maskinen.
+Almindelige Basicprogrammer
+er ikke iberegnet. Prøv
+
+dernæst at skrive: '
+: INFO
+Nu vil du opdage at der
+
+kun er 34218 bytes ledige.
+Derfor opstår fejlen:
+
+"FATAL WP ERROR",
+
+24
+
+Der er ikke nok RAM ledigt
+til en 80 tegns skærm, og der
+er derfor fejlen opstår.
+
+Jeg har ikke kunnet finde
+flere fejlmeddelser
+tilhørende WP, andet end en
+meddelse:
+
+"UNKNOWN WP ERROR",
+men har andre fundet noget
+
+interessant hører vi gerne
+fra Jer."
+"page-024.pbm" ------------------------------------------------------------ 
+FÆN 3D TEGNEPROGRAM
+
+fa ea on tu et ft PU DE oe ve to te en te en
+
+"PERSPEKTIV" er et 3D tegneprogram, skrevet til ”"PICCOLINE"
+og fundet i SOFT SPECIAL.
+
+Programmet er skrevet i RcComal 180, og da dette -med hensyn
+til grafikkomandoer- er noget forskellig fra ANSI -basic, har
+jeg været nødt til at konvertere dette, så det kan benyttes
+til "ENTERPRISE".
+
+"”"PICCOLINE" bruger f.eks. ordren WINDOW til at definere ko-
+ordinatsystemet og fastsætte origo.
+
+Dette problem har jeg løst, ved at beregne de aktuelle koor-
+dinattal lige før de skal bruges og ellers bibeholde de op-
+rindelige data.
+
+Programmet er baseret på matrixberegninger. Umiddelbart før
+en koordinat skal plottes, ganges en matrix -der indeholder
+alle oplysninger om drejninger, flytninger og multiplikati-
+oner- med denne.
+
+X-Y-Z koordinaterne findes i DATA-sætningerne sammen med op-
+lysninger om. hvilke punkter der skal forbindes.
+
+ønsker man selv at definere en figur, skal man skrive antal
+punkter og linier som de to første data.
+
+Lige efter DATA-sætningerne er der en rutine,som spejler fi-
+guren i X-Y planen.Herved spares der plads. ønsker man deri -
+mod ikke spejlning,., sletter man blot denne rutine.
+Ordresættet er som følger:
+
+tegn tegner figuren i sin nuværende form
+
+drej XY 2Z drejer figuren X grader om X-aksen
+etc. Z-aksen er ud mod beskueren.
+
+flyt X Y Z flytter figuren X enheder i X-ak-
+sens retning etc.
+
+faktor X Y Z alle X-koordinater ganges med X
+etc.
+
+ojepunkt X Y Z øjepunktet hvorfra man ser.
+
+afstand X definerer den referenceafstand,
+
+hvorfra DATA er afbildedet som 1:1.
+
+nulstil sætter alle matrixer lig enhedsma-
+trixer. Figuren er nu som ved op-
+starten.
+
+status viser det nuværende øjepunkt og af-
+stand.
+
+stop stopper programmet .
+
+Hans J.Micheelsen
+Fælledvej 79
+
+7000 Fredericia
+"page-025.pbm" ------------------------------------------------------------ 
+KN
+AR)
+
+PROGRAM "perspektiv"
+!… Hans J.Micheelsen amet
+HANDLER ERROR
+IF EXTYPE=9216 THEN
+TEXT
+PRINT " PUNKT UDENFOR SKRM !!?! Brug evt. faktor."
+PRINT :PRINT :PRINT "'ENTER'" i
+DO UNTIL INKEY$«< >" "
+LOOP
+TEXT
+GOTO 1880
+ELSE
+EXIT HANDLER
+END IF
+END HANDLER
+DEF FEJLCTEKST$)
+PRINT :PRINT TEKST$
+WAIT 2
+REM
+END DEF
+REM
+DEF NULL(REF MATRIX)
+FOR I=1 TO 4
+FOR J=1 TO 4
+LET MATRIX(I,J)=-(I=J)
+NEXT
+NEXT
+END DEF
+DEF TRANSFER(REF MATRIX,REF MATRIX2)
+FOR I=1 TO 4
+FOR J=1 TO &4
+LET MATRIX(I,J)=MATRIX2(1,J)
+NEXT
+NEXT
+END DEF
+DEF MULT
+FOR I=1 TO 4
+FOR J=1 TO 4
+LET SUM=0
+FOR K=1 TO 4
+LET SUM=SUM+FAK(J,KIxXYZCK, I)
+NEXT K
+LET TEMP(J, I) =SUM
+NEXT J
+NEXT I
+CALL TRANSFER(XYZ,TEMP)
+CALL NULL(FAK)
+END DEF
+DEF FLYT(X,Y,2Z)
+LET FAK(4,1>=X: LET FAK(4,2)=Y:LET FAK(4,3?2=Z
+CALL MULT
+END DEF
+REM
+DEF FAKTOR(X,Y,Z)
+LET FAK(1,1)=X:LET FAK(2,2)>=Y:LET FAK(3,3)=Z
+CALL MULT
+END DEF
+REM
+DEF DREJ(X,Y,Z)
+IF X< >0 THEN
+LET FAK(2,22=COS(X):LET FAK(2,3)=SIN(X):LET FAK(3,2)= -SINCX):LET FAK(3
+"page-026.pbm" ------------------------------------------------------------ 
+.3)=COS(X)
+630 CALL MULT,
+
+640 END IF FAN
+
+650 IF Y<>0 THE .
+
+660 LET FAK(1,1)=COS(Y):LET FAK(1,3)=-SINC(Y):LET FAK(3,1)=-SINCY):LET FAK
+.3)>=COS(Y)
+
+670 CALL MULT
+
+680 END IF
+690 IF Z< >0 THEN
+
+700 LET FAK(1,1)=COS(Z):LET FAK(1,2)=SIN(Z):LET FAK(2,1)=-SIN(Z):LET FAR
+»2)>=COS(Z)
+710 CALL MULT
+
+720 END IF
+730 END DEF
+750 DEF TEGN
+760 DEF LINE(X1,Y1.2Z1.X2,Y2,22)
+
+770 PLOT ((X1-0X)zx=REFAFST/(-Z1+0Z2)+0X)x23+640, ((Y1-OX)x=REFAFST/(-Z1+02)-
+)z217+360; '
+
+780 PLOT ((X2-0X >x=REFAFST/(-Z2+0Z)+0X1x23+640, ((Y2-0Y)>xREFAFST/(-22+-0Z)-
+>x17+360
+
+790 END DEF
+800 LET OX=OJEPKT (1) :LET OY=OJEPKT(2):LET OZ=OJEPKT(3)
+810 FOR P=1 TO ANTPKT
+
+220 FOR I=1 TO 3
+25 LET RESTEMP(I >=PKT(P,I[)
+827 NEXT
+830 LET RESTEMP(4)=1
+840 FOR I=1 TO 3
+850 LET SUM=0
+860 FOR J=1 TO 4
+865 LET SUM=SUM+RESTEMP(J)xXYZ(J,[)
+867 NEXT
+870 LET RES I > =SUM
+880 NEXT I
+890 FOR J=1 TO 3
+895 LET PKT(P,JI=RES(J)
+897 NEXT
+
+3200 NEXT P
+980 GRAPHICS
+1000 LET N=1
+
+1010 DO
+
+1020 LET F=LINIE(N, 19:LET T=LINIEOWN, 2) :;LET N=N»+1
+
+1025 WHEN EXCEPTION USE ERROR
+
+0 CALL LINE(PKT(F,1),PKT(F,2),PKT(F,3),PKTC(T,1),PKTC(T,2),PKT(T,37)
+1v35 END WHEN
+
+1040 LOOP UNTIL N:=ANTLINIER
+1060 CALL NULL(XYZ)
+
+1070 CALL NULL(FAK)
+
+1080 END DEF
+
+1100 DEF STARTOP
+
+1110 CALL NULL(FAK)
+
+1120 CALL NULL(XYZ)
+
+1130 LET OJEPKT(1)2=0: LET OJEPKT(2>=0: LET OJEPKT(39-4S1 LET REFAFS'E 30
+1140 FOR N=1 TO ANTPKT
+
+1150 FOR [=1 TO 3
+
+1160 LET PKTCON, 0 =STARTDATA(N, 1)
+
+1170 NEXT I
+
+1180 NEXT N
+1190 END DEF
+1200 DEF PARAMETERCREF ANTAL >
+
+1210 LET .K2=0
+"page-027.pbm" ------------------------------------------------------------ 
+220 FOR ANTAL=1 TO 3
+
+230 LET K1=POS(KOMMANDOZF,” ",k2)
+
+240 LET K2=POS(KOMMANDO$Z,” ”,K1+1) am
+245 IF K2=0 THEN EXIT FOR
+
+250 IF K2=K1+1 THEN LET K1=K2:GOTO 1240
+
+260 LET PARAM(ANTAL)=VAL(KOMMANDO$S(K1:K2))
+
+270 NEXT ANTAL
+
+280 FOR N=ANTAL TO 3
+290 LET PARAM(N)=0
+300 NEXT N
+
+310 LET ANTAL=ANTAL-1
+320 END DEF
+
+370 DEF STATUS
+
+380 TEXT
+
+390 . PRINT "OJEPUNKT = ";OJEPKT(1);",";OJEPKT(2);",";OJEPKT(3)
+400 PRINT
+
+410 PRINT "referenceafstand = ";REFAFST
+
+420 PRINT
+430 DISPLAY TEXT
+440 INPUT AT 24,10,PROMPT "tryk 'ENTER'";A$
+450 DISPLAY GRAPHICS
+460 END DEF
+500 OPTION ANGLE DEGREES
+510 STRING KOMMAND$x60,TAL$x10, TALSTR$x39, NAVNS$x8
+20 NUMERIC FAK(4,4),XYZ(4,4),TEMP(4,4)>,PARAM(4),0JEPKT(3)>,RES(3),RESTEMP(4),M
+xIX(4,4),XMIN, XMAX, YMIN, YMAX, REFAFST
+530 READ ANTPKT,ANTLINIER
+540 NUMERIC PKT(ANTPKT,3),STARTDATA(ANTPKT,3),LINIE(ANTLINIER, 2)
+550 FOR N=1 TO ANTPKT/2
+560 READ STARTDATA(N, 1)>,STARTDATA(N,2),STARTDATA(N,3)
+570 NEXT '
+580 FOR N=1 TO ANTLINIER/2
+590 READ LINIE(N,1),LINIE(N,2)
+600 NEXT
+610 DATA 66, 9%
+615 !koordinater XY ZzZ
+620 DATA 30,0,0, 19,3,0,19,2,2,19,0,3,19,-2,2,19,-3,0
+630 DATA -21,3,0, -21,2,2,-21,0,3, -21, -2,2, -21,-3,0, 21,0,10
+640 DATA -20,2,22,-11,2,22,0,0,10,17,0,3,-20,11,0,-14,11,0
+650 DATA -5,3,0,-20,-2,2,-20, -3,5,-20,-2,6, 20,-2,8, -20,-3,9
+660 DATA -20, -4,8, -20,-4,6, 8, -2,2, -12, -3,5, 12, -2,6,-12,-2,8
+670 DATA -12,-3,9,-12, 4,8,-12,-4,6
+675 tpunkter der skal forbindes
+30 DATA 1.2,1,3,1,4,1,5,1,6,2,3,3,4,4,5,5,6,7,8,8,9,9,10,10,11,7,2
+30 DATA 8,3,9,4,10,5,11,6,9,12,12,13, 13, 14, 14,15,15,16,7,17
+700 DATA 17, 18, 18, 19,12,15,20,21,21,22,22,23,23,24
+710 DATA 24,25,25,26,26,21,27,28,728,29,29,30,30,31
+720 DATA 31,32,32,33,33,28,28,21,.22,29,30,23,24,31
+730 DATA 32,25,26,33
+735 tspejling
+740 LET FORSKYDPKT=ANTPKT/2:LET FORSKYDLIN-=ANTLINIER/2
+750 FOR N=FORSKYDPKT+»+1 TO ANTPKT
+760 LET STARTDATA(N,3)=-STARTDATA(N- FORSKYDPKT, 3)
+770 FOR NP=1 TO 2
+
+780 LET STARTDATA(N,NP)=STARTDATA(N- FORSKYDPKT,NP)
+790 NEXT
+800 NEXT
+
+B10 FOR N=FORSKYDLIN+ 1 TO ANTLINIER
+
+820 FOR NL=1 TO 2
+
+830 LET LINTEC(N,NL)I-LINIECN FORSKYDLIN, NEO + FORSKYDPKT
+840 NEXT
+
+850 NEXT
+"page-028.jpg" ------------------------------------------------------------ 
+1860 TEXT gem
+
+1870 CALL STARTOF
+
+1880 DO
+
+1890 DO
+
+1900 INPUT PROMPT "” > >" : KOMMANDO$
+
+1910 LOOP UNTIL KOMMANDO$« >" "
+
+1920 LET KOMMANDO$=UCASE$(KOMMANDO$)&" <":LET ANTAL=0
+
+1940 CALL PARAMETER (ANTAL)
+
+1950 IF ANTAL<3 AND POS("fly fak dre oje",KOMMANDO$(1:3)) THEN
+
+1960 CALL FEJL(”parameterfejl !!Flere tal forventet")
+1970 ELSE
+1980 LET LEFT=POS(KOMMANDO$," ")-1:LET KMD$=KOMMANDO$(1:LEFT)
+1990 SELECT CASE KMD$
+2000 CASE "FLYT"
+2010 CALL FLYT(PARAM(1),PARAM(2),PARAM(3))
+2020 CASE "FAKTOR"
+2030 CALL FAKTOR(PARAM(1),PARAM(2),PARAM(3))
+2040 CASE "DREJ"
+2050 CALL DREJ(PARAM(1),PARAM(2),PARAM(3) )
+2060 CASE "OJEPUNKT"
+2070 IF PARAM(3)>0 THEN
+2080 FOR N=1 TO 3
+7090 LET OJEPKT(N)=PARAM(N)
+-100 NEXT
+2110 ELSE
+2120 CALL FEJL(”KOORDINATFEJL !! z-vrdien skal vre strre end 0”)
+2130 END IF
+2140 CASE "TEGN"
+2150 CALL TEGN
+2160 CASE "NULSTIL"
+2170 CALL STARTOP
+2180 CASE "STATUS"
+2190 CALL STATUS wa é
+2200 CASE "AFSTAND"
+2210 IF ANTAL=O THEN
+2220 CALL FEJL("PARAMETERFEJL !! tal forveltet”)
+2230 ELSE
+2240 LET REFAFST=PARAM (1)
+2250 END: TF
+2270 CASE "STOP"
+2280 TEKT
+7290 CASE ELSE
+300 CALL FEJL("KOMMANDO UKENDT !!")
+2310 END SELECT
+
+2320 END IF
+2330 LOOP UNTIL KOMMANDO$(1:4)="STOP"
+2340 END
+"page-029.jpg" ------------------------------------------------------------ 
+===æ===== =
+VARENR. TITEL TYPE PRIS — SOFTWAREHUS
+83-0010 ADVENTURE PLAYGROUND ADV (T) 140,00 WIDGIT
+83-0005 ANIMAL VEGETABLE MINERAL FAM (T) 140,00 BOURNE
+83=0015'"ATRWOLF” ARC (T) 140,00 ELITE 1
+83-0073 AQUA RACER SIM (T) 140,08 HITECH 2)
+83-8074 ARCHON ARC (T) 198,08 ARIOLASOFT 3)
+83-86019 ARTIST UTI (T) 255,00 LORICIELS 1)
+83-6027 BASIC TO BASIC, BBC UTI (IT) 530,00 IS 3)
+Ø3-0828 BASIC TO BASIC, COMMODORE UTI (T) 536,00 IS 3)
+'83-06023 BASIC TO"BASIC» "SPECTRUM) UTI (T) 538,00 IS 2)
+83-Ø029 BASIC COMPILER UTI (T) 395,08 AZTEC 2)
+'83=0075" BATHANT ARC (T) 198,00 OCEAN 2)
+'03-0030 BEACH HEAD ARC (T) 190,88 US GOLD
+83-0845 BEATCHA ARC (T) 140,60 ROMIK
+83-6076 CADCAM WARRIOR A/A (T) 148,00 TASKSET 2)
+83-0009 CASTLE OF DREAMS ADV (T) 140,08 WIDGIT
+83-6034 CAULDRON A/A (T) 140,00 VIDEO PAL. 2)
+83-0035 CHAINS UND (T) 140,00 AIP n
+
+… 03-0014 ”COLOSSAL ADW ADV (T) 190,08 LEVEL 9
+
+& 83-8620 CYRUS II CHESS (SKAK) SIM (T) 230,00 ICS
+83-08368 DATABASE ADM (T) 395,00 GEMINI MAR. 2)
+83-0078 DAMBUSTERS ARC (T) 190,00 US GOLD 3)
+
+GsneeRE Enger A BLER/DISASSEMBLER' S/U (T) 395,00 HISOFT
+g: i ARC (T) 140,00 LORICIELS
+
+& L
+
+83-6001 DICTATOR STR (T) 110,08 DK” TRONICS
+1839EGGS7OF DEATH ARC (T) 175,08 NOVOTRADE 2)
+03-0048 FALCON PATROL II ARC (T) 140,00 VIRGIN n
+j [TAMONDI ADV (T) 148,88 HEWSON
+
+03-0062 FIVE IN A ROW STR (T) 116,68 ENTERSOFT
+83-00632 FORTH SPR (T) 395,08 IS n
+83-6041 FRANK BRUNO!S BOXING ARC (T) 140,00 ELITE n
+83-0011 FRENCH IS FUN UND (T) 148,08 CDS 1)
+03-0003 GAMES PACK I ARC (T) 110,06 CREATIVE B.
+83-0004 GAMES PACK II ARC (T) 118,06 ELLISMAN
+03-0012 GERMAN IS FUN UND (T) 140,08 CDS 1
+83-0846 HALV TOLV STR (T) 95,00 DB-ELCTRON.
+83-0007 HAPPY NUMBERS UND (T) 140,08 BOURNE
+83-0008 HAPPY LETTERS UND (T) 140,08 BOURNE
+Ø3-0017 HEATHROW AIR TRAFFIC CONTROL ARC (T) 140,00 HEWSON
+83-06081  HYPERSPORTS ARC (T) 190,80 OCEAN 3)
+
+»& 83-0033 JACK'S HOUSE OF CARDS ARC (T) 148,00 ROMIK
+83-0048  JAMMIN” ARC (T) 140,00 CHOISE SOF. 1)
+83-8949 JUKE BOX (KUN 128K) MUS (T) 198,80 ALPHINGU. 1)
+
+<B 83-86050 KING OF THE CASTLE ARC (T) 140,00 AIP 1)
+93=00513)LANDSTOF”HAVOC ARC (T) 190,06 MICRODEAL 1)
+93-0022 LISP SPR (M) 585,08 IS
+83-6Ø25 MACHINE CODE FOR BEGINNERS UND (T) 190,06 DREAH SOFT.
+83-8076 MATCH DAY ARC (T) 140,08 OCEAN 3)
+'03=0052""HIRROR WORLD” ARC (T) 175,00 NOVOTRADE 1)
+83-06082  IMPOSSIBLE MISSION ARC (T) 190,08 US GOLD 3)
+
+FORKORTELSER: (T)=tape; (M)=modul; (D)=disk
+
+ADV=Adventure; FAM=Familie; ARC=Arcadespil; SIM=Simulering; UTI=Utility;
+4A/A=Arcade-Adventure; UND=Undervisning; ADM=Administrativ; MUS=Musik;
+SPR=Programmeringssprog; S/U=Programmeringssprog-utility; STR=Strategi;
+
+SEMICAP DATA INFORMATION - ENTERPRISE SOFTHARE - EPS851181/1
+"page-030.jpg" ------------------------------------------------------------ 
+SEMICAPÆDATA z = OSEMICAP DATA.
+GL. "KONGEVEJ 148 Isø FREDERIKSBERG C & i 81242116 & TX 15987 SEMCAPDK
+ODINSGADE 31 5888 ODENSE C ALE 899-122611 + GIRO 1 65 69 82
+
+TYPE PRIS —… SOFTWAREHUS
+a ADV (T) 1 ABERSOFT
+03-0083 HULE ARC (T) 199,00 ARIOLASOFT 3)
+
+"NODES7OF YESOD” "A/A (T) 190,00 ODIN 1)
+. ORIENT Eg STR OD EK f40, 00 ATP 540:
+OTHELLO Fag STR (T) 95,88 MEGA-BYTE
+
+"PASCAL
+
+HISOFT 1)
+
+83-0Ø58 RACE ACE É 140,00 AIP me
+
+Ø3-8084 RACING DESTRUCTION SET ARC | 190,09 HARSOLASGER 3)
+): (OVER MOSCOW) ARC ( (
+
+"ROCKET ROGER se "ARC 3)
+
+SKYFOX "ARC. 3)
+
+"SORCERY 2 —…… A/A 1)
+
+SPANISH GOLD 2 "ADV 140,00 "CHALKSOFT
+
+SPREADSHEET — AD 395,08 GEMINI HAR. 1)
+SPRITE ANIMATOR san FUTAS 230580 NOVOTRADE 1)
+"STAR STRIKE 3D ARC 140,08 REALTIME
+STEVE DAVIS SNOOKER i cDs
+
+STRANGELOOP VIRGIN 1
+SUBMARINE (KUN 128K) 3 SEMISOFT 1)
+"SUPER PIPELINE II - å ig
+THE ABYSS DA
+THE MARKET 3 1)
+£ TINY TOUCH?N GO 1)
+83-6867 3D FIRE PA STRIBE
+03-0048 WIZARDS LAIR 148,00 ber
+
+140,68 BOURNE
+146,08 ROMANTIC R. 1)
+
+83-Ø886 WORD HANG
+183-6069 "WRIGGLER
+
+de softrare-huse er blandt dem der er ved at skrive/har skrevet
+re til Enterprise: ke: Er å 2 ,
+
+ABERSOFT =  ALLIGATA SOFTWARE = ALPHINGUOOD - ARIOLASOFT - ARTIFICIAL
+INTELLIGENCE PRODUCTS - AZTEC SOFTWARE BES - BOURNE EDUCATIONAL «SOFTWARE:
+z8E= BUBBLE BUS - BUG BYTE - CDS SOFTWARE CHALKSOFT - CHOISE SOFTWARE
+ff YTES - CRL -  DB-ELECTRONICS -
+
+== - ENTERSOFT
+- HEWSON
+35 Dee
+
+M "SOFTWARE
+"MARKETING - GE
+
+LEISURE (OCEAN SOFTWARE = ODIN COMPUTER
+" - REALTIME | GAMES SOFTWARE = ROMANTIC. ROBOT -
+- SEMISOFT - SOFTWAR! "PROJECTS > TASKSET. - THORN EMI
+PALACE SOFTWARE - VIRGIN GAMES - WIDGIT SOFTWARE —
+
+Denne liste er makes et
+
+udsnit af den softnare der er tilgængelig fre
+
+seret på softrare-husenes oplysninger:
+”; 3) senere
+
+m Ron c D)=disk
+"page-031.jpg" ------------------------------------------------------------ 
+SEMICAP DATA SEMI CAP DATA
+
+GL. KONGEVEJ 148 & 1858 FREDERIKSBERG C £ TLF.: 81-242116 EN 5987 semcapdk
+ODINSGADE 31 & 5888 ODENSE C & TLF.: 99-122611 x GIRO 1 65 69 82
+ENTERPRISE HARDWARE NOVEMBER sæ
+
+COMPUTERE:
+Ø1-ØØØ1 ENTERPRISE 64 MED IS-BASIC MODUL» DEMONSTRATIONSBAND»
+
+KABLER TIL TV OG BANDOPTAGER» DANSKE MANUALER 3.495,00
+61-Ø602 ENTERPRISE 128 MED IS-BASIC MODUL» DEMONSTRATIONSBAND»
+KABLER TIL TV OG BANDOPTAGER: DANSKE MANUALER 4.995,00
+
+DISKUDSTYR:
+Ø2-80Ø22 ENTERPRISE DISK CONTROLLER M. EXDOS OG IS-DOS 1.985,88
+05-0001 3 1/2" DISKETTESTATION» 1x868K» UDEN STRØMFORSYNING 2.495,08
+
+85-62 3 1/2" DISKETTESTATION: 1x888K» MED STRØMFORSYNING 2.995,80 1)
+
+82-06025 ENTERPRISE DISK CONTROLLER M. EXDOS OG IS-DOS SAMT
+
+3 1/2" DISKETTESTATION: 1x886K MED STRØMFORSYNING 4.695,00
+05-0003 3 1/2" DISKETTESTATION» 2x80ØK» UDEN STRØMFORSYNING 4.895,00
+85-Ø6e4 3 1/2" DISKETTESTATION» 2x800K; MED STRØMFORSYNING 5.495,00
+82-Ø028 ENTERPRISE DISK CONTROLLER HM. EXDOS OG IS-DOS SAMT
+
+3 1/2" DISKETTESTATION» 2x886K HED STRØMFORSYNING "6.985,08
+Ø5-6685 5 1/4" DISKETTESTATION» 2x880K;) MED STRØMFORSYNING OG
+
+PLADS TIL 4 DISK DRIVE 6.800,00
+
+EKSTRAUDSTYR:
+Ø2-0001 EP8Ø+ MATRIX GRAFIK- OG TEKSTPRINTER MED KABEL 4.495,00
+Ø2-0018 ENTERPRISE 64K RAM-UDVIDELSE CA. 1.985,00
+Ø2-0619 ENTERPRISE MUS j 995,88
+Ø2-Ø020 ENTERPRISE SPEAKEASY TALEMODUL 695,08
+Ø2-8621 ENTERPRISE JOYSTICK 259,80
+KABLER M.U.
+e2-6003 ENTERPRISE PARALLELT PRINTERKABEL 295,80
+62-0002 ENTERPRISE SCART MONITOR-STEREO KABEL M. MODESWITCH 295,00
+Ø2-6804 ENTERPRISE RGB/MONOCHROME/STEREO MONITORKABEL 195,08
+e2-8009 ENTERPRISE CONTROL/JOYSTICK KABEL 195,08
+62-0085 ENTERPRISE SERIEL/NETVÆRKS KABEL 195,08
+e2-0606 ENTERPRISE JOYSTICK INTERFACE 195,08
+LITTERATUR M.V. :
+92-6007 ENTERPRISE TECHNICAL INFORMATION 258,00
+Ø2-0008 EKSTRA SÆT DANSKE MANUALER 195,00
+82-8012 ” SUPERPROGRAMMER” » BOG OM PROGRAMMERING I IS-BASIC 148,00
+
+OPGRADERINGER M-UV.-z
+Ø2-0015 OPGRADERING FRA 64K TIL 128K» INKLUSIV BASIC OG EXOS 2.1»
+
+STANDARDPRIS 3 1.595,08
+Ø2-68616 OPGRADERING FRA 64K TIL 128K» INKLUSIV BASIC OG EXOS 2,1»
+SÆRPRIS FOR ENTERPRISE KØBT TIL 4.995 KR. 995.08
+
+Ø2-08017 DANSK MODUL MED DANSK TEKSTBEHANDLING»
+DANSKE FEJLTEKSTER OG DANSKE TASTER
+
+Forventet levering: 1) primo november; 2) senere
+
+ALLE PRISER ER INKLUSIV 22% MOMS
+
+SEMICAP DATA INFORMATION s ENTERPRISE HARDHARE - EPH851101
 
