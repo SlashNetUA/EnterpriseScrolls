@@ -15,3 +15,13 @@
 [Сторінка проекту](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer)
 
 [Форум](https://arcadegamedesigner.proboards.com)
+
+----
+
+## Tutorials
+
+### Converting MPAGD ZX Spectrum Games to the Enterprise
+
+1. [Introduction](https://ktbproductions.itch.io/enterprise-games/devlog/930899/tutorial-1-converting-mpagd-zx-spectrum-games-to-the-enterprise-introduction)
+2. [Games with Beepola Music](https://ktbproductions.itch.io/enterprise-games/devlog/932690/tutorial-2-converting-mpagd-zx-spectrum-games-to-the-enterprise-games-with-beepola-music)
+3. [Games with AY Music](https://ktbproductions.itch.io/enterprise-games/devlog/943242/tutorial-3-converting-mpagd-zx-spectrum-games-to-the-enterprise-games-with-ay-music)

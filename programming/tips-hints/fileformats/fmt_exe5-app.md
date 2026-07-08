@@ -1,6 +1,6 @@
 # New Applications Program
 
-The _new applications program_ module type is loaded automatically by EXOS when the header is found. It can be used to load programs of up to 47.75K. The program it loads will automatically be started up as the new applications program, losing the previous one. It is intended for loading programs such as machine code games from cassette although it will have other uses.
+The _new applications program_ module type is loaded automatically by EXOS when the header is found. It can be used to load programs of up to 47.75K. The program it loads will automatically be started up as the new applications program, losing the previous one. It is intended for loading programs such as machine code games from cassette although it will have other uses. They're always loaded at offset 0x100 into the memory. 
 
 ## Header (16 bytes)
 

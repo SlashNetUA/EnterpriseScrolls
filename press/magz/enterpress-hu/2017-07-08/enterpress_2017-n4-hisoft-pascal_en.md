@@ -1,11 +1,13 @@
+Стаття з журналу [Enterpress 2017/4](../enterpress-2017-07-08.md).
+
 # HiSoft Pascal: videopages and graphics
 
-Written by [Zoltán Povázsay (Povi)](../../../peoples/community/povi.md)  
-Published in [Enterpress 2017 \#4](http://enterprise.iko.hu/magazines/Enterpress_2017_per_4_UK.pdf#page=11)  
+Written by [Zoltán Povázsay (Povi)](../../../../peoples/community/povi.md)  
+Published in [Enterpress 2017/4](http://enterprise.iko.hu/magazines/Enterpress_2017_per_4_UK.pdf#page=11)  
 
-As I promised in the [previous chapter](enterpress2017-2-3_en.md), this section is about graphics. There are two possibilities to exploit the graphical capabilities of the machine: one when creating a video page for ourselves, at a fixed memory address and completely dominating the machine.
+As I promised in the [previous chapter](../2017-03-06/enterpress_2017-n2-3-hisoft-pascal_en.md), this section is about graphics. There are two possibilities to exploit the graphical capabilities of the machine: one when creating a video page for ourselves, at a fixed memory address and completely dominating the machine.
 
-In this case, we have to re-write all the already written graphic routines (drawing pixels, lines, circles, etc.) that EXOS provide to us, but in return they will be much faster. [István](../../../peoples/community/istvanv.md)’s **GRAPH16.HPU** library, which also supports mouse management, is a very good example of this (hopefully [Lacika](../../../peoples/community/lacika.md) would write an article or at least one description).
+In this case, we have to re-write all the already written graphic routines (drawing pixels, lines, circles, etc.) that [EXOS](../../../../software/ss-exos.md) provide to us, but in return they will be much faster. [István](../../../../peoples/community/istvanv.md)’s **GRAPH16.HPU** library, which also supports mouse management, is a very good example of this (hopefully [Lacika](../../../../peoples/community/lacika.md) would write an article or at least one description).
 
 The other, a simpler method, is when we rely on EXOS: in this case, EXOS function calls are used to open and close the video channel, to display the video page, and to use the escape sequences interpreted by the video channel for drawing. The „black book” (aka EXOS Technical Description) and the methods described in the previous chapter (calling the EXOS functions from Pascal, accessing the arguments of Pascal procedures and functions), will help us, almost as a child’s play, to perform the calls to the graphic subroutines supplied by EXOS from inside a Pascal program. A similar article already appeared in the ENTERPRESS columns ([January-February 1995, Zoltán Horváth](http://enterprise.iko.hu/magazines/Enterpress_1995-1.pdf#page=10)), unfortunately, with some cracking solutions.
 
@@ -191,10 +193,10 @@ begin  
 end; 
 ```
 
-![](pics/Enterpress_2017_per_4_UK-033.png)
+![](epress_2017-07-08_t01.png)
 
 In the last line, the User procedure reviews the 120-text video page. The routine at this address is the same as `Display (120, 1, 1, 24)`. 
 
 This is necessary because without this, the top 20 lines of the text video sheet will no longer be displayed after the graphics video is closed. 
 
-The [next part](enterpress2017-5-6_en.md) of this series will be file management.
+The [next part](../2017-09-12/enterpress_2017-n5-6-file-mngmnt_en.md) of this series will be file management.
