@@ -63,7 +63,7 @@ Enterpress 1995.05-08 \#3-4
 <div class="tiles">
   <div class="tile"><a href="enterpress-hu/enterpress-2015-05.html">
     <img src="enterpress-hu/2015-05/epress_2015-05_01.jpg" width="24%">
-    <div class="title">Enterpress #1<br>+ English version</div></a>
+    <div class="title">Enterpress #1 (+ <img src="https://flagcdn.com/16x12/gb.png">)</div></a>
   </div>
 </div>
 
@@ -72,28 +72,30 @@ Enterpress 1995.05-08 \#3-4
 <div class="tiles">
   <div class="tile"><a href="enterpress-hu/enterpress-2016-11.html">
     <img src="enterpress-hu/2016-11/epress_2016-11_01.jpg" width="24%">
-    <div class="title">Enterpress #1<br>+ English version</div></a>
+    <div class="title">Enterpress #1 (+ <img src="https://flagcdn.com/16x12/gb.png">)</div></a>
   </div>
 </div>
+
+
 
 ## 2017
 
 <div class="tiles">
   <div class="tile"><a href="enterpress-hu/enterpress-2017-01-02.html">
     <img src="enterpress-hu/2017-01-02/epress_2017-01-02_01.jpg" width="24%">
-    <div class="title">Enterpress #1<br>+ English version</div></a>
+    <div class="title">Enterpress #1 (+ <img src="https://flagcdn.com/16x12/gb.png">)</div></a>
   </div>
   <div class="tile"><a href="enterpress-hu/enterpress-2017-03-06.html">
     <img src="enterpress-hu/2017-03-06/epress_2017-03-06_01.jpg" width="24%">
-    <div class="title">Enterpress #2-3<br>+ English version</div></a>
+    <div class="title">Enterpress #2-3 (+ <img src="https://flagcdn.com/16x12/gb.png">)</div></a>
   </div>
   <div class="tile"><a href="enterpress-hu/enterpress-2017-07-08.html">
     <img src="enterpress-hu/2017-07-08/epress_2017-07-08_01.jpg" width="24%">
-    <div class="title">Enterpress #4<br>+ English version</div></a>
+    <div class="title">Enterpress #4 (+ <img src="https://flagcdn.com/16x12/gb.png">)</div></a>
   </div>
   <div class="tile"><a href="enterpress-hu/enterpress-2017-09-12.html">
     <img src="enterpress-hu/2017-09-12/epress_2017-09-12_01.jpg" width="24%">
-    <div class="title">Enterpress #5-6<br>+ English version</div></a>
+    <div class="title">Enterpress #5-6 (+ <img src="https://flagcdn.com/16x12/gb.png">)</div></a>
   </div>
 </div>
 
@@ -102,7 +104,7 @@ Enterpress 1995.05-08 \#3-4
 <div class="tiles">
   <div class="tile"><a href="enterpress-hu/enterpress-2018-01-04.html">
     <img src="enterpress-hu/2018-01-04/epress_2018-01-04_01.jpg" width="24%">
-    <div class="title">Enterpress #1-2<br>+ English version</div></a>
+    <div class="title">Enterpress #1-2 (+ <img src="https://flagcdn.com/16x12/gb.png">)</div></a>
   </div>
   <div class="tile"><a href="enterpress-hu/enterpress-2018-05-06.html">
     <img src="enterpress-hu/2018-05-06/epress_2018-05-06_01.jpg" width="24%">
