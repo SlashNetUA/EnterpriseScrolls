@@ -3,8 +3,8 @@
 <div style="text-align:center;">
 <img src="2017-03-06/epress_2017-03-06_01.jpg" alt="обкладинка" width="50%"></div>
 
-[Онлайн версія](http://magazin.enterpress.news.hu/2017/2-3_EN/) / [Оригінальний PDF](http://enterprise.iko.hu/magazines/Enterpress_2017_per_2-3_UK.pdf) (англійською)  
-[Онлайн версія](http://magazin.enterpress.news.hu/2017/2-3/) / [Оригінальний PDF](http://enterprise.iko.hu/magazines/Enterpress_2017_per_2-3.pdf) (угорською)
+[Онлайн версія](https://magazin.enterpress.news.hu/2017/2-3_EN/) / [Оригінальний PDF](http://enterprise.iko.hu/magazines/Enterpress_2017_per_2-3_UK.pdf) (англійською)  
+[Онлайн версія](https://magazin.enterpress.news.hu/2017/2-3/) / [Оригінальний PDF](http://enterprise.iko.hu/magazines/Enterpress_2017_per_2-3.pdf) (угорською)
 
 
 ## Зміст

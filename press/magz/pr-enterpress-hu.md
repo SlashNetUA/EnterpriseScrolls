@@ -21,12 +21,32 @@
 
 ## 1991
 
-Enterpress 1991.01-02 #1  
-Enterpress 1991.03-04 #2  
-Enterpress 1991.05-06 #3  
-Enterpress 1991.07-08 #4  
-Enterpress 1991.09-10 #5  
-Enterpress 1991.11-12 #6  
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-1991-01-02.html">
+    <img src="enterpress-hu/1991-01-02/epress_1991-01-02_01.jpg" width="24%">
+    <div class="title">Enterpress #1</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1991-03-04.html">
+    <img src="enterpress-hu/1991-03-04/epress_1991-03-04_01.jpg" width="24%">
+    <div class="title">Enterpress #2</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1991-05-06.html">
+    <img src="enterpress-hu/1991-05-06/epress_1991-05-06_01.jpg" width="24%">
+    <div class="title">Enterpress #3</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1991-07-08.html">
+    <img src="enterpress-hu/1991-07-08/epress_1991-07-08_01.jpg" width="24%">
+    <div class="title">Enterpress #4</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1991-09-10.html">
+    <img src="enterpress-hu/1991-09-10/epress_1991-09-10_01.jpg" width="24%">
+    <div class="title">Enterpress #5</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1991-11-12.html">
+    <img src="enterpress-hu/1991-11-12/epress_1991-11-12_01.jpg" width="24%">
+    <div class="title">Enterpress #6</div></a>
+  </div>
+</div>
 
 ## 1992
 
@@ -63,7 +83,7 @@ Enterpress 1995.05-08 \#3-4
 <div class="tiles">
   <div class="tile"><a href="enterpress-hu/enterpress-2015-05.html">
     <img src="enterpress-hu/2015-05/epress_2015-05_01.jpg" width="24%">
-    <div class="title">Enterpress #1 (+ 🇬🇧)</div></a>
+    <div class="title">Enterpress #1 (+EN)</div></a>
   </div>
 </div>
 
@@ -72,7 +92,7 @@ Enterpress 1995.05-08 \#3-4
 <div class="tiles">
   <div class="tile"><a href="enterpress-hu/enterpress-2016-11.html">
     <img src="enterpress-hu/2016-11/epress_2016-11_01.jpg" width="24%">
-    <div class="title">Enterpress #1 (+ 🇬🇧)</div></a>
+    <div class="title">Enterpress #1 (+EN)</div></a>
   </div>
 </div>
 
@@ -83,19 +103,19 @@ Enterpress 1995.05-08 \#3-4
 <div class="tiles">
   <div class="tile"><a href="enterpress-hu/enterpress-2017-01-02.html">
     <img src="enterpress-hu/2017-01-02/epress_2017-01-02_01.jpg" width="24%">
-    <div class="title">Enterpress #1 (+ 🇬🇧)</div></a>
+    <div class="title">Enterpress #1 (+EN)</div></a>
   </div>
   <div class="tile"><a href="enterpress-hu/enterpress-2017-03-06.html">
     <img src="enterpress-hu/2017-03-06/epress_2017-03-06_01.jpg" width="24%">
-    <div class="title">Enterpress #2-3 (+ 🇬🇧)</div></a>
+    <div class="title">Enterpress #2-3 (+EN)</div></a>
   </div>
   <div class="tile"><a href="enterpress-hu/enterpress-2017-07-08.html">
     <img src="enterpress-hu/2017-07-08/epress_2017-07-08_01.jpg" width="24%">
-    <div class="title">Enterpress #4 (+ 🇬🇧)</div></a>
+    <div class="title">Enterpress #4 (+EN)</div></a>
   </div>
   <div class="tile"><a href="enterpress-hu/enterpress-2017-09-12.html">
     <img src="enterpress-hu/2017-09-12/epress_2017-09-12_01.jpg" width="24%">
-    <div class="title">Enterpress #5-6 (+ 🇬🇧)</div></a>
+    <div class="title">Enterpress #5-6 (+EN)</div></a>
   </div>
 </div>
 
@@ -104,7 +124,7 @@ Enterpress 1995.05-08 \#3-4
 <div class="tiles">
   <div class="tile"><a href="enterpress-hu/enterpress-2018-01-04.html">
     <img src="enterpress-hu/2018-01-04/epress_2018-01-04_01.jpg" width="24%">
-    <div class="title">Enterpress #1-2 (+ 🇬🇧)</div></a>
+    <div class="title">Enterpress #1-2 (+EN)</div></a>
   </div>
   <div class="tile"><a href="enterpress-hu/enterpress-2018-05-06.html">
     <img src="enterpress-hu/2018-05-06/epress_2018-05-06_01.jpg" width="24%">
@@ -122,41 +142,105 @@ Enterpress 1995.05-08 \#3-4
 
 ## 2019
 
-Enterpress 2019.01-04 \#1-2  
-Enterpress 2019.05-08 \#3-4  
-Enterpress 2019.09-12 \#5-6  
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-2019-01-04.html">
+    <img src="enterpress-hu/2019-01-04/epress_2019-01-04_01.jpg" width="24%">
+    <div class="title">Enterpress #1-2</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-2019-05-08.html">
+    <img src="enterpress-hu/2019-05-08/epress_2019-05-08_01.jpg" width="24%">
+    <div class="title">Enterpress #3-4</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-2019-09-12.html">
+    <img src="enterpress-hu/2019-09-12/epress_2019-09-12_01.jpg" width="24%">
+    <div class="title">Enterpress #5-6</div></a>
+  </div>
+</div>
 
 ## 2020
 
-Enterpress 2020.01-04 \#1-2  
-Enterpress 2020.05-12 \#3-6  
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-2020-01-04.html">
+    <img src="enterpress-hu/2020-01-04/epress_2020-01-04_01.jpg" width="24%">
+    <div class="title">Enterpress #1-2</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-2020-05-12.html">
+    <img src="enterpress-hu/2020-05-12/epress_2020-05-12_01.jpg" width="24%">
+    <div class="title">Enterpress #3-6</div></a>
+  </div>
+</div>
 
 ## 2021
 
-Enterpress 2021.01-06 \#1-3  
-Enterpress 2021.07-12 \#4-6  
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-2021-01-06.html">
+    <img src="enterpress-hu/2021-01-06/epress_2021-01-06_01.jpg" width="24%">
+    <div class="title">Enterpress #1-3</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-2021-07-12.html">
+    <img src="enterpress-hu/2021-07-12/epress_2021-07-12_01.jpg" width="24%">
+    <div class="title">Enterpress #4-6</div></a>
+  </div>
+</div>
 
 ## 2022
 
-Enterpress 2022.01-04 \#1-2  
-Enterpress 2022.05-12 \#3-6  
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-2022-01-04.html">
+    <img src="enterpress-hu/2022-01-04/epress_2022-01-04_01.jpg" width="24%">
+    <div class="title">Enterpress #1-2</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-2022-05-12.html">
+    <img src="enterpress-hu/2022-05-12/epress_2022-05-12_01.jpg" width="24%">
+    <div class="title">Enterpress #3-6</div></a>
+  </div>
+</div>
 
 ## 2023
 
-Enterpress 2023.01-04 \#1-2  
-Enterpress 2023.05-08 \#3-4  
-Enterpress 2023.09-12 \#5-6  
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-2023-01-04.html">
+    <img src="enterpress-hu/2023-01-04/epress_2023-01-04_01.jpg" width="24%">
+    <div class="title">Enterpress #1-2</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-2023-05-08.html">
+    <img src="enterpress-hu/2023-05-08/epress_2023-05-08_01.jpg" width="24%">
+    <div class="title">Enterpress #3-4</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-2023-09-12.html">
+    <img src="enterpress-hu/2023-09-12/epress_2023-09-12_01.jpg" width="24%">
+    <div class="title">Enterpress #5-6</div></a>
+  </div>
+</div>
 
 ## 2024
 
-Enterpress 2024.01-06 \#1-3  
-Enterpress 2024.07-12 \#4-6  
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-2024-01-06.html">
+    <img src="enterpress-hu/2024-01-06/epress_2024-01-06_01.jpg" width="24%">
+    <div class="title">Enterpress #1-3</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-2024-07-12.html">
+    <img src="enterpress-hu/2024-07-12/epress_2024-07-12_01.jpg" width="24%">
+    <div class="title">Enterpress #4-6</div></a>
+  </div>
+</div>
 
 ## 2025
 
-Enterpress 2025 #1  
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-2025.html">
+    <img src="enterpress-hu/2025/epress_2025_01.jpg" width="24%">
+    <div class="title">Enterpress #1</div></a>
+  </div>
+</div>
 
 ## 2026
 
-Enterpress 2026.01-04 \#1-2  
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-2026-01-04.html">
+    <img src="enterpress-hu/2026-01-04/epress_2026-01-04_01.jpg" width="24%">
+    <div class="title">Enterpress #1-2</div></a>
+  </div>
+</div>
 

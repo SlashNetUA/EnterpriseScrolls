@@ -3,7 +3,7 @@
 <div style="text-align:center;">
 <img src="2018-11-12/epress_2018-11-12_01.jpg" alt="обкладинка" width="50%"></div>
 
-[Онлайн версія](http://magazin.enterpress.news.hu/2018/6/) / [Оригінальний PDF](http://enterprise.iko.hu/magazines/Enterpress_2018_per_6.pdf) (угорською)
+[Онлайн версія](https://magazin.enterpress.news.hu/2018/6/) / [Оригінальний PDF](http://enterprise.iko.hu/magazines/Enterpress_2018_per_6.pdf) (угорською)
 
 ## Зміст
 

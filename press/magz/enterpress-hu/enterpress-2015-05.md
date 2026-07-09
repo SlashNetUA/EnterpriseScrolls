@@ -3,8 +3,8 @@
 <div style="text-align:center;">
 <img src="2015-05/epress_2015-05_01.jpg" alt="обкладинка" width="50%"></div>
 
-[Онлайн версія](http://magazin.enterpress.news.hu/2015/1_EN/) / [Оригінальний PDF](http://enterprise.iko.hu/magazines/Enterpress_2015_UK.pdf) (англійською)  
-[Онлайн версія](http://magazin.enterpress.news.hu/2015/1/) / [Оригінальний PDF](http://enterprise.iko.hu/magazines/Enterpress_2015_mjuspdf.pdf) (угорською)
+[Онлайн версія](https://magazin.enterpress.news.hu/2015/1_EN/) / [Оригінальний PDF](http://enterprise.iko.hu/magazines/Enterpress_2015_UK.pdf) (англійською)  
+[Онлайн версія](https://magazin.enterpress.news.hu/2015/1/) / [Оригінальний PDF](http://enterprise.iko.hu/magazines/Enterpress_2015_mjuspdf.pdf) (угорською)
 
 
 ## Зміст
