@@ -50,33 +50,95 @@
 
 ## 1992
 
-Enterpress 1992.01-02 #1  
-Enterpress 1992.03-04 #2  
-Enterpress 1992.05-06 #3  
-Enterpress 1992.07-08 #4  
-Enterpress 1992.09-12 \#5-6
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-1992-01-02.html">
+    <img src="enterpress-hu/1992-01-02/epress_1992-01-02_01.png" width="24%">
+    <div class="title">Enterpress #1</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1992-03-04.html">
+    <img src="enterpress-hu/1992-03-04/epress_1992-03-04_01.png" width="24%">
+    <div class="title">Enterpress #2</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1992-05-06.html">
+    <img src="enterpress-hu/1992-05-06/epress_1992-05-06_01.png" width="24%">
+    <div class="title">Enterpress #3</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1992-07-08.html">
+    <img src="enterpress-hu/1992-07-08/epress_1992-07-08_01.png" width="24%">
+    <div class="title">Enterpress #4</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1992-09-12.html">
+    <img src="enterpress-hu/1992-09-12/epress_1992-09-12_01.png" width="24%">
+    <div class="title">Enterpress #5-6</div></a>
+  </div>
+</div>
 
 ## 1993
 
-Enterpress 1993.01-04 \#1-2  
-Enterpress 1993.05-06 #3  
-Enterpress 1993.07-08 #4  
-Enterpress 1993.09-10 #5  
-Enterpress 1993.11-12 #6  
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-1993-01-04.html">
+    <img src="enterpress-hu/1993-01-04/epress_1993-01-04_01.png" width="24%">
+    <div class="title">Enterpress #1-2</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1993-05-06.html">
+    <img src="enterpress-hu/1993-05-06/epress_1993-05-06_01.png" width="24%">
+    <div class="title">Enterpress #3</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1993-07-08.html">
+    <img src="enterpress-hu/1993-07-08/epress_1993-07-08_01.png" width="24%">
+    <div class="title">Enterpress #4</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1993-09-10.html">
+    <img src="enterpress-hu/1993-09-10/epress_1993-09-10_01.png" width="24%">
+    <div class="title">Enterpress #5</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1993-11-12.html">
+    <img src="enterpress-hu/1993-11-12/epress_1993-11-12_01.png" width="24%">
+    <div class="title">Enterpress #6</div></a>
+  </div>
+</div>
 
 ## 1994
 
-Enterpress 1994.01-02 #1  
-Enterpress 1994.03-04 #2  
-Enterpress 1994.05-08 \#3-4  
-Enterpress 1994.09-10 #5  
-Enterpress 1994.11-12 #6  
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-1994-01-02.html">
+    <img src="enterpress-hu/1994-01-02/epress_1994-01-02_01.png" width="24%">
+    <div class="title">Enterpress #1</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1994-03-04.html">
+    <img src="enterpress-hu/1994-03-04/epress_1994-03-04_01.png" width="24%">
+    <div class="title">Enterpress #2</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1994-05-08.html">
+    <img src="enterpress-hu/1994-05-08/epress_1994-05-08_01.png" width="24%">
+    <div class="title">Enterpress #3-4</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1994-09-10.html">
+    <img src="enterpress-hu/1994-09-10/epress_1994-09-10_01.png" width="24%">
+    <div class="title">Enterpress #5</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1994-11-12.html">
+    <img src="enterpress-hu/1994-11-12/epress_1994-11-12_01.png" width="24%">
+    <div class="title">Enterpress #6</div></a>
+  </div>
+</div>
 
 ## 1995
 
-Enterpress 1995.01-02 #1  
-Enterpress 1995.03-04 #2  
-Enterpress 1995.05-08 \#3-4  
+<div class="tiles">
+  <div class="tile"><a href="enterpress-hu/enterpress-1995-01-02.html">
+    <img src="enterpress-hu/1995-01-02/epress_1995-01-02_01.png" width="24%">
+    <div class="title">Enterpress #1</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1995-03-04.html">
+    <img src="enterpress-hu/1995-03-04/epress_1995-03-04_01.png" width="24%">
+    <div class="title">Enterpress #2</div></a>
+  </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-1995-05-08.html">
+    <img src="enterpress-hu/1995-05-08/epress_1995-05-08_01.png" width="24%">
+    <div class="title">Enterpress #3-4</div></a>
+  </div>
+</div>
 
 ## 2015
 
