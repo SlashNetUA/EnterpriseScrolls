@@ -1,0 +1,1795 @@
+"page-000.jpg" ------------------------------------------------------------ 
+186 HIEeW/TIenIqga
+
+"page-001.ppm" ------------------------------------------------------------ 
+EEn
+
+INHOUDSOPGAVE
+
+VOORPLAAT .......... 1 BASIC TIPS ......s... 10-12
+INHOUDSOPGAVE .….….... 2 VDUMP UTILITY .......... 13
+COLOFON ..........n. 2 WORDPROCESSOR&BASIC ‚14
+REDAKTIEPRAAT ...... 3 UIT DE DOOS ....;...…. 15-16
+ENTER&RETURN ....... 4 NOG MEER RST 10H .... 18-20
+VAN HET BESTUUR .... 5 SOFTWARE OVERZICHT …. 21-23
+MIJN ENTERPRISE …... 6 KOPEN? ....... neee 24
+SWL-NEWS ......... 6
+
+60-DAGENPRIJS ..... 8-9 EXTRA
+
+WIE WIL DE MIJNE ... 9 ENQUETE ........e NIETJES
+
+GEBRUIKERSDAG--ALGEMEEN .
+Witte dorpshuis,
+
+vanat ES
+
+H.F.
+
+GEBRUIKERSDAG--NOORD -
+
+14 MAART
+Henri Dunantplein 4, DE BILT
+halte Mobellaan, Nooellaan in, Ze weg Links
+
+a
+
+28 FEBRUARI
+
+Midget Golfbaan NIENOORD, LEEK, 05945-13120
+
+Ban maal
+
+De vorige daa,
+
+1m
+
+Il
+
+LEER, wal
+
+de horden Nienoord. vanaf 1LOO=-l400
+
+18 oktober, was een groot succes oua sfeer en opkonst. De opzet van deze cad, het leggen van
+
+kontakten en uitwisseling van wetenswaardighesen kwam weer volledig uit de verf.
+
+COLOFON
+
+EL
+
+De ENTERFACE is het officiele orgaan van de Dutch Enterprise User
+Group en verschijnd eens per twee maanden.
+
+REDAKTIE
+
+MEDEWERKENDEN ....
+
+OVERNEMEN
+
+BESTUUR
+
+BIBLIOTHEEK
+
+Robin Ketelaars, Geerweg 2, 2611 VN DELFT
+
+Arjan. Peter, Sonja,
+Spock, Jos,
+
+Jaco, Eric. Stan, Fabian, Albert,
+Patrick, Richard, Gerrit. Kees, en 22?
+
+Druk. Tan Heck, Pluympot la, 2611 XJ DELFT
+Ontwerp voor kantklossen van Sonja Laborus
+
+Inzenden op FLOPPY of TAPE tot 21 maart
+
+Kopij niet op flopey of tape: geen plaatsing
+
+van de gehele of gedeeltelijke inhoud toegestaan
+
+Voorzitter 4 Stan Tuinder, Willemstraat 170, 27135 AJ ZOETERMEER, 079-169523
+Gecretaris : Erik Berends, Éroonkruid 40, 2914 EN NIEUWERKERK AD IJSSEL, O1803-17051
+Penningneester: zie voorzitter
+
+Lid 1 Hans Roelofs, Calsplantsoen 47, 1985 SL BEVERWIJK, 02510-46650
+
+Lid : Menno Bins, Dollartstraat 92, 7523 68 ENSCHEDE, 057-3551043
+Behearkaanvraag: Richard Sargeant, Reigerskano 60, 3607 JP KAARGEEN, 07463-65086
+"page-002.ppm" ------------------------------------------------------------ 
+REDAKTIEPRAAT
+
+Voor jullie ligt het februarinummer van de DEUG (Nederlandse ENTERPRISE
+Gebruikers Groep) van 1987. Het is de tweede die de nieuwe redaktie voor
+jullie gemaakt heeft.
+
+Er zijn bizonder leuke reakties gekomen op het vorige nummer. Dit gebeur-
+de niet altijd in de vorm van kopij, maar daar zal na dit nummer wel ver
+andering in komen.
+
+Het is natuurlijk een hele opgave om iets te schrijven, daar heeft de
+redaktie ook moeite mee. Vooral om iets zinnigs te schrijven als
+voorwoord.
+
+Denk niet dat iedereen alles al weet. Wat jij als 'logisch' of 'normaal'
+ziet of gebruikt blijkt voor een ander nog ‘abacadabra'
+
+Schroom niet om vragen op te sturen, al lijken ze onbelangrijk, je zal er
+maar mee zitten. We hebben EXPERTS genoeg om ze te beantwoorden.
+
+In de rubriek ENTER EN RETURN kun je zien wat er zoal aan vragen bij de
+redaktie binnenkomt.
+
+Er zijn vele ENTERPRISE-gebruikers die nog BASIC moeten leren en. daar
+
+kun je niet bij aankomen met zinnetjes als “daar saheiif je in Gi
+tach even een drivertie vaar (letterlijk gehoord op de gebruikersdas) .
+Dus een ‘eenvoudige! PEEK is er niet eens bij. Om van de "ALLOCATE
+Eise, wamsecgmenten, svetemrerxtensions en zEDAFErzeouences’ maar niet
+
+te spreken.
+
+Dus zorg er dan ook voor wanneer je een stukje instuurt, dat er voldoende
+uitleg in voorkomt over het gebruik en over de werking. Doe dit simpel en
+gebruik geen jargon!
+
+Zijn er mensen bang om een stukje te schrijven omdat ze geen goede ver-
+halen kunnen schrijven, dan geeft dit niet, want de redaktie gaat er toch
+met de witkwast overheen. Dus zelfs de ergste taalvauten worden eruit ge-
+haalt!
+
+Heb je geen onderwerp en wil je toch wat schrijven, maak dan een
+verhaaltje over wat jij doet met je ENTERPRISE dan kun je in de
+
+rubriek MIJN ENTERPRISE.
+
+Ook tekeningen of mooie plaatjes zijn van harte welkom. Je kunt dan zelfs
+op de voorkant komen en je mag dan zelf de kleur kiezen.
+
+Je kunt de kopij voor APRIL-nummer ook inleveren op de gebruikersdag van
+14 maart aanstaande. De kopij wordt dan direct op de floppy van de
+redaktie gekopieerd.
+
+Wanneer je kopij instuurt doe het dan op een bandje of flopje dan
+
+hoeft de redaktie het niet over te tikken, want dat geeft veel te veel
+werk. Computers zijn niet voor niets uitgevonden!
+
+Doe er voldoende (Fl 2,25) frankering bij voor het terugzenden van je
+bandje of flopje. Je kunt het ook op een gebruikersdag ophalen.
+
+"page-003.ppm" ------------------------------------------------------------ 
+ENTER EN RETURN
+
+Hier is dan voor de eerste keer de VRAAG en ANTWOORD-rubriek van de
+ENTERFACE. In deze rubriek zullen we vragen van lezers aan lezers
+opnemen. Als we zelf een antwoord weten zullen we dit gelijk melden.
+
+VRAAG van JD te L
+Ik heb IS-DOS. Maar ik wil CP/M hebben. Hoe kom ik hieraan ?
+
+ANTWOORD van de EXPERTS
+
+VRAAG van WvdH te H
+
+Wanneer ik een geheugenuitbreiding koop, kan ik dan meer graf ische
+schermen openen, bv met interlace?
+
+ANTWOORD van de EXPERTS
+
+Wanneer en Hen je LESKk
+af meer dan ga je er wat bet Haen niet meer oo vooruit.
+Dit kamt omdat de video-chiD niet meer vlideogenesugen kan
+
+NOODKREET van FABIAN MOONEN uit ZWAAG 02290-37122
+Ik zoek al maanden een MIDI-INTERFACE voor de ENTERPRISE. Wie kan mij
+
+die maken? (tegen betaling). Ik heb o.a. plannen om er software voor te
+maken.
+
+TIP van de EXPERTS
+
+direkt
+
+werkt :
+t warsma
+knopinasount is het schema uit de
+
+Hier staan aak cades
+
+VRAAG van de REDAKTIE te DELFT
+Heb je vragen of problemen, schrijf ze aan de rubriek ENTER en RETURN
+en dan zullen de EXPERTS ze proberen te beantwoorden. Komen ze er niet
+uit dan staan ze in ieder geval in dit blad.
+Heb je ANTWOORDEN op vragen geef ze dan direkt door aan de betreffende
+personen en aan de redaktie als kopij voor het volgende nummer.
+
+"page-004.ppm" ------------------------------------------------------------ 
+VAN HET BESTUUR
+
+BESLUITEN VAN BESTUURSVERGADERING 17-01-87
+
+1. Een voorstel tot instelling van subsidie aan regionale gebruikers bij-
+eenkomsten is aanvaard en wordt nader uitgewerkt in een regelement.
+Zodra dit klaar is worden de leden hierover nader geinformeerd.
+
+2. Voorstel tot instelling van gecombineerde of aparte "sleuteldag' voor
+Hardware wordt nog bekeken aan de hand van een behoefte-peiling.
+
+3. Om beter te kunnen inspelen op het leggen van kontakten tussen regio-
+nale gebruikers die de landelijke dagen bezoeken en inzicht te krijgen
+wie regelmatig komt en uit welke plaats,gaan we een presentielijst in-
+stellen, waarop alleen naam en plaats zullen voorkomen.
+
+De leden hebben inzage in deze lijst en kunnen dan zelf bepalen wie
+aanwezig is waarmee men kontakt wil leggen. Op deze wijze is de
+privacy nog beschermd. Indien leden hiertegen bezwaar hebben wordt men
+verzocht dit aan het secretariaat kenbaar te maken.
+
+4. Ten behoeve van Administratie en Software Bibliotheek is een 3.5''
+drive dringend nodig door toenemende aanvragen en wordt deze aangeschaft.
+
+HUISHOUDELIJK
+
+Het kontaktadres, regio Brabant van Rob Nansen Stoofstr 16a in Oud
+Gastel, vermelde nog geen telefoonnummer. Dit is 01651*1245.
+
+De door leden bij intekening bestelde Technical Manuals binnen, Dit is de
+oorspronkelijke engelse versie 2.0 en kost 35 gulden.
+
+Versie 2.1 is niet meer leverbaar. Deze komt binnenkort in een Duits-
+talige versie a f 55,- . Albert Hekman heeft mij toegezegd dat leden die
+genoegen willen nemen met versie 2.0 een inlegvel krijgen, waarop alle
+wijzigingen t.o.v. versie 2.1 worden vermeld.
+
+Neem even kontakt op als versie 2.0 niet acceptabel is, dan kunnen we be-
+palen hoeveel duitse versies hiervoor in de plaats moeten komen.
+
+De ingestelde aanmoedigingspremie voor de beste inzending van software
+werd voor de periode sept—-nov. toegekend aan VINCENT PETERS te
+MOLENHOEK voor zijn programma ADRESSEN.BAS.
+
+Het bestuur feliciteert hem van harte en wenst hem nog veel vruchtbare
+programmeeruren toe.
+
+Graag verwelkomen we deze keer de volgende nieuwe leden
+
+DAVID BOUMAN + HANS DEE
+El, Hd KEMINK
+MPG NELI
+
+WIED BUYS
+
+uit SCHAGEN,
+
+ERIK BERENDS
+"page-005.ppm" ------------------------------------------------------------ 
+MIJN ENTERPRISE
+
+Een jaar of drie geleden kwam ik in aanraking met computers door de aan-
+schaf van een Ze-hands VIC-20, met een klein plottertje.
+
+Na het gebruikelijke gespeel, intikken van eindeloze listings en het ko-
+pieren van programma's. begon ik met het plottertje en kijk, dat was nu
+precies de toepassing die ik altijd al gezocht had.
+
+Ik ben namelijk al jaren bezig met kantklossen en
+
+het tekenen van patronen is een moeizaam karwei.
+
+Vooral in de strakke en regelmatige patronen zag ik
+werk voor de computer. Maar al snel wordt een rol van
+1lcm veel te smal om op te werken en ga je op zoek naar
+een grotere plotter. En zie, net in de tijd dat de
+ENTERPRISE op de markt kwam liep ik tegen de SONY
+PRN-C41 op, een A4-plotter, toen nog 900 gulden. Hij
+bleek goed aan te sluiten op de ENTERPRISE en dus
+
+4 1 alles aangeschaft.
+PA Sinds die tijd werk ik er met
+ve NS, En veel genoegen mee. Wat ik in
+
+SP AT principe doe is tekenen op
+. ruitjespapier, maar ik kan met de
+computer zelf de maat van de
+ruitjes bepalen.
+Ook rechte stroken rond zetten en het netjes verde
+len van cirkelbogen bleek allemaal mogelijk te
+zijn.
+Basic heb ik geleerd door op te zoeken wat ik nodig
+had voor wat ik wilde. De eerste tekenprogramma's
+werden dan ook mijlen lang. Het allereerste pro- Ate
+gramma besloeg enkele honderden regels en toen ik "‚:.",.
+
+het later nog eens schreef bleek het ook in tien nn
+regels te kunnen. "Brrr
+Al doende leert men en ik heb nog niet het gevoel «ne úr
+
+dat ik uitgeleerd ben.
+
+We zijn nu bezig lesmappen te maken voor de cursus
+
+die ik geef.
+
+Patronen en werktekeningen met de plotter, de bijbehorende tekst met de
+WP en een simpel thermisch printertje en het werkt allemaal! !
+
+De lesmappen zien er zeer verzord uit, fouten die er toch onvermijdelijk
+inzitten kunnen snel worden verbeterd, kortom MIJN ENTERPRISEwordt
+
+zeer vaak en met veel plezier gebruikt.
+
+Sonja Labordus
+030-317299
+
+Bedankt Sonja voor dit stukje, wij hopen dat het de mensen aanspoort om
+ook wat te vertellen in het kader van MIJN ENTERPRISE
+
+"page-006.ppm" ------------------------------------------------------------ 
+SOFTWARE LIBRARY NEWS
+
+Sinds de laatste gepubliceerde inhoud van de SWL zijn er vrij veel
+nieuwe programma's binnengekomen hiervoor onze dank.
+
+Helaas moesten wij een aantal hiervan gelijk afkeuren wegens onvoldoende
+documentatie en/of commentaar in de source. Daarom, als je je eigen pro-
+gramma terug wilt vinden in de bibliotheek, voorzie het dan (alsnog) van
+een aparte documentatie file. of geef commentaar in het programma zelf.
+
+Alle ingestuurde software is inmiddels doorgegeven aan het lid dat deze
+keer de software zal beoordelen. Als alles goed verlopen is, kun je
+elders in deze ENTERFACE een de beoordeling vinden van de winnaar
+
+door de beoordelaar van de vorige keer.
+
+In de laatste paar maanden is het gebleken, dat een aantal leden niet op
+
+de hoogte is wat betreft de regeling van via de PTT aangevraagde software.
+
+Wij kunnen alleen sofware leveren, die in de SWL staat, en geen andere
+(commerciele) programma's! Vragen over andere programma's kunt U
+beter stellen in de ENTERFACE, of op de gebruikersdagen.
+
+Aanvragen dienen te zijn vergezeld van een lege cassette of
+GEFORMATTEERDE diskette met voldoende ruimte voor de gevraagde
+programma's.
+
+De bestellijst moet bestaan uit een GESORTEERDE lijst met CODE en
+FILENAME en tevens uw naam, adres en lidnummer.
+
+Als je de aangevraagde software via de PTT terug wilt ontvangen, dient
+deze wel te zijn voorzien van een STEVIGE retourenvelop en VOLDOENDE
+RETOURPORTO.
+
+N
+
+Vragen wat betreft het gebruik van de programma's kunt u stellen aan de
+auteur(s) van het betreffende programma, en beslist niet aan de SWL.
+
+Namens de Software Library. Patrick van Voorn 03465-66876
+Richard Sargeant 03465-65086
+(Beide van 19:00 tot 22:00)
+
+denk aan de volgende archiefnaam-aanhangsels (filename-extensions)
+
+ATH Fo APP APPlicatiegrooranaa A52 ASCIl-file van zen HASIC-arograana
+A8 A8 ‚BAS BASIC-orencede -broncode
+
+‚COM IST „DAT le „D0C Dokunentatie sij een orcgranaa
+EEN DE ‚H___C Keader-file L P file
+
+VR OV ‚DF DBaseil File eil canaanco-tile
+
+„PAS FA PRT PRinT file tile
+
+APA HP } Ö xt) aet SAVE =toestand aat SAVE
+
+„XA
+
+tzbare systeenuitereiding
+
+"page-007.ppm" ------------------------------------------------------------ 
+PE SO-DAGENPRIJS
+
+Zoals jullie in het kerstnummer hebben kunnen lezen heeft het bestuur be-
+sloten, de inzending van goede programma’s te stimuleren met een aanmoedi-
+gingspremie in de vorm van boeken/kadobon van 25 gulden per 2 maanden.
+
+Voor het beoordelen zijn nog wel redelijk objectieve maatstaven aan te
+leggen. maar de beoordelaar heeft natuurlijk zijn eigen smaak en opinie.
+Hij of zij zal bepaalde voorkeuren hebben voor programma's en die wegen
+dan onwillekeurig mee.
+
+Om een aanzet te geven heb ik een aantal inzendingen over de periode van
+september tot november, als prive gebruiker en niet als bestuurslid of
+‘EXPERT ' bekeken, voorzover mijn kennis en ervaring op dit gebied reiken.
+
+Het is de bedoeling dat, iedere gebruiker die het leuk of nuttig vindt,
+zich bij RICHARD, van de SOFTWARELIBRARY, beschikbaar stelt en dan, na
+willekeurige selectie aangewezen, een beoordeling maakt van de inzendingen
+die hem/haar het best bevalt.
+
+Er wordt beoordeeld aan de hand van de rubrieken a t/m f. Voor iedere
+rubriek wordt max. 3 punten toegekend.
+
+a) Orginalitesit bì Eruikbaarneid cì Uiteriijke verzorging
+d) Froorammatechnisch e) Handleiding/dokumentatie tj Nederlandsetaal
+
+Cad f specifiek m.a.t. in= en uitvoer oo scherm Èò
+DE EERSTE-KEER-PRIJS
+
+Naast de eervolle vermeldingen MEMORY, FATROON, MENSERGI, ANGLOSAK en
+DOWNLOAD, Wint ADRESSEN.BAS van VINCENT PETERS deze keer.
+
+Zijn eerdere programma’s kenmerken zich door een heldere en doorzichtige
+struktuur en zijn modulair opgebouwd.
+
+Zonder aan de kwaliteiten van de andere afbreuk te doen, is dit programma
+een goed voorbeeld van gestructureerd programmeren, waarbij zowel de
+scherminformatie als de dokumentatie niet werd 'vergeten'.
+
+Deze elementen waren voor mij doorslaggevend als keuze.
+
+Het programma maakt adressenbestanden aan die opgeslagen kunnen worden op
+DISK/TAPE. Het biedt faciliteiten tot oproepen, wijziging en uitvoer naar
+printer al of niet meer— koloms, handig voor etiketten.
+
+Het draaide goed op de 128K met fraaie optie om naar EXDOS te springen.
+Fijn is ook dat gekozen werd voor een witte achtergrond dat de leesbaar
+heid op de huiskamer-TV sterk verbetert.
+
+Het is kompleet, zodat de gebruiker geen moeite hoeft te doen om in- en
+uitvoer naar printer enz. nog te regelen!
+
+"page-008.ppm" ------------------------------------------------------------ 
+DE CO--DAGENPRIJS
+
+Dit blijkt trouwens niet goed te werken op mijn printer, omdat hier een
+andere escape sequence nodig is voor tabulatorstops.
+
+In een volgende versie zou de eigenlijke printroutine beter in een apart
+hulp-programma gevat kunnen worden, waar even naar toe gesprongen wordt om
+de printer te conditioneren met nog meer opties.
+
+Een schoonheidsfoutje is het gebruik van control karakters zonder dat deze
+
+opgeborgen zijn in een voor de printer niet herkenbare string.
+eran in dit Biad onder WOR } 4 Ús wed.
+
+Tot slot een algemene opmerking m.b.t de vaak vergeten afhandelingsproce-
+dures. De reset naar default waarden aan het einde van het programma wordt
+vaak vergeten. Wanneer uitzonderingen optreden, zoals het op de rode knop
+STOP drukken, dienen deze opgevangen te worden zodat het scherm niet on-
+leesbaar wordt voor de argeloze gebruiker. (zie noot),
+
+Niettemin hulde voor de steeds betere kwaliteit.
+
+ERIK BERENDS
+
+NOOT VAN DE EXPERTS
+ki : F Ei
+
+ie gewoan CLOSE £0,
+
+normale iettertekens
+
+WIE WIL DE MIJNE
+
+Ik werd laatst opgebeld door JOS BOS van 02290-16728 met de vraag of ik
+iemand wist die zijn ENTERPRISE zou willen kopen.
+
+Het is natuurlijk een hele stap om zo'een goede machine weg te doen
+maar er is begrip voor.
+
+Wat JOS wil is met zijn ZEND-ONTVANGERS (met zenddiploma) de wereld van
+TELEX, RTTY, TOR en WEERSATELIET op de monitor zien. Het liefst met de
+ENTERPRISE natuurlijk, maar er is nog geen programmatuur voor.
+
+Jos kan zelf in geen enkele computertaal iets schrijven en dat schiet
+natuurlijk niet op.
+
+Dit laten we toch niet op ons zitten, hup die programmatuur maken we
+toch even!
+
+Laat het Jos wel even weten dan verkoopt hij zijn ENTERPRISE128 met
+CONTROLLER met 5,25 inch dubbelzijdige 80 tracks DISKDRIVE en zwartwit
+MONITOR misschien nog niet voor slechts ongeveer 1250 gulden
+
+LAAT JOS ZIJN ENTERPRISE HOUDEN!
+UW REDAKTEUR
+"page-009.ppm" ------------------------------------------------------------ 
+BASIC VIPS
+
+INTERLACE OP DE ENTERPRISE 64
+
+Om op de ENTERPRISE 64 onder INTERLACE iets nuttigs te kunnen doen,
+
+- moet je programmaas kunnen LOADen en SAVEn. Er is echter niet genoeg
+geheugen beschikbaar voor de TAPE-BUFFER. Je moet dus zorgen dat er meer
+geheugen vrij komt. Dit wordt gedaan door het volgende programma:
+
+10 SET BORDE
+
+20 CLOSE &Ì
+MODE E15
+
+20 OPEN ElO2s"WIDED:"
+
+4 OPEN £02 "EDITOR: " :
+
+50 DISPLAY LiOZ:AT 1 FROM i TO 10
+
+R RED
+
+In regel 20 worden eerst de standaard text- en editorkanalen gesloten.
+Daarna wordt een nieuw. kleiner text-kanaal gedefinieerd van 40 bij 20
+tekens, waardoor er meer geheugen beschikbaar komt. In regel 30 en 40
+worden de text- en editorkanalen opnieuw geopend. Regel 10 is toegevoegd
+zodat je duidelijk kunt zien dat er een kleiner text-kanaal is geopend.
+Na dit programma kun je alle tapecommandoos gebruiken, tot je weer een
+standaard scherm maakt met TEXT.
+
+LINE MODE 3
+
+Er is een line-mode die heel nuttig kan zijn, nl LINE MODE 3. Het
+resultaat van deze line-mode is dat een lijn in INK 1 op een achtergrond
+in INK O in INK 1 wordt getekend, op een achtergrond in INK 1 in INK O0.
+Op deze manier dun je lijnen dwars door een tekening trekken. De lijn
+wis je weer uit zonder de tekening uit te wissen door nog een keer de
+zelfde lijn te tekenen in de tegengestelde kleur.
+
+Onderstaande voorbeelden zullen een en ander verduidelijken.
+
+10 GRAFICHS LORES 2
+ZO SET FALETTE à,255
+
+ZO FLAT 600, 550,ELLIFSE 200, 300, PAINT
+4 SET LINE MODE 2
+
+50 FOR X=250 TO #50 STEP 4
+
+GO PLOT X,0rX,719,X,01X, 719,
+
+70 NEXT X Ì
+
+1ù FOR STAP=-5 TO -15 STEP =1
+20 GRAFHICS LORES 2
+50 SET PALETTE 0,255
+„40 PLOT 600, 550,ELLIPSE ZOO, 2500, PAINT
+30 BET LINE MODE 5
+40 FOR Y=719 TO 1 STEF STAP
+za PLOT 0, Y:1279,Y,
+80 NEXT Y
+90 MEXT STAF
+
+1
+"page-010.ppm" ------------------------------------------------------------ 
+BASIC TIPS
+KLEUREN IN DE TEKST
+
+Misschien weet je het niet, of heb je het nooit geprobeerd, maar ook op
+een tekst-pagina kun je verschillende kleuren gebruiken.
+Je doet dit met het commandeo SET INK <kleurnummer>
+
+10 DO
+5 et
+
+4 Lo
+
+Net zoals in de tekstverwerkenr zijn er in de 40-kolomsmode 2 kleuren
+beschikbaar en in de 80-kolomsmode 4.
+
+SNELLER PRINTEN
+
+Printen op £102 gaat veel sneller dan printen via de editor:
+
+TEXT
+
+At
+
+van Gag
+I= Dasteinde 149, Z&li VC DELFT
+50 SET ZLOE:SCROLL ON
+50 FOR I=l 0
+70 PRINT Hemi 24004"
+
+BO NEXT 1
+
+Het heeft wel als nadeel dat als iets uit het beeld verdwijnt, en je het
+wilt terugscrollen, je niets meer terug ziet van wat je direkt op £102
+
+hebt geschreven. De editor ziet de regels die je op £102 geprint hebt
+niet staan.
+
+REDIRECT COMMANDO
+
+Met het REDIRECT-commando kun je gegevens die voor het ene kanaal
+bestemd waren, doorsturen naar een ander kanaal. Zo zorg je er met
+
+REDT
+
+7 FROM EG TE ELOL
+
+voor, dat met een gewone PRINT opdracht, zonder een kanaalnummer op te
+geven, er geprint wordt op het graphics-scherm. Zorg er wel voor dat de
+BEAM niet onderaan het scherm staat, anders word er niets geprint.
+
+10 GRAFHICS LORES 2
+
+20 SET FALETTE 0,255
+
+ZU REDIRECT FROM £G TO ELOL
+40 PLOT 0,719,
+
+“dit is geprint zonder een kanaalnummer op te geven!
+
+11
+
+"page-011.ppm" ------------------------------------------------------------ 
+BASIC TDTIPS
+
+CLEAR STATEMENTS
+
+a tunktietoetzsen hin originele waarde
+scherm
+
+Een hele speciale is CLEAR £9 dit RESET de hele machine en komt
+neer op het doen van alle mogelijke clears tegelijk. Het is hetzelfde als
+1 keer op de resetknop drukken. Een WARME START dus.
+
+RESETBEVEILIGING
+
+Het adres waar naar toegesprongen wordt bij een WARME START is door
+
+zi 144 (49145) te verkrijgen. Dit is altijd 260.
+
+Je kunt et: FO 14,0 en FORE 49145, deze waarde veranderen in 0 om
+een KOUDE START te verkrijgen.
+
+Je kunt dan onmogelijk 1 keer op de RESETKNOP drukken met behoud van je
+programma.
+
+Je zou ook het adres van je zelfgeschreven machinetaalroutine erin kunnen
+zetten. Dan kun je deze laten werken wanneer je een RESET geeft.
+
+Je kunt ook resetten met CALL WUSR(ADRES, 0) waarbij ADRES=0 voor een
+KOUDE START, 260 voor een WARME START of je eigen routine adres is.
+
+STARTADRES PROGRAM 0
+Het STARTADRES zonder allocatie kan verkregen worden door hetvolgende:
+
+RTADRES PROGRAM 0 FEEE(S4O) + 25GKPEER (541)
+
+Of voor de EXPERTS:
+
+STARTADRES FROGRAM 0 = PF
+
+Op adres 3663 staat hoeveel 16k RAM-segmenten aanwezig zijn in het
+systeem. Elk segment RAM vraagt vanaf adres 3667 2 bytes. Hierdoor
+schuift de BASIC de keyword-tabel op en veranderd dus ook het startadres
+van het BASIC PROGRAM O0
+
+De startadressen voor de verschillende ENTERPRISE-computers zijn:
+
+ENTERPRISE 6 4 4801
+ENTERPRISE 128 4809
+ENTERPRISE S20 4833
+ENTERPRISE S 7 & 4865
+
+4 *2 +4793+? ( 4 16k_ segmenten)
+8 *2 +4793+? ( 4+4 16k_ segmenten)
+20*2 +4793+? (16+4 16k_segmenten)
+36*2 +4793+? (32+4 16k_ segmenten)
+
+(EL
+
+4 Segmenten zijn videogeheugen. Bij de 128k versies en hoger blijft dit
+dus de constante faktor. Wanneer je je geheugen uitbreidt met b.v. S12k
+dan heb je 512k + 64k = 576k geheugen.
+
+"page-012.ppm" ------------------------------------------------------------ 
+VDUMP UWIILIDS
+
+De bestaande VDUMP-utility heeft een nadeel. Op printers met smal papier
+wordt niet de volledige beeldpagina geprint. Dit is wel mogelijk als de
+'ESCAPE-sequences' naar de printer toe veranderd worden.
+
+Deze reeks karakters zetten de printer in een bepaalde toestand bv pica-
+letters of graf ische-mode.
+
+De reeks die VDUMP gebruikt om de printer in de graf ische-mode te zetten
+is E ke Sj en het aantal punten die de printer moet verwer-
+
+ken. In deze mode zet de printer maximaal 480 horizontale puntjes op de
+volle breedte van het papier. De ENTERPRISE verzend er veel meer...
+Wanneer je echter die 75 in de reeks veranderd in 76, dan komt het
+plaatje verkleind op papier.
+
+De LINEFEED moet echter ook aangepast worden. Deze wordt door VDUMP op
+8/72 inch gezet. Om het plaatje in normale proporties te krijgen, moet
+dit 5/72 inch gemaakt worden. Wanneer de printer nu een LINEFEED ont-
+vangt, dit is CHR$(10), schuift het papier 5/72 inch omhoog.
+
+Het is mij (wie aak weert red.) nog niet gelukt om een veranderde
+versie op band op disk te zetten. Mijn kennis over het gebruik van GEN is
+daar te klein voor.
+
+Vanuit een BASIC-programma is het echter wel te doen. Eerst moet VDUMP
+geladen worden. Dan wordt vanuit BASIC het RAM-segment. waar VDUMP staat,
+opgezocht. Zodra het gevonden is Worden de codes veranderd.
+
+100 PROGRAM "VDLIMF, BAS"
+D LET MIMRAM=sL48 ‘| laagste secaent, verander dit wanneer je geneucenuitbraiding heot
+lzoek segaent waar VDUNP zit, Er wordt oo arie bytes gecontroieeros *VOU*
+WHEN EXCEFTION USE ERROR
+FOR SEG=MINRAM TO 255
+LET A=5 (SEG, 65874)
+IF CHRÉ (A) =" THEN
+LET A=SFEEF (SEG, 65875)
+IE CHRS(A)="D" THEN
+LET A=SFEERK (SEG, 62876)
+
+IE CHR$(A)="IJ" THEN CAUSE EXCEPTION 10
+END IF
+iF
+
+END WHEN
+
+PRINT "YDUMP is niet geladen!"
+END
+HANDLER E
+IF EXTYE DO THEN EXIT HANDLER
+SFOEE SEG, 4d, 7& | grafische gode van de orinter wordt anders
+SPOEE SEG, 44540, 5 …! linefged wordt 5/72"
+FEINT "VDUMF is veranderd!
+STOF
+
+END HANDLER
+
+23
+"page-013.ppm" ------------------------------------------------------------ 
+PRINTERCODES
+De ENTERPRISE wordprocessor is een prachtig programma, maar alleen
+jammer dat je er maar 80 tekens mee op de printer kunt krijgen.
+
+Dit is NIET waar. printers zijn geschikt om meer dan 80 tekens te schrij-
+ven en je tekstverwerker kan het ook wanneer je de juiste truukjes weet
+om dit te doen.
+
+Er bestaat een ESCAPE-code om je printer UIT en AAN te zetten. Deze codes
+zijn voor de WP; .
+<ALT S> (o=umlaut) om de arinter UI
+KALT Q> izigma) am de aorinter AAN t
+
+Wanneer je nu zinnen langer dan 80 tekens wilt schrijven, dan doe je dit
+gewoon in twee delen. Je zet de printer uit voordat aan het eind van de
+zin de CR/LF tekens worden ontvangen en je zet het weer aan nadat ze zijn
+verzonden, dit is dus op de tweede regel.
+
+Wanneer je een zin met meer dan 80 tekens wilt printen, doe je het<ALT S>
+KALT Q> zoals in deze zin aangegeven is. Let op de spatie na de eerste of
+voor de tweede zin, anders staat alles aan elkaar!
+
+Het teken voor CONDENSED is het gulden teken <ALT O), om weer gewoon
+schrift te krijgen gebruik je <ALT R> (a-umlaut)
+
+Deze zin is tus aet Sanulo van die tekens geprint in de IJh-teken aode oo de ENTERPRIGE-ragaktiearinter de NL-i0 van STAR.
+
+Wanneer je bijvoorbeeld ESCAPE-codes gebruikt om je tekst op te maken en
+je komt ruimte tekort dan kun je ook van deze truuk gebruik maken als je
+maar 80 tekens op de printer wilt hebben en toch alles op je scherm wilt
+
+De aan- en uit-tekens zijn ook handig wanneer je een lange tekst in de
+WP hebt en je wilt maar een deel afdrukken.
+
+Je zet dan een <ALT S> helemaal vooraan in de tekst en een <ALT OQ) net
+voor het stuk dat je wilt afdrukken.
+
+Een <ALT S> zet je op de plaats waar het printen moet stoppen.
+
+Een kommentaar in je WORDPROCESSOR-tekst kun je toevoegen na eerst een
+een <ALT S> te geven en na je kommentaar een <ALT Q>. Het kommetaar wordt
+dan niet afgedrukt.
+
+Dit is reuze handig voor mensen die andere printercodes gebruiken. In het
+kommentaar zet je wat de 'ESCAPE-sequence' precies doet.
+
+Met het oefenen van ESCAPE-reeksen is het handig wanneer je eerst de code
+ALT [>il geeft. Dit is de immidiate mode. Na elke return zie je de
+afgedrukte regel omdat het papier uit de printer 'scrolls'. Bij de
+volgende regel gaat het papier weer terug naar de oude plaats.
+
+Je kunt ook een CARRIAGE RETURN of een LINE FEED geven midden in de zin.
+Dit doe je met <ALT M> (omega) voor CR en met <ALT J> (a-grave) voor LF.
+
+en
+
+14
+"page-014.ppm" ------------------------------------------------------------ 
+WORDPROCESSOR & BASIC
+
+Er blijken nog steeds mensen te zijn die moeite hebben met het verkeer
+tussen wordprocessor/basic/disk/tape/printer.
+
+Wanneer je in basic bent en je wilt een programma printen dan kan dit op
+verschillende manieren. Je kunt het doen met LLIST zonder meer, dan komt
+de listing op de printer, maar dan kun je in je programma geen teksten
+met tekens boven de 128 gebruiken want dan gaat de printer op tilt!
+
+Je kunt het ondervangen door hetvolgende in te tikken:
+
+EN Eis "tilenaam.ext! Af 55 OUTPIJT t-=neem voor „enk „ASC
+ST EL le=zie onder
+
+Dan is er een file aangemaakt waar jouw BASIC-programma in staat
+inclusief de tekens boven de 128. Je kunt dit nu naar de printer sturen
+onder ISDOS of de WORDPROCCESSOR. Hoe het onder ISDOS moet wordt dadelijk
+uitgelegd, eerst gaan we naar de WP.
+
+Wil je nu naar de WORDPROCESSOR dan tik je :WP en je drukt daarna op F5
+om naar TEXT-80 te gaan. Nu kun je met F1 filenaam.ext laden.
+
+Zorg ervoor dat basic-regels niet langer dan 80 tekens zijn anders gaat
+het mis. Je kunt nu het programma bewerken.
+
+Wil je het printen zet dan de printer aan en druk op F3 en ENTER.
+
+Wil je het veilig stellen druk dan NIET OP F2 SAVE, maar WEL F3 PRINT
+
+en tik in filenaam.ext dan kun je het programma wanneer je weer in BASIC
+bent laden met
+
+LOAD "filenaam.ext
+
+Het geval wil dus dat elke keer wanneer je SAVE gebruikt datgene wat je
+wegschrijft in de CODE komt te staan van het hoofdprogramma waar je onder
+werkt bv BASIC, PASCAL, LISP, WORDPROCESSOR, ETC.. Je gebruikt hier dus
+de extensies .BAS .PAS .LSP .WP4 .WP8
+
+Wanneer je iets PRINT of LLIST e.d. dan gebruik je de extensies .TXT
+„ASC of .DOC. Hetgeen je geschreven hebt komt dan in leesbaar schrift te
+staan (ASCII) met je eigen 'printer'-codes.
+
+Wil je onder EXDOS of ISDOS een file naar de printer sturen inclusief je
+printer-codes dan doe je:
+
+A-COPY filenaam.ext PRINTER:
+Wil je de codes niet dan zet je de printer aan met F8 en doe:
+
+ASTYPE filsaam sxt
+
+Hopelijk is nu een ieder wijzer geworden van deze informatie. en zijn er
+weer enkele deuren opengegaan.
+
+15
+
+"page-015.ppm" ------------------------------------------------------------ 
+ENTERPRISE UIT DE DOOS
+
+Wie zijn of haar Enterprise regelmatig openschroeft zal het opgevallen
+zijn dat de verbinding tussen het toetsenbord en de rest op z’n zachtst
+gezegd zwak is uitgevoerd. Menigeen heeft van de strips die het toetsen-
+bord met het binnenwerk verbinden al iets af moeten knippen omdat
+
+daarin scheurtjes waren gekomen.
+
+De meest fanatieke knutselaars hebben zelfs zo weinia strip meer over dat
+het een heuse heksentoer is geworden om de zaak weer in elkaar te zetten.
+
+De remedie is simpel. Haal de computer uit de doos!
+
+Dit heeft als bijkomend voordeel dat je dan eindelijk van de knullige
+card-edge af kunt komen en dat je, wanneer je geen aparte tafel voor je
+ENTERPRISE hebt, je, wanneer je aan het werk wilt, kunt volstaan met het
+pakken van je keyboard.
+
+Tot slot heeft dit het voordeel dat je drives niet meer op tilt gaan
+wanneer je tegen je machine stoot.
+
+Alhoewel ik niets meer gedaan heb dan wat draadjes trekken, zal ik
+omwille van de standaardisering vertellen hoe ik het heb gedaan.
+
+—-1 Maak een bak van aluminiumplaat waar je moederboard ruimschoots
+in past. Zorg dat je ruimte overhoud voor de connectoren. Omdat
+ik mijn bak onder een 19 inch rek wil monteren heb ik gekozen
+voor afmetingen van ongeveer 43 cm * 18 cm * 3,5 cm. Deze
+afmetingen gaan er van uit dat je je disk interface buiten deze
+kast houdt. Zelf heb ik in afwachting van de definitieve versie
+van de backplane een 64 polige dubbelrij printconnector op edge
+A/B 1 tm 32 gesoldeerd en een haaks verloopstukje voor mijn
+disk-interface gemaakt. Let hierbij ontzettend goed op dat je A
+en B niet verwisselt!
+
+—=2 Maak gaten voor de connectoren die je wilt gebruiken. Ik heb
+gekozen voor 25 polige sub D (female) connectoren voor het
+keyboard, de centronics printer poort en de seriele poort. Over
+de overige poorten heb ik nog geen beslissing genomen.
+
+—3 Soldeer de beide keyboard connectoren los. Dit gaat het best
+door pennetje voor pennetje met een fijne schroevendraaier of
+tangetje op te lichten. Zorg dat je geen pennetjes kwijtraakt!
+Je hebt ze in je keyboard allemaal weer nodig!
+
+LET OP Als je niet goed kunt solderen is na deze stap je Enterprise
+waarschijnlijk definitief naar de knoppen.
+Begin er dan dus maar niet aan.
+
+—-d4 Isoleer je behuizing en plaats de Enterprise er in. Wanneer je
+sub-D connectoren gebruikt raad ik je aan de volgende pin-outs
+te gebruiken.
+
+16
+"page-016.ppm" ------------------------------------------------------------ 
+UIT DE DOOS DEEL Z
+
+keyboard Printer
+
+OV (reset: 1 Zatkrobe
+5 n n
+
+toom. deze oinout is
+niet get
+
+ame:
+
+an van links naar
+
+==5 Monteer je speakertje en een nieuwe reset-knop in het nu lege
+
+keyboard. Koop een flink stuk 25 aderig snoer (let op
+
+soepelheid) en bevestig het aan je toetsenbord met behulp van de
+
+losgesoldeerde
+
+connectoren en aan de Enterprise met een 25 polige
+
+male connector. Ik heb zelf drie meter snoer gebruikt wat
+probleemloos werkt. Inmiddels heb ik er al weer spijt van dat ik
+
+het
+zou kunnen werken!
+
+PETER HOFSTEE
+
+NOOT VAN DE EXPERTS
+
+Zora ervoor dat
+aan wannes
+
+toren en niet drie
+Kk verwisselen!
+> printer is voldoende Cnet als HEA).
+
+5 zen D-ò voldoende (pet als Hij UIDITEL).
+ga is toch niet zo uitgebreid.
+
+ha.
+DN
+
+bordestrips ook in de winkel kopen, Het is dan
+
+zagen zijn we gewend! zet het op se
+
+Je tant dan de strips op bet moederboard laten
+=strips steken en daaraan kun je dan de
+
+t misschien sen kapotte ENTERPRISE!
+
+Bit
+
+niet met vijf meter heb geprobeerd zodat ik vanuit mijn bed
+
+17
+"page-017.ppm" ------------------------------------------------------------ 
+NOGMEER RST 1O0H
+
+In het nummer van december 1986 stoná een stukje over restart 10 hex, wat
+nogal kort, onvolledig en onduidelijk op mij over kwam. (Daarom nog niet
+ongewenst in de ENTERFACE) Ik ben hierover daarom ook een stukje gaan
+schrijven, daar ik ook aì bezig geweest ben met deze materie.
+
+UITLEG RST 10h
+
+RST 10h is een caììl in machinetaaì naar adres 1Oh. die bepaalde funkties
+kan uitvoeren. Je moet achter de RST 10h-code getaì-parameters zetten,
+gevolgd door O0. om door te geven welke funkties je precies wilt hebben.
+(zie voorbeeïìdprogramma) .
+
+Deze funkties worden gebruikt door I[S-BASIC-funkties. maar waarom zouden
+wij er geen gebruik van maken bij onze machinetaalroutines?
+
+Zo is het reuze makkelijk om waarden van BASIC naar machinetaal over te
+geven zonder moeilijke routines en berekeningen daarmee uit te voeren.
+Een nadeel is dat ze niet zo snel zijn, een voordeel is dat wanneer er
+iets mis is, er meestal netjes een foutmelding komt en het programma
+stopt.
+
+UITLEG BASIC-STACK
+
+RST 1O0h maakt gebruik van de BASIC-stack. Daarom is het misschien wel
+handig om dat uit te leggen.
+
+BASIC heeft een stack (stapel) waar de codes, waarden en strings opgezet
+(gePUSHt) en afgehaald (gePOPt) kunnen worden. Deze gegevens worden o.a.
+gebruikt voor het opslaan van return-regels (van GOSUB), tussenuitkomsten
+(bij berekeningen) en parameteroverdracht (b.v. bij funkties en opdrach-
+ten). De waarde die het laast op de stach gezet is, wordt er ook weer het
+eerst afgehaald (denk aan GOSUB).
+
+Bij de Z80 microprocessor, dus ook in de ENTERPRISE. zit de stack omge-—
+draaid. De bodem zit op een hoog adres, de top op een lager adres. Dus
+als je er een waarde opPUSHt zal de top lager worden van adres. Op adres
+550 en 551 staat het adres van de bodem van de stack en op adres 552 en
+553 het adres van de top van de stack.
+
+Ik heb onderzocht welke funkties mogelijk zijn met RST 10h. In de uitleg
+gebruik ik de onderstaande termen met daarachter de betekenis:
+
+X : laast gePUSHte waarde op de stack,
+of waarde waarmee gewerkt wordt
+X2 : een na laatst gePUSHte waarde op de stack
+X$ : laatst gePUSHte string op de stack gevold door de lengte,
+
+of string waarmee gewerkt wordt
+lezen : lezen van bytes uit het BASIC-programma. Bv het lezen van
+parameters achter een BASIC-funktie. (zie voorbeeldprogram)
+haladiad : geeft een foutmelding en stopt het programma
+
+De funkties die gevonden zijn door STAN in het vorige stukje heb ik
+tussen aanhalingstekens erbijgezet om de lijst zo volledig mogelijk te
+laten zijn. Wat ze doen is mij soms ook niet helemaal duidelijk.
+
+18
+"page-018.ppm" ------------------------------------------------------------ 
+RST 121Oh PARAMETERS
+
+aneterlijst
+
+kogieer Ö2lén in O25h,
+
+sensenten startadres’ zon
+
+X+ù}, verzorg j
+de BASIC
+
+EA En ed
+
+er
+
+a
+
+Ei q
+
+q PINDA È
+
+1 Xen CP 7Eh’ 5
+
+8! t ais Ì geen geheel getal is) : Ï
+
+t2 5 1 EEE EEEN en )
+15 is Ì Cor KOMMA ns ar rn ij
+18 1e Ì Ces Naakdes ov ns ur rt Ì
+15 ie 1 ' h
+
+iá 158 lees Rt ‚ PUSH X { ideal
+
+17 15% lses ( ‚array icentitier
+
+ta ( geen array geet Hit ARRAY-ID EXPECTEN)
+1 iá0 iees } ‚ (geen haakje ceef KEE NOT
+
+zü ete waarde op adres H 151, 152 7
+
+U
+
+kuncige tunkties en Jewer
+
+an 22 EEEEREEKEE EE 162-173 rex n
+
+22 ‘test net ‘zenoud van BASIC- data” 174 rond { naar benecen af als geneel getal
+veen kkk vrrrvvnbvvkkkeikkikkiekervkvkkekken en ekke 175, 17%
+32 'get iten 177 rend { aar Ò toe af ao geneel getal
+33 ‘expressie ontwikkeling’ 18 L=SEN(0)
+34 lees teken, als teken ongelijk aan register A 179 ’check secrent and tree’
+
+dan 444 HOT UNDERSTCOD anders A=ccde vaigende teken 180 'wijd een segment toe aan een orograa’
+
+iees {, FUSH X 181 'zoek het segment van orcoraa C’
+
+36 lees X$, Fl=adres a HASIC-stack 182 G ij
+17 OINKEYS-tunktie: geef resultaat in register À en adres 517 3 bestaat een Ze secnent van grograa C7
+38 'aaak van volgende byte hoofdletters’ voor c=ù en C=12@ hetzeifde, alleen 2e k Ze iov le 4 2e
+
+VERN RNVUNERER ENEN NEEN
+
+bevvvvkkvervr ves) zoja, dan Sar
+183-196
+137 AuTO
+188-199 772
+} 191 zet foutaelding HL in butter on adres 1094
+gef in (NL) het adres van de BASIC-line(HL}’ 192 lees f, aacht { seconden (AIT)
+
+‘ zet op acres ia HL segaentnuamer
+
+FPP
+
+3
+
+8 PPPN 193 'herstei van incentering’
+
+En 194 lees {& (ronder haakjes), TIME {4
+ï 195 lees X$ (zonder haakjes), DATE X$
+
+195?
+
+197 “initieer r tunct ton-keys?
+{98-255 222929927229
+
+FABIAN MOONEN Krijterslaan 18,
+1689 EM ZWAAG
+
+02290*37122
+
+19
+"page-019.ppm" ------------------------------------------------------------ 
+RSE EOF OORDEEL
+
+E.BASH
+
+van het
+midde
+
+HST LOR
+
+zo
+"page-020.ppm" ------------------------------------------------------------ 
+SOFTWARE LIBRARY
+
+code filenase ext
+
+$34 BUSINESS #88
+
+B.00f,01 SPELL DIR
+B.001,02 KRIN_BAK DIR
+B.001.03 3D DRAW DIR
+B.001,04 COMPOSER DIR
+MUD 8.001,05 SPRSHEET DIR
+B.001.06 ANNUITEI BAS
+B.001,07 JAARGRAF BAS
+B.001,08 ADRESSEN DIR
+ND B.001.09 PACC DIR
+ND B.G01,10 ARCHIEF DIR
+ND B.G01,11 SUP DRAW DIR
+ND B.001,12 CONCLU DIR
+
+888 DEMONSTRATIONS 838
+
+-_D.001.0t NETWORK BAS
+0.001,02 PICTURES DIR
+0.001,03 ENVELOPE BAS
+D.001.04 FIETS BAS
+D.001.05 RUN_NAN BAS
+D.001.06 TIENTJE BAS
+D.001.07 CLOCK „BAS
+D.001.08 GRAPHICS DIR
+0.001,09 MANDEL BAS
+0.001,10 BOON BAS
+D.001.11 NISC_D_t DIR
+D.001.12 MISC_D_2 DIR
+D.001.13 PLOTTER DIR
+0.001,14 OXYGENE BAS
+0.00.15 WEERDEND BAS
+D.001.16 RUINTE BAS
+0.001,17 ENTERP BAS
+
+MND D.001.18 DURAN DIR
+
+888 EDUCATION &88
+
+E‚001,01 HOLLAND BAS
+E.001.02 CENTEN BAS
+E.001.03 KEYBOARD BAS
+E.001.04 KEYTUT BAS
+E.001.05 KLOKKIJK DIR
+ÒND E.001.06 LEZEN DIR
+ND E.001,07 VERTAAL BAS
+
+bytes
+
+153
+Lék
+%
+22k
+Lik
+8956
+8209
+19k
+3k
+Ik
+
+„122%
+
+Ik
+
+12672
+210k
+3263
+2118
+3144
+
+26521
+3166
+
+2k
+2292
+3093
+Ik
+Bk
+20k
+
+17990
+
+10884
+177
+
+10450
+
+Ak
+
+21076
+15139
+
+30739 IS-BASIC Geeft informatie over het” toetsenbord
+
+11887
+2k
+Jk
+
+8287
+
+language description
+
+15-D0S
+IS-BASIC Kaartenbak systees
+
+I5-BASIC Teken program voor Interlace
+IS-BASIC Muziek invoeren op notenblad
+1S-BASIC Elektronisch rekenblad
+
+15-BASIC Lening bereken
+
+I5-BASIC Maakt grafische jaaroverzichten
+I5-BASIC Adressenboek
+
+IS-BASIC Programma voor zend amateur
+15-BASIC Database programma
+
+IS-BASIC Suger-draw teken prograaaa
+1S-BASIC Trekt conclusies van uw gegevens
+
+15-BASIC Network desa
+
+1S-BASIC Hires pictures
+
+IS-BASIC Sound deao
+
+IS-BASIC Tekening
+
+1S-BASIC Running aan
+
+15-BASIC Tekening
+
+I5-BASIC Analoge klok
+
+IS-BASIC Figuren in INTERLACE
+
+15-BASIC MANDEL brood prograasa
+
+15-BASIC Tekent een boom
+
+IS-BASIC Graphic deso’s deel 1
+
+IS-BASIC Graphic demo's deel 2
+
+15-BASIC Graphic demo’s voor (sony) plotter
+I5-BASIC Jean Michel Jarre “OXYGENE part [1*
+[S-BASIC Deso - het weer
+
+15-BASIC Demo - ruiateschip
+
+15-BASIC Tekening - ENTERPRISE
+
+1S-BASIC Duran Duran *Save a prayer”
+
+15-BASIC Ken je Nederland ?
+IS-BASIC Leren rekenen aet geld
+
+1S-BASIC Keyboard tutor
+I5-BASIC Leren klok kijken
+I5-BASIC Leren Lezen
+15-BASIC Vertaal oefening
+
+Selling checker with English dictionary
+
+received required
+
+04 Apr B6 D/E
+26 Apr 86 C
+24 Jun 86 E
+30 Jul 86
+28 Jan 87
+09 Sep 86
+06 Sep 86
+16 Nov 86
+28 Jan 87
+28 Jan 87
+
+28 Jan 87
+28 Jan 87
+
+ût Feb 36
+01 Apr 86 D/E
+26 Apr 86
+24 Apr 86
+28 Jun 86
+28 Jun 86
+15 Okt 86
+15 Okt 86
+15 Okt 86
+15 Okt 86
+15 Nov 86
+1 Nov 86
+16 Nov 86
+07 Dec 86
+07 Dec 86
+07 Dec 86
+07 Dec 86
+28 Jan 87
+
+26 Apr 86
+05 Sep 84
+05 Sep 86
+05 Sep 86
+31 Dec 36
+31 Dec 86
+28 Jan 87
+
+"page-021.ppm" ------------------------------------------------------------ 
+SOFTWARE LIBRARY
+
+nieuw
+
+code filenaae ext
+
+Fik GAMES Hit
+
+6.001,01 ZOOCHESS DIR
+6.001,02 OTHELLO BAS
+6.001,03 HOOPER BAS
+6.001,04 HAPSLANG BAS
+6.001,05 EXPERT BAS
+6.001,07 AUTO BAS
+6.001,08 TRON BAS
+6.001,09 PATROON BAS
+6.00f.10 MEMORY BAS
+6.001,11 BKE BAS
+6.001.12 GALGJE BAS
+6.001,13 MENSERGJ BAS
+>U> 5.001,14 BINGO BAS
+6.001.15 ADVENT DIR
+6.001,16 GEVAAR BAS
+)N) 6.001,17 TTTT BAS
+)N) 5.001,18 CUBUID BAS
+ND 6.001.19 MASTER DIR
+)N) 5.001,20 REAKTIE BAS
+IND 5.001,21 MEMORY! BAS
+)N) 6.001,22 OPNIEUW DIR
+)N) 6.001,23 DOOLHOF BAS
+)N) 5.001,24 MARKIEZ BAS
+ND 6.001,25 GALG BAS
+òN) 5.001,26 GROTTEN BAS
+ND 6.001,27 SNELLE BAS
+
+H8% PROGRAMMING 844
+P,001.01 BASICODE DIR
+P‚001,02 NPS CBL DIR
+
+ND P,001.03 AVONTUUR DIR
+
+388 ROUTINES 844
+
+R.001.01 CONVERT BAS «
+
+R.001.02 SORT BAS
+R.001,03 ALLOCATE BAS
+R.001.04 XR HEAD GEN
+IND R.001,05 INV PROC PAS
+òND R.001.06 FUNC BAS
+
+update -— cassette
+
+ID
+
+bytes
+
+13k
+1720í
+16455
+3568
+3162
+867
+4898
+9598
+BÔ57
+2892
+5422
+11371
+3157
+18%k
+22743
+7019
+11957
+bk
+1120
+7643
+29k
+4256
+7811
+9678
+16063
+
+od
+
+language description
+
+15-D05 Chess
+
+’y
+
+I5-BASIC Otheilo (reversi)
+IS-BASIC Speiletje aet sprites
+
+15-BASIC Eet de vliegen
+
+disk
+
+IS-BASIC De coaouter raad het !
+18-BASIC Rij rond circuit
+
+IS-BASIC Spel aet aotors en auren
+
+»p»
+
+15-BASIC Ket onthouden van patronen
+
+15-BASIC loek twee dezelfde plaat ies
+IS-BASIC Boter kaas en eieren
+I5-BASIC Het spelletje Gaigje
+IS-BASIC Kens, erger je niet!
+IS-BASIC Genereert nusaers (75) voor bingo-spel
+IS-D0S Uitgrebreid ‘Colossal Cave’
+I5-BASIC Nederlandstalig Adventure
+
+IS-BASIC Tic Tac Tep Tor
+
+IS-BASIC QtBert
+
+printer
+
+IS-BASIC Raad het numaer van de computer
+
+15-BASIC Reaktie test
+
+IS-BASIC Zoek twee dezelfde plaatjes
+
+IS-BASIC Als je opnieuw geboren wordt
+IS-BASIC Doolhof uitprinten
+IS-BASIC *Narkiez van Bergen op Zoon”
+
+15-BASIC Galgje
+15-BASIC Avontuur
+
+3659 IS-BASIC Lees snel en raad het woord
+
+1bk
+Ik
+
+IS-BASIC Basicode
+
+IS-DOS NPS Micro Cobol ver 2.1
+
+Sik IS-BASIC Maak uw eigen avontuur
+
+Ee
+
+1780 IS-BASIC Hex/Decimal/Binary convertion routines
+
+1559
+
+1S-BASIC Sort routine
+
+334 IS-BASIC Allocate bug work-a-round
+
+1792 DEVPACK Standard Header for system extensions
+
+3557
+
+PASCAL Invoer routines (Guasar Pascal ?}
+15034 IS-BASIC Basisprogramma voor Fkey besturing
+
+22
+
+ain. L28k
+
+received required
+
+Òl Apr Bé D/E
+26 Apr 86
+26 Apr 86
+26 Aor 86
+26 Apr 86 C
+24 Jun 86
+28 Jun 86
+25 Aua 86
+25 Aug 86
+25 Aug 86
+Òb Sep 86
+Ùé Sep Bó
+15 Okt 86
+Òl Apr 86 D/E
+13 Apr 84
+07 Dec 86
+07 Dec 86
+07 Dec 86
+07 Dec 86
+07 Dec 84
+13 Dec 86
+28 Jan 87
+28 Jan 87
+28 Jan 87
+28 Jan 87
+28 Jan 87
+
+26 Apr 86
+Ol Apr 86 D
+28 Jan 87
+
+O1 Feb 84
+Òl Feb Bá
+01 Feb 86
+01 Feb 86
+07 Dec 86
+28 Jan 87
+"page-022.ppm" ------------------------------------------------------------ 
+SOFTWARE LIBRARY
+
+nieuw
+ND
+
+code filenaae ext
+
+888 TEXTFILES &88
+
+1.001,01 HEN MAP KPB
+1.001,02 BASIC t HPB
+1.001,03 CHAR SET HP8
+1.001,04 BASFOUT WPG
+ND T,001.05 GE PRINT NPB
+ND 7.001,06 BASIC 2 DIR
+ND 7.001,07 AANSLUIT KPB
+
+888 UTILITIES 88%
+
+U.601,0t COBO DIR
+‚ud U.001,02 SOIR BAS
+
+1.001,03 DATA GEN BAS
+U.001.04 LU DIR
+U.001.05 SQUEEZE DIR
+4.001,06 LOCK DIR
+U,001,07 VELD DIR
+U.001.08 BASIC20 DIR
+4.001,09 MONITOR DIR
+U.001.10 DISSASM BAS
+U.001. tt FONTSY DIR
+U.001. 12 KBRD DIR
+U.001, 13 SDUKP DIR
+U.001,14 HEXDUNP BAS
+U,001,15 ANGLOSAX BAS
+U.001.16 DOKNLOAD BAS
+U.001,17 SUPERKEY BAS
+U,001.18 KLEURKO BAS
+U.001,19 DUNPER BAS
+U.001.20 SCHRIFT BAS
+U.001.21 ESCAPE DIR
+U.001.22 STOPTINE BAS
+ND U. 001,23 HACHTKRD BAS
+ND U„001,24 OPBELLEN BAS
+ND U. 001,25 FKEY DIR
+ND U.001.26 TĲD 64 BAS
+ND U„001.27 TĲD 128 BAS
+òND U, 001.28 KLEURMIK BAS
+ND U,001,29 SETKLEUR BAS
+ÒND U.001,50 CHAR SET DIR
+ND U.001.3L KEYBOARD DIR
+
+update -
+KID
+
+disk
+pp ’p?
+
+cassette
+’’
+
+bytes language description
+
+5088 HP
+3712 WP
+4736 HP
+8180 WP
+11990 NP
+
+Jk HP
+4433 WP
+
+Systen variables etc
+Hoe BASIC opgeslagen wordt
+Character set table
+Fouten in BASIC 2.0
+
+printer
+
+Besturing van GE TXP-1000 orinter
+
+Basic variabelen & keywords
+Enterprise aansluitingen
+
+Ak DEVPACK Veranderd EDITOR naar 80 coluans
+5058 IS-BASIC Sorted directory naar FX-80
+
+2196 IS-BASIC Data statement generator
+
+20k IS-DOS
+ék I5-D0S
+24k 15-005
+
+Library Utility
+File squeezer
+File Lock/Unlock
+
+Ik IS-BASIC Video Save/Load/Duap utilities
+{7k IS-BASIC Heaory map - [S-BASIC 2,0
+30k IS-BASIC Monitor
+
+11266, I5-BASIC Disassenbler
+
+12ik IS-D0S
+
+Banner print utility
+
+4k DEVPACK Keyboard translator for kordstar
+%k DEVPACK Screen duap naar EPSON
+11477 IS-BASIC Hex duap
+
+11638 IS-BASIC Anglosaksisch voor grafische printer
+18072 IS-BASIC Zelf def.char.set voor printer/Enterprise
+
+Ee
+
+1270 IS-BASIC Verandert keyword PRINT in ander keyword
+7808 IS-BASIC Electronica utility
+1607 IS-BASIC Geeft een eaory duap in subscript
+3352 IS-BASIC Maakt een ander letter type
+2k IS-BASIC Maakt escape sequences voor NICK
+2280 15-BASIC Stopwatch
+3415 15-BASIC Wachtwoord utility
+5102 IS-BASIC Autodial utility
+Define function keys under IS-D0S
+1571 1S-BASIC Klak in status line
+1572 IS-BASIC Klok in status line
+1112 I5-BASIC Kleur aixer
+1940 15-BASIC Zoek kleur kode
+9k IS-BASIC Laad/Save character sets
+18ik DEVPACK Keyboard overlay
+
+tek °C?
+
+23
+
+min. {28k
+
+received required
+
+ûi Feb 86
+01 Feb 86
+01 Feb 86
+24 Jun 86
+07 Dec 86
+07 Dec 86
+07 Dec 86
+
+Of Feb 86 E
+28 Jan 87 D/P
+Oi Feb 86
+
+ûf Aor 86 D/E
+13 Aor 86 D/E
+13 Aar 86 ME
+13 Apr 86
+
+26 Apr 86
+
+11 Apr 86
+
+11 Apr 96
+
+25 Apr 86 D/P/E
+26 Aor 86 D/E
+26 Apr 36 P
+02 Kei 86
+
+10 Sep 86 P
+10 Sep 84 P
+15 Okt 86 €
+15 Okt 86
+
+15 Okt 86 P
+15 Okt 36
+
+15 Okt 86
+
+15 Okt 86
+
+16 Nov 86
+
+16 Nov 86
+
+16 Nov 86 D
+07 Dec 86
+
+07 Dec 86 E
+07 Dec 86
+
+07 Dec 36
+
+07 Dec 86
+
+28 Jan 87
+
+"page-023.ppm" ------------------------------------------------------------ 
+HARDWARE KOPEN 2
+
+Hier nogmaals een lijstje met zaken die gekocht kunnen worden bij
+MABAN in Hilversum.
+
+ENTERPRISE-computers:
+
+ENTERPRISE 4 EE 1 20.
+ENTERPRISE LZS EL 250.
+ENTERPRISE SZO F1 245.
+ENTERPRISE 276 EL O2,
+geheugenuitbreidingen:
+EXTRA S12k FE SAD „— CÌ
+EXTRA Sleek Ft za,
+EXTRA 250K Et Ze
+EXTRA 25EKk Lel ZOE ==
+floppydisk-uitbreiding:
+DISKCONTROLLER Frl BSO dd
+PISKUN IT Fk LDD
+BASF 34" drive DSDD 80T (720k) inclusief voeding
+kabels:
+MONITOR — SCART f de 1 ZD,
+MONITOR — LOS-EIND F1 LO
+PRINTER-CENTRONIGCS F1 LO
+randapparatuur
+JOYSTICK F1 ZO, —
+ENTERPRISE-PRINTER F1 DOO,
+CFALLYedAHHELANM, TEDCAODIIE TORDETZMLE
+De volgende commerciele SOFTWARE is leverbaar:
+WINDOWS — INTERLACE F1 75 ,—
+WINDOWS — NMON--INTERLACE F1 75.
+
+De firm
+

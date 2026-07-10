@@ -1,0 +1,1636 @@
+"page-000.ppm" ------------------------------------------------------------ 
+EMT p fase PORT BETAALD
+ENTER/SSS et De
+Geerweg 2, 2611 VN Delft Nn
+
+E
+s
+5
+1
+5
+E
+"page-001.ppm" ------------------------------------------------------------ 
+INHOUDSOPGAVE
+
+VOORPLAAT …………… 1 GRAPPIGE GELUIDEN .
+INHOUD/COLOFON . . 2 PIO INTERFACE .…….
+
+VAN DE VOORZITTER …... 3 PIO INTERFACE LISTING .
+LEDENJAARVERGADERING … 4 SPOCK' 5 KOPI JPROGRAMMA
+VAN DE SECRETARIS .……..…. 5 TELEFOONKIESTONEN . k
+JAARVERSLAG 1988 .... 5+6 ADRESSEN
+
+GEBRUIKERSDAG-ALGEMEEN 20 MEI
+H.F. Witte dorpshuis, Henri Dunantplein 4, DE BILT
+bus 57 vanaf CS, halte Nobellaan, Nobellaan in, 3e weg links
+
+COLOFON
+
+De ENTERFACE is het officiele orgaan van de Dutch Enterprise User
+Group en verschijnd eens per twee maanden.
+
+REDAKTIE ..………...... Robin Ketelaars . voor toesturen kopij .……
+St Liduinastraat 65b, 3117 CR SCHIEDAM, 010-4732102
+
+MEDEWERKENDEN .…... Jan, Stan, Spock, Fons,
+
+Arjan de volgende keer met A/D converter schema/test
+VOORPLAAT .……..... Een kijkje in de PIO-interface v.v
+KOPIJ nn Inzenden op DISK: of TAPE:
+
+ZIE VOORWAARDEN IN HET APRIL/MEI NUMMER -
+
+72 tekens * 50 regels TAB's onder L(oad) en E(xit)
+
+le regel = titel die bovenaan bladzijde komt
+
+Centreren titel niet nodig, gaat vanzelf, max 36 tekens
+SALT L> voor de zin geeft nieuwe titel & nieuwe bladzij
+SALT \> voor de zin geeft alleen een titel
+
+PRINT met F3 <naam>.KPY voor automatische verwerking
+
+OVERNEMEN …...... van de gehele of gedeeltelijke inhoud toegestaan
+
+HAMER + PENNINGEN Stan Tuinder .... voor geldkwesties en adviezen .……….
+Willemstr 170, 2713 AJ ZOETERMEER, 079-169523
+
+SECRETARIAAT ..... Fons Kraakman ... voor aanmelden en opzeggen
+Bleekveld 8, 1852 JH HEILOO, 072-335131
+
+SOFTWARE ………...... Dik Fennema ….…. voor aanvragen/toesturen software
+v Duivenvoordeln 30, 2241 ST WASSENAAR. 01751-17249
+
+KONTAKTEN . … NOORD: Kees 05945-15626; Peter 050-775850
+MIDDEN: Peter 08885-02186; BRABANT: Rob 01651-1245
+ZEELAND: Ben 01185-2525; ZUID: Rene&Jos 043-617623
+WEST: Hans 02510-46630; Erik 01803-17051
+
+OPBELLEN BEL ALLEEN BOVENSTAANDE NUMMERS TUSSEN 20 EN 22 UUR
+
+DRUKWERK .……...... DRUK.TAN HECK, Pluympot 1. , 2611 LX DELFT. 015-142981
+
+2
+"page-002.ppm" ------------------------------------------------------------ 
+VAN DE VOORZITTER
+
+Het JAAR 1988 is een jaar met een wat afwachtend karakter. Menig baas
+drong zijn personeel een prive-PC op. Als je niet meedoet kunnen je
+collega's straks meer dan jij! En zo besteed je die kostbare vrije uren
+aan het intypen van tabellen waarvoor je op het werk geen tijd had
+gekregen. Wat er overbijft voor de Enterprise wordt daardoor steeds
+minder.
+
+Dit effect werkt door op het aantal actieve leden van de DEUG. Waren er
+in 1987 nog 160 betalende leden, nu (eind 1988) is dit gehalveerd tot ca.
+80 gebruikers. Enerzijds is dit te betreuren maar anderzijds is het een
+wel bekend verschijnsel in de computerwereld. De informatiehonger, die
+een nieuwe computer met zich mee brengt, is na een paar jaar redelijk
+verzadigd en menigeen ontdekt dat de toepassings gebieden voor ieder op
+een ander terrein liggem. De hoeveelheid software van algemeen belang is
+gericht op disk, printer, scherm ect. Utility's, losse routines ed. zijn
+"IN", spagettie programma's zonder uitleg en demo zijn "OUT". Wie
+trouwens in die wereld rond kijkt ziet alleen maar nog meer van
+hetzelfde, de zo geheten “Me_too” (Ik-ook) programma's. Na versie 2.0
+komt 3.0......6.0. Nieuws onder de zon??
+
+De SWL die in de loop van dit jaar van Richard en Patric (met dank voor
+het vele werk) aan Dik Fennema is overgedragen lijkt te gaan lijden aan
+het euvel dat ik hierboven al beschreef. Daarnaast zet zich de trend door
+dat vooral op de gebruikersdagen ideen, ervaringen en programroutines in
+het onderlinge contact worden uitgewisseld. Verbeteringen van bestaande
+commerciele programma's kan men wel aan een ander leren maar niet in de
+SWL plaa&sen. Eigen nieuwe programma's die op gebruikers dagen te zien
+zijn. verkeren vaak nog in het experimentele stadium en soms staan update
+na update in de SWL. Dit maakt het beheer van deze hoeveelheid software
+zo lastig.
+
+De ENTERFACE is in ook 1988 vijf keer verschenen met redactionele stuk-
+jes, programmeertips, hardware informatie, cursus DEVICE bouwen, vragen
+rubriek enz. Robin Ketelaars die alle kopij elke keer tot een boekje
+samen bundelt, merkt ook dat het aantal mensen dat een bijdrage levert
+steeds geringer wordt. Het is zonder voldoende respons niet eenvoudig de
+behoefte aan informatie, program listings ed. af te schatten. Wat voor de
+een oude koek lijk, is voor de ander belangrijk nieuws. Kruip eens achter
+het toesenbord en vertel wat je de Enterprise voor jou laat doen!
+
+De GEBRUIKERSDAGEN waren, op een minder gunstig gekozen datum na,
+redelijk goed bezocht. We hebben, inclusief de HCC dagen, vijf keer in
+het midden van het land en vier keer in het noorden een bijeenkomst
+gehad. Naast een vaste kern van bezoekers komen velen hun licht op steken
+over programmeer problemen, zoeken software of willen de laatse nieuwe
+truuk laten zien. Ik sta elke keer weer verbaast over de creativiteit die
+we op elkaar kunnen overdragen. Het is echt geen zeldzaamheid dat een
+schijnbaar moeilijke program klus door de opmerking van een ander
+plotseling opgelost kan worden. Zit je vast? kom eens praten! wie
+
+weet .…
+
+Tegen het eind van 1988 heeft Jan Versluis zijn PIO-board het licht doen
+
+zien. Spoortreinen. huis bewaking, (kern ??) centrale verwarming ed. zijn
+
+3
+"page-003.ppm" ------------------------------------------------------------ 
+VAN DE VOORZITTER
+
+te besturen en resultaten weer in te lezen. Ik heb nog wel een controle
+klus voor mijn reserve Enterprise, dus Jan .... Ook in Duitsland zijn er
+leuke dingen zoals een muis of een harddisk controler. Bij ander merken
+computers moet je dure grafische kaarten aanschaffen voor een
+beeldkwaliteit die voor een Enterprise normaal zijn. Daarnaast heb je dan
+software die die kaart niet willen aanspreken. Ik heb diep medelijden met
+die PC-eenden.
+
+LEVENVERGADERING
+
+Agenda Algemene ledenvergadering 20 mei 1989
+
+1) Opening en welkom.
+
+2) Vaststellen van agenda.
+
+3) Notulen jaarvergadering 11 juni 1988.
+4) Ingekomen stukken.
+
+5) Jaarverslag van de voorzitter.
+
+6) Verslag van de kascommissie.
+
+7) Vaststellen van begroting 1990.
+8) Koffie (aangeboden door Bestuur).
+9) Benoemen nieuwe kascommissie.
+
+10) Rondvraag.
+
+11) Agendering.
+
+12) Sluiting.
+KOMT ALLEN TER DEMOKRATIE!
+
+"page-004.ppm" ------------------------------------------------------------ 
+VAN DE SECRETARIS
+
+Zoals ik reeds in het vorige “Enterface" had aangekondigd, zal in deze
+editie het volledige verslag van de laatste jaarvergadering gepubliceerd
+worden. De fanatieke lezers onder ons, zal het opvallen dat dit verslag
+enige overeenkomsten vertoond met het verslag in het vorige nummer. Ja,
+dat krijg je nu met automatisering, het maakt de mensen maar gemakzuch-
+tig. Bewaar dit verslag zorgvuldig (inclusief “Enterface) en neem het mee
+naar de volgende gebruikersdag. Op deze dag zal namelijk de jaarvergade-
+ring worden gehouden.
+
+VERSLAG VAN DE JAARVERGADERING
+
+Algemeen: ik denk dat we kunnen spreken van een zeer geslaagde jaarver
+gadering. De deelname van de leden aan de jaarvergadering was
+groot. Men had opbouwende kritiek op voorstellen vanuit het
+bestuur, daarnaast kwam men zelf met goede voorstellen.
+
+Opening: er waren geen speciale op- of aanmerkingen t.a.v. de notule van
+de vorige jaarvergadering, dan wel de agenda van deze jaarver-
+gadering. Zij werden zonder aanpassingen goedgekeurd.
+
+Wijzigingen: afgetreden zijn Richard Sargeant en Erik Berends. Zij heb-
+
+in het ben het te druk met hun eigen werk. Daardoor houden ze te
+
+bestuur weinig tijd over om een bestuursfunctie uit te kunnen oefe
+nen. Richard en Erik worden tijdens de vergadering bedankt
+voor hun enthousiasme waarmee ze zich steeds voor de club
+hebben ingezet.
+
+Verslag van: het aantal leden is dit jaar minder geworden, het aantal in-
+
+de zendingen voor de software bibliotheek is minder geworden.
+
+voorzitter De laatste 3/4 jaar was er helemaal niets in de software
+bibliotheek geplaatst. De kopij voor de Enterface is minder
+geworden en het aantal mensen dat naar de gebruikersdagen
+komt is minder geworden.
+
+Ten aanzien van de hardware kan vermeld worden dat een
+inbouwmodem ontwikkeld is. Daarnaast zijn vier disk-
+controllers gemaakt door Jan Versteeg.
+
+Er zijn tenslotte pogingen ondernomen om de contacten met
+de Engelse gebruikersgroep aan te halen. Echter, nadat deze
+gebruikersgroep was opgeheven. hebben we niks meer uit
+Engeland gehoord. Verheugend is wel dat er contacten zijn
+met “"Enterprise-gebruikers" uit Hongarije. Zij willen
+software, die zij hebben geschreven voor de Enterprise,
+ruilen voor hardware. Hieraan is namelijk moeilijk te komen
+in Hongarije
+
+Verslag van de: Arjan heeft de afschriften gecontroleerd en hierin geen
+kascommissie onrechtmatigheden aangetroffen.
+
+De begroting: Het voorstel van de voorzitter om de contributie van
+f 45,-- naar f 35 te verlagen en in te teren op de
+
+5
+"page-005.ppm" ------------------------------------------------------------ 
+VERSLAG VAN DE JAARVERGADERING
+
+reserves werd afgewezen. Men was voor handhaving van het
+huidige contributiepeil. Met het geld dat overblijft,
+kunnen dan nieuwe hardware ontwikkelingen ondersteund
+worden. Daarnaast kan met dat geld interessante hardware
+uit het buitenland voor de club aanschaft worden. Deze
+hardware wordt dan op de gebruikersdagen geshowd. De
+gebruikersdagen zullen dus nog interessanter worden.
+
+Daarnaast wilde de ledenvergadering dat het bestuur meer
+doet aan de werving van leden. Men denkt dan aan gericht
+adverteren. Een klacht van een nieuw lid was namelijk dat
+het voor hem heel moeilijk was om de DEUG op te sporen. Het
+bestuur dient ook een "visje" uit te werpen onder de
+potentiele leden. Vastgesteld zal moeten worden wie er ooit
+een Enterprise gekocht heeft en nog geen lid is. Deze
+mensen moeten dan aangeschreven worden. Niet alleen werving
+was aan de orde, maar ook behoud van leden. Leden die hun
+contributie voor 1987 nog niet hadden voldaan. wilde men
+niet meteen royeren, deze leden zullen eerst worden
+aangeschreven.
+
+Benoeming van de _ : de volgende leden zijn bereid gevonden om in de kas-
+
+nieuwe kascommissie commissie plaats te neme!
+
+= Sonja Labordus
+— Arjan van Gog
+— Philip Homburg
+
+De rondvraag: Een aantal leden zouden graag weer een overzicht van de in-
+
+Sluiting:
+
+houd van de software bibliotheek in de “Enterface" opgeno-
+men zien. Getracht zal worden deze service weer te verle-
+
+nen.
+
+Een andere vraag was, waar de CPM-software blijft. Deze
+verblijft bij Philip Homburg die nog bezig was met het tes-
+ten hiervan.
+
+Een verzoek uit de ledenvergadering aan de leden was om
+voor de "ENTER EN RETURN" rubriek van de "ENTERFACE" ook
+problemen in te sturen die een softwarematige oplossing
+behoeven. Binnen de gebruikersgroep zijn namelijk leden die
+wel willen programmeren, en dat ook heel goed kunnen. maar
+geen ideeen meer hebben. Dus mensen, zit u met een pro-
+bleem, kom er maar mee op, schrijf ze maar van uw af !!
+
+Nu zullen bepaalde problemen best wel eens zo interessant
+zijn dat meerdere mensen hieraan gaan werken. Om nu al te
+veel dubbel werk te voorkomen, is het het beste dat men in
+de “ENTERFACE" meldt dat men met een bepaald probleem bezig
+is.
+
+zo rond de klok van drie uur vond de voorzitter het welletjes
+en beeindigde de vergadering.
+
+"page-006.ppm" ------------------------------------------------------------ 
+GRAPPIGE SELUIDEN
+
+And now for something completely different (1).
+
+Bij het uittesten van een aantal poorten m.b.v. het “OUT"-statement in
+BASIC, stuitte ik op een aantal grappige geluidseffecten. Hoe en waarom
+het zo werkt, weet ik niet, maar de effecten zijn wel aardig. Misschien
+dat er mensen zijn die aan kunnen geven wat de functie is van de ver-
+schillende poorten. De programma's die voor de geluidseffecten zorgen,
+zijn de volgende:
+
+Programma 1: 10 SOUND SOURCE O,DURATION-1,PITCH-1
+20 DO
+30 FOR I=15 TO O0 STEP-1
+40 OUT (160) ,I
+50 OUT (161) ,32
+60 NEXT I
+70 PRINT 1 enn kleine vertraging
+80 LOOP
+Programma 2: 10 SOUND SOURCE O,DURATION-1.PITCH-1
+20 DO
+30 FOR I=5 TO 75
+40 OUT (160) ,I
+50 OUT (161) .32
+60 _ NEXT 1
+70 LOOP
+
+Programma 3 (alleen de waarde op regel 50 aangepast) :
+
+10 SOUND SOURCE O.DURATION-1.PITCH-1
+
+20 DO
+
+30 FOR 1=5 TO 75
+40 OUT (160) ,1
+50 OUT (161) .144
+60 FOR K=1 TO 20
+70 NEXT K
+
+80 NEXT 1
+
+90 LOOP
+
+Deze geluidseffecten werken alleen maar als er een toon aenereerd wordt
+uit source OQ. Welke toon je kiest is niet belangrijk voor het effect. Dit
+blijft steeds hetzelfde. Ik heb daarom gekozen voor toon -1. deze is on-
+hoorbaar. Daarnaast heb ik gekozen voor een duration van -1. Dit betekent
+dat de toon oneindig lana wordt aanaehouden. Ik hoop dat u aan het testen
+en uitproberen veel piezier zult beleven en mocht u op iets “sensatio-
+neels” stuiten. meldt dit dan even in de “Enterface”
+
+Fons Kraakman
+
+spyriaht by John Cleese
+
+at regeì 10 eens weg, dan werkt het bii de redaktie ook!
+
+"page-007.ppm" ------------------------------------------------------------ 
+ENTERPRISE MET PIO INTERFACE 1
+
+PIO project
+
+De Bilt 28 januari, De Bilt 18 maart, ja twee maal clubdag waarop de In/
+Uit interface voor hardware- en software communicatie op eenvoudige wijze
+is getoond.
+
+Deze interface is primair ontwikkeld om met onze ENTERPRISE direct elec-
+trisch/electronische apparatuur te kunnen besturen. Verder in deze
+bijdrage zal het duidelijk worden dat veel meer mogelijk is.
+
+Door omstandigheden is niet in februari deze kopij ingediend waarvoor
+mijn excuus. Blijkens het ontbreken van het clubblad was ik niet alleen.
+In Enterface dec87/jan88 heb ik reeds melding gemaakt van het project om
+te komen tot een interface tussen onze ENTERPRISE en technische hobby- en
+andere apparatuur. Er zijn zeer veel mogelijkheden te bedenken —
+
+Vul eens aan, een lijstje van mogelijke toepassingen:
+
+— EPROM programmer/copier, je eigen routine in de rombay ?
+
+— ENTERPRISE als inbraakbeveiliging EN gelijk een rekenprogram draaien ?
+= Modelspoor hobby ? ENTERPRISE regelt het spoorverkeer !
+
+— Onderzoek, periodieke metingen analoog of digitaal ?
+
+= Lichtorgel, waterorgel of andere uitspatting !
+
+= ROBOT, digitaal en analoog aansturing ?
+
+we UN CBON ongie om Are diane red ard ae
+
+Ook op data communicatie gebied is er het nodige mogelijk waar te denken
+valt aan een printerpoort, modem of directe ENTERPRISE koppeling ??
+
+Wat hebben wij tot nu toe
+
+— Een VEROboard plaatje met twee Z80A-PIO's en drie selectie IC's samen
+met twee connectors en veel draadjes zijn de tastbare zaken waarmee, mits
+ingeplugd op de ENTERPRISE met MINI-DDC connector en een externe 5 Volt
+voeding, 4 woorden (bytes) of 32 signalen (bits) in of uit gestuurd
+kunnen worden.
+
+— Demonstratie printje met een 8 voudige DIP schakelaar, en 3 stel LED's
+per 8 gegroepeerd. Dit printje is met een 40 polige bandkabel aan de PIO
+
+interface te koppelen.
+= Een eenvoudig BASIC programma, zie listing in dit blad, completeerd de
+
+test attributen.
+
+Wat is er gedemonstreerd
+
+= Terwijl het demoprogamma draait, het steeds om en om op de gele en
+groene LED's binair tellen van O tot 255, kan met de DIP schakelaar een
+binaire waarde worden ingesteld welke uitgelezen wordt (INPUT) en weer op
+de rode LED's weergegeven (OUTPUT) tevens decimaal op het scherm.
+
+Op de volgende pagina’s eerst wat een ZB0-PIO is.
+
+"page-008.ppm" ------------------------------------------------------------ 
+ENTERPRISE MET PIO INTERFACE 2
+
+Onderstaande tekst overgenomen uit Engelse literatuur.
+
+Z80 — Parallel Input/Output
+
+The Z80 Parallel I/O Circuit is a programmable, two port device which
+provides a TTL compatible interface between peripheral devices and the
+Z80-CPU. The CPU can configure the Z80-PIO to interface with a wide range
+of peripheral devices with no other external logic required. Typical
+peripheral devices that are fully compatible with the Z80-PIO include
+most keyboards, paper tape readers and punches, printers, PROM
+programmers, etc. The Z80-PIO utilizes N-channel silicon gate depletion
+load technology and is packaged in a 40 pin DIP. Major features of the
+Z80-PIO include:
+
+— Two independent 8 bit bidirectional peripheral interface ports with
+“handshake” data transfer control
+= Interrupt driven “handshake” for fast response
+— Any one of four distinct modes of operation may be selected for a port
+including: . Byte output
+Byte input
+Byte bidirectional bus (Available on Port A only)
+„ Bit control mode
+(All with interrupt controlled handshake)
+— Daisy-chain priority interrupt logic included to provide for automatic
+vectoring without external logic
+— Eight outputs are capable of driving Darlington transistors (Port B)
+— All inputs and outputs fully TTL compatible
+— Single 5 volt supply and single phase clock required.
+
+One of the unique features of the Z80-PIO that separates it from other
+interface controllers is that all data transfer between the peripheral
+device and the CPU is accomplished under total interrupt control. The
+interrupt logic of the PIO permits full usage of the efficient interrupt
+capabilities of the Z80-CPU during 1/0 transfers. All logic necessary to
+implement a fully nested interrupt structure is included in the PIO so
+that additional circuits are not required. Another unique feature of the
+PIO is that it can be programmed to interrupt required. Another unique
+feature of the PIO is that it can be programmed to interrupt the CPU on
+the occurrence of specified status conditions in the peripheral device.
+For example, the PIO can be programmed to interrupt if any specified
+peripheral alarm conditions should occur. This interrupt capability
+reduces the amount of time that the processor must spend in polling
+peripheral status.
+
+ARCHITECTURE
+
+A block diagram of the Z80-PIO is shown in Fig. 1. The internal structure
+
+of the Z80-PIO consists of a Z80-CPU bus interface , internal control
+
+logic, Port A 1/0 logic, Port B 1/0 logic, and interrupt control logic.
+The CPU bus interface — —
+
+"page-009.ppm" ------------------------------------------------------------ 
+ENTERPRISE MET PIO INTERFACE 3
+
+The CPU bus interface logic allows the PIO to interface directly to the
+ZB80-CPU with no other external logic. However, address decoders and / or
+line buffers may be required for large systems. The internal logic
+synchronizes the CPU data bus to the peripheral device interfaces (Port A
+and Port B). The two I/O ports (A en B) are virtually identical and are
+used to interface directly to peripheral devices.
+
+ET D DATA OR CONTROL
+
+CONTROL
+
+toene pravonae
+
+D
+nn DATA BUS INTERNAL BUS TATERFRCE
+INTERFACE Sed
+
+MO CONTROL
+
+LINES
+
+D DATA OR CONTROL
+
+INTERRUPT
+CONTROL
+
+INTERRUPT CONTROL LINES
+
+Jen
+
+|
+
+Fig. 1. PIO block diagram.
+
+The Port 1/0 logic is composed of 6 registers with “handshake® control
+logic as shown in Fig. 2. The registers include : an 8 bit data input
+register, an 8 bit data output register, a 2 bit mode control register
+an 8 bit mask register ,„ an 8 bit input/output select register, and a 2
+bit mask control register.
+
+The 2-bit mode control register is loaded by the CPU to select the
+desired operating mode (byte output, byte input, byte bidirectional bus,
+or bid control mode). All data transfer between the peripheral device and
+the CPU is achieved trough the data input and data output registers. Data
+may be written into the output register by the CPU or read back to the
+CPU from the input register at any time. The handshake lines associated
+with each port are used to control the data transfer between the PIO and
+the peripheral device.
+
+The 8-bit mask — —
+
+1o
+"page-010.ppm" ------------------------------------------------------------ 
+ENTERPRISE MET PIO INTERFACE 4
+
+The 8-bit mask register and the 8-bit input/output select register are
+used only in the bit control mode. In this mode any of the 8 peripheral
+data or control bus pins can be programmed to be an input or an output as
+specified by the select register. The mask register is used in this mode
+in conjunction with a special interrupt feature. This feature allows an
+interrupt to be generated when any or all of the unmasked pins reach a
+specified state (either high or low). The 2-bit mask control register
+specifies the active state desired (high or low) and if the interrupt
+should be generated when all unmasked pins are active (AND condition) or
+when any unmasked pin is active (OR condition). This feature reduces the
+requirement for CPU status checking of the peripheral by allowing an
+interrupt to be automatically generated on specific peripheral status
+conditions. For example, in a system with 3 alarm conditions, an inter-
+rupt may be generated if any one occurs or if all three occur.
+
+5
+
+wruroureuT
+scuecr AEG
+war”
+
+WTANACEE
+
+Penirnenat
+DATA OR
+CoNTMOL BUI
+
+aen
+
+VANOSHAKE
+conraoL
+oare
+
+D INTEARUFT q
+route
+
+Fig. 2. Port 1/0 block diagram.
+
+CPU interrupt protocol
+
+The interrupt control logic section handles all
+The priority of — —
+
+for nested priority interrupt structures.
+
+"page-011.ppm" ------------------------------------------------------------ 
+ENTERPRISE MET PIO INTERFACE 5
+
+The priority of any device is determined by its physical location in a
+daisy-chain configuraton. Two lines are provided in each PIO to form this
+daisy chain. The device closest to the CPU has the highest priority.
+Within a PIO, Port A interrups have higher priority than those of Port B.
+In the byte input, byte output or bidirectional modes, an interrupt can
+be generated whenever a new byte transfer is requested by the peripheral.
+In the bit control mode an interrupt can be generated when the peripheral
+status matches a programmed value. The PIO provides for complete control
+of nested interrupts. That is, lower priority devices may not interrupt
+higher priority divices that have not had their interrupt service routine
+completed by the CPU. Higher priority devices may interrupt the servicing
+of lower priority devices.
+
+When an interrupt is accepted by the CPU in mode 2, the interrupting
+device must provide an 8-bit interrupt vector for the CPU. This vector is
+used to form a pointer to a location in the computer memory where the
+address of the interrupt service routine is located. The 8-bit vector
+from the interrupting device forms the least significant 8 bits of the
+indirect pointer while the 1 Register in the CPU provides the most
+significant 8 bits of the pointer. Each port (A en B) has an independent
+interrupt vector. The least significant bit of the vector is
+automatically set to a O within the PIO since the pointer must point to
+two adjacent memory locations for a complete 16-bit address,
+
+The PIO decodes the RETI (Return from interrupt) instruction directly
+from the CPU data bus so that each PIO in the system knows at all times
+whether it is being serviced by the CPU interrupt service routine without
+any other communication with the CPU.
+
+Reset
+
+The Z80-PIO automatically enters a reset state when power is applied. The
+
+reset state performs the following functions:
+
+1. Both port mask registers are reset to inhibit all port data bits.
+
+2. Port data bus lines are set to a high impedance state and the Ready
+“handshake” signaìs are inactive (low). Mode 1 is aut. selected.
+
+3. The vector address registers are not reset.
+
+4. Both port interrupt enable flip-flops are reset.
+
+5. Both port output registers are reset.
+
+In addition to the automatic power on reset. the PIO can be reset by
+applying an /M1 signal without the presence of a /RD or /IORQ signal. If
+no /RD or /IORQ is detected during /M1 the PIO will enter the reset state
+immediately after the /M1 signal goes inactive. The purpose of this reset
+is to allow a single external gate to generate a reset without a power
+down sequence. This approach was required due to the 40 pin packaging
+limitation. It is recommended that in breadboard systems and final
+systems with a “reset” push button that a /M1 reset be implemented for
+the PIO.
+
+12
+"page-012.ppm" ------------------------------------------------------------ 
+ENTERPRISE MET PIO INTERFACE GS
+
+Adressering
+
+De adressering en selectie van de PIO poorten zijn mede bepaalt door de
+hardware figuratie, zie schema in dit blad. Hier een eenvoudige uitleg.
+Het gaat hier om de pennen 4, 5 en 6 van de PIO's.
+
+— Pen 4 = /CE; laag = Chip Enabel. Dat wil zeggen, laag signaal niveau op
+deze pen maakt de PIO vrij om Data of Commandos te accepteren.
+Via deze pen wordt de gewenste PIO in ons geval gekozen.
+
+— Pen 5 = C of /D Sel.; hoog is Control- en laag is Data mode. Met pen 5
+wordt het type van het data verkeer tussen CPU en een PIO gedefineerd.
+
+— Pen 6 = B of /A Sel.; hoog is poort B en laag is poort A. Met pen 6
+wordt bepaald welke poort van een PIO wordt geselecteerd.
+
+Op advies van de gehanteerde documentatie is voor C of /D selectie adres
+bit Al en voor B of /A adres bit AO gebruikt. Voor /CE was het weer wat
+minder eenvoudig. Nu het allemaal bepaald is, toch vrij simpel. Eerste
+probleem was te weten welke adressen (niet de geheugen adressen) er zijn
+en welke er al in gebruik waren.
+
+— De I/O adressen van de ENTERPRISE zijn, volgens de rubriek “Dr. Bill®
+uit een der eerste ENTERfase edities;
+
+00 tot en met 7B = FREE,
+7C tot en met 7F = EPROM programmer, wie ??,
+80 tet en met FF = ENTERPRISE en 1.5.
+
+De lage nummers zijn vrij en dat maakt het eenvoudiger. Hoewel met een
+enkele Adres bit hoog of laag gaat het niet. Om in ons ontwerp twee stuks
+PIO's naar believen te kiezen, en niet ongewenst, is een selectie schake-
+ling ontworpen met U3, U4 en US (zie schema in dit blad).
+
+Het te decoderen signaal komt via Adres bits A7, A6, A5, A4, A3 en A2.
+Hierbij zijn bij onze lage adressen de hoogste vier altijd laag. A3 en A2
+zijn de twee selectie bits, A2 hoog en A3 laag is, bij ons, /CE-PIO 1 en
+met A2 laag en A3 hoog is /CE-PIO 2 gekozen.
+
+In de schakeling worden de 6 Adres bits A7 t/m A2 geinverteerd met US.
+— U3 selecteerd Ul = PIO 1; met A7 t/m A3 /laag and A2 hoog = /CE,
+— U4 selecteerd U2 = PIO 2: met A7 t/m A4 en A2 /laag and A3 hoog = /CE.
+
+Vullen wij hierbij aan Adres bits Al en AO voor C of /D en B of /A keuze
+dan vinden we de volgende waarden van de Adres bytes met functie voor;
+
+= PIO 1: — Bit :A7!A6!A5:A4:A3: A2: AL: A0:
+Dec: 128 64 32 16 8 4 2 1
+
+dec. hex. functie:
+Bin: 0 0 0 O0 0 1 0 O = 4 = 04 = Data, poort A,
+Bin: 0 0 0 O0 O0 1 0 1 = 5 = 05 = Data, poort B.
+Bin: 0 0 0 O0 O0 1 1 O = 6 = 06 = Control, poort A,
+Bin: 0 O0 0 O0 0 1 1 1 = 7 = 07 = Control. poort B,
+
+"page-013.ppm" ------------------------------------------------------------ 
+ENTERPRISE MET PIO INTERFACE Z
+
+= PIO 2: — Bit ;A7:A6:A5:A4:A3:A2:A1:A0:
+128 64 32 16 8 4 2 1
+dec. hex. functie:
+
+0 0 0 O0 1 O0 0 O = B = 08 = Data, poort A,
+0 0 0 0 1 O0 O0 1 = 9 = 09 = Data, poort,B,
+0 0 0 0 1 O 1 O = 10 = OA = Control, poort A,
+0 0 0 0 1 O0 1 1 = 11 = OB = Control. poort B.
+
+Selectie van funtie mode
+
+Wanneer er via de Adres bus een Data transfer code met PIO adres actief
+is zal de Data bus van de betreffende PIO “in of uit” gelezen worden.
+Inlezen van een mode woord of data transfer hangt weer af van het control
+adres woord op de Adres bus met een control mode woord op de Data bus die
+samen vooraf de gekozen PIO in de gewenste Mode set.
+
+Het Data woord voor het setten van de PIO mode is in drie delen opgebouwd
+te weten; Bits DO, D1, D2 en D3 moeten hoog zijn, Indicatie "Set Mode",
+Bits D4 en D5 worden genegeerd,
+Bits D6 en D7 vormen het mode woord als volgt:
+
+D7 = O en D6 = O0 ; Mode O (output)
+
+D7 = O en D6 = 1 ; Mode 1 (input)
+
+D7 = 1 en D6 = O0 ; Mode 2 (bidirectional) (alleen poort A)
+D7 = 1 en D6 = 1 ; Mode 3 (control)
+
+Slot
+
+Hier valt nog veel meer te vertellen over de PIO. Niet aan de order waren
+interrupt functie, diverse timing modes, en hoe hiermede te handelen, wat
+te doen met soft- en hardware reset en de hardware uitwerking voor de
+interupts. Er valt nog veel te doen en uit te leggen, maar dat later.
+
+Het programmeer verhaal laat ik over aan de programmeer specialisten. De
+listing van het demonstratie programmatje is een eerste aanzet.
+
+In het door mij geraadpleegde boek is een uitgebreide hoeveelheid
+gegevens aanwezig over programmering en verdere technische informatie.
+
+Voor belangstellenden is hiervan een copie set verkrijgbaar, op de club-
+dag hoop ik ook er bij te zijn onder andere met deze copieen.
+
+= Tot zover dit PIO verhaal. Rest mij nog te vermelden de theoretische
+
+ondersteuning van Peter van Helvoirt in deze en zijn test programma.
+Tevens dank voor copie (Dr.Bill) en tips van Stan Tuinder.
+
+Groeten Jan Versteeg, Merelhof 1, 6669 ED Dodewaard. Tel. 08885 — 1456.
+
+14
+"page-014.ppm" ------------------------------------------------------------ 
+PIO INTERFACE LISTING
+
+100
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+240
+250
+260
+270
+280
+290
+300
+305
+310
+320
+330
+340
+350
+360
+370
+380
+440
+450
+460
+470
+480
+490
+500
+510
+520
+530
+540
+550
+660
+665
+670
+680
+681
+690
+700
+
+PROGRAM PIO _BESTURING
+PIO ADRESSERING
+
+DS
+PIO 1 CONTROL POORT A=06 H
+PIO 1 CONTROL POORT B=07 :
+PIO 2 CONTROL POORT A=10 H
+PIO 2 CONTROL POORT B=11 H
+PIO 1 DATA POORT A=04 Ö
+PIO 1 DATA POORT B=05 H
+PIO 2
+PIO 2 DATA POORT B=09 /_ met de 3 selectie IC's.
+
+PIO STUURWOORD
+
+OUTPUT ONLY =15
+INPUT ONLY „79
+BIDIRECTIONAL =143
+CONTROL MODE _=207
+
+Ni
+ï
+!
+ĳ
+DATA POORT A=08 ! __\ Deze adressen liggen vast
+:
+Hi
+:
+ï
+:
+ï
+ï
+
+TEXT! Afgekorte
+LET PRT1C=6:LET PRT2C=7:LET PRT3C=10:LET PRT4C=11 \_ functie namen
+LET PRTID=4:LET PRT2D=5:LET PRT3D=6:LET PRT4D=9 > zie regels 150
+
+LET UIT=15:LET INP=79:LET BI=143:LET CON=207 /_ tot en met 290
+INITIALISATIE \
+OUT PRTIC.INP ! DIP schakelaar 8 bit 1 Vastleggen van
+OUT PRT2C,UIT 1 Rode LED's 8 stuks > de
+OUT PRT3C,UIT 1 Gele LED's 8 stuks t_ poort functie
+OUT PRT4C.UIT 1 Groene LED's 8 stuks /
+DO
+FOR TELLER=1 TO 255 \
+OUT PRT3D.TELLER !--—- LED's aan :
+WAIT 5 \ Binair tellen
+OUT PRT3D,O ! LED's uit / Gele LED's
+CALL SCHAKEL ! Lezen DIP schak. e.v. H
+NEXT /
+FOR TELLER=1 TO 255 \
+OUT PRT4D.TELLER !-—-— LED's aan H
+WAIT .5 \ Binair tellen
+OUT PRT4D,O ! LED's uit / Groene LED's
+CALL SCHAKEL ! Lezen DIP schak. e.v. H
+NEXT /
+LOOP ! === Terug naar Geel
+DEF SCHAKEL \ Waarde van de
+LET ROOD=IN(4) 1 DIP schak.
+PRINT AT 14,8:"DE WAARDE VAN POORT 1 =";ROOD > naar scherm
+OUT PRT2D. ROOD ten Rode LED's
+END DEF /
+
+"page-015.ppm" ------------------------------------------------------------ 
+SPOCK'S KOPIJPROGRAMMA
+
+In dit blad wordt de kopij die je instuurd automatisch ververkt tot kant
+en klare vellen papier met paskruisjes en al voor de drukker. Dit kan
+alleen automatisch als je de richtlijnen goed volgt. Deze staan voorin
+het blad. Er zijn heel wat bugs creeren in je kopij! Je kunt alles wel
+
+ondervangen in het programma,
+
+maar dan wordt het steeds langer.
+
+Hieronder het programma, je kunt dan zien hoe het werkt, dat verduide-
+
+lijkt misschien de procedure.
+
+lijkheden van 15-BASIC.
+
+Er is volop gebruik gemaakt van de moge
+
+Je kunt het programma starten op verschillende manieren, met START of RUN
+werkt het de lijst files af die achter de DATA regels staan vanaf regel
+
+200. Deze files hebben de extensie
+
+dan gaat het sneller.
+
+RUN "layout"(0, "proef ",13)
+
+‚KPY op je disk. Zet ze eerst in E:
+
+laad het programma LAYOUT en list alleen de
+
+file PROEF.KPY op het scherm en begint de bladzijnummering bij 13.
+Nu kun je kijken of je het gewenste resultaat krijgt bij je kopij die je
+hebt gePRINT (F3) met filenaam PROEF.KPY in de WP.
+
+nand ALLEEN PRINT-files werken GEEN save!
+Is het programma al geladen in PROGRAM O dan kun je het volgende doe
+
+==let hierop! ===
+
+CHAIN O(1,"proef",4) doet het per PRINTER: en begint te nummeren bij 4.
+Je kan ook RUN (1) gebruiken dan gaan alle files achter de DATA-
+
+statements naar de PRINTER: ,
+waarde .
+
+Houdt er rekening mee dat;
+
+Je geeft dan alleen de variabele DEVICE een
+RUN (0,“proef") kan natuurlijk ook. Nu is ook FILENAME$ bekend.
+
+De tekens <ALT L> en <ALT \> alleen gebruikt
+
+mogen worden vooraan een regel met tekst; <ALT L> geeft een nieuwe
+bladzijde,
+de WP, dit programma zorgt voor de juiste bladzijlengte;
+
+SALT \> doet dit niet, en;
+
+Je hoeft geen regels meer te tellen
+
+En nu nog bijpassende textverwerker voor het maken van de kopij.
+
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+240
+250
+260
+270
+280
+290
+
+PROGRAM “lay-out” (DEVICE, FILENAAM$,BLZ_NR)
+
+TEXT
+DATA
+
+80
+0
+
+1DATA INHOUD, 2
+
+DATA
+DATA
+DATA
+DATA
+
+DATA
+
+voorzit, 3
+secre,5
+piotext1,8
+piotext2,13
+piolist,15
+layout „16
+*,0
+
+— I=printer, O=beeldscherm
+
+— hieronder de filenamen zetten
+— als laatste een *
+
+— REGELNUMMER moet 150 zijn voor RESTORE 150 verderop
+
+== initiatie printer contoletekens
+
+LET LF$=CHR$ (10+128) linefeed
+LET FF$=CHR$(12+128) formfeed
+LET ESC$=CHR$(27+128) escape
+
+LET KOP$=CHR$ (28+128)
+
+be
+
+16
+
+in
+"page-016.ppm" ------------------------------------------------------------ 
+SPOCK'S KOPIJPROGRAMMA
+
+300 !
+310 LET NLQ$=ESC$&"x
+320 LET UND$=ESC$6&"—1"
+330 LET ITA$=ESC$&"4":LET NITA$=ESC$&"5" italics
+340 LET BOL$=ESC$&"G":LET NBOL$=ESC$&"H" | boldface
+350 LET EXP$=CHR$(14+128) :LET NEXP$=CHR$(20+128) !-— expanded
+360 =——— variabelen in het programma
+370 STRING NAAM$ (30) „BLADZIJ$ (30) „EXTENSIONS
+
+380 NUMERIC OUTPUT, AANTAL FILES
+
+390 LET BLZ, LEN=52 LET _TRUE=(1= 1) :LET FALSE=NOT TRUE
+
+400 ! _ begin hoof programma
+
+410 CALL KIES_OUTPUT
+
+420 CALL MAAK FILE LIJST
+
+430 === druk files af
+
+440 FOR FILE=O TO AANTAL FILES
+
+450 LET REGEL$=""
+
+460 LET REGEL=0:LET GENOEG=FALSE
+
+470 OPEN £3:NAAM$(FILE)&EXTENSION$ ACCESS INPUT
+
+480 LET BLZ_NR=VAL (BLADZIJS (FILE) )
+
+490 LINE INPUT £3:TITEL$
+
+500 LET TITEL$=TEST$(LTRIM$ (RTRIM$ (TITELS) ) )
+
+510 DO WHILE TITELS<>""
+
+=== diverse lettertypes
+LET NNLQ$=ESC$&"x0"
+LET NUND$=ESC$&"—0"
+
+near letter quality
+underline
+
+520 IF REGEL=O THEN
+
+530 CALL KOPSTUK (TITELS, 1)
+
+540 LET REGEL=1
+
+550 IF REGEL$<>"" THEN CALL PRINT REGEL
+
+560 END IF
+
+570 LINE INPUT IF MISSING EXIT DO,£3:REGEL$
+580 IF REGEL=1 THEN LET REGEL$=TEST$ (REGELS)
+590 LET EERSTE _TEKEN$=LTRIM$ (RTRIM$ (REGELS) ) (1)
+600 SELECT EERSTE_TEKEN$
+
+610 CASE FF$ !— Pijltje rechts —- <ALT L>
+620 CALL VUL_BLADZIJ (REGEL)
+
+630 LET REGEL=BLZ_LEN+1
+
+640 LET TITELS ST$ (REGELS (2: 36) )
+
+650 CASE KOP$ — Pijltje links —— <ALT \>
+660 IF REGEL>=BLZ | LEN- 8 THEN
+
+670 CALL VUL_BLADZIJ (REGEL)
+
+680 CALL BODEM
+
+690 LET REGEL=REGEL-1
+
+700 END IF
+
+710 LET TITEL$=TESTS$ (REGELS (2:36) )
+
+720 CALL KOPSTUK (TITELS, 0)
+
+730 LET REGELS=TEST$("")
+
+740 LET REGEL=REGEL+2
+
+750 CALL PRINT_REGEL
+
+760 IF REGEL$="" THEN
+
+770 CALL VUL_BLADZIJ (REGEL)
+
+780 LET GENOEG=TRUE
+
+790 END IF
+
+800 CASE ELSE
+
+810 CALL PRINT_REGEL
+
+17
+"page-017.ppm" ------------------------------------------------------------ 
+SPOCK'S KOPIJPROGRAMMA
+
+820
+830
+840
+850
+860
+870
+880
+890
+900
+910
+920
+930
+940
+950
+960
+970
+980
+990
+1000
+1010
+1020
+1030
+1040
+1050
+1060
+1070
+1080
+1090
+1100
+1110
+1120
+1130
+1140
+1150
+1160
+1170
+1180
+1190
+1200
+1210
+1220
+LF$
+1230
+1240
+1250
+1260
+1270
+1280
+1290
+1300
+1310
+1320
+
+END SELECT
+IF REGEL>=BLZ_LEN+1 THEN
+LET REGEL$-TESTS (*")
+CALL BODEM
+IF REGELS="" THEN LET GENOEG=TRUE
+END IF
+LOOP WHILE NOT GENOEG
+LET REGEL$=TEST$ (*")
+IF NOT GENOEG THEN
+CALL VUL_BLADZIJ (REGEL)
+CALL BODEM
+END IF
+CLOSE £3
+NEXT
+END
+j
+DEF SPACES (X)
+LET S$=""
+FOR I=1 TO X
+LET 53-556" *
+NEXT
+
+LET SPACE$=5$
+END DEF
+ij
+
+DEF UITVULS(X$)
+LET LENGTE=(36-LEN(X$(:30))) /2
+LET VUL1$=SPACES (LENGTE+1)
+LET VUL2$=SPACE$ (LENGTE+ (FP (LENGTE) =0) }
+LET UITVUL$=VUL1$&X$&VUL2$
+END DEF
+
+DEF VUL_BLADZIJ (REGELNUMMER)
+FOR BLANKO=REGELNUMMER TO BLZ_LEN
+IF OUTPUT=O THEN PRINT USING "£££ “:BLANKO:
+PRINT £OUTPUT:
+NEXT
+END DEF
+fj
+
+DEF KOPSTUK (KOPSTUKS „ PASKRUIS
+LET KOPSTUK$=UITVUL$ (UCASE$ (KOPSTUK$) }
+IF PASKRUIS THEN PRINT £OUTPUT :NLOS&SPACES (36) &”—"&SPACES (41) 6” +"&LFS&
+
+PRINT £OUTPUT :NBOLS&NLOQ$& 1 TASSEXPS&UND$6KOPSTUKS&NI TAS&NEXPS&NUNDS&LF 5
+END DEF
+
+DEF BODEM
+PRINT £OUTPUT :NBOLS&NLQS&EXPS&UNDS&SPACES (36) SNEXPS&NUNDS&LF $
+PRINT £OUTPUT : ITAS&EXP$&UITVULS (STR$ (BLZ_NR) ) ANITASSNEXPS
+PRINT £OUTPUT:LFS&LFS&NLQS&SPACES (36) &”-"&SPACES (41) 6"+"&FFS:
+LET BLZ_NR=BLZ_NR+1
+LET REGEL=0
+
+END DEF
+
+15
+"page-018.ppm" ------------------------------------------------------------ 
+SPOCK'S KOPIJPROGRAMMA
+
+1330
+1340
+1350
+1360
+1370
+1380
+1390
+1400
+1410
+1420
+1430
+1440
+1450
+1460
+1470
+1480
+1490
+1500
+1510
+1520
+1530
+1540
+1550
+1560
+1570
+1580
+1590
+1600
+1610
+1620
+1630
+1640
+1650
+1660
+1670
+1680
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+
+DEF KIES OUTPUT
+READ PRINTER
+IF PRINTER OR DEVICE THEN !
+
+device uit regel 100
+
+LET OUTPUT=104 !-—— — printer
+ELSE
+LET OUTPUT=0 !-—————--------- normaal op scherm
+END IF
+END DEF
+
+DEF MAAK_FILE_LIJST
+LET EXTENSION$=".kpy"
+IF FILENAAMS<>"" THEN !---— filenaam gelezen uit regel 100
+LET AANTAL=0O
+IF POS(FILENAAMS,".") THEN LET EXTENSIONS=""
+LET NAAMS (0) =FILENAAM$
+LET BLADZIJ$(O)=STR$ (BLZ_NR)
+ELSE ! — — filenamen gelezen vanaf regel 120
+RESTORE 150
+FOR AANTAL=O TO 30
+DO
+READ DATA$,BLZ$
+LET DATAS-LTRIM$ (RTRIM$ (DATAS) )
+LOOP UNTIL DATAS<>""
+IF DATA$="*" THEN EXIT FOR
+LET NAAMS (AANTAL) =DATA$
+LET BLADZIJ$ (AANTAL) =BLZ$
+NEXT
+LET AANTAL=AANTAL-1
+END IF
+LET AANTAL_FILES-AANTAL
+END DEF
+
+DEF TEST$(ZIN$)
+DO
+LET Z$=RTRIM$ (LTRIM$(ZIN$)) (1)
+IF Z$="" OR ORD(Z$)<=32 OR ORD(Z$) >159 THEN
+LINE INPUT £3,1F MISSING EXIT DO:ZIN$
+PING
+ELSE
+LET TEST$=ZIN$
+EXIT DEF
+END IF
+LOOP
+LET TEST$=ZIN$
+END DEF
+
+DEF PRINT_REGEL
+IF OUTPUT=0 THEN PRINT USING "£££ ":REGEL:
+PRINT £OUTPUT: REGEL $
+LET REGEL=REGEL+1
+
+END DEF
+
+19
+"page-019.ppm" ------------------------------------------------------------ 
+TELEFOONTONEN
+
+In voorgaande ENTERFACEs is hebben wel een programmaas gestaan die de
+ENTERPRISE een telefoonnummer konden laten kiezen. Dit gebeurde dan met
+de REMote relais in de computer. Het is een sisteem dat overal kan
+werke, op wat voor telefooncentrale je ook zit. Computecentrales kunnen
+niet alleen pulscode verstaan, ze zijn uitermate geschikt om
+toonkiestoestellen te begrijpen.
+
+Het kiezen van een nummer met toontjes gaat op een gestandaardiseerde
+manier. Het onderstaande tabelletje geeft aan welke tonen voor welke
+nummers gebruikt worden:
+
+\kolom 5 6 7 8
+
+\
+rij \ 1209 1336 1477 1633 de frequenzies in Hertz
+\
+É 697 1 2 3 A de rijen en kolommen zin
+genummerd zoals in het programma
+2 770 4 5 6 B
+3 852 7 8 9 c
+4 941 ad 0 La D
+
+Bij het indrukken van een keuzetoes bv de 2 kun je twee tonen horen. die
+van de kolom en die van de rij waar de 2 zich bevind, dus 697 en 1336 HZ.
+Het moet voor de ENTERPRISE nu niet meer zo moeilijk zijn om met het
+SOUND:-device deze tonen te laten horen!? Het onderstaande programma
+geeft een mogelijkheid. de tonen zijn herleid tot de dichtsbijgelegen
+lagere muzieknoot, vandaaruit is er een pitch berekend die met een
+ENVELOPE ervoorzorgt dat een bepaalde verschuiving naar boven plaatsvind
+zodat je de tonen hoort. Later meer, eerst het programma...
+
+100 PROGRAM “dialing.2"
+
+110 SET KEY CLICK OFF
+
+120 SET SPEAKER ON !OFF wanneer je de sounduitgang gaat gebruiken
+130 CLEAR ENVELOPE
+
+140 CLEAR £103
+
+150 NUMERIC PITC(1 TO 8),CHANGE(1 TO 8)
+
+160 LET DUR=3 ET PAUSE=1 !-—- lengte van de tonen, lengt van de pause
+170 LET VOLUME-255 !— alleen het linker kanaal van 0-255
+180 - de muzieknoten die het dicht onder de telefoontonen liggen
+
+190 — met daarbij de pitch*100 die er naar boven gegaan moet worden
+200 DATA 53,86,55,55,57,33,59,16,63,35,65,00,66,84,68,45
+
+210 elke envelope zorgt voor een onzuivere noot voor de te
+220 gebruiken toonhoogte, in het totaal 8 verschillende
+
+230 FOR I=1 TO 8 !---- het maken van de 8 envelopes
+
+240 _ READ PITC(I) „CHAN
+
+250 LET CHANGE (I)=CHAN/100
+
+260 _ _ENVELOPE NUMBER 1:CHANGE(I),63.63,1:0,63,63.DUR-2:0,63,63.1
+270 NEXT
+
+280 NUMERIC KEY(16) ,„X
+
+290 !-—— het vergeven van de toonkombinaties voor elke toets
+
+zo
+"page-020.ppm" ------------------------------------------------------------ 
+TELEFOONTONEN
+
+300
+310
+320
+330
+340
+350
+360
+370
+380
+390
+400
+410
+420
+430
+440
+450
+460
+470
+480
+490
+500
+510
+520
+530
+540
+550
+560
+570
+580
+590
+600
+610
+620
+630
+640
+
+650
+
+660
+670
+680
+690
+700
+710
+720
+730
+740
+750
+770
+780
+790
+800
+
+i=== tientallen= rij 1 tm 4, eenheden= kolom 5 tm 8
+DATA 46,15,16,17,25,26,27,35,36,37,18,28,38,48,45,47
+ie 0 1 2 3 4 5 6 7 8 9 A B C D : ; (* en + (hekje))
+ikey 1 2 3 4 5 6 7 B 9 10 11 12 12 14 15 16 15 16
+FOR I=1 TO 16
+READ KEY(I)
+NEXT
+1=-= het uitselecteren van de toonkombinaties bij een ingegeven toets x$
+DEF DIAL(X$)
+LET NUMBER=ORD(UCASE$(X$))-47 ! bereken nummer van de toets
+SELECT CASE NUMBER
+CASE 1 TO 10 ! O tm 9; toetsen 1 tm 10; 48 tm 57 minus 47
+LET X=NUMBER
+CASE 11,12 ! : en ; toets 15 en 16; 58 en 59 minus 47
+LET X=NUMBER+4
+CASE -5,-4 | * en + toets 15 en 16; 42 en 43 minus 47
+LET X=NUMBER+20
+CASE —4 TO-1,47 ! de tekens „…-/_ àls pause
+WAIT PAUSE
+EXIT DEF
+CASE 18 TO 21 ! ABCD toets 11 tm 14; 65 tm 68 minus 47
+LET X=NUMBER-7 "
+CASE ELSE
+EXIT DEF
+END SELECT
+ï het maken van de twee tonen
+LET RIJ=IP(KEY(X)/10) :LET KOL=FP(KEY(X)/10) *10
+!_ PRINT AT RIJ,KOL:CHR$ (NUMBER+47) ;
+CALL TONE (RIJ ,KOL)
+END DEF
+1=== het ten gehore geven van de tonen
+DEF TONE (ROW, COL)
+CLEAR QUEUE 1
+CLEAR QUEUE 2
+SOUND SOURCE 1,DURATION DUR,PITCH PITC(ROW),ENVELOPE ROW,SYNC 1,LEFT
+VOLUME, RIGHT O
+SOUND SOURCE 2,DURATION DUR,PITCH PITC(COL),ENVELOPE COL,SYNC 1,LEFT
+VOLUME,RIGHT O0
+END DEF
+1=—- het bellen van een nummer
+DEF RING(X$)
+FOR I=1 TO LEN(X$)
+CALL DIAL(X$(I))
+NEXT
+END DEF
+t-—- het testen van het programma
+LET TEST$="123-456-789-*0+-ABCD"
+DO
+CLEAR TEXT
+PRINT AT 10,10
+CALL RING(TEST$)
+LOOP
+
+inging “;TEST$
+
+"page-021.ppm" ------------------------------------------------------------ 
+TELEFOONTONEN
+
+Het werkt bijna helemaal, alleen de afwijking van de 4-rij is te groot om
+een * of O0 of + of D te kiezen. Dit komt door de ENTERPRISE.
+
+In de beschrijving van EXOS staat de volgende formule:
+F=-1250O0O0/(N+1)
+
+F is de frequenzie in Hertz, _N is een getal van 12 bits binair dat in
+het register 160 en 161 als low en high gedeelte weggeschreven wordt (dit
+is voor SOUND O het geval, voor SOUND 1 en 2 resp 162/3 en 164/5)
+
+ZIE OOK HET ARTIKEL GRAPPIGE GELUIDEN VAN FONS!
+
+Wanneer je nu de frequenties berekend blijkt dat er maar een beperkt
+aantal beschikbaar zijn. Het maken van de ENVELOPE is dus een beperkte
+aangelegenheid. voor de frequenzies rond 700 Hz zijn er maar 4-5
+verschillende mogelijkheden bv .16 .33 .50 .72 geven daadwerkelijk een
+ander geluid
+
+Voor de hogere frequenzies rond de 1500 Hz zij er 7-8 verschillende
+ENVELOPE-toonswijzigingen mogelijk bv .16 .33 .42 .55 .72 .84 .92
+
+De tonen die hierdoor ontstaan wijken in het geval van 1633 HZ ongeveer
+9 hz af. en de afwijking van de PTT zal ongetwijfeld minder zijn.
+
+tabel van gemeten frequenzies:
+
+muziek muziek gemeten lage gemeten afwijking
+ptt noot-laag noot-hoog enterprise pitch env enterpr Hz %
+697 D5 662,3 ES5 698,5 663 703 53 +.85 696 ei
+770 F+5 740,0 G5 784,0 745 787 55 +.55 768 =2 26
+852 G+5 830,6 A5 880,0 836 883 57 +.33 851 le l2
+941 A5 932,3 B5 987,8 935 994 59 +.16 948 +7 74
+1209 D6 1174,7 D+6 1244,5 1183 1254 63 +.33 1203 -6 .50
+1336 E6 1318,5 F6 1396,6 1333 1407 -65 +.0 1330 -6 .45
+1477 F6 1396,9 F+6 1480,0 1407 1490 66 +.84 1472 =5 34
+1633 G6 1568.0 G+5 1661,2 1585 1669 68 +.41 1624 -9 .55
+
+De aangegeven ENVELOPES zijn proefondervindelijk vastgesteld met behulp van
+een try-and-error methode. Gewoon proberen dus.
+
+En nu aan onze programmers om even een machineroutine te schrijven die
+de daadwerkelijke frequentie op de SOUND: uitgang kan krijgen
+
+In BASIC stel ik me voor het commando FREQ(1633) dat 1633 HZ op de
+speaker zet.
+
+Veel succes, SPOCK
+
+"page-022.ppm" ------------------------------------------------------------ 
+RREEERER EN
+233 1EN3A NSL
+
+rasa” en oo Id
+sa unn zumrsog
+
+<3aA1o1oud>
+
+ISINLUIIN3 HOON 3YLIJINI OId
+
+ä
+
+U
+
+Sn8 zou1Noo
+
+Sna ssauaav
+
+ossa
+
+vosp4
+
+22n osù
+
+esù
+
+vases
+
+vases
+MEE $ « :
+
+aon
+
+"page-023.ppm" ------------------------------------------------------------ 
+ADRESSEN OM TE WETEN
+
+VOORZITTER … Stan Tuinder, tevens tijdelijk penningmeester
+Willemstraat 170,
+2713 AJ ZOETERMEER
+
+079-169523 ma-vr 18.00-22.00 uur
+SECRETARIS .……. Fons Kraakman, ledenadministratie enz.
+Bleekveld 8, AANMELDEN & OPZEGGEN
+1852 JH HEILOO °
+072-3235131
+PENNINGMEESTER . Stan Tuinder .…...... zie voorzitter
+LID-A ........n. PLAATSJE nen.
+Is
+VRIJ
+VOOR JOU ! ma-vr 20.30-23.00 uur
+LED Det oee dee Hans Roelofs, .…....…. expert educative software
+
+Calsplantsoen 47,
+1945 SL BEVERWIJK
+02510-46630 ma-vr 20.00-22.00 uur
+
+BIBLIOTHEEK .... Dik Fennema …........ beheer en aanvraag software
+v Duivenvoordelaan 30,
+2241 ST WASSENAAR
+
+079-169523 ma-vr 19.00-22.00 uur
+
+REDAKTIE Robin Ketelaars, …… adviseur/redacteur
+St Liduinastraat 65b, ALLEEN KOPY ZENDEN
+3117 CR SCHIEDAM
+010-4732102 .......... tussen 19.00 en 21.00 uur
+
+De regio's kennen de volgende kontaktpersonen:
+
+NOORD-NEDERLAND ………...... Kees van der Dong . 05945-15626
+
+Peter Hofstee „ 050-775850
+OOST-NEDERLAND .…........ PPPPPP asen neer evene e erv nenen eneen een
+WEST-NEDERLAND ….…...... Zie bestuur! ..........-.……asvsarvensvereeene
+GELDERLAND . Peter van Helvoirt … 08885-2186
+ZEELAND … a „ Ben Sinke „ 01185-2525
+NOORD-BRABANT . . Rob Hanssens . 5 - 01651-1245
+LIMBURG ….….………. „ Stichting Synthese ‘Studio’ wen 043-617623
+
+vraag naar Rene terHorst of Jos Muiders
+
+2a

@@ -1,0 +1,2637 @@
+"page-000.jpg" ------------------------------------------------------------ 
+II. évfolyam 5. szám r 1991. szeptember — október Ára: 49,- Ft
+
+ENTERERIE55
+
+KÉTHAVILAP AZ ENTERPRISE SZÁMÍTÓGÉPEK FELHASZNÁLÓINAK
+
+Tisztelt Olvasó!
+
+Íme, a megújult Enterpress! A lap külcsínjének megváltozá-
+sa mellett fontosabb dolgok is történtek a nyáron. Legkiemel-
+kedőbb ezek közül a kiadó azon döntése, amely szerint felbontja
+a Postával aláírt, az utcai terjesztéssel kapcsolatos szerződést.
+Fz főleg azoknak lényeges tudnivaló, akik eddig az újságosstan-
+oknál próbáltak a laphoz jutni. Ők tehát a következő számok
+valamelyikéért már hiába bolyonganak a falvakban, városokban.
+Mindjárt szükséges hangsúlyozni: Nem az Enterpress szűnik
+meg az továbbra ís megrendelhető a Postánál, Sokkal gyonab.
+ban jutnak viszont a laphoz azok, akik a kiadónál (MÁTRIX
+Kft., 8000 Székesfehérvár, Honvéd utca 8.) fizetnek elő a lapra.
+Aki tehát továbbra is szeretné az Enterpress-t olvasni, az hama-
+Tosan már csak előfizetéssel
+
+darab 2 KOhmos ellenállás és egy kisméretű, kisáramú (pl.
+1N4148) dióda. Nem árt, ha van a közelben egy mérőműszer is.
+A kipróbálásnál egy laposelem segíthet (nem kell megijedni, ké-
+sőbb az áramkör a gépből kapja az áramot).
+
+A későbbi eligazodáshoz következzen a joystick vezetékei-
+nek kiosztása: zöld-bal, fehér-fel, barna-jobb, kék-le, narancs-
+sárga-tűz, fekete-föld, piros-5 Volt.
+
+Először szedjük szét a joystick-ot (ajánlatos a nyéllel kezde-
+ni), majd az AUTOFIRE áramkör minden olyan kapcsolatát
+vágjuk át, amely a közöshöz visz. Vágjuk át azt a fóliasávot is
+(vagy forrasszuk le a vezetéket), amely a kapcsolóhoz vezet. (Itt
+Jön ki a szaggatott tűz jel!) Ha több olyan pont is volt, amely a
+közösre csatlakozott, akkor ezeket a pontokat vékony szigetelt
+huzaldarabkákkal kössük össze, azt a pontot, amely legközelebb
+
+van a nyák széléhez, jegyezzük meg,
+
+juthat hozzá! Persze, ha később ide ik kötr földet
+élvezik kelő számú befizetés, ARTALOM 91/5 (GND). súa Tá"! a
+
+akkor márciusban eltemethet-
+jük a lapot...
+
+Úgy tűnik, keményre sike-
+rültek a programküldő szolgá-
+Tat feltételei, mert ez ideig még
+egyetlen szerződést sem tud-
+tunk megkötni a programok
+készítőivel, Egyesek a haté-
+kony programvédelmet  hiá-
+nyolják, mások az elszámolási
+rendszerrel elégedetlenek, is-
+mét mások anyagain kisebb-
+nagyobb módosítások elvégzé-
+sét javasoltuk. Mindenesetre
+értékes tapasztalátokhoz . ju-
+tottunk, ezeket felhasználva
+sok dolgot újra kelt gondol-
+munk, mert az azért még sincs
+Jól, hogy a tehetséges Enter-
+Prise programozókat nem ka-
+rolja fel senki! Az eddigiek
+
+KURZUS
+
+Fzután lássuk a tranzisztort! Néz-
+
+Aszembiy 7.
+A Pascal 7.
+15-Forth 1.
+
+737 ( zük úgy, hogy a lapos felével nézzen
+4-5 Í felénk, és a lábai lefelé legyenek. A
+6 baloidati lábra (kollektor) forrasszunk
+
+FROGRAMOZÁSTECHNIKA
+
+egy darab vezetéket, a középsőre (bá-
+
+Az Fietjáték
+
+T [/ds) az ellenállást, a jobb oldalira
+
+EZT KELLTÜDNI.
+
+(emitter) szintén egy darabka vezeté-
+
+Tamerkedés a Jemezes" BÉPPET
+
+§7 Í ket és a diódát úgy, hogy a tranzisztor
+
+HARDVEI
+
+felé vezessen át, ezt műszerrel ís mér-
+
+Mi akik a cartridge Ben?
+
+37 Í hetjük. (A dióda testének egyik végén.
+
+TESZT
+Az új Spectrum emulátor
+
+egy csík található, Amelyik kivezetés
+Tő7 Í hez ez közelebb van, abba az irányba
+
+TIPPEK-TRÜKKÖK
+
+vezet a dióda. A szerk.) A dióda má-
+
+Köztük A német bővítésről
+
+TT [sik lábát forrasszuk arra a pontra,
+
+KÖNNYED MŰFAJ
+
+ahova a földet fogjuk kötni. Az elle.
+
+Leírás: KNIGHTMARE, DIZZT
+Örökéletkódok
+
+TETT Í nállás szabad lábát forrasszuk oda,
+14 ahol kijön a szaggatott tűz jel. A tran-
+
+MINDENFÉLE
+
+zisztor "diódás" lábán levő vezeték
+
+Postafiók 334
+Hirdetések, felhívások
+
+15-T67 ( másik végét kössük a kapcsoló meg-
+16 Í felelő pontjára (átvágás előtt itt ment
+
+alapján a mi karjaink még gyengének bizonyulnak, de azért ki-
+tartóan növesztjük bicepszeinket.
+Hajnal Csaba
+
+Az AUTOFIRE belővése
+
+Mi az, amit gyakran használunk a játékok irányításához? A
+külső botkormány. És mi az, amit többször szidtunk, mert nem
+működött? Az AUTOFIRE! Ennek a problémának ismereteink
+Szerint két megoldása van:
+
+1., Elmegy az ember az ENTERPRISE szervizbe, és ott fel-
+szerelnek a gépre egy "normális" joystick csatlakozót. (Mindezt
+irdatlan nagy összegért!)
+
+2., Átalakítja a botkormányt.
+
+Mi a második megoldást választottuk, mert ez olcsóbb és
+egyszerűbb. Ez a leírás a Ouickshor2 és a Ouickshot2 Plus bot-
+kormányokra érvényes, de valószíndleg más típusokat is ugyan-
+ilyen könnyen át lehet alakítani. Több heti fejtörés és próbálg
+tás után a következő variáció lett a végleges (amely azóta is.
+tűnően működik):
+
+A szükséges alkatrészek: egy darab BC182-es tranzisztor, egy
+
+a tűz jel). A tranzisztor harmadik lá-
+bán levő vezetéket forrasszuk oda, ahol a közös (fekete vezeték)
+csatlakozik a nyákra. Jöhet a kipróbálás, amelyet célszerű lapo-
+selemmel végezni, nehogy valami hiba zárlatossá tegye a gépet!
+írjuk be a következő tesztprogramot:
+
+10 SET 102: SCROLL ON
+
+20 SET 00
+
+30 PRINT 6102:JOV(1):GOTO 30
+
+Csatlakoztassuk a botkormányt a géphez (CONTROL!)
+
+kapcsoljuk be az AUTOFIRE-t, és kössük rá az elemet az
+áramkörre, vigyázva a helyes polaritásra, (A bekötés akkor jó,
+ha a zsebtelep negatívabb kivezetése a közös, a pozitívabb pedig
+a 45 Voltos vezetékhez csatlakozik. A szerk.) Amennyiben min-
+dent jól csináltunk, úgy váltakozva 0,16 értékek jelennek meg
+(ha 16 helyett 31-et ír ki a gép, akkor lehet, hogy fordítva kötöt-
+tük be a diódát). Ha minden hibátlan, akkor szedjük szét a joy-
+Stickállesztót, és forrasszuk ki az élcsatlakozót. Az eredeti veze-
+ték mellé kössünk még egy szálat a föld részére, és az egészet
+forrasszuk az ékcsatlakozóra. Az élcsatlakozó kiosztása: A7-kö-
+zös, A4-jobb, AS-le, A6-tűz, BI-föld, B4-S Volt, B5-bal, B6-fel. A
+gépet a csatlakozók felől nézve a BI pont a bal felső.
+
+Zozosoft 4 Apuci
+
+"page-001.jpg" ------------------------------------------------------------ 
+1991. szeptember — október
+
+Assembly
+
+7. rész
+
+Megismertük az utasításokat, az ASMON-t, én elkészítettük első,
+"EXOS-föggetlen" rutinjalnkat, Itt az kdő arra, hogy igazi Enterprise
+95 programokat írjunk.
+
+A sorozat ezentúl egy bizonyos, nagyalakú, fehér-fekete, csíkos bo-
+"ítójú könyvre fog épülni. A könyv címét, beszerzési helyét nem adha-
+tom meg, mert reklámnak számítana. AK! azonban az Enterprise gépi
+kódú programozáséval foglalkozik, pontosan tudja, melyikre gondolok.
+A továbbiakban erre a silány fordítású, széteső kötésű műremekre a
+"könyv" elnevezéssel utalok. A sorozat nagyban támaszkodik a könyv-
+ben leírtakra, az érdeklődők a sorozaton keresztűl rájönnek az ott lefr-
+tak használatára, értelmezésére.
+
+Figyelműnket az EXOS-ra irányítjuk. Az EXOS az az operációt
+endszer, amely az Enterprise-t magasan kiemeli a tucat házi számítógé:
+-Pek közül. Az EXOS-nak ugyanis megvannak azok a jellemzői, amelyek
+egy igazi egyfelhasználós-egyfeladatos (single user. single task) oporáci-
+ós rendszert ek. Csak néhány ezek közül: paraméterezett
+funkcióhívások, dinamikus memóriahasználat, memórinkezelés, bővít-
+hető funkciók stb. Az olyan gépek, mint a C64, a ZX Specirum ezeket
+nem, vagy igen primitív módon tudják csak, lévén, hogy azokban - min-
+denféle hiedelemmel ellentétben . nincs igazi operációs rendszer, leg.
+feljebb a ROM-ot közvetlenül hívogathatja a programozó, Ehhez pon-
+tosan ismernie kell a ROM felépítését, az egyes rutinok kezdőcímét
+stb. Egy EXOS programozó ezzel szemben ismer néhány funkcióhí-
+Vást, tisztában van az eszközök és a csatornák fogalmával, így tulajdon-
+képpen mindent (fájikezelés, hangkeltés, rajzolás, képernyőkezelés
+Stb.) el tud végezni. Nem keli tisztában lennie a ROM szegmenseken
+lévő, a funkció által hívott rutinok elhelyezkedésével, paraméterezésé-
+vel.stb, (Ez a jól átgondolt operációs rendszer nem a véletlen, hanem a
+sakkszámítógépeiről híres Iatelígent Software remekműve. Köszönjük
+Mr. David Levy) Ha valakit mindezek nem vonzanak, akkor Frédi-Bé-
+ai (értsd: kökorszaki) módon közvetlenül hívogathatja a EXOS-ROM-
+1, az sincs megtiltva,
+
+Azért az EXOS sem fenékig tejfel! Tudnunk kell ugyanis, hogy egy
+tunkció meghívása, és a tényleges ROM kód végrehajtásának megkez-
+dése előtt a gépnek sok mindent el kell még végeznie (állapotmentés,
+memórialapozás, különféle vizsgálatok stb.), ami rabolja az időt. A
+ROM-ban futó kód (ezt hívják EXOS-KERNEL-nek, vagy felügyelő
+Programnak) ráadásul univerzálisra van megírva, mindenre fel van ké-
+Szítve, Így a gép sok olyan dolgot is ellenőriz, amit az adott feladatnál
+nem mindig kellene, és ez is csak időt vesz igénybe. Persze, ennek in-
+kább örülnünk kell, hiszen így programjaink mindig biztosan futnak, mi
+több, az EXOS 3.0-a ís használhatóak lesznek. (Rajtunk nem múlik.)
+Az szonban bíztos, hogy például igazán gyors képernyőkezelést kizáró-
+1ag a közvetlen video-RAM.-ba írással lehet végezni. (Az EXOS ezt ís
+támogatja)
+
+Az EXOS ezenkívül rendelkezik néhány speciális, nagyon ügyes
+sadottsággal is. Ilyen például az, hogy az egyes eszközök közötti kommu-
+nikáció ún. csatomákon keresztül folyik. Ez rendkívüli rugalmasságot
+tesz lehetővé, További unikum az ún. rendszerbővítők és a perifériakeze.
+lők használata, továbbá az új rendszerválozók létrehozása. Ezeket még
+Komolyabb operációs rendszerek is megirigyethetnék.
+
+Előreszaladva még azt említeném meg, hogy az EXOS alapelvéhez
+igazították a ROM Basic-et is. Ott szintén funkcióhívások sorozatának
+végrehajtásával jár egy-egy Basic parancs vagy utasítás végrehajtása.
+Aki tehát megérti az EXOS programozását, a ROM Basic-ét ís érti
+
+Perifériakezelők, eszközök, csatornák.
+
+Amikor bekapcsolás után a rendszer éledni kezd, az EXOS nyilván-
+tartásba veszi a ROM-ban tárolt összes perifériakezelőt. Egy periféria:
+kezelő a valóságban egy rutinhalmazt jelent, olyan rutinokkal, amelyek
+alkalmasak a periférikezelőhöz tartozó eszköz (pl. lemezmeghajtó,
+nyomtató stb.) egységes kezeléséhez. Az egységes kezelés azt jelenti
+hogy például minden eszközre lehet csatornát, megnyitni, lezárni; az
+eszközhöz lehet karakter küldeni stb. Az perifériakezelők tehát egysé-
+es felületet mutatnak a különböző eszközök felé. Fontos hangsúlyoz.
+mi, hogy a perifériakezelők nem végeznek fizikai vezérlést. Ezért van
+Szükség például az EXDOS kártyára: hiába ímánk a lemezegységhez
+Peritériakezelőt, az a fizikai vezérlést végző EXDOS (kontroller) kár-
+ya nélkül nem tudná a "pucér" lemezegységet vezérelni.
+
+A csatorna nem más, mint az az út (kanális?), amelyen az egyik esz-
+köztől a másik felé haladnak az adatok. Az alkalmazói program szintén
+a csatornába teszi, vagy onnan pocázza ki az adatokat, Az EXOS-t
+ezért szokás csatoma-alapú operációs rendszernek hívni. Később majd
+belátjuk, hogy a "esatorna-szemlélet" milyen rugalmasságot biztosít
+
+A beépített eszközök
+
+Az eszközök mindegyike névvel rendelkezik. A "bedrótozot!" eszkö-
+ök a következők
+
+- EDITOR: Univerzális szerkesztőprogramot takar. Azért nagyon
+Jó, mert ha például valamilyen "bepőtyögőe" programot írunk (pl. a Hi-
+Solt Pascal) nem kell a szerkesztési funkciókat (karaktertőrlés, beszú-
+rás, sortörlés, sorbevitel atb.) megírnunk. Elegendő, ha az eszköz által
+nyújtott lehetőségeket kihasználjuk.
+
+KEYBOARD: Ez az eszköz a gép billentyűzetéről, mint perifériá-
+ról olvas be adatokat.
+
+- NIDBO: Az eszköz a hardver (pl. TEXT 40), a szoftver (pl. TEXT
+80) és a grafikus (magas- és alacsonyfelbontású, 2, 4, 16, 256 színű, to-
+vábbá az attribútum típusú) képernyők egységes kezelését végzi. Ter-
+mészetesen a szöveges és a grafikus képernyők között különbséget tesz
+az EXOS: például a szöveges képernyő nem tudja a kifestési parancsot.
+végrehajtani. Az eszköz egyébként alig használja ki a Nick igazi lehető.
+ségeit.
+
+- TAPE: A magnóval tesz lehetővé ki- és beviteli adatátvitelt.
+
+- PRINTER: Ez a tipikusan kiviteli kezelő a nyomtatónak küld ada-
+tokat;
+
+SERIAL: Ha mondjuk egy PC-vel akarunk beszélgetni, akkor erte.
+a soros vonalat vehetjük igénybe. Az eszköz ezt a vonalat vezéri, (Baj.
+nos, tisztán szoftverből..)
+
+- SOUND: A négy hangcsatorna esen keresztül vezérelhető, (Az
+cszközkezelő a KERNEL rutinjain keresztül a Dave kogprocesszort
+irányítja)
+
+NET: Az Enterprise saját hálózatának vezérlését végzi.
+
+Az eszközök saját változókkal is rendelkeznek. Ezeket az eszköz
+használata clőtt (Pl; csatormamegnyitás) a kívánt értékre kell állítani.
+(A könyv az egyes eszközöket, használatukat külön részekben ismerte
+ú9
+
+Példa a csatornahasználatra
+
+"Tudjuk, hogy az adott eszközzel a csatornán keresztűl kommuniká-
+tunk Ehhez először meg kell nyitnunk a csatornát, A csatorna megnyi-
+tása az EXOS 1 és az ÉXOS 2 funkció feladata, A két funkció annyi-
+ban különbözik egymástól, hogy az EXOS 1-nél fájlnév is megadható,
+(A könyv a funkciókat az U/11-nél írja le.) A csatorna megnyitásához a
+funkciónak paraméterként át kell adnunk azt a csatornaszámot, ame-
+lyen a csatornára hivatkozunk majd; továbbá kell egy mutató az eszköz.
+nevére. Lássunk példát egy 10"10-es, hardver szöveges képernyő meg.
+nyitásárat (1.tista)
+
+A lista hosszabb, mint amire egyesek számítottak. A képer-
+nyőcsatorna megnyitása előtt ugyanis inicializálnunk kell négy paramé-
+tert: a képernyő típusát (V MODE), a színét (V. COLOR), szélessé-
+gét (V. XSIZE), magasságát (V. SIZE). Ezeket az EXOS 16 funkci
+val kell beállítani, A funkciónál B 1 jelzi, hogy rendszerváltozót aka
+"unk beállítani (B-0 olvasás-ASK; B-:1 beállítás SET; B 2 billentés-
+TOGGLE) C regiszterbe töltjük a megcélzott rendszerváltozó sorszá-
+mát, D-be pedig az frandó értéket. Bizonyára (eltűnt, hogy minden
+funkcióhívás előtt újra és újra feltöltjük a regisztereket. Erre azért van
+Szükség, mert a funkcióhívások kényszerűen elrontják az AF, BC, DE
+regiszterek tartalmát, merthogy az ÉXOS ezekben adja vissza az ered-
+ményeket. Az összes többi regiszter, a teljes háttérregiszter-készlettel
+együtt, valamint a belapozott szegmensek kiosztása változatlan marad.
+
+A program elején tehát a négy változót állítjuk be. Ezt követi a csa-
+torna megnyitása; A-ba a csatorna számát, DE-be az eszköznév hossz-
+bájtjának címét töltjük, amelyet a név követ. Ebből kiderül, hogy nem
+ak az eszköznevet, hanem a név elé "Irt" névhosszat ís meg kell adni,
+További követelmény, hogy az eszköz neve után kettőspontot kell ten-
+mi. (Így lesz a "VIDEO?" hossza 6 bájt.) Abban az esetben, ha fájlnevet.
+"dunk meg, természetesen a teljes hosszat kell megadni (pl. a "TA-
+PE:PRG NAME.EXT" hossza 17 bájt). Az EXOS keményen megha-
+tározza, hogy egy ilyen névben milyen karakterek adhatók meg, ezeket
+a könyv az V/11.1-nél ismerteti
+
+Fordítsuk le a memóriába a programot (IZ) ... Memory assembly
+VES), majd a TTJ1000-el kövessük végig a működését! Figyeljük meg
+az egyes EXOS n hívások végrehajtása után az AF, BC, DE regiszter.
+tartalmakat, azokat az EXOS tényleg elrontja. Egyelőre az A regiszter
+tartalma érdekes számunkra. Az ÉXOS ugyanis olyan jól nevelt operá-
+ciós rendszer, amelyik minden hívás után megmondja, hogy a hívás si-
+keres volt-e vagy sem. Ha minden rendben, akkor Ó-t ad vissza az
+kumulátorban. Ha az akkumulátor tartalma nullától eltérő, akkor vala.
+mi hiba történt, az érték egy ún. hibakódot jelent, (A hibakódokat a
+könyv a I/3-nál sorolja fel.) Az EXOS azonban még magán is táltesz
+képes ugyanis arra, hogy egy újabb funkcióhívással (EXOS 28) angolul
+
+"page-002.jpg" ------------------------------------------------------------ 
+1991. szeptember — október
+
+Kurzus 3.
+
+szöveges magyarázatot adjon a híbakód alapján! Egy komolyabb alkal-
+mazó programnak tehát nincs különösebb dolga, csupán a szükséges
+helyeken meghívja a hibakód értelmező funkciót, és a funkció által a
+"memóriába belyezett szöveget kiírja a képernyőre.
+
+A következőkben jelenítsük meg a képernyőt, és írjunk rá valami-
+
+lyen szöveget. Ezek nem jelentenek semmi egyebet, mint két djabb
+unkcióhívást. A 2lia felső részét a RET utasítás elé, az msg..,
+
+mage. sorokat pedig a RET után kell begépelni.
+
+9rg 01000h
+
+az EXOS-valtozok sorszama
+
+; Basfcr SET VIDEO COLOR 0
+id b,t
+id ev. color
+(d dicölor
+exos 16
+
+SET VIDEO X 10
+id b,t
+
+ld ev xsíze
+
+(d d,xöize
+exos 16
+
+SET VIDEO Y 10
+
+Tina
+
+Térjünk vissza programunkhoz! A RET utasításnál nyomjuk le az
+Ine]-et (ha nem akarunk elszállni.) Semmi látványos nem történt,
+Viszont van egy 10"10-es szöveges képernyőnk, amivel az 5-ös számot
+"iselő csatornán kommunikálhatunk. Az érdekesség kedvéért indítsuk
+cl újra a programot a [GJ1000-relt A végrehajtás után az A regiszter
+tartalma POR. Mi történhetett? Tudjuk, hogy az utolsó utasítás a RET
+volt, ami biztosan nem módosítja az akkumulátor tartalmát. Ebből
+egyenesen következik, hogy a nullától eltérő értéket az utolsó EXOS
+Hívás adta vissza.
+
+Ha fellapozzuk a könyvet, láthatjuk, hogy az PJh hibakód a
+.CHANXC hibát jelenti, amely tanúsága szerint a csatorna már létezik.
+gy csatornát tehát nem lehel kétszer ugyanazon a számon megnyitni.
+A megnyithatóság attól is függ, hogy milyen eszközről van szó. A két
+Véget a billentyűzethez csak egy csatornát lehet megnyitni (hiába
+adunk meg másik csatornaszámot), a képernyóhöz pedig nanyit (eltérő
+számokon), amennyi a szúk 64KB.os video memórában elfér.
+
+a megjelenítes
+
+a kiiras
+
+mag defm eThis (s a message."
+msglen egy $-meg
+
+Er]
+
+A viócolap megjelenítés speciális funkciónak számít, az EXOS 11.
+el tehet elvégezni. A-ba (szokás szerint!) a catormaszámot, B-be a ape-
+ciális funkcióra vonatkozó alfuakciószámot (DISP-nél 1-et), C-be, DE.
+be egyéb paramétereket kell betölteni. Videolap megjelenítésnél E-be
+kell azt a értéket, ahol a lap kijelzése kezdődjön; C-be az
+tinó, D-be az utolsó kijelezni kívánt sor számát kell megadni, (Ha Ba.
+Mic-kel szeretném illusztrálni, így írnám fel: DISPLAY SÁ-AT E
+FROM C TO D), ahol az A, C, D, E betűk a megfelelő regisztereket
+jelentik)
+
+A megjelenítendő szöveget blokként kell felfogni, az EXOS 8 képes
+blokkot kiírni, A-ba a ciatormaszáot (a vidcolap azonosítór), BC-be a
+Hiokk bosszát, DE-be a biokk kezdetének címét kell megadni
+
+Még mielőtt lefordítanánk a programot, közvetlenül az ORG után
+gépeljük be a A.ámán látható néhány sort. Mivel a programot előzőleg
+már futtatuk, az 5-ös csatorna létezik. Hogy a program szép legyen,
+Tögtön a kezdetén zárjuk le az 5-ös csatomát, Erre az EXOS 3 ad lehe:
+tözéget: A-ba a iezáranóó ciatorna számát kell tölteni.
+
+ehn
+
+exosY
+
+3. ina
+Pontnál lehet egy kicsit filozofálni: Semmi baj sem történt
+Volna, ha a $lisán szereplő 3 sort nem szárjuk be a programba. Igaz
+ugyan, hogy az EXOS 1 Foh híbakódot adott volna vissza, de mi ezzel
+nem törődíink. itól függetlenül a megjelenítési és kiírási rész normá-
+isa lefutott volna, A mi helyzetünkben a beszórt 3 sor helyesen mű-
+ködöt, az EXOS 3 nem adott vissza hibát, hiszen a csatorna már nyitva
+volt, le tudta záral.
+
+Ha azonban rögtön a legelején (amikor még egyáltalán nem volt
+nyitva az 5-ös csatorna, mindjárt az 1. ánál) ezt a három sort is begé-
+peltük volna, akkor az EXOS 3 FA hibát ((ICHAN) válaszolt volna,
+mert olyan csatornát akartunk lezárni, amelyik még nem ís volt meg.
+nyitva. A példa szándékosan erőltetett, feje tetejére állított. A tanulság;
+Ha megnyíunk egy csatornát a használat befejeztével zárjuk le. (Sok
+Program betöltője nem végzi el ezt. Erról árulkodik a lemezegység el-
+lapján világtó LED.)
+
+Fordítsuk le a programot, és futtassuk! Csak egy fél másodpercre
+tárjuk fehvillanni a viácolapot, mert az ASMON visszatéréskor rálcszi a
+saját főképernyójét. Megoklást jelentene, ha programból várakoznánk
+
+gyelműkbe ajánlom a KEYBOARD: eszközt, és a karakterolvasás funk-
+lót...
+(folytatjuk)
+
+-HCs.
+
+Fizessen elő a
+
+Hobby Elektronika s: : Rádiótechnika
+
+folyóiratokral Így biztosan mindig hozzájut!
+A cím: 1374 Budapest, Pf. 603. Tel.: 117 - 0262
+A szerkesztőségben regisztrált HE előfizetőknek Ingyenes nyákfilm-melléklet.
+
+"page-003.jpg" ------------------------------------------------------------ 
+1991. szeptember — október
+
+A Pascal
+
+7. rész
+Az elágazó utasítások
+
+Az IF — THEN és az IF .. THEN .. ELSE utasítás
+
+A programvégrehajtás feltételtől függő elágaztatását az IF ..
+"THEN ... ÉLSE utasítással valósíthatjuk meg, ahol az ELSE úg elma-
+adhat. Az utasítás szintaktikája a következő.
+
+1F feltétel THEN
+utasítás
+
+illetve
+
+Az első változatnál, ha a feltétel teljesül, végrehajtódik az uaítás;
+ellenkező esetben a végrehajtás a következő utasítással folytatódik. A
+második változatnál a feltéte! teljesülése csetén az utasítás. I, ellenkező
+csetben az utaríkás 2 hajtódik végre; mindkét esetben a vépretujtás a
+következő utasítással folytatódik.
+
+Mindegyik alaknál az utasítás lehet összetett utasítás án, akár újabb
+1F .. THEN vagy IF ... THEN .. ELSE utasítás, Ilyenkor félreértése
+adhat alkalmat, hogyan értelmezzük pl. az alábbi utasítást:
+
+WF foltátol 1 THEN
+WF fetétől 2 THEN
+tutnoltás: 1
+ELSE
+utasítás 2
+
+vagy
+
+1F fokőtol 4 THEN
+IF foltétől 2 THEN
+utasítás: 1
+ELSE
+Vtneítás 2
+
+azaz az ELSE utasítás. 2 ág melyik IF utasításhoz tartozik (a bekez-
+déssel való utalást csak a programozó nézi, a fordítóprogram nem).
+Megállapodás, hogy kétértelműség csetén az ELSE 4g mindig a legutol
+56 IT utasításhoz tartozik, tehát a példabeli első változat a helyes, Ha a
+második változattal sugallt megoldást akarjuk a programba írni, ezt
+"utasítászárójelekkel kell jelezni:
+
+IF foltátol 1 THEN
+BEGIN
+IF feltétel 2 THEN
+utasítás. 1
+ENO
+ELSE
+
+utasítás 2
+
+Nem különböztetjük meg külön az IS-Basic-ből ismert ELSE-IE
+szerkezetet, mivel azt lefedi az IF ... THEN ... ELSE utasítás szintakti-
+kája. Ugyanakkor érdemes a szerkezetet a tagolással az érthetőség ked-
+véént kihangsúlyozni:
+
+1F foltétől 1 THEN
+utasítás.
+
+ELSE IF feltétel 2 THEN
+utasítás 2
+
+ELSE IF feltétel 3 THEN
+utasítás 3
+
+ELSE IF felt tol 4 THEN
+
+ELSE
+ttnaítás
+
+Megjegyezzük, hogy ez a fajta felírás gyakortati ismerte.
+tenás CAT esekásll ellen bakra a ot
+
+A CASE utasítás
+
+A program többirányú elágaztatására szolgál a CASE utasítás.
+Alakja a következő:
+
+CASE változó OF
+data 1:
+ata. 2 : utnaltás 2;
+Tata, n : utasítás, ni
+ELSE;
+ttneltás nt
+END
+
+Végrehajtáskor a gép megvizsgálja, hogy a változó értéke melyik
+Tiatában szerepel sza ! .. líma m közül. Ha talál egyezést, végrehajtja
+4 ahhoz a listáboz tartozó utasítást; ellenkező esetben az ELSE ágban
+Jévő utasítást. A végrehajtás ezután a következő utasításai
+
+Az ELSE úg cl is maradhat. Hsta ! .. lisa m vesszővel elválasztott
+konstansok vagy résztartományok sorozata lehet. Pl:
+
+VAR
+C : CHAR;
+READI Ch;
+CASE C OF
+9.9 : KONVERZIOK Ch;
+FEL NYIL KURZOR FEL;
+LE NYIL KURZORÚLE;
+BAL NYIL KURZOR- BALRA;
+JOBB NYIL : KURZOR JOBBRA;
+ESC, BREAK, CTRL C : BEGIN
+WWRITELNI "Vége" );
+HALT;
+END
+
+ELSE
+ELZETELNI "Érvénytelen bitontyál" 3;
+
+Be kelt vallanom, hogy átt nem a szalvány Pascal defiíciójának
+megfelelő szintakalkát adlám meg, hanem a tziöle mindenki által Mast
+vált Turbo-Pascal szerinti, Az efodett definíció szerint a CASE utat.
+tának ugyani nines ELSE ágy; az alhematívák felkorolásakor pedig
+résztartomány nem adható meg, ciak konztasaok vesezővel elválasztott
+sorozata, Ha valaki ilyen, a szabványos Pascalt megvalósító rendszeren
+dolgaik jó, ha erre emlékezik; mi, Többiek viszont ryugodtan használ.
+hatjuk ezta hasznos bővítést.
+
+Az üres utasítás
+
+Az üres utasítás, mint a neve ís mutatja, üres, nem csinál semmit.
+Mielőtt felelőtlen kijelentéseket tennénk az ilyen utasítás használható:
+ságára vonatkozóan, nézzünk egy pár példát. A
+
+Utasítás mindaddig zárt ciklusban várakozik, amíg a KEYPRES-
+SED függvény azt nem jelzi, hogy a felhasználó ie nem ütött egy billen-
+Győt. Az üres utasítás itt a REPEAT és az UNTIL kulcsszó között van
+lletve nincs, felfogás kérdése). Hasonlóan, a
+
+WHILE VALASZ c5 Y DO;
+utasítás mindaddig várakozik, amíg a - felhasználó által írt, és nyil
+ván valamilyen kérdésre valamilyen választ beolvasó - VALASZ függ-
+vény a YES választ jelentő Y értéket nem adja vissza, Az üres utasítás
+
+a DO kulcsszó és a pontosvessző között van.
+
+Tzzel a néhány utaaításíajtával minden programozási feladat meg-
+bldható, Amint a tipusdeklarációk tárgyalásánál szándékosan kihagy.
+tuk a címkét, most kihagyjuk a GOTÓ utaaítást: nem lesz rá szüksé.
+ünk.
+
+Az utasítások tetszőleges mélységben egymásba ágyazhatók, így
+nem csoda, hogy nincs szükség ide-oda ugrálásra. Ugyanakkor, mint
+korábban már többszőr is láttuk, több utasítás íz beilleszthető oda, ahol
+a Pascal szintazisa csak egy utasítást enged meg; az utasítássorozatot a
+BEGIN ... END utasítászárójel-párral egyetlen összetett utasítássá ala
+kítjuk át
+
+Kicsit korábban már volt szó az !, amely előre defi-
+niált eljárást vagy a programozó által definiált eljáráat hív meg, Még
+korábban, az értékadó utasítás tárgyalásánál említést tettünk a függvér
+nyekről, amelyek szintén lehetnek előre definiáltak vagy a programozó
+ltal készítettek. A szabványos Pascal nyelv előre definiált eljárásait és
+
+"page-004.jpg" ------------------------------------------------------------ 
+WAGAT
+
+1991. szeptember — október
+
+ENYNHEHE
+
+Kurzus 5.
+
+függvényeit majd sorban megismerjük; kitérünk majd a Turbo-Pascal
+Sajátos eljárásaira és függvényeire is, és említést teszünk a Hisoft-Pas-
+cal sajátosságairól ia.
+
+Eljárások és függvények
+
+Nem szükséges öcsetelni, hogy mennyire megkönnyíti a programo-
+7úsi az eljárások és függvények alkalmazása. A Pascal egészen odág el-
+ment, hogy a beviteli-kíviteli funkciókat is teljes egészükben eljárások
+valósítják meg; a bevitelt és kivitelt előíró kulcsszavak így nem is részet
+a nyelv alapszókészletének, A felhasználó által definiált eljárások és
+függvények nélkül a nagyobb programok szerkezete követhetetlen vol.
+na, és számtalan ismétlésre és felesleges műveletre kényszerülne a
+
+Programozó.
+
+Egészen nagy programok pedig, amelyek egy darabban nem kezelt.
+hetők a fordítóprogramial, vagy amelyeket több darabból kell össze-
+rakni, mert több programozó készítette azokat vagy különböző prog-
+amnyelveken íródtak, nem lennének megvalósíthatók. Az eljárásokat
+és függvényeket, mint tudjuk, a program deklaráció részében kell dek-
+Tarálni, az - általunk kihagyott eímkedeklarációkat -, a konstansdefiní-
+ciókat, a típusdefiníciókat és a változódeklarációkat követően (a Tur-
+bo-Patcal, szerencsére, megengedi a deklarációk sorrendjének megvál-
+Aoztatását, sőt, megbontását, tehát egy változódeklaráció után jöhet egy
+konstanadefiníció, majd újra változódefiníció).
+
+Mind az eljárás, mind a függvény egy-egy programrészletet tesz
+egyetlen hivatkozással - az eljárás vagy függvény nevével - elérhetővé,
+"végrehajthatóvá, Az eljárás vagy függvény deklarációja így nagyon ha.
+sonlít a teljes program "deklarációjára": a programfej helyett az eljárás
+198 függvény fejéből ál, amit . pontogesszó - után egy blokk vagy egy
+
+dírokatva követ. Ezek mindegyikét alapotan megvizsgáljuk.
+
+Az eljárások
+Az eljárástej a PROCEDURE kulcsszóval kezdődik, amit az eljá
+
+rás azonosítója - neve - követ. Az azonosító után következik - zárójelek
+Között - a formális paraméterek listája, ami persze elmaradhat, ha az el-
+
+Hines
+A formális paraméterek atája tartalmazza tulajdonképen azoknak
+a változóknak a deklarációját, amelyek majd kívülról, az eljárás meghí-
+Vásakor kapnak értéket. A liatában egy-egy változót vagy vesszóvel el-
+"Választott változólistát kettőspont után követi a iípusszonosító, Ha egy.
+nél több típuslista van, pontosvesszó után megadható a következő, Itt
+"csak megjegyezzük, hogy a formális Tehet eljárás. vagy függ.
+"vényazonosító is; ezzel az csettel majd később foglalkozunk.
+Amikor a korábban megismert eljárásutasítár a program valamelyik
+ján meghívja az azonos nevű eljárást, az eljárásutasításban meg-
+at ataáli peramésmet (azok a változók vagy kammtamok, amelyek
+kel az eljárást az adott esetben le akarjuk futtatni) sorban hozzárende-
+lődnek az eljárásdeklaráció formális paramétereihez: az első formális
+Paraméterbe ítődik az első aktuális paraméter, a másodikba
+a második én így tovább, Az eljárás. ez után kezdődik csak
+meg Az adása kétféle módon történhet: érték szerint vagy
+név szerint. Az érték szerinti paraméterátadás azt jelenti, hogy a formá-
+is paraméter az eljárás hívásakor megkapja az aktuális paraméter érté.
+két, legyen bár ez utóbbi változó vagy kifejezés. Az eljárás az így kapott.
+értékkel használja a formális paramétert, és annak megváltozása az el.
+Jártson belül természetesen semmilyen módon nem hat EI arra az ak
+amelyiktől az értéket kapta. A mév szerinti paramé-
+terátulás esetén vügont 2 formáló paraméter teljes mértékbes kaonor
+Tesz az aktuális paraméterrel - ez ekkor csak vállozó lehet -, ez azt je-
+enti, hogy az eljárás lefutása után az aktuális paraméter azzal az érték-
+kel él tovább az eljáráson kívül, amely értéket az eljárásban kapott.
+Az alapeset az érték szerinti hívár; n mév szerinti híváshoz az adott ak-
+tuális paramétert a listában a VAR kulcsszónak kell megelőznie. A for.
+dítáprogram "lelki életére" ís kíváncslaknak elárulom, hogy az érték
+zerinti paraméterátadásnál az eljárás az aktuális paraméternek ténye.
+esen az értékét kapja meg; név szerinti paraméterátadásnál viszont a
+címét, Így érthető, hogy a megfelelő változó "magával viszi" az eljárás:
+ban kapott értéket az eljáráson kívülre is
+hat az ideje, hogy lássunk pár példát.
+
+PROCEDURE ELJARAS( A, B : REAL; VAR C :
+
+END ( procoduro eljaras );
+
+In a valós típusának deklarált A és B változó érték szerinti paramé.
+deráladást vár, míg a C változó név szerinat. Ez azt jelenti, hogy az eljó.
+rás hívásakor az A és a B aktuális : lehet kifejezés, konstans
+vagy változó; a C paraméter viszont csak változól Ezért az
+
+ELJARAS( 1, 2. N );
+
+hívás helyes, és N értéke az eljárásból visszatérve 3 lesz; az
+
+ELJARAS( XX 4.2, 55);
+viszont természetesen hibás, hiszen az 55 konstans nem kaphat ér-
+
+éket az eljárásban.
+Nézzünk most egy bonyolultabb esetet a hívásra a teljes program
+néhány részletévek
+
+Mennyi lesz X értéke az első eljáráshívás végrehajtása után? (3)
+Mennyi lesz A értéke ugyanekkor? (Marad 1, hiszen az eljárásbeli A.
+Változó nem adja vissza az értékét az eljáráson kívülre; az eljárás for-
+mális paraméteres, illetve saját belső változói, ha vannak, az eljárásból
+kilépéskor megsemmisülnek ) Mennyi lesz X értéke a második eljárás-
+hívás végrehajtása után? (Ugyancsak 3, hiszen az eljárás A-t a saját ké-
+szeresével adja össze.) És mennyi lesz X értéke a harmadik esetben?
+(Megint csak három)
+
+gaz ugyan, hogy az eljárás ciső utasítása az A formális paraméter:
+nek 4-et ad értékül, a második utasítás azoban ezt átírja B értékére, az
+Pedig az eljárás meghívásakor 3 volt. Az eljárás befejezésekor így az A
+Formális paraméter ezt a végső értéket adja vissza a programbeli A vál-
+tozónak, azaz az aktuális paraméternek.)
+
+Az itt látottak arra figyelmeztetnek, hogy a változóparaméterekkel
+vatosan kell bánnunk. Ugyancsak óvatosnak kell lennünk, ha az eljá
+"ás megváltoztat giobális változókat, azaz olyan változókat, amelyek sz
+dott eljáráson kívül vannak deklarálva. Ezekkel az úgynevezett mellék.
+hatásoknak a szakkönyvek sokazor egész fejezetet szentelnek. Mi itt
+ak az Gvatosságot tudjuk újra említeni.
+
+Mivel az eljárás törzse a definkció szerint blokk, így az kezdődhet
+dekdarációkkal. Ez azt jelenti, hogy az eljárásnak saját, lokális konstan-
+sat, típusai és változói lehetnek. Sőt, saját belső eljárás- és függvény
+deklarációkat is tartalmazhat, ez utóbbiak használata azonban nagyon
+elbonyolítja a program szerkezetét. Ezeket csak akkor használjuk, ha
+€z feltétlenül szükséges.
+
+Az eljáráson belül deklarált változók - és a formális paraméterek is
+1de tartoznak - csak az eljárás törzsén belül használhatók, csak ott van-
+nak értelmezve. Az eljárásból való kilépéskor ezek megszünnek létezni.
+A minden titkok tudójának címére jelöltek számára eláruljuk, hogy a
+Paramétereket az eljárás rendszerint a vermen keresztül kapja meg, A
+Program az lejárás hívásakor a verembe nyomja be a paraméterek érté-
+két vagy címét, mint ahogy a végrehajtás folytatásához szükséges vissza-
+érési címet in : köztudottan - oda teszi. Az eljárás programkódja ugyan-
+üt hozza létre az eljárás belső változót is. Az eljárás befejezésekor a
+verem kiürül, a paraméterek és a lokális változók megsemmisülnek, a
+Processzor a gÉpi kódú programozók számára ismert módon a verem-
+ből veszi a visszatérési címet a hívás helyéhez való visszataláláshoz.
+
+Ez a megokdás rendkívüli lehetőséget villant fel előttünk, a rekurzív
+eljáráskívásét. Mi van akkor, ha egy eljárás úgy van megírva, hogy egy
+Ponton önmagát hívja meg? Mivel a második híváskor - és a tovább hí.
+"ásokkor - a verem a memória másik részét használja, a második hívás-
+nál fizikailag in más helyen vannak az eljárás formális paraméterei és
+lokális változói, így azok nincineak konfliktusban az előző híváskor ke-
+ketkezett ugyanilyen változókkal.
+
+Ha az eljárás egy ponton majd visszatér a hívás helyére - és a rekur-
+Ztv eljárást mindig úgy kell megírni, hogy ez valamikor garantáltan be.
+következzen -, a második hívás változói megsemmisülnek, de az ehőé
+tovább "élnek", ehát a program végrehajtása probléma nélkül folyta-
+tódhat. A rekurzív hívások határtalan lehetőségeket nyújtanak a prog-
+Tamozónak, és a felkészült programozó él is ezekkel a lehetőségekkel,
+Mint a bevezetőben már említettem, bizonyos algoritmusok csak re.
+kurzív technikával oldhatók meg.
+
+Cak egy példa: ha arra gondolunk, hogy a Pacal fordítóprogram
+egy eljárásdeklarációban egy újabb, belső eljárásdeklarációt találhat,
+egy IF THEN utasítás belsejében egy másik IF .. THEN utasítást, és
+így tovább, gyakorlatilag korlátlanul, akkor rögtön világos lesz szá-
+munkrra, hogy a fordítót csakis rekurziót használó programiechnikával
+lehet megvalóaítani
+
+(Folytatjuk)
+
+-UL-
+
+"page-005.jpg" ------------------------------------------------------------ 
+6. Kurzus
+
+[S NHEEHHES
+
+1991. szeptember — október
+
+IS-Forth
+
+1. rész
+
+A FORTH programozámnak mindösszesen két részt áldozimk. No nem azért
+mert többet nam árdanelne! A céhunk csupán aru, hogy felkeltzük az olvasók ér.
+dokkódását a nyelv iránt, A FORTH ugyanít megéri a befektetést: ha valaki egyezer
+igent náre az sár nekem mabad tás Magy drtmánáne melökl hag a are
+
+TS hon ús posltialak, kegy pogamgyál arat
+Led seg ja
+aicscáa erők rejlenek Közéjük urtozik az sztk ggm erts
+erereegyezi mpulanyalyépetelpetásrt rírereíri
+ET sár akás métert ez öl Hpáobók Dokazeztástó sájti
+bedltvágkáty kedareka futsdlátsak a FORT Zs kapazolato sietek. Így
+Föláyen hefeak aze, ogy az egészet a arokba dotjuk, padig a FORTIL igen
+homály mel Fetétezzál, hogy az olvasók már redldeltérsek Hory elől
+tzerstllált a aylműl Tia és nd úgy iezna elö ez éndellédékazk : matiro:
+álma felerolt könyvelt ajákíjak, Cst az ezekben kíraktál kilözböső,
+ágy eltérő tazmakattájúk közre A mó nenát a milat lelrásn követ, majd a
+ő zitsádatsek TO magyarásstr
+
+Az üzemmódok
+
+A fejlesztést, majd a használatot a SLOW (—) illetve FAST (—) üzemmó-
+dok segítik, A SLOW utaaítás kiadáa után a hibakövetés állandó jelleggel meg-
+történik. Ezzel szenben a FAST "üzemmód" már a kész programok futtatására
+szolgál, ekkor a híhaligyelés kikapcsolt állapotú, s ez jelentésza gyorítja a prog-
+Tamok futását. A rendszer indítása atán a FAST tzemmód az alapértelmezést
+
+Aketuália számrendszerként a nyolcat állítja
+e (a BASE rendszerváltozóba tölt nyolcat)
+
+Kiírja a stack elemeit (az elemeket nem tíva-
+
+Aja el)
+
+A ROT al ellenkező irányba forgat
+
+degfelső három elemét.
+
+DROP (41 42 43 — 43.41. 42) A -ROT daplapontostágú megfelelője.
+
+VALSE(— 0) Logikai hamin, azaz 0 értéket texz a veremre.
+A változók.
+
+T(adár —)
+
+stack
+
+A változó címéről kiírja a változó értékét.
+
+01 (adár —-) A változót mllázza.
+11 (adr) A változó értékét eggyel növeli
+Ut (ndde A változó értékét eggyel csökkenti.
+Függvények
+RND (al — 12) Véletlenszám előállítására szolgál (021-1).
+Szringkezelés
+dezövegy, Kiírja a záró zárójelig a szöveget.
+SVARIABLE (al) Helyet foglal a sztringváltozónak. Használat:
+hasz SVARIABLE  NEV3 " (Cészerden a
+jön, mint aho-
+SCONSTANT Használható,
+Halo T SCONSTANT SZIAS
+(Amikor a SZIASzót hívjak, a megadott
+elyezi el a paraméter
+PAD (— dát) 355 yte hoszú tárolóhely le-
+
+(Átmeneti tárolásra, a szinapnéve
+letek ezen keresztül történnek )
+
+Az adott kezdőcímű sztring hosszát adja meg,
+ahol adíZzadárt 4
+
+Az sott kezdőcímé sztringet megjeleníti.
+Az EXPECT utnaítás után használandó: meg;
+adja azt a címet ahol a FORTH a begépelt
+szöveg hosszát eltárolta.
+
+A sztringet a sztriagváltozóba helyezi.
+
+A PAD-ra helyezi az adott sztringet, majd
+hezdőcírmét a stackra teszi (a kiírás a PAD-te-
+
+COUNT (adr — add a)
+
+ráletról folyik).
+ONCAT (adói mddr2 — nddrő), Öszetapszolj a kdárt iletme adár2 címen
+majd a kapott sztring
+
+keztőcímét tes a müdb te,
+
+S(dárt adá — 0) Az adári és az addr2 címeken kezdődő sztrin-
+elet hasonlítja Östze, és az eredményeket
+vaz vagy hai) teszi a stack
+A programok kezelése
+Kazettára mentéshezfbetőltéshez a programnak nevet kell adni. Ezt a nevet
+
+OAD-BUTYERS (—)
+Az editor
+A programok szerkesztéséhez a beépített szövegszerkesztő használható.
+Amennyiben sz sott serean-ben sem fejeződik be a program, a következő bok-.
+hola 3 szó jelzi majd a fordító számára.
+az edítorból az (Esc) bilkentyé szolgál, ez a kilépés a módosításo-
+hat ment a beflertekjbe
+A szezkesztént (bármikor) a fS1opj billentyűvel szakíthatjak meg.
+A programok fordítása
+Betölti az a. scrven-t, majd lefordítja,
+Betőlti a-től n2-ig a screen-eket.
+
+inoivasna szalagról a kimentett blokkokat.
+
+hogyan azt a memória elérészél láttuk.
+Et(ve-) Eltárolja a értéket az e EXOS változóba.
+EG (e—a)
+
+Ajak mirote té NOS ált emélét
+jepesaere a célra mazlgál az.
+A követiező EXOS vátozótat rágalaal
+BUNFERTIMER
+stop. SPEAKER
+BAU FORMAT
+MODE COLOURS
+SOLDRS STATUS
+T
+BORDER REMI
+REm2 BIAS
+Példát Felhaszaálva a Et és EGY szrakat
+0 BORDER EF (Fekete színd keretet Alítbe)
+STATUS ON (Látható lesz a mározzsor )
+EMI TOGGLE (agyő tívezártén Úgy az EXOS változák be.
+
+folyárolána már szemléletesebben történhet)
+SZISZEGTE ETT
+
+eredeti értékeket állítják vissza az átirányítási táblában.
+mtornakezelésze szolgál a GET (ek - n) és a PUT (a eh —) szó ív , ahol oh.
+a caatorna száma, a Pedig a kiküldendő érték.
+Az átirányítási táblázat alapértéket, valami
+
+TRÜŐS joy vIDBO: fgafia
+1 VIDEO. (ene)
+103 SOUND:
+
+az őket használó ciatorák a
+
+AA FORTH rendszerből ladítkatunk más rendszerbővítőket ix
+
+KT (add Az adott címen levő paraner-sztrtaget (sz első
+ye a név koszza) az EXOS kapja meg ella
+ítja azt, amennyiben lehetnéget,
+
+Hibakezelés
+
+(ABORT) A hibakezelőt aktívizálja, a következő formában használható:
+JABORT) név (Akol a név egy korábban definiált szót jelent)
+
+Bekapczolt kibekezelés esetén a név végrehajtása után a rendszer végretajt
+agy ABORT utasítást: töeli az adatvermet, a várja a további utasításokat anélkül,
+ogy bárilyen üzenetet adna, És a kurzort A név végrehajtás után,
+
+a Hibakód az sdatreresre kerül, Ezzel mintegy taját kibakezelő rutinokat írha-
+unk (esetleg szavanként, vagy alkatmazásonként külön-külön ú),
+Kíkapcsolai a kihalekezeléni az (ABORT) ERROR beírásával lehet.
+Egyéb szavak
+FREE (— a)
+
+A szabad memória nagynágát adj
+
+A battarmánytokame el 0. bek let
+72 EXT2) A beolvazott bájt bit-
+jei (bb..30) tartalmazzák az irányra és a tág
+ombra vonatkozó adatokat, A bitek növekvő
+Sormezdben a bal, jobb, fel, le írányt és a tűz.
+omb lenyomását jelentik
+
+(folytatjuk)
+Légrádi Gábor
+
+smart FORTH Könytináb,
+TES ETTÉSTSÉA E Fok ÉT nyet Sá nyek TÚSI ÁTSZ, 80
+
+"page-006.jpg" ------------------------------------------------------------ 
+1991. szeptember — október
+
+NYEK
+
+Programozástechnika 7.
+
+Az Életjáték
+
+Az Életjáték lassan több évtizede a matematikusok (és nem matema-
+tikuzok) kedvenc időtöltése. Elegendő hozzá egy kockás papír és egy ce-
+vuza, meg némi türelem; persz, gaz reneszánázát a játék a számlágtpek
+
+elterjedésével
+
+Az Életjáték a sejtautomaták tudományának egy "mellékterméke".
+A sejtautomaták elmélete egymás mellett elhelyezett sok-sok egyszerű
+elemből felépülő rendszerekkel foglalkozik. Ezek az elemek az élő
+Szervezet sejtjeihez hasonló elrendezésben töltik ki a síkot vagy a teret,
+az egyes sejtek csak a közvetlen szomszédjaikkal kommuni:
+kálni. A sejtautomaták régóta izgatják a szakemberek fantáziáját, hi-
+szen köztudomású, hogy az emberi agy felépítéséhez ezek sokkal kő-
+7elcbb állnak, mint a jelenleg alkalmazott számítógépek.
+
+pékdaképpen:
+
+ik képes Önmaga reprodukálására, azaz ez azt jelenti,
+Hogy rendelkezik az élő szervezet egyik jellemző tulajdonnágíval: AZ
+
+öntegrodukálásra majd látunk egy agyszérdeet példát,
+
+Az élő szervezetek, különösen padig az ember másik jellemzője a
+tanulás és a képzettáruítás; ezen a területen a cjtautomaták egyik ága,
+az úgynevezett neuronhálózatok : az emberi agy szerkezetét és műkö.
+ését utánozni próbáló rendszerek - mutattak fel egyre izgalmasabb
+eredményeket.
+
+De térjánk vissza az Életjátékhozt A játéktér egy -ehileg - végtelen
+
+SE EE
+SE izet]
+KE zá zeti állig e
+ze teles ezette
+MASSA S save
+ÖNENN ESTE áA MEL ATS
+Ezé ten emez
+TSZ ÉSÉT SZE ZELR s s éág ráta
+ÖSSZ TETtT Ta
+SÁSZENT zza eges
+
+bonyolultabb alakzatok szétesésekor. Az alakzat 2 időegység alatt
+visszakerül a kiindulási állapotába.
+
+1 mutatunk még három ábrát (a kockát, a cipót és a vitorlázóre-
+ülők). Javasoljuk, hogy próbálja meg végigkövetni fejlődésüket! Pró-
+báljuk meg az öt
+
+mellett lévő
+
+o
+o
+
+o
+o
+o
+
+A sejtek úgy viselkednek, mint az élő sejtek: egyedül, egymás nélkül
+elpusztulnak, ugyanakkor a múfoltságol sem Iudják elviselni,
+Agyonnyomják egymást. Ha viszont kodvező körülmények uralkodnak,
+412 üres mezőben egy új ejt keletkezik.
+
+Az ap ge vezesse dm] kigondolt formájában a szüle-
+tési, és életbenmaradási szabályok a következők
+
+Ha egy élő sejtnek nincs szomszédja, vagy csak egy szomszédja van,
+elpusztul az egyedülléttől. Ha négy vagy több szomszédja van, ugyan
+csak elpusztul a tálzáfoltágtól. A tálélésbez tehát két vagy három
+szomszéd szükséges.
+
+Ha egy üres mezőnek pontosan három élő szomszédja van, a me.
+zőben új sejt születik. A sejtek pusztulása és az új sejtek születése az
+"adott konfigurációban egyszerre, "vezényszóra" megy végbe, így a vál-
+azás nem függ a kiértékelés sorrendjétól.
+
+Az Életjáték azért jelent ígazi kihívást a játékos elmének, mert sok-
+szor egészen egyszerű kiinduló alakzatból sok száz vagy sok ezer lépé-
+sen keresztül változó, fejlődő sejtközösség alakul ki.
+
+A bal oldali ábrán látható kezdő konfigurációban (három sejt víz-
+szintesen egymás mellett) a két szélső sejtnek csak egy-egy szomszédja
+Van, ezért a következő lépésben ezek elpusztulnak; a középső tejnek
+Viszont két-két szomszédja van, ezért ez megmarad, Hogy a dolog ne
+( rokaámeorozengandgooeszgrozhea érvisbsotanaje longer véren
+
+Van, ezért ebben a két mezőben egy-egy új sejt szü-
+ettk Erodményílt a jobb oldali ván látható eirendetést karok (mint
+Ha a három sejtből Álló alakzat elfordult volna 90 fokkal). Nem nehéz
+rájönni, hogy a következő lépésben újra visszakapjuk a kiinduló alak-
+Zntot, és ez így fog ismétlődni az idők végezetéig. Ez az alakzat az
+Életjáték egyik nevezetes figurája (a neve villogó), gyakran keletkezik
+
+A kocka és a cípó statil alakzat, nem változik; a vitortázárepülő
+viszont változik, de 4 idöegységnyi periódussal ismétli önmagát, miköz-
+"ben átlósan lefelé "siklik" a sejttérben.
+
+Fiáruljut, hogy több hasonló vitorlázórepülő létezik; keressük meg
+ezeket
+
+Érdekes probléma, hogy létezik c olyan alakzat, amelyik mozog, és
+haladtában gózmozdonyként füstcsíkot ház maga után. És van-e olyan,
+amelyik járműként végighalad az úton, azaz egymás mellett sorban el:
+helyezkedő sejteken? Létezik-e ágyú, amelyik valamilyen mozgó alak-
+zatot képcs Kilóni magából? Mi történik két mozgó alakzat, például
+hét vitorlázórepülő összettközésekor?
+
+Mindezekre a kérdésekre csak úgy érdemes választ keresni, ha nem
+papíron és ceruzával próbálkozunk, hanem elkészítjük a megfelelő
+
+előtt belevetnénk magunkat a programírásba, néhány apró kér-
+dést meg kelt vizagálni. Először, a konfiguráció változásának egyszerre
+hel végbemennie. Ehhez külön tárolnunk kell az éppen aktuális kon:
+figurációg, valamint a következő lépésben kialakuló helyzetet (vagy leg.
+alább annak egy részét)
+
+A másik, hogy egy-egy életrevalóbb konfiguráció könnyen leszalad
+a képernyőről A baj nem is igazán az, hogy ilyenkor nem látjuk a
+Núlszaladt részt, hanem az, hogy a képernyő szélén lévő sejteknél cset-
+eg hibásan generáljuk a következő állapotot.
+
+Ennek elkerülésére a tényleges játékteret érdemes nagyobbra vá-
+asztan, mint ami a képernyőn elfér, és külön mechanizmussal ügyelni,
+ha a növekvő sejtkupac mégis elérné a játéktér szélét
+
+AA harmadik probléma előreláthatóan a sebesség lesz; mível egy
+lég nagy területen kelt a tejtek változását ügyelni, félő, hogy a prog.
+Tam rendkívül lassú lesz, különösen Basic-ben, Meg kell próbálni olyan
+saközöket felhasználni, amelyekkel a végrehajtás felgyorsítható,
+
+Erre a következő lapszámban kerül sor.
+
+AL
+
+"page-007.jpg" ------------------------------------------------------------ 
+8. Ezt kell tudni...
+
+GUHEHEHH
+
+1991. szeptember — október
+
+Ismerkedés a "emezes" géppel
+
+"gyorsabb, ér több szolgáltatást
+séggel A cikk a számítógépet ér a lemezmeghajtót összekötő "interface" -4,
+az EXDOS lemezvezértőe be
+
+A működt ROM memóriában (EPROM) tartalmazó
+
+tápegységével
+tápfeszültséget egy stabilizátor IC-a keresztűl, Tehát külön tápellátást
+Sk s emezmbaj tól) Igéeyzkínato, E imtlakertattik sz ÉKDOS
+
+vezérlőt a nélkül ís tesztelhetjük azt, és jóné-
+Hány szolgáltatását El is használhatjuk. (Erről bővebben a későbbiek.
+ben lesz szó).
+
+A Basic rögtön feltűnik, hogy a felhasználatlan
+
+memória néhány kilobájttal kevesebb, mint szalagos rendszer csetén,
+az EXDOS-nak ugyanis RAM területre van szüksége a működéshez
+A :HELP parancs kiadása után mindjárt az első sorban megjelenik:
+
+EXDOS version 1.3
+Úgy tehát az. rendszerbe épült a lemezvezérlő működtető
+(HELP EXDOS után pedig a következő copyright üze.
+
+EXDOS version 1.3
+Enterprise disk system
+
+(C) 1985 intelligent Sotwaro Ltd.
+Commands avallabic:
+
+CD MD RD DEL DIR CLS ERA REM REN
+VAR VOL COPY DATE ECHO LOAD MOVE
+TIME TYPE CHDIR ERASE EXDOS ISDOS
+MKDIR MVDIR PAUSE AMDIR ANDIA
+FORMAT RENAME RAMDISK
+
+za használható DOS (lemezes operációs rendszer) parancsok lis-
+tája. (Részletes imertetésüktől most eltekintünk, hiszen csak egy át-
+fogó képet szeretnénk rajzolni az EXDOS nyújtotta lehetőségekről.)
+Aki MS-DOS rendszerű gépen dolgozott már (pl. IBM AT), annak
+ismerősek ezek a parancsok. Ez az a pont, ahol nyomatékosan hangni-
+
+elterjedt
+ramok, szövegek stb.) lemezre írásának formájában is! z azt jelenti hogy
+az ENTERPRISE-on lemezre rögzített fájlok betölthetők egy PC-be,
+És ugyanúgy fordítva ia. Vigyázat, a programok természetesen nem fog-
+nak futni a másik fajta gépen, de a szövegek és pl. a forrásnyelvű (le.
+nem fordított) programok is átvihetők az azonos lemezoperációs rend-
+Szernek köszönhetően. Ez a hasonlóság kiterjed a lemezcímkétől a.
+
+lok méretét és létrehozásuk dátumát, időpontját is tartalmazó kataló-
+
+usig,
+
+A lemezillesztő egy úgynevezett Shugart 410-es szabványnak meg.
+felelő 34 pólusú csatlakozóval rendelkezik. Ehhez kapcsolható
+feljebb 4 darab lemezmeghajtó. 34 erű szalagkábel köti össze az egy-
+ségeket. A meghajlókon levő, típusra jellemző kapcsolókkal választha-
+16. hogy melyikre milyen betűvel hivatkozhatunk, A: B; C: vagy D: lehet
+az azonosító jel, Ha csak egy meghajtónk van célszerű azt A-nak "ne-
+vez. Ebben az esetben az EXDOS ún. mapdiak műveletet ia végre.
+tud hajtani, ami abból áll, bogy hivatkozhatunk a nem létező B: meg-
+hajtóra, és a képernyőn egy üzenet, amikor a B:-be szánt
+lemezt be kell tennünk az A:-ba. Tehát úgy használhatjuk a
+ha két meghajtónk lenne. Ha kazettáról akarunk beolvasni, vagy má-
+solni rá, akkor a TAPE: eszköznévvel keil hivatkoznunk a magnóra,
+hiszen a lemezvezérlő csatlakoztatásakor a lemezegység lesz az alapér-
+telmezésű ki- és beviteli eszköz.
+
+A használható lemezmeghajtók lehetnek 3.57-es vagy 5257-es mé-
+retűek. A vegyes "feiállás" sem jelent problémát. "Tárolókapacitásuk
+180 Kbájttól legfeljebb 720 Khájtig terjedhet. Jó az egy vagy kétoldalas
+
+gyég ugyanúgy mint a negyven vagy nyolcvan sávos. A különböző
+ártázióke
+
+1 oldalas 40 sávos: 180K
+1 oldalas 80 sávos: 360K
+2 oldalas 40 sávos: 360K
+2 oldalas 80 sávos: 720K
+
+Az utóbbi T20K-a meghajtóval bármely másik három formátumú
+Jemez olvasható és formázható ia. Nem probléma a 3.57-es lemezt át-
+
+A. SSSssg
+
+"másolni 5.257-esre vagy viszont, ha két eltérő méretű lemezmeghajtónk
+van. Az IBM XT számítógépekhez gyártott 5257-es,
+360K-s meghajtók áhalában gond nélkül használhatók az ENTER
+PRISE-hoz. A Commodore 64 vagy pl. az Atari XL sorozat meghajtól
+tajnos nem kozpatfbilisek az említett szabvánnyal, ezért nem kapcsol
+hatók számítógépünkhöz. (Létezik egyfajta csatlakozó és program ami-
+vel Commodore fioppy-t használni tudjuk, de annak semmi köze az
+EXDOS-boz)
+
+A lemezre írt fájlok neve legfeljebb 8 karakter lehet, majd egy
+Pogital elválasztva 3 karakter az adat típusára utalhat. Pl. GRAFI-
+KALBAS-nál a .BAS kiterjesztés Basic programot jelöl, úgy mint .PAS.
+PASCAL; DAT adatállományt stb. A kiterjesztés használata nem
+kötelező, de nagymértékben segít 3 Új! szonosítátát,
+
+Ha Basic-ből akarunk EXDOS parancsokat küldeni, könnyedén
+megiehetjük, csak De felejtsünk kettőspontot tenni eléjük. Ugyanúgy
+kell eljárni, mintha EXOS parancsokat gépelnénk. Basic programon
+belül is van lehetőség a lemezkezelésre. Az EXT kulcsszó utáni idéző-
+jelek közé kell írni a futtatáskor aktívizálódó parancsot, Pl:
+
+200 IF A$zif THEN EXT "DIA A:SPORT!
+
+Az :EXDOS beírásával belépünk az EXDOS command interpreter-
+be azaz parancsértelmezőbe. Ekkor egy lila árnyalatú mező jelenik meg
+a képernyőn, minden sor elejére kíródik egy kettőspont, zután írhat;
+
+C) gombot megnyomva
+
+lűvelet nemcsak Hasic-ból hajtható végre, hanem a szövegszerkesz-
+tőből (ásd, a Tippek-irükkök rovatot... A szerk.), vagy akár a Cyrus
+sakkprogramból is. És ami a lényeg; a visszatérés után minden marad
+a régiben, azaz folytatható a félig megírt szöveg, vagy tovább sakkoz-
+hatunk!
+
+Már történt utalás a lemezmeghajtó nélküli használatra. Ennek
+egyik módja a RAMDISK használata átmeneti adattárolásra, vagy "iré-
+mingczés" céljára: gyakoroljuk a lemezkezeléssel kapcsolatos utasításo-
+kat addig is, amíg nem tudunk "igazi" lemezmeghajtót kapcsolni a gé-
+pövís A lényet, hogy az ENTERPRISE gy használó a megérik:
+Jának egy részét, mintha létezne egy E: jelű jtó, Progra-
+tmokat mentbetüt el, msolbatuak onnan szalagra ett. A :RAMDÍSKI
+Parancs hatására 2"1éKB méretű memória ezentúl "átszólagod" lemez.
+meghajtóként működik. Az elmentett programok természetesen csak
+a kikapcsolásíg, vagy egy hidegindításíg maradnak meg, de addig
+Ugyanúgy (lényegesen gyorsabban) mozgathatók, másolhatók mint a
+valóban létező meghajtók esetén.
+
+Az EXDOS működtetőprogram szervesen kapcsolódik az EXOS
+operációs rendszerhez, többek között kibővíti azt öt új rend-
+Szervátozóval, Természetesen mind a lemezkezeléssel kapcsolatosak.
+AVAR paranccial közvetlenül lekérdezbetők, átírhatók vagy ki- és
+bekapcsolhatók az ENTERPRISE rendszerváhozói, Harmincnégy hi-
+baüzenet segíti a lemezegyvég használata közbeni tájékozódást. Az 13
+változat sajátja, hogy alkalmazkodik a kétnyelvű alapgéphez, németre
+kapcsolva GARD) németül, angolra váltva (UK) angolul írja ki az em-
+
+Met hibaüzeneteket,
+Eddig még nem eseti szó a lemezegység további - az eddigiekhez
+bépcat új távítokat nyitó - lehetőségről az /5-DOS (intelligent Sott-
+are Disk Operating Syatem) rendszerről Az I5-DOS rend.
+szertemezről tölthető be, és alkalonassó teszi a 2680-as
+Proccsszorú gépek szalwányos operációs rendszere, a CP/M 2.2 válto:
+Tatára írt "prlt" felhasználói programok futtatásárs: Turbo-Paacal, Ba.
+sic; Forth, Prolog nyelvek; különféle (pl. Aztec) C fordítók, Wordstar
+szövegszerkesztő, das adatbáziskezelő, . Multipian táblázatkezelő
+a.
+Tzcihóül talán elég ennyi eme "izgalmas! periféria íránt érdeklő-
+állíthatjuk, hogy akinek módja van le-
+
+Tisztelt Honfítársalnki
+Hazánk négy  tájegységében
+működtetünk helikoptert. A
+ionális központok kialakításá-
+hoz még további 7-8 helikopter beállítása szükséges. A
+
+mberi életek mentése nem olcsó,
+I egyre több életet tudunk meg-
+dent megér, Az Aerocaritas Mentőszol-
+Búlat emberek akaratából az emberért munkálkodik.
+
+Számlaszám: POSTABANK RT. 289-98943/026-00321
+
+A TANDEM Kereskedelmi és Szolgáltató Kft.-nél előnyös áron vásárolhat
+
+"page-008.jpg" ------------------------------------------------------------ 
+!
+
+gészítőket. Cím: 1132 Budapést, Visegrádi utca 6. Telefon: 112-4604
+
+1991. szeptember — október
+
+(HW NHEAGHH
+
+Hardver 9.
+
+Mi lakik a cartridge-ben?
+
+Az ENTERPRISE "agya", a Zilog cég Z-80 mikroproccsszora 16
+vezetéken címzi meg a lehetséges 2165536—64KB, memóriahelyet.
+nnek ellenére az ENTERPRISE összesen 4 azaz 4096KB
+"memóriát tud kezelni. A gépben ebből ténylegesen csak 48KB (német
+nyelvű gépnél 64KB) ROM (csak olvasható memória a rend-
+Szerprogramok tárolására) és I28KB RAM (írható-olvasható memória
+a képernyő, a változók, az adatok és a "mi programjaink" számára)
+található, de a többi hely is betölthető a kapható többféle bővítőkártya
+segítségével. Hogyan lehetséges cz?
+
+Válasszuk kétfelé a címvezetékeket! Ag elő csoportba tartozzon
+alacsonyabb helyiértékű 14, amely így 2"/m16KB memóriát címez,
+5 második csoport két eímvezetéke pedig meghatározza, hogy a lehet.
+séges 4"16KB-ból éppen melyikról van szó. Így a Z-80 64KB, memó-
+niáját felosztottuk négy darab, egyenként 16KB-s "lapra". A tényleges
+mek:
+
+0. lap:
+1. lap
+2. lap
+3. lap:
+
+A ÉP tervezői a két legmagasabb helyiértékű címvezetéket "ellop-
+tálC, és ezek segítségével egy nyolcbites lapregisztert (page regiater)
+akiívízálnak, amelynek nyolc kimenete a proocsszor ryaradék 14 cím.
+vezetékével együti 22 vezetéken címzi a memóriát, (222 mál). A négy
+
+0000h - 3FFFh.( 0 - 16389)
+4000h - 7FFFh (16384 - 32767)
+8000h - BFFFh (32768 - 49151)
+C000h - FFFFh (49152 - 65535)
+
+egy szegmenst, annak helyére újabb 16KB üres me-
+"móriát (ha még van ilyen) lapozhat be. A négy lapregiszter a következő
+Portcímeken helyezkedik el:
+
+0. lap : Boh (176)
+4. lap : Bth (177)
+2. lap : Bzh (178)
+3. lap : Bah (179)
+
+Kösérletképpen megnézhetjük, hogy melyik lapon éppen melyik
+szegmens található BÁSIC-ben a PRINT IN(I76)IN(T?)AN(175),
+IN(179) utasítással,
+
+foglalva: a 2-80 64KB-s címtartománya. négy
+16KB- lapra, a 4MB memória 256 16KB-s szegmenarc osztódik, és a
+aj tartalmának változtatásával a négy lapra bármelyik négy
+Szegmenst belapozhatjuk.
+
+Nézzük ezek után, hogyan épül (el gépünk memóriája! A RAM-
+terület felülről lefelé terjed, a legmagasabb nyolc szegmensen találha-
+1ó. A legutolsó, FFh (255) számú szegmens a legfontosabb, ez az ún,
+rendszerszegmens. Ha ez hibás, a gép el sem indul, A közvetlenül alatta
+Vévő három szegmenssei együtt alkotják a gép alaplapján található 64K-
+1, amelyhez a NICK viden vezérlő ís hozzáférhet, ezért itt tárolódik a
+kép is. Az Fh-től Főh-ig terjedő második 64KB egy külön kis áram-
+köri lapon található, alaphelyzetben ide kerülnek a (pl. Basic) progra.
+mok. A fenti henzdocimális szegmenssorszámokat láthatjuk a gép be.
+kapcsolás utáni memória-tesztelése közben; pl. a "TESTING FB" fel-
+rat azt jelenti, hogy a gép éppen az FI (251) számú szegmenst vizs-
+sálja.
+
+A csak olvasható memória alulról fölfelé halad, A 0. és 1. szeg-
+mensen található a gépbe beépített operációs rendszer, az EXOS , és
+a WP szövegszerkesztő. A 2. és 2. szegmensen a 0. és az 1. ismétlődik,
+€z a terület későbbi bővítéseknek van fenntartva. Most érkeztünk el a
+cartridge-hoz: ebben találhatók a 4-7. szegmensek. Az össze többi
+szegmens az alapgépben üres. Gyakorlatilag a cartridge-ben is csak
+két szegmens van kihasználva. Kétnyelvű gépen a 4. szegmensen van
+az angol Basic-értelmező, az 5. szegmensen a német bővítés. Angol
+sépeken mindkét szegmensben ugyanúgy a Baric-interpreter látszik, a.
+
+könnyebb bővíthetőség kedvéért. Mint látjuk, a cartridge-ben négy
+szegmenanyi, azaz 64KB belyűnk van. Hogyan használható ez bővítés-
+re?
+
+Nézzük először, mi is az a bővítés? Az EXOS-t kicsit jobban is-
+erők tudják, hogy a "rezidens rendszerbővítő" olyan program, amely
+33. lapoa, tehát a C000h-FFFFh memóriaterületen fut, egy "EXOS
+ROM fejléccel rendelkezik, amelyet az esetleges új eszközleíró lánc
+kezdőcíme, majd — a COOAN címen — a program belépési pontja (első
+izsítása) követ. Ilyen maga a Basic-értelmező, a német bővítés, vagy
+a sokak által ismert turboASMON 1.5 is. Erról meggyőződhetűnk a
+következő rövid programmal:
+
+100 FOR 1-0 TO 7110
+110 PRINT CHA$(SPEEK(5.D);
+120 NEXT !
+130 PRINT
+
+Hogyan találja meg ezeket a bővítéseket a gép?
+
+Bekapcsolás után az EXOS végignézi a szegmensek elejét, hogy
+talál-e ott "EXOS ROM fejlécet. Ha nem, megy tovább, amíg végig
+nem ér a memórián. Ha talál, az adott szegmenat belapozza a 3. lapra,
+inicializálja a bővítőprogramot, és beírja a bávítők listájába. (Hogy ez
+micsoda, a mi szempontunkból most mellékes.) Ebből a lényeg; az
+EXOS csak a szegmensek elejét nézi meg, azt sem mindegyiknek. Meg-
+nézi 4-7. (tehát a cartridge-ben lévő) szegmenseket, majd a 0-ra vég-
+ződőeket, tehát a 10h-iket, a 200-ikat stb. (a szegmensszámok termé-
+Szetesen hexadecimálisan értendők.) Ha a cartridge-ben egyforma
+programokat talál, csak az elsőt veszi figyelembe, a többi szegmensnél
+nem végez ilyen ellenőrzést. Mindebből következik, hogy hacsak nem
+alkalmazunk ravasz trükköket, egy szegmensben legfeljebb egy bővítés
+lehet, a cartridge-ben összesen tehát legfeljebb négy. Vannak azonban
+olyan programok is, amelyek csak két szegmensben férnek el, ilyen az
+emiítet turbaASMON, vagy a Hisoft Pascal, ezek alkalmazása tovább
+-axökkemti a lehetséges bővítések számát.
+
+"Tovább bonyolítja a helyzetet, ha valaki gyors memória-tesztet is
+szeretne, mondjuk mert nem győzi kivárni, amíg az 1 megabájtos me-
+móriabóvítójét (64 szegmens!) az EXOS méltóztatik letesztelni. Erre
+az ad lehetőséget, hogy az ÉXOS memória-tesztelés előtt megnézi,
+hogy a 4. szegmensen szerepel-e "TEST. ROM" fejléc. Ha igen, átadja
+a vezérlést az ott található programnak, ami a memória vizsgálata mel-
+lett, vagy akár helyett, sok minden egyebet is megtehet. Ez a lehetőség
+Viszont, kizárólag a 4. szegmensen adott. A problémák enyhítésére
+gyes emberek (neveket most az előreláthatólag hosszú pereskedés el-
+kerülése végett nem említek) a gyorsteszttel összeházasítotiak külön-
+böző "rende" bővítéseket, mint a MON, a GEN, vagy a legismertebb,
+a IurboASMON 1.5, Így kihasználták az egyébként veszendőbe menő
+4. szegmenst ia.
+
+innyit a szoftver oldaláról, nézzük, mi a helyzet a hardverrelt
+
+A rendelkezésre álló négy szegmens betöltésére különböző megol-
+dások születtek. A hőskorban volt, aki az egyes kétnyelvű gépek két-
+foglalatos cartriáge-át alakítotia át pár vágás, és néhány új drót segít-
+ségével két 32KB-s EPROM befogadására. Mások háromfoglalatos pa-
+nel fejlesztettek ki, amely még éppen elfért a cartridge műanyag do-
+bozában. Rásdásul ezen a panclen egy kapcsoló is volt, amellyel a má-
+5odik és a harmadik 32KB-s bővítés között lehetett választani (mivel
+egyszerre nem fértek el a rendelkezésre álló memóriahelyen). Az egy-
+foglalatos cartridge-be is beépítettek két EPROM-ot a panel két ol-
+dalára, a szükséges címkiválasztó IC-vel együtt. Taján említenem sem
+kell, hogy ezekhez a fejlesztésekbez (mint ahogy a többi 99.996-ához),
+sem az a-Stódiónak, sem a Centrumnak nem volt semmi köze.
+
+Ma szerencsére a helyzet sokkal egyszerűbb: megjelentek a 21512
+típusá, €4K kapacitásó EPROM-ok 1000 Ft alatti áron, amelyek egy-
+magukban tölük a rendelkezésre álló négyszegmensnyi memőrit. így
+egyfoglalatos cartridgr-ben ia — minimális átalakítással — lehetővé
+SA a teljes tartomány kihasználása, A legnépszerűbb a gyoratszt Hur
+TOASMON BASIC Hmagyar bővítés összeállítás, de volt olyan fel:
+használó ís, aki a BASIC et eltette emlékbe, és helyébe a PASCAL
+égette be. Atinek pedig a cartridge ben kihasználható négy segment
+bem elég, hozzájuthat olyan EPROM-bővtő kártyához in, amelyik a
+gép másik oldalához csatlakoztatható, és hat, egyenként akár 64K-s
+EPROMo képes ilkszten.
+
+Mészáros Gyula
+
+"page-009.jpg" ------------------------------------------------------------ 
+10. Teszt
+
+1991. szeptember — október
+
+Az új Spectrum emulátoi
+
+: Gép a gépben
+
+-Az ENTERPRISE megjelenésekor mindenki arra panaszkodoz, hogy
+kevés a gépen futtatható játék. és a felhasználói száma. Ekkor
+Jelent meg az első, és azóta ív uiolsó hardver Specinum emulátor. Végrel
+
+kénytelenek
+(De meg kell jegyezni, hogy a játékok lelkes hívei még mindig ezt hasz.
+málják men cselhat a programokba jobb emulásori még nem kézbe.
+
+Aztán teltek-múltak a hónapok, és megjelentek a piacon az első
+szoftver emulátorok. Ezek természetesen nem tudták felülmúlni hard:
+"er testvérüket, de a kalózmásolások miatt sok értékes Bartók-bankót
+apórolhattunk meg.
+
+Eljött az 1991-es év, és a MICROTEAM kiváló fejlesztői csapata
+megjelent a SINCLAR ZX SPECTRUM - INTERFACE 1 4 MICRO-
+TEAM FX. PRINTER SIMULATOR version 20 szoltver emulátorral.
+Biztosan mindenkiben felmerül a kérdés, hogy miben múlja felül az új
+változat társait? A program egy már közkézen forgó szimulátor to-
+"vábbfejlesztett változatának tekinthető, újdonság viszont - ahogy a ne.
+véből ís kiderül - a lemezmeghajtók és a nyomtató kezelése. Kétféle
+változata jelent meg: a 128 Kine-os alapgépeken is futó szimulátot,
+lletve a memóriabóvítővel ellátott gépekhez készített rendszerbővítő. A
+köztük lévő különbségek: az utóbbi képes a RAMDISK kezelésére, és
+Szabadon kiléphetünk EXDOS-ba is az (Esc) leütésével, akár egy futó.
+
+"A program készítésében az elsődleges szempont az új interfüccsek
+minél jobb kihasználása volf" - írja a MICROTEAM a programhoz
+mellékelt leírásában, melyet help-fáj/ formájában kap meg a felhaszná-
+ló. Ez a dokumentáció pont olyan, amilyenre az ember vágyik: nem
+hosszú, nem rövid, és minden fontos tudnivaló kiolvasható belőle.
+Helyezzük nagyító alá az emulátort! Az ciső hiba, hogy a program
+mem színhelyes: a színek elérhetők, de más attributumbájtokkal. (Ennek
+részleteibe itt és most ne bonyolódjunk bele) A FLASH illetve a
+BRIGHT vinafás Bea használható, vitat 16 hayer 256 bordazztn
+(95 s (A ORDER sztre sépi kád programoknál gyalasa vál
+
+SA iööítverek- kez Málle myélvesi Hiógöttak iilédégjtke réndesén
+fut, kívéve azokat, amelyek gÉpi kódú utasításokat, illetve az IN, OUT
+atb, utasításokat használnak. A portok olvasása és írása gépi kódban
+taak külön rutinok írásával oldható meg, illetve a megfelelő ROM ru-
+Tinokat hívhatjuk segítségül. (A billentyűzetet például ROM rutinokkal
+dai nélkül ölvaskutjuk és közvetlenül a portok olvasásával nemi) A
+gépi kódú programok közül azok sem futnak, amelyek letiltják a meg-
+Szakításokat, ezért nem fut a játékprogramok nagy része sem. Ugyanak-
+kor gond nélkül használható néhány felhasználói program: a Micro-
+Prolog, a Tanvord Two, a Hisoft Pascal, a Masterfile, a Supercode, a
+Várcale stb., nem fut viszont a Tanvord Three, a Beta Basic, a Melbo-
+wme Draw, az Artist, az Art Studio. Látni kell viszont, hogy az emuld-
+torna köszönhetően így is jelentősen bővül az ENTERPRISE -on futtat.
+ható komolyabb alkalmazások száma . (A MICROTEAM gárdája első-
+sorban a felhasználói programok futtatásához ajánlja az emulátort)
+
+Essen szó arról ír, ai igazi újdonság áz eddig megszokott szoltver
+emulátorokhoz képest, azaz a microdríve és a nyomtatókezelésről. Saj-
+os, nem minden Interface ! utasítás működik a MICROTEAM prog-
+ramjában, és a gépi kódú kompatfbilítás sincs megoldva. Ezen okból
+kifolyólag nem működik a már említett Tanvord Fhvee program sem,
+amely a microdrive-ot gépi kódból direktben írja. Itt ís találkozhatunk
+azzal a nehézséggel, hogy néhány utasításnál a keretszín (BORDER)
+
+ozik.
+
+A CAT (katalógus, EXDOS-on a DIR parancsnak felel meg) uta-
+afin használható, Formája megfelel a Scctrum-nál megszokottnak,
+amely természetesen minden utasításnál elmondható. A parancs után
+ló szám ndja meg, hogy melyik meghajtóról kérjük a lemezen talál-
+ható programok listáját (CAT meghajtószám). Ez egy egytől ötig ter-
+jedő szám lehet, (1a[A-, 29(B4 -. 52[E] Az ötös szám - mint a
+teszt elején említettem - csak memóriabóvítővel ellátott gépeken al-
+kalmazható, hiszen ez a RAMDISK-et jelenti, Például a "CAT 37 uta-
+aítás az ENTERPRISE "DIR C" utaításának felel meg.
+
+A programok kirmensése illetve betöltése (SAVE, LOAD) szintén md
+ködöképer a Specirum-nak megfelelő formátumban. (LOAD " "MI; a
+"megfelelő micrvárive száma; "a betöltendő program neve (max. 8 ka-
+Takter hosszó)"; továbbá SAVE " "MTd?progamnév. A mierodrive-
+08 természetesen mindig a kell érteni!) Ha egy progra-
+mot rögzítünk, majd az említett CAT utasítással megnézzük a lemez
+Tartalmát, akkor láthatjuk, hogy a lemezen .ZXF kiterjesztéssel szerc-
+el. A szimulátor ilyen kiterjesztést ad minden fájlnak. Ha a kimentett
+
+Program neve 8 karakternél rövidebb, akkor aláhózásjelekkel tölti ki
+az üres részeket. Betöltéskor elegendő a kimentett program eredeti
+nevét megadni, azaz az aláhúzásjeleket, a kiterjesztést nem kell kr.
+"unk. A SAVE és LOAD utasításokhoz a VERIFY pa-
+rancs, atnely szintén használható, viszont valamivel lassabb, mint az
+eredeti Specirum-oa. (Huszonöt másodperc alatt 16KB-ot tudunk el-
+tenőrizni)
+
+A MICROTEAM emulátora minden olyat tud a; kapc
+csolatban, amit az általuk (a Specinun gépekhez), FX4 EP.
+SON. nyomtatóvezérlő interfész imer, és gépi kódból ir írhatunk a prin-
+
+terel. A nyomtatókezelésbez először ismernünk kell magát az inter-
+fészt. A V3.FX típusú interface a SINCLAIR ZX Spectrum számító-
+ÉP és az EPSON gyártmányú FX-80 pcinter illesztését valósítja meg.
+Iamerkedjünk meg az interfész bájtainak használatával! A 23681-es
+memóriarekesz bitjei rendre a következő funkciók ellátására hivatottak
+(minden egyes bit alapértéke 0):
+50. GOPY-.nál kétszeres szólesméget én kétszeres
+
+ikott számú sor (0.29, Hatve
+
+ba - vázszintosen 1596-kal összenyomott nyomtatás;
+55 - CRELF terminátor (az alap csak CI
+58 - az imtertész minden kódot vákoztatás nélkül átangod;
+7 - a PRINT sorszálesség felére csökken.
+A 2679-es bájtra a nyomiatandó sorok szélessége írható be, a ka-
+"akterek számát kell megadnunk. A 23658-as bájt használható az ín-
+terfész és a printer inicializálására. A program a 23680-as bájton t4-
+
+ácízóját. Az interfész a
+Át a printernek. A 127-164 közötti kódokat a Spectrum grafikájának
+megfelelően, a 165-255 közöttieket pedig kifejtett kulcsszavak formá-
+jában nyomtatja. Ebben az esetben is átvihetűnk a 32-126 számtarto-
+mányon kívüli kódokat, ha minden ilyen spociális kód előtt egy ún.
+Escape karaktert (ASCII 27) küldünk a printer felé.
+
+solhainánk fájlainkat, épp ezért ezt csak hozzáértők tudják megtenni,
+ők is kissé nehézkesen. További problémákat okoznak a már említett
+színhibák, melyeket néhány szoftver emulátornál már sikerrel megold -
+tak. A 128 KB-os alapgépen futó verzió az Esc billentyű lenyomásakor.
+rákérdezés nélkül reset-et: programjainkat, adatainkat a kisujjunkkal a
+halálba küldhetjük. A arra in gondolhattak volna, hogy nem
+minden ENTERPRISE-o8 ismeri a Spectrum billentyűzetét, jó lenne
+0m-line help formájában segítséget kapni a billenyűk elhelyezkedéséről.
+Összefoglalva: A MICROTEAM programja egy újabb mérföldkő
+a Spectrum emulátorok fejlődésében, apró, de nem megoldhatatlan
+hibákkal. Van még javítani való a programon, bízzunk abban, hogy ez
+hamarosan meg is fog történni. Egy biztos: a printer kezelésében min-
+en eddig ismert lehetőséget meghaladó eszközhöz jutottunk. A játé-
+kos kedvű felhasználók pedig továbbra is csak a hardver emulátorra,
+iletve az ENTERPRISE-oa futó Spectrum átiratokra támaszkodhat:
+nak. (Az emulátor a következő címen rendelhető meg: MICROTEAM,
+1145 Budapest, Róna u. 127. Telefon: 184-1226).
+-JOVT
+
+Az
+ALAPLAP
+
+októberi számának
+
+tartalmából:
+
+— A bónap témája: Kártyavár
+
+— Közelkép a "fekete Gobozról"
+
+— Miért jó az MS-DOS 5.07
+- és a UNIX?
+
+- A C nyelv sikersztorija
+
+— Hibakezelés Cipperben
+
+— Hozzáférés két akadályon áthágva
+
+CÉDRUS
+
+Informatikai Részvénytársaság
+1251 Budapest Pf. 71
+
+CÉDRUS
+
+"page-010.jpg" ------------------------------------------------------------ 
+ús
+
+1991. szeptember — október
+
+Tippek-trükkök 11.
+
+Működik a "Set func key"!
+
+TEN emnseát erez üget tazt
+sál K EEEN erátéam et tat
+SESEEEE e ele ae tett
+See tést zeetátek
+IZEK EN S EZ ÉT eletet
+SESSÉZNÉT sás teto ett
+Szer áek TUNT
+FELS E ára est
+FERT SAsts END É eL ll Úe
+
+ISHIFTJ[F1]-et és az JENTERJ-t lenyomnunk.
+
+A német bővítésről
+
+A bővítés a német (BRD) és az angul (UK) mód mellett tartal-
+azza a kép kinyomtatását (VDUMP), kímentését (VSAVE) és a kép
+betöltését (VLOAD) támogató bővítéseket is.
+
+A két utóbbi funkció meghívása parancssorból egyszerű
+
+GVSAVE "képnév.kítt
+NLOAD "képnév.kitt
+Programból az idézőjelek miatt nehezcbb a színtaktika, tőbb prog.
+Tamban láthatunk ilyet:
+
+100 EXT
+"VLOAD"ACHRS(S4) átképnév.kítichr$(34)
+"Van ennél egyszerűbb hívási forma ís:
+
+100 EXT "VLOAD-képnév.kit—
+
+A funkciók alapértelmezése a 101-es (grafikus) csatorna, de bár-
+melyik vidcolapot kimcathetjük, vagy betölthetjük velük. Példa az ala-
+pértelmezéső szöveges lap mentésére
+
+IVBAVE gt02"képnév.dt"
+100 EXT "VSAVE $102-"képnév.kít""
+
+Ha egy régebben kimentett képet szeretnénk betölteni, és elfelej-
+tettük a hozzátartozó videolap adatait, akkor gond van. Szerencsére a
+VSAVE a fejrészben kimenti ezeket az adatokat, melyeket az AS-
+MON-nal tudjuk megnézni. A 16 bájtos fejléc szerkezete
+
+60 08 VIDEO MOOE VIDEO COLÓA X SIZE Y SIZE 09 00
+9 09 69 09 ö0 00 09 00
+
+Ha nem nullás VIDEO. MODE értékű a kimentett kép, altkor az
+
+X. SIZE "80-at" karakterekben van megadval
+
+Van két hibája is a funkcióknak:
+1. Ha kimentés közben lenyomjuk a (STOPJ-ot, majd újra hívjuk
+a VSÁVE-et, akkor "az eszközt már használják" hibaüzenetet kapjuk.
+2. Magnánál (főleg másoláskor) zivaró az, hogy a funkció kétszer
+nyit meg ciatornál.
+(A Két trükköt Németh Józsefnek köszönbetjük)
+
+MI lehet ez?
+
+"Valami probléma van az EXDOS-WP csatlakozásnál. Ha a WP-ból
+meghívjuk az EKDOS Command Iuerpretert, ahol DOS parancsokat
+adunk ki, majd a WP-be való visszatéréshez leütjük az [EscJ-et, akkor
+ugyan elindul a WP, de néha használhatatlanná válik, mely állapotot
+a felső menü helyén villogó "Editor keyboard channel error" üzenet is
+alátámaszt. Ha a szöveget nem mentettük ki, akkor annak akár búcsút
+ís inthetünk, ugyanis csak egy kis Reset téríti észhez a gépet.
+
+Fizessen elő
+a Computerworld-Számítástechnikáral
+Csak nyerhet!
+
+Informatikai iparunk vezető lapja a hetente megjelenő Computer-
+world-Számítástechnika. Híreit, Információit, elemző Írásait és tesztjeit
+csaknem mindenki olvassa, aki - akár fejlesztőként, akár kereskedő-
+ként - e területen tevékenykedik.
+
+De mint a csúcstechnológia mértékadó hírlapja, nem csak a szó
+szoros értelmében vett szakemberek számára ad fogódzót a számítás-
+technika (számítógépek, számítógépekre Írt programok), a számítógé-
+pes hálózatok, a távközlés és egyéb Informatikai alkalmazások világá-
+ban. Üzleti információi a vállakozóknak és beruházásokkal foglakozó
+vezetőknek is adhatnak busásan kamatozó ötleteket. Műszaki kérdé-
+sekkel foglalkozó cikkel a legfrissebb információkkal szolgálnak a ha-
+zánkban és a nagyvilágban megjelenő újdonságokról.
+
+Gyorsan változó hazal piacunk trendjeiről árulkodnak a lapban hét-
+ről hétre megfrissülő hirdetések. A beruházások tervezésekor segítséget
+nyújtanak a megfelelő számítástechnikail eszközök kiválasztásában.
+Egy közelmúltban készített közvélemény-kutatás eredményei szerint a
+Computerworld-Számítástechnika olvasóinak háromnegyede vette fi-
+gyelembe döntés-előkészítéskor a lapban közzétett hirdetéseket,
+
+A Computerworld-Számítástechnika előfizetési díja
+fél évre: 1098 Ft —
+
+egy évre: 2196 Ft ZABBBEN
+Legyen az előfizetőnk! GKM
+A Computerworld-Számítástechnika kladója: (SZBEZEBENEES
+
+IDG Lapkladó Kft. 1072 Budapest, Rákóczi út 16. "ar
+Telefon: 111-7917, 122-3293 Fax: 142-3965
+
+"page-011.jpg" ------------------------------------------------------------ 
+h SSE
+
+12. Könnyed műtaj
+
+KNIGHTMARE
+
+Aki 1987-ben netán Angliában járt, az biztosan látta a Thames
+Telgázton nagyikerű sorozatát, a KNIGHTMARE-t. A sorozat sikere.
+zténönte a zadvertáaakt a Hmm feldolgozására, A jogért órát
+"versengés kezdődött, míg végül az ACTIVISION szerezte meg
+
+mszténének lehetésépéL A ák elgakatóáték ca blmjlékok
+"onásait is, magán viseli. A KNIGHTMARÉ program a filmsorozat
+
+izalomgerjesztónek, mert
+a király csak egy kezdő kvagot kapott a Tanácstól. Amikor az őrség
+mmegtudin, hogy a Igvag miért jött, tagjai őrült bolondnak nézték, és
+Szegényke a börtön egyik cellájában találta magát. De nem adta fel, :
+
+elindult a sárkány elpusztítására, kezdetét vette a lovagi rémálom.
+
+Ha megfigyeljük a képernyőt, jobb oldalon egy égő gyertyát látunk,
+"ely az idő múlásával egyencsen arányosan, valamint a bennünket érő
+találatok, sérülések miatt eléggé gyorsan fogy. Ha a gyertya elfogy, s
+
+az élet lángja kialszik, lovagunk búcsút int földi pályafutásának, és va-
+lamelyik temetőben végzi, mint névielen hős. A gyertya mellett egy
+nyitott könyvet találunk, amely maga a játékképernyő. Ha egy másik
+Pályára megyünk át, akkor a könyv lapozódik. A lap alján található a
+
+ih;
+j
+§
+
+H
+E
+TB
+HB
+LE
+É
+§
+k!
+8.
+ki
+
+nem tud lehajolni. Vegyük fel a kaját (TAKE FOOD), majd etessük
+és itsasuk meg (GIVE FOOD, GIVE WATER). lamét kérdezzük ki
+
+;
+!
+
+hat. Ez még mindig a börtőa alagsora, úgyhogy menjünk egy
+
+fenntartva, A játék - mint már említettük - armadejadventure típusú, Így
+a bátor és rettenthetetlen lovagot a megfelciő billentyűkön kívül az
+adventure játékokban megszokott igc-(őnév szerkezetű "mondatokkar
+feirányíthátjuk. A parancsokat nem kell begépeininis hanem sz TEN.
+TERI megnyomása után a képcryő tetején valamelyik ige.
+(Ez vagy a legciső "ask? vagy a legutoljára használt ige után következő.)
+A szavakat gyorsabban ín kíválaszthatjuk, mert ha megnyomunk egy
+betát, akkor az azzal a betővel kezdődő első ige fog megjelenni. He
+nincs ilyen, akkor nem jelenik meg. A szavakat a ISHIFT]
+billentyű segítségével tudjuk. Ha kiválasztottuk a nekünk megfelelő
+igét, akkor az ] megnyomása után hasonlóan válasszuk ki a
+megfelciő főnevet is. Ezután ismét ENTER].
+WA parancsok hatását a Tanáen tárom vezetője kommentálía néha
+eléggé irónikus módon. Kettő közülük segí ín,
+kérjük őtet. A képük a képernyő jobb vagy bal sarkában jelenik meg,
+ha mondanak valamit, vagy ha Hiadjuk a 200K ORACLES parancsot
+A harmadik aggastyán a Tanács fő-ővezetője, a neve Treguard. Ő nem
+f7 kizárólag ja a történteket. A játék elején kéz.
+ENAE S ösze "A túlélés ér a nidás a célod.
+
+ogy.
+ajánlják fel úti célnak. Forduljunk arra, amire az utasítás vonatkozott,
+65 próbálkozzunk újra)
+
+PHEASANT MEAL YOU WASTE YOUR TIME - Csak az idődet
+vesztegeted. (Mi közük hozzá, hogy nekem mennyi időm van? De az
+1d6 pénz, illetve jelenleg maga az élet - inkább valami hatásosabb
+dolgot műveljünk!
+
+SUCH ACTIÓNS ARE FRUITLESS - Az ilyen tettek nem gyű-
+mölcsőznek.
+
+IMPOSSIBLE ACTIONS REOUIRES POWER OF MAGIC - A le.
+tegedet doltalíoz pezásmsű kell CÓgI látnik sem, hiazek bérizás.
+
+EZTET TEST a
+Vigyázz nyughatatlan
+
+dovag a tárgy nem írt van. (Ismét a sze-
+
+- Amit használni szeretnél, annak nálad kelt lennie . (Úgy látazik elfelej-
+cikk, mit dugtunk legutóbb zsebre: Ha egy tárgyat használni akarunk,
+
+te
+
+ONLY PEASANT WOULD DO THAT - Csok egy para tez let
+(A jó édes .-1 Tudod ki a parasztt?!)
+
+YOU HAVE MUCH TO LEARN IF YOU ARE TO BECOME A
+KNIGHT - Sokat kell még tanulnod, hogy egyszer majd lovaggá válhass?
+
+Ha segftség kelt, fordulj a segítőkhöz. (Kár a rágóizmaid fárasztani, ezt
+
+tozóghle
+AOT THE OVER OF MIND OR RODY . Sen 47
+rá. (No, az nem a.
+
+ietelnek dd mért nem kel benndnket iebéssülat
+VOUR DOWNFALL 15 MV FULFILLMENT . A bukásod az én
+
+gyik tajájuk egy ivejátékot játszik velünk. Az
+Ha a DUNGEON MASTER közli, hogy ANS
+akkor a válmz éppen az ellenkezője a valóságnak, egyébként a helyes
+"választ kell megadnunk. A máaik fajuk in kvízjétékot játszik, de ez ín.
+kább egy logikai összerakós játék: az első szörny a következő állítások-
+ra vár ellenkező választ:
+
+- TITANIC SALED FROM SOUTHAMPTON (A Titanic Sout-
+
+-ből futodt ki) - 1912-ben a Titanic tényleg onnan indult utolsó
+díjára, tehát hamis (FALSE).
+
+- STONEHENGE WAS BUILT BY THE DRUIDS (A druidák épt-
+ették Stonehenge) - Anglia leghíresebb többezer éves műemléke, a
+Salisbury alkságon található, és egy sziklából felépített kör alakú épít-
+TÉL e öt EK tat AN ök VSE élte
+kezdtek bevándorotni a brit 5 ős krssstsseten őt
+
+hették a Sianchenget Így válaszunk TRUE ree.
+
+Tiz BUNGEON MáSTt
+zetője) - Mivel a játék elején Treguard már bemutatkozott, így a válasz.
+elég egyszerű, azaz hamis (TRUE).
+
+hát mindezt végpszervmátül, akkor a WALLMONSTER köd,
+c Au mmmogárp ts végl rérs EE GOLD maa
+jatább fogyüt fi ze Itt lábat la
+sőn menjünk fel! A DUNGEON STEPS-be (Börtőnlépeső) érkezünk.
+TLJEZJolÁS, tajt 4ál éa köömer lt, Best KEST ANAS
+zamt, Hóbéetől (EKEGÜTIONER) szerencsére ciák egy van, de ezzel
+Ez éjel ln tögunk mégegy pártos tökzent mikor áj déslértéréek
+baladni a keleti várudvaron (COURTYARD EAST). Nem egy bízalom-
+gerjesztő geza a eszbe Káló Tatááaas bárááal JA káröldli semm eg
+TÉL viasz vátatátset,
+
+- MICH IS THE ODD ONE ÖÜT (Mel lóg ki a sorból): NO.
+
+ten wono mos me emor 40 aza me 3.
+COND WORD (Melyik két betűvel kezdődik és végződik az alábbi két
+3
+menek eggrttádsmmibeie A ponty ergo dó LA
+"Ha leráztuk a bárdost, akkor vegyük fel az aranyat
+"menjünk felfelé, majd
+ET kájeszs ZTA
+"a helyes választ kell megjelölni.
+ÖT a ÖTÉEKBOTS GIL END főmia Mimátg
+DEZO
+- WINDSOR IS THE ROYAL FAMILY SURNAME (A királyi fa-
+sees e At
+mlzzzás mesz mazat drázt
+" MARCONI INVENTED THE TELEPÍHONE (Marconi találta fel
+rosa 7 A telefont Bell-nek köszönhetjük, így hamis az állítás
+
+kből minder
+ún választ adni. Itt egyébként
+
+fel a hájat (GET FAT), majd menjünk balra, tu.
+unk! Itt egy gyönyörű szűzzel ahogy éppen a.
+bája fala mellett álldogál. hogy felébredne bennünk bármiféle
+
+vágy, inkább kössünk vele üzletet. Adjuk oda neki a két aranyat (GIVE
+GOLD, GIVE GOLD), majd az aranyért cserébe vegyük el tóle a nyak-
+
+"page-012.jpg" ------------------------------------------------------------ 
+1991. szeptember — október
+
+Könnyed műtaj 13.
+
+izt CME LOCKE vetés ág ettő ázat 4 a ga
+bennünket. Menjünk jobbra két pá-
+
+MÉZ ezet bk  dis
+ketzssmigti kéz ket nt Föl
+am ástaz és
+
+TÉL ele tear tt érett
+Mek sztk teti LE
+
+Ján te, csak nyissuk Ki előtte áz. ajtót (OPÉN DOOR - cz egyébként
+"Vonatkozik arra is, ha bárhol zárt ajtón keil átjutnunk). Itt vegyük fel
+a varázsitalt (TAKE POTION), valamint a hozzá tartozó utasítást is
+TE SZRÓTŐ rettegtem DSE TÉN ag
+EEG ez e]
+E EÁ TÉS Es ig éa eezi szála
+Bi ezdl kö se öl st g Zzé
+tn kies iget est eröneE all:
+EE ekkor
+
+Olvasás után fel, szórakozzunk el egy kis logikai játékkal, majd
+menjünk balra, ameddíg tudunk! Itt igyuk meg a varázsitalt (ÖRINK
+POTION), és amíg villog a szoba, menjünk le. (Ha tovább várunk,
+akkor megnyílik a pokol kapuja, és ártalmas szellemek tűnnek fel a
+hadszíntéren a pokol és a szellemvilág gonosz, sötét fejedelme vezeté:
+sével, és másodpercek alatt megzabálják az energiánkat. (A varázsítal
+egyébként a következő varázslatokat tudja: 1., Alkímin (ALCHEMY)
+7 Az élőlényeket arannyá változtatja egy kis időre, de ezeket az ara-
+
+únkább meg se próbáljuk felvenni, mert az eredmény csak gyon
+sban mérhető. 2., ÚN6 GANVIL)-
+
+Használatakor a szobában lévő élőlények a föld alá süllyednek, a
+"a pokol sötét kapuin keresztül visszajutnak eredeti szülőföldjükre. 3.,
+Jég (ICE) - A varázslat hatására újra a jégkorszak köszönt reánk, a a
+
+évő élőlények hóemberré változnak. (Minket egyedül a rajtunk
+száz kilós véd meg a megfagyástól ) 4., Metamorfózis
+(METAMORPIN) - A szellemeket illetve minden ellenséget átváltozta
+16 hatása van. 5., Varangy (TOAD) - Egy időre a. tartózkodó
+ellenségek változnak. 6., Kulcs (CASPAR) - Haszná-
+fől hamarosan szó lesz. A varázalatokat egyébként úgy használhatjuk,
+a SPELL igét, majd utána a varázalat nevét, pl. SPELL
+
+MET fORPH)
+
+Tehát, ha a sötét erők elől el tudtunk menekülni (minek is törjük
+magunkat a Hiszen mi csak egy sárkány elpusztítása után
+Kapunk fizetést), akkor menjünk jobbra. II lefelé vezet egy ajtó. Pró-
+báljuk meg kinyitni (OPEN DOOR), Erre a DUNGEON MASTER
+Közli velünk, hogy az ajtó zárva van, hiába ís próbálkoznánk. Itt hasz-
+nálhatjuk fel a POTION 1. A SPELL CASPAR hatására az ajtó feltárul,
+és szabad az út egy újabb faliszörny felé. Neki ís a logikai játékok a
+kedvencei. Az előző WALL MONSTER-hez hasonlóan kell itt ís eljár-
+unk. A [SPACE segítségével állítsuk meg a játékot, és képzeletben
+mét forgassuk el a négyzeteket! Ha czzei megvolnánk, akkor vegyük
+fe az ásót, amiért jöttünk. Ezek után vissza kell jutnunk a börtönfo-
+yosóra. (Fe, balra, le, a hóhér hülyeségeire válaszoljunk, balra két
+Pályát, le, jobbra kétszer, a falizörny kérdéseinek megválaszolása után
+kétszer fel) A DUNGEON PASSÁGE-ben vagyunk, Jobbra és balra
+folytatódik a folyosó. Minden pályán próbáljunk meg ásni, amíg clő
+nem kerül a föld alól a szurok (PITCÍ). Ekkor már minden nálunk
+Van a sárkány megöléséhez, csak meg kell kercani a sárkányt, és el-
+peszflani, Mierve 1 De erre már mindenki rjöet saját magától a
+Meg kell keresni, és el kell pusztítani a
+
+azis Tett könnyű felelat, Mátya az a vádállat tiigoljókat köp.
+köd, (Biztosan Van!) Én még egy pici segítség; Ha az
+ORA LES okai hegtséset kérüzk akkor Kb a hiszik kéréáre közli
+velünk, hogy Daniel (az meg Ki?) vette a szurkot, a hájat és a szórt
+(nálunk a nyaklánc készült szórból!), aztán összetorralta öket. (DANE
+EL TOOK PITCH AND FAT 4. HAIR 4. DID SEETHE TEM TO.
+GETHER)
+
+KNIGHTMARE értékelés
+Grafikai
+
+DIZZY
+
+A Dizy IV. megjelenése után ügy gondoltuk, tt az ideje
+sorozatot Indítani, hiszen ez a kis tj a szívünkbe lopta tagi; (ító.
+"éljük a Fouay Mforld, szaz a Day TV. amarosan megjelenik EN.
+jE.-on Út) A szószaporítás helyett kezdjük inkább a sorozatot
+
+az első résszel!
+A játék ötlete és kivitelezése a CODE MASTERS cégé, és a sikert
+
+mi sem bizonyítja jobban, mint az, hogy 1987 óta további négy rész.
+jelent meg, A grafika csodaszép, a Spectrum lehetőségeit igazán ki-
+hangetfektusokról.
+
+Hjája segítségével. A régi, poroa könyvek szerint : melyet Dizzy a nagy.
+Papája könyviárában olvasott - a varázslót a nap aranytalizmánja és
+egy különös (őzet pusztíthatjuk el. (Adjunk neki sárgaré-
+Pafőzeléket, attól biztos kimiik!) A boszorkányok recepíje a követke
+Tőképpen szól: "Fogj egy üstöt, jó nagyot / Melyben víz foryog / Bdvös
+madár tollát dobd ebbe / De nehogy igyál egy kortyot / Felhőből szött
+zün saineg / Való még bele ! Készen is van a fözeink , Körülbeül fele
+I Tegyünk hát még bele ! Egy kis manóőló mérget / Eznel már mepülhe
+únik / Egy csúszómászó férget / Hiányzik még ebből / A bdvös
+
+incs / $ eme fözet után / A gonosznak már ereje sincs / Hát ítassak meg
+vele / $ ez legyen a kitines / A világosság ajtajához / A fényhez, mely nagy
+kinc. Ezt elolvasván Dizzy égy döntött, megöli Zaks.ot, és elhozza
+ezt a kincxet az fveghegyek lakóinak.
+
+A start pályán láthatjuk az üstöt, melyben egyenlőre csak víz van,
+dc. az üst alatt nem ég tűz. Menjünk jobbra, és az ítt található fáklyával
+gyújtsuk meg az út alatt lévő máglyát. (Ha most beleugrunk, finom
+Főrt tojás lesz belőlínk.) Most menjűnk halra, a fővárosból kitelepített
+cigányok falujába. Itt a házak között kutatva rátalálunk egy rozsdás
+fúró, mely korát meghazudtolva működőképesnek bizonyul. Próbál-
+juk ki a fúrót, menjünk jobbra, ahol a hét törpe bányájának (A fiúk a.
+bányában dolgoztak!) bejáratát egy kőomlás miatt megaknát csille állja
+utunkat, Ugorjunk hát fel rá, és a kőomlástól szabaduljunk meg fúrónk
+segítségével. A csille tavábbillen, és bejuthatunk a bánya belsejébe a
+felvonák segítségével. Balra egy villogó valami képe fogad minket. Ez
+"em más, mint egy szellemfogó lézer, melyet a Ghostbusterek hagytak
+u, mikor a Back to the Futurc-ben látott autóval utazgattak. A felvé-
+tellel siessünk, mert különben a denevérek tojásrántottát fognak ebé-
+elni.
+
+Ezek után menjúnk le a beomlott érefejtőbe (The Hauwued Chim-
+ny). A barlang mélyén nem éppen gusztusos csontvázak hevernek, me.
+yeknek a kísértete az utunkat akadályozza, A szellemfogó készülék
+
+oncsz
+fegyver hatására köddé válik, mint a kámfor, A bánya
+mélyéről több tárgyat ís fel kell hoznunk, amit csak egyesével tehetünk
+meg, Legelsőnek egy aranyerszényt vigyünk a kiszabadított csilléhez,
+melyhez jobbra kell mennünk, majd essünk ldyA pontokon keresztül
+elérhetővé válik az erszény (A Purse Of Gold). Ha ez sikerült menjünk
+Vissza, de ne cssünk le! Jobbra továbbhaladva egy vizesgödörhöz érünk.
+Próbáljuk meg átugrani! Ha nem sikerül, és meghalunk, akkoc kezdjük
+újra a játékot. (Ha-ha-ha!) Próbálkozzunk máshogy: Ugorjunk fel a
+hiápillérret
+
+Főlöztünk van egy palló, mely pont a gödör fölé illene. Ugorjunk
+egyet pontosan a palló széle alatt! Láma csodát, egy híd fvel át a víz
+felett. Menjünk át, és a következő pályán vegyük fel az olajoskannát.
+(A Can Of 3 im 1 OI. Vigyük ezt ia fel a bánya bejáratához, majd
+menjünk a felvonó segítségével ismételten vissza, és a jobbra lévő kül-
+csot is hozzuk (el a pókra vigyázva. (The Graveyard Key) Ha a kulcsot
+agunkévá tettük (perverzek ne gondoljanak rosszra), akkor menjünk
+Vinsza a startpálya felé. A kezdő pálya után kb. öt pályával egy kis
+házikót találunk, amely felett cső esik. Útközben vigyázzunk a csapdá-
+ra, melyre a DANGKT felirat, illetve a csapda mélyén fekvő csontváz
+s figyelmeztet. (Gyakoroljuk a csapdán való átjutást, mert még egy
+Párszor szükségünk lesz az ügyes Áljutásra!) Tehát, ha elértük a házi.
+Kó, akkor láthatjuk a felette lévő bárányteihőt "atm", Próbáljunk meg
+Áljutni az eresz alá úgy, bogy ne essen a fejünkre egy csepp sem, mert
+különben Nyissuk ki az ajtót, így szabad az út Zaks fel-
+degvára elé; A fellegvár bejárata előtt egy vámpírok által megtépázott
+madártollat találunk, melyet az üstbe kell beledobnunk. A fellegyárnál
+láthattuk, bogy a felvónóhíd cságája nem éppen a legműködőképesebb.
+Olajozzuk meg a bánya bejáratánál hagyott olajoskannával. A Híd le.
+csapódik, bejuthatunk a fellegvárba. De gondolkozzunk egy kicsitt
+Zala hatalma nagyobb annál, mintsem egy ilyen kis tojást beengedne
+a várba,
+
+Ne menjünk még be, hanem inkább a bánya bejáratánál lévő
+arannyal teli erszényt vegyük magunkhoz! Vajon ez mire való? Dizzy
+nagyapja könyveiben olvasott egy remetéről, aki egy fa tetejére építette.
+házát. Szárnyat sajnos nem növesztettűnk, így menjünk tamét jobbra,
+míg egy vödröt nem látunk. A vödörbe dobva a pénzt feljuthatunk a
+remetéhez. Ha fent vagyunk ugorjunk egyet felfelé, s valami csillogó
+villogó valami aláhull az égből, de pont a ház táloklalára. Ezt úgy tud-
+Juk felvenni, ha esés közben a tűzgombot is nyomjuk. A boszorkány.
+Tecept szerint ez a főzet második eleme.
+
+A receptből azt is megtudjuk, hogy ez Zaks ellen még semmit sem
+és, legfeljebb egy féreg ellen használhat romrínószerként, Hozzuk
+bál az üstbe a harmadik elemet is, a manóölőmérget. Ezt a fellegvár.
+konyhájában találhatjuk meg. (Menjünk be a várba, majd fel a lép-
+sőn.) Ha ezt is ettük az üsthöz, akkor menjünk vissza a fellegvárba,
+
+"page-013.jpg" ------------------------------------------------------------ 
+14. Könnyed műtaj
+
+FUHEEHEE
+
+1991. szeptember — október
+
+e
+KSE E EÁ ástt us
+BEEE ee laz em izeket
+sz sztsá ei zenet
+MESS]
+ÉSz zázeázbeerált
+SERA TELET edés
+TA TELE sakk erepss s bella tág
+tál balra, amíg egy felhőt nem találunk, melyből savas cső csik. Álljunk
+Fekete tzzete ztura
+hegyek országát. Hozzuk ide a gyémántot, Az üveghegy oldalában egy
+SZSZK AES 96 Az Este ai
+EZÉ né zési ezel tási
+Czez ezis ETT
+SZárazjeget tartalmazó palackot! Ezek után menjünk le a barlangba,
+"ahol egy patak állja az utunkat. Átjutni nem tudunk, hiába áll ott egy
+ET EK imát besz ital nee E
+Mlgber ésa site ketzénk
+TERESA stét menetet
+tunk a tálsó oldalra. (Álljunk a deszka szélére, s ugrás közben dobjuk
+Sa sás ee ez ezé
+
+mateke etil zenés
+ENEK aksi Szá mt gl tát
+És éle st zezá tán dömet ni
+EE NL TE e ESTSZ emgt
+Ez szek
+E AE TOT TzÉTTesa
+eke eze zetett
+TÁN ESSÉK sé leesni tát
+LES ee ezzel zeti
+KAZETTSETEE S ett Ze
+epitesi
+
+EE öt ges szlétsta éső
+sed elő the sát ga tüz gársásáz
+ESZE VS EN tését eng ez
+Mását u sza stt EZseá
+Ses eg kel sás leéan ta
+EST E EA söt sez e eléte
+TELE SER Táe e ta
+Eliza télen me ét kár ell ezé ZT
+eto
+
+ik egy tutaj, amely sajnos egy lánccal ki van kötve. Hősünk kezében
+életienül éppen egy csípófogó rejtőzik, vágjuk hát el a láncot. Nagy
+nehézségek árán át is Iudunk evickélni a patak túloklalára, Tovább
+állva jobbra két pálya után a manók ősi temetőjéhez jutunk, A törpök-
+nek egy igen fura vallásuk van, hiszen a lélek ereje szerintűk a hajban
+"án. (lehet, hogy Sámson ús közéjük tartozott") Szerintük tehát a lélek.
+a hajban van, így a tálági élethez ciengodhetetlen. Ősi szertartásuk
+szerint a halott manóknak a haját levágják, és eltemetik a holttesttel
+együtt. Véletlen hiba folytán egyszer a bűvös hajüncset nem dobták
+bela a lelszínen maradt, Vegyük fel, és vigyük az üsthöz.
+"Dobjuk bele, és máris kész a főzet. De valamiben el ís kell vinnünk.
+A csapda tetején lévő lombik erre alkalmasnak látszik. Töltsük meg,
+
+JA talizmmán használata Zak erejét hatástalá
+
+Ennyi lett volna a sorozat eiső epizódja. Kovács Ervin, budapesti
+blvasónknak pedig szeretném megköszönni segítségét a Dizzy III-at
+kapcsolatban. A harmadik epizódban ezeknek nagy hasznát fogjuk ven-
+ni.
+
+DIZZY értékelés
+
+Grafika: .
+ZonejFX: s
+Játszhatóság: T
+Összhatás: s
+
+OVI.
+
+ÖRÖKÉLETKÓDOK
+
+HARD DRIVIN
+
+(A második fájit kolt betöttentí)
+
+-IR) 2000 [ENTER] BFFF (ENTER] HARODRIV ENTER]
+"Last address: 28CS"
+
+AM) 20E8 (ENTERJ DO 28 [ESC]
+
+-M] 2800 fENTERI AF 32 C7 AS C3 00 89 (ESCJ
+-IMI 2065 (ENTERI D7 [ESC]
+
+-ÍMI 2068 (ENTERI D8 (ESC
+
+-ÍMI 206B [ENTER] 28 (ESC)
+
+8) 2000 (ENTER] 2808 (ENTER) HARDORIV [ENTERI
+
+VENDETTA
+
+ARI 4000 [ENTER] BFFF [ENTER] VENDETTA fENTERJ
+
+"Last addross: B3FF"
+
+MI 9581 (ENTERI B7 (ESC)
+
+ÁSI 4000 [ENTER] B3FF (ENTERJ VENDETTA (ENTER
+4000 [ENTER] BFFF [ENTER] BLOCK-00 (ENTERJ
+
+"Last address: AFÉF"
+
+MI 5D33 [ENTER] 87 (ESOJ
+
+IMI 4ABD TENTER] 00 (ESC)
+
+-IMI 5540 (ENTERI 00 (ESC)
+
+-IMI 555D [ENTER] 00 [ESC]
+
+-I8) 4000 (ÉNTERJ AFFF [ENTER] BLOCK-00 [ENTERI
+4000 (ENTER) BFFF fENTER] BLOCK-04 JENTERI
+
+(ast adorosa: AFÉF"
+
+MI 46F4 (ENTERI 00 (ESCI
+
+MI 5100 ENTER] 00 (ESCI
+
+-IMI S1ED (ENTERI 00 (ESCI
+
+4000 (ENTERJ BFFF (ENTER] BLOCK-06 [ENTER]
+(ast address: AFÉF"
+-IMI 5849 (ENTERI B7 [ESCI
+MI 48A4 fENTERI 00 (ESC)
+-IMI 5199 (ENTERI 00 (ESO)
+-IMI 5186 (ENTER) 00 [ESC]
+-ÍS] 4000 (ENTERJ AFFF (ENTERJ BLOCK-06 (ENTER
+-ÍRI 4000 [ENTER] BFFF [ENTER] BLOCK-08 (ENTER
+"Last addross: AFPF
+-IMI 5781 [ENTER] B7 [ESC]
+-IMI 4819 (ENTERI 00 [ESC]
+-IMI 4FDO (ENTERI 00 (ESC)
+-M) 4FED (ENTERI 00 (ESC]
+AS] 4000 (ENTERJ AFFF [ENTER] BLOCK-O6 [ENTERI
+
+CHEAT-ek:
+
+ATOM ANT (DI(EJ-VIrM-ILI a menüben.
+DIZZY 3 [AJ4[5]4-(DI betöltés közben.
+
+RENEGADE 3 [TI r(G) a menüben.
+
+BRUCE LEE az összes funkcióbillentyű betöltés közben.
+BIONIC COMMANDO (ESCJ-(7] a menüben.
+
+TOP-LISTA FELHÍVÁS
+
+Mindenki észrevehette hogy egy kialt megváltozott a rovat, azzal,
+hogy a játékokról értékelést adunk. (Hamarosan képeket ia közölni
+fogak) Ezt tárom szempont alapján teszt úgy mint grafika, zene
+és hanghatások, valamint a játszhatóság, A pontszámok
+ól 104g terjednek, ahol a 10-es a legjobbat jelenti. AZ értékelést
+természetesen nem a Játék Amigás verzlőjához viszonyítva végezzük,
+banem az ENTERPRISE képességeit vesszük alapul, Ebből kielyólag
+a legtöbb Spccirum-átirat nem számíthat egetverő pontszámokr, an.
+nál ís inkább, mert sokszor tele vannak szhibával, nem játszhatók
+bolkocmánnyal, csak ák. zenéjük van ib. Ezenkívül az értékelés a
+beírás készítőjének szubjektív véleményét tükrözi, ami általában nem
+egyezik az összes olvasdéval, Szeretnénk azonban, ha a többség ked-
+encci is szerepelnének a upban, amit legegyszerűbben egy Tep-lizta
+Tömájáta tehetünk meg, Tehá kérünk mindenk hogy Ha meg me
+lyek a kedvenc játékai, amelyeket összestve minden számban
+gy úzes Bona formájában. Ezenkívül tavábbra is várunk minden olyan
+gddet, amelyben üppeket, megoldásokat küldenek az egyes játékok:
+hoz, amit továbbadunk minden olvasónknak.
+
+Det a JON
+
+"page-014.jpg" ------------------------------------------------------------ 
+1991. szeptember — október
+
+Mindenféle 15.
+
+Postafiók 334
+
+Tiurécsy Tamán Dudapcati olvmónknak, kérésének megfelelően
+elkülájük az ENTERPRESS adig megjelent összes számát, .. Érdek.
+
+ási rajz közlésére jogi okokból nem vállalkozhatunk, ez a tartozékok
+"ajzára is vonatkozik. Úgy tudjuk, hogy több cég illetve maj
+ús áruuítja az illesztő nyomtatott áramköri kártyáját a beszerelt alkat.
+részekkel vagy azok nélkül. Várjuk ezek jelentkezését, hogy az érdek.
+1ódők megtalálhassák őket. Másik kérdésére a válasz egyszerű; küldjön
+el próbaképpen egy-két Írást, és esetleg egy listát az érintett progra.
+okról. Ha véleményünk szerint tapasztalatai az olvasók többségének
+érdeklődésére számot tarthatnak, természetesen közöljük azokat. Ha
+ííusa gördülékeny, akkor az Ön által papírra álmodott formában lát
+hatja viszont művet; ellenkező esetben a szerkesztóség valamelyik tag.
+Jának bele kell nyúlnia az anyagba. De ez minden újságnál így van.
+Takács Árpád hűséges polgári olvasónk szintén régebbi apszámo-
+
+amcsra lefagy a gép. A Fent és lent című trükköt a POKE. 4779412
+utasítással ír meg lehet csinálni. Ha a 121 növeljük vagy csökkentjük, az
+altó státusz-sor elmozdul jobbra vagy Balra, a számtól függően
+Árpád, igaza van. A TIPPEK-TRÜKKÖK rovatban
+megjelenő apróságok általában véletlen felfedezések eredményei, leg-
+többször nem a gép leközölt, ismert jellemzői alapján készülnek. Az
+ilyen módon előállt programozási "intorok" összes lehetséges hatását
+felmérni a gÉP egészére és más programokra teljességgel lehetetlen.
+Fzzért ezeket nem szabd nagyon komolyan venni, annak kell azokat
+felfogni, amik: váratlan, jópol trükköknek, rácsodálkozásoknak, v4-
+Talan és kiszámíthatatlan hatású felfedezéseknek. Továbbra a igaz a
+szabály, hogy "mérget venni" csak az üzletben it, eredeti jog;
+time rosa eredeti, nem másolt változatára lehet. (Szerkesz.
+tőtársaim ebben a pillanatban mind, egyszerre súlyos járvány áldoza.
+taivá váltak: a hasukat szorfiva a földre vetették magukat, torkukból
+furcsa, hisztérikus nevetéshez hasonló hangok törnek elő, Élmeállapo-
+fat he ztcattent megromáoti valami elyet mondotok hogy ha.
+lyeségeket írok, nekem kell mérget bevenni. Nyilván egy másik szám[-
+tógére gondoltak.) A közölt irükk újabb megoldását köszönjük, íme,
+
+felhasználói programokat
+Flső javaslatát szívesen fogadjuk, magunk is hosszabb ideje tervez
+zük ilyen anyag közlését. Már e lapszámunkban is olvashat egy ismer
+tetési az EXDOS-ról (L. a 8. oklalt.). Mivel a szerkesztőség tagjai
+alaposan le vannak terhelve, szívesen fogadjuk külső munkatársak szín-
+Vonalas írásait, mind ezen a területen, mind más témakörben. Második
+felvetésének kiinduló gondolatával is egyetértünk, azt üdvözöljük. A
+ús azon fáradozik, a lapot is részben azért indítottuk út-
+Jára, és azért folytatjuk a sokszor lennek tetszó munkát, mert
+bízunk abban, hogy nem teljesen hiába dolgozunk; ha csak egy mor-
+ányíval hozzájárultunk a számítástechnikai kultúra terjedéséhez, fej-
+tötégébez, már volt értelme a frmdoássaknak, Iavmalala részben aj
+tott kapukat, a teljesség igénye nélkül írom, hogy hiszen meg.
+Jelent a FINE PEN és a kevésbé ismert, de összehasoníítatattanul
+Jobb SPRED aprite-tervező ismertetése (ez utóbbi hamarosan hozzá-
+férhető lesz a programküldő szolgálatnál), a Pascal sorozat ís ismer-
+tetni szándékozik az ENTERPRISE-on elérhető Pascal impiementáci
+kat, sz Amembly sorozat 5. része pedig éppen az ASMON lelkivilá-
+ába merült bele... Mindettől függetlenűl, igyekszünk majd újabb fel.
+Használó programokat sorra venni. Ehhez is szívesen vesszük azonban
+
+újra megpróbálják ezt a jobb sorsra érdemes masinát egy rendszeres lap-
+Pal támogatni, Egy régebbi prábálkozásnak szenvedő alanya voltam (fel
+fedeztem - megjetszett - megrendeltem - nem láttam többé: ENTERFACE,
+-Szudio). Most ezt a lapot is megrendeltem, ér ha sikerül megkapnom,
+
+tevékenyen bekapcsolódni a fenuanásába.
+Köszönjük meleg szavat, Az Önéhez hasonló és a többi
+teljen, segítséget kérő, tanácsot, ;, ötletet adó, kritizáló levél
+adja az erkölcsi hátteret a lap djabb és újabb számának megjelenteté.
+séhez, Ezek nélkül már rég feladtuk volna. de a levelek olvasátakor
+Újra érezzűk azt az úrt, amit elkezőtűnk a magunk szerény erejével
+betölteni, és amelyik még nagyobbnak tőnne, ha abbahagynánk. Égyi-
+Künk sem szereti a nagy szavakat, ezért ciak azt mondom, amit eddig
+ús mondtunk: addig csináljuk, ameddig erőnkből telik. Remélem, hogy
+elihez egyre több segítséget kapunk az Olvasóktók így azt ís remélem,
+hogy az Ön felajánikozása ís komoly, és találkozunk még egymással a
+Tap hasábjain. Hogy azonban konkrét segítséget is adjunk, izerkesztő-
+ségőnk utánanézett a Noppymeghajtók tápellátási problémakörének
+Szerencsére, ehhez az adott esetben elég volt a saját lemezegységeink
+hátsó, intimebb oldalát szemügyre venni. A mustra eredménye a kö-
+vetkező Ábra (a Moppyegységen lévő csatlakozót a küvilág felől nézve).
+
+ta Et
+090 0 0
+
+4BV OV OV H2V
+
+Ciak a rend kedvéért eláruljuk, hogy az IBM AT számítógépekben,
+ahol ugyanilyen használnak, a tápegyégből a csatla
+kozóhoz menő két Ő V-os vezeték fekete, a 45 V-os piros, a 112 V-os
+t naranasárya, Ami szintén nem meléken, Ádám Zoltán az aram
+- aki egyébként Spocirumos, de már több EN-
+TERPRISE javított meg, min, amennytl 2 Összes tagja
+valaha ís látott : elárulta: a csatlakozóhoz ellendarabot úgy tud szerez.
+ni. hogy Kermilt üzletben pár forintért vásárol egy televízió-alkatrész.
+ként árult csatlakozót, amit késsel kicsit megfaragva alkalmassá tud
+tenni a Moggyegység ciatlakozójába ilesztésbez.
+Jóger Károly írja Budapestról: ..Az 2. számban közölt STOCK-
+CARBAS, német állásnál begépel:
+
+képemyőn megjelenő fel.
+ratot drszínezte, néhány betdt furcsa jelekkei cserélt fel Nem tudom, hogy
+a program-e a hibás, vagy a lista, vagy pedig én ütöttem el valamit. A
+begépelt lát ánénye nem találtam elérés a lapban megjelenhez képest
+ús azt tudjuk tovább ragozni, amit Lukács Árpódnak vála-
+szoltunk ugyanebben a számban: A szerkesztóség tagjainak termé.
+Szetesen van ENTERPRISE gépük, de a magának,
+sajnos, nincs egy-egy BÉpe az összes lehetséges változatból. Ezért nem
+Mudjuk azt megtenni, hogy a leközölt programok, tippek és trükkök
+mindegyikét ljuk az összes gép összes konfigurációján (an-
+§l éz német Ép lemezzel és magnóval, memórinbőítéssei vagy mél
+kül, botkormánnyal és billentyűkke, esetleg egérrel, ilyen, olyan s amo-
+Nan bővítővel..). Még arra sem válialkozhatunk, hogy azt vizsgáljuk,
+működik-e egyáltalán az adott program az összes lehetséges felállás
+ban, különösen akkor, ha a híba nem azonnal, hanem bosszabb-rövi-
+ebb működés után, vagy csak bizonyos körülmények csetén jelentke.
+7ik. zért csak arra vállalhatunk " garanciár", hogy az adott program az
+mot, épen, sáet konfigzáctan működö . Megpróbáljuk vot
+mindig megadni, hogy melyik volt ez a nek még.
+
+éssel
+EZEL ZOTKEZ
+KEZET TTG tét
+
+19. Marinka Lajos budapesti olvasánk többek közt ezt írja: ..Előre
+7 amasór zámátágéprogamazón
+
+kell bocsájtanom, hogy teljesen amasór vagyok
+4 szabadidőmet szeremém öleni. AZ As
+sembiy és a Pascal programozár nincs ís probléma, van
+
+tervező kérem, énestoenek, vap tják meg Mehemséges a rendelés.
+kérném az ENTERPRISE -ra írt Turbo- Pascal nyelvet is.
+lekara a Fool Pazci van
+
+Őn nincs egyedül, mint "teljesen amatór számító
+Azt hiszem, hogy akik ezt az djáágot olvassák, majdnési migdannyian
+
+"page-015.jpg" ------------------------------------------------------------ 
+16. Mindenféle
+
+1991. szeptember — október
+
+amatőrök, és egy részük pedig - reméljük, hogy ez a rész nem a kiteb-
+bik, és hogy egyre növekszik! - valóban nem csak játszik a géppel,
+hanem rendszeresen vagy hébe-hóba, de megpróbál programozni is.
+Tovább megyek: akik a lapot írják és szerkesztik, azok is mind ama-
+tődként kezdték. Ezekből az amatőrökből lesz a közeljövő erős, tehet-
+séges programozói, fejlesztői gárdája, akik hivatássá vált passziójuk ré-
+vén tudják majd ezt az országot egy kicsit előbbre juttatni a szeren-
+
+-csésebb, gazdagabb, jobban ellátott (de egy cseppet sem okosabb, le-
+hetségesebb vagy elhívatottabb) közeli-távoli szomszédaink (elé. De
+
+félre a nagy szavakkal! Örülünk, hogy ilyen magas a sorozatok "meg-
+értési mutatója! a bevallottan amatőrök között (féhűnk, hogy ez a szám
+Jóval alacsonyabb lesz). Természetesen terveztük egy program bemu-
+tatását szóröstül-bőröstül, de inkább a sorozatok vége felé. Kérését
+figyelembe véve, megnézzük, hogy a már elkészült anyag mennyire
+hagyja magát átgyúrni a jogos igénynek megfelelően. Rokonszenvvel
+olvassuk, hogy Önt is a grafikus érdeklik elsősorban. A
+Számítógépes grafika még csak fejlődése ciső állomásainál tart, de már.
+a most elért ús izgalmasak. Az ENTERPRISE grafikai
+lehetőségei jó előtanulmányt - és kellemes kikapcsolódási - jelenthet-
+nek a jövő és a jelen grafikai programozóinak. Mindkét sorozat ki fog
+térni a grafikára. A gépi kód automatikusan engedi a grafika haszná
+Tatát, a Pascalt viszont ki kell bővíteni a grafikai eljárásokkal; a sorozat
+vége felé ennek is sor kerül. A kazettaküldéssel kap-
+olatban megígérjük, hogy elsők között kapja meg a SPRED aprite.
+dítort, amint a szolgálat beindul. Azt azonban nyilván Ön ís tudja,
+hogy ha a programot - vagy bármelyik másikat - egy "iettestárstól
+másolja át, akkor elvileg törvénybe ütköző cselekményt követ el; más
+kérdés, hogy hazánkban, a fejlett feudálkapítalizmus formálódása kö-
+7epette erre senki nem fordít figyelmet. Azt azonban garantáltan el
+
+AZ ENTERPRESS előző szárai korlátozott példányszámban még
+
+tendelhetők a kindő címén (MÁTRIX Kft. ÉD00 Székestebérvár, Hon.
+
+d u. 83. vagy megvásárolhatók a Mászaki Könyvárutázban ( Bp. VI.
+
+jeg tást E ES J s a FÓKUSZ Kövyváratáztan (Bp.VII ket-á-
+419
+
+"Tisztelt Olvasóinkt
+Arra kérjük Önöket, hogy utórendeléseiket és megrendeléseiket ne a
+szerkesztőség, hanem a kindó (Mátrix Kft.) címére küldjék, mert így
+Sokkal gyorsabban juthatnak hozzá kedvenc lapjukhoz. Köszönjük!
+
+A szerkesztéség
+
+Feet r Eg: v-TT-T-T-I
+
+Tindó egy DATACOOP DCD PRT 420. úpuró nyos
+
+12000 Fent.
+
+Érdeklődni a következő címen lehet ifj, Vaczkó Károly, 5667 Magyarbáshegyen
+
+PLIS.
+
+50000 MESTERJÁTSZMA egy profi sakkadatbázisban: MIKROSZEKUNDÁNS
+
+jobb, mint egy sakkeázó, ENTERPRISE o és Spocirumos működik, IBM PC-
+előkészületben
+
+Részletes információ: ifj. Lovass László, Telefon: (1) 183-65-16.
+idő egy RPR 210-es KÁRMÁN márinyomttó ENTERPRISE köbellel 6000
+Furért
+
+Bozai Gábor; 8000 Székesfehérvár; József A. u. 70fu. fsz. 1. Tel:22) 10.665
+
+Ki alarod husználai az ENTERPRISE ROM BAY adta lehetőségeket, vagy
+egyéb felhasználói célra kell handverprogram? Ajánlom több típus égetésére al-
+Talmas EPROM égetómet EP-128
+
+FÉrócttódni levélben: Fejes Peresc, 6100 Kiukunfélegyháza, Koszath L. a. 26.
+
+Bagát alám 3449 Felírámm Bartók Bár aa. ENTERPRISE klubok,
+TGNEMÁS MLS Fdal Vásár ét 1 ENTERPRISE köré csoportasult baráti tás
+Nocak Krlattlán, 8300 Vsszprém, Ányos a 4. Tel (50) 25.499
+Márfulál Bán, 4400 Nyíregyháza, ÚJ u. 24. ENTERPRISE zmákban levelezni dénénők
+
+tudja érni a programok jogtalan másolásával, hogy nem lesz olyan, aki
+rászán több heet vagy hónapot az életéből arra, hogy az ENTER-
+PRISE cihanyagok felhasználói eggyel több programból tudjanak vá:
+tasztani, A Turbo-Pascal fordítóprogramot két okból nem tudjuk el-
+küldeni: az egyik szóról-szóra megegyezik az előző nyolc-tíz sorban
+eírtakkal, azzal a kiegészítéssel, hogy a esetét
+jelentené; ha a programküldő szolgálat leple alart idegen szellemi ter-
+méket anyagi ellenszolgáltatás fejében forgalmaznánk. A másik ok jó-
+
+gépen működik. Mivel levelében nem említi,
+
+rendelkezik let De ne keseredjen
+den gyengesége és hibája ellenére igen jól használható az ENTER-
+PRISE-on.
+
+Végezetük olvasóink panaszkodnak, hogy gondban vannak a szer-
+kesztőség és a kiadó címe miatt. Nos, az új impresszumban szereplő
+cím a kindó székhelyének címe, ide keli küldeni például a megrendelő-
+lapokat, utórendeléseket. A postafiókra várjuk viszont a küldeménye.
+ket (lemezek, kazetták), leveleket, ez a szerkesztőség levélcéne, a stáb
+caak így érhető el. (A szerkesztőség "irodahelyiség
+
+egy kb. mástél
+négyzetméteres ssztaldot jelent eggik
+
+Nakásában.) Ezzel
+
+a megoldással : reméljük : napi néhány kiló kicipelésétől megkíméljük
+a ievélhondót. A Kiadót a lap terjesztésével, az előfizetéssel köperolttos
+
+ami a lap tartalmával, a cikkek minőségével kapcsolatos.
+Nem maradt más hátra, mint újabb két hónapra elbúcsúzni: bará-
+
+ian üdvözli Olvasói
+a felelős szerkesztő
+
+A Mikrovilág minden számában
+két oldalnyi terjedelemben foglal-
+kozik ENTERPRISE-os témákkal.
+
+HIRDETÉSFELVÉTEL,
+
+Az apróhirdetések ára: 1 Ft karakterenként. A szö-
+"veget és a befizetést igazoló nyugtát (rózsaszín pos-
+tautalványon) az alábbi címre kérjük elküldeni:
+
+TRIX Kft. anna
+ENTERPRESS
+5000 Székesíehérvár 9883
+Honvéd utca 8.
+
+Megjegyzés: a nem saját fejlesztésű szoftverek másolásával foglal-
+kozó üzletelők hirdetéseit nem áll módunkban elfogadni.
+
+Tisztelt leendő Szerzőtársak!
+Megszűntek a ,szigorú" formai feltételek,
+írásaikat bármilyen formában
+(papíron, .WP, .TXT fájlként)
+el tudjuk fogadni,
+
+A programokat továbbra is
+lemezen/ kazettán küldjék bel
+Címünk: ENTERPRESS,
+
+1399 Budapest, Pf. 701/334.
+
+ne szómíógápok felhasználóinak " 1. évtolyam B. szám " 1091. szeptember-október sze
+TA tizdb alma: MÁTFIK Kt. 8000 özókvetehárvár, Horád uten , Talafa
+
+NTAOK Ot, Szókastehánár
+za szóntar ramtan fzzjut 888 ves kelnőn szarta
+18, Lolanott §,
+

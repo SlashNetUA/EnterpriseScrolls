@@ -1,0 +1,940 @@
+"page1.png" ------------------------------------------------------------ 
+a GSDV INTO SHV L BOON JOVACIe. on |
+
+Kh,
+SRA:
+,
+
+kt
+Beerse
+
+KeS
+
+1
+
+e
+js %
+ves ii
+= bi
+bind Tr,
+oge JY
+f <; En
+EN }
+) SN |
+
+INS
+IS SS
+Lp
+
+SE EK
+
+"page10.png" ------------------------------------------------------------ 
+4
+Ë
+4
+
+ADG HIDE
+
+PROGRAMMA BESCHERMING
+
+Er zijn een aantal redenen te bedenken om programmatuur te beschermen.
+Een van deze redenen is dat je niet wilt dat iemand iets veranderd in het
+door jouw geschreven BASIC-programma.
+
+Wanneer in een programma geen enkele verwijzing naar een regelnummer
+staat ‘nan zen guete maren Me zaan (EIT an HOUR ve vanvtuken:s, dan kun
+je met her programma REG _NUL. BAS aile rege) \nummers op nul zetten.
+
+Zelfs een 32k groot programma. zoals EXOS M28.BAS, kan werken met alleen
+reaeìnummers nul.
+
+Je kunt in [S-BASIC geen rege lnummers g invoeren dus je kunt ook een
+regel niet veranderen.
+
+De LIST en RUN commando's worden door deze truuk niet beinvloed. AET fj
+geeft onmiddelijk sk, want deze regel bestaat immers niet!
+
+Slimme manipulaties om het programma te verlengen door het toevoegen van
+b.v MEE EET Ef sj MEE OM werken ook niet, omdat het statement END in
+de laatste regeì staat (oops, vergeten!, nee toch!?).
+
+Nu jullie allemaal regeì G willen hebben is de volgende truuk voor niet
+ingewijden wel leuk. Zoals trouwe lezers van dit blad zullen weten, is
+het vijfde byte van de, in in de machine opgeslagen BASIC-regel, 60H-96.
+Het zesde byte is de code voor het primary-keyword,
+Uit dezelfde publikatie van Richard Sargeant valt te leren dat het
+karakter ( een zelfde byte-waarde heeft als de code van het primary-
+keyword LET nl. de waarde 28H-40. Gelukkig kan het karakter }) ofwel 29H-
+41 worden verkregen door een numerieke variabele van 9 tekens te decla-
+reren. VIOLATION is er zo een!
+Wie op de tweede regel zijn/haar naam zet en op de derde regel LET
+VIOLATION=46 heeft ingetikt, kan na voltooiing van het programma in de
+‘direct-mode' z ADsLS.eb het vijfde byte van 96 in 46 veranderen.
+De waarde van Alk kun je makkelijk vinden door met een hexdump-
+programma in PROGRAM 1 het adres van het 60H-96 byte voor tt WIE ATIN in
+PROGRAM 9 te vinden.
+Wie het LIST commando geef t wacht een aardige verrassing!
+
+((Tussen haakjes) (Wie kent er een andere computer in deze klasse die
+meerdere programmaas toelaat))
+
+Als klap op de vuurpijl is het em teken ook nog een addertje onder het
+gras. De code van dit teken geeft 13H-19, dat is voor de meeste printer
+een OFF-LINE teken.
+
+Na LIST zijn deze printers met stomheid geslagen. LERINT OHREUF brengt
+de afdrukker weer tot leven.
+Helaas voor de slechte programmeurs werkt bv. LIST Ef weer wel omdat
+
+deze regel achter de beschermregel staat. Wie alle regels op @% kan zetten
+is voorlopig de spekkoper. Het programma kan gelLOAD, geSAVEd en geRUNd
+worden, zonder dat de niet-ingewijden er bij Kunnen.
+
+Na deze stap kun je, wat meer beschermd tegen ongewenst LISTten, je
+programma voorzien van PASSwoorden. Doe dit dan niet met een INPUT
+PROMPT, omdat dan het programma op het KEYBOARD wacht,
+
+18 —
+"page11.png" ------------------------------------------------------------ 
+PROGRAMMA BESCHERMING
+Een betere methode is de ID-beveiliging, die in de PCM van september 1986
+heeft gestaan en met INKEY$ werkt. Dit heeft als extra de mogelijkheid om
+‘non=printing=control-characters' te gebruiken. Waterdicht is dit
+
+ER:
+
+natuurlijk nog niet. (Ei ii, BE. EE WACHTWRD, HAS)
+
+Het wijzigen van het '‘'warm-reset-adress' naar een routine die een
+ongewenste gebruiker op een dwaalspoor brengt kun je vervolgens
+overwemen. In het uiterste geval Kun je een Koude-start genereren.
+
+Zo zijn er nog een paar andere truukjes te bedenken. Ze hepben echter een
+ding gemeen: ze wekken de nieuwsgierigheid op van juist die mensen tegen
+wie je het programma wilt beschermen,
+
+WK-records en beveiligingen zijn een uitdaging en roepen op om gebroken
+te worden. Wie behoefte heeft aan nog wat geheime truc's moet me op de
+gebruikersdagen maar eens aanspreken.
+
+In de programmatuur-wereid ziet men vaak dat jatwerk of knoeiwerk achter
+een bescherming wordt gecamoufleerd. We zijn per slot allemaal wat
+gevoelig als ons ‘egootje' op het spel staat. Dat goede wijn geen krans
+behoeft geldt evenzo voor software en de bescherming daarvan.
+
+Wil je wat van een ander programma overnemen wees dan wel zo sportief de
+oorspronkelijke maker/ster te vermeiden.
+
+‘Hier is het programma REG_NULL.BAS speciaal:
+
+"page12.png" ------------------------------------------------------------ 
+SOFTWARE LIBRARY
+
+cade filename ext bytes language description received required
+
+XK BUSINESS X&X
+
+B.004,0t SPELL DIR 153K [S-D03 Spelling checker with Engiish dictionary 08 Anr 86 D/E
+
+B,001,22 KRTN_BAK DER lek IS-BASIC Kaartencax svsteen 26 Aor 86 C
+
+B,C0L, 5 30 _ORAN JR Ae IS-ZASIL Teken orograa voor Interiace 28 Jun 36 £
+BOL. 04 COPOSER DIR Ek 15-BASIC Huziek invoeren op notendlad 30 Jul 36
+B, 001, ei SPRSHEET DIR ilk 18-BASIC clektrontsen rekenoiad 28 dan 37
+8.001,06 ANNUITEL BAS 8956 1S-BASIC Lening oereken 09 Sep Bh
+B‚001,07 JAARGRAF BAS 8200 IS-BASIC Maakt grafische jaaroverzichten 06 Sea 6á
+B,001,08 ADRESSEN DIR ijk 18-BASIC Adressenboek 16 Nav 86
+Ho 8.001,09 PACE DIR ök 15-BASIC Progranaa voor zend aaateur 28 Jan 87
+8.001,10 ARCHIEF DIR  9k IS-BASIC Database orograana 28 Jan 87
+Ë 8,001, tt SUP DRAW DIR 122k [S-BASIC Suner=aran teken orogranaa 28 Jan 87
+E 8.001,12 CONCLU DIR Ik IS-BASIC Trekt conciusies van uw gegevens 28 Jan 87
+E )N) B0O1,ES KALENDER BAS 2485 [S-BASIC Disoiays kalenoer 28 Mar 97
+L )N) B.001,14 GRT BOEK DIR Sk 1S-BASIC Grootboek arooraama 28 Mar 47
+)N> 8,001, 15 HUISHBOE DIR dk 18-BASIC Kuisnoucboexje 28 Mar 47
+
+KX DEMONSTRATIONS X&X
+
+XXX EDUCATION XXX
+
+D.00{,01 NETWORK BAS 12672 19-BASIC Network deno Oi Feb 36
+D.001,02 PICTURES DIR 210k 19-BASIG Fires pictures O1 Apr Bé D/E
+0.001,03 ENVELOPE BAS 5263 IS-BASIC Sound demo 26 Aar 86
+D‚001,04 FIETS BAS 2110 15-BASIC Tekening 24 Apr 86
+D.001,05 RUN HAN BAS 3144 I5-BASIC Running aan 24 Jun 86
+D.001,06 TIENTJE BAS 26521 IS-BASIC Tekening 28 Jun 46
+ü 5.001,07 CLOCK BAS  Flbé [S-BASIE Anaiage klak 15 Okt dó
+Ü B,001,08 GRAPHICS DIR 2k 1S-BASIC Fiquren in INTERLACE 15 Okt 9b
+E D,001,09 NANDEL BAS 2292 I9-BASIC KANDEL broad orogramaa 15 Okt 46
+E B‚001,t0 BOOR BAE 3093 [S-BASIC Tekent een boo 15 Okt 86
+5 D.90f. 1 MISC_D t DIR Gk 15-BASIC Graomic aeno's deel 1 15 Nov 86
+E D‚001,12 MISC D 2 DIR Bk [G-BASIC Grapnic demo's deel 2 lb Nov 46
+Î D,00t.13 PLOTTER DIR 29k 18-BASIC Graonic demo’s voor (sony) glotter ié Nov 36
+| DOOL, i4 OXYGENE BAS 17990 IS-BASIC Jean Micnel Jarre “OXYGENE part 11" 07 Dec 86
+D.001,15 WEERDENO BAS 10894 [G-BASIC Deao - het Heer 07 Dec 34
+Ì D.001,16 RUIMTE BAS 9177 1S9-BASIC Demo - ruiateschip 07 Dec 3
+i D‚00f,17 ENTERP BAS 10450 I9-BASIG Tekening = ENTERPRISE 07 Dec 86
+E D‚001,18 DURAN DIR 4âk 15-BASIC Duran Duran *Save a prayer" 28 Jan 47
+Ü E‚0Ô1,01 HOLLAND BAS 21076 [S-BASIC Ken je Nederland ? 25 Apr 86
+E,001,02 CENTEN BAS 15139 IS-BASIC Leren rekenen net geld 05 Sen dé
+E,00t,03 KEYBOARD BAS 30739 [S-BAGIC Geeft informatie over het toetsenbord 05 Sep Bà
+£,001,04 KEYTUT BAS 11887 15-BASIC Kevbaard tutor 05 Sep 86
+£,001.,05 KLOKKIJK DIR 2Ik [S-BASIC Leren klok kijken 3i Dec 86
+E.001,06 LEZEN DIR Sik IS-BASIC Leren Lezen 31 Dec 86
+E.001,07 VERTAAL BA5 8287 I5-BASIC Vertaal oefening 28 Jan 87
+
+_ 20 En
+
+"page13.png" ------------------------------------------------------------ 
+)ND 6.001,28 TARGET 2 DER bk 15-BASIG Raak de target
+
+SOFTWARE LIBRARY
+
+code filename ext bytes language description
+
+KN GAMES HEX
+
+6.001,01 ZBOCHESS DER i3k 15-00 Chess
+
+6,001,02 OTHELLO BAS 17201 IS-BASIC Otheija (reversi)
+
+6.001,03 WOOPER BAS 16455 [5-5ASIC Fpellatse net sprites
+
+6.001,04 HAPSLANG BAS 3368 iS-HASIC Eet ae viiegen
+
+6.001,05 EXPERT BAS IaZ [S-BASIC de comouter raad net !
+
+6.001,06 ROULETTIE BAS 5847 1S-BASIC Kouiette spel
+
+6,001,07 AUTO BAS 867 15-BASIC Ríj rond circuit
+
+6.001,08 TRON BAS 4898 IS-BASIC Soel aet aotors en auren
+6.001,09 PATROON BAS 9398 IS-BASIC Het onthouden van natronen
+beOÓl, IO HEKÜRY Bä5 8057 iS-BASIC Zoek twee oezeitoe oiaatjes
+6.001,11 BKE BAS 5892 IS-BASIC Boter vaas en eieren
+
+6.001,12 GALGJE BAS 5422 I5-BASIC Het spelletje Galgje
+
+5,001, 13 HENSERGJ BAS 11371 15-BASIC Mens, erger je niet!
+
+6.001,14 BINGO BAS 3137 IS-BASIC Genereert numaers (75) voor bingo-spel
+6.001,15 ADVENT DER 189Kk I5-DOS Vitgreoreid ‘Colossal Cave’
+6.001,16 GEVAAR BAS 22743 15=BASIC Nedertanastalig Adventure
+6.001,47 TTTT BAS 7019 18-BASIC Tic Tac Teo Tor
+
+6.001,18 CUBOID BAS 11957 1S-BASIC GiBert
+
+6.001,19 MASTER DIR bk [S-BASIC Raaa het nuager van de coaouter
+
+6.001,20 REAKTIE BAS {120 [S-BASiC Reaktie test
+6,0ÖL. 2E HENORYI BAS 1643 19-BAGIC loek twee dezelfde olaaties
+
+6.001,22 GENIEUN IE 2ôk IS=BASIC Àls je apaiëuw gebaren dafdt
+6.001,23 DÛLROF BAE 425h [E-HASIC Daalhaf uitarinten
+
+6.001,24 MARKIEZ BâS J@lt [S-BASIC “Markiez van Bercen on Zoon”
+6.001,25 GALG BAS 678 [S-BASIC Galgje
+
+6.001,24 GROTTEN BAS 16063 1S-BASIC Avontuur
+
+6.001,27 SNELLEL BAS 3659 15-BASIC Lees snel en raad het waard '
+
+ê
+
+XXK PROGRAMMING X%X
+
+P,001,01 BASICODE DIR tk 15-BASIC Basicooe
+P,001,02 NPS CBL DIR Fk IS-DOE NPS Micro Cobol ver 2,Ì
+P‚001,93 AVONTUUR DIR Bik [S-BASIC Haak uw ergen avontuur
+
+XXK ROUTINES XXX
+
+R‚OOL,O1 CONVERT BAS 1780 IS-BASIC Hex/Deciaal/Binary convertion routines
+R‚00L,02 SORT BAS 1559 IS-BASIC Sort routine
+
+R, 001,03 ALLOCATE BAS 334 IS-BASIC Allocate bug work-a=round
+
+ROO1,04 XR HEAD GEN 1792 DEVPACK Standard Header for systen extensions
+R.001,05 INV PROC PAS 3557 PASCAL Invoer routines (Quasar Pascal 2}
+R‚001,06 FUNG BA5 13034 [S-BASIC Basisprogramna voor Fkey besturing
+
+received reguired
+
+Ol Apr 86 D/E
+2b or 86
+
+26 Apr 84
+
+26 Aar 86
+
+26 Apr dé C
+28 Jun 86
+
+28 Jun 86
+
+25 Jun 86
+
+25 Aug 84
+
+45 hug 84
+
+25 Aug 34
+
+0b Sep 46
+
+06 Sen 36
+
+15 Okt 96
+
+Ol Apr A6 D/E
+13 Apr 34
+
+07 Dec 34
+
+07 Dac 84
+
+07 Dac 84
+
+07 Dec 36
+07 Dec 86
+
+1 hee db
+28 Jan 87
+28 Jan 87
+2B Jan 47
+28 Jan 87
+28 Jan 87
+28 Mar 87
+
+26 Aor 84
+Ot Apr Bé D
+28 Jan 87 D/E
+
+Ól Feb 86
+O1 Fab Bh
+01 Feb Bà
+
+O1 Feb 6b
+07 Dec 86
+28 Jan 87
+"page14.png" ------------------------------------------------------------ 
+SOFTWARE LIBRARY.
+
+\
+
+lionaae Loti uired
+‘filenaae ext bytes languäge description received reaul
+
+3088 AP Systen vartanles etc Ol Fen 86
+
+37ië äP Hoe B3ASIC aggesiagen Horct Di Feb 86
+
+4756 & Character ser tá0ig OL Feo 86
+
+“Pg dig aP Fouten in BASIC 2,0 24 Jun 36
+
+Ò1.65 GE SRINT HPB 11990 HP Besturing van GE fAP={000 orincer 07 Dec Zé
+1,06 BASIC 2 DIR Ik WP Basic varzangien & keywords 07 Dec 86
+1,07 AANSLUIT HPB 4435 HP Enterorise aansluitingen 07 Dec 86
+
+kx UTILITIES KX%
+
+U‚001, 91 CO8Ô DIR 4k DEVPACK Verandero EDITOR naar 80 caluans Óf Fen 36 €
+y.001,02 SDIR BAS 5058 1S-BASIC Sorted directory naar FX-80 28 Jan 87 D/P
+U,001,03 DATA geN BAS 2196 [3-BASIC Data stateaent generator Öl Fab 86
+U,001,04 LU BER 20k 18-D0S Linrary Utitity Ôl Apr 86 D/E
+U.001,05 SSUEEZE DIR bk 19-D0S File squeezer 13 Apr â& D/E
+U,001,06 LOCK BER 2ák 15-D0S File Lock/Únlock 13 Aar 86 D/E
+4.008,07 VSLD DIR Jk 18-BASIC Video Save/Load/Duag utilities 13 hor 86
+U,001,08 BASIC2Ó DIR ik 18-BA5IC Kenory nan - I9-BASIG 2,0 26 Apr 86
+
+MU Y.001,09 KONITOR DIR 30k IS-BASIC Koni tor 28 Mar 37
+U,001,50 DISSASM BAS 11266 IS-BASIC Disassendler it Apr 86
+U.00f,1t FONTSY OER 12ik 15-109 Banner orint utiiity 25 Aor 3h D/P/E
+y,001, 12 KBRD DIR 4k DEVPACK Keyngard transiator for Worustar 2b Apr Sb D/E
+H,00L,13 SOURP DIR Ik DEVPACK Screen duao naar EPSON 26 Aar dé P
+U,001,14 HEXDUMP BAS 11477 1S-BASIC Hex dunp 02 Mei 86
+
+U,001,15 ANGLOSAX BAS 11638 1S9-BASIC Angiosaxsisen voor graftscne orinter i0 Seo 36 >
+U.001.16 DOWNLOAD BAS 18072 15-BASIC leif def,cnar,set voor printer/Enterorise 10 Sep 86 P
+U,001,17 SUPERKEY BAS 1270 iS-BASIC Verandert keywora PRINT in anger keyword 15 Okt B6 £
+
+eN Ante f
+
+Pere AN ENSANELRE
+
+)ND U,001,35 REM KILL BAS
+
+|
+
+(8 U,001,i3 KLEURKO BAS 7808 i5-BASIC Electramca utility 15 Okt 86
+
+ú U,001,19 DUNPER BAS 1607 15-BASIC Geeft een teaory duso In supscriot 15 Okt 86 P
+E U.001,20 SCHRIFT BAS  3I52 1S-BASIC Maakt een ander letter type 15 Okt 96
+
+Ù U,001,2L ESCAPE DIR dk [S-BASIC Maart escane seduences vaar NICK 5 Okt 36
+
+ĳ U.00f,22 STOPTIME BAS 2280 IS-BASIC Stopwatch 15 Okt 86
+
+E U,001.23 WACHTERD BAS 3415 15-BASIC Bacentwoora utility ib Nov 86
+
+i ‚001,24 OPBELLEN BAS 5102 IS-BASIC hutodial utility lé Nov dé
+
+d U.001.25 FKEY DIR lék 'C? Define function keys under [S-DOS i6 Nav 86 D
+ĳ U,001,26 TĲD 64 BAS 1571 1S-BASIC Klok in status line 07 Dec 86
+
+E U,001,27 TĲD 128 BAS 1572 [S-BASIC Klok in status line 07 Dec db €
+| U,001,28 KLEURMIK BAS 1142 IS-BASIC Kleur mixer 07 Dec 86
+
+| U,001,29 SETKLEUR BAS 1960 IS-BASIC Zoek kleur kade 07 Dec db
+
+| U,001,50 CHAR SET DIR Ik 1S-BASIC Laad/Save character sets 07 Dec 86
+
+E U,001,3L KEYBOARD DIR !4tk DEYPACK Keynoard overlay 28 Jan 87
+
+k DN) Y,001,32 CHARDEF2 DIR ilk IS-BASIC Character definer 28 Mar 07
+
+2995 IS-BASIC Verwijdert REMarks uit BASIC prograaaa's 28 Mar 87
+
+"page15.png" ------------------------------------------------------------ 
+HET BESTUUR
+TTT.
+
+Stan Tuinder, ….......
+Willemstraat 170,
+
+2713 AJ ZOETERMEER
+079-1695233
+
+tee es
+
+Erik Berends,
+Kroonkruid 40,
+
+eee ee tk AEN OEL EEA en en ee ee
+
+ma-vr 18.00-22.00 uur
+
+ledenadministratie enz,
+
+2914 BN NIEUWERKERK a/d YSSEL
+
+01803-17051
+
+‚ Stan Tuinder
+Menno Bins,
+Dollardstraat 92,
+
+7523 GS ENSCHEDE
+053-351043
+
+ee eene ee
+
+een eee ee ne
+
+Hans Roelofs,
+Calsplantsoen 47,
+
+1945 SL BEVERWIJK
+02510-46630
+
+ee ee a ee ee
+
+BIBLIOTHEEK ‚ Richard Sargeant,
+
+Reigerskamp 690,
+3607 JP MAARSEN
+03465-65086
+
+ree ene en ee
+
+REDAKTIE Robin Ketelaars,
+
+Geerweg 2,
+2611 VN DELFT
+0015-126422
+
+Eee eee ANALE ENC EAOE DD, ee ne
+
+ee ae ee ee en
+
+ma-vr 20.30-23.00 uur
+zie voorzitter
+
+expert spelen
+
+expert educative software
+
+ma-vr 20.00-22.00 uur
+
+. beheer en aanvraag software
+
+ma-vr 19.00-22.00 uur
+
+adviseur/redacteur
+
+tussen 19.00 en 23.00 uur
+
+De regio's kennen de volgende kontaktpersonen:
+
+NOORD-NEDERLAND
+
+ree ee ne ne
+
+Peter Hofstee
+
+OOST-NEDERLAND Zie LID-A
+
+WEST -NEDERLAND Zie bestuur!
+
+Kees van der Dong
+
+05945-16736
+050-7775850
+
+nee ee ene ee ee ne
+
+tee enn en ee os ee ee ae ee e
+
+ne ee
+
+behalve LID-4
+
+enne eee ae ne ee se
+
+GELDERLAND ............…. Peter van Helvoirt .….…............. 08885-2186
+ZEELAND en. Ben Sinke ........svevnnen eenen 01185-2525
+NOORD-BRABANT ..........n Rob Hanssens senden 01651-1245
+LIMBURG Stichting Synthese Studio .……...... 043-617623
+
+vraag naar Rene terHorst of Jos Mulders
+
+23
+
+verder geen aktiviteiten?
+
+|
+"page16.png" ------------------------------------------------------------ 
+BERICHT VAN DE _ PENNINGMEESTER
+
+EELLELEL
+
+u
+
+1 dÂ 7
+sa [1
+“ mvr mn Een, „Ts
+xr U Oer Ch MI ki
+(rrd a. Dr 5 WD De rd in
+en eed eet | an an ie emjed p= N
+adi ZO mah EG CL d
+" s „ Ni ,
+LG DO Di El 5
+di permen ij Fenna ee nge een al et en,
+is ÍS ee Mm Oerd Tm OO MLS Ed) a
+„opta Ee rrd a Ee ed
+DON Hed 0 BO >
+| od | Op
+
+DO na « D
+ede ae GG Ht n ee 8
+Es TO Hen EN
+
+Ld
+bt
+
+|
+', 8; npe Ì |
+U en PG OT ber
+
+2d
+
+"page2.png" ------------------------------------------------------------ 
+"page3.png" ------------------------------------------------------------ 
+De landelijke gebruikersdagen werden regelmatis. door demiddel
+
+JAARVERSLAG DEUG
+
+Het afgelopen jaar. neeft zich. ‘gekenmerkt door wijzigingen in B
+samenstelling, het. faillisement van. ENTERPRISE LTD en de. aanvankelijk
+_ onzekere overname van de rechten. door. de duitse importeur van ENTERPRISE.
+
+_Door deze verwikkelingen en. de. nog. onzekere toekomst stonden de aktiva
+“teiten op een. Laag pitje. maar mede door de inzet an de kontakten van
+Albert Hekman e.a. werden de perspektiven op voortzetting en intensiven
+ring van onze. aktiviteiten beter, en. werd besloten ons op. de HeC-dagen be en
+gaan presenteren. an on en On
+
+Wi kunnen. daardoor terugzien. op. een nog. steeds \oroeiend ledenaantal.
+Door. verbetering. van vorm en. inhoud. „ern: niet. in de. laatste plaats. het B
+regelmatiger verschijnen. van ons. clubblad. heeft de. vereniging een goed a
+visitekaartje. gekregen. Dit dankzij ‚de de enthousiaste inspanning van …
+Robin Ketelaars en Engena (stets. An Eee
+
+De kwali= en kwalit seat van. de inzendingen. voor. de SotewareLibvarv. zijn.
+na een aarzelend begin. duidelijk. toegenomen. Omdat iedereen. de de
+
+mogelijkheden. van de. ENTERPRISE Steeds beter weet te benutten, a
+
+er steeds. betere programmaas.
+
+De ENTERPRISE is. mede door. de gerealiseerde. geneusenuitbreidingen. B
+toegepaste. diskdrives. en. CP/M-software nu nog beter te benutten. als. echte
+oo \Personal=! en/of. 'Home-Computer waarmee teksten verwerkt en nn
+geschreven. kunnen. worden. DD a
+Met de instelling van een aanmoedigingspremie voor zoede programmaas en
+hopen we dit verder te stimuleren. On ee En
+
+50 a 60
+
+mensen. bezocht. en er. werden in, een geanimeerde stemming. vele ideeen Uien
+
+gewisseld. en geboren.
+
+Door het. initiatief. van. een aantal “eracks' op hard- Ee
+zijn. voorzover. nag. niet. gereaiiseerd, interessante. ontwikkelingen. met
+ER betvekk ing, Lo onder. andere communicatie en interfacing van fandapparatuur 8
+
+en. software gebied. En
+
+ne ide aanschat. van een printer en twee drives heeft heeft de vereniging
+een begin gemaakt de administratie verder te stroom: ijnen, sodat dit
+_ efficienter op de diverse locaties kan, verlopen. on D on
+
+De. instelling. van veoionale. gebruikersgroepen. is nóg. niet voladende: uit.
+de verf gekomen. Dit. met. uitzondering van. regio. noord, welke. goed. draait.
+en daardoor. mede. tot. de. ledenaanwas. bijdraagt. Niettemin zijn er positive En
+
+…_ tekens. uit de. overige. regio! Ss, zodat we. goede hoop hebben dat en nadere
+
+initiatieven ontplooid gaan worden.
+
+DE. JAARVERGADERING. 1987 VIND PLAATS.
+OP DE GEBRUIKERSDAG OP, 16 MEI 1987 En
+KOMT GEEN EER VERENIGING a
+
+"page4.png" ------------------------------------------------------------ 
+en BEGROTING. VOOR 1es8
+CONTRIBUTIE 180x45 on a 8100, 0
+
+On | _ 8100, 00
+_uIToAvEn S
+
+ENTERF REE a 6 StUKS oden 3000. oo Gen
+GEBRUIKERSDAGEN ... 6 stuks unne. 750,00
+__JAARVERGADERING 1 keer outen 290,00
+__BESTUURSKOSTEN arenteeneneneneensnnens 250,00
+SECRETARIAAT \. porto ete. 750.00
+__SOFTWARELIBRARY On “schijven Sn
+en on iherdware 1000-0000
+5e en
+REGIONALE GROEPEN oenen 100000
+PRESENTATIE HCCSDAGEN een 400.00
+ON U 0 9 R ZE E N Oneens 200000
+
+| too En
+ASENDA VERGADERING.
+
+OPENING. EN MEDEDELINGEN. en
+
+__ KEURING NOTULEN DD 21=06- 86 (zie Enterface dee, 266)
+
+VASTSTELLEN AGENDA En en
+
+JAARVERSLAG DOOR DE. VOORZITTER.
+
+VERSLAG VAN DE KASKOMMISSIE en
+
+_KANDIDAATSTELLING/HERVERKIESBAARSTELLING BESTUURSLEDEN
+
+VERKIEZING. NIEUW. BESTUUR. EN NIEUWE. KASCOMMISSIE
+
+9 VERSLAGEN VAN DE HARD- EN SOFT-WARE SECTIE'S a
+
+10 VERSLAGEN VAN DE KONTAKTPERSONEN VAN DE REGIONALE GROEPEN
+
+1 VERSLAG VAN DE AFDELING ‘ENQUETES On
+12 TOEKOMSTIGE AKTILMV E T E 1 T E Nn
+
+13 _ BEGROTING. EN. VOORSTEL. KONTRIBUTIE 1988.
+4 _RONDVRAAG. a
+a do SAUERING a
+
+vevoasenn |}
+
+Bn Neem: deze Bijlage mee. naar. de vergadering. want dan heb je alles bij
+Een Ode hand. de informatieve ENTEREACE kun Je dan. thuis laten!
+
+En de. pauze. kunnen. we van. ons overgebleven. Lidmaatschapsgeld een
+koffie drinken. (alesis mellek) on en en
+
+|__ Deze NIETJES-bijlage 1S verwijderd uit de. ENTERFACE-exemp laren. die
+____ naar verschillende bladen en clubs gestuurd is. Deze adressen. zullen.
+
+_ samen met die van. ons in. de volgende ENTERFACE gebubliceerd. worden! Ee
+"page5.png" ------------------------------------------------------------ 
+ZROEK GEEFT TIPS
+
+Je kunt beeld en geluid opslaan op DISK: en TAPE: . Dít kan niet alleen
+met 'EXTENSIONS' zoals VDUMP ed., het kan ook in gewoon BASIC. Je moet
+alleen even weten hoe dat eigenlijk gaat.
+
+Hetgeen je opslaat is de 'ESCAPE-SEQUENCE' die het eigenlijke beeld of
+geluid vanuit BASIC maakt. Je hoeft deze dus alleen maar om te leiden.
+
+Tei in ven 2ngelst en op te slaan op je eigen medium.
+
+We hebben nu niets gehoord. alìieen het geluid van draaiend TAPE: of DISK:
+Om het geluid, de melodie of het muziekstuk te horen kun je doen:
+
+of doe
+
+ID
+t
+1
+t
+'
+ij
+
+Onder IS-DOS kun je het geluid nu ook laten horen. Wanneer je nog niet in
+‘BASIC bent geweest moef je eerst de geìuidsbutfer niet meer nul maken.
+dan Xun je het geluid of de geluiden laten horen.
+
+eerst dit hoeft maar een keer!
+dan
+of voor veel muziekplezier!
+
+Dit zelfde kun je ook doen met een plaatje dat je in basic hebt gemaakt.
+
+zE
+
+Je zag nu natuurlijk niets gebeuren. Wil je het plaatje zien dan doe je:
+
+Onder ISDOS mist de mogelijkheid plaatjes te laten zien. Het moet volgens
+de EXPERTS mogelijk zijn om ISDOS een grafisch scherm te geven dat je
+naar believen. kunt openen met bv. BGHOFEN GerAPrit: (wie o wie).
+
+13
+"page6.png" ------------------------------------------------------------ 
+ZROCEK SLAAT TEKENS OP
+
+Hier een truuk om tekens op te slaan op DISK: of TAPE:
+
+ACCESS OUTPUT
+
+„GA, OZ
+
+ted ea
+
+Wii je dit teken hebben dan doe je
+
+onder BASIC
+onder EXDOS
+onder 1S5DOS
+
+Heb je bijvoorbeeld een programma waar een mooie of andere tekenset in
+voorkomt en je wilt die graag een andere keer gebruiken dan is onder
+staand programma erg handig om die tekenset op te slaan.
+
+Je zet het programma in bijvoorbeeid PROGRAM 1 en je tikt
+
+Chal Hette! }
+
+Je krijgt dan het file TEKENS,CHR dat je dus kunt laden zoals boven. Ook
+onder de WORDPROCESSOR kun je deze tekens laden. je drukt F8 en tikt
+
+GPV TEEEKERG, ZHR WIDE:
+Hier is het programma:
+
+RoT
+
+Je zet dus de 'ESCAPE-SEQUENCE' voor een tekenveranderina in een file.
+Hier is dat ESCAPE K <tekennummer? en 9 bytes voor te definieren teken.
+In BASIC dus: SET Enummer: CHARACTER tekennummer,a,b,c,d‚e,f.g.h,i
+
+In regelnummer 200 staat CHAIN O(1) dit kun je gebruiken om direct weer
+naar PROGRAM O0 te komen. Je programma runt meteen. Wil je dit voorkomen
+
+dan tik je in:
+
+(STOF)
+
+tE kait
+
+100 PROGRAM
+
+AAL TUS JOUW BERT AMA
+
+IED ten hieronder
+"page7.png" ------------------------------------------------------------ 
+WVDPUMP OPNIEUW
+
+Het VDUMP.XR programma is als een zg.'RELOCATABLE SYSTEM EXTENSION! in
+omloop. Dit betekent dat van elk byte moet worden aangegeven of het een
+absolute waarde voorstelt, danwel een relatief adres.
+
+De methode die EXOS volat js het interpreteren van extra bits bij het
+inlezen van de bitstream.
+
+Het absolute byte 19911941B-99H-153 zai worden vooraf gegaan door een
+extra 8. In de bitstream is dit 014011001B maar op de disk is het 4CH en
+het laatste bit worát het eerste bit van net volgende byte.
+
+Met dit doorschuiven van bits blijft er weinig herkenbaars over.
+
+Er is echter een lichtpuntje, het byte GGH met de extra 4 zal op schijf
+minimaal 9 opeenvolgende nullen geven. De twee Z-=-nibbles zijn terug te
+vinden, al dan niet verdeeld over een of twee bytes,
+
+Om een lang verhaal kort te maken: byte 272 van VDUMP.XR heeft de waarde
+
+2DH-45. Voor de dauble density mode moet dit 31H-49 zijn.
+
+Voor het veranderen van 8/72 naar 5/72 linefeed moeten twee bytes worden
+
+gewijzigd, omdat essentiele bits aan een volgend byte zijn overgedragen.
+
+Byte 623 heeft de waarde J4H-4 en moet G2H-2 worden. Daarna moet byte 624
+veranderen van 3FH-63 in BPH-191.
+
+Zonder disk-utility programma's kan ieder met een diskcontroler een
+"RAMDISK openen.
+Doe dan:
+
+A
+
+Prik met FRE Ed : naar het juiste segment, dit moet de waarde
+7 zijn. Klopt dit, dan BEE dre: testen op 45 en met SHORER 5 ZEE
+bent U aì een eind op weg.
+
+Zijn de laatste twee bytes gewijzigd dan is :C0FY Ex Ai of :COPFY Ez TAPE
+het sluitstuk van de operatie. :
+
+Onderstaand BASIC-programma doet eigenlijk hetzelfde:
+
+5 OLE bmm Kweede cassette aansiurten
+
+"page8.png" ------------------------------------------------------------ 
+ei
+
+SIE
+
+Sj
+
+|
+il
+dl
+Ei
+ä
+
+VE ETET
+
+Rn
+
+MOIDEM
+
+Het gebruik van een MODEM via de serijal/net aansluiting van de ENTERPRISE
+valt nogal tegen, omdat EXOS te traag is om snel achter elkaar binnen-
+komende karakters te ontvangen.
+
+Ik heb een machinetaalprogramma geschreven, dat geen gebruik maakt van
+EXOS en hierdoor veel sneller is.
+
+De eigenschappen van dif communicatieprogramma zijn:
+
+k__Baudrate 300/300. 1200/1200. 1200/75 en 75/1200. Met kleine wijzi=
+gingen zijn andere baudrates mogelijk. tot 4800 baud (9600 op 128k-
+6Mhz)
+
+* 80 koloms scherm met scrolling. De schermbesturing is snel genoeg om
+binnenkomende text bij te houden (XON-XOFF is niet nodig).
+
+“ Het modem moet aangesioten worden op de serjiai/net connector.
+
+* Het programma maakt communicatie mogelijk met met computers van
+bedrijven, universiteiten. andere modemgebruikers en bulletinboards
+zoals HCC-f ido.
+
+* Het programma staat op cassette en wordt gestart vanuit Basic.
+
+U kunt het programma bestellen door f 25.- over te maken oep mijn gironummer
+
+Een viditelprogramma en een programma om files over te sturen (XMODEM) is
+in voorbereiding,
+
+Op de gebruikersdag, 17 januari. demonstreerde ik een prototype van een
+speciaal voor de ENTERPRISE ontwikkeid MODEM. Als er voltoende belang
+stelling is, (ca. 5 personen) wordt voor dit modem een printplaat
+ontwikkeld. Het gaat dan f 280.- kosten, kompleet met kastje, connectoren
+en bovengenoemde software. Eigenschappen zijn (onder voorbehoud):
+
+x V21l en V23 standaard (300/300, 1200/75 en 75/1200 baud, originate en
+answer)
+
+* modem IC AM7910
+
+* gescheiden van het telefoonnet dmv optocouplers
+
+x afmetingen 10 bij 5 bij 2.5 cm.(otf iets groter, afhankelijk van het
+
+printontwerp). Dit kastje wordt achter op de ENTERPIRSE gestoken in
+
+de serial/net en control2 aansluitingen. De printeraansluiting blijft
+
+vrij bereikbaar voor de printerkabel.
+
+LED's voor: 300bd, 1200bd, receive, transmit, carrier, online.
+
+autodial (modem belt zelf op, geen telefoon nodig)
+
+autoanswer (modem neemt zelf 'de hoorn van de haak')
+
+bediening geheel softwarematig vanuit de ENTERPRISE
+
+Voedingsspanning vanuit de ENTERPRISE ( 5 volt, 200 mA )
+
+Ook met andere computers te gebruiken. (RS232 compatible)
+
+% KX 4 4% OH
+
+Als U belangstelling heeft, schrijf dan even een kaartje. U krijgt dan zo
+spoedig mogelijk bericht. De levering zal in April zijn.
+
+nrd Teen à
+
+Rnoeluaf J.Harsk, Malenstvaat
+"page9.png" ------------------------------------------------------------ 
+APE INDEX
+
+Hier een programmaatje dat een index maakt van wat er op een bandje staat,
+Deze index wordt in eerste instantie op het scherm geprint en kan door
+middel van het veranderen van de variabele LIJST op regel 140 naar de
+printer worden gestuurd.
+
+Het werkt aisvolat: In regeì 170 wordt de header van het eerste programma
+binnengehaald. Daarbij wordt de naam van het programma in de statuslijn
+gezet. Omdat de computer verder gaat met de uitboering van het indexprog—
+gramma blijft deze naam in de statuslijn staan.
+
+In regel 190 gaan we letter voor letter op het scherm printen door middel
+van een for-nexf-lus.
+
+Nu ook nog een listing om een kopie van een hele tape te maken. Je hebt
+dan wel twee cassette recorders nodig. Deze sluit je dan aan op INPUT en
+REMI. en OUTPUT en REM2. De bestemming is natuurlijk ook te vervangen
+door een disk, maar dié bezit ik helaas nog geen interface.
+
+nne:
+
+KE oled
+
+ELIUST: “oroaranma
+
+5 OUTPUT
+
+Pater wan Heiwvainmt, Ai euwe
+
+3E Za 649 DE DOGEWAARK
+
+Li
+
+17

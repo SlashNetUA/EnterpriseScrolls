@@ -1,0 +1,1658 @@
+"page-000.jpg" ------------------------------------------------------------ 
+IV. évfolyam 4. szám XX 1993. július-augusztus X Ára: 46- Ft
+
+ENLEREREL55
+
+KÉTHAVILAP AZ ENTERPRISE SZÁMÍTÓGÉPEK FELHASZNÁLÓINAK
+
+Miért maradtál
+az ENTERPRISE-nál?
+
+Megkérdeztük szerkesztőségünk két tagját, hogy miért
+maradt meg ENTERPRISE gépénél
+Matusa István:
+
+1987 óta van ENTERPRISE gépem. Sokat köszönhe-
+tek ennek a számítógépnek. Ezen a — szerintem
+
+nagyszerű - gépen tanultam
+AR
+
+meg a lemezkezelést, amely
+kis eltérésektől eltekintve ha-
+
+MBLY RUTINOK
+Gyökvonás
+
+zeléséhez. olyan
+munkakörbe kerültem, ahol a
+szedés-tördelést . számítógó-
+
+el
+
+nem látom értelmét. A programokról néhány ész-
+revétel: Elég, ha megnézzük mondjuk a Mozaik ne.
+vű programot, amit Haluska Laci írt. Nézzük csak:
+a gyorsasága ugyanolyan mint az IBM-en, grafi-
+kailag szorosan megközelíti az IBM-en írt progri
+mot (ott Block Out a neve), de próbálja valaki
+összehasonlítani a két program méretét.
+Nekem van ,szerencsém" IBM. gépen programozni,
+mivel ilyen iskolába járok. Az a véleményem, hogy
+az IBM gépi kódú programozása lehet, hogy sokak
+szerint jobb, de szerintem
+
+az ENTERPRISE-é sokkal
+inteligensebb és logikusabb.
+Például: IBM-en a feltételes
+ugrásoknál ugyanarra a fel-
+2 ( tételre 3 utasítás is van, de
+Z Ű például — nincs — feltételes
+
+pen kellett végezni. Nagy el-
+
+sonló az IBM
+IGONSÁGOK
+úny volt számomra; hogy a [/JDONSÁGOK
+
+3 ] CALL és RET utasítás és ez
+nagy hiányosság! Bizonyára
+
+DOS-műveleteket már ismer.
+tem... Miért maradtam még
+is az ENTERPRISE-nál? Ez a
+gép minden — tekintetben
+Szimpatikus. számomra. Ta.
+lán ki fognak nevetni, de sze-
+rintem annyira nem árt az,
+hogy magunkra hagytak min-
+
+DTF-kicsomagoló II.
+
+PROGRAMOZÁSI FOG;
+MELL
+
+HASZNOS PROGRAMOK
+
+ÁSOK
+FOGÁSOK II.
+Megjegyzések a CYCLOPS játékprogramhoz
+
+sokan áldják az ENTERPRI-
+SE 6-os és 7-es fejlécű fájljait
+(rezidens programok),  pró-
+báljon valaki IBM.-en írni egy
+rezidens. programot, mond-
+juk EPROM.ba égethetőt, Jó,
+jó, mondják sokan, ott a win.
+
+ket (Centrum,  Novotrade),
+mert Így mi is fejlődünk, me.
+részebbnél merészebb dolgokba
+kezdünk. — Játékprogramokat
+írunk vagy átírunk, szuper
+felhasználói programokat ké-
+
+HARDVER
+Emulátor-
+
+f LEÍR
+Dizzy 5. 4 térkép
+
+nzáció!
+
+Szítünk, bővítő-kártyákat ter-
+
+áb Ner tolnak [ A kérdőívek értékelése "
+
+vezünk
+
+577 f/ ehester... ...de vannak víru-
+
+sok is, nem is kevésl Több
+
+8-9 ] gépet is ismerek, amelyek
+
+(89 ( nyilvánvalóan jobbak az ÉN-
+TERPRISE-nál, de szerin.
+
+tem az ENTERPRISE a
+
+10-11 Í leglogikusabb felépítésű gép.
+
+Tir 12 ] Ezértén ennél a gépnél fogok
+
+maradni!
+
+mindent az orrunk alá és ez
+
+bizonyos mértékig jó. Azt az űrt amit a két említett
+cég hagyott maga után, az ENTERPRESS lelkes csa.
+Pata próbálja kitölteni. Hobby-gépként szerintem ma
+az ENTERPRISE a legjobb! Mi nem engedjük eltűnni,
+
+akármi is leszt
+
+Németh Zoltás
+Én is hasonlóképpen tudom csak kezdeni: nekem is na-
+gyon sokat segített az ENTERPRISE számítógép. Nem
+tudom azokat az embereket megérteni akik büszkék
+Számítógépükre. Bekapcsolják a gépet, élvezik ahogy
+leteszteli a gép a 18 megabájt RAM-ot, ja és ott van
+a 200 megás winchester stb. Mindez csak azért hogy
+játszhassanak a 10-15 megát elfoglaló csúcs(?) játék-
+programokkal, ugyanakkor a géphez nem is értenek.
+Talán mindenki tudja, hogy melyik gépről beszéltem.
+Ne értsenek félre, én tisztelem azokat akik az IBM-et
+Profi célra használják (DTP, nyák-tervezés, programo-
+7ás stb), de hogy valaki a gépével dicskeszik annak
+
+Tisztelt Előfizetőink!
+
+Értesítjük Önöket, hogy az előfizetési c
+jat az ÁFA augusztus 1.-i JNLASAA NI
+nem emeljük ebben az évben. T
+jiremebáj inkább a lap színvonalál
+
+előfizetők beszervezésével.
+
+Kovács Gábor
+a kiadó vezetője
+
+"page-001.jpg" ------------------------------------------------------------ 
+ENTERPRES
+
+1993. július-augusztus
+
+Assembly rutinok
+
+Gyökvonás
+
+Az ENTERPRESS 93/1-2. számában megjelent Assembly
+rutinok című cikk szorzórutinjával a hatványozás is meg-
+oldható. Most a négyzetgyőkvonásra adunk megoldást. Az
+assembly gyökvonás az osztáshoz hasonlóan kivonásokra
+Épül. A kiindulási azonosság: SOR(X) z (AHBY2 z
+AT22ABHB"2 z A"2H2AB)"B Ciklusonként a maradé-
+kot megszorozzuk néggyel, az eredményt pedig kettővel. Az
+X felső két bitjét begörgetjük a MARADÉK alsó bitjeibe.
+Tudjuk, hogy a maradékból az A"2 már ki van vonva (ez
+persze a kezdetben nulla) tehát ki kell vonni még a
+(2AHB)"B tagot. (A-pillanatnyi eredmény, B-az eredmény
+következő bitje.) Mivel a B csak 0 vagy 1 lehet, előbb fel-
+tételezzük hogy B-1. Kivonjuk a maradékból a 2A41-et.
+Túlcsordulás esetén a maradékot visszaállítjuk az előző ér.
+tékre. A CARRY komplemense megadja a B értékét, melyet
+begörgetünk az eredmény alsó bitjébe. Az SOR.ASM lis-
+tában két féle, 16 és 32 bites rutin áll a rendelkezésünkre.
+
+SORHL: AzSOR(HL)
+SORDEHL: HL-SOR(DEHL)
+(Hisof)
+
+ORG 2000
+JP SORDEHL
+
+SORHL: EX
+LD HLO
+LD DH
+
+LD EH
+
+1D B
+EXX
+
+ADD HLHL
+EXX
+
+ADC HLHL
+ExXX
+
+ADD HLHL
+EXX
+
+ADC HLHL
+PUSH DE
+SLA E
+ALDO
+
+SGF
+
+RLE
+
+RLD
+
+SBC HLDE
+JA. NC.SOR20
+ADD HLDE
+POP DE
+
+CCF
+
+RLE
+
+ALD
+
+DJNZ SOR1O
+LD AE
+
+RET
+
+XOR A
+
+ExXX
+
+LD HA
+
+LD LA
+
+LD DA
+
+D EA
+
+1D 8416
+
+EXX
+
+ADD HLHL
+AL E
+
+ALD
+
+EXX
+
+ADC HLHL
+ADC AA
+Exx
+
+A-SORIHUJ
+
+SOR10:
+
+SORA
+
+SORDEHL:
+
+"HLSORDEHUJ
+
+SORTO:
+
+ADD HLHL
+RLE
+
+RLD
+
+EXX
+
+ADC HLHL
+ADC AA
+PUSH DE
+
+LD co
+
+SLA E
+
+AL D
+
+RLC
+
+SGF
+
+RLE
+
+ALD
+
+ALC
+
+SBC HLDE
+SBC AC
+
+JR. NC.SOR120
+ADD HLDE
+ADC AG
+
+POP DE
+
+CoF
+
+RLE
+
+ALDO
+
+DJNZ SORT1O
+EX DEHL
+RET
+
+SaR120:
+
+nazroszszrzzza )
+
+Előkészületben:
+Gépi kód kezdőknek!
+
+Szerkesztőségünk tervei között szerepel, hogy
+az újság 1994. 1. számától sorozatot indít , Gépi
+kód kezdőknek címmel", Tudjuk, hogy az előző
+szerkesztőség is próbálkozott ilyen sorozattal, jól
+is indult, érthető volt, aztán úgy érezzük, hogy na-
+gyon elrohantak a témával és ebből a kezdők már
+nem sokat érthettek. Mi az eddig megjelent 4
+számban az ,Assembly rutinok" című sorozatban
+nem igazán a kezdőknek írtunk. Ezért szeretnénk
+beindítani jövő év elejétől ezt a sorozatot. Termé-
+szetesen azt elmondjuk, hogy az ASMON haszná-
+latát, valamint a gépi kódú utasítás-készletet
+részletesen nem fogjuk elmagyarázni. Ezeket tes-
+sék bemagolni! Igenis be lehet magolni, meg lehet
+tanulni. Erre egy kiváló könyv is segítségünkre
+van. Szerzői: Felföldi József és Sz. Lukács János,
+címe: Gépi kódú programozás. Ebben a könyvben
+a rutinok részletes magyarázata szerepel, minta-
+programokkal, stb. Igazán könnyen emészthető.
+Sok helyen a gépi kódú listát egy BASIC-lista is
+követi, azaz mindkét program ugyanazt hajtja vég-
+re csak más nyelven (a gépi kód jóval gyorsabban),
+Nagy szerencsénk, hogy szerkesztőségünkben iga-
+zán kiváló gépi kódú programozók vannak, így
+nyugodtan, nem rohanva elindulhatunk az alapok-
+tól, aztán ,mindig magasabbra". Ezzel az induló
+sorozattal kapcsolatban természetesen várjuk
+Kedves Olvasóink véleményét, észrevételeit, taná-
+csait. Reméljük sokat segítünk majd azoknak,
+akik a BASIC-et már elfelejtették és szeretnének
+gépi kódban programozni, de segítséget eddig még
+nem igazán kaptak senkitől.
+
+"page-002.jpg" ------------------------------------------------------------ 
+1993. július-augusztus
+
+MONTE CARLO CASINO
+
+Bizonyára sokakat zavart, hogy a viszonylag jó kinezetű MONTE CAR-
+LO CASINO cimű játék RND rutinja enyhén egyhangúan működött.
+Az ok: a rutin az RND generáláshoz felhasználta olyan memória címek
+tartalmát, amelyeken a SPECTRUM-on , mindenféle" adat található, de
+az ENTERPRISE-on általában csak nullák. A megoldás: a következő
+Program feltölti a memóriát véletlenszerű) adatokkal, utána betölti a
+MONTE CARLO-t (MONTE.COM néven).
+
+(Ugyanez a megoldás használ a DEFENDER OF THE CROWN című
+programnak is, így már rést lehet ütni az ostromkor a falon, és a lovagi
+tomán is győzni lehet)
+
+HISOFT nagy dobásra készül! Az EPDOS 2.0-
+ás verziója ikonvezérelt és az egér használatát
+is támogatja, Itt jegyezzük meg, hogy a Mészá-
+ros Gyula által tervezett egér-kártya nagyon jól
+bevált! Készült hozzá szoftver is, akár BASIC-
+ben, akár gépi kódban kiválóan használható. Ez
+a kártya egyébként soros hálózati adatforgalmat
+is képes bonyolítani, természetesen megfelelő
+Szoftver támogatásával. HSOFT átírta az ART
+STUDIO és a PAINTBOX rajzoló programokat
+
+ölő födi LD (HLJA úgy, hogy egérrel vezérelhetőek legyenek.
+VAR 69 MONTE LD AXOFFECH) 6466
+sAsmonban ez a sor felesleges XOR (HL) 8
+LD (HLDA Új játék átiratok készültek: EOUINOX,
+4 LD SP100H SET TA BLUE MAX, PSYTRON, GOLF-1 (javított),
+EI IS 6A GOLF-2, mind Zozosoft 4 Apuci átíratai.
+íg Fersrtájját bézdsésé REAPER, BLACK TIGER, PICK AND PICE,
+our ataina tani ODÁN E KENTETSEKÉS ÍNVÁDÉRÁG Te
+CIKLUS DEC A CP OCOH
+CP OFBH IR NZ.CIKLUSZ 940
+IR ZELEG IN AKOBIH)  jisésdi
+OUT (OBIH)A Ta CL Elkészült az EDC-Windows 4.0-ás verziója.
+LD HL4000T ELEG LD HL6000H Az ablak-technikát alkalmazó program készítője
+CIKLUSZ LD AR LD DE.CIM a rutinokat az EP-s tábor rendelkezésére bocsát-
+LD EA LD BCA4000H ja. Így könnyen írhatunk olyan programot,
+LD AR LDIR amely ezt az ablak-technikát alkalmazza. A
+AND 1 LD BC100H:28 programcsomagot a szeptemberben induló prog-
+OUT (OBZH)A LD D.255 ramküldő szolgálattól lehet majd megrendelni.
+LD AXDE) EXOS 16
+XOR (HL) XOR A v..
+LO ÉRDEN Pap János továbbra is várja azok jelentkezését,
+ák Sán Í9 DENEY akik külső billentyűzetet szeretnének gépükhöz.
+FACA EAÖS, A Az átalakítást 500 Ft-ért 4 anyagköltség vállalja.
+LD (HLJDA NEV DB 9-MONTECOM" — ] Címe: 1222 Budapest, Besztercci u. 1.
+LD AR CIM EOU$ "Telefonszáma: 227.1046
+XOR (HL) END Zozosaft
+Í
+CSIPKE RAID ÖRÖKÉLET
+100 PROGRAM "CSIPKE.BAS"
+110 ! 1993 Hsoft — ÍR] 1000 (ENTER] BFFF [ENTER] RAID [ENTER]
+
+120 GRAPHICS LORES 2
+130 SET PALETTE 0.255
+
+140 FOR 0-1 TO 5
+
+150 CALL PL(O,640,360)
+
+160 PING
+
+170 WAIT 4
+
+180 CLEAR 1101
+
+190 NEXT
+
+200 DEF PL(F.X,Y)
+
+210 PLOT X.X.ELLIPSE 64.64,
+
+220 IF F-1 THEN EXIT DEF
+
+230 NUMERIC C
+
+240 LET C-LOG(F)"60
+
+250 CALL PL(F-1,X-C.Y-O)
+
+260 CALL PL(F—tX46r-OT(F-I XT YE)
+270 CALL PL(F-1,X40,Y-C) 1
+
+280 CALL PL(F-1,X4C.V40)
+
+290 END DEF
+
+beírni
+
+— LAST ADDRESS": BEG7
+
+— IM) 1049 [ENTER] TA4F [ESC]
+— (MJ 2909 ENTER [ALT4F8] CRACKEDBETERNAL LIFE
+IN MOSCOW BY ZOZOSOFT AND APUCI (ESC)
+— IMI 4C70 [ENTER] ZOZOSOFT [ESC]
+
+— IMI 4C7E [ENTER]
+— IMI 4C8C [ENTER]
+— IM] 4C9A (ENTER) 1991 08. (ESC)
+— IMI 4CAB (ENTER)
+— (M] 7E4F [ENTER] 0000000000 (ESCJ
+§ 1000 ENT BEG7 ENT RAID.IRN ENT
+
+AND IESC)
+APUCI [ESC]
+
+30. (ESC)
+
+A Iistában az alsó vonal ( — ) helyett szóközt kell
+
+Zozosott
+"page-003.jpg" ------------------------------------------------------------ 
+4 [EENTERPRESS] 1993. július-augusztus
+
+DTF-kicsomagoló II.
+
+0kEs 1D HLHOSSZZ mi
+LD DE(KB csi P2
+10 56 ki FXOR
+INC E kis
+ADD HL.DE Kir, Tor
+L0 (BAJT) HL. ASD
+£D DELDADER NAME DF 140
+£D BG. Hossz NAMES DB 137A bef.147.Né.177 never "
+LD Az NAMEH EGU $-NAMES
+ExOS a NEV. DF 13.
+JA NZIDE NEVS. 8 137A DTF 14094 neve"
+10 DEKI NEVH EGU $-NEVS
+1D BC.(kp PALYA 58 0,
+10 80 PALY DB 1ar(Pxogram vagy (Egyi.136.
+ér b (pl; p149.yaj 9.19
+LD AZ PALYH EGU $-PÁLY
+Exo8 5 10596 CALL 10988
+JA NZIDE JP VISSZA
+LD Az 1p 10082
+Exo8 3 10 HLL0020
+JA NZIDE ör
+CALL NYIT LD BELO8AF
+JR NZIDE LFSAG H9.e
+Pop 8 íN 1 PALETTE
+PUSH BC JA NZLLESAB
+10 Be LD AGFFH
+10 AZ OUT (0B2H) A
+Bxos 7 GALL or, KERES 19 nessas
+JA Nz.IDE LD AL0022) júse 12 DEg
+Pop Be UT (OBAMA toy
+faj
+Bxos7 19 Aork IR AZMEGTALL
+JR NZIDE ExXOS 054 TBkési
+Pop BC LD LB ei
+LD DETOLTHET £D AD1H ket TE
+1D Az EXOS 054 HAZAM
+ExoS a LD CL BEZoes
+JA NZIDET Pop DE ÉR AHA
+CIkLUS 10 Ar PUSH BC rdlse
+ExoS e PUSH DE Bég Y
+[DAC LD HLL0000 Hohó
+INC A AND A 8 eg
+JA ZEor SBC HLBC vasa S
+CALL TOLT, Ex DEÜL be
+LD DELTOLTHET PUSH DE E BEL ág
+ST 2óH 10 Ao1H Fáy
+CALL KERES EXOS 06H zá
+PUSH HE POP HL. 86 Hi
+LD Az LD AH
+10 81 MeH em Pusti DE
+ExOS 7 EX ARA 49 ADI og
+JA NZIDE POP DE 18 BELto8
+Pop BC POP BC kdogrm
+PUSH BC DEC 86 beg
+10 AZ LFSDB EX AFAP ez éztEN
+ExOS 7 CP (HL osei
+-P NZIDE JA NZLFSEE nk
+ea ga £D BEALIOR
+LD DETOLTHET ING HL 48 Be
+LD Az PUSH BG égy
+ExoS a LD B(HL mer]
+JR Z.CIKLUS IN HL TAB eg
+Je DET LD AH E et
+For LD Az LFSES LD DEJA eze Fzoét
+ExoS 3 ic DE, Ex06 bet,
+CALL NZ ERROR DUNZ LFSES GALL
+-P ELEJE POP BC jesztsll
+FATERROR LD DEASD DEC BC SB
+Exos 26 DEC BC Ha, kboH e
+ERROR LD DETOLTHET JA LESF2, SALi-EtGsE
+ExoS 25 LFSEE EX AFAP ber
+XOR A DA HO Tösoáíod
+15 DEcsiL £D (DEJA 48 see
+Exos 6 FsF ie HL a
+Exos 8 LFSF2
+10 DETOLTHET DEC Be 14086 Fusm Hk
+10 ADB LD AB gel
+5-1 hjs £D Bol
+JA ZNINCS JR NZLFSDB hora
+18.6A iz LD ALLITOA)
+10 ca 10000 EGU 00004 19 A
+INC GE 10020 EU 00204 585 vaki
+LD AB 10022 EGU 00224 kelgtáyvi
+ExoS a 10066 EGU 00664 egy
+XOR A 10082 EGU 00824 ren
+NINCS 15849 LOAF EGU OSAFH mege
+§xos 7 11046 Pop BC
+"page-004.jpg" ------------------------------------------------------------ 
+1993. július-augusztus
+
+08 05
+POP HL X
+1104 PUSH HL HBAJT BA 00
+ét LKL4 EGU $
+ta HilLoo20 EGY Ég,
+11059 Sue ágú, (mrs 100
+JR CL105A 11060 AL E 3
+ixc HL Arc £D A 265
+JA L1058 Ae b GUT (OB2HA
+1105A 15 At GALL C-L10£0 £D AGCAH ag
+GUT OBA JN 1060 19 Hirserot
+LD AD PusH BG £D ILGOZOLA
+SUT (81H.A Bx D 110029)
+POP HL POP Bo £D HiLLOSBS
+(0 AH POP HL 15 Dean
+FES 7H ADO HLBO 10 ac.
+SET at (OTA HU TD KE
+fe-jtérégi RET LD DEGBEBBH
+to HA RET. Z
+LD AlLo021) 11060 15 Em LD 8040
+GT (BTHA INcix ton
+ING HL DÉc L ap Gon
+DEC Be BET Az 10028 EGU 0028H
+XOR A 1107 PUuSH BC 10029 EGU 00291
+OUT 61 PusH DE 10080 EGU 00801
+Re 10 DELt2tő LOO7A EGU OS7AH
+08 c FusH DE 10080 EGU 00804
+PETZ 10 Be.ALtto9 10100 EGU orok;
+BEc E 1D AB 10903 EGU 03094
+JA NZLI08£ AND A 10508 EGU $
+JA Liös8 JA zliorc BEpráse
+Lto7A BET. DEC A JRERSÉ Gon
+1078 1D DeL1108 15 tLto7 A AE KERESZTNEV
+15 80 15 Bc-100kt 10 0.
+10 Ho uoFc 19 Aoik Exos 1
+11084 [zési ExOS 084 LD Ar
+DN 11084 POP IX EXOS 5
+10 eg, POP DE 1016
+10 Ut HL POP BG 10 Ar
+19 BOXLOtő fi ExOS §
+10 AgtH PET 10 Cr
+1001 FL CA 10008 ÉGU 00081 0 At
+DINZ L1091 1021 ÉGU 00211 LD DE.100H
+ADD AH 10200 EGU 020044 Exos 6
+(o LA 1108 08 startő 58 100H
+1D BXso2t t1106 EGU L106 BETOLT us HL
+£D AG 107 ÉGÚ 1061 PUSH DE
+11098 FicA ti106 EGU L10612 (Dar
+DISZ 1098 tí10a EGU L10614 Exo8 5
+ADD AL 1108 EGY 110618 fat
+(o HA tor EGU 110619 10 Ai
+LD La) HL réttti EGY t10611 EXOS §
+ReT kina EG 10813 196.
+11054 Exx rétte EGU L108118 POP DE
+1D Bc1oz00 tis EGU Li08r10FH 1041
+11048 AE ExOS e
+Ae HELP POP HL
+RG 0 BET
+CALL CLLI0E0 CIMKE EG se
+NZ L10A8
+Push BE 19093 2 .1a19 —] STATUS 8 te ÁNTHOTE
+version 12
+POP ac MOS ZOZOSOFT
+10 ult KERESZTNEV.. EGU ÖIMKÉSZ0
+ADD HLBG DB "a v.10"laszt EXOS  ] HOSSZ EGU $-LOADER
+19 6) parancs adhato HOSSZZ ——— EGU $IKLI
+10 HLLTS kirtata si 580
+ADD HLBG HOSSZ EGU$-HELP sz 58 o
+USA HL Eor 08 7.-EDITOR" sa 58 o
+Exx KEY 08 256
+PUSH BC vo DB 6.VIDEO" Srác Eau s
+Ex 80 08 3.850" NOP
+POP Be NEVPUF 0539 TOLTHET  EGUS
+10 HLLHOB LOADER — EGU$ END
+v Fizessen elő a
+és a I ik
+RÁDIÓTECENIKA elektronika
+esést ek MARA
+
+folyóiratokral Így biztosan hozzájut!
+w Címünk: 1374 Budapest, Pf. 603.
+
+[ A szerkesztőségben regisztrált HE előfizetőknek díjmentes nyák-fim melléklet.
+
+"page-005.jpg" ------------------------------------------------------------ 
+6 ENTERPRE
+
+1993. július-augusztus
+
+Programozási
+
+fogások és
+
+—RENZ melléfogáso. k
+
+só biztosan kitalálta már, hogy a koordinátákat itt is szá-
+mitjuk, I pedig annak a menüpontnak a számára kell legyen állítva,
+"amelyiket elétrő színnel kell kiírni, vagyis amelyik ki van választva.
+Ezt az eljárást beírhatjuk pl, egy MENU nevű DEF blokkba, amit
+meghívhatunk egyszer a MENU PICTURE-ből a kép első fel
+zolásakor, a SELECT-ből pedig minden lenyomott billentyű után,
+a CASE választás előtt.
+
+További hiba, hogy a program a JÓ és a K változó együttes
+használatával próbálja eldönteni, hogy botkormányt vagy billentyű-
+zetet használunk, illetve a botkormányok közül melyiket, holott erre
+egyetlen változó is elég lenne. Pl: JO-3 ha billentyűzet, JA
+1 vagy 2, ha valamelyik botkormányt használjuk, értelmeszerűen.
+
+A SCORE, PICTURE eljárás készíti el a forgó háromszög raj-
+ait, majd ezekre ráítja a legjobb játékosok listáját, pontszámokkal
+együtt, It a megjegyzések kissé félrevezetőek; PUZZLE ONE,
+PUZZLE TWO, stb. — mintha ezek a rejtvények adatai lennének
+—, azonban ez kevésbé fontos. A háromszöget a TURNER eljárás
+forgatja meg a képernyőn, és mint látjuk, ez elég bonyolult, A vi-
+dcolapok kijelzési sorrendje ugyanis: 3, 5, 7, 6, 4, 5, 7, 6. Ezt
+ügyesebben is meg lehet oldani. Ha a második tajzot a 7., a har-
+madikat a 4., és az ötödiket az 5, lapra tesszúk, a kijelzési sorrend
+így módosul: 3, 4, 5, 6, 7, 4, 5, 6. Ez már könnyen kezelhető
+
+lábbi kettős ciklussal;
+
+FOR Jz1 TO 2
+IF Jel THEN 1-3 ELSE
+SET 8COLOR IRND(256)
+
+DISPLAY 4I:AT 6 FROM 1 TO 12
+
+FOR Kzl TO 40
+NEXT K
+FOR 1-4 TO 6
+
+SET 4LCOLOR 1RND(256)
+DISPLAY 4I:AT 1 FROM 1 TO 12
+FOR Kzl TO 40
+
+Ezzel egyben a WAIT eljárás is fölöslegessé válik. A RANDO-
+MIZE utasítást pedig elég a program elején egyszer használni, A
+TABLE PICTURE eljárásban a vonal: Iságáról már beszél-
+tem. Annyit lennék hozzá, hogy a játéktábla negyedik színe, a 96-
+05, az én képernyőmön beleolvadt a háttérbe, ezért a negyedik színt
+Javaslom. magentára változtatni. (321. sor)
+
+A 354. sorban kezdődik a tulajdonképpeni főprogram. Ebben
+a SELECT CASE CUR blokk intézi a kurzor mozgatását a táblán.
+Ehhez meghívja a kurzort négy irányba léptető eljárásokat.
+(STEP. R, STEP L, STEP. D, STEP U, ezek a 610-633. sorokban
+találhatók ) Vegyük a jobbra léptetést példának:
+
+IF
+1F TABLE(NX,NY)-2 THEN LET NY-NY-1
+
+Vagyis, először hozzáadunk az oszlopszámhoz egyet, majd ami.
+kor rájövünk, hogy nem kellett volna (mert túlléptük a tábla já-
+tékterének határát), akkor gyorsan levonjuk. Rögtön első nekifutásra
+az alábbi módon helyezhetjük a felvételvizsgálatot a művelet elé:
+
+LET NX-XIF Y7 AND TABLI
+NYENYSI
+
+XGYr1)es2 THEN LET
+
+Aztán rájövünk, hogy az NI
+lépünk, az X. ugyanannyi
+YT feltétel sem kell, mert ha túllépjúk a tábla határát,
+füközünk. Marad tehát ennyi;
+
+IF TABLE(XYs1)c52 THEN LET NY-NY41
+
+Ezt viszont már teljesen fölösleges külön eljárásba írni, betehet-
+jük a főprogramba az eljáráshívás helyére, Ezzel a program gyor-
+sulni is fog valamennyit.
+
+Következik a MODIFY KEYS eljárás, ami azzal dicsekedhet,
+hogy a DEF blokkon belül még egy DEF blokk találhatót A kiírás
+itt ís rendkívül komplikált, ugyanakkor az új billentyűk bekérése
+előtt nem írja ki, hogy milyen billentyűk vannak jelenleg a vi
+lésre beállítva, Ezt persze ismét ciklusos formára alakítottam át, ezt
+már nem részletezem,
+
+A TORF eljárás tulajdonképpen egy függvény. Ezt használja fel
+a program, amikor az egyes lépések után megkísérli megállapítani,
+hogy megoldható-e még a feladat? Ha nem, akkor letörli a táblát.
+A javított program leszteléséhez csökkentettem a golyók számát, így
+"veltem észre, hogy van olyan állás, amelynél nem veszi észre, hogy
+a rejtvényt már nem lehet megoldani. Ennek okára még nem jöttem
+rá. Maga a függvény egyébként jó.
+
+A FULL eljárás tölti meg golyókkal a táblát az egyes szintek
+kezdetekor, Ehhez beolvassa az adott szint adatait, és értéket ad a golyók
+számút tároló BALLS változónak, mégpedig eggyel többet, mint a go-
+lyók száma. Utána ugyanis rögtön meghívja a COUN eljárást, amely
+
+golyók eggyel csökkenti, és rögtön azt is ellenőrzi, hogy nem
+haltunk-e meg a játék megkezdése előtt? Ezenkívül, a golyók számát
+sz. adatsorokba is be lehetett volna írni, első adatként.
+
+A golyókat a táblára a BALL eljárás rajzolta fel (728-742. sor),
+Kétféle színű golyó van, ezért megint csak kétszer ugyanazokat a
+rajzoló utasításokat láthatjuk, egy CASE blokkal elválasztva, Egy-
+szerűbb lenne az eljárást (ha már úgyis paraméteres!) C-ben rögtön
+inkóddal meghívni, így az első színbeállítást SET WLANK C-re
+változtatva az egyik CASE ág elhagyható. A kurzorként szolgáló
+négyzet felrajzolása a PNT eljárás feladata (605-609. sor), A négy-
+
+"page-006.jpg" ------------------------------------------------------------ 
+1993. július-augusztus
+
+zetet színkeverő üzemmódban rajzolja fel a program, és mivel a
+nélgyzetháló vonalai nem egyforma távolságra vannak egymástól,
+
+négyzet oldalai hol fehér, hol fekete színűek, attól függően, hogy
+vonalra, vagy háttérre esnek-e. Természetesen a vonalak egyenlő
+távolságba hozása után a négyzetet felrajzolhatjuk normál, felülíró
+"vonalmódban fehérrel, törléshez pedik pirossal (ekkor az eredeti
+vonalhálót írjuk vissza a helyére). Ezt az eljárást is meg lehet hívni
+úgy, hogy egy C paraméterben rögtön a színkód legyen.
+
+Továbbmenve, találunk egy rejtélyes EXA eljárást a 658663.
+sorokban. Ez vajon mire való? Azt a PS tömböt kezeli, amelyikről
+korábban azt állítottam, hogy fölösleges. Nos, a programnak,
+előtt megtesz a láblán egy lépést, meg kell vizsgálnin, hogy az a
+lépés érvényes-e? Ez eddig rendben ís volna, de ez a program ezt
+úgy oldja meg, hogy a PS tömbben előre letárolja, hogy a kivá.
+lasztott golyóval hová lehet lépni a táblán, majd megvizsgálja, hogy
+a játékos ezen helyek valamelyikére lépett-e?! Beleborzongok, ha
+arm gondolok, hogy ezzel a módszerrel próbálnánk eldönteni egy
+lépés érvényességét pl. a sakkjátékban.
+
+A helyes megoldás természetesen a lépés helyének kijelölése
+tán megvizsgálni, hogy arra a helyre lehet-e lépni. Ezt ebben a
+játékban rendkívül egyszerűen megtehetjük. Kél eset van: vagy X,
+vagy Y marad azonos, hiszen átlósan nem léphetünk. A megvál-
+tozott koordinátának a kiválasztott golyó helyétől két
+volságban kell lennie, és kiválasztott golyó helye és a lépés
+
+mm
+
+Megrendelhető: — - HOMBAY NYÁK - 11ő2K 300 Ft
+1964K 350 Ft
+EPROM égetés: — 27C128-I6K 50 Ft
+270258-32K 100 Ft Jeprommal 500 Ft
+27C512-64K 200 Ft jeprommal 700 Ft
+BASIC 21 16K /EXT után nem kell GÖTŐ
+FORTH 1.0 16K /Compiler
+USP 06 16k /Compiler
+BRD-UK 16K /Német-Angol nyelvű bővítés
+HUN-UK, 16K Angol bilentyűzet, magyar hibalizonet
+HUNHFONT-UK  16K /Angol billentyűzet, magyar
+HFONT-os hibaüzenet
+HUN-BAD 16K /Német billentyűzet, magyar hibaüz.
+HUNHFONT-BRD  16K [Német billentyűzet, magyar
+
+HFONT-os hibaüzenet
+
+EPROMÉGETŐ —— 16K /EPROM 1.OSPACK 10
+
+02 16K /DTEST 2.3.OUICK 1.45ERRS 1.14
+A VLOAD-VSAVE 2.1
+
+03 16K /DTEST 2.3.GUICK 1.5.TOOPY 1.1
+
+XFONT 16K /12 karakterkészlet
+
+scc 16K /SZ 1.2 színkédkeresőrOLX 1.0
+grafikus képtörtő
+
+CYRUS 16K /Sakkprogram
+
+HEA 16K [HEATHAIOW (játék)
+
+EXDOS 1.33 32K /3-as fejléptetéssel
+
+EXDOS 13/HUN — 32K Magyar hibaúzenettel
+
+1SDOS 1.OIHUN —— 32K /EXDOS 1.3:ISDOS 1.0, magyar
+hivsüzenettel
+
+1SDOS 1.OIHFONT 32 [Mint az előző, magyar HFONT-os.
+hibaüzenettel
+
+ASMON 1.5 32K fAssembler-Monltor:DOTEST
+
+ASMON 1.56TEST — 32K /Gyorstesztos, (ROMBAY 4-5. szeg-
+mensébe kell helyezni)
+
+ASMEN 1.5 32K /Assembler, intolligans és gyormentés
+
+ASMEN 1.5. 32K /Gyorstasztes
+
+ASMEN 1.58 32K JASMEN gyorsított belépéssel
+
+helye közötti táblahelyen golyónak kell lennie, azaz nem lehet üres
+helyet áturgani. Ezt a néhány soros feltételtendszert könnyedén be-
+építhetjük a MOVE eljárásba, amely a lépést a táblán megteszi.
+A feltételrendszer négyféle 0) értéket ad eredményül, attól függően,
+hogy merre léptünk, Ha O nulla marad, a lépés érvénytelen. PI,
+P2 a kiválasztott golyó helyét, NX, NY a lépés kijelölt helyét mu-
+tatja. Ha az olvasónak van még türelme hozzá, tekintse meg az
+új eljárást:
+
+0-(NX-PLJ/2
+IF ABS(O)61 OR TABLE(NX-ONY)-0 THEN
+END IF
+
+IF NX-PL THEN
+
+O-(NY-P2y2
+1F ABS(O)601 OR TABLE(NX.NY-0)-0 THEN 0-0
+LET 0-0"2
+
+END IF
+
+Ezzel az EXA eljárás, annak meghívása a CHOOSE-ból, va-
+lamint a PS tömb fölöslegessé válik.
+(Folytatjuk)
+Szalontai Andrea
+
+EETHETEZEEEZTTTETETZTT HTO TTOTOS OKOK TOTOZOOOTZTTTT
+
+SPLOADERTEST — 32K /GyorstesztsHW-órasLoadorr
+GEN. MONS MON100
+
+PASCAL 1-1 32K /Compiler
+
+DTEST 23 32K /Debuggor
+
+MULTIROM 32K IGENT 1$MON1.15MONS 1.0
+
+BDS 32K /BASICDTEST 2.3.SCOPY
+(Spectrum paralloi 0opy)
+
+8a 32k /BASICSDTEST 2.35Olick londer 1.34
+A:TCOPY 1.15ERRS 11
+
+Aa 32K /ASMON 1.3:OUICK 1.5.ERRS 1.1
+
+400 Ft szerzői díjjal feláras programok
+
+EPDOS 1.7F 32K [Diszkkezelő: PACK
+EPDOS 1.7/E 32K AJA.-bejelenkezés elnyomásrhidog-
+indítás elfogadás
+
+EPDOS 1.70 32K AJA.igyorstoszt, PACK nélkül
+EPDOS 1.7/0 32K Mint az F : 3-as fejsebesség
+EPDOS 1.7/B 32K /Mint az E 4 3-as fejsebesség
+EPDOS 1.7/A 32K /Mint a D 4 3-as fejsebesség
+VENUS 1.83 32K /UTILITY
+VENUSITÉST 32K /Gyorstesztes változat
+
+200 Ft szerzői díjjal feláras programok ——
+FENAS 12 32K Gyors Edítor-assembler-monitor
+
+FENAS 12/TEST
+ZOZOTOOLS 1.7
+ZOZOTOOLSITEST
+
+32K iGyorstesztes változat
+32K [UTILITY
+32K /Gyorstesztes változat
+
+Egy rombelépéses, tömörített adattárolású EPROM-ok
+
+AGD 32K JASMON 1.3.UICK 1.6:DTEST 23
+
+BMV 32K /BASICSMON 1.1:VLOAD-VSAVE:
+3VARS 1.1SERRS 1.1CHSET 1.1
+
+MONITOR 64K /GEN 1-14MON 1.15MONS 1.04
+
+ADTEST 2.3FENAS 1.2 (4200 Ft)
+
+Haluska László 1086 Budapest, Karácsony Sándor u. 18. 3/41
+(1993 Hsot)
+
+tettem EEZZTITEZEE]
+
+Legjobb progr
+
+Legjobb programátíró
+
+Legjobb szoftver sti
+
+Vegjobb játék program:
+Legjobb felhasználói program:
+
+Legjobb demo program:
+
+Olvasói lista A szerkesztők listája
+SWAP CHIP-CHIP
+ASMON EPDOS 1.7
+
+SMALL DEMO SMALL DEMO
+HSOFT HSOFT
+
+BAM MOONLIGHT
+HSOFT HSOFT
+"page-007.jpg" ------------------------------------------------------------ 
+8 Hardver
+
+EENTERERESSI
+
+1993. július-augusztus
+
+A SPECERUM-emulátor újból színre lép!
+
+Ismét az emulátorról!
+
+Ez a cím biztos sokaknak ismerős (már akik olvasták az SPV-
+1), akiknek nem, azoknak a kedvéért lesz majd egy-két idézet
+az SPV-bő),
+
+Amióta csak létezik az ENTERPRISE, azóta próbálkoznak a
+SPECTRUM programok tuttathatóvá tételével. Erre két módszer
+létezik;
+
+- A program átírása: nem túl egyszerű dolog, és nem is túl
+gyors, mégis idáig ez a legjobb megoldás, mert péklául csak
+így lehet lemezről is betölteni a programokat.
+
+- Emulátor használata: léteznek software emulátorok, ezek-
+kel az a probléma, hogy csak kevés program fut rajtuk, azok
+sem színhelyesen, mert a hardware a különbségeken nem segí;
+Létezik még az "a STUDIO-féle hardware emulátor, de az jó
+néhány software és hardware hibát tartalnaz. Hogy melyek ezek
+a hibák, mindjárt megnézzük, de előbb lássuk csak: miért is író-
+dott ez a cikk? Az világos, hogy egyszerre sok program futtat-
+hatóvá tétele kevés fáradtsággal csak emulátorral lehetséges,
+mert az élírást viszonylag kevesen művelik, és az átiratok ter.
+jedési sebessége sem túl nagy. Pedig még mindig jónéhány
+SPECTRUM-os létezik, vagy azok .hagyatékaibór (nem valószi-
+nű, hogy régi kazattátt felhasználja például az új AMIGA-jához
+"adathordozónak) szerezhetünk igen sok ENTERPRISE-os ber-
+kekben ismeretlen, mégis elég jó programokat (klasszikus példa
+a THE TRAIN, amelyet elég sokan keresnek, mégsem írta át
+még senk). Akkor tehát csináljunk egy. új emulátort!
+
+"Az világos, hogy ennek az emulátornak hardware emulátornak
+kell lennie, erre a célra, megfelel az "a STUDIO" féle emulátor
+(némi átalakítás és javitgatás után), azután már csak egy új soft-
+Wware-t kellett írni a hardware-hez. Most pedig hasonlítsuk össze
+az eredeti és az átalakított emulátort:
+
+Kezdjük a bekapcsolásnál: ,...a színes ENTERPRISE felírat
+helyett az ra STUDIO" SPECTRUM EMULATION fellrattal jelent-
+kezik be. Ettől kezdve már nem ENTERPRISE, hanem SPECT-
+RUM-ként működik" (SPV) Ezzel ellentétben az átalakított
+emulátor látszólag semmit nem csinál, de ha kiadunk egy :HELP.
+Parancsot, akkor máris feltűnik a .ZX version 4.0" sor, ebből már
+mindenki (remélhetőleg) rájön arra, hogy az emulátorból már egy
+rendes rendszerbővítő lett. Adjuk ki tehát a :ZX parancsot, aminek
+következtében SPECTRUM-má buttjuk gépünket, de csak akkor
+ha engedelmeskedünk a felszólításnak: Kapcsold be az emu-
+látort" Most biztos sokan kíváncsiak arra, hogy miért került egy
+kapcsoló is az emulátorra? Nos azért mert nem lehet az emulátor
+minden részét bekapcsolva tartani a gép normál működése mel-
+lett, mert nem valószínű, hogy amit ilyenkor írunk az 5800h-
+SAFFNh tartományba, azt is konvertálni kell, mint egy SPECTRUM
+attnbútum bájtot. (gyengébbek kedvéért: ha nemcsak akkor kap:
+csoljuk be, amikor erre a program felszólít, akkor nagyon lát-
+Ványos elszállásokban gyönyörködhetűnk.) Ha sikerült átjutnunk
+SPECTRUM módba, akkor ettől fogva a reset SPECTRUM-re-
+setet eredményez, ellentétben az eredetivel, ahol teljes hideg-
+indítás történt, tehát csak hosszabb-rövidebb (a memória
+méretétől és a használt teszt-programtól függő) memória-teszt
+után jutottunk újra SPECTRUM alapállapotba, De hogyan lépünk
+Ki az emulátorból? Az eredetinél sehogyan, az átalakítottnál csak
+kapcsoljuk ki a kapcsolót és nyomjuk meg a resat-gombot, és
+máris visszajutottunk abba a programba, amelyikből meghívtuk
+az emulátort (az érintett program szemszögéből nézve csak egy
+melegindítás történt) , tehát ha EPDOS-ból hívtuk, akkor EPDOS-
+ba tér vissza, ha BASIC-ből, akkor BASIC-be, ráadásul még a
+BASIC program(ok) is megmaradínakj!it Most már be is kellene
+tölteni valami programot: ...,Nagy kár, hogy az EXDOS-t nem
+használhatjuk, pedig milyen klassz is volna, ha a SPEGTAUM
+programokat lemezről is töltögethetnénk!IT , írták az SPV 15. szá-
+mában az eredeti EMULÁTORI-ról, Lássuk, hogyan megy ez az
+átalakítás után: ha kiadjuk a LOAD " utasítást, akkor egy kis
+ablak jelenik meg a képernyő alján, benne a ,Fájinév:" felirattal,
+
+Az okosabbak már biztos kitalálták miről van szó, de a gyen-
+gébbek kedvéért eláruljuk, hogy egy teljesen szokásos EXOS
+fájnév megadása segítségével, onnan tölthetjük a SPECTFIUM
+programokat ahonnan akarjuk: magnéról, lemezről, vagy akár a
+Soros vonalról is. (Ha nem adunk meg kiterjesztést, akkor ZXF
+lesz.) Természetesen a szokásos kettőspont segítségével EXOS
+
+parancsot is kiadhatunk, de kilépésre ne használjuk ezt a le-
+hetőséget, csak akkor ha direkt össze akarjuk kócolni az EXOS
+lelki világát (rendszerszegmensét). Most már csak egy kérdés
+maradt, nevezetesen az, hogy hogyan hozzuk át ENTERPRISE
+formára a SPECTRUM programokat. Be lehet pötyögni az SPV
+18. számában lévő programot is, de egyszerűbb ha megnézzük,
+hogy mit takar a HELP lista SCOPY version 1.0" sora (ugyanazt,
+csak mindig kéznél van). Aki már foglalkozott eme program hasz-
+nálatával, már biztosan tudja, hogy póldául egy három fejléces
+fájlból álió programból hat fájl keletkezik, és már kezd réműl-
+dözni, hogy ennyi fájlnevet kell beírni, Az emulátornak két hasz-
+nos tulajdonsága is van e probléma megoldására: 1. Ha csak
+ENTER-t nyomunk, akkor az előző fájnévben a pont utáni ka-
+raktert megnöveli eggyel, és az így kapott nevet próbálja be-
+tölteni, ez alkalmazkodik az SCOPY-hoz, amely szintén hasonló
+formában menti ki a fájlokat: prg.000
+prg. 1FF
+Prg.200
+2. Egy fájlból addig olvas, amíg a végéhez nem ér, tehát
+ha a programot összefűzzük egy fájlba, akkor csak egy nevet
+kell megadni, (Összetűzni lehet póldául az EPDOS LINK pa-
+rancsával, de a legegyszerűbb ha az SCOPY ,Egy fájlba?" kér-
+désére igent nyomunk. Figyelem! Az utántöltós programoknál
+nem biztos, hogy egy fájlba fűzve helyesen működik, általában
+az a jó megoldás, ha a program fő részeit fűzzük össze és a
+Pályákat külön fájlban hagyjuk) Ez a tulajdonság néha gondot
+okozhat, mert néha nem a tényleges méretet adják meg a prog-
+ramok. Ilyenkor helyesbíteni kell a fájl méretét, amit megtehetünk
+például az EPDOS FILE EDIT funkciójával, de akinek nincs EP-
+DOS-a (vagy csak magnója van), az egyszerűen töltse be AS-
+MON-ba a fájt, és többetkevesebbet mentsen Ki. Hogy
+felfedezhessük ezt a hibát, az emulátor mikor fájlműveletet végez
+kiírja a státusz sorba a bájtok számát, amit csak össze kell ha-
+sonltani a DIR-ben szereplő értékkel, de hogy a magnósok se
+legyenek hátrányban, ezért az SCOPY kiírja mentéskor a méretet
+is. (Természetesen az EXOS-on keresztüli tájlkozelés vonatkozik
+a SAVE, MERGE, VERIFY utasításokra is) Ahhoz, hogy egy-
+Szerre használhassuk az emulátort és az EXDOS-t, mindkét ké
+1yát csatlakoztatni kell a gépre, erre a célra a legjobb megoldás
+ha veszünk egy buszbővítő kártyát Mészáros Gyulától, Így már
+több kártyát is csatlakoztatni tudunk gépünkhöz; Ha már ilyen
+Jól tudunk tötögetni, akkor éppen itt az Ideje, hogy játsszunk
+Valamit: ....Sajnos az EMULÁTOR használatával elesünk mind
+a belső, mind a külső botkormányok használatátó! (SPV). Ezek
+után már mindenki sejt, hogy változás történt ezen a téren is:
+
+SPECTRUM joyettek Bitnyák ENTERPRISE joyatiok
+bal, jobb, ta, tel, tűz
+
+CUASORJAGFPROTEK 5867 0 INTERNALYÁLT
+
+NC. MNTEFFAGE LETT 1 2945 EXTERNAL 1
+
+NC ANTEFFACE IL RONT 6 7 890 EXTERNAL 2
+
+(Általában ha csak annyit írnak Ki, hogy SINGLAIR vagy IN-
+TERFACE II. akkor a SINCLAIR 2-nek megfelelő EXT 2 hasz-
+nálható, de kivételek vannak) Mivel ezek a joyatlek illesztők
+billentyűzet párhuzamosak, ezért a billentyű definiálásnál is fel-
+használhatjuk a joystiek-okat. (Ez kevés átlratra teljesül, mi
+emulátoron minden programra amiben lehet billentyűket defini-
+álni. Ha már az irányításnál tartunk, akkor íme a legjobb pólda
+a hardware és software hibák együttesére: .... Gyakran előfordul,
+hogy az alsó sor a B" billentyűtől kezdődően ,elhar. A dolog
+érdekessége, hogy időnként a felettük lévő billentyűk (pl. az "
+nél a K, az N-nél a JJ a SPACE" helyett az ENTER, stb)
+kezdtek el Jól, máskor pedig tudathasadásosan működni. Érde-
+kes, hogy ez csak a gépl-kódú programok futtatásakor jött elt
+/SPV). A jelenség magyarázatához ismerni kelltett volna) a
+SPECTRUM billentyűzet figyelését, amely az ENTERPRISE-
+éhoz hasonlóan málri szervezésű, de a mátrix sorát nem egy
+külön OUT utasítással közöljük, hanam kihasználták a Z-80 ama
+tulajdonságát, hogy az INIOUT műveletek esetén a címbusz alsó
+8 bíje a periféria címet tartalmazza, míg a felső 8 bit az "A
+regiszter beolvasás előtti értéket tartalmazza (IN A (rj), míg az
+IN r.(C) típusú utasításoknál a B" regiszter kerül hasonló hely-
+zetbe, és ez a 8 bit szabja meg, malyik sorokat kell beolvasni
+(emelyikekhez tartozó bit D értékű), ez az egész lekérdezés a
+
+"page-008.jpg" ------------------------------------------------------------ 
+1993. július-augusztus
+
+JEENTERERESSI
+
+254-s (OFEh) porton keresztül történik, És most lássuk milyen
+hibák voltak az emulátorban: 1. Elfelejtették rákötni az A15-őt
+az egyik IC-re, így a SPACE sorához tartozó bit mindig 1, innen
+ered az elhalás", 2. Nem vették figyelembe az ENTERPRISE
+lapozásos technikájának a következményeit az A14 (ez a bit
+8z ENTER sora) és az A15 nem közvetlenül a 2-80-ból jön,
+hanem a DAVE-ből, és a belapozott szegmensektől függ. Ennek
+a két pontnak az eredményét vizsgálva a két érintett bitre, a
+következő táblázatot kapjuk:
+
+SPACE soral ENTER sorajZ-40-ból jomulátoronj SPACE sorajENTERI som
+
+igen igen [00 16] nem nem
+igen nem [01 10 (nem [igen
+nem igen [10 a [nem ] nem
+nem nem [n 10 [/ nem ]/ igen
+
+3. Ezeknek a hibáknak az eredményét nyilván a készítők is
+tapasztalták, de mivel nem találták Ki az okot, így azt csinálták,
+hogy a programban egy AND 3Fh utasítással mindkét bitet nul-
+lázták, magyarul mindkét sort ha kel, ha nem beolvassa, innen
+ered a tudathasadás (amely nagyon ,előnyös" pi. a THE TFIAIN
+című programban, mivel a tűz (ENTER) és a PAUSE (SPACE)
+egy billentyűre kerűl..), de mivel nem minden programrészbe
+tették bele ezt az utasítást, így lehetséges, hogy előjön az ,el-
+halásr, Az átalakításnál helyére kerülő címvazeték és az új prog-
+ramban — megfelelően összeválogatott  szegmenseknek
+köszönhetően oz a hiba is eltűnt, Mellesleg helyesen kezeli bi /
+lentyűzet figyelés címszó alatt az IN B.(O), IN F.(C), INI és az
+IND utasításokat is, aminek következtében több program, ame-
+yik a menünél látszólag letagyott, hajlandó elindulni, van még
+egy nagy közellensége az emulátoroknak: a kettes megszekítási
+még (IM 2], amelyet a SPECTRUM játékok nagy része használ
+(SPECTRUM-on csak így tudnak saját megszaktási rutint aikal-
+mazni, mivel az IM 1 belépési pontja (38h) a ROM-ban van),
+aminek következtében eszükbe sem jut az emulátoron működni.
+
+"Természetesen az új program ezt is megoldja, így máris játsz-
+hatunk például az ACE OF ACES című programmal (amely va-
+lószínűleg a repülő szimulátorok kedvelőinek a kedvence lenne,
+ha átírták volna), vagy a STREET BASKETBALL-Ial, MATOH
+DAY 1-gyel, stb. Köztudott, hogy a SPECTRUM ULA-Ja ismeri
+a FLASH: (villogás), míg a NICK nem, ezért az eredeti emulátor
+figyelmen kívül hagyja, ha egy színnek villognia kellene: ,Ez a
+Játókoknál nem túl érdekes, de az kifejezetten kellemetlen, ha
+a szerkesztő-sorban elvész a kurzor! Ha legalább inverz volna!
+(SPV) Ebből már mindenki kitalálhatja, hogy a vilogó attribú-
+tumok inverzek lesznek. (Lahatnének vilogóak is, de az eléggé
+a sebesség rovására menne.) Idáig tartott az eredeti emulátor
+ináinak kijavítása, most jönnek az ,axtrák": akinek a közelében
+akad SPECCY-DOS-sal felszerelt SPECTHUM, az bizonyára is-
+meri a MAGIC 2.4 programot is, amelynek a lényege az, hogy
+mikor megnyomjuk a MAGIC gombot (NMI), akkor lementi le-
+mezre a processzor állapotot és a teljes RAM-területet, és ezt
+később visszatöltve onnan folytathatjuk a játékot, ahol abbahagy-
+tuk, Az új emulátor-program képes betötteni az ilyen MAGIC-tájt
+(természetesen előbb át kell rángatni EXDOS lemezre a SEC /
+nevű programmal, de abból ís egy módosított váttozat kell, amely
+képes 48 Kb-nál nagyobb fájokat is kezelni. Ezt a szerkesz-
+töségtől be lehet szerezni). Ahhoz, hogy egy tájt MAGIC-fájinak
+kezeljen, betöltéskor a fájlnév első karakterének "$-t adjunk meg
+(ez nem számít bele a tényleges névbel) Ez még nem biztos, /
+ogy mindenki számára valami nagy dolgot jelent, de a most
+következő biztosan: ha egy gépi kódú program közben meg-
+nyomjuk a HOLD (PAUSE)-STOP billentyű-kombinációt, akkor
+érdekes dolog történik: megjelenik a szokásos ablak a Fájnév."
+kérdéssel... Itt három dolgot lehet cselekedni 1. Megadunk egy
+Szokásos fájnevet, ekkor a MAGIC tájlokéhoz hasonló formában
+lementődik a program (ez azt jelen, hogy a "$ segítségével
+be tudjuk tölteni az emulátoron, da SPECTRUM-on ne is pró-
+bálkozzunk), aztán folytatódik a futása (ellentétben a SPECT-
+FUM MAGIC-kel, az reset-el mentés után) 2 A $-al
+betölthetünk egy MAGIC-tájt, ez főleg bővítós gépeken Jó, pél-
+dául egy akciójáták közben egy rázós hely előtt lementjűk a prog-
+ramot a RAMDISK-be, azután ha elrontjuk, igen gyorsan
+visszatölthetjük az állást, és máris lehet újra próbálkozni, 3.
+
+LT-P-vel kezdve egy .POKET-ájt töthetünk be, amellyel
+
+könnyen hasznosíthatjuk a SPECTRUM kiadványokban szereplő
+örökélet és egyéb POKE-k százait, Ilyen fájt bárki könnyen tud
+készíteni például az ASMON-nal;
+
+DW cím
+DB ertek
+DW cim2
+DB ertek2
+
+END
+
+vagy BASIC-beni:
+10 open W1"nev" access output
+20 print 41.word$(cim1)zehr$(ertek1 );
+30 print 41:word$(cim2)zehr$(ertek2)
+
+1000 close 41
+
+Nem biztos, hogy azonnal látszik a POKE-k hatása, ezért ér-
+demes kitartóan kísérletezni, például több helyen megpróbálni
+a POKE táji betöltését: játák közben, a menüben, stb., vagy ko-
+resni egy másik POKE-t erre a játékra.
+
+Ha egy program nem hajlandó működni, akkor általában igen
+egyszerűen működővé tehetjük (sokkal könnyebb rávenni egy
+programot az emulátoron való működésre mint átírni, mivel a
+legnehezetb résztől, a színek átírásától megmenekülünk,) 1. Ha
+a program az első egy-két fájl után megáll, akkor valószínűleg
+saját betöltőrutínt használ, ami közvetlenül a magnóról tölti az
+adatokat, mivel valószínűleg nem akarjuk a SPECTRUM magnó
+hangját hallgatni, ezért térítsük vissza az eredeti ROM-rutin hasz-
+nálatához, ehhez bemutatjuk a két lagetterjedtebb ROM-rutin hí-
+Vást, és ha a programban valami ehhez hasonlót találunk, csak
+a CALL utáni cím mutat máshova, akkor a CALL utáni cím mó-
+dosításával általában már rendben fog működni a program.
+
+LD. DE.nnnn LD DEnnnn (hossz)
+LD 1X.nnnn LD IX.nnnn . (betőttési cím)
+LD Ax LD Ax —— (x általában 255)
+ScF SF
+CALL 0558H INC D
+
+EX AFAF
+
+DEC D
+
+CALL 05624
+
+2. A legtöbben úgy tudják, hogy a SPEGTRUM-on (48 Kb-
+oson) csak a 254-es port létezik, do ez nem egészen így van:
+az ULA készítői az egyszerűségre törekedtek, ezért a 254-os
+portnak megfelelő funkciók bármelyik páros számú porton elér-
+hetőek, és némelyik program nem a 254-es portot használja,
+tehát ha valamelyik program betöltődik, és látszólag minden
+rendben van (nem lesz maszatos" a képemyő), csak épp bil-
+lentyű figyelés nincs, akkor némi ASMON, FENAS, stb. hasz-
+nálatával nézzük meg, hogy ilyen esetről van-e szó, ha igen,
+akkor vegyük rá, hogy a 254-es portot használja, A páratlan por-
+toknak is van szerepük: általában 256-öt lehet ezeken beolvasni,
+da előbb-utóbb biztos, hogy egy 56-os érték is jön (legalábbis
+azon a SPECTRUM-on amin én próbálkoztam). tehát az ilyen
+utasításokat cseréljük le LD 1.56 utasításra, (Figyelem! A KEMPS-
+TON foystek illesztő az 1Fh (31) portot kezeli, ezért az erra vo-
+natkozó utasításokat hagyjuk békén) 3. A leggonoszabb eset az,
+ha a program olyan FOM-belépési pontokat használ ami az emi
+látor HOM-jában nem egészen ott van, Ilyenkor lehet keresgélni
+az elszállás okát, de nem árt ha van egy kimentett SPECTRUM
+ROM-unk a különbségek kiderítésére. 4. A program fut, de na-
+gyon lelassul, Ezek általában a szenélős" programok, amelyek-
+ben nem csak egyszerű píft-puf hangok vannak, hanem
+folyamatos zene, Ezekkel a programokkal csodát tehet, ha az
+OUT (OFEH) A utasításokat OUT (DABn) A-ra javítjuk. Itt jegyez-
+nénk meg, hogy igen sok ,kuka" átirat van forgalomban, ame-
+lyekben így megtalálhatjuk az elveszett zenét. Az SPV egy
+Sajtóhíbájának következtében pedig több programban OABh he-
+lyett OA7h szerepel, és ezért nincs hang!
+
+Összegezve: érthetetlen, hogy a SPECTRUM-emulátor ké-
+szítői miért csapták össze ennyire ezt a kíváló hardware emu-
+látort, Talán ha még egy hónapig dolgoztak volna rajta lehet,
+hogy hasonló eredményre jutottak volna. (Nekünk egy hétbe sem
+tel), Akinek szüksége van az új Emulátor-programra, keresse
+fel a szerkesztőséget. Emulátorát dímentesen átalakítjuk, és az
+új programot beégetjük a régi helyére.
+Zozoharó
+"page-009.jpg" ------------------------------------------------------------ 
+10
+
+ENNHAAHHEE]
+
+1993. július-augusztus
+
+Új formában közöljük a Dizzy 5. játék leírását,
+bár régebben a Spectrum világban is jelent meg
+már hasonló leírás. Mindenféle .körítő szöveg"
+nélkül a lényeg itt van! A leírást természetesen
+a mellékelt térképpel együtt kell használni. A tér-
+kép hátoldalán a játékban fellelhető tárgyak Iis-
+tája található. Jó szórakozást a játékhoz!
+
+XXX
+
+H-10 (START), I-5: fékező cipő fel, H-7: 1 db
+kő fel, 1-10: felhőn 1 db kő le, H-10: fékező cipő
+le, H-7: 1 db kő fel, F-8: 1 db kő le, kalapács
+fel, E-13: kalapáld ki a rossz síndarabot, E-11
+kalapács le, 1 db kő le, H-7: 1 db kő fel, H-10,
+fékező cipő fel, E-12: 1 db kő le, csillénél hasz-
+náld a fékező cipőt, E-19: zsákot fel, F-18: hang-
+szóró fel, F-15: arany lóhere fel, H-10: arany
+lóhere le, hangszóró le, H-7: 3 db kő fel, H-10:
+arany lóhere fel, C-13: manónak arany lóhere le,
+talizmán fel, C-10: mérlegre 1 db kő le, B-9:
+Grand Dizzytől nagyothalló készülék fel, 1 db kő
+le, E-9: Theonak nagyothalló készülék 4 5 csillag
+le, E-10: nagyothalló készülék le, E-12: a követ
+ne rakd le!!! Csille — D-18: a talizmán megvéd
+a szörnytől, D-19: búvár készülék fel, 1 db kő
+le, H-IO: talizmán le, F-2: nedves faág fel, H-7:
+2 db kő fel, H-IO: búvár készülék le, hangszóró
+fel, E-10: 2 db kő le, nagyothalló készülék fel,
+F-8: nedves faágat meggyújtani, Dylan fölött a
+hangszórót használd, Dylarrs bábut fel, E-9: The-
+onak Dylans bábu 4 5 csillag, E-10: Dylars bá-
+bu le, hangszóró le, nagyothalló készülék le,
+F-10: dunsztos üveg fel, H-11: dunsztos üveg le,
+füstölgő faág le, H-7: 3 db kő fel, H-I0: búvár
+készülék fel, C-1I: búvát készülék le, C-10: 1
+db kő fel, B-II: 1 db kő le, kerámia fedő fel,
+C-II: 2 db kő le, B-12: esernyő fel, H-10: ke-
+rámia fedő le, búvár készülék le, H-11: dunsztos
+üveg fel, faág fel, H-13: a fa alatt dunsztos üveg
+le, füstölgő faág le, dunsztos üveg fel, H-10: eser-
+
+DIZZY §
+
+nyő lc, F-10: medve előtt dunsztos üveg le, várd
+meg amíg odamegy, majd a gomba segítségével
+ugord át, G-10: 1 db kő le, bors-szóró fel, halom
+csont fel, F-10: dunsztos üveg fel, H-10: halom
+csont le, dunsztos üveg le, búvár készülék fel,
+1-5: bálnán a parthoz minél közelebb, bors-szóró
+le, J-8: számítógép fel, I-6: bálnán a parthoz m-
+nél közelebb, bors-szóró le, J-7: lábuszony fel, I—
+6: parton bors-szóró le, H-10: búvár készülék le,
+lábuszony le, számítógép le, H-7: 3 db kő fel, H—
+10: búvár készülék fel, C-12: 3 db kő le, búvár
+készülék le, H-7: 3 db kő fel, H-10: lábuszony
+fel, C-12: 3 db kő le, lábuszony le, H-7: 8 db
+kő fel, H-10: halom csont fel, C-12: 3 db kő le,
+búvár készülék fel, lábuszony fel, húsevő növé-
+nyen halom csont le, A-15: tengeri moszat fel,
+€-12: tengeri moszat le, C-15: Daisytől a gyémánt
+gyűrű fel, C-12: parton halom csont le, tengert
+moszat fel, D-1I: búvár készülék le, lábuszony
+le, H-10: tengeri moszat le, H-7: 2 db kő fel, H-
+10: tengeri moszat fel, gyémánt gyűrű fel, E-9:
+Thconak gyémántgyűrű 1 5 csillag, számítógép 4
+5 csillag, E-10: gyémánt gyűrű le, D-12: számí-
+tógép az asztal bal oladalán le (ha a képernyőn
+karikák jelennek meg akkor Jó), 1 db kő le, E-11:
+kalapács fel, 1 db kő le, H-7: 2 db kő fel, D-11:
+búvár készülék fel, lábuszony fel, 2 db kő le, D-
+13: a csőbe ugorj bele..., B-19: szivattyún ka-
+lapács le, a csőbe ússzál be, C-18: (kb. egy 10
+Perces kínlódás után) horgászháló fel, kalapács
+le, C-19: Dozytól kispárna fel, D-13: búvár ké-
+szülék le, lábuszony le, G-9: Pogienak a horgász-
+hálót add oda, nyakörv fel, H-7: 2 db kő fel, E-9:
+Theonak nyakörv 5 csillag, kispárna s 5 csillag,
+E-10: kispárna le, nyakörv le, 2 db kő le, H-10:
+csernyő fel, dunsztos üveg fel, kerámia fedő fel,
+H-II: az esernyő felrepít a felhőkre..., J-10: fogj
+cgy világító bogarat (a dunsztos üveget akkor kell
+lerakni, mikor egy világító bogár éppen arra repül.
+Kb. egy fél év...), H-7: 1 db kő fel, H-10: tengeri
+moszat fel, esernyő le, F-14: tengeri moszat le,
+F-13: Dóra üvegcipője fel, 1 db kő le, F-14:
+dunsztos üveg le, kerámia fedő le, H-7: 2 db kő
+fel, E-9: Thconak üvegcipő 1 5 csillag, és az utol-
+só ötöt is add oda neki, hogy saját magát is el
+tudja varázsolni, egy csomó spárga fel, (mi úgyis
+
+kábelek, nyomtatók valamint komplett
+
+SZERVEZÉSI, SZÁMÍTÁSTECHNIKAI ÉS KERESKEDELMI Kft.
+Alaplapok, RAM-ok, modulok, Floppy-k, winchesterek, kontrollerek,
+házak, monitorok, hálózati tartozékok, billentyűzetek, mouse-ok,
+
+gépösszeállítások 1 év garanciával!
+
+Appli-COMP Szervezési, Számítástechnikai és Kereskedelmi Kft
+Üzlet: Budapest, X. kerület, Állomás u. 27. (Kőbánya városközpont)
+
+"page-010.jpg" ------------------------------------------------------------ 
+1993. július-augusztus
+
+11
+
+Pírsárkánnyal megyünk...). Az üvegeipőt dobd el
+valahol, F-8: menjünk neki a bal oldali szikla-
+falnak, majd ugorjunk is neki, F-7: vedd fel a
+fadarabokat, G-9: csomó spárga le, fadarabok le,
+H-7: 2 db kő fel, D-13: búvár készülék fel, lá-
+buszony fel, B-19: ússzunk neki a falnak a kép-
+ernyő felénél, B-20: 1 db kő le, a képernyő jobb
+szélének közepén egy panel kivehető, vedd fel a
+selyempapírt, menj ki (kb. 1/2 óra), G-9: selyem-
+Papír le, F-2: képernyő bal szélén felül ússzunk
+neki a sziklafalnak..., F-1: vedd fel a papírragasz-
+tót, G-8: búvár készülék le, lábuszony le, G-.
+fadarabok fel, selyempapír fel, ragasztó szalag fel,
+egy csomó spárga fel, egy tárgy le, papírsárkány
+fel, H-11: papírsárkány segítségével repüljünk a
+felhőkre, K-12: fúrófej fel, K-1O: arra a valamire
+fúrófej le, L-10: GAME OVERII!
+
+SOMA 8. KOLBACE
+
+DIZZY 5.
+
+Grafika: 8
+Zene/FX: 6
+Játszhatóság: 7
+Az átirat minősége: 8
+
+Összhatás: 7
+
+Tisztelt Olvasóink!
+
+Elnézésüket kérjük, de a joystick-átalkítás-
+ról belgért cikket csak a következő számunk-
+ban tudjuk közölni. Megértésüket köszönjük!
+
+a szerkesztők
+
+ÖRÖKÉLET KÓDOK
+
+DIZZY 5.
+
+CR] 10FO CENTERI BFFF [ENTER] DIZZY5.COM
+TENTERI
+,LAST ADDRESS: 134E7
+
+(MI 10F2 (ENTERI 59 (ESCI
+
+(M) 111B (ENTERI 59 (ESC!
+
+IM) 119F LENTERI 50, 03 (ESCI
+
+IMI 1350 (ENTER] F5, AF, 32, 5B, C8, F1, C3,
+9D, B2 (ESC)
+
+IS] 10FO [ENTER]
+TENTERI
+
+1358 (ENTERI DIZZY5.TRN
+
+KRAKOUT:
+
+CR] 10FO CENTER] BFFF (ENTERI
+KRAKOUT.COM [ENTER]
+
+5LAST ADDRESS: 16857
+
+(MI 10F2 LENTERI 8F (ESC!
+
+(MI 1144 [ENTER] 86, 06 (ESCI
+
+(MI 1686 (ENTERI F5, AF, 32, DF, 8C, F1, C3,
+C6, BC (ESCI
+
+(SI 10FO [ENTER] 168E (ENTER]
+KRAKOUTTRN [ENTER]
+
+WRIGGLER:
+
+IR] 10FO (ENTER] BFFF [ENTER]
+WRIGGLER.COM [ENTER]
+
+,LAST ADDRESS: 14357
+
+(M) 12E7 (ENTER] 25 (ESCI
+
+(M] 1329 (ENTER] 18, OD, 00 (ESCI
+
+(M) 1338 IENTERI Fő, AF, 32, 9B, 80, F1, C3,
+FD, 7E (ESCI
+
+(SI 10FO CENTER] 1435 (ENTER]
+WRIGGLER.TRN [ENTER]
+
+KING:
+
+IR] 10FO (ENTERI BFFF (ENTER] KING. COM
+TENTERI
+
+,LAST ADDRESS: 11507
+
+(M] 10F2 [ENTER] 5A (ESCI
+
+(M] 112C (ENTER] 28 (ESCI
+
+(M] 1149 CENTER] 5E, 9C (ESC)
+
+(M] 1151 (ENTERI F5, AF, 32, DD, 22, Fi, C3,
+00, 01 [ESCI
+
+(S] 10FO CENTER] 1159 (ENTER] KING.TRN
+TENTERI
+
+DRAGON SPIRIT: (sérthetetlenség)
+
+(R] 10FO (ENTER) BFFF [ENTER]
+DRAGON S.COM [ENTERI
+
+ALAST ADDRESS: 4F98"
+
+(MI 1387 (ENTER] C3, 02, 40 (ESCI
+
+(MI 349B (ENTERI Fő, 3E, C9, 32, E2, D4, FI,
+C3, 5A, BI [ESCI
+
+IS] 10FO [ENTER] 4F98 (ENTER]
+
+DRAGON S.TRN (ENTER]
+
+Aki csak örökéletet akar, az aláhúzott C9 helyett
+00-t írjon!
+
+BRICK:
+
+(RI 10FO (ENTERI BFFF (ENTERI BRICK.COM
+(ENTERI
+
+,LAST ADDRESS: 2F987
+
+[MI 10FA.(ENTER] A2 (ESCI
+
+(M) ILE1 [ENTER] C3, 99, 1F (ESCI
+
+(MI 2F99 CENTERI Fő5, AF, 32, FF, E3, FI, C3,
+DC, DC (ESC)
+
+(SI 10FO CENTER] 2FA1 (ENTERI BRICK.TRN
+TENTER]
+"page-011.jpg" ------------------------------------------------------------ 
+12
+
+1993. július-augusztus
+
+érdőf. 1024 Ki 1 Dbasa Il: 5
+A vetési 21184 Ki 1 MICHOFRALOG: 1
+rtékelése Turbo kártya; 4
+ERKÉSRTSÉBI Buszbővítő kártya: 10 4. Milyen programokkal rendelkezik?
+Összesen 52-en küldték vissza a vssrémaóleág azzá
+kérdőíveket... Ez bizony kevést zsenit 18008. 94
+Akik visszaküldték, azoknak köszönjük!  rsegeltásígnítób átt VigaDos:
+gépet Nyomtató: 17 MUSICBOX: 15
+Ir orágrreriseg tbanáai Külső billentyűzet: 10 ASMON: 50
+snékre tás 49 Egér: 5 PGDATA: 9
+Programozásra 5 SpeakcEasy: 4 PAINTBOX: 38
+Haat a Spectrum Emulátor: 18
+Nyilvántartásra: 5 Külső joystick: 48 5. Mennyit használja a gépet?
+Szövegszerkesztésre: 5 EPROM-égető: 3 12 ért 26
+2. Milyen kiegészítésekkel rendelkezik? [9 Mdyge, "epivet Ismer? Többet: 4
+jessze] ASSEMBLY: 39 6. ismer-e 1-nől több
+Memóra bővítés: PASCAL: 23 EP-folhasználót?
+— 512 Ki 10 FORTH: 4 gen: 36
+I482K a UsP: 7 Nem: 15
+
+A géppel kapcsolatos témákban levelezner
+Kókai György, 2116 Zsámbok, László u. 80.
+
+T BOYS ENTERPRISE KLUB
+2803 Tatabánya, Pf. 3026
+
+ENTERPRISE SZÁMÍTÓGÉPEK kxx
+JAVÍTÁSA.
+
+Vidéki ENTERPRISE klubok
+
+Fólia billentyűzet-csere jelentkezését várjuk a szerkesztőség címén.
+
+beszereléssel: 2120— Ft FIGYELEM? N
+1133 Budapcst, Kárpát u. 7/a. Akik a szerkesztőség részére kazettán vagy foppy-
+Telefon: 149-7909 lemezen küldik el programjukat vagy leírásukat, küld-
+jenek olyan méretű válaszborítékot, amelyben vissza
+Nyitva: hétfőtől-csütörtökig, 9-17" tudjuk küldeni az adathordozót.
+Pénteken: 915 Köszönjük.
+Biz
+
+HIRDETÉSFELVÉTEL 9
+
+Az apróhirdetések ára: 2 Ft karakterenként, A szöveget és a befizetést
+igazoló nyugtát (rózsaszínű postautalványon) az alábbi címre kérjük
+
+Enterprise számítógép 3.5"-os 720 Kb-os és 5.257-
+
+feladni:
+Kb-os lemezegységgel, magnóval, beszédszintetizátorral, 10 AMEKO Kft.
+
+lemeznyi programmal, programkazettákkal és sok eredeti ENTERPRESS
+
+dokumentációval (pl. IS-LISP, Hisoft Devpac) 25 000 Ft-ért 1094 Budapest, Tűzoltó utca 96.
+
+eladó, Ha a lap megjelenésétől számított 1 hónapon belül] Megjegyzés: a nem saját fejlesztés szoftverek másolásával foglalkozó
+
+megvásárolod a fenti konfigurációt, egy botkormányt kapsz ( fzleikötők hirdetéseit nem áll módunkban eltagadni
+ajándékba! Érdeklődj munkaidőben a következő telefonszá-
+mon: (1) 134-4136.
+
+at
+
+Budapesti ENTERPRISE klub
+VSZM közösségi ház
+Budapest, XI. kerület, Fehérvári út 120.
+
+Enterprise számítógéphez 3.§"-os vagy 5.25"-os lemezegység
+ízéléses dobozban, tápegységgel eladó 11 000 Ft-ért.
+Érdeklődni: Faragó Gyula, Telefon: 136-7400 akk Minden héten kedden 17 órától 20 óráig 3 ak
+
+ENTERPRESS - kéthavilap az ENTERPRISE számítógépek felhasználóinak. 3 IV. évfolyam 4. szám. 3 Kiadja az AMEKO Kft.
+Budapest. Felelős kiadó: Kováos Gábor ügyvezető. itt A kiadó címe: AMEKO Kft, 1094 Budapest, Tűzoltó utca 96. 1 Alapító főszerkesztők.
+Ujlaki László és Hajnal Csaba. 3 Felelős szerkesztó: Matusa István. A szerkesztőség tagjai: Kulcsár Tibor, Haluska László, Mészáros
+Gyula, Zozosott 8. Apuci, Plotr, Lolasott. 4 A szerkesztóség csak levélben érhető ell A cím: ENTERPRESS, 1399 Budapest, Pt.
+701/334. 3k Technikai szerkesztő: Vincze Györgyné. :k Készült az AMEKO Kft. nyomdájában, Felelős vezető: Kovács Gábor. 4
+Előfizethető az AMEKO Kft. címén, dr A lapot csak előfizetés útján lehet megrendelni! if Előfizetési díj fél évre 138 Ft, egy évre
+276 Ft. 3k A közölt programokat, kapcsolási rajzokat, leírásokat mindenki szabadon felhasználhatja, de Ulos azokat a kiadó írásboli
+engedélye nélkül másolni, terjeszteni. 1 ENTERPRESS 0 1993 AMEKO Kt.
+

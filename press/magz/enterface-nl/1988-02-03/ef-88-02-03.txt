@@ -1,0 +1,1173 @@
+"page-000.ppm" ------------------------------------------------------------ 
+E lj E ide
+
+Prottuhen
+
+"page-001.ppm" ------------------------------------------------------------ 
+INHOUDSOPGAVE
+
+VOORPLAAT			SPOCK'S PAGES .… „12-13
+INHOUDSOPGAVE 			MACHINE PERIKELEN " „ 14-15
+COLOFON 			ALTERNATIEVE CODE „16
+
+				1638400 BYTES IN SYSTEM
+				ENTER EN RETURN
+
+VERSLAG HCC-DAGEN .
+
+VAN DE REDAKTIE
+
+NOTULEN VAN DE JAARVERGADERING ……
+
+ANALOGE EN DIGITALE KLOK
+
+ADRESSEN OM TE WETEN
+
+AGENDA GEBRUIKERSDAGEN .
+
+GEBRUIKERSDAG-ALGEMEEN 6 FEB, 16 APR
+H.F. Witte dorpshuis, Henri Dunantplein 4, DE BILT
+bus 57 vanaf CS, halte Nobellaan, Nobellaan in. 3e weg links
+
+GEBRUIKERSDAG-NOORD …-.- 30 JANUARI
+Midgetgolfbaan NIENOORD, Bosweg LEEK
+
+COLOFON
+
+De ENTERFACE is het officiele ergaan van de Dutch Enterprise User
+Group en verschijnd eens per twee maanden.
+
+REDAKTIE -…… Robin Ketelaars. Geerweg 2, 2611 VN DELFT, 015-126422
+
+MEDEWERKENDEN .... Stan, Arjan. G., Spock, .......sennendn eneen eenen
+and that's all folks!
+
+VOORPLAAT Een ENTERPRISE picture uit de GE TXP-1000 printer
+
+KOPIJ Inzenden op DISK: of TAPE: tot 6 MAART 1988
+
+ZIE VOORWAARDEN IN DIT NUMMER. 72 tekens * 50 regels
+le regel = titel die bovenaan bladzijde komt
+
+SALT \> voor een zin geeft nieuwe titel.
+
+<ALT L> idem inlusief nieuwe bladzijde.
+
+PRINT met F3 <naam>.KPY. TAB's onder L(oad) en E(xit)
+
+OVERNEMEN … van de gehele of gedeeltelijke inhoud toegestaan
+DRUKWERK ……….… DRUK. TAN HECK, Pluympot 1 , 2611 LX DELFT
+
+4
+BESTUUR . zie bladzijde 2Á, bellen op de aangegeven tijden!
+
+SOFTWARE Binnenkort een nieuw adres voor het inleveren en
+aanvragen van software. Dit omdat de doos met floppies
+aan het verhuizen is. Of op gebruikersdag in DE BILT
+
+"page-002.ppm" ------------------------------------------------------------ 
+VERSLAG HCEC-DAGEN 1987
+
+We hebben ze weer gehad. die dagen met enthousiaste computer ge-
+bruikers. met speurders naar hardware en software. koopjesjagers
+en kijkers naar al dat moois dat over twee jaar weer hopeloos
+achterhaald zal zijn. Het is bijna onmogelijk alle ontwikkelinaen
+volledig bij te houden.
+
+Was GEM vorig jaar de topic. dit jaar telde je pas mee als je die
+paar machine instructies van de RISK-processor kon voordragen.
+Als je nu vraagt naar de toepassingen van al dat moois dan blijkt
+dat het niet zo veel meer is dan wat er op de ENTERPRISE al
+mogelijk was
+
+Multi-tasking 1s ook op onze machine in principe mogelijk wanneer
+programma's als system-extension zijn gebouwd met een interne
+stack en variabelen tabel. Een main-program zou pointers en
+paginering moeten vast houden. Het springen tussen main-prog en
+system-extensions kan op basis van een interrupt of een
+ingeprogrammeerd signaal.
+
+Zo loopt er soms bij mij een program dat veel rekent en meerdere
+malen per daa onverwacht 8 pagina's printwerk genereert.
+Tegelijkertijd is STIJD128.BAS van Fabian nog "actief" en zorgt
+de printerspooler van Patric voor gebufferde output. Dit zijn dus
+3 onafhankelijk van elkaar lopende taken. Natuurlijk, voor elke
+machine met maar een processor geldt dat al dat springen extra
+overheadtijd kost, maar wie zei er dat de ENTERPRISE
+
+primitief was?
+
+Over belangstelling hadden we ook niet te klagen. er stonden 4
+machines continu wat demo's te draaien. Dit jaar was INTERFER.BAS
+van Synthese Studio veruit favoriet. vooral bij de dames. Voor de
+heren was het Tientje van Martin de Groot een feest van herken-
+ning. Op het grensgebied met de naast liagende stand had Sonja
+Labordus haar serie “onmogelijke obiecten” regelmatig op de
+monitor.
+
+Wanneer we het aantal ENTERPRISES in Nederland in verhouding
+zetten tot de aandacht die we hebben gekregen dan mogen we ook
+dit jaar bijzonder tevreden zijn.
+
+STAN
+
+Je hebt gelijk Stan. met de ENTERPRISE is alles mogelijk met
+andere machines ook kan. alleen niet zo snel. We zijn af en toe
+een bakkie koffie drinken.
+
+Op de stand naast de ENTERPRISE stonden Atari-ST computers, de
+mensen die zomaar kwamen kijken zagen onze (interlace)-plaatjes
+en dachten dat die uit de ST kwamen. maar dat was natuurlijk niet
+
+zo!
+
+"page-003.ppm" ------------------------------------------------------------ 
+OVER DE REDAKTIE GESPROKEN
+
+De meesten van jullie hebben nu zes en een half nummer van de ENTERFACE
+thuis gestuurd gekregen.
+
+Uit vragen die mij ter ore komen op gebuikersdagen weet ik dat er een
+aantal abbonnees is die deze blaadjes nooit lezen, of niet grondig, dat
+moeten ze natuurlijk zelf weten. Het gaat hier om een blad dat je gratis
+toegestuurd krijgt wanneer je DEUG-lid bent.
+
+Het gaat juist om de mensen die de ENTERFACE een welkom periodiek vinden
+en die telkes een week of twee naar de brievenbus lopen om te kijken of
+het nieuwe nummer er al is.
+Tijdens deze twee weken wordt op de redaktie het blad in elkaar ge-WP-t.
+Op de ENTERPRISE natuurlijk.
+
+De meeste (alle) kopij komt nog steeds niet op het door de redaktie
+gewenste formaat. Nu is hier nooit een duidelijke richtlijn voor
+verschenen, behalve enkele regels voorin het blad.
+
+Dit was ook niet zo nodig, de redaktie vond het leuk om met de WP alle
+kopij te editen en in de vorm van de ENTERFACE te gieten.
+
+Daarbij had de redaktie voldoende tijd om dit te doen, een deeltijd-
+tweeverdiener zogezegd.
+
+Nu echter is dit veranderd. De redaktie heeft zich voortgepland en voor
+erfopvolging gezorgd. Dit kost echter veel tijd. Voeden, koesteren,
+bijslapen, en centen verdienen.
+
+De deeltijd-tweeverdiener is een voltijd-tweeverdiener geworden en deze
+persoon wil toch nog graat de ENTERFACE helpen verschijnen.
+
+Daarom nu een RICHTLIJN VOOR KOPIJ:
+
+ALLE KOPIJ DIENT OP FLOPPY AANGELEVERD TE WORDEN IN HET VOLGENDE FORMAAT:
+
+LINKER-KANTLIJN ONDER DE L VAN Load
+RECHTER-KANTLIJN ONDER DE E VAN Exit ( 72 TEKENS PER REGEL)
+
+EERSTE REGEL MAXIMAAL 30 TEKENS ZONDER CONTROLE TEKENS (TITEL VAN KOPIJ)
+HET AANTAL REGELS PER PAGINA IS 50 (exclusief titelregel)
+
+ZORG VOOR EEN VOLLE PAGINA (ANDERS STAAT HET ZO LEEG)
+HOUD EVENTUEEL REKENING MET JE EIGEN BIJGELEVERDE PLAATJES\TEKENINGEN
+
+DIT FILE PRINTEN MET F3 <filenaam).KPY
+
+CONTROLE TEKENS WORDEN DOOR DE REDAKTIE NIET TOEGEVOEGD\WEGGEHAALD
+SPEL\STIJLVOUTEN WORDEN DOOR DE REDAKTIE NIET MEER VERWIJDERD
+
+ZELF KUNT JE BINNEN DEZE GRENZEN JE LAY-OUT MAKEN
+HEB JE EEN PRINTER, DAN KUN JE OOK EEN PRINTOUT OP DIT FORMAAT INSTUREN
+
+"page-004.ppm" ------------------------------------------------------------ 
+OVER DE REDAKTIE GESPROKEN
+
+KOPIJ INSTUREN VOOR DE UITERSTE INZENDDATUM VERMELD VOORIN HET BLAD
+
+VOOR ALLE KOPIJ DIE NIET AAN BOVENSTAANDE EISEN VOLDOET KAN MOEILIJK TIJD
+WORDEN VRIJGEMAAKT. EN WORD DUS MOEILIJK OM TE PLAATSEN
+
+Zo worden we dus met z'n allen de redaktie. Het blad zal er aan de
+binnenkant dus wat levendiger uit gaan zien. Verschillen in stijl,
+lettertekens en opmaak.
+
+Alleen het formaat blijft hetzelfde.
+
+Op de redaktie wordt het file met de extensie .KPY via de computer
+gelezen en er worden kopies toegevoegd, (titel van regel 1)
+
+Wil je verschillende titels maak dan meer files met de extensie .KPY
+
+Je kunt ook <ALT L> voor een regel zetten (pijtje rechts). Dan wordt de
+bodemregel geprint en worden eventuele regels tussengevoegd. De regel met
+SALT L> wordt de nieuwe titel op de volgende bladzijde. Dan wordt de rest
+van de tekst geprint.
+
+Wanneer je <ALT \> voor een regel zet wordt er alleen maar een titelregel
+geprint zonder dat er een nieuwe bladzijde wordt aangemaakt. Dit is leuk
+voor wanneer je een aantal artikeltjes maakt.
+
+De pijties-regels tellen niet mee in het totale aantal van de tekst. Dit
+aantal moet je een veelvoud van 50 laten zijn. anders is de rest van de
+bladzijde leeg.
+
+Een tussengevoegde titelregel neemt 2 regels in beslag dus je kunt
+wanneer je er een gebruikt maar 48 regels tekst maken.
+
+Een regel met alleen spaties telt ook mee in het totale aantal.
+
+Wanneer je plaatjes instuurd kun je dit doen op het formaat van de
+voorplaat (13 x 13 cm), vermeld een (1) extra kleur naast zwart. of in je
+eigen formaat.
+
+Maak wel binnen het kader (72 tekens x 50 regels) een uitsparing voor
+deze figuren\plaatjes\fotos.
+
+Houdt er rekening mee dat de het formaat 70% kleiner wordt (ongeveer A4
+naar A5). Je kunt de plaatjes dus laten verkleinen of op dezelfde
+grootte laten.
+
+Zo worden de handelingen door de redaktie zeer verminderd en kan zij de
+optimale verschijningsdatum handhaven.
+
+"page-005.ppm" ------------------------------------------------------------ 
+NOTULEN JAARVERGADERING
+
+NOTULEN JAARVERGADERING “DEUG" GEHOUDEN OP 16-05-87 TE DE BILT
+
+Aanwezig bestuur: Aanwezige leden: 26
+Stan Tuinder (voorz.) Aanvang : 14.30 uur
+Erik Berends (secr) Afwezig best.: Menno Bins
+
+Richard Sargent (S.W.L.)
+Hans Roelofs (Educ.)
+Robin Ketelaars (advis./red.)
+
+Agenda
+
+Opening en mededelingen.
+
+Goedkeuring notulen dd 21-06-86,
+
+Vaststellen agenda.
+
+Jaarverslag door de voorzitter.
+
+Verslag kaskommissie.
+Kandidaatstelling/herverkiesbaarstelling bestuursleden
+PAUZE
+
+Verkiezing nieuw bestuur en nieuwe kaskommissie.
+Verslagen van de Hard- en Software sectie's.
+
+10. Verslagen van de kontaktpersonen regionale groepen.
+11. Verslag van de afdeling Enquetes.
+
+12. Toekomstige aktiviteiten.
+
+13. Begroting en voorstel kontributie 1988
+
+14. Rondvraag.
+
+15. Sluiting.
+
+VONDA ON
+
+1. Opening en mededelingen.
+De voorzitter opent om half drie de vergadering „heet de aanwezige
+
+leden welkom en deelt mee dat de kaskommissie haar verslag door af—
+wezigheid van Jaco Dubbeldam schriftelijk heeft uitgebracht. Hij
+verzoekt Peter van Helvoirt van de bevindingen kennis te nemem en de
+brief onder de leden te laten circuleren.
+
+2. Goedkeuring van notulen Jaarvergadering 21-06-86
+De notulen worden zonder wijziging goedgekeurd.
+
+3. Vaststellen Agenda
+De agenda wordt conform vastgesteld.
+
+4. Jaarverslag door de voorzitter ú
+De voorzitter behandelt aan de hand van het uitgebrachte jaarverslag
+in het kort de genoemde punten en memoreert dat de meeste CPM
+applicatie software goed draait op de machines met meer dan 64K.
+
+Het ledental is gestaag gegroeid van +/- 180 naar 215 leden.
+
+Er zijn een aantal nieuwe ontwikkelingen in gang gezet waaronder:
+
+Het IBM keyboard interface (Hennus Bergman),een nieuwe Disk-controller
+(Gelderse groep) Onder de regionale groepen is vooral groep Noord
+
+Ss
+"page-006.ppm" ------------------------------------------------------------ 
+NOTULEN JAARVERGADERING
+
+organisatorisch zeer aktief .De groep Gelderland telt 7 aktieve leden.
+
+5. Verslag kaskommissie
+De voorzitter bedankt de Kaskommissie voor haar werk en de opbouwende
+
+kritiek die inmiddels op de administatie werd toegepast.
+Hij stelt de vergadering het uitgebrachte verslag voor kennisgeving
+aan te nemen en de Kaskommissie te dechargeren. Voorstel aangenomen.
+
+6. Kandidaatstelling/herverkiesbaarstelling bestuursleden.
+
+Het bestuur draagt Robin Ketelaars als kandidaat bestuurslid voor.
+
+De aanwezige bestuursleden stellen zich allen herkiesbaar.
+
+De voorzitter vraagt wie van de aanwezigen zich kandidaat stelt als
+bestuurslid „ meer specifiek voor de post bestuurssecretaris ter
+ontlasting van de huidige die door persoonlijke omstandigheden
+hieraan minder tijd kan besteden.
+
+Fons Kraakman wordt bereid gevonden voor deze post.
+
+7. Pauze
+
+De voorzitter stelt i.v.m. de tijd de pauze te verdagen. Voorstel
+aangenomen.Twee leden van de gelderse groep komen op ludieke wijze
+de vergadering het hot-news presenteren dat de Disk-controller werkt!
+
+8. Verkiezing nieuw bestuur en nieuwe kaskommissie
+
+De voorzitter vraagt de leden of er bezwaar tegen het kiezen bij
+acclamatie is.Niemand heeft bezwaar.De aanwezige kandidaten worden
+conform de voordracht gekozen.
+
+De voorzitter vraagt drie kandidaten voor de kaskommissie.
+
+De heren Jansen op de Haar,Pim Verkerk en Arjan van Gog zijn hiertoe
+bereid en worden eveneens bij acclamatie gekozen.
+
+9. Verslagen van de Hard- en Software secties
+
+De meeste leden hebben het nieuwe disk interface kunnen bewonderen.
+Peter v. Helvoirt doet namens de Gelderse GG verslaa van de ontwik-
+keling v‚n. het printontwerp en de behuizing die boven op de computer
+wordt gemonteerd.Het benodigde Exdos Eprom wordt niet door hen
+geleverd.Dit kan men bij Albert Hekman bestellen.
+
+Albert Hekman doet verslag over de ontwikkeling van de Ramuitbreiding
+de (sommige) onverwachte moeilijkheden na inbouw en hij vraagt enig
+geduld voor aflevering i.v.m. drukke studie van Bill Spinhoven.
+Verder staat de ontwikkeling van een Quad density Disk Driver (QDD) op
+stapel (Hennus Bergman) en maakt hij gewag van de PC1 een IBM Look-
+alike.De moeiliikheid is dat het werk steeds op dezelfde rug neerkomt
+en hij vraagt liefhebbers voor assistentie voor deze in v.n. software-
+projekten.Men vraagt uit de zaal of voorbeelden uit het techn. manual
+en Gen routines niet eens in de Enterface gepubliceerd kunnen worden.
+Daardoor zou een beter begrip kunnen ontstaan bij diegenen die moeite
+hebben met de betreffende manuals.
+
+Hendrik Jan Kooy is bezig met AD converter (niet op video) Er is ook
+belangstelling voor MIDI interfaces. Men wijst op Electuur schema's.
+Verslag SWL door Richard Sargent: Aanvragen varieren van 5 tot 20
+
+Z
+"page-007.ppm" ------------------------------------------------------------ 
+NOTULEN JAARVERGADERING
+
+bestanden.Er zijn ca 75 aanvragen over het jaar,sommigen vragen hele
+SWL bestand aan.Op de verpakking en het bijsluiten van retourporto is
+nogal eens wat aan te merken.Ook blijkt men de tapecapaciteit wel
+eens te overschatten.Het aantal inzendingen is gegroeid evenals de
+kwaliteit.
+
+10. Verslagen van de kontaktpersonen van regionale GG's
+
+Verslag GG Noord door Kees van der Dongsweinig spectaculaire zaken te
+melden,men is samen gezellig bezig.B.v.Inbouw van machines in kast, los
+keyboard e.d.
+
+Verslag Peter v. Helvoirt (zie onder 9.)
+
+Voorzitter roept op om vooral kontakt te leggen en aktiviteiten te
+gaan ontplooien.Hij memoreert GG Zuid waar Stichting Synthese Studio
+actief is op het gebied van grafiek met geluid.
+
+11. Verslag van de afd. Enquetes
+Dit punt wordt niet behandeld door voortijdig vertrek van Robin
+Ketelaars naar elders.
+
+12. Toekomstige aktiviteiten.
+
+De voorzitter stelt dat de toekomstige aktiviteiten voor een groot
+deel afhangen van de zelfwerkzaamheid en inventiviteit van de leden.
+Hij wijst erop dat door het voortijdig einde van Enterprise Ltd en het
+gebrek aan publiciteit onzeker is hoelang deze computer voor een
+select gezelschap nog aantrekkelijk blijft.Wij hebben het initiatief
+genomen de kontakten met buitenlandse groepen te zoeken en of te
+herstellen.Eveneens is een brief gestuurd aan Enterprise GmbH om
+opheldering over de rechten en aktiviteiten te krijgen.Verder denken
+wij meer publiciteit te zoeken.Dit kan met oa. een goed niet specifiek
+Enterprise programma ter publicatie aanbieden in b.v. PC world.
+
+Vanuit de leden wordt opgemerkt dat met kleine advertenties zoals:
+“Enterprise gebruikersgroep zoekt gebruikers",men dit ook kan bereiken.
+De leden ervaren het aanwezig zijn op de HCC dagen duidelijk positief
+en wij zullen daar dus acte de presence geven.
+
+Vanuit het bestuur wordt het opzetten van regionale groepen gest imu-
+leerd.Zo hopen we dat binnenkort een groep Noord-Holland opgestart
+wordt.T.a.v. CPM PD applicatieprogramma's is er nog veel uit te zoeken
+en waar mogelijk aanpassingen te plegen en documentatatie te maken.
+Assistentie hierbij is uiterst welkom.Verder zal een selectie uit goed
+werkende programma's tegen kostprijs als intro beschikbaar gesteld
+worden.Dit is tevens een goede gelegenheid tot opschonen van SWL
+bestand.
+
+13. Begroting en voorstel kontributie 1988.
+
+In het kort wordt de gepubliceerde begroting nader belicht en goed-
+gekeurd. Het voorstel de kontributie voor 1988 op f 45,- te handhaven
+wordt eveneens goedgekeurd.
+
+14. Rondvraag
+Diverse vragen en opmerkingen hebben betrekking op winnen van
+
+8
+"page-008.ppm" ------------------------------------------------------------ 
+NOTULEN JAARVERGADERING
+
+publiciteit en de kontakten naar buiten.De sekretaris licht dit nader
+toe evenals de oorzaak van verminderde drukwerkkwaliteit laatste
+nummers van The Enterface.Graag zou men de planning van landelijke GB
+dagen uitgebreid zien tot minimaal 2 vooraf .Sekretaris antwoordt dat
+juist hierover besluit is genomen een jaarschema te publiceren.
+
+15. Sluiting
+De voorzitter sluit onder dankzegging voor het genoten vertrouwen de
+
+vergadering om 4 uur met mededeling dat eerstvolgende GB dag op zat.
+22 aug. a.s. zal plaats vinden.
+
+ANALOGE EN DIGITALE KLOK
+
+100 PROGRAM “tv_klok”
+110 SET INTERRUPT STOP OFF
+120 OPTION ANGLE DEGREES
+130 LET TIJD$=""
+
+140 LET GUMs-" BIEN:
+150 !
+
+160 CALL TEKEN KLOK
+170 DO
+
+180 LET IS=INKEY$
+190 CALL DIGITAAL
+200 IF TIME$(7:8)="00" THEN
+
+210 CALL GROTEWIJZER(0)
+220 CALL KLEINEWIJZER(O)
+230 CALL DIGITAAL
+
+240 CALL GROTEWIJZER(2)
+250 CALL KLEINEWIJZER(2)
+
+260 END IF
+
+270 LOOP UNTIL I$=CHR$(27)
+280 TEXT 80
+
+290 SET INTERRUPT STOP ON
+300 END
+
+310 !
+
+320 DEF DIGITAAL
+
+330 LET TS=TIJD$
+
+340 LET TIJDS=TIME$
+
+350 IF TIJDSC>T$ THEN
+
+360 IF TIME$(1:8)="00:00:00" THEN
+370 CALL WIS(1)
+
+380 PRINT £1.AT 1,5:DATES:EXIT DEF
+390 ELSE IF TIME$(4: “00:00” THEN
+400 CALL WIS(2):EXIT DEF
+
+410 ELSE IF TIME$(5:8)="0:00" THEN
+420 CALL WIS(4) :EXIT DEF
+
+430 ELSE IF TIME$(7:8)="00" THEN
+
+"page-009.ppm" ------------------------------------------------------------ 
+ANALOGE EN DIGITALE
+
+KLOK
+
+440
+450
+460
+470
+480
+490
+500
+510
+520
+530
+540
+550
+560
+570
+580
+590
+600
+610
+620
+630
+640
+650
+660
+670
+680
+690
+700
+710
+720
+730
+740
+750
+760
+770
+780
+790
+800
+810
+820
+830
+840
+850
+860
+870
+880
+890
+900
+910
+920
+930
+
+CALL WIS(5) :EXIT DEF
+ELSE IF TIME$(8:8)="0" THEN
+CALL WIS(7):EXIT DEF
+ELSE
+CALL WIS(8) :EXIT DEF
+END IF
+END IF
+IF TIME$(4:8)="59:59" THEN
+SOUND PITCH 83,DURATION 8
+SOUND PITCH-1,DURATION 24
+END IF
+END IF
+END DEF
+
+DEF WIS(X)
+SET £3:INK O
+PRINT £3:TAB(X+1) „GUM$ (X:8)
+SET £3:INK 2
+PRINT £3:TAB(X+1) „TIME$ (X:8)
+END DEF
+hj
+
+DEF KLEINEWIJZER(X)
+CALL DIGITAAL
+LET UUR=VAL(TIME$(1:2))
+CALL HOEK (30* (UUR+12* (UUR>=12) +(NOT X)))
+SET £4cINK X
+PLOT £4:FORWARD 200,
+END DEF
+
+DEF GROTEWIJZER(X)
+CALL DIGITAAL
+CALL HOEK(6* (VAL(TIME$(4:5))+(NOT X)))
+SET £4:INK X
+PLOT £4:FORWARD 250,
+END DEF
+hj
+DEF HOEK (H)
+PLOT £ 40,380,
+NGLE 90-(H-360% (HXO)) ;
+
+DEF MAAK SCHERM
+TEXT 40
+SET STATUS OFF
+SET VIDEO MODE O
+SET VIDEO COLOUR 0
+SET VIDEO X 42
+SET VIDEO Y 21
+OPEN £1:"video:"
+SET VIDEO MODE 1
+
+1o
+"page-010.ppm" ------------------------------------------------------------ 
+ANALOGE EN DIGITALE KLOK
+
+940 SET VIDEO COLOUR 3
+950 OPEN £ vide
+960 SET VIDEO COLO
+970 OPEN £4: "vide:
+980 DISPLAY £1:AT 1 FROM 1 TO 1
+990 DISPLAY £3:AT 23 FROM 18 TO 21
+1000 DISPLAY £4:AT 2 FROM 1 TO 21
+1010 END DEF
+
+1020 !
+
+1030 DEF TEKEN KLOK
+
+1040 CALL MAAK SCHERM
+
+1050 SET £4:INK 2
+
+1060 640, 380;
+
+1070 LLIPSE 340,340,
+
+1080
+1090
+1100
+1110
+1120
+1130
+1140
+1150
+1160
+1170
+1180
+1190
+1200
+1210
+1220 SET £3:INK 2
+
+1230 CALL KLEINEWIJZER(2) :CALL GROTEWIJZER(2)
+1240 PRINT £1,AT 1,5:DATE$
+
+1250 SET £4:INK 2
+
+1260 40, 380;ELLIPSE 5,5;
+
+1270 40.385, PAINT
+
+1280 END DEF
+
+1290 ! “8507 mister spock data ——--- ENTERPRISE 64
+
+22
+"page-011.ppm" ------------------------------------------------------------ 
+SPOCK' S DIRECTORYVARIABELEN
+
+Het is in een programma soms handig om de gegevens uit de directory van
+een disk te gebruiken. Je wilt misschien iets doen met sommige files en
+je wilt niet de namen invoeren of in DATA-regels zetten.
+
+Dit programma geeft de oplossing.
+
+- 1 t/mS5 ipv At t/m Ez
+= handig voor CHAIN
+
+100 PROGRAM "filedir.bas" (DRIVE_NR)
+110 IF NOT DRIVE_NR THEN LET DRIVE_N
+120 TEXT 80
+
+130 STRING FILE$(100)
+
+140 WHEN EXCEPTION, USE E_IS_ER
+
+150 _ EXT "ramdisk 10":G0T0 160
+
+160 END WHEN
+
+Hier wordt de directory in het file DIR.DIR gezet met behulp van het
+REDIRECT-commando. Het DRIVE_NR kun je meegeven in een CHAIN statement.
+Wanneer bv. het programma in PROGRAM 4 zit hoef je alleen maar CHAIN 4(5)
+te doen om de RAMDISK uit te lezen. De default is drive A:.
+
+170 OPEN £2:"eidir.dir" ACCESS OUTPUT
+
+180 REDIRECT FROM £0 TO £2
+
+190 EXT "dir "&CHR$(DRIVE_NR+64)&": /h":GOTO 200
+200 REDIRECT TO £0
+
+210 CLOSE £2
+
+Alle gegevens zijn nu het file DIR.DIR binnengeloodst. We hoeven nu dit
+file alleen nog maar uit te pluizen. Hier gaat het ARRAY FILES() alle
+files tot haar nemen.
+
+De DO-LOOP is er om eventuele foutmeldingen die in het file staan te
+vergeten. Deze foutmeldingen komen door bijvoorbeeld geen, of de ver
+keerde disk in de drive te doen, sterker nog: het deurtje open te laten.
+
+220 OPEN £31
+230 DO
+
+240 LINE INPUT £3:REGEL$
+
+250 LOOP UNTIL LCASES (REGELS (:6))="volume"
+
+260 LET DISK_NAAMS=REGEL® (191)
+
+270 LINE INPUT £5:REGEL&
+
+280 LET DISK_PATHS=REGEL® (141)
+
+290 LINE INPUT £5:DUMMY$
+
+300 FOR FILE=O TO 128
+
+310 LINE INPUT £3,IF MISSING EXIT FOR:REGEL$
+320 LET FILE$(FILE) =REGELS
+
+330 NEXT
+
+540 CLOSE £3
+
+350 EXT "era e:dir.dir":G0TO 360
+
+dir.dir"
+
+Dit was het invoer programma. Nu komen de disk- en file-bizonderheden. Ik
+heb dit met DEF's gedaan. Het kan ook met ARRAY's, maar die eer die
+gevuld zijn! Dit is trouwens veel mooier vind ik.
+
+12
+"page-012.ppm" ------------------------------------------------------------ 
+SPOCK'S DIRECTORYVARIABELEN
+
+360 LET AANTAL _FILES=FILE-1
+
+370 LET EIND$=FILE$(FILE-1)
+
+380 LET TOTAL _SPACE$=EIND$ (+ POS (EIND$, "in")-1)
+
+590 LET FREE_SPACE$=EIND$(POS(EIND$, "files")+5:POS(EIND$, "fre")-1)
+
+510 DEF FILENAAMS(F)=FILES(F) (148)
+520 DEF EXTENSIONS (F)=FILES(F) (10:12)
+530 DEF HIDDENS(F) =FILES(F) (13)
+
+540 DEF R_ONLY$(F) =FILES(F) (14)
+
+550 DEF ARCHIVES (F)=FILE$(F) (15)
+
+560 DEF FBYTES$(F)=FILES(F) (16:22)
+570 DEF FDATUM$(F)=FILES(F) (244 31)
+580 DEF FTIJD$(F)=FILES(F) (5:
+
+Nu kan het allemaal gebruikt worden. Je kunt natuurlijk je eigen dingen
+met al deze gegevens doen. Sorteren op diverse volgordes, etc.
+
+400 PRINT “naam van de disk :";DISK_NAAM$
+
+410 PRINT "disk en directory :";DISK_PATH$
+
+420 PRINT “aantal files s AANTAL _FILES
+
+450 PRINT "geheugen op disk : TOTAL _SPACES
+
+440 PRINT "vrij op disk 1"; FREE_SPACES
+
+450 PRINT
+
+460 FOR 1=0 TO AANTAL, FILES-1
+
+470 _ PRINT FILENAAMS (1) sEXTENSIONS (1) ‚R_ONLY$(I) ;HIDDENS (1) ,
+480 _ PRINT ARCHIVES(I) ,FBYTES$(I) ,FDATUMS (1) „FTIJDS (1)
+490 NEXT
+
+500 END
+
+Er was ook nog een HANDLER nodig vanwege het bestaan van een RAMDISK
+
+590 HANDLER E_IS_ER
+600 IF EXTYPEX59157 THEN EXIT DEF
+610 _ CONTINUE
+620 END HANDLER
+
+Iedereen kan nu van hartelust met zijn/haar directorys gaan spelen. Je
+kunt alles in files zetten die weer in DBASE geladen kunnen worden, dan
+kun je je hele flop'otheek in een bestand zetten. Hier kun je
+fantastisch zoeken en sorteren.
+
+Het gestroomlijnde computeren komt zo in zicht!
+SPOCK
+
+"page-013.ppm" ------------------------------------------------------------ 
+MACHINETAAL PERIKELEN
+
+Er is door verscheidene mensen gevraagd of iemand een programma wou
+maken, waarmee je in de WP character codes <32 of >159 naar de printer
+kunt wegschrijven. Ik heb zo'n programma gemaakt. in de vorm van een
+relocatable system extension, die je dus als dubbele-punt-commando kunt
+oproepen (in de WP dus na F8). Er mankeert echter nog een kleinigheidje
+aan:het werkt niet vanuit de WP. alleen vanuit BASIC.
+
+Wat er namelijk fout gaat, is het lezen uit de EDITOR van de WP (de WP
+gebruikt trouwens £205 als EDITOR-channel). Als het programma wordt
+opgestart. krijg ik de absurde foutcode OE4h = Protection violation. Maar
+dit is een foutmelding voor files, die niks met de EDITOR te maken heeft.
+Wie helpt mij ? (en daarmee vele anderen).
+
+Het programma zoals het nu is. staat hieronder. en moet in GEN worden
+gezet na het MAIN label van de XR-HEADER van Richard en Patrick in de
+biblioheek (je verandert natuurlijk ook even NAMES in de header in een
+echte naam). Als je de waarden 205 na de ‘aanroep’ van de macro RD_CHAR
+
+in O verandert, en het geheel assembleert met A,.R7 B 2 en de XR op
+disk of tape zet met O.,PRINT.XR heb je een programma dat wel vanuit
+BASIC werkt. 7
+
+Als het programma twee pijltjes naar beneden tegenkomt (dat pijltje zit
+onder <ALT> @), zet het de volgende drie cijfers om in een character
+code. Je moet altijd drie cijfers geven, dus als je CHR$(14) naar de
+printer wilt sturen doe je :{twee pijltjes naar beneden>014. Als niemand
+mij kan helpen zit er nog maar een ding op, en dat is een eigen
+tekstverwerker schrijven (wat natuurlijk niet zo moeilijk is als je een
+EDITOR-channel gebruikt)
+
+Wie trouwens een TXP-1000 printer heeft, is trouwens extra gebaat bij de
+oplossing van dit probleem. Ik ben namelijk bezig met een programma dat
+de mogelijkheden van de TXP-1000 printer flink uitbreidt. Een
+proefversie, die de printer schuinschrift en inverse kan laten printen
+werkt inmiddels (vanuit BASIC). Het is de bedoeling dat er ook nog een
+BANNER optie komt (vier keer zo grote letters, maar even scherp als de
+kleine). Als je geinteresseerd bent, schrijf dan NU even een briefje. Ik
+hoop het programma in april/mei af te hebben.
+
+RD_CHAR MACRO @CHAN
+LD A, @CHAN
+
+RST 30h
+
+DEFB 5
+
+ENDM
+
+WR_CHAR MACRO @C,@K
+LD A,@C
+
+LD B,‚@K
+
+RST 30H
+
+DEFB 7
+
+ENDM
+
+14
+"page-014.ppm" ------------------------------------------------------------ 
+MACHINETAAL PERIKELEN
+
+VAR MACRO @V,@N
+LD B‚1
+
+LD C,@V
+
+LD D,@N
+
+RST 30H
+
+DEFB 16
+
+ENDM
+
+MAIN
+
+VAR 32,%11000000
+MAINLOOP RD_CHAR 205
+cp 0
+
+JP Z,GADOOR
+
+LD HL, 10000
+
+LD (HL) ,A
+
+JP EXIT_ACC
+
+GADOOR LD A,"
+
+CP B
+
+JP Z,CHR
+
+PRINT WR_CHAR 104,B
+JP_MAINLOOP
+
+DEFS 3
+
+CHR LD HL,O
+
+RD_CHAR 205
+
+LD A,“
+
+CP B
+
+JP _NZ,NO_CHR
+
+Bepaal te printen CHR-code
+
+Ik weet het, deze routine is walgelijk, maar het werkt.
+
+=d LET B=CHAR
+
+-Detecteer fout, zet code
+in adres 10000 en terug
+naar basic
+
+=> IF B=" THEN GOTO
+CHR
+
+RD_CHAR 205
+
+LD A,B
+
+LD B,48 ;CHR$ (48) ="0". ORD ("0") -48=0
+SBC A,B :A wordt ORD (CHR$(A)) -48
+
+JP Z,VOLGENDE ;ALS O VERDER MET DIGIT 2
+
+LD DE, 100
+
+NOGEENS ADD HL,DE
+
+DEC A
+
+JP _NZ,NOGEENS DD) NEXT_ONE RD_CHAR 205
+VOLGENDE RD_CHAR 205 H LD A,B
+
+LD A,B ĳ LD B,48
+
+LD B,48 : SBC A,B
+
+SBC A,B H JP Z,FINISHED
+JP Z,NEXT_ONE H LD DE,O
+
+LD DE, 10 : LD E‚A
+
+AGAIN ADD HL,DE H ADD HL,DE
+
+DEC A : FINISHED LD B‚L
+JP NZ, AGAIN DID JP PRINT
+
+25
+"page-015.ppm" ------------------------------------------------------------ 
+ALTERNATIVE CODE OPDRACHT
+
+Met het CODE commando kun je in BASIC machinetaal programma's in het
+geheugen zetten. Om de plaats te bepalen waar je code komt. gebruikt
+BASIC een eigen pointer (=een geheugenplaats waarin een getal zit dat
+naar een andere geheugenplaats wijst).
+
+Deze pointer zit op adres 540 en 541 (om het adres te vinden waar je
+machinetaalprogramma zit, doe je dus PRINT PEEK(540)+256*PEEK(541). Maar
+je hoeft niet perse een machinetaalprogramma met het CODE-commando in het
+geheugen zetten. Je kunt ook teksten gebruiken, bijv. 120 CODE="DIT 15
+EEN TEKST" . Als je nu de waarde van de pointer verandert, kun je die
+tekst dus overal in het geheugen stoppen.
+
+Om de pointer te veranderen kun je deze functie gebruiken:
+
+1000 DEF CODE_POINT (ADRES)
+
+1010 _POKE 540, INT(ADRES/16384)
+1020 _ POKE 541,MODE(ADRES, 16384)
+1030 END DEF
+
+Om de waarde van de pointer te veranderen, doe je dus CALL CODE_POINT (
+een-of-ander-adres). Je zou hiermee dus een STATUSLINE routine kunnen
+maken, waarmee je heel snel eigen teksten op de STATUSLINE kunt zetten.
+Het is mij nog niet gelukt om zo'n routine voor mijn 576K machine te
+schrijven, ik heb nl. problemen met het vinden van het adres waar de
+statusline tekst begint.
+
+Misschien dat iemand anders de over het algemeen luie (of zijn het
+onwetende ?) handen eens uit zijn mouw steekt, en zo'n routine schrijft
+als kopij voor de ENTERFACE. Ook zou je een routine kunnen schrijven
+waarmee je de LPT vrij snel kunt veranderen (wie oh wie ?). Dan nog een
+klein, onpraktisch voorbeeld voor het code-commando.
+
+100 PROGRAM "USEFOOL.BAS"
+110 ! 4 Ik wijs het grapje maar even aan. Het
+is werkelijk ongelofelijk hoe slecht sommige mensen de ENTERFACE
+lezen.
+120 CALL CODE_POINT (290)
+130 CODE="HEB JE HET GRAPJE IN REGEL 100 GELEZEN ?"”
+140 FOR ADRES=290 TO 290+40 ! optellen schijnen veel mensen niet te
+kunnen als je af en toe eens naar de FOR-NEXT lussen kijkt
+in sommige programma's
+150 _ PRINT CHR$ (PEEK (ADRES) ) ;
+160 NEXT
+
+ARJAN VAN GOG
+
+AS
+"page-016.ppm" ------------------------------------------------------------ 
+1638400 BYTES IN SYSTEM
+
+TESTING 25824 BYTES PER SECOND
+
+Na een flink aantal avonden in- en uit-solderen van diverse componenten
+is het me uiteindelijk gelukt mijn trouwe 64K machine 25-voudig te ver-
+groten! tot 1,6M (512+5124+512+64) .
+
+Hoewel anderen voor mij met problemen worstelden en na mij me zullen
+overtroeven, is hier een werkwijze:
+
+De 512K uitbreidings kaart heeft twee groepen RAM-geheugen hebben die
+elkaars complement zijn voor de adres-lijnen A18-A21 (segmenten 10-1F en
+EO-EF). Wanneer b.v. de adreslijnen A18 en A19 worden verwisseld dan zijn
+de segmenten bekend onder 20-2F en DO-DF. A19 en A20 geeft 40-4F en BO-BF.
+Verwissel A21 met A19 en je hebt 80-8F en 70-7F. Andere wisselingen leve-
+ren zondermeer geen andere segmenten op. 2M is dus vrij makkelijk te maken.
+Wie een diskcontroler heeft lijkt nu met zijn EXDOS-EPROM in de problemen
+te lopen maar... er zijn oplossingen. Ik heb het EXDOS-EPROM verplaatst
+naar een vrije voet in een ROM-CARTRIGDE met 3 voeten. EXDOS-1.0 zit nu
+op segment 7 en de adres-lijnen A18-A21 zijn vrij om mee te manipuleren.
+Deze truuk lukt niet met EXDOS-1.3 omdat dat deze eprom 32K groot is.
+
+De verbinding met de extension-poort is weer een verhaal apart. Het
+doorgeven van de gehele bus heb ik maar opgegeven en genoegen genomen met
+64-polige verbindingen doormiddel van een DIN-41614-ab connector (geen
+audio L en R aangesoten) .
+
+Op de extension-poort wordt female gesoldeerd en tussen de montage pennen
+van de male is een stukje tweezijdig sporenplaat vastgezet. Met een
+zaagje zijn inkepingen gemaakt, overeenkomstig de plaatsen waar op het
+tussenstuk van de diskcontroler de metalen zijkantjes zitten. Male en
+female kunnen direct op elkaar aansluiten of middels een korte bandkabel
+wat mobieler tegenover elkaar staan.
+
+In mijn geval heb ik de uitbreidingskaart er vertikaal tussen staan. Een
+female met lange pennen door de kaart fungeert hier als T-stuk. Alle
+lijnen zijn nu op deze kaart beschikbaar.
+
+Niet gehinderd door vakkennis of goed gereedschap heb ik met een hete
+pook wat af staan hannissen. Voorlopig zijn de connectoren zonder tussen-
+buffer met de bus verbonden en een 7805 zorgt voor voeding vanuit de 9
+Volt op de kaart.
+Het uiteindelijke resultaat was wel dat ik 1:06 min. moest wachten tot
+het formidabele aantal van 100 segmenten ram was getest. Deze gigant met
+1452K ramdisk gedraagt zich alsof er niets aan de hand is. Alleen basic
+program O begint nu op adres 4993 maar ook dat went wel!
+STAN
+EXOS 1.0 TESTING EF EE ED EC EB EA E9 E8 E7 E6 E5 E4 E3 E2 E1 EO DF DE DD
+DC DB DA D9 D8 D7 D6 DS D4 D3 D2 D1 DO BF BE BD BC BB BA B9 B8 B7 B6 B5
+B4 B3 B2 B1 BO 8F 8E 6D 8C 8B 8A 69 88 87 86 85 84 83 82 81 80 7F 7E 7D
+7C 7B 7A 79 78 77 76 75 74 73 72 71 70 4F 4E 4D 4C 4B 4A 49 48 47 46 45
+44 43 42 41 40 2F 2E 2D 2C 2B 2A 29 28 27 26 25 24 23 22 21 20 1F 1E 1D
+1C 1B 1A 19 18 17 16 15 14 13 12 11 10 ENTERPRISE
+
+"page-017.ppm" ------------------------------------------------------------ 
+ENTER EN RETURN
+
+BERICHT VAN G. OTTENHEIJM UIT TEGELEN
+Ik ben overgestapt van de ENTERPRISE 128 naar de commodore amiga 500
+De reden is dezelfde als toen ik de ENTERPRISE komputer kocht. Deze
+zijn de grafische mogelijkheden en de pascal achtige basic
+Maar vooral dat ik nu een komputer heb waar veel boeken over geschre-
+ven zijn en software en diverse uitbruidingen te koop zijn dat is de
+hoofdreden. Maar toch denk ik dat de ENTERPRISE een heel goede kompu-
+ter is en zelfs dingen kan die de amiga niet kan of op een andere ma-
+nier. (b.v. mist de basic instructie select)
+Bij deze zeg ik m'n lidmaatschap op van de Dutch Enterprise User Group
+
+en wens bij deze alle ENTERPRISE gebruikers veel plezier met hun kom-
+puter. SUCCESS! ! 2?
+
+ANTWOORD VAN EEN ENTERPRISER
+Waarom nou de commodore, je had ook de atari st kunnen nemen!Trouwens,
+Wanneer je toch overstapt op een nieuwe computer, neem dan de nieuwe
+RISC machine van Acorn. Niet dat je daar meer mee kan dan met de
+ENTERPRISE hoor, die dingen zijn alleen maar sneller. Een computer met
+zoiets moois als onze EXOS/EXDOS is ver te zoeken in de computerwe-
+reld. Voor de ENTERPRISE is er ook voldoende papierwerk hoor, ga eens
+ergens koffie/limonade drinken. In dit blad kun je lezen dat er al 2M
+aan kan zonder veel moeite.
+
+18
+"page-018.ppm" ------------------------------------------------------------ 
+ADRESSEN OM TE WETEN
+
+Gelieve zoveel mogelijk op de aangegeven tijden te bellen
+
+VOORZITTER ……… Stan Tuinder, .……..... tevens tijdelijk penningmeester
+Willemstraat 170,
+2713 AJ ZOETERMEER
+
+079-1695233 ma-vr 18.00-22.00 uur
+SECRETARIS .………. Fons Kraakman. …..... ledenadministratie enz.
+
+Bleekveld 8, AANMELDEN & OPZEGGEN
+
+1852 JH HEILOO
+
+072-335131
+
+PENNINGMEESTER . Stan Tuinder zie voorzitter
+
+LIDM hiet Erik Berends,
+Kroonkruid 40.
+2914 BN NIEUWERKERK a/d YSSEL
+01803-17051 ma-vr 20.30-23.00 uur
+
+KID. oor eds Hans Roelofs. expert educative software
+Calsplantsoen 47,
+1945 SL BEVERWIJK
+02510-46630 .......... ma-vr 20.00-22.00 uur
+
+BIBLIOTHEEK .... Sonja Laborus.......… beheer en aanvraaa software
+
+Mortangesingel 142,
+3562 AD UTRECHT
+
+030-616388 „ ma-vr 19.00-22.00 uur
+REDAKTIE Robin Ketelaars. ….… adviseur/redacteur
+
+Geerweg 2, ALLEEN KOPY ZENDEN
+
+2611 VN DELFT
+
+015-126422 nn tussen 19.00 en 23.00 uur
+
+De regio's kennen de volgende kontaktpersonen:
+
+NOORD-NEDERLAND Kees van der Dong 05945-16736
+
+Peter Hofstee …………. 050-775850
+OOST-NEDERLAND .......... PPPPPP ssosenenenen eveneens eneen enen
+WEST-NEDERLAND ……....... Bip Vastburt An ek neen nikk de He nn ei
+GELDERLAND . Peter van Helvoirt 08885-21856
+ZEELAND … „ Ben Sinke 01185-2525
+NOORD-BRABANT Rob Hanssens …… 01651-1245
+LIMBURG Stichting Synthese Studio 043-617623
+
+vraag naar Rene terHorst of Jos Mulders
+
+ER
+"page-019.ppm" ------------------------------------------------------------ 
+WAT JE MOET ONTHOUDEN
+
+GEBRUIKERSDAGEN
+
+30 Jan 88 TOLBERT
+6 Feb 38 DE BILT
+te: Apr. 88. DE BILT
+Tl dun.-88* DE BIEE
+tot ziens!
+
+EN
+STUUR OOK EENS
+WAT. LEUKE PLAATJES
+
+VOOR IN HET. BLAD
+
+REAAECD> + REAABCD
+
+BO he

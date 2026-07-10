@@ -1,0 +1,426 @@
+"page-000.png" ------------------------------------------------------------ 
+, ri bibliotheek te raadplegen. In-
+is teh Eren 180 bibatie: 015-164
+
+n die regelmatig met el-
+
+i kt komen op di-
+
+in alle
+
+DOS oper
+delijk gelij
+maar heeft
+
+Een interessante cfub met EED
+(uitstekend verzorgd) twee
+maandelijk ad met de
+naam or leden
+
+"page-001.png" ------------------------------------------------------------ 
+INHOUDSOPGAVE
+
+VOORPLAAT eene 9)
+
+INHOUDSOPGAVE / COLOFON / ADRESSEN ..…. 1
+
+WELK PROGRAM IS FOUTLOOS? ..........…. 2-3 5
+VAN DE REDAKTIE ..........sere ene 3-4
+
+MACHINETAAL IN BASIC .......sseeen 5-6
+
+LIST-BEVEILIGING ENZO ..,.......eeee 6-7
+
+GEBRUIKERSDAG--ALGEMEEN 112 JUNI
+H.F. Witte dorpshuis, Henri Dunantplein 4, DE BILT
+bus 57 vanaf CS, halte Nobellaan, Nobellaan in. 3e weg links
+
+COLOFON
+
+De ENTERFACE is het officiele orgaan van de Dutch Enterprise User
+Group en verschijnd eens per twee maanden
+
+REDAKTIE ......... Robin Ketelaars . voor toesturen kopij …....esee eeen
+Geerweg 2, 2611 VN DELFT, 015-126422
+
+MEDEWERKENDEN .... Rene, Stan, Spock, …...seee eee eee
+vee ee waar blijven jullie nou? .......
+
+VOORPLAAT ........ Een kranteknipsel uit de RANDSTAD EDITIE rubriek INPUT
+
+KOPIJ ......-.... Inzenden op DISK: of TAPE:
+
+ZIE VOORWAARDEN IN HET APRIL/MEI NUMMER
+
+72 tekens * 50 regels TAB's onder L(oad) en E(xit)
+
+le regel = titel die bovenaan bladzijde komt
+
+SALT L> voor de zin geeft nieuwe titel & nieuwe bladzij
+<ALT \> voor de zin geeft alleen een titel
+
+PRINT met F3 <naam>.KPY voor automatische verwerking
+
+OVERNEMEN ........ van de gehele of gedeeltelijke inhoud toegestaan
+
+HAMER + PENNINGEN Stan Tuinder voor geldkwesties en adviezen .....
+Willemstr 170, “2713 AJ ZOETERMEER, 0079-169523
+
+SECRETARIAAT ..... Fons Kraakman ... voor aanmelden en opzeggen ........
+Bleekveld 8, 1852 JH HEILOO, 072-335131
+
+SOFTWARE ......... Dík Fennema ..... oor aanvragen/toesturen software …
+v Duivenvoorde in 30° 2241 ST WASSENAAR, 01751-17249 |
+
+KONTAKTEN ........ NOORD: Kees 05945-15626; Peter 050-7758500
+MIDDEN: Peter 08885-02186; BRABANT: Rob 01651-1245 -
+ZEELAND: Ben 01185-2525; ZUID: Rene&Jos 043-6176253
+WEST: Hans 02510-46630: Erik 01803-17051
+
+OPBELLEN ......... BEL ALLEEN BOVENSTAANDE NUMMERS TUSSEN 20 EN 22 UUR
+
+DRUKWERK ......... DRUK.TAN HECK, Pluympot 1 , 2611 LX DELFT. 015-142981
+
+"page-002.png" ------------------------------------------------------------ 
+WELK PROGRAM IS FEOUUCLOCOSP
+
+In een aantal van mijn programma's en in het in de SWL geplaatste
+MFD.BAS, welke van alle schijven, de files in
+sub..sub..sub..... directories verwerkt in tot een overzicht,
+wordt, op grond van de waarde van een variabele, recursief een of
+andere call uitgevoerd. Tot nu toe had ik zelf nog nooit
+problemen hiermee ondervonden, nouja ik bedoel, die ene schijf
+wilde maar niet. Nu was het toch al een wat luidruchtige schijf
+en er waren al eens eerder problemen met dat ding. Alleen jammer
+nu ik, in de kleine uurtjes, bijna al mijn schijven door het
+program heb laten lezen, deze ene alles komt verstoren. System
+reset en weg is twee uur werk! Voor de veiligheid maak ik toch
+nog maar even een nieuwe diskcopy van deze schijf. Wanneer ik aan
+het eind van de volgende dag opnieuw probeer al mijn schijven
+door MFD.BAS te laten verwerken dan slaat de wet van Murphy weer
+toe. Nu gaat het program op de nieuwe schijf de mist in.
+Kennelijk had ik de fout van de oude schijf naar de nieuwe
+overgebracht (diskcopy doet dat normaliter) zodat de storing in
+de file allocation table (FAT) gezocht moest worden. Het maken
+van een backup was de nu aangewezen methode. Om een lang verhaal
+kort te maken: ook dit ging fout en ik besloot deze schijf buiten
+het overzicht te houden tot dat... Met het overzicht in de hand
+zag ik dat ik een aantal programma's had met de naam INSTALL.COM
+en van andere belangrijke files had ik geen backup! De zaak moest
+maar eens goed georganiseerd worden. Alles bij elkaar op nieuwe
+schijven in eigen directiories. Vervolgens weer MFD.BAS gerund
+en... alle nieuwe schijven waren fout! Zou er dan toch een
+Enterprise virus zijn bemaakt? De storing kwam bij elke schijf op
+een andere plaats voor maar gelukkig veranderde de plaats niet.
+Reproduceerbaarheid van een fout betekent meestal dat de oorzaak
+ook elke keer de zelfde is en dus aanwijsbaar! Het program dat de
+fout moest aantonen was hetzelfde MFD.BAS maar nu volgezet met
+print regels voor de meest voorkomende variabelen. Telkens leek
+het er op of een bepaalde variabele niet meer gevonden werd. Een
+program analyse met BASXREF.BAS gaf aan dat de subroutine in een
+steeds dieper gaande recursieve call zat. Als daar iets mee zou
+zijn dan zie ik daar toch wel een error message op het
+beeldscherm, dacht ik. Mis!! niets daar van. Soms een chash en
+soms een dood keyboard afhankelijk van de aanwezigheid van de
+klok-routine van Fabian tussen O120h en 0200h.
+Met een schone machine heb ik het volgende program getest.
+
+10 LET A=1
+20 CALL RECURSIEF
+END
+
+40 DEF RECURSIEF
+PRINT A
+
+60 LET A=A+1
+
+70 CALL RECURSIEF
+
+80 END DEF
+
+Dit program MOET vastlopen omdat van zelf sprekend zo'n call niet
+ongeconditioneerd mag worden gedaan want iedere keer dat de
+
+2
+
+"page-003.png" ------------------------------------------------------------ 
+WELK PROGRAM IS FOUULGOS?
+
+routine opnieuw wordt aangeroepen, wordt het adres dat de aanroep
+doet op de sub-stack geplaatst. (Nu ik dit zo neer schrijf
+verbaas ik me er over dat ik dit vorig jaar niet eens expliciet
+heb uitgetest.) In ieder geval, zodra de stack aan zijn grenzen
+komt met 40 CALL's, loopt 1S-BASIC vast zonder enig bericht van
+wat de oorzaak zou kunnen zijn. Vooraf had ik met de klok-routine
+ruimte van de sub-stack "gestolen" en achteraf waren er zoveel
+directories op de schijf dat een crash voorspelbaar was. Het
+resultaat is uiteindelijk dat ik al mijn “foutloze" programma's
+met recursieve call's heb doorgelopen en waar nodig aangepast.
+Dit onderhoud op een van die oude programma's van 1984 heeft vele
+uren gekost door slechte naamgeving en gedeeltelijke goto-
+structuur. Met alle anderen was ik binnen 30 minuten klaar.
+
+Van MFD.BAS komt een nieuwe update ín de bibliotheek.
+
+BESRODING 1285.
+
+" Inkomsten:
+Contributie 120*Hf1 45, 5400, —
+Uitgaven:
+Enterface 6 stuks 3000, -—
+Gebruikers dagen 6 keer 750,
+Jaarvergadering 250,
+Bestuurskosten 350,
+HCC dagen 450,
+Software bibliotheek 200,
+Regionale groepen 250,
+Onvoorzien 150,
+
+"page-004.png" ------------------------------------------------------------ 
+ZOENWARE UIT PUIDSLANIDD
+
+Info: Werner Lindner Hard- und Sof twareidën,
+Landsberger Strasse 49, D-8913 SCHONDORF a.A., BRD
+
+Of: DüSi COMPUTER SOFTWARE FA. Daniel Schwinn,
+Meisenweg 6, D-7030 LORCH, BRD. of bel 09-49 7172 7731
+
+HARDWARE UIT DENEMARKEN
+
+Uit denemarken kun je hardware halen. Bijvoorbeeld ENTERCOM. Een MODEM
+met V2i en V22 en uitbreiding met V22bis. AUTODIAL/AUTOANSWER
+Databuffer van IKS. Driver MODEM: aanspreekbaar via BASIC, ISDOS etc.
+De prijs is DKR 1200,= basismodel DKR 200,= voor de uitbreiding V22bis
+Je moet wel een speciaal tussenstuk hebben van DKR 200,=
+
+Info: BUG TRONICS F&P Stadel Nielsen
+Skovskellet 25A, DK-2840 HOLTE, DENEMARKEN. bel 09-45 2 800745
+
+SOFTWARE MNMAAR HONGARIJE
+
+Ik werd laatst opgebeld door William uit Boedapest. Hij vertelde dat er
+in Hongarije reeds 12000 ENTERPRISE-computer zijn verkocht.
+
+Hij vroeg hoe het stond met de aktiviteiten in nederland, of we ook
+software hadden en hoe het met onze hardware uitbreidingen is.
+
+In Hongarije schrijft hij met een groepje vrienden software voor de
+COMMODORE, SPECTRUM EN ARMSTRAD/SCHNEIDER computers. Ze zijn nu bezig op
+diverse op deze machines bekende spellen om te schrijven naar
+
+ENTERPRISE. Zij hebben zelf al heel wat bekende software geschreven
+zoals MISSION IMPOSSIBLE deel 1 en binnenkort deel
+
+Ze hebben een ontwikkeling van uit engeland, de zogenaamde SPECTRUM-
+CONVERTER-hardware uitbreiding afgemaakt. Binnenkort te koop ín nederland
+bij DEWITT HARD EN SOFT . Nieuws volgt volgend nummer!
+
+Zij vragen reakties uit nederland, Men is ook bereid speciaal software te
+schrijven voor hier ontwikkelde hardware. Dus mensen die problemen hebben
+kunnen hulp krijgen uit hongarije.
+
+Zij verwachten dan in ruil hardware zoals schemaas en onderdelen, want
+die zijn daar razend duur of schaars. Printen kunnen ze daar echter heel
+goedkoop maken.
+
+info: ASTUDIO William Kopacs
+Tiglis 64, H-1016 BUDAPEST. HONGARIJE telefoon 09-36 1 750358
+
+KOPIJ UID NEDERLANID
+
+Het blijkt dat niemand kopij instuurd (met 2 of 3 uitzonderingen). Het is
+toch heus wel zo dat je iets met de computer doet. Zet het op papier en
+stuur het op. Of stuur een listing van een programma dat je graag aan
+anderen kwijt wilt.
+
+Het blad wordt dan misschien weer wat dikker dan dit keer!
+
+dt
+
+"page-005.png" ------------------------------------------------------------ 
+MACHINETAAL IN BASIC
+
+Machinetaalprogrammeurs zullen het probleem herkennen: je hebt in GEN een
+programma geschreven en dat zou je nou zo graag in je BASIC-programmaatje
+stoppen. Er zit dan weinig anders op dan je lijstje met codes te pakken
+
+en met de hand je programma te gaan vertalen, een moeizaame en vervelende
+klus. Vit de ergernis die dat alles biedt is onderstaande methode geboren
+om machinetaal, vertaald door GEN, in je BASIC-programma te stoppen. Deze
+methode is echter alleen geschikt voor korte programmaatjes: maximaal 248
+bytes lang, dit omdat een BASIC-regel niet langer dan 255 bytes kan zijn.
+
+Het principe is eenvoudig: maak een !-regel (commentaarregel) die i.p.v.
+tekst je machinetaal bevat. Die machinetaal is geproduceerd door GEN en
+staat in de file MACHTAAL. Deze file wordt door het onderstaande program
+ma ingelezen en omgebouwd in een !-machinetaalregel met het gewenste
+regelnummer. M.b.v, het headerprogrammaatje op de volgende bladzijde kan
+de machinetaal aangeroepen worden met:
+
+CALL USR(RUN_ CODE, rege lnummer >)
+
+Hier volgt het recept voor het maken van het benodigde ‘gereedschap!
+Tik het volgende programma in en SAV et
+
+100 PROGRAM “MAAKMACH.BAS" (REGELNR)
+
+110 OPEN £1:"MACHTAAL'
+
+120 LET LENGTES=ORD(GETBYTES (3) )
+
+130 LET LENGTE=ORD(LENGTES(3:))
+
+140 IF GETBYTES(1) >CHR$(O) OR LENGTE>248 THEN
+
+150 PRINT "MACHTAAL te lang!"
+
+160 ELSE
+
+170 LET DUMMYS=GETBYTES (12)
+
+180 LET BASCODE$=CHRS (LENGTE+7) SWORDS (REGELNR) &CHR$ (0) &CHRS$ (96) &CHRS (
+81) SGETBYTES (LENGTE) &WORDS (0) SWORDS (0)
+
+190 CODE =BASCODES$
+
+an)
+en)
+en)
+
+240 DEF GETBYTES (AANTAL)
+250 LET HULP$=""
+260 FOR BYTE=1 TO AANTAL
+
+270 GET £1:BYTE$
+
+280 LET HULP$=HULPS&BYTES
+290 NEXT
+
+300 LET GETBYTE$=HULP$
+
+310 END DEF
+
+Tik vervolgens het header-programmaatje op de volgende bladzijde in en
+SAVE het onder de naam HEADMACH.BAS. Hierna is je ‘gereedschap! klaar
+voor gebruik.
+
+"page-006.png" ------------------------------------------------------------ 
+MACHINEDAAL EN BASIC
+
+100 POKE 540,MOD(1000,256) !—- Zet pointer voor CODE op 1000
+110 POKE 541,INT(1000/256)
+120 CODE RUN CODE=HEX$("D7,2E,0,11,6,0,19,E9") ! —- JP naar machinecode
+
+Een en ander zal nu worden toegelicht aan de hand van een voorbeeld.
+
+Tik in GEN het volgende programmaatje in:
+
+1 LD A,103 ; SOUND channel
+
+2 LD B,7 : ASCII-code PING-geluidje
+
+3 RST 30h ; EXOS-call:
+
+4 DEFB 7 : schrijf character in B naar £A
+5 RET ; terug van weggeweest.
+
+Assembleer het vervolgens met A,, en save het met O,,MACHTAAL. Ga dan
+naar BASIC en tik in
+
+RUN "MAAKMACH.BAS" (10001)
+
+Dit getal 10001 ís het regelnummer. Dit is expres hoger dan 10000
+
+gekozen. Dat heeft nl. de volgende voordelen:
+
+1. De LIST-instructie drukt geen regelnummers hoger dan 10000 af, dus
+geen machinetaal-troep op het scherm;
+
+2. Als het programma waarin deze machinetaalregel is opgenomen, wordt
+geRENUMBERd, wordt het regelnummer van deze machinetaalregel niet
+veranderd, dus is er geen speurtocht naar nodig.
+
+Koppel vervolgens het headerprogrammaatje aan je machinetaal met
+MERGE "HEADMACH.BAS" en voeg de regels 130 en 140 to
+
+130 CALL USR(RUN_CODE, 10001)
+140 END
+
+Als je dit programmaatje nu RUNt, zul je het bekende PING-geluidje horen.
+
+LIST-BEVEILIGINGEN ZEN2Z0
+
+In het verleden is al minstens een keer het onderwerp 'LIST-beveiligen'
+aan de orde geweest. Dit stukje is niet bedoeld als een saaie aanvulling
+daarop, maar als een extra mogelijkheid om het ordinaire programmakrakers
+wat lastiger te maken en zo de naam van de auteur van een programma hoog
+te houden.
+
+De eerste truc is in het voorgaande stukje zijdelings genoemd: maak het
+regelnummer van een regel die je niet wilt laten zien hoger dan 10000 .….De
+regel wordt dan niet meer geLIST en ook RENUMBER heeft er geen vat meer
+op. Met het routinetje op de volgende bladzijde, dat je in het te
+‘beveiligen' programma opneemt, kun je een regelnummer heel eenvoudig
+
+"page-007.png" ------------------------------------------------------------ 
+LEST-BEVEILIGINGEN ENZO
+
+aanpassen:
+
+1000 DEF HERNUMMER (OUD _REGELNR, NIEUW REGELNR)
+
+1010 POKE 540,MOD(1000,256) !— Zet pointer voor CODE op 1000
+1020 POKE 541,INT(1000/256)
+1030 CODE HAAL ADRES=HEX$("D7,2E,0,C9") t—— RST 10h call 46
+
+1040 LET ADRES=USR(HAAL ADRES ,OUD _REGELNR)
+1050 IF PEEK (ADRES+1) +256*PEEK (ADRES+2) < >OUD _ REGELNR THEN
+
+1060 PRINT “Dit regelnummer bestaat niet!
+1070 5E
+
+1080 POKE ADRES+1,MOD (NIEUW REGELNR, 256)
+1090 POKE ADRES+2, INT (NIEUW REGELNR/256)
+
+1100 END IF
+1110 END DEF
+
+De tweede manier berust op het feit, dat de LIST-instructie denkt dat hij
+klaar is als hij 3 achtereenvolgende bytes met de waarde O tegenkomt. Als
+je de LIST bijvoorbeeld na regelnummer 300 wilt laten afbreken, tik dan
+de volgende regel in:
+
+305 ex
+MERGE dan de volgende routine:
+
+1000 DEF DRIE _NULLEN(REGELNR)
+
+1010 POKE 540,MOD(1000,256) !—— Zet pointer voor CODE op 1000
+1020 POKE S541,INT(1000/256)
+1030 CODE HAAL ADRES=HEXS$("D7,2E,0,C9") t—- RST 10h call 46
+
+1040 LET ADRES=USR (HAAL ADRES, REGELNR)
+1050 IF PEEK (ADRES+1) +256*PEEK (ADRES+2) < >REGELNR THEN
+
+1060 PRINT “Dit regelnummer bestaat niet!"
+1070
+
+1080 POKE ADRES+6,0
+
+1090 POKE ADRES+7,0
+
+1100 POKE ADRES+8,0
+
+1110 END IF
+
+1120 END DEF
+RUN vervolgens het programma en tik daarna in:
+CALL DRIE NULLEN (305)
+
+Hierna kun je deze routine weer DELETEn en wordt de LIST bij rege lnummer
+305 afgebroken.
+
+Veel plezier met deze tips!
+
+Rene van Ee
+

@@ -1,0 +1,2504 @@
+"page-000.jpg" ------------------------------------------------------------ 
+V. évfolyam 5. szám :k 1994. szeptember-október : Ára: 84— Ft
+
+ENTEKÉRESS
+
+KÉTHAVILAP AZ ENTERPRISE SZÁMÍTÓGÉPEK FELHASZNÁLÓINAK
+
+ÖT ÉVES AZ
+ENTERPRESS!
+EY EGEK ÉS egy intésebe 190 Kát
+ren fatáre ráleleeték eg ro dáke án KNLESŐ
+ien ekes BÁNENTNE E kérésük ökesát erássltt
+
+ps
+hajlandóak, hogy év alatt egyezer nyilatkozzanak a lapnak. Később
+javult a helyzet, a szerkesztőség ki-
+
+mondom, hogy EP-fő is van már több mint 2000 játók, ami már
+szik a COMMODORE játókok mennyiségével. Aki előfizetője
+tak, az bizonyára kíváncsi, hogy milyen újdonságok jelentek
+meg, programok leírásaihoz juthat hozzá, tanulhat gépi kódban
+programozni és ráadásul (ugye-ugyet) játékprogramok leírásait is.
+olvashatja. Azok, akik tudnak az újságról és mégsem rendelik meg?
+Nem igazán értem őket. Ha 3-4 számítógépes újságban is lennének.
+témák, akkor megérteném, de hát nincsenek.
+tes viszont, hogy van egy nagyon jól működő Programküldő
+Szolgálakink! Amikor már majdne
+
+jelentkezett szerkesztösé
+
+bővült újabb tagokkal és a lap is szín-
+vonalasabb, szebb lett. 1992. decem-
+
+TARTALOM $ 94/5.
+
+istván (EGO), Ő egye.
+Programküldő Szolgálatot,
+szajelzésekből ítálve nagyszerű mun-
+
+berében mégis bejelentették, hogy
+
+nem szerkesztik tovább a lapot, bele- ( ART STUDIO I. rész
+
+fáradtak... Az akkori kiadó (MÁTRIX
+
+Kft) pedig felhagyott a lap kiadásával. újdonságok
+
+1998. január 1-től mi folytattuk tovább.
+Úgy éreztük, hogy szüksége van az
+
+Gépi kód kezdőknek IV.
+
+4-5 Í szövegszerkesztő.
+
+ENTERPRISE tábornak legalább egy
+
+információ forrásra és ez az ENTER- ( EDC Windows Il. rész
+
+légáink is megírigyelhetnék. Említést
+
+6-7 Í érdemel még az OHKSOFT csapata,
+
+PRESS. Igen, ez az egyetlen újság
+
+amelyik toglatkozik az ENTERPRISE. ] Rendszerszegmens
+
+akik új Enterprise játékokat írnak és
+
+8-9 ( zozosott aki nagyszerű dolgokra kö-
+
+géppol, A Mikro magazin és a Mik.
+
+rovilág ekkor már nem foglalkozott a [ EPDOS 2.0 előzetes
+
+Pos, de azt hiszem mostanában in-
+10 Í kább a hardvor-témák érdoklik (saj-
+
+géppel és a Spectrum Világ is meg-
+szűnt, A gép forgalmazói és hardver
+
+Képeryőkezelés az €P-n II. rész
+
+nos! — vagy mégsem?) Ha már hard:
+11-12 ( vernél tartunk: Mészáros Gyula kíváló.
+
+illetve szoftver ki (Centrum
+Áruházak, Novot dió),
+miután a súlyos millók már a zs
+
+bükben voltak, betejezték a gép for
+galmazását, ami még nem lett voln
+baj, Sajnos abbahagyták a hardvert
+
+PING-PONG
+SWAP
+
+Frogramküldő szolgálat
+
+dolgokat alkotott gépünkhöz, A kiegé-
+13 ( szítők árai pedig egyértelműen azért
+14 ] olyan magasak, mert a kártyákból 8-
+10 darab fogy... Én nyomdász lévén
+15 [jé tudom, hogy minél magasabb a
+példányszám, annál kisebb az egy
+
+kiegészítők gyártását és az új szoft
+
+Hirdetések. információk
+
+16 ] példányra eső költség. Gyutának
+
+verek fejlesztését... Még a meglévő
+szoftverek kijavításával sem foglalkoztak (pl. EP-PLUS), pedig
+ezeket regisztrációs kártyával lehetett csak megvásárolni. Ugye nem
+kell leírom, hogy mi valt ezekre a kártyákra írva. Nem valtak túl jók.
+az előjelek, de nekünk mindenfélaképpen folytatni kellett, amit az
+előző szerkesztőség abbahagyott. Sikerült nagyon lelkes fiatalokat
+beszervezni a szerkesztőségbe, ugyanakkor örültünk, hogy a régi
+
+em hagyott cserben minket. Az
+Újság szerkesztésén kívül volt még bőven feladatunk: segíteni az EN-
+TERPRISE felhasználóknak - ha már képviselet nincs —, levelekre
+válaszolni, újabb előfizetőket szerezni, klubot szervezni, a prog-
+ramküldő szolgálatot beindítani, a lapot szedni, tördelni, hajtogatni,
+minden megjelenéskor csomagolni, cimkézni és a Postára vinni, stb.
+Úgy érzem ezek nem igazán a szerkesztőség feladatai - bár ezeket.
+ís szívesen csináljuk. Jó lenne, ha ezek az emberek csak az újság
+
+kesztőség címéra érkezik (rövid határidővel). Jó lenne az
+előfizetők számát legalább 800-ra feltornászni. Nekem nagyon
+Szimpatkusak azok az emberek, akik vesznek egy IBM PC gój
+-de megtartják a kis ENTERPRISE gépüket is (ás nemcsak disznek!),
+ráadásul előfizetői az ENTERPRESS-nek is, Tudom, ez már
+rajongás, megszállottság, szerelem... Igen, így kelt (5
+
+csinálnil Sok olyan EP-s van aki csak játszani szeret.
+
+előfizetője az
+
+szinte minden kártyája szuper, kívéve
+az 1 Megás HAM-bővítót, amellyel úgy néz ki gondok vannak, Hogy
+mi azt még nem tudjuk, azonban bízunk benne, hogy — kiváló
+szakember lévén - ezt is megoldja! Egy új világba vezetett mi
+EDC: egy olyan alkalmazást írt, amely grafikus környezetben fut,
+ráadásul a felhasználó írhat hozzá programokat. Ez az EDC Win-
+ows, amely hamarosan egérrel is kezelhető losz. Sajnáljuk viszont
+azokat a kiváló programozókat, akik elpártoltak az EP-től: Gyányi
+Sanyi, Devil és nem szeretném ideími a ichier fivéreket ist
+
+Az ENTERPRESS az 5 éves jubileum alkalmából köszönt minden
+EP-felhasználót és ebből az alkalomból a Programküldő
+Szolgálat nagy kedvezményekkel szolgál (15. oldal).
+
+Köszöntjük a többi számítógépes lapot: PC-WORLD, Chip
+Magazin, Computer Panoráma, 576 Khyte, GURU, Alaplap, Cor-
+modore Világ és bár nem számítógépes de a Rádlótechaikát Is.
+
+Végül köszönet mindazoknak, akik a lap szerkesztésében és
+Kiadásábán segítettek és segítenek nekünkt
+Annyit elárulhatok, hogy jövőre a hatodik évet kezdjük!
+
+Matusa. István
+felelős szerkesztő
+
+"page-001.jpg" ------------------------------------------------------------ 
+1994. szeptember—október
+
+FILE menü:
+
+Ez a menü szabályozza az Art Studio adathordozóra vonatkozó
+input/output műveleteit.
+
+SAVE SCREEN segítségével kimenthetjük a képet az általunk
+megadott néven a kazettás magnetofonra: az opció választása
+után megjelenő , Filename?" prompira meg kell adnunk a
+kimenteni kívánt kép nevét (max.10 karakter), majd egy
+billentyű megnyomása után a mentés végrehajtódik,
+
+LOAD SCREEN-nel képernyőt tölthetünk be (ha nem adjuk
+meg a kép nevét, a kazettán lévő első kép fog betöltődni).
+
+ATTRIBUTES menü;
+
+Ezzel a menüvel irányíthatjuk a színek és egyéb attril
+kiválasztását. A beállított attribútumok az összes rajzoló ill
+festő műveletre (vonalak, alakzatok, minták, tollak, fill-ek,
+€csetek stb.) és a szövegírásra vonatkoznak. Ha pl. kékre
+változtatjuk a tinta színét: a menü SET INK opcióját választva
+megjelenik egy munkatábla amelyen 9 négyzetet láthatunk.
+Ebből 8 az alapszíneket ábrázolja, a 9. pedig egy "1 betüt, A
+"4 betű a "Transparent" szót takarja, amely láthatatlan" írást
+engedélyez a képernyőn (a képen nem látjuk, hogy mit
+rajzolunk de a nyomtatásnál — mivel INK információk — a
+nyomtató megjeleníti a művünket). Az INK kékre
+változtatásához válasszuk ki a kurzorral a kék színű négyzetet
+És az INK beáll kékre, Az aktuális szint a program sötét szinű
+kerettel jelöli. A háttérszín és a keret színének beállítása az
+ANKshez hasonlóan történik a SET PÁPER ill, a SET BOR-
+DER opciókban. A képünk BRIGHT (fényesség) és FLASH
+(villogás) jellemzőit kapcsolók állítják (három lehetőség: ON,
+OFF, Transparent), akárcsak az INVERSE-t és az OVER-,
+de az utóbbi kettőnél nincs "Transpareni" lehetőség. A STAN-
+DARD megszünteti a "Transparent" hatását: visszaállítja az
+attribútumokat eredeti értékükre.
+
+juk a rajzolási műveletet: a tollat. az ecsetet
+színnel és a FLASH,
+BRIGHT ill. INVERSE kapcsolók figyelembevételével fognak
+a képernyőn rajzolni (OVER nincs értelmezve), A PEN
+választása után a SELECT PEN táblában kiválaszthatjuk azt
+a nyomot ( mask"), amit a toll a rajzoláskor maga után húz.
+Az opció választása után megjelenik egy munkatábla, amely
+a tollminták 16 féle választható mintáját tartalmazza. A kurzor
+mozgatásával határozhatjuk meg a kívánt mintát, az aktuálisat
+inverzben láthatjuk. A kiválasztás után a toll a választott
+minta formáját veszi fel. Azt, hogy a töllminták milyen típusú
+rajzolást eredményeznek, célszerű kipróbálni, A tollak
+funkciói az ATT-RIBUTES menü INVERSE kapcsolójától
+függnek: ha a kapcsoló OFF állásban van. akkor a tollak
+képpontokat rajzolnak, ha ON állásban, akkor képpontokat
+törölnek (radírként működik a toll).
+A SELECT SPRAY opció segítségével a képernyőre úgy
+tajzolhatunk, mintha egy festékszóróval festegetnénk, A minta
+kiválasztása a tollhoz hasonlóan történik. Ha az ATT-
+RIBUTES menü INVERSE kapcsolója ON állásban van,
+akkor radirként funkcionál. Az ecsetek neni vonalakat hanem
+különböző mintákat rajzolnak a képernyőre, A megfelelő
+mintát a BRUSH opció választása után megjelenő munkatábla
+tartalmazza. Az ecsetek működését 2 tulajdonság határozza
+
+meg, a forma (kiválasztás után a kurzor ezt az alakot veszi
+fel és a lenyomott tűzgomb elengedésekor a kurzor
+pozíciójában ez a minta jelenik meg) és a , mask" (a kurzor
+lenyomott tűzgombbal történő mozgatásakor ilyén mintát húz
+maga után). A készlet első ecsete egy ún, "nullecset", ami nem
+tartalmaz sem megszerkesztett formát, sem ,mask"-ot,
+Hasznossága abban rejlik, hogy bár nem húz INK színű
+képpontokat maga után, az aktuális PAPER színnel mégiscsak
+rajzol, mert megváltoztatja azon karakterek PAPER színét,
+amelyeken keresztülhalad. Ez nagyon praktikus dolog;
+rajzolás közben nem kell mindig az adott karakterek színeivel
+foglalkoznunk, egyszerűen megrajzoljuk a képünket , fekete-
+fehérben", majd a ik először a karakterek
+nt PAPER- majd az ATTRIBUTES menü INVERSE
+kapcsolóját ON-ra állítva az INK színeit.
+
+Az EDIT BRUSH opció egy munkatáblát jelenít meg,
+amelyben mind a 16 féle ecsetminta egyéni kívánalmaink
+szerint átszerkeszthető. A munkatábla kinagyított négyzethálós
+részén látható az ecset formája (balra) és . mask" -ja (jobbra),
+ill.az ecset normál méretű képc (alul). Az  átszerkesztés a
+kinagyított részeken a kurzor segítségével, egyszerű set/reset
+módszerrel történik: a tűzgomb invertálja azt a képpontot
+amelyre a kurzor mutat, Minden változtatás azonnal meg-
+jelenik a normál méretű képen is, Ha az átszerkesztéssel
+elkészültünk állítsuk a kurzort a normál méretű képre és
+
+nyomjuk. meg. a. tüzgombot.-A- szerkesztés esak-akkor
+végezhető el, ha előtte a BRUSH opcióban már választottunk
+aktuális ecsetet.
+
+lálhatóak azok a különleges szol-
+gáltatások, amelyeket az Art Studio nyújt a felhasználónak.
+Rajzolás közben a képernyő felső 3 sorát a program fő-
+menüjének ikonjai foglalják el. Ezeket a VIEW SCREEN
+opció használatával - a tűzgomb megnyomásáig -
+eltüntethetjük és megszemlélhetjük eddigi munkánkat teljes
+méretben. A VIEW SCREEN alkalmazása után az UNDO (Id,
+később) nem üzemel. Az ikonok által takart képrészt más
+módon is megszemlélhetjük: az UNDO mellett látható fel/le
+nyilak használatával a képet soronként görgethetjük és a
+takart részen is dolgozhatunk, A nyilak használata után az
+UNDO is funkcionál, célszerű a VIEW SCREEN helyett így.
+megvizsgálni a takart sorokat. A CLEAR SCREEN törli a
+teljes képernyőt (az ikonok által takart sorokat is) és az
+attribútumokat. Ha véletlenül választottuk az opciót, az UNDO.
+segítségével visszahívhatjuk a képünket, A grid" egy világos
+és egy sötét mezőkből álló sakktábla-minta, amelyet készülő
+képünk alá" hívhatunk. Ez a minta megkönnyíti számunkra
+es képelemek pozicionálását a mozgatásuknál, és
+Segítséget nyújt az attribűtumok ,belővéséhez", Ezáltal elke-
+rülhetővé válnak a különböző attribútumokkal rendelkező
+Szomszédos karaktereknél adódó kellemetlenségek. A
+BRIGHT GRID 1: normál, a BRIGHT GRID 2: dupla méretű
+karakterekből álló ,grid"-et jelent meg a képernyőn, amelyet
+a REMOVE GRID használatával tüntethetünk el. A CHANGE
+COLOUR opció csak akkor használható ha már előzetesen
+lett egy ablak (ld. később a Windows-menűt) definiálva,
+
+Folytatjuk)
+"page-002.jpg" ------------------------------------------------------------ 
+1994. szeptember-október
+
+. Pattogó és potyogó
+szövegszerkentyű
+
+100 PROGRAM "PandP.bas"
+
+110 ! Pattogó és Potyogó szövegszerkentyű.
+
+120 TEXT 40-OUT 19112
+
+130 PRINT AT 1.5:" Nocsak, nocsak, pattogó szöveg! ";
+
+140 PRINT AT 2,1:" Ez semmi! Na igen de mi van ha";
+
+150 PRINT AT 3.1" lenyomjuk a SPACE-t?? Próbáld
+kit;
+
+160 PRINT AT 5.6" K.SystenvS in the T-Bo,
+
+170 SET CHARACTER ORDCY).0.0,0.0.31,16,16,16.16
+
+180 SET CHARACTER ORDC"Á"),0,0,0,0,255
+
+190 SET CHARACTER ORD("Ö").0,0,0.0,240,
+
+16,16.16.16
+200 SET CHARACTER ORD(CÜ"),16,16,16.16,
+16.16,16,16.16
+210 SET CHARACTER ORDC Á"),16,16,16.16,31
+
+220 SET CHARACTER ORDC"a"),16.16,16.16.240
+
+230 DISPLAY $102:AT 25 FROM 6 TO 6
+
+240 DISPLAY 4102:AT 27 FROM 23 TO 23
+
+250 PRINT $102,AT 6, 2:"HAÁXAAA AAA AA AAA AA AAA
+
+kádat KAAÖT:
+
+260 FOR I-7 TO 22
+
+270 PRINT $102,AT I.27Ü"-PRINT $102,AT L387ÜT;
+
+280 NEXT
+
+290 PRINT 4102, AT 232. "AXAAKA AAA AAA AAA AAA
+AAAKAKAAAKAAAA AAA ÁG,
+
+300 LET AS-ENTERPRISE 128K THE BEST":LET
+LN-LEN(ASY-.LET X-7:LET Y-3:LET XV-LLET
+Yv-i
+
+310 PRINT §102,AT X,Y:A$:LET XO-X-LET
+YO-Y:LET X-XHXV:LET Y-Y-YV-DISPLAY
+$102:AT 26 FROM XO TO XO
+
+320 IF Yo38-LN OR Y-3 THEN LET YV-YV:LET
+YENEYV
+
+330 IF X522 OR Xc7 THEN LET XV—XVILET X-XXV
+
+340 IF INKEYS-" " THEN GOSUB 360
+
+3451 A következő sorba az idézőjel után 24 SPACE kellt
+
+350 PRINT $102.AT XO.YO7" ".GOTO 310
+
+360 FOR I-1 TOLN
+
+370. IF AS(:1)-" " THEN 420
+
+380 FORA-XOTO2I
+
+390 PRINT 4102,AT A.E-YO-1:AS(T:D:-PRINT
+
+$102,AT ALBYO-17
+
+400 NEXT
+
+410. PRINT $102,AT ABYO-L:AS$(I-D;
+
+420 NEXT
+
+430 LET X-22:LET XO-22
+
+440 RETURN
+
+Uj formában
+az Enterpress!
+
+Örömmel tudatjuk Tisztelt Olvasóinkkal, hogy ünnepi számunk
+— mint látható — már új formában jelent meg! Ebből az Olvasó
+csak annyit vesz észre, hogy szebb a betűkép, többféle
+betűtípus és grafikai trükk szerepel majd az ENTERPRESS
+hasábjain, A szedő-tördelőnek ezentúl nincs megkötve a keze",
+hiszen mostantól a Windows alatt futó Page Maker programmal
+készül az újság Ezt a programot nemcsak könnyebb használni,
+de - végre — a közölt programlistákból nem lop el neki tetsző
+dolgokat mint ahogy ezt a Ventura tette (kisebb-nagyobb jel,
+stb.) Örömhír még, hogy a kész anyag egy nagyon jó minőségű
+és nagy felbontású lézernyomtatón lesz kinyomtatva, ami elő-
+segíti az apróbb betűs cikkek olvashatóságát. Bár öszintén
+megvallva én nem vagyok híve a ,szövegtengernek"! Érdemes
+kézbe venni testvérlapjaink egy-két számát (GURU, 576 Kbyte),
+Egy jó számítógépes újság ad a lap küllemére is, úgy ahogy
+az említett két lap. Szeretnénk ezt a gyakorlatot mi is követni,
+bár azt hiszem amióta mi szerkesztjük és készítjük a lapot ez
+többé-kevésbé sikerült. Remélem mindenki örömmel lapozgatja
+ezt az ünnepi számot és továbbra is megtiszteli a lap
+szerkesztőit és a kiadót 1995-ös előfizetésével. (A csekk az
+újságban található)
+Köszönettel;
+
+Matusa István
+fel. szerk.
+
+Aki az 1995-ös évre legalább 5 előfizetőt szerez az EN-
+TERPRESS számára, az 1995-re ingyen kapja az újságot!
+
+(Természetesen csak olyan előfizetőket szervezhet be, aki
+1994-ben nem volt előfizetője az újságnak!)
+
+Kérésre 2000 fős cimlistánkból kigyűjtött helyi címlistákat
+tudunk küldeni, valamint az erre a célra készített EN-
+TERPRESS-plakátot tudunk küldeni. Ha valaki a helyi címlis-
+tákra igényt tart, kérjük küldjön felbélyegzett válaszborítékot.
+
+Sok sikert kíván: a szerkesztőség.
+
+f Aagyászség 9)
+akádaltávákan
+
+A Szív tv műsora az ország számos helyi
+és körzeti kábelhálózatán látható,
+több mint egymillió lakásban.
+
+Szórakoztatás, filmek, információ
+riportok, tréningek.
+
+A Szív tv postacíme: 1656 Budapest, Pf. 6.
+UL Telefon: 256-6136 (fax is), 257-1270
+
+"page-003.jpg" ------------------------------------------------------------ 
+1994. szeptember-október
+
+Gépi kódú programozás kezdőknek - IV. rész
+
+Mint ahogy ígértem előző számunkban, most a
+menükezeléssel fogunk megismerkedni gépi kódban
+Mielőtt azonban hozzákezdenék, néhány észrevétel
+mikor megjelent előzetes tájékoztatónk (hogy ilyen
+sorozat indul az újság hasábjain) egy (!!!) levélírónk
+ragadott tollat, hogy megtegye észrevételét és
+javaslatait ez ügyben. Pedig az említett cikkben arra
+kértük Tisztelt Olvasóinkat, hogy minél nagyobb
+számban írják meg az induló sorozattal kapcsolatos
+észrevételeiket. Ezt még megértettem, de azt már
+nem igazán, hogy elérkeztünk sorozatunk negyedik
+részéhez és ezalatt az idő alatt (8 hónap) egyetlenegy
+levél sem érkezett a gépi kód cikkel kapcsolatban.
+Ennyire rossz? Vagy annyira jó, hogy senkinek
+semmi kérdése nincs? Mindenki megértette ami le
+lett írva? A budapesti EP-klubban megkeresett egy-
+két ember a cikkel kapcsolatban és én szívesen
+segítettem nekik, Kérem, ha nem világos valami
+írjanak! Vagy az újság hasábjain vagy levélben
+(válaszboríték esetén) válaszolok a kérdésekre.
+
+A példaprogram a menükezelést valósítja meg gépi
+kódban.
+
+A szokásos beállításokat végezzük el: fordítási
+beállítása (ORG 100H), makró funkciók beállítása,
+valamint a video módok beállítása, Ezután nyitunk
+egy szöveges videolapot (LD A,50) és beállítjuk a
+megjelenítési funkciókat (ezt már nem írom le
+részletesen, lásd előző számok!)
+
+A szokásos ESCAPE szekvenciák után kiíratjuk a
+kívánt szövegeket. És itt jön a lényeg, a menükezelés.
+A CALL BILL sor figyeli a billentyűzetet (billentyű
+leütésre vár). A CP "1" a billentyűleütést vizsgálja,
+tehát ha az 1-es billentyű lett leütve, akkor a CP "1"
+utáni sor, JP Z.MENUI fog aktivizálódni. Jelentése
+JP (Jump - ugrás), Z (ha 2-1). MENUI (a MENUI
+nevű cimkére ugrik). A többi menüpontnál ugyanigy
+működik, kivéve a CP 737-nál. A menüpontok vizs-
+gálatánál szükség van egy olyan rutinra, amelyik azt
+vizsgálja, ha más billentyűt ütöttünk le. Ez a JP
+NZ.NEMIO. Ha Z-0 (ha más billentyűt ütöttünk le,
+pl. a 4-est), akkor visszaugrik a CALL BILL sorra
+és kezdődik mindel előlről. Ha az 1-es billentyű lett
+leütve, akkor a BASIC-be térünk vissza, ha a 2-es,
+akkor a WP-be. A 3-as billentyű leütése után
+kiíratunk egy szöveget a képernyőre és ezután várunk
+egy billentyű leütésre. A program a billentyű leütése
+után visszatér a menübe (CALL BILL és RET).
+
+A közölt menü sokat segíthet azoknak, akik prog-
+ramjukba szeretnének menükezelést beépíteni. Ter-
+mészetesen ez tovább fokozható, készíthetünk
+
+almenüket is. Csak arra vigyázzunk, hogy mindent
+helyesen gépeljünk be az ASMON-ba, mert egy hiba
+is végzetes lehet (a program elszáll és nem tudjuk
+
+mitől). Ez különösen akkor érdekes, ha forrás-
+szövegünk, már jó hosszú. Ilyenkor aztán lehet
+bogarászni!
+
+Például a mostani programnál a második sor után
+(SET MACRO (A VALTOZO, JERTEK) nem sza-
+bad kommentet (megjegyzést) tenni, mert az
+ASMON ezt nem hajlandó elfogadni! Erre most
+jöttem rá! Az előző számban is így jelent meg, de
+akkor már a kész forrásszöveg után lettek beírva a
+komment sorok, ezért nem derült rá fény. Elnézést
+ezért a hibáért!
+
+Lépjünk be az ASMON-ba, nyomjuk meg az E
+billentyűt és kezdjük el begépelni a közölt prog-
+ramot. Miután begépeltük programlistánkat az
+ASMON szövegszerkesztőjébe, az F8-al lépjünk ki,
+majd fordítsuk le forrásszövegünket! A beállítások a
+Sszokásosak: a Z billentyű leütése után a válaszok:
+Assembly listing ON, List conditions NO, Force
+Pass 2 NO, Memory assembly NO. Object file name:
+TAN4 COM, EXOS module header YES, EXOS
+module type: 5. Ha válaszoltunk minden kérdésre,
+nyomjuk meg az A billentyűt. Ha a Force pass 1 és
+Force pass 2 szöveg után a NO ERROR üzenet
+jelenik meg, akkor hibátlanul begépeltük a  forrás-
+Szöveget. Ezután akár BASIC-ből, akár EPDOS-ból
+vagy EXDOS-ból elindíthatjuk a TAN4.COM nevű
+Programot
+
+Várom a sorozattal kapcsolatos kérdéseket, észre-
+vételeket!
+
+(Folytatjuk) Matusa István
+tm 2
+
+ORG 100H. . FORDITASI CIM BEALL.
+
+SET MACRO (AVALTOZO,d(ERTEK
+
+LDB.I
+
+LD D,GERTEK
+
+EXOS 16
+ENDM
+LD SP.3FFFH
+
+SET 22.0
+SET 23.0
+SET 24.40
+SET 25.24
+
+: 0-AS VIDEOMOD
+: 2 SZINU UZEMMOD
+: 40 OSZLOP SZELES
+:24 SOR MAGAS
+
+LD DE.KEY
+LD A105
+"page-004.jpg" ------------------------------------------------------------ 
+1994. szeptember-október
+
+FOMENU
+
+NEMJO
+
+ESC
+
+ESCHOSSZ
+
+SZOVEG
+
+SZHOSSZ
+
+MENU!
+
+EXOS 1
+LD A.50
+LD DE,VID
+EXOS 2
+LDB.L
+
+LD A.50
+LDC.1
+LDD.24
+LDE,I
+EXOS 11
+
+LDA50 —— ; A-BA CSAT.-SZAM
+LD BC.ESCHOSSZ
+
+LD DEESC
+
+EXOS 8
+
+LD A,50
+
+LD BC.SZHOSSZ
+
+LD DE.SZOVEG
+
+EXOS 8
+
+CALL BILL
+LDAB
+LDHL.FOMENU
+PUSHHL
+
+CP"
+
+IP Z.MENUL
+CPI2
+
+IP Z.MENU2
+Cpgr
+
+JR NZ.NEMJO
+JP MENU3
+
+DB 2770"
+
+DB 27.7C".0.255.0.0.0.0.0.0
+DB 2770
+
+EOU §-ESC
+
+DB26  ; KEPERNYO TORLESE
+DB "FOMENU",10,13.10,13
+
+DB "1. KILEPES BASIC-BE",19,13
+
+DB "2. KILEPES WP-BE", 10.13
+
+DB 73. SZOVEG KIIRASA", 19.13.10.13
+DB "Valasszon!" /
+
+EOU §-SZOVEG
+
+LDDE BASIC
+EXOS 26
+
+MENU2 — LDDEWP
+EXOS 26
+
+MENU3 LD A,50
+LD BC.SZHO
+LD DE,SZ
+EXOS 8
+CALL BILL
+RET
+
+sz DB 26
+DB "Szövegek kiirasa..",10,13,10,13
+DB "Billentyu leutesere", 10.13
+DB "vissza a FOMENU-be"
+
+SZHO EGU $-SZ
+
+KEY DB 9. "KEYBOARD"
+VID DB 6 VIDEO."
+BASIC DB 5BASIC"
+
+WP DB 25WP"
+
+BILL LD A,105
+EXOS §
+RET
+END
+
+HEGYI va
+
+Papír-irodatechnika
+
+D borítékok
+0 leporellók
+1138 Budapest, 0 fax papírok
+Számadó u.6. I irodaszerek
+Tel./fax: 185-1659. CD etikettcimkék
+sjjlssz CI másolópapírok
+DO névjegykártvák
+2 cégjeles papírok
+DO grafikai tervezés
+
+Fizessen elő a
+
+RÁDIÓTECHNIKA sa Dlektronika
+
+folyóiratokral Így biztosan hozzájut!
+Címünk: 1374 Budapest, Pf. 603.
+
+A szerkesztőségben regisztrált HE előfizetőknek díjmentes nyák-filmm melléklet.
+
+"page-005.jpg" ------------------------------------------------------------ 
+1994. szeptember—október
+
+Ideje lesz valami példaprogramot is látni, mert így
+fognak igazán kitűnni az EDCW előnyei: látványos,
+gyors futás és mégis egyszerű programozhatóság.
+Programunk legyen egy viszonylag egyszerű fájl-
+összefűző (LINKER) rendszer, melynek a követ-
+kezőket kell majd tudnia:
+
+— Elindítás után megkérdezi a kimeneti fájl nevét;
+
+- A File Managerben kiválasztott fájlt hozzáfűzi a
+kimeneti fájlhoz;
+
+—- Tetszőleges mennyiségű fájl összemásolása után a
+Cancel opció használatával térjünk vissza az
+EDCW-be.
+
+A forrásszöveget ASMON-nal fordítsuk, a makró
+miatt a FENAS nem használható.
+
+Fordítás:
+EXOS module header NO
+File name: LINKER. WIN
+A többi opció nem lényeges
+
+EDCW: — MACRO FCODE . :Makró az EDCW
+
+:hívásához
+
+RST8
+
+DB FCODE
+
+ENDM
+
+ORG 4000H :Kezdőcím
+
+DB 0.40H :40h fejléc
+
+DWLLENGHT A program hossza
+
+DBI :Futási lap.
+
+DBO JA többi bájtja nulla
+
+DW 0.0.0.0.0
+
+ORA : Belépési pont, PC ítt
+;már 4010H
+
+IR Z .NAMEHELP :Ha A70, név megadása
+
+DECA
+
+IRZFULLHELP . :Ha A-1, HELP ablak
+
+DEC A
+
+RET NZ :Ha A nagyobb mint 2,
+"visszatér
+
+LDLXIY416)  jExtensions menüt
+ivégrehajtó
+
+LDHGY-HI7) — inutin címének lekérése
+
+LD (EXIT:-1).HL . jés beépítése az EXIT-hez
+
+XORA .0-ás menü,
+
+LD BC,MENU
+
+EDCW8 tés könyvtárazása
+
+XORA .0-ás menü, megjelenítése
+
+EDCW 10.
+
+LDHLTEXTPOS  :Szövegpuffer
+
+LDA12 :12 karaktert olvasunk
+
+EDCW II "Input hívás (billentyűzet)
+
+LDA.255 sAlkalmazói program
+
+RET Vissza az EDCW
+
+:főciklusába
+
+OKAY: — EDCW 12 :Azkarakterek a pufferben
+LD DEFNPUFtI.. :Fájlnévpuffer, csatornához
+LD HLITEXTPOS beolvasott szöveg
+LDC0 : Tényleges hossz
+LDBA
+MOVE:  LDA(HL) :letapogatás
+CP32 :Ha SPACE, vége
+JR Z.SPACE (szóközök leválasztása)
+LD (DE) A Egyébként karakter
+másolása
+INC HL ja fájlnévhez
+INC DE
+INCC
+DINZ MOVE
+SPACE:  LDAC Fájlnév hossza
+LDDEFNPUF Fájlnév elé
+LD (DE),A
+LD A.106 :Kimeneti csatorna nyitása
+EXOS 2
+JRNZERROR Ha hiba történt, vissza
+RESELECT:
+LDDE,SELECT — :Rutin választás esetére
+LD HL.CANCEL. . :Rutin Cancel esetére
+EDCW 14 le Manager hívása
+SELECT: EX DEHL HL-fájlnévre mutat, amit
+LD C(HL) kimeneti csatornába kell
+LDB.O i másolni
+INC HL
+LDDE.COPY-6 Fájlnév a COPY parancs
+mögé
+LDIR
+LDHL.CHAN  :Csatornaszám szövege
+LDBC.5
+LDIR :A fájlnév után
+ADD A,10 "Parancs hossza A-ban
+LDDE.COPY  :Parancs elé
+LD (DE),A
+EXOS 26 -EXOS parancs
+grehajtása
+IRNZERROR — :Hibakezelés
+JPRESELECT Új fájl választására
+ERROR: . EDCW 4 : Hibaüzenet írása
+IPEXIT "Vissza az EDCW-be
+CANCEL: LD A,106 :Kimeneti csatorna zárása
+EXOS 3
+EXIT: PO : Vissza az EDCW-be
+NAMEHELP:
+LDHLINAME  :Program neve
+RET
+FULLHELP:
+LDHLINFO —— :Info szövege
+RET
+"page-006.jpg" ------------------------------------------------------------ 
+1994. szeptember-október
+
+TÁ
+
+DW PARAMS OKAY, EXIT
+DW 53832.54516
+
+DB 26.18
+
+DW 53755.53832
+
+DB 15.7Output file."
+
+MENU:
+
+TEXTPOS;
+:lde 12 db
+
+PACE kell!!!
+
+B "12345678.1237,13
+
+DB "Cancel",0
+PARAMS: DB 2.60,43.28.28
+DB 69.43.28.28
+DB 13.27 :ENTER és ESC kódja
+INFO: DB 15FileLinker 1.0",13
+DB "By Exosworm DC 19947,13
+DB "for ENTERPRESS",0
+DB 15File Linker 1.0"
+DB" £1067
+DB 07COPY 12345678 123 E106"
+
+NAME:
+CHAN:
+COPY:
+
+LENGHT: EOU $-4010H
+
+END
+
+A lefordított LINKER.WIN mindössze 317 bájt
+hosszú lesz, és elkészítése sokkal kisebb erőfeszítésbe
+került, mintha bármelyik másik programnyelvet és /
+vagy fejlesztői környezetet használtuk volna, fi-
+gyelembe véve, hogy programunkat igazán kényel-
+mes használni, korrekt, és egyszerűen kezelhető.
+
+Kedves olvasók!
+
+Cikkünket megszakítjuk, hogy bosszantsuk Önöket !
+(9 EDc
+
+Látható, hogy az EDCW a legnagyobb terhet veszi le
+a programozó válláról, a kommunikáció megva-
+lósítását a felhasználóval, így tényleg a megoldandó
+feladatra lehet koncentrálni
+Akinek megtetszett ez a komfortos világ, ne ha-
+bozzon, próbálkozzon meg valamilyen EDCW alkal-
+mazás készítésével a közölt információk alapján,
+ezzel is nö- velve az EDCW szoftverbázisát.
+(Azt hiszem, könnyebb dolga lesz, mintha a Mic-
+rosoft Windows 3.1-et akarná programozni...)
+
+€ 1994. EDC
+
+Véget ért az EDC Windows-t ismertető cikkünk. A
+továbbiakban is helyet adunk újságunkban a hasonló
+Programok és operációs rendszerek leírásainak, Mint
+Olvasóink észrevehették ez az utóbbi időben úgy zajlott,
+hogy a program írója készítette ezeket a leírásokat, így az
+esetleges hibákkal nem nagyon találkozhattunk, Ez most is
+így van, de ebben a cikkben megtesszük észrevételeinket
+az EDC Windows programmal kapcsolatban.
+
+Az EDC Windows képemyőn való megjelenítése
+szuper. Szinte minden funkció adva van ami ezt elősegíti.
+A ketet árnyékolható, a színeket és karaktereket be lehet
+állítani, az ablakokat mozgatni lehet (ezeket a SETUP
+Programmal el is menthetjük lemezre Illetve ha EPROM-ba
+égetjük a programot, a SETUP-ot is beégethetjük!)
+
+A File-Manager használata igen körülményes. Először rá.
+kell klikkelnünk az alkalmazni kívánt funkcióra (pl. LOAD)
+és ezután rá kell klikkelnünk a fájl nevére, Ráadásul ha
+ráklikkelünk pl, a LOAD-ra, az nem jelenik meg inverzben,
+így nem tudjuk, hogy melyik funkciót használtuk utoljára.
+Ez így igen gyenge! De azt hiszem aki az EPDOS után jobb
+fájlmenedzsert tud (mi az ZSENI!
+
+Az egérkezelés még nem megoldott az EDC Windows
+alatt és ez kicsit kényelmetlenné teszi a kezelését.
+(Hamarosan elkészül az egérrel kezelhető változat!)
+
+Nagyon hasznos az EXTENSIONS menü, Itt tölthetjük be
+az EDCW alá irt rendszerbővítőket és természetesen saját
+bővítőket is írhatunk, EDC nagyon korrekt módon ellátta
+ebben a számban megjelent példaprogramját magyarázó
+Sorokkal, így nagyon könnyen készíthetünk . saját
+alkalmazást is az EDCW-hez.
+
+A lemezen az EDCW-n kívül megtalálható az összes
+bővítőre vonatkozó HELP és az összes forrásszöveg is. Ez
+egyedülálló, ilyennel még nem nagyon találkoztam! Ez
+igen szimpatikus.
+
+Az EXTENSIONS menüben is hasonló módon tölthetünk
+be illetve aktivizálhatunk bővítőket mint a File Manager-
+ben. Ezen Is jó lenne változtatni (lásd a File Managemél
+tett megjegyzéseimet!)
+
+A program felismeri a hardver órát és észreveszi, ha
+hibás az EXDOS kártyánk. Igazán csak lemezes géppel
+működik és jó ha van némi memória bővítésünk is.
+
+Röviden ennyi észrevétel az EDC Windows programmal
+kapcsolatban. Ha EDC kijavítja ezeket a hibákat — ami
+egyébként nemcsak az én szememet szúrja - egy igen Jó
+operációs rendszer kerülhet az EP felhasználók kezébe. Ha
+fel akarja venni a versenyt az EPDOS 2.0 készülő operációs
+rendszerével, akkor a legalapvetőbb ezeknek a hibáknak a
+kijavítása — minimum,
+
+Az EDC Windows megrendelhető a Programküldő
+Szolgálattól.
+
+(Akinek már megvan, folyamatos UPGRADE lehetőséget
+is kínál EDC! Az űj verzlóknál csak a lemez illetve
+Postaköltséget kell kifizetni).
+
+Matusa István
+
+Legjobb programozó:
+
+Legjabh szoftver stúdi
+
+Legjobb játék program:
+Legjobb felhasználói program:
+Legjobb DEMO program:
+
+Legjobb programátíró:
+
+Olvasói Nista: A szerkesztők listái
+PASZIÁNSZ LOGIBALL
+HWP HWP
+
+Small Demo Small Demo
+HSOFT HSOFT
+
+BAM ZazoSoft
+
+HSOFT HSOFT
+"page-007.jpg" ------------------------------------------------------------ 
+8
+
+1994. szeptember-október
+
+AZ ENTERPRISE RENDSZER-SZEGMENS RÖGZÍTETT TERÜLETÉNEK
+CÍMEI ÉS AZOK FUNKCIÓJA
+
+EXOS határ.
+Ccsatomalelrók lánca a csatorna
+RAM-mi
+Periféraleírók lánca a perifér
+RAM-mal.
+
+ROM-bővítők RAM-területe,
+
+0 lap szegmens
+
+AC3B-IC: STACK LIMIT változó alapér-
+téke, Idáig terjedhet a verem.
+
+ACE7-B216: Az EXOS saját rendszer:
+verme. (kezdőérték B217)
+
+B217-2F: A kemel segédrutínjal. Ezeken
+keresztül hívja meg azokat a rutinokat,
+melyek 3. lapú címekkel más szegmen-
+Sen futnak (pl. rendszerbővítök; az
+1. szegmensen lévő EXOS-rutinok) ,
+Valamint az a rutin amelyen keresztűl a.
+vezérlés elhagyja a kemelt.
+
+8230-50: A különleges státuszüzenet
+(ha az ST. FLAG tartalma 24H).
+
+8251-82: EDITOR változó elme-2
+
+B253-8C: EDITOR munkaterület: (angol
+gépnén
+
+23-54: Szövegterület kezdőcíme,
+
+B25£-58: Szövegterület vége
+(vonaizósor kezdőcime-1)
+
+Szövegmutató.
+
+B26F: Edítor video csatomaszám,
+
+8260: Editor keyboard csatomaszám.
+
+261: Editor csatornaszáma különleges.
+funkciónál, szövegtáji imentés / betöltés.
+esetén C értéke vagy a hiba kódja.
+
+B262: Edítor ESC 80-ESC jelzés;
+
+jzESC szekvencia karakterszámiáló
+
+263: Kurzor beállítás Y koordináta.
+B264: Kurzor beállítás X koordináta.
+8286: Video Y
+
+8268: Vonaizósor állapota. (0-kl, tbe)
+
+B26D: Bal margópozició alapértelmezése.
+
+B26E: Jobb margópazició alapértelmezése.
+
+B26F: Bal margápaztció.
+
+270: Jobb margópozíció,
+
+271: Margó-feloldás jelző, (O-érvényes,
+ZAzalapértelmezés),
+
+8272: Szinkóds 128
+
+Hibajelző (b0-1 videó csat., bi
+
+Kayboard csat )
+
+B27D: Szövegpuffer vezérlőkarakterek
+kiírásához.
+
+B27E: Puffer.
+
+B27F-30: Puffer.
+
+282: Módosított FLG. EDIT értéke.
+
+288: Beszúrás-felúlírás jelző
+
+B287: Újraformázás-kiegyenlítés jelző.
+
+B288.89: IX értéke,
+
+P1-es szegmens száma.
+
+— B2GB: Használat alatti EDITOR csatorna
+száma
+
+B26D-E2: TAPE munkaterúlet;
+ZBD: A 0038 cím eredeti tartalma,
+BZBE: Az aktuálisan működtetett távvezértő,
+BZ8F: Olvasásra megnyitott táji csatornakódja
+51 vagy 0 ha nincs.
+200: Írásra megnyitott táj! csatormakódja s!
+vagy 0 ha nincs.
+8291: Az ínput fájj távvezértője: 00-REMI ,
+mászREM2.
+292-AE: Az input fáj neve,
+"ovtput fájl távvezérlője: 00-REM1 ,
+EM2,
+
+mi
+
+B280-CC: Az output fájl neve,
+
+B2CD-E: Az input pufferben lévő bájtok száma.
+
+"B2CF-DO: Az output pufferben lévő bájtok
+száma.
+
+input puttér aktuális cime.
+cutput puffer aktuális olme.
+
+:OF jelző: 500- a fájlból nem lehet
+
+olvasni.
+
+206: Az olvasott szelet tipusa: OOsadat, FF fej.
+
+Adat a csatomalezárásnak. OOzvan még
+
+adat a pufferben,
+
+"DS: A védelmi bájt értéke: 005a védelem
+bekapcsoka.
+
+2DS9: 00-nem volt hiba, FF-CRC hiba.
+
+B2DA-DB: Az SP regiszterpár átmeneti tárolója,
+
+B2DC: A kimentés jelszíntje (a OABH portra
+kikerülő érték)
+
+2DD-E0: Konstansok a megfelelő felvételi
+
+sebességhez (a OAOH porta),
+
+B2E1: A státuszsor eredeti COL2 palettaszíne,
+
+B2E2: A státuszsor eredeti COL3 palettaszíne.
+
+B2E3-47F: SOUND munkaterület;
+
+B2E3-F2: Az AO-AF póftok aktuális értékel,
+
+B2FJ: Foglatság jelző, Osnincs megnyitva.
+Használat alatt a puffer szegmensszáma
+az első lapon.
+
+B2F4-FS: A burkoló tárterület kezdőcíme,
+(0snincs)
+
+B2F6-F7: A burkoló tárterület végelme / vára-
+kozási OR kezdőcíme.
+
+B2FS: SYNC
+
+BZFA: Hangforrás sorszáma,
+
+B2FB-37A: Hangsorok 8 bájtonként.
+
+B37B: €"fázisok száma
+
+B37C-7D: hangkezelő escape-szekvenciáit
+kezelő rutin címe.
+
+"837E-7F: A hangkezelő escape-szekvencia
+argumentum következő bájtjának címe.
+
+8380: Hangkezelő ESC jelző / számláló,
+Ozszabad karakter ovasódik
+be, 1-7FESC utáni vezérkarakter olvasódik
+be, 80-FF 2 a még beolvasandó paraméter-
+bájtok számának kettes komplemense.
+
+8381-47F: SOUND pufferterület:
+(ESCsvezérköd utáni paraméterek számára)
+
+B480-C7F: Video munkaterület
+
+B430-SFF: Karakterkésztet (a CH128 módú
+karaktergenerátor)
+
+500-B1F: Az alapértelmezés szerinti LPT.
+(152756 sor" 16 bájt),
+
+B820-46: Nem használt
+
+BB47: Az attribútum jelzőbájt másolata (IX-85)
+
+BB48-49: Terület nagysága, (IX-54), (IX-53)
+
+BB4A: b0-b3-tinta b4-b7zpaplr (IX-81).
+
+BB48: Video mode (1X-2)
+
+BB4C: Vonalipus (IX-79)
+
+BB4D: Vonalmód rutin paramétere (IX-80)
+
+8B52-63: Y koordináta.
+
+8B54-6B: Puffer a pontok számolásához.
+
+BB78-78: Rutin címének tárolója,
+
+BB7E-TF: Ellipszis sugár X.
+BB84-86: Rutin címének tárolója.
+BBBE-8F: A másodlagos kijelzés RAM címe
+(1X-48), (x-47)
+
+BB890-91: Fő kijelzés RAM címe (1X-50), (Ix-48)
+
+BB99-BA; Pont videocime,
+
+BB98-3C: Előző pontszám,
+
+BB9D-SE: Jelzőbítek és a letett pontok száma.
+
+BSE: Szegmens száma.
+
+BBA2-BC: 27 bájt: csatornaszámok az LPT-
+"sorok kírakására.
+
+BBBD-D7: 27 bájt: csatornán belüli sor száma
+az LPT-hez.
+
+BCB0-97: NET-SERIAL munkaterület:
+
+CRC regiszter. .
+
+Soros pufferben a következő bájtra
+
+mutató ofszet,
+
+Soros pufferben lévő bájtok száma,
+
+j: Várakozási ciklus-számláló a
+megfelelő baud értékhez.
+
+BCB7: SERIAL foglaltság jelző, (Osnincs
+satorma)
+
+CS0-DOF: NET eszközök leíról 4 bájtonként.
+(max 32 gép 4"32-128 báj),
+
+BD16-EB7: KEYBOARD munkaterúlet: (angol
+
+gépnén
+
+D16-1F-A tegutoljára leolvasott biltétityámátri
+törött sniítekkel.
+
+BD20-29: Az előző billentyűmátridból képzett
+"segédadatok.
+
+BOZA-EAS: A funkcióbillentyű sztfingek 24-24
+bájton.
+
+BEAA: Ha c20 akkor a BEAE tartalma érvényes
+(van éppen lenyomott billentyű)
+
+BEAB: Ha FF akkor HOLD állapot van érvény-
+ben.
+
+BEAC: A váttóbííentyűk állapota: b! SHIFT,
+b2-CTRL, DS5ALT,
+
+BEAD: Ha FF akkor van nyitott bilentyűzet-
+Csatorna,
+
+BEAE: Az éppen lenyomott billentyű kódja.
+
+BEAF: Ha FF akkor LOCK állapot van érvény-
+ben.
+
+BEBO-B1: A bilentyűzetputter legfelső ele-
+mének címe.
+
+BEBZ2: A putferben tárolt biltentyűködok száma,
+
+BEB3: Számláló a bilentyűkésleltetés
+megvalósításához.
+
+BEB4: Számláló az automatikus ismétlés
+megvalósításához.
+
+BEB6-B6: Annak a billentyúsornak a címe,
+amelyben megváltozott állapotú billentyű van.
+
+BEB7: A megváltozott állapotú málricsor képe.
+
+BEB8-BFFF: Kernel terület
+
+BEB8-DF: 40 bájtos státuszsor memória
+
+BEE0-FO7: Az EXOS ide generálja az általa
+kezett hibaszöveget.
+
+BFOS-17: A betöltés alatt álló modul fejrésze,
+
+BF18: Az alapértelmezésbeli egységszám.
+
+BF19-36: Az alapértelmezésbeli eszköznév a
+határoló "" és egységszám nélkül.
+
+BF36-53: Eszköznév-putfer: eszköz / fájnév.
+megadásakor ítt képződik a
+kernel által kezelhető eszköznév a határoló
+"" és egységszám nélkül.
+
+BF64—71: Fájínév-putffer: eszköz / fájlnév
+megadásakor Itt képződik a kernel által
+kezelhető fájinév.
+
+"page-008.jpg" ------------------------------------------------------------ 
+Vak
+
+1994. szeptember-október
+
+BF72-77: Az EXOS által kezelt naptár és óra,
+
+BF78: indításjelző: b0- 1 akkor a ROM-bővítők
+már jelötek ki RAM-ot.
+Nulla esetén: EXOS tAzRtendszerbővítők
+Hvása hidegindítással.
+(C-10,20.60) EXOS O0-Rendszerbővítők
+
+RAM kiutalása,
+
+BF79: Futásjelző: 0-1 akkor egy periféria
+futás közben van.
+5751 akkor a kernel futás közben van, tehát.
+nem kelt áttérni
+
+rendszerveremtárra. (innen állapitja meg,
+
+ha rekurzívan fut)
+
+BFTA-7B: A kernel itt tárolja az SP belépés
+előtti értékét.
+
+BFTC-7D: A kernel itt tárolja a HL regiszterpár
+belépés előtti értékét,
+
+BF7E: 1, ROM szegmens ellenőrző kód: / kont-
+rolksumma, Értéke; A7H.
+Képzése: ACH XOR (01-FFDB-tól 194
+összeXOROzva). időnként megszakításból
+ellenőrzi a rendszer)
+
+BBFTF: A relokálható betöltés futási lapja
+(gyakorlatlág a cím MSB).
+
+BFBO: A csatornaszám ahonnan a modult be
+kell tölteni (nincs eggyel megnövelve"),
+
+BFS1-83: A csatomaláncban történő
+kereséskor a következő elem cime.
+A perfférta-alprogramokat hívá szubrutin Itt
+"várja a csatoraleíró 24 bites első lapú cimét.
+
+BFB4-8E: A csatornaputfer-kijelölési funkció.
+területe:
+
+BF4: Az igényelt puffer tipusa: Ot video.
+
+BFBS: A puffert igénylő csatorna száma 1
+
+BFB6-38: Az igénylő eszköz periférialeírójának
+24.bites címe
+
+BFR9: A putferigénytés jelzője: FFznem volt
+
+BFBA: A legkisebb működő videoszegmens
+száma,
+
+BFBB-8C: Utasításszöveg clmefputfer. A
+bővítő-letapogatás is használ
+
+BF8D-8E: A videocsatornák által elfoglalt RAM
+utolsó bájtjának Nick elme,
+
+BFSF-90: A felhasználói határ értéke. (osztott
+sszegmensnél használt)
+
+BF91-92: Az EXOS-határ értéke.
+(Csatornaterület vége),
+
+BF93-84: A csatoraterúlet kezdőcime.
+(Periférlaterület vége)
+
+F95-96: A periféria terület kezdőcíme. (ROM-
+Ck RAM.területének vége),
+
+BF97-98: A ROM-bővítők RAM-területének
+kezdőcime, (ROM-ista vége)
+
+BF99: A RAM-bövítöknek kiutalt szegmensek
+
+istájának első eleme.
+
+BF9C-9D: A ROM-bővítők listájának
+kezdőcime. (RAM szegmens lista vége)
+
+BFSE-A4: A rendszerállapotot leíró bájtok,
+"ahogy azt a 14H kódú EXOS-funkció adja
+vissza.
+
+BFSE: Az EXOS határszegmens száma,
+(0 ha nincs)
+
+BFSF: A szabad szegmensek száma.
+
+BFAO: A felhasználó részére kiutalt
+szegmensek száma.
+
+BFAT A perifériák és RAM-bővítök részére
+kiutalt szegmensek száma.
+
+BFAZ: A rendszer által használt szegmensek
+Száma.
+
+FAS: A működő RAM-szegmensek száma.
+
+BFA4: A nem működö RAM-szegmensek
+Száma,
+
+BFA6-B1: A három legutóbb használt.
+Csatorna kódja és lelrójuk 24 bítes.
+
+Címe, valamint egy lezáró 00 a BFB1 címen.
+A legalacsonyabb bájton a csatormakód
+eggyel megnövelt értéke áll, majd a cím és a
+Sszegmensszám; A csatomakezelő funkciók
+setén az EXOS a BFAS cimlól kezdve
+végignézi ezt a táblát, hogy szerepel-e.
+benne a keresett csalornakód. A tábla végét
+00 csatomakód jelzi. Az EXOS próbálja
+lerövidíteni a keresést a láncban,
+
+BFB2-B3: 0
+
+BFB4-B5: A csatoma-RAM területének
+kezdőcime (egy eltolási érték a BFBD
+címhez képes).
+
+BFB6-Be: 0
+
+BFBA-BC: A csatomaleíró lánc első
+elemének 24 bites címe,
+
+BFBO-BF: Az eszközfelró tánc első elemének
+24 bites címe, A pointer a lelró DD-TYPE.
+mezőjére mutat,
+
+BFC0-C2: A RAM-bövitő lánc első elemének
+24 bites első lapú címe. A pointer a
+belépési pontra mutat.
+
+BFC3-C4: A REMI és REM2 rendszerváltozó
+állításakot használt segédrutin elmét
+tartalmazza az 1 , szegmensen értelmezve.
+AA magnókezelő inicializáló rutinja E9C1-re
+állíja be. Az Itt lévő rutin a megfelelő
+rendszerváltozó aktuális értékét beírja
+PORTBS rendszerváltozóba és a ARO.
+(OBH) pontra,
+
+BFCS-EG: Az EXOS 10H hívással kezelhető
+EXOS rendszerváltozák.
+
+BFCS: 0 IRO ENABLE, STATE /DOzhang,
+b2-1 Hz, bá-video, DŐSDAVE (NET)
+
+BFC6: ! FLAG. SOFT. RA szoftver
+megszakítás (tényleges címe BFF2)
+
+BFC7: 2 CODE. SOFT. RO szoftver meg-
+szakítás kódja
+
+BFC: 3 DEF TYPE /fáji kezelő (Oemagnó,
+1-diszig
+
+FCS: 4 DEF. CHAN / alapértelmezésű
+csatona
+
+BFCA: 5 TIMER / tHz visszaszámiáló (0-nál
+Szoftver megszakítás)
+
+BFCB: 6 LOCK KEY /Oznormál,
+
+-SHIFT, BSÁLT
+
+CLICK KEY / Osbillentyűhang
+
+STOP-JRA /!
+
+szoftvermegszakítás
+
+:9 KEY IRO /!
+szoftvermegszakítás
+
+BFC: 10 RATE. KEK / bilentyűlsmétlés
+1/5042
+
+BFDO: 11 DELAY. KEY / várakozás az
+Ismétlésig 1/50/3Z
+
+BFD1: 12 TAPE. SND / Ozmagnóhang
+bekapcsolva
+
+BFDZ: 13 WAIT. SND /0-SOUND várakozik
+ha megtelik a puffer
+
+BFD3: 14 MUTE. SND / Ozbelső hangszóró
+bekapcsolva
+
+BFDA: 15 BUF. SND / hangburkoló mérete
+tázisokban
+
+BFDS: 16 BAUD SER / soros vonal sebesség
+
+BFDG: 17 FORM SER / soros vonal
+formátum
+
+BFOT: 18A R. NET / hálózati cím (NET
+
+CAPS,
+
+BFD9: 20 CHAN, NET / hálózatra blokkot
+küldő csatorna száma
+BFDA: 21 MACH. NET / feladó gép NET
+száma
+22 MODE. VID / video üzemmód
+23 COLOR. VID / video szinmód
+BFDD: 24X SIZ VID Mideo X méret
+5 V-SIZ-VID / video Y méret
+ST FLAG /Oxvan státuszsor
+BFEG: 27 BORD. ID / keret színe
+BFE1: 28 BIAS  VID /8-15 palettaszínek
+felső 5 bitje
+—BFEZ: 29 VID. EDIT / erre a csatornára Ír
+az edítor
+. BFES: 30 KEY. EDIT / erről a csatormáról
+olvas az edítör
+BFE4: 31 BUF EDIT / edítorputter a
+BUF. EDIT"0OM (max.63)
+BFES: 52 FLG EDIT / az editor ovasás
+jelzője
+B7-szerkesztés nélküli azon;
+16-az egész szöveg olvasása
+bő-szövegszerkesztés ESC-ig
+báznem soronként hanem bekez.
+désenként kell ovasni
+b3-a bekezdésből csak a prompt utáni.
+részt kell olvasni
+b25a sor auto törlése (nyomtatható
+karaktemén)
+BFEG: 33 SP. TAPE / 0emagnó
+gyorsment
+BFET: 34 PROTECT / Demagnó
+másolásvédelem,
+BFES: 35 LV. TAPE / felv. színt (0-1 20
+2-403580 4-170 57375 6-2552700mV).
+BFES: 36 REM / 0-1. távírányító
+bekapcsolva
+BFEA: 37 REM2 / 0-2. távirányító bakap-
+csolva
+BFEB: 36 SPRITE / b0-btekülső SPRITE
+szinpriorítása
+BFEC: 39 RANDOM IRG / megszakítás
+Számláló
+BFED-FF: Az EXOS általános
+fendszerváltozó;
+BFED-EE: Felhasználói megszakítási
+rutin címe, Oznincs ilyen igény.
+BFEF: A bejelentkezési üzenet
+elnyomásának jelzője.
+BFFO-F1: 16 bites másodpercszámtáló,
+BBFF2: A szoítvermegszakítás indítása.
+BFF3: A 85 kívleeli port aktuál értéke,
+BFF4-FS: Az LPT elejének címe,
+BFFG-FT: A státuszsor memória elme.
+BFF8-FS: A felhasználói melegindítás.
+elme,
+BFFA-FB: A rendszerveremtár
+ellenőrzéséhez használt 16 bítes érték.
+tapregiszter.
+tapregiszter.
+tapregiszter
+tapregiszter
+
+olvasás
+
+(HsottaEGO)
+
+"page-009.jpg" ------------------------------------------------------------ 
+10
+
+1994. szeptember—október
+
+EPDOS version 2.0 O Hsoft 1994.
+
+Előzetes ismertető
+
+HARDVER:
+A 2.0-ás rendszer speciális cartridge-t használ, 32 K-s
+EPROM-ot és 32 K-s SRAM-ot tartalmaz, melyet a
+kikapcsolás alatt egy telep vagy akkumulátor táplál,
+
+Aki már
+
+delkezik buszbővítővel és SRAM-EPROM
+I. tervezi ezek beszerzését, használhatja a
+cartridge-n kívüli SRAM-ot is. Ebben az esetben
+bármilyen (pl, gyári) cartridge-t használhat a 4.
+szegmensre helyezett EPDOS 2.0-ás EPROM-mal.
+
+SZOFTVER:
+Az EPDOS 2.x (jelen esetben az x 0-át jelent) rendszer
+nem fájlmenedzser, vagyis nem az 1.7-es verzió
+továbbfejlesztett változata! Erre az EPDOS 3.x lesz
+hivatva, mely már igényli az EPDOS 2.x operációs
+rendszer támogatását is. Tekintsük át nagy vonalakban
+az EPDOS 2.0-ás rendszer felépítését. Kizárólag a 4.
+szegmensről lehet használni. Megvalósítja a hideg-
+indítással járó RAM és ROM tesztet, Lecseréli a KEY-
+BOARD és PRINTER perifériákat valamint létrehozza a
+CLOCK eszközt. Megoldja a PC-egér, a HW-óra
+illesztését az operációs rendszerhez. Tetszőleges kon-
+figuráció alatt dolgozhatunk és RAM-diszket is
+megőrizhetünk. Elvégzi az EPSON-grafikus nyomtatást
+EP-karakterkészlettel vagy NLO-HFONT-tal. Beépített
+szín ill. BIAS keresővel és a (nem játék) programok
+futása alatt beégésgátlóval rendelkezik. — Billentyű-
+kombinációval hívható ablak segíti az alkalmazói prog-
+ram futása alatti ember-operációs rendszer kapcsolatot,
+Saját billentyű kiosztással és karakterkészlettel dol-
+gozhatunk. Számos beállítást az SRAM-ban tárol, így a
+gép kikapcsolása után sem felejti el ezeket.
+
+ÁS RENDSZER TARTOZÉKAI:
+
+VA" változat: Kétfoglalatos 2x32 K-s EPROM-SRAM
+kártya. A SRAM szegmensszáma 6-7. A kártya
+elkészíthető egy 2 foglalatos ROMBAY átalakításával is.
+A SRAM-cartridge/6-7 gyártására sikerült felkérni
+Mészáros urat. Az előzetes megbeszélés alapján várható
+árak tájékoztató jelleggel:
+
+A2.
+
+— üres nyák (aranyozott lábak) 500,-
+— elkészített kártya SRAM és akku nélkül . 800,-
+
+— SRAM (62256) 1200,-
+— telep 7;
+
+B" változat: Buszbővítőbe helyezett SRAM-EPROM
+
+kártya. Mészáros úrral egyeztetve a SRAM szeg-
+
+mensszám 60-6IH, de ettől kivételes esetekben el lehet
+térni. E típust Mészáros Gyulától lehet beszerezni! (Ára
+SRAM és akku nélkül: 2100 FO,
+— 27C256 típusú EPROM, kapacítása 32 Kbájt. Tar-
+talmazza a 16 K-s TEST-programot, A maradék hely
+üresen marad, ill. a megrendelésnél jelzett 16 K-s ROM-
+program kerül beégetésre. A listájuk megtalálható az
+előző ENTERPRESS-ekben. (A szerzői díjas ROM-pro-
+ram az árat tovább emeli!).
+- Rendszerlemez és felhasználói kézikönyv, A HSOFT-
+tól rendelt lemez formátuma 5.25"-os 400 K-s, A lemez
+3.5"-ós méretben EGO-tól szerezhető majd be. (Lásd a
+Programküldő szolgálat felhívását a következő ENTER-
+PRESS-ben!),
+A program és a nyákok készítése már eléggé előre-
+haladott állapotban van, ezért reméljük, hogy következő
+számunkban már a kész verztóról írhatunk. Aki majd
+megrendeli, bizonyára szép karácsonyi ajándék lesz
+PDOS 2.0. (- a szerk.)
+
+HWP-HELP
+
+Többen panaszkodtak a szerkesztőségünknél, hogy
+az előző számunkban közölt HWP-leírás hiányos.
+Eláruljuk, hogy ezekkel a leírásokkal nem az a célunk,
+hogy a program teljes HELP-jét közöljük! A HWP-ről
+készült leírás a0.4-es verzióról készült, igy mire clkkünk
+megjelent, már Jóval magasabb vott a verziószáma
+a HWP-nek, Leírásunkban pedig egyáltalán nem
+szerepelt olyan kijelentés, hogy ez a program HELP-
+Jel Ezt megtalálhatjuk a HWP lemezen és ebben a
+HELP-ben természetesen minden információ megta-
+lálható,
+
+Érthetetlen az ls, hogy miért próbálják Tisztelt Ol-
+vasólnk kazettán rendelni a programot, amikor
+egyértelműen szerepel a leírásban, hogy ez egy
+LEMEZES szövegszerkesztő.
+
+A HWP lemezen megrendelhető az alábbi címen:
+
+Tóth István, 1173 Budapest, Újlak u, 9. IX, 90.
+Telefon: 257-1990
+
+AZ ELŐZŐ
+SZÁMUNKBAN
+KÖZZÉTETT
+RAJZOLÓ PROGRAM
+PÁLYÁZATI
+FELHÍVÁSÁNAK
+HATÁRIDEJE:
+1995. MÁRCIUS 31.
+
+Ezzel kapcsolatos információkat
+továbbra is a szerkesztőség
+címén lehet kérni.
+
+ENTERPRESS, 1399 Bp., Pf. 701/334.
+"page-010.jpg" ------------------------------------------------------------ 
+1994. szeptember—október
+
+11
+
+Képernyőkezelés az Enterprise-on -— II. rész
+
+Ha az előző rész példa LPT-jét mindenki megértette, akkor
+talán rá is térnék a lényegre, a további videómódok ismer-
+tetésére.
+
+Ezek mindegyikénél az LPT-ben megadott videócímről (4—
+5. byte!) a megadott mód szerint a képernyőn a videómemória
+tartalma láthatóvá válik. Használhatunk különböző
+mennyiségű szineket, különböző vizszintes ill, függőleges
+felbontást, és az egyes képernyő területeket eltérő memória
+területen tárolhatjuk. A hamarosan tárgyalt szinmódok
+határozzák meg, hogy a vidccmemória információja hogyan
+alakuljon színekké képernyőnkön, Szükséges még tudnunk,
+hogy az LPB-kben megadott címek mindig NICK címek,
+tehát az FCh-FFh szegmensek 64 k-s egybefüggő területet
+címzik, nem pedig éppen a Z80-on belapozott 64 k-s területet!
+2 színű üzemmód:
+
+Ebben az üzemmódban a képernyő memória minden byte-ja
+§ pixel. Minden bit 1 pixel, a bitek 0 ill. 1 értéke a paletta
+0. és I, elemét jelentik, (Lásd még ALTINDO, ALTINDI, MS
+BALT, LS BALT választó bitek részletesebb tárgyalásánál!)
+Balról jobbra haladva lesznek a bitek a képernyőn is megje-
+lentetve.
+
+4 színű üzemmód:
+
+Négy szín esetén egy byte már 4 pixelt határoz meg, egy byte
+a képernyőn balról-jobbra haladva a következő csopor-
+tosításban jelenik meg:
+
+b3b7  b2bó — bl.b$ — b0.b4
+
+(b0 67 a pixel pontjainak bitjei a következő elrendezésben;
+b7. b6, DS, b4, 53, b2. bl, b0). A bitpárok az LPB
+palettájának első négy elemét rakják a képernyőre. Egyébként
+az LPB-ben megadott színek a 256 közül szabadon
+választhatóak. 16 színű üzemmód:
+
+Hasonlóan az eddigi logika szerint itt 1 byte 2 pixellel
+egyenértékű. Mindkét 4 bites csoport a 16 elemű paletta egy
+elemét választja ki, Ha a pixel értéke 0...7, akkor a pont
+színét az LPB-ben megadott 8 szín adja meg, míg ha 8...15,
+akkor a FIXBIAS regiszter által meghatározott 8 byte-s
+területről kerül ki a szín. Ez egy kis korlátozást jelent a színek
+használatában, mivel nem biztos hogy pont a FIXBIAS
+minden színe szükséges nekünk, A két pixel bitjei a követ-
+kezők.
+
+bi. b5. ba, b7 b0, b4, b2, b6,
+Ha 16 színű képernyőt választunk, akkor a kép MODSOR-
+ainak első 8 szinét a hozzájuk tartozó LPB palettájával
+változtathatjuk, de a FIXBIAS (második 8 szín) az egész
+képernyőre állandó. Ez igy teljesen nem igaz, ugyanis a
+FIXBIAS-t is változtathatjuk, de erről a lehetőségről a
+videómegszakításoknál írok.
+
+256 színű üzemmód;
+Ebben az üzemmódban minden byte egy pont színét határozza
+meg. Ha jól meggondoljuk ez az üzemmód ad lehetőséget a
+legkisebb vizszintes felbontásra, mivel a NICK chip egy sor
+információjának olvasására 57 szakaszt tud biztosítani.
+Minden szakaszban két byte-ot tud beolvasni, s ahogy az
+
+előző részben levezettem 46 szakasz marad a tényleges
+Pixeladatok olvasására (57-11). Így a maximális vízszintes
+felbontás 4692, azaz 94! Ez sajnos igencsak kevés, de azért
+használható valamire. Itt még kitérek arra, hogyan is
+keletkezik a szín a három TV technikában általánossá vált
+színkomponensből, Ez a három szín a piros (RED), kék
+(BLUE) és a zöld (GREEN). A 256 különböző szin 8 biten
+ábrázolható, amiből 3-3 bit a piros és a zöld szín erősségét",
+míg 2 bit a kék szín intenzítását határozza meg. Ebből
+kitűnik, hogy 8-8 tiszta zöld és piros árnyalat van, amíg
+kékből csak 4 áll rendelkezésre. Tehát ha mi akarunk színeket
+kikeverni nincs más dolgunk, mint az összetevők arányait
+megválasztani, és azt a megfelelő módon a szin byte-ba
+behelyettesíteni, A szin byte-ok a következőképpen néznek ki:
+7. b6, b5, b4, b3, b2, bl, b0, G2, R2, BI, GI, RI, BO, Go,
+RO. R2 RL, RO a piros színösszetevő bitje helyiértékes
+sorrendben, ugyanigy G2, GI, GO a zöld, BI, BO a kék. Ha
+mondjuk az alábbi színt akarjuk kikeverni, akkor a
+következőképpen kell eljárnunk: piros: $ — 101b, kék:
+10b. Ezeket a biteket behelyettesítve: zöld: 4 — I00b. A szín
+kódja: 11100001b, azaz 225. Ez az összeállítás mindenhol
+igaz, Úgy adjuk meg 256 szín esetén, ha a pixelek adatairól
+van szó, de igaz az LPB második 8 byte-jában megadott
+adatokra is,
+
+Attribútum üzemmód:
+
+Ez az üzemmód talán a legérdekesebb. Ez adott lehetőséget
+arra, hogy a Spccirum számítógépre készített programok
+nagyon könnyen (szinte grafikus rutinok átírása nélkül)
+erüljenek kedvenc gépünkre. Ebben a módban ugyancsak
+16 szin használható, csak kicsit megkavarva korlátozásokkal:
+Először is tudnunk kell, hogy ezt az üzemmódot mindenképp
+2 színű módban kell használnunk, mivel ha nem így teszünk,
+akkor egyes képpontok színe határozatlan leszt Az attribútum
+jellegű MODSOR-ok LPB-jének 2, byte-ja tehát mindig 14h!
+A képpont terület az LD1 által megadott területen, a
+képpontokhoz tartozó színinformációt pedig LD2 címzi,
+Tulajdonképpen a képpontinformáció ugyanúgy tárolódik,
+mint 2 színű üzemmódban. Minden kép byte-hoz (8 pixel)
+tartozik egy úgynevezett attribútum byte, ami tartalmazza a
+tinta és a háttér szinét, Ha a képpont értéke 1, akkor tinta,
+ha 0, akkor pedig háttér színben jelenik meg. Az attribútum
+byte felépítése a következő: b0...53. tinta színe (0-15 — a 16
+színű palettából kerül ki) b4...b7 háttér színe, A felbontás a
+4 színű üzemmódéval egyezik meg, mivel egy szakaszban egy
+kép-pont byte-ot és egy hozzá tartozó attribútum byte-ot tud
+beolvasni a NICK, Ebben az üzemmódban is bekavar egy
+kicsit a VRES bit értéke, ugyanis ha 0, akkor az attribútum
+byte-ok értéke soronként azonos, így csak egy sor attri
+bútumait kell megadnunk, Ha VRES 1, akkor természetesen
+ugyanannyi képpont byte lesz, mint attribútum.
+
+Összesen ennyi a grafikus üzemmódokról, és most pedig a
+szöveges üzemmód következik;
+
+Text üzemmód:
+rom féle karakteres üzemmód áll rendelkezésünkre, melyek
+csak a felhasználható karakterek számában különböznek
+
+"page-011.jpg" ------------------------------------------------------------ 
+12
+
+1994. szeptember-október
+
+A címet úgy kell letárolnunk, hogy a karakterkészlet valódi
+NICK címét elosztjuk a felhasznált karakterek számával
+(CH256-ban 256-tal, CH64-ben 64-el, stb.), és ezt az értéket
+tároljuk le. Ebből adódik, hogy a karakterkészletnek mindig
+CH256-ban 256-tal, CH128-ban 128-al osztható memória
+címen kell kezdődnie! A felhasználandó karakterek
+magasságát az LPB első byte-jában tudjuk beállítani. 1-256
+pixel magas karakterig bármilyent használhatunk. Az EXOS
+9 pixel magas karaktereket kezel, tehát az EXOS által gene-
+rált LPB-k első byte-ja F8h szokott lenni. A ka- rakterkészlet
+a következőképpen tárolódik pl. CH64 módban: Először a
+karakterek felső pontsora, azaz 64-szer 1 byte, ezután a 2.
+sora minden karakternek, stb... A többi üzemmódban is
+hasonlóképpen, csak CH128-ban pl. 128 byte a karakterek
+első sorának letárolásához szükséges terület. Ebből a
+karakterkészlet mérete kikövetkeztethető:
+
+karakterek száma X sorok száma
+
+A kijelzésre kerülő byte ugyanúgy generálódik, mint grafikus
+mód esetén figyelembe véve a beállított színmódot. Kétszínű
+tizemmódban normál karakterkép kerül kijelzésre, amíg más
+es módokban vízszintesen kevesebb képpontból áll a
+karakter. Kétszínű üzemmódban lehetőségünk van még két
+vezérlő bitet ís használni, de ezek jelentőségére a következő
+részben térek ki. Fontos, hogy a VRES bit értéke mindig 0
+kell hogy legyen, ha valamilyen TEXT üzemű módot kívá-
+nunk használni. Egy sorban maximum 46 karakter lehet! Ha
+valaki 80 karakteres képernyőt akar kezelni, akkor 2 színű
+üzemmódban saját magának kell kiírnia a karaktereket a
+képernyőre, ahogyan az EXOS is teszi 80 karakteres VIDEO
+lapjain.
+
+A következő részben a vezérlő bitek tárgyalása (MSBALT,
+LSBALT, stb.) után már hasznos képernyőkezelő nitinokat
+is bemutatok,
+
+Kurta László
+
+DELTA WING
+
+T — tolóerő fel
+
+G - tolóerő le
+
+J — futómű ki/be
+
+M- térkép
+
+B - fék a földön
+
+F — fékszárny ki
+
+V - fékszárny be
+
+R - radar üzemmód váltó
+P — bombatér nyitása
+SPACE - géppuska tűz
+
+Kiss László
+
+Mandna
+
+Betöltés közben ESC: örökélet.
+
+ÖRÖKÉLET KÓDOK
+
+TOTAL ECLIPSE
+IR] 10FO JENTERI BFFF [ENTER] TOTAL1.COM
+TENTER]
+
+LastAddress: 1757
+
+IMI 10F2 JENTERI 77 (ESCI
+
+IMI 1202 (ENTERI 57 07 (ESCJ
+
+IMI 1757 IENTERI 3E CD 21 69 07 32 2E BA 22 2F BA
+AF 3277 BA C3 20 5B 3E 01 32 BB 6A 3E 32 32 C8
+6A 3A 0C 71 C9 [ESC]
+
+IS] 10FO [ENTERI 1776 (ENTERJ TOTAL1-TRN
+(ENTER]
+
+TOTAL ECLIPSE 2. (kicsomagolt program)
+
+(MI 1000 JENTERI 11 24 10 3E 01 F7 01 11 00 20 01
+00 AG 3E 01 F7 06 3E FD D3 Bt 11 00 40 01 15 23 3E
+01 F7 06 3E 01 F7 03 C9 ! 0A 554 4F 54 41 4€ 32 2E
+50 5247 [ESCI
+
+A felkiáltójel után a program második fájljának
+hosszbájtját és nevét kell beírni!
+
+G1 1000 (ENTERJ
+
+Returned from call at 1000
+
+10] B1 ENTERI FB (ENTER]
+
+(MI 3F74 IENTERI 3E 01 32 BB 6A 3E 32 32 C8 6A 3A
+8BC71 C9 [ESCI
+
+IMI 8DEF (ENTERI CD 09 6D (ESCI
+(MI 8E38 JENTERI 00 [ESCI
+
+(MI 1006 (ENTER 02 (ESC
+
+(MI 1010 [ENTER] 08 (ESCI
+
+(MI 101E (ENTERI 08 (ESCI
+
+(GJ 1000 (ENTER]
+
+Returned from call at 1000
+
+ELITE (2. file) (könnyítés)
+(R] 1800 (ENTERI BFFF [ENTERI ELITE (ENTER]
+Last address: BFFF
+
+(MI 3093 (ENTERI 00 (ESC)
+
+(MJ 318C (ENTERI 00 (ESCI
+
+IMI 5984 ENTER] 00 [ESC]
+
+IMI 5AES (ENTERI 36 AO 18 (ESC]
+
+IMI SAFE ENTER] 36 AO (ESCI
+
+IMI 5C17 (ENTERI 00 [ESCI
+
+IMI 5C32 (ENTERI 00 (ESCI
+
+IMI 9198 (ENTER 00 (ESC
+
+IM)J 922C (ENTERI 00 (ESCI
+
+IMI 9244 (ENTER 10 27 00 00 (ESC
+
+(MJ 9262 (ENTERI 01 (ESCI
+
+IMI 9267 (ENTER] 01 01 00 01 01 [ESC]
+
+(MI) 98C3 (ENTERI 00 [ESCI
+
+(MI 9BE0 (ENTERI 00 (ESCI
+
+IMI 9C9B (ENTERI 00 (ESCI
+
+IMI A807 IENTERI 00 (ESCI
+
+IMI AASD (ENTER 00 JESCJ
+
+1S] 1800 (ENTERJ BFFF IENTERI ELITE JENTER]
+
+Csavajda István
+"page-012.jpg" ------------------------------------------------------------ 
+1994. szeptember—október
+
+13
+
+PING
+
+JjiuróI MM EEST
+
+Kora gyermekkorom óta kedvelem az asztalíte-
+niszt, mivel az ennél nagyobb labdával való találkozás
+erősen rontja a látásomat (t.i. focizásnál mindig
+eltört a szemüvegem),
+
+A ping-pong az asztalitenisz egy vállfaja, amit
+kedvenc gépünk, vagy kevésbé kedvenc ellenfelünk
+ellen játszhatunk. Asztal csak a gép és a joystick alá
+szükséges.
+
+A programot 128-as módba, cartridge nélkül
+töltsük be, mert különben ellenfelünk ütője nem tudja
+eldönteni, hogy tenyerest vagy fonákot üssön
+(magyarul lebeg). "C" lenyomására indul a program,
+ezután választhatunk, hogy a gép vagy a mellettünk
+ülő ellen játszunk (one player, two player).
+
+Ezután kiválaszthatjuk az irányítást. Külső, belső
+joystickkal ill. billentyűzetről küzdhetünk. Én bil-
+lentyűzetet definiálok, mert így szerintem lényegesen
+kényelmesebben és gyorsabban játszhatunk!!!
+
+Közlök egy nálam bevált kiosztást, valamint a joy-
+stick használatát:
+
+kiírás jelentés igy billentyű
+SMASH leütés fel F
+SERVE adogatás — le space
+DRIVE Pörgetés balra J
+
+CUT nyesés jobbra 1
+BACKHAND . fonák tűz w
+
+Két játékos esetén célszerű az EXT1-et és a
+KEY2-öt választani
+
+Amikor nagy lelkesedéssel először leültem ezzel a
+programmal játszani, rövid idő alatt egy fél évre való
+kudarcot gyűjtöttem össze. Ha sikerült véletlenül egy
+adogatásom és netán még egy labdát is vissza tud-
+tam adni, akkor is hamar az asztal szélére játszott a
+gép. és onnan már nem lehetett visszaadnom a lab-
+dát. A program írója — mint később kiderült — nem-
+csak remek programozó, hanem valószínűleg jól is
+Ping- pongozik.
+
+Néhány lényeges apróság: az ütő mindig ,rajta
+van" a labdán, tehát ezzel nem kell foglalkoznunk.
+.Csak" azt kell eldöntenünk, hogy tenyerest vagy
+
+PONG
+
+fonákot üssünk, illetve pörgessünk avagy inkább
+nyessük a labdát. Fonák ütéshez először a tűz-
+gombot nyomjuk meg, tartsuk megnyomva és csak
+utána mozdítsuk balra vagy jobbra a joystickot. Ha a
+visszaütéssel egy kicsit kivárunk akkor egyene-
+sebben megy vissza a labda, azonban ha a fel-
+pattanás után egyből ütünk és nyomva tartjuk a
+megfelelő billentyűt, akkor inkább keresztirányba.
+Megfelelő gyakorlás után már mi irányíthatjuk a
+játék menetét.
+
+Fontos: leütni csak egy hangjelzésre lehet, ezzel
+egyidejűleg az ütőnk kissé megemelkedik. Ne
+aggodjunk a második illetve további fokozatokban a
+leütéseinket már remekül visszaadja a gép, tehát a
+Poénokat szépen ki kell dolgozni!!!
+
+A labda pattogása a képernyőn, valamint a hang-
+hatása nagyon élethű! Hosszú távon viszont zavaró a
+nézők lelkes tapsa, még akkor is ha nekünk szur-
+kolnak.
+
+Egészébe véve remekül el lehet vele játszani,
+levezethetjük agresszív indulatainkat és próbára
+tehetjük reflexeinket.
+
+A gépet még négyes fokozatban is meg lehet
+verni, de ne ezzel kezdjük a gyakorlást!
+
+Aki ötös fokozatban is meg tudja nyerni a játékot,
+az bizonyára TURBO-REFLEX-ekkel rendelkezik.
+
+Várom jelentkezését!!!
+
+Jó szórakozást kíván: APUCI
+TTTZTTTI
+
+ÖRÖKÉLET KÓDOK
+
+ZOLYX (Örökélet és idő)
+
+ÍRJ 10FO JENTER] BFFF TENTER] ZOLYX.COM [ENTER]
+Last address: 13F9
+
+IMI 10F2 TENTERI 05 03 (ESCI
+
+IMI 13774 (ENTERI F9 03 (ESCI
+
+IMI 13F9. JENTERI AF 32 70 €6 3E 18 32 2E CS C3 00
+BO (ESCI
+
+(SI IOFO JENTERI 1404 TENTER] ZOLYX.TRN [ENTER]
+
+DEVIANTS (Örök energia)
+ÍRI I0FO (ENTERI BFFF [ENTER] DEVIANTS COM
+TENTERI
+Last address: 3DEA
+IMI 10F2 fENTERI FB (ESCI
+IMI 1246 TENTERI EA 2D (ESCI
+IMI 3DEA (ENTERI 3E 18 32 65 7F 3E 12 32 66 TF C3 FE
+98 TESCI
+ISI 10FO [ENTER] 3DFA (ENTER] DEVIANTS.TRN
+TENTERI
+Csavajda István
+"page-013.jpg" ------------------------------------------------------------ 
+14
+
+1994. szeptember-október
+
+$SWAP
+
+Egy igen ötletes és grafikailag tökéletesen
+kidolgozott, eredeti, ENTERPRISE-ra írt, négy különbő-
+böző zenével ellátott, logikai játékot szeretnék
+bemutatni.
+
+A játék nem újdonság, de remélem akad olyan
+márkatársam aki e sorok elolvasása után érez majd
+olthatatlan vágyat a program birtoklása ügyében.
+
+A program megtalálható a Programküldő Szolgálat 17.
+sz. lemezén.
+
+Megrendelhető: Tóth István, 1173 Budapest, Újlak u.
+9. D/90. Tel.: 257-1990. A program ára magában
+foglal 4200 Ft szerzői díjat, ami figyelembe véve a
+Program Írásába fektetett időt és energiát nem nagy
+összeg. (Három doboz cigaretta ára). Az ENTERPRESS
+szerkesztősége szeretettel várja a hasonló, eredeti,
+önálló Enterprise programok Íróinak jelentkezését.
+(Részletesen a 94/3-4. számban ,A Programküldő
+Szolgálatról" című cikkben olvasható).
+
+Ezután a kis kitérő után lássuk a játékot.
+
+Betöltés közben villogó SUJAP feliratot láthatunk.
+Megismerkedhetünk a program szerzőivel: TIMELORD
+8. MOONUGHT-al. A programot árulni szándékozó
+neppereknek is szól egy felhívás, melyet kénytelenek
+vagyunk elolvasni, mert a felirat scrollozásából nem
+lehet kilépni. A szóköz billentyű folyamatos nyom-
+vatartásával tetszőleges Ideig élvezhetjük ezt a
+nyelvtani tanulmányt.
+
+A felszólításra megnyomott szóköz billentyű hatására
+világűrben úszkáló halacskákban, buborékok szágul-
+dásában, a SUAP felirat átlós mozgásában és rövid
+Játékleírásban gyönyörködhetünk.
+
+A space ismételt használata után a menü-táblába
+kerülünk.
+A menüben és a játék során egy nyilat Irányíthatunk a
+beépített és a külső botkormánnyal, a szóközzel
+aktivizólhatjuk a beállítást.
+
+Nagyon jó lenne egérrel is irányítani a játékot!
+(Remélem Hsoft is olvassa ezeket a sorokat és nem
+fogja tudni magát visszatartani, hogy az egérkezelést
+ennél a programnál is megvalósítsa. Több program
+,egeresítése" fűződik a nevéhez). lehetőségünk van a
+kezdő szín számainak megadására.
+
+Alapbeállítás: 15 (Az összes szín mellett OK felirat). A
+feliratra , lövéssel" átállíthatjuk NO állapotba, így ez a
+szín kimarad a játékból. Minimálisan két színnel
+kezdhetünk, sikeres pálya teljesítés után eggyel
+növelnünk kell a színek számát. (NO feliratot OK-ra
+váltani).
+
+A SPEED 1 ill. SPEED 2 a billentyűismétlés és a nyíl
+sebességét határozza meg.
+
+Állítása a mellettük lévő kockában, a le és fel mutató
+nyíllal lehetséges.
+
+A MANY HELE a játék során igénybevehető segítségek
+számát jelzi, alaphelyzet: nulla. Állítása az előzőekhez
+hasonló, maximum 24. Minden igénybevett segítség
+ötven ponttal csökkenti majdani pontszámunkot. Ha
+kevesebb mint ötven pontunk van, akkor nem kapunk
+
+segítségre lehetőséget.
+A jobb felső sarokban négy Ikon látható. Jelentésük:
+
+LEFELÉ NYÍL: kockák ejtése.
+
+BALRA NYÍL : utolsó lépés törlése.
+
+HANGJEGY : zene kikapcsolása a játék alatt.
+
+EXIT : kétszeri rálövés a játékból kilépést eredményez.
+A SCORE felirat alatt látható az elért pontszámunk.
+
+INFO: A szerzők neve ismét megtekinthető.
+
+GAME: A játék indítása.
+
+A JÁTÉK CÉLJA:
+
+Az azonos színű kockák egymás mellé forgatása,
+ejtése, melyek így eltűnnek.
+
+A végcél az összes kocka eltüntetése. Ez segítség
+igénybevétele nélkül szinte lehetetlen.
+
+FORGATÁS: A kockákat elválasztó vízszintes, vagy
+függőleges vonalra állva a szóközt megnyomva, a két
+kocka helyet cserél egymással. Amint sikerül két, vagy
+több egyszínű kockát összeforgatnunk, azok eltűnnek.
+EJTÉS: Az eltűnt kockák helyét lehet kipótolni.
+Tanácsos csak akkor alkalmazni, mikor már nincs több
+lehetőségünk két egyforma színű kocka eltüntetésére,
+mert az ejtés következtében eltűnő kockákra a prog-
+ram sokkal kevesebb pontot számol.
+
+SEGÍTSÉG: A Jobb alsó mezőben kiválasztjuk a
+megfelelő színű kockát, rálövünk, mire a kocka eltünik.
+A nyillal a játéktérben lévő azonos színű kocka mellé
+állunk és ismét szóközt nyomunk. A kocka eltűnik. Ha
+minden kockát sikerült eltüntetni, akkor jutalom-
+pontokat kapunk, plusz a fel nem használt segítségek
+ís pontszámunkat növelik. Ha sok színnel játszunk,
+akkor vigyázni kell, ugyanis a segítség kockák
+színelosztása nem egyforma, hanem a gép vélet-
+lenszerűen generálja.
+
+Ha nincs lehetőség további lépésre, vagy az EXIT-tel
+kilépünk, akkor a játék véget ér. Ezt ékes angolsággal
+közli is velünk. (GAME OVER). Ha a játék során
+sikerült elérnünk 667 pontot, akkor feliratkozhatunk a
+legjobbak közé a Iistára. Az első helyen
+természetesen a program írója áll. Az utána következő
+nevek EP-s körökben szintén ismerősen csengnek.
+Gondolom csak a véletlen játéka volt, hogy DEVIL-nek
+Pontosan 666 pontot sikerült elérnie. Vagy talán a
+remek programok Írása közben az ördöggel
+cimborál?" Röviden ennyit erről a kitünő logikai
+Játékról ami nagyszerű szórakozást jelenthet mind-
+annyiunk számára.
+
+Ezúton szeretnék köszönetet mondani Tóth Istvánnak,
+és az ENTERPRESS újság szerkesztőségének a nekem
+nyújtott segítségértl
+
+(A leírás a HUJP szövegszerkesztőn készült).
+
+Kecskés Sándor
+(CSASA)
+"page-014.jpg" ------------------------------------------------------------ 
+1994. szeptember-október
+
+ENTERERESS 15
+
+SZOL
+
+Hát végetértek a nyaralások. Mindenkinek az első
+dolga, hogy fellapozza az újságot megtudakolván azt,
+hogy ebben a hónapban mi jót is kínál a Programküldő
+Szolgálat. Lehet válogatni az alábbiakból: 40 játék-
+összeállítás (mintegy 6-700 játék); 6 spectrum-emu-
+emulátoron futó összeállítás (kb. 100 játékkal); továbbá
+7 felhasználói válogatás; 6 demo válogatás és 9 zenei
+összeállítás. Akiknek ez kevés azoknak elárulom, hogy
+készülnek már a további válogatások.
+
+Addig is néhány gondolatomat megosztanám az
+Olvasóval,
+
+idönként olyan dilemma elé állítanak a játékok átíról
+amelyet bizony nehéz megemészteni, A következőről van
+szó: a billentyűzet és a joystick kezelését nem oldják
+meg jól, Igy aztán előfordulnak olyan — egyébként nagyon
+jó - pragramok amelyeknek rossz vagy hiányos a
+
+" kezelhetősége. Úgy gondolom, hogy ha korlátozásokkal
+
+is, de kár lenne ezektöl megfosztani a Nagyérdeműt.
+Ezért arra kérem Önöket, hogy ne adják fel a pró-
+bálkozást. Ha első neki futásra nem sikerül jól, akkor
+próbálják meg egy másik beállítási lehetőséggel. Bizony
+előfordul nem is ritkán, hogy Sinclair-re megy a külső Joy
+vagy a Kempston jelzésre üzemel a belső joy. Ezek a
+hiányosságok nem emelik a programok minőségét
+azonban használni így is lehet öket.
+
+Többek kérdésére csak 1-2 mondatban az adat-
+hordózókról. A kazettás megrendeléseket TWD C60
+típusú kazettán küldöm. Nem egy világmárka, de a mi
+céljainknak tökéletesen megfelel. Az 5.25"-os lemezes
+megrendelők színes JVC márkájú lemezen kapják a kért
+programokat. Kiváló minőségű, még egyetlen rosszal
+sem találkoztam. Azok akiknek 3.5"-os meghajtójuk van
+relatíve Ők járnak a legjobban, mert kitűnő minőségű
+BASF, POLAROID ill. PRECISION lemezeken kapják
+meg a megrendelésüket és ráadásul messze ezek a
+legdrágább adathordozók. A többszöri áremelés valamint
+a Forint-leértékelés ellenére is tartjuk az árakat (leg-
+alábbis az idén mindenképp), Tessék csak össze-
+hasonlítani a 4-5 évvel ezelőtti Spectrum-program-
+küldövel amely akkoriban 300 Forint-ért kínálta kazettáit!!!
+
+Sokadszor immár, de úgy látszik még mindig nem
+elégszer, szeretném kérni a tisztelt Megrendelőket arra,
+hogy jól olvashatóan és pontosan tüntessék fel a nevüket,
+címüket, a kért összeállítás számát és válogatás esetén,
+hogy mely összeállításon található a kért program. Ha
+valaki elfelejti ráírni, hogy milyen adathordozón kéri, az
+ís megkapja a megrendelését kazettán. Egy bármilyen
+kazettás magnó általában található minden háztartásban.
+így használni tudja amit kért. Ez túl azon, hogy némi
+kényelmetlenséget okoz, a Megrendelő részére többlet
+kiadást is jelent.
+
+Bemelegítésnek egy kis előzetes: a logikai játékokat
+kedvelőknek jön a LOGIBALL. Ez a SWAP szerzőinek
+munkája, Kiváló agytorma 6-99 éves korig. ZozoSoft
+elkészítette a betölthető ZOZOTOOLS-t, amelyben
+egyébként is már igen sok praktikus szolgáltatást nyújtó
+programját kiegészítette a ZCOPY-val. Így végre azok is
+használhatják akiknek sokba került ennek EPROM-os
+változata. A zenekedvelőknek is néhány jó hir: felvesszük
+a kapcsolatot DEVIL-lel és ha az ár elfogadhatóvá
+mérséklődik akkor egy olyan zeneszerkesztővel és a
+hozzá már elkészített hangszermintákkal gyarapodhatnak
+az EP-sek, amilyen csak a legjobbaknak van. A rendkívül
+aktív pécsi klubtagoktól is megérkeztek az újdonságaik.
+Pl. olyan zenelejátszó amely a PC-ről áthozott többféle
+— igen jó minőségű - zene lejátszására alkalmas.
+
+És hogy a nyári pangás után újból meghozzuk a
+megrendelők kedvét, valamint a címoldalon már ismer-
+tetett okok miatt (merthogy 5 évesek vagyunk), szer-
+kesztöségünk a következő AKCIÓ-t hirdeti meg:
+
+NÉGYET FIZET — ÖTÖT KAP!
+
+Ez a gyakorlatban a következőképpen néz ki. Az, aki
+négy összeállítást rendelne meg (legyen az elöre elké-
+szített vagy akár válogatás) az ne négyet, hanem ötöt
+rendeljen, Így ötödiknek — azaz ingyen - olyat kap amely
+egyébként is hiányzik a gyűjteményéből. Bár a szer-
+kesztöség felajánlja a munkáját, azonban a szerzői díjról
+a szerzők nevében nem mondhat le. Természetesen lehet
+ötödiknek ilyen összeállítást is rendelni, de a vég-
+összeghez a szerzői díj hozzáadódik. Az AKCIÓ értelem-
+szerűen vonatkozik arra is ha valaki többet rendel, Tehát
+pl. B ósszeállításnál 10-et kérjen de csak nyolcat kell majd
+fizetnie utánvéttel,
+
+A megrendelhető programok listái megtalálhatók az
+ENTERPRESS újság előző számaiban. Ha valaki netán
+nem rendelkezik ezekkel (HMM!!! Van még olyan EN-
+TERPRISE-os aki nem előfizető?) és egy előre felbé-
+lyegzett és megclmzett válaszborítékot elküld nekem,
+akkor visszaküldöm azt a megrendelhető programok ill
+összeállítások listájával kibélelve.
+
+Ebben az AKCIÓ-s formában az OKTÓBER 31-ig
+beérkezett megrendeléseket tudjuk teljesíteni.
+
+A megrendeléseket az alábbi címre várjul
+Tóth István, 1173 Budapest, Újlak u. 9. IX/90,
+Telefon: 257-1990
+
+Kellemes időtöltést kíván: EGO
+"page-015.jpg" ------------------------------------------------------------ 
+16
+
+1994. szeptember-október
+
+A VL-1772 IC-ről
+
+Mint idei 2. számunkban az 1. oldalon írtuk,
+titokzatos hiba jelentkezett a VL-1772 IC-vel
+kapcsolatban. A gond az volt, hogy nem lehetett
+lemezt formázni (csak a ZozoTools 1.8 program
+FAFO gyorsformázójával). Azóta kiderült, hogy
+aprógyártási hiba ennek az oka és azt is kiderítettük,
+hogy nem minden VL-1772 IC ilyen. Tehát akinek
+ilyen IC van a lemezvezérlő kártyájában és az
+normálisan működik, semmi oka aggodalmaskodni.
+Sok rémült telefon és levél érkezett cikkünk után.
+Ezek 9996-a alaptalan volt! Tévedés ne essék: mi nem
+azt írtuk a cikkben, hogy minden VL-1772-es IC
+rossz! Kérjük a Tisztelt Olvasókat mielőtt tollat
+ragadnának figyelmesen olvassák el a cikkek
+tartalmát, mondanivalóját!
+
+Köszönettel: a szerkesztőség
+
+Kell a TOP-LISTA?
+
+Azt hittük, hogy a Programküldő Szolgálat
+beindítása után elözönlik szerkesztőségünket a
+TOP-LISTA szavazólapjai. Nem így történt!
+A mostani számhoz összesen 3 azaz három
+szavazólap érkezett, ebből kettő
+Kiskunfélegyházáról. Úgy látszik ebben a
+városban komolyan veszik a TOP-LISTÁT.
+Ha ekkora az érdektelenség a TOP-LISTA iránt,
+akkor a fennmaradó helyet fel tudjuk használni
+(mondjuk egy két hirdetésnek). Remélem erre
+nem kerül sor. Várjuk a szavazócédulákat,
+levelezőlap hátuljára ragasztva, mert csak így
+tudunk igazi TOP-LISTÁT szerkeszteni!
+Felhívjuk a figyelmet, hogy nem csak
+játékokra lehet szavazni!
+
+Köszönettel: a szerkesztők
+
+SZERVEZÉSI,
+SZÁMÍTÁSTECHNIKAI
+és KERESKEDELMI Kft.
+
+Alaplapok, RAM-ok, modulok, floppy-k,
+winchesterek, kontrollerek, házak, monitorok,
+kábelek, nyomtatók valamint komplett
+gépösszeállítások 1 év garanciával.
+
+Appli-Comp Kft.
+
+Üzlet:
+X. ker., Állomás u. 27. (Kőbánya városközpont)
+Telefon: 261-5173
+
+Enterprise számítógéphez 3.5"7-os vagy 5.25"-os lemezegység
+ízléses dobozban, tápegységgel eladó 11 000 Ft-ért. Ugyanitt
+floppy-vezérlő kártya 512 Kb RAM bővítési lehetőséggel: 512
+Kb RAM-mal 12.000 Ft, 0 Kb RAM-mal 10 500 Ft.
+Érdeklődni: Faragó Gyula, telefon: 274-2090.
+
+Működő WD-1772 IC-ket keresünk. Jelentkezni lehet a
+szerkesztőség címén.
+
+Aki a szerkesztőség címére kazettán
+vagy floppy lemezen küldi el
+programját, vagy kérdéseire levélben
+szeretne választ kapni, küldjön ennek
+megfelelő válaszborítékot!
+
+Köszönjük!
+
+(e T-BOYS ENTERPRISE KLUB
+
+2803 Tatabánya, PI. 3026
+
+PÉCSI. ENTERPRISE KLUB
+Tagtoborzó: Kurta László
+7636 Pécs, Fagyöngy u. 10. fez. 3.
+
+apesti ENTERPRISE klub
+
+Budapest, VIII. kerület, Puskin u, 4.
+
+34 sit Minden héten kedden 17-20 óráig, al ae
+
+ENTERPRESS — kéthavilap az ENTERPRISE számítógépek felhasználóinak. s V. évlolyam 5. szám. s Kindja az AMEKO Kf.. Budapest Folalős
+Kiadó; Kovács Gábor ügyvezető. " A kiadó cime: AMEKO Kt. 1094 Budapest, Tűzoltó u. 96. " Alapító főszerkesztők: Ujlaki László és Hajnal Csaba.
+lelős szerkesztő: Matusa istván, s A szerkesztóség tagjai: Szalontai Andrea, Kulcsár Tibor, Haluska László, Mészáros Gyula, Zozosott 8 Apuci,
+
+fáth istván, Kiss László. s A szerkesztőség csak levélben érhető ell A cím: ENTERPRESS, 1399 Budapest, Pf. 701/334. s Technikai
+szerkesztő: Vincze Györgyné. s Olvasószerkesztő: Tóth István, s Készült az AMEKO Kt. nyomdájában, Felelős vezető: Kovács Gábor. " Előfizethető
+4z AMEKO KR. címén. " A lapot csak előfizetés útján lehet megrondolnil e Előfizetési díj 1994. évben: fól évre 250 Ft, egy évre 500 Ft. " A közölt
+
+frogramokat, kapcsolási rajzokat, leírásokat mindenki szabadon felhasználhatja, de los azokat a kiadó irásbeli engedélye nélkül másolni, terjeszteni
+§ ENTERPRESS €) 1984. AMEKO Kt,
+
