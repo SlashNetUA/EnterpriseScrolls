@@ -1,4 +1,4 @@
-[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
+﻿[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
 
 Ігри для [Enterprise 64k](../games-ep64.md) - [Enterprise 128k+RAMexp](../games-epramexp.md)
 
@@ -8,29 +8,26 @@
 
 ----------
 
-# 0-9
 
-|Назва|Жанр|Система|Оригінальна платформа|
-|-----|:-----:|:--:|:-------------------:|
-|3D 4 Row|логіка, стратегія|IS-Basic|Enterprise|
-|3D Combat Zone|симулятор, 3D, екшн||ZX Spectrum|
-|3D Lunattack|екшн||ZX Spectrum|
-|3D Starfighter|екшн||ZX Spectrum|
-|4-es Játék|логіка, стратегія|IS-Basic|Enterprise|
-|4-es Játék 2|логіка, стратегія|IS-Basic|Enterprise|
-|4K Race Refueled +|симулятор, перегони||ZX Spectrum|
-|4x4 Off-Road Racing|симулятор, перегони||ZX Spectrum|
-|4x4 Offroad race|перегони||ZX Spectrum|
-|8 Játék|логіка, стратегія|IS-Basic|Enterprise|
-|10-th Frame|спорт, боулінг||ZX Spectrum|
-|10 Hajó Elsüllyesztése|екшн|IS-Basic|Enterprise|
-|11-a-Side Soccer (Four Soccer Simulator)|спорт, футбол||ZX Spectrum|
-|15 Squares|логіка|IS-Basic|Enterprise|
-|19 Part 1: Boot Camp|екшн||ZX Spectrum|
-|90 degreee!|аркада|IS-Basic|Enterprise|
-|180|спорт, дартс||ZX Spectrum|
-|720 Degrees|симулятор, скейтбоард||ZX Spectrum|
-|1942|аркада, екшн||ZX Spectrum|
-|1994: Ten Years After|аркада, платформер||ZX Spectrum|
-|2048|логіка||Enterprise|
-|2048|логіка|SymbOS|Мультиплатформа|
+
+- [﻿10 Hajó Elsüllyesztése](10-hajo-elsullyesztese-bas.md)
+- [10th Frame](10th-frame-zx.md)
+- [11-a-Side Soccer](11aside-soccer-zx.md)
+- [15 Squares](15-squares-bas.md)
+- [180](180-zx.md)
+- [19 Part 1: Boot Camp](19-part1-boot-camp-zx.md)
+- [1942](1942-zx.md)
+- [1994 - Ten Years After](1994-ten-years-after-zx.md)
+- [2048](2048.md)
+- [2048](2048-symbos.md)
+- [﻿3D Fire På Stribe](3d-4-row-bas.md)
+- [3D Combat Zone](3d-combat-zone-zx.md)
+- [3D Lunattack](3d-lunattack-zx.md)
+- [3D Starfighter](3d-starfighter-zx.md)
+- [﻿4-es Játék](4es-jatek-bas.md)
+- [﻿4-es Játék](4es-jatek-n2-bas.md)
+- [4K Race Refueled+](4k-race-refueled-plus-tmx.md)
+- [4x4 Off-Road Racing](4x4-offroad-racing-zx.md)
+- [﻿720 Degrees](720-degrees-zx.md)
+- [﻿8 Játék](8-jatek-bas.md)
+- [﻿90 Degreeee!!!](90-degreeee-bas.md)

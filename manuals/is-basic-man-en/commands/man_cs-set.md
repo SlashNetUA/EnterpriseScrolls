@@ -8,4 +8,4 @@ See '[Machine Options](man_3-moptions.md)', '[Video Options](man_3-vidoptions.md
 
 Також за допомогою цієї команди можна змінювати значення [системних змінних](../../../programming/system-info/info_exos-variables.md).
 
-`SET EXOS-var-number, expr`
+[Детальніше](../options/man_mo-var.md).

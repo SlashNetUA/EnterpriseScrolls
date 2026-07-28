@@ -1,4 +1,4 @@
-[0-9](0/games-0.md) - [A](a/games-a.md) - [B](b/games-b.md) - [C](c/games-c.md) - [D](d/games-d.md) - [E](e/games-e.md) - [F](f/games-f.md) - [G](g/games-g.md) - [H](h/games-h.md) - [I](i/games-i.md) - [J](j/games-j.md) - [K](k/games-k.md) - [L](l/games-l.md) - [M](m/games-m.md) - [N](n/games-n.md) - [O](o/games-o.md) - [P](p/games-p.md) - [Q](q/games-q.md) - [R](r/games-r.md) - [S](s/games-s.md) - [T](t/games-t.md) - [U](u/games-u.md) - [V](v/games-v.md) - [W](w/games-w.md) - [X](x/games-x.md) - [Y](y/games-y.md) - [Z](z/games-z.md)
+﻿[0-9](0/games-0.md) - [A](a/games-a.md) - [B](b/games-b.md) - [C](c/games-c.md) - [D](d/games-d.md) - [E](e/games-e.md) - [F](f/games-f.md) - [G](g/games-g.md) - [H](h/games-h.md) - [I](i/games-i.md) - [J](j/games-j.md) - [K](k/games-k.md) - [L](l/games-l.md) - [M](m/games-m.md) - [N](n/games-n.md) - [O](o/games-o.md) - [P](p/games-p.md) - [Q](q/games-q.md) - [R](r/games-r.md) - [S](s/games-s.md) - [T](t/games-t.md) - [U](u/games-u.md) - [V](v/games-v.md) - [W](w/games-w.md) - [X](x/games-x.md) - [Y](y/games-y.md) - [Z](z/games-z.md)
 
 Ігри для [Enterprise 64k](games-ep64.md) - [Enterprise 128k+RAMexp](games-epramexp.md)
 
@@ -8,17 +8,54 @@
 
 ----------
 
-Attack of the PETSCII Robots Plus (192k)  
-Castlevania. Spectral Interlude (128k-176k)  
-The Hobbit (128k-640k)  
-Los Amores de Brunilda (592k)  
-MicroProse Soccer Reloaded (128k-144k)
-Mozaik (128k-192k)  
-The Next War (128k-2.5M)  
-North & South (128k-256k)  
-Robocop 3 (224k)  
-The Sword of Ianna (560k)  
-Where Time Stood Still (128k-160k)  
-Wolfenstein 2004 (128k+)  
 
-Nasa Guy 6 (bird)  
+
+# 0
+
+- [2048](0/2048-symbos.md)
+
+# A
+
+- [Los Amores de Brunilda](a/amores-de-brunilda-cpc.md)
+- [Attack of the PETSCII Robots](a/attack-of-the-petscii-robots.md)
+
+# C
+
+- [Castlevania: Spectral Interlude](c/castlevania-spectral-interlude-zx.md)
+- [Checkers](c/checkers-symbos.md)
+- [ChessSym](c/chesssym-symbos.md)
+- [Chuckie Egg](c/chuckie-egg-symbos.md)
+- [Columns](c/columns-symbos.md)
+- [Cubix](c/cubix-zx.md)
+
+# H
+
+- [The Hobbit](h/hobbit.md)
+
+# M
+
+- [MicroProse Soccer: Reloaded](m/microprose-soccer-reloaded-cpc.md)
+- [Mozaik](m/mozaik.md)
+
+# N
+
+- [The Next War](n/next-war-zxnext.md)
+- [North & South](n/north-and-south-cpc.md)
+- [Nothing](n/nothing-zx.md)
+
+# R
+
+- [RoboCop 3](r/robocop3-zx.md)
+
+# S
+
+- [Slouching Towards Bedlam](s/slouching-towards-bedlam-zcode.md)
+- [Snakes & Ladders](s/snakes-and-ladders-symbos.md)
+- [The Sword of Ianna](s/sword-of-ianna-cpc.md)
+- [SymFoot](s/symfoot-symbos.md)
+
+# W
+
+- [Where Time Stood Still](w/where-time-stood-still-zx.md)
+- [Wolfenstein 2004](w/wolfenstein2004-zx.md)
+

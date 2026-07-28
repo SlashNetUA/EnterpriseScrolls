@@ -29,6 +29,8 @@
 [Variables](http://enterprise.iko.hu/technical/BOOK20-1_Chapter_20_IS-BASIC_Variables.pdf)  
 [System Calls](http://enterprise.iko.hu/technical/BOOK21-1_Chapter_21_IS-BASIC_System_Calls.pdf)  
 
+[Версії інтерпретатора та історичні подробиці](is-basic/basic-versions.md)
+
 ## Розширення команд Бейсіка
 
 Розширення команд дозволяють додавати нові команди до інтерпретатора мови IS-Basic.

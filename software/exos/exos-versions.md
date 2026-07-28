@@ -130,6 +130,8 @@
 
 `Reset`+`C`+`S`: **Повільний тест**. Він схожий на швидкий тест, але перевіряє усі байти. Краще користуватись швидким тестом.  
 
+`Reset`+`C`+`A`: **Розширений тест**. Детально перевіряє усі байти заповнюючи їх різними патернами.  
+
 `Reset`+`C`+`T`: **Enable TEST_ROM feature**. Normally the EXOS doesn't search for the `TEST_ROM` because the new internal test program is better than the traditional fast test programs. But with the **T** key you can run the `TEST_ROM` program. An extra feature: the EXOS searches at all segments for `TEST_ROM`. (The original EXOS searches only at the **04H** segment.) (MIT JELENT?)  
 
 `Reset`+`C`+`R`: **Видалити RAMDISK**. Зазвичай EXOS розпізнає та залишає [RAMDISK](../../manuals/dos-commands/cmd-ramdisk.md). Якщо ви хочете його видалити використовуйте цю опцію.  

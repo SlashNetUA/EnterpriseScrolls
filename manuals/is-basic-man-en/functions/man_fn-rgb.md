@@ -4,6 +4,3 @@ Returns the machine-dependent colour number equivalent to the specified mixture 
 
 e.g. `SET INK RGB(1/2,1/3,1/4)`
 
-----
-
-У предрелізних версіях ця функція мала назву `COLOUR` та `COLOR`.

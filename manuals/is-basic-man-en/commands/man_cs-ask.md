@@ -12,4 +12,4 @@ assigns the current keyboard repeat rate to the variable A.
 
 Також за допомогою цієї команди можна отримати значення [системних змінних](../../../programming/system-info/info_exos-variables.md).
 
-`ASK EXOS-var-number var`
+[Детальніше](../options/man_mo-var.md).

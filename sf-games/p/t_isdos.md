@@ -1,0 +1,16 @@
+# P
+
+- [The Pendant of Logryn](p/pendant-of-logryn-isdos.md)
+- [Personal Computing Whirled!](p/personal-computing-whirled-isdos.md)
+- [Pesky Kids!](p/pesky-kids-isdos.md)
+- [Peter's Adventure](p/peters-adventure-isdos.md)
+- [Pharaoh](p/pharaoh-zcode.md)
+- [Phoenix](p/phoenix-isdos.md)
+- [Photopia](p/photopia-zcode.md)
+- [Pirate Adventure](p/pirate-adventure-zcode.md)
+- [Planetfall](p/planetfall-zcode.md)
+- [Plundered Hearts](p/plundered-hearts-zcode.md)
+- [Project Nova](p/project-nova-isdos.md)
+- [Pub Adventure!](p/pub-adv-zcode.md)
+- [Pub Hubbub](p/pub-hubbub-zcode.md)
+- [Pyramid of Doom](p/pyramid-of-doom-zcode.md)
