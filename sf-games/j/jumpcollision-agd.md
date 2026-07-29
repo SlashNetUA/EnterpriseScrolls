@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/30245/ZX-Spectrum/Jumpcollision)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -29,8 +29,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -44,7 +43,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Arkanoid2.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/258/ZX-Spectrum/Arkanoid-Revenge_of_Doh)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Arkanoid2.rar)
-
-**Дата генерації:** 29.07.2026
 
 

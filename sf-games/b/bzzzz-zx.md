@@ -39,6 +39,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/21526/ZX-Spectrum/Bzzzz)
 
-**Дата генерації:** 29.07.2026
-
 

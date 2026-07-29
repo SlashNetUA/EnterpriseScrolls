@@ -43,6 +43,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5559/ZX-Spectrum/Viaje_al_Centro_de_la_Tierra)
 
-**Дата генерації:** 29.07.2026
-
 

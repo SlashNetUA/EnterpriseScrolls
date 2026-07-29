@@ -31,6 +31,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1335/ZX-Spectrum/Delta_Charge)
 
-**Дата генерації:** 29.07.2026
-
 

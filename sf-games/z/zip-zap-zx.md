@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5856/ZX-Spectrum/Zip-Zap)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Zip-Zap.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -57,6 +57,4 @@ Time Scanner — це захоплююча гра в стилі фліппера
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5279/ZX-Spectrum/Time_Scanner)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Time_Scanner.rar)
 
-**Дата генерації:** 29.07.2026
-
 

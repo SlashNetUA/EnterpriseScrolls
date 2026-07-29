@@ -42,6 +42,4 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,363/Moonmist.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Moonmist.rar)
 
-**Дата генерації:** 29.07.2026
-
 

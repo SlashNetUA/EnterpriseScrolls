@@ -53,6 +53,4 @@ Frog Shooter — це аркадна гра, в якій ви керуєте к�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1882/ZX-Spectrum/Frog_Shooter)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Frog_Shooter.rar)
 
-**Дата генерації:** 29.07.2026
-
 

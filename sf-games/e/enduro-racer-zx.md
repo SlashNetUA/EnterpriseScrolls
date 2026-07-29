@@ -64,6 +64,4 @@ Enduro Racer - це якісна програма для мотоциклетн�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1628/ZX-Spectrum/Enduro_Racer)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Enduro_Racer.rar)
 
-**Дата генерації:** 29.07.2026
-
 

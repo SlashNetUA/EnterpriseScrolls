@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9410/ZX-Spectrum/Seymour_Goes_to_Hollywood)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Seymour.rar)
 
-**Дата генерації:** 29.07.2026
-
 

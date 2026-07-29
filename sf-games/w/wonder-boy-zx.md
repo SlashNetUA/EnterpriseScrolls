@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5719/ZX-Spectrum/Wonder_Boy)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Wonderboy.rar)
 
-**Дата генерації:** 29.07.2026
-
 

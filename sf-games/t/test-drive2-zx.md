@@ -49,6 +49,4 @@ Test Drive 2 - це гоночна гра, в якій ви можете сіс�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5203/ZX-Spectrum/The_Duel_Test_Drive_II)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Test_Drive_2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

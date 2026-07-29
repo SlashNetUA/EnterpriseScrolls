@@ -77,6 +77,4 @@ Equinox — це гра, яка, незважаючи на свою високу
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1637/ZX-Spectrum/Equinox)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Equinox.rar)
 
-**Дата генерації:** 29.07.2026
-
 

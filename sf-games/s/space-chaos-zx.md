@@ -34,6 +34,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/index.php?cat=96&id=897)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Chaos_2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=3033)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C1006/Midsummer+Day%27s+Dream%2C+A.html)
 
-**Дата генерації:** 29.07.2026
-
 

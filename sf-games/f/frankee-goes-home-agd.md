@@ -52,8 +52,6 @@
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Frankee_Goes_Home.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/962) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

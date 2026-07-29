@@ -31,6 +31,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1514/ZX-Spectrum/Draughts_Master)
 
-**Дата генерації:** 29.07.2026
-
 

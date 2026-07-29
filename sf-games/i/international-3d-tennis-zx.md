@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2495/ZX-Spectrum/International_3D_Tennis)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/International_3d_Tennis.rar)
 
-**Дата генерації:** 29.07.2026
-
 

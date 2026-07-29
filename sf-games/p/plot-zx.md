@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3769/ZX-Spectrum/The_Plot)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Plot.rar)
 
-**Дата генерації:** 29.07.2026
-
 

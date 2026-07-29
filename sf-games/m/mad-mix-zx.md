@@ -31,6 +31,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2965/ZX-Spectrum/Mad_Mix_Game)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Madmix.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4983/ZX-Spectrum/Subterranean_Stryker)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Subterranean_Stryker.rar)
 
-**Дата генерації:** 29.07.2026
-
 

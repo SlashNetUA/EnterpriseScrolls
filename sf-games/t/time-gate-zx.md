@@ -51,6 +51,4 @@ Timegate — це класична гра, випущена у 1982 році к�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5286/ZX-Spectrum/Time-Gate)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/TimeGate.rar)
 
-**Дата генерації:** 29.07.2026
-
 

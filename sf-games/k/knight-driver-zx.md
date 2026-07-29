@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2715/ZX-Spectrum/Knight_Driver)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Knight_Driver.rar)
 
-**Дата генерації:** 29.07.2026
-
 

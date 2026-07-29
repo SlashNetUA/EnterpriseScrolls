@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1274/ZX-Spectrum/Days_of_Thunder)
 
-**Дата генерації:** 29.07.2026
-
 

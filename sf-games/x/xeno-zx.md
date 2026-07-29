@@ -29,8 +29,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5787/ZX-Spectrum/Xeno)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Xeno.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

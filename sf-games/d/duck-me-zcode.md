@@ -41,6 +41,4 @@
 ## Посилання
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C9027/Duck%21+Me%3F.html)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2319/ZX-Spectrum/Highlander)
 
-**Дата генерації:** 29.07.2026
-
 

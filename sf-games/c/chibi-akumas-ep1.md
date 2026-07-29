@@ -46,6 +46,4 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Chibi_Akumas.rar)
 - [Завантажити гру](https://www.chibiakumas.com/download/V1666.7z)
 
-**Дата генерації:** 29.07.2026
-
 

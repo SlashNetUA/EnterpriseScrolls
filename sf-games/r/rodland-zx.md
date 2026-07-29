@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4222/ZX-Spectrum/Rod-Land)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/RodLand.rar)
 
-**Дата генерації:** 29.07.2026
-
 

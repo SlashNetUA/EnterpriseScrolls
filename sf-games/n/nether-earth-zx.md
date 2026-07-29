@@ -34,6 +34,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3391/ZX-Spectrum/Nether_Earth)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Nether_Earth.rar)
 
-**Дата генерації:** 29.07.2026
-
 

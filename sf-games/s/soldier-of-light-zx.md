@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4634/ZX-Spectrum/Soldier_of_Light)
 
-**Дата генерації:** 29.07.2026
-
 

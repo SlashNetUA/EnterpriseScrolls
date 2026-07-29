@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5804/ZX-Spectrum/X-Out)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/X-Out.rar)
 
-**Дата генерації:** 29.07.2026
-
 

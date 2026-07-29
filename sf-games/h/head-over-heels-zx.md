@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2259/ZX-Spectrum/Head_over_Heels)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Head_Over_Heels.rar)
 
-**Дата генерації:** 29.07.2026
-
 

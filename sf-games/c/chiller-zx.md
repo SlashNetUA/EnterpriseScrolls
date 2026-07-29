@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/930/ZX-Spectrum/Chiller)
 
-**Дата генерації:** 29.07.2026
-
 

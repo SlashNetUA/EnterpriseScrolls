@@ -55,8 +55,6 @@ Banana 2 — це аркадна гра, випущена в 2019 році ко�
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Banana_2.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/85) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3610/ZX-Spectrum/Parabola)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Parabola.rar)
 
-**Дата генерації:** 29.07.2026
-
 

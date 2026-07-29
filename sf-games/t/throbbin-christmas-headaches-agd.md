@@ -52,6 +52,4 @@
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Throbbin_Christmas_Headaches.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1142) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 

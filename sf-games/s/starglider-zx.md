@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4863/ZX-Spectrum/Starglider)
 
-**Дата генерації:** 29.07.2026
-
 

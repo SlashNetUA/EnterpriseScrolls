@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/731/ZX-Spectrum/Buck_Rogers_Planet_of_Zoom)
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Buck_Rogers.rar)
 
-**Дата генерації:** 29.07.2026
-
 

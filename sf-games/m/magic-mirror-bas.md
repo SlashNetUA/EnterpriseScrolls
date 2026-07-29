@@ -29,6 +29,4 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C4671/Magic+Mirror.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Basic_Program_Pack.rar)
 
-**Дата генерації:** 29.07.2026
-
 

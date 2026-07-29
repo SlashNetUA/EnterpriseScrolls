@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3936/ZX-Spectrum/Pulsoids)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Pulsoid.rar)
 
-**Дата генерації:** 29.07.2026
-
 

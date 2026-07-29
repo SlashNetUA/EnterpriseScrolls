@@ -35,6 +35,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1/ZX-Spectrum/Licence_to_Kill)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Licence_to_Kill.rar)
 
-**Дата генерації:** 29.07.2026
-
 

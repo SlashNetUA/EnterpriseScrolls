@@ -48,6 +48,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5239/ZX-Spectrum/Three_Weeks_in_Paradise)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Three_Weeks_in_the_Paradise.rar)
 
-**Дата генерації:** 29.07.2026
-
 

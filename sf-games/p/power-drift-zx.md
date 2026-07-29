@@ -31,6 +31,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3854/ZX-Spectrum/Power_Drift)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Power_Drift.rar)
 
-**Дата генерації:** 29.07.2026
-
 

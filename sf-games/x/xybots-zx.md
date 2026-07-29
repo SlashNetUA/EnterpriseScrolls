@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5806/ZX-Spectrum/Xybots)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Xybots.rar)
 
-**Дата генерації:** 29.07.2026
-
 

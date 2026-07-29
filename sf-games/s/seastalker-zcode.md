@@ -41,6 +41,4 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id%2C470/Seastalker.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Seastalker.rar)
 
-**Дата генерації:** 29.07.2026
-
 

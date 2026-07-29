@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1278/ZX-Spectrum/Deactivators)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Deactivators.rar)
 
-**Дата генерації:** 29.07.2026
-
 

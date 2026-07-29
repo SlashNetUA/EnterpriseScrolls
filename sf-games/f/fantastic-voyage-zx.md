@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1729/ZX-Spectrum/Fantastic_Voyage)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Fantastic_Voyage.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3629/ZX-Spectrum/Passing_Shot)
 
-**Дата генерації:** 29.07.2026
-
 

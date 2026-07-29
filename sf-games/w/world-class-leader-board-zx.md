@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5728/ZX-Spectrum/World_Class_Leader_Board)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/World_Class_Leaderboard.rar)
 
-**Дата генерації:** 29.07.2026
-
 

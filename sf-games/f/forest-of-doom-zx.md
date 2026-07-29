@@ -30,6 +30,4 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,1342/Forest+of+Doom,+The.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Forest_of_Doom.rar)
 
-**Дата генерації:** 29.07.2026
-
 

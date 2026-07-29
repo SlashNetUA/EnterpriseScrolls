@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1498/ZX-Spectrum/Dragons_Lair_II_Escape_from_Singes_Castle)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dragons_Lair2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

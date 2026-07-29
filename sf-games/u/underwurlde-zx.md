@@ -52,6 +52,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9446/ZX-Spectrum/Underwurlde)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Underwurlde.rar)
 
-**Дата генерації:** 29.07.2026
-
 

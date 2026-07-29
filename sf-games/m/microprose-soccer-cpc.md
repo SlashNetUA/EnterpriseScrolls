@@ -31,6 +31,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1416)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Microprose_Soccer.rar)
 
-**Дата генерації:** 29.07.2026
-
 

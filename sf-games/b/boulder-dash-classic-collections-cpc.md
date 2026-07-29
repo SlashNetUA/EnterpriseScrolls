@@ -34,8 +34,6 @@ Commodore 64
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Boulder_Dash_Classic_Collection_1.rar)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Boulder_Dash_Classic_Collection_2.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

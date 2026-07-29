@@ -34,6 +34,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3044/ZX-Spectrum/MASK_II)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Mask2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

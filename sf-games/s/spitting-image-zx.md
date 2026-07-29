@@ -28,6 +28,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4765/ZX-Spectrum/Spitting_Image)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Spitting_Image.rar)
 
-**Дата генерації:** 29.07.2026
-
 

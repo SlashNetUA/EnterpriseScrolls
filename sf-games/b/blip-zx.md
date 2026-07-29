@@ -71,6 +71,4 @@ Blip! - це захоплююча гра, яка представляє собо
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/11434/ZX-Spectrum/Video_Classics)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Blip!.rar)
 
-**Дата генерації:** 29.07.2026
-
 

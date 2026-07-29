@@ -43,6 +43,4 @@ Twin Turbo V8 — це гоночна гра, яка пропонує п'ять 
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9444/ZX-Spectrum/Twin_Turbo_V8)
 
-**Дата генерації:** 29.07.2026
-
 

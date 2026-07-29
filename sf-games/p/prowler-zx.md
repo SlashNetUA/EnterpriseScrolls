@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3906/ZX-Spectrum/Prowler)
 
-**Дата генерації:** 29.07.2026
-
 

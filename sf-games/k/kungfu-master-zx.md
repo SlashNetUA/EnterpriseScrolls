@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2780/ZX-Spectrum/Kung-Fu_Master)
 
-**Дата генерації:** 29.07.2026
-
 

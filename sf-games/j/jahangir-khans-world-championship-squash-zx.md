@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2572/ZX-Spectrum/Jahangir_Khans_World_Championship_Squash)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Jahangir_Khans_Squash.rar)
 
-**Дата генерації:** 29.07.2026
-
 

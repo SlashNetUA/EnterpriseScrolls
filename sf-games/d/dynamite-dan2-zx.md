@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1553/ZX-Spectrum/Dynamite_Dan_II)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dynamite_Dan_2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

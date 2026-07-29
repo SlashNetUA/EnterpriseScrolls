@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.  
 
 3D Starfighter — це космічний шутер від першої особи, де ви керуєте високошвидкісним зорельотом.
 
@@ -67,7 +66,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/3D-Starfighter.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9423/ZX-Spectrum/3D_Starfighter)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/3D-Starfighter.rar)
-
-**Дата генерації:** 29.07.2026
 
 

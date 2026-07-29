@@ -41,6 +41,4 @@
 - [Домашня сторінка гри](http://symbos.de/appinfo.htm?00045)
 - [Завантажити гру](http://symbos.de/download/apps/2048.zip)
 
-**Дата генерації:** 29.07.2026
-
 

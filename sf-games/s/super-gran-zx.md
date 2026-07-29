@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5017/ZX-Spectrum/Super_Gran)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -46,6 +46,4 @@ Wacky Darts — це барна гра в дартс, де гравці нама
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9448/ZX-Spectrum/Wacky_Darts)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -49,6 +49,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9439/ZX-Spectrum/Tiger_Road)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Tiger_Road.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4139/ZX-Spectrum/Ricochet)
 
-**Дата генерації:** 29.07.2026
-
 

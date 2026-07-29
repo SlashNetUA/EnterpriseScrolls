@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Сучасна неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -44,7 +43,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Asterix.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/290/ZX-Spectrum/Asterix_and_the_Magic_Cauldron)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Asterix.rar)
-
-**Дата генерації:** 29.07.2026
 
 

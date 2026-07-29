@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/797/ZX-Spectrum/Cannon_Ball)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Cannon_Ball.rar)
 
-**Дата генерації:** 29.07.2026
-
 

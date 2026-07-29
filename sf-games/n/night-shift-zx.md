@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3424/ZX-Spectrum/Night_Shift)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Night_Shift.rar)
 
-**Дата генерації:** 29.07.2026
-
 

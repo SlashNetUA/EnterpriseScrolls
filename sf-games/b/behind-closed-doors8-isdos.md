@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=17541)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C8422/Behind+Closed+Doors+8.html)
 
-**Дата генерації:** 29.07.2026
-
 

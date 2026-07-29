@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1614/ZX-Spectrum/Emilio_Sanchez_Vicario_Grand_Slam)
 
-**Дата генерації:** 29.07.2026
-
 

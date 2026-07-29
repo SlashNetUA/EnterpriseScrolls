@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2685/ZX-Spectrum/Kentucky_Racing)
 
-**Дата генерації:** 29.07.2026
-
 

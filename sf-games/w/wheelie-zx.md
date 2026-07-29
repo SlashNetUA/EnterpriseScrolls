@@ -44,6 +44,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5670/ZX-Spectrum/Wheelie)
 
-**Дата генерації:** 29.07.2026
-
 

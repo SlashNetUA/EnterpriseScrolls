@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/644/ZX-Spectrum/Boulder_Dash_III)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Boulder_Dash3.rar)
 
-**Дата генерації:** 29.07.2026
-
 

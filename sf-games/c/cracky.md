@@ -42,8 +42,6 @@
 - [Завантажити гру](http://inufuto.web.fc2.com/8bit/ep64/cracky_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/805) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

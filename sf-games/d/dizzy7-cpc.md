@@ -55,6 +55,4 @@ Dizzy 7 – це пригодницька гра, в якій гравці бе�
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=642)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dizzy7.rar)
 
-**Дата генерації:** 29.07.2026
-
 

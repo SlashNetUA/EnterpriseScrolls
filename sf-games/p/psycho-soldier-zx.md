@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3922/ZX-Spectrum/Psycho_Soldier)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Psycho_Soldier.rar)
 
-**Дата генерації:** 29.07.2026
-
 

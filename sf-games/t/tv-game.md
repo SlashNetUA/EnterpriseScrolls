@@ -44,6 +44,4 @@ Pong – це класична аркадна гра, що відтворює в
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/TVGame.htm)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/TVGame.rar)
 
-**Дата генерації:** 29.07.2026
-
 

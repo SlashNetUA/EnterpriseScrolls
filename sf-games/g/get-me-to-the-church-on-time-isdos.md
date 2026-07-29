@@ -60,6 +60,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=4512)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C1151/Get+Me+to+the+Church+On+Time%21.html)
 
-**Дата генерації:** 29.07.2026
-
 

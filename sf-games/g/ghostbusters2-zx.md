@@ -47,8 +47,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2031/ZX-Spectrum/Ghostbusters_II)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Ghostbusters2.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

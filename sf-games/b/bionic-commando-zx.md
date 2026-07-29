@@ -89,6 +89,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9309/ZX-Spectrum/Bionic_Commando)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Bionic_Commando.rar)
 
-**Дата генерації:** 29.07.2026
-
 

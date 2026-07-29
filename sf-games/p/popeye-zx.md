@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3830/ZX-Spectrum/Popeye)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Popeye.rar)
 
-**Дата генерації:** 29.07.2026
-
 

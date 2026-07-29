@@ -44,6 +44,4 @@
 - [Домашня сторінка гри](https://www.symbos.org/appinfo.htm?00090)
 - [Завантажити гру](https://www.symbos.org/download/apps/ChuckyEgg.zip)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2288/ZX-Spectrum/Hellfire_Attack)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9330/ZX-Spectrum/Death_Stalker)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Death_Stalker.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -52,6 +52,4 @@ Traxx — це класична гра в жанрі "захоплення те�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5395/ZX-Spectrum/Traxx)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Traxx.rar)
 
-**Дата генерації:** 29.07.2026
-
 

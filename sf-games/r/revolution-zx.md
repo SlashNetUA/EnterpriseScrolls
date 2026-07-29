@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4125/ZX-Spectrum/Revolution)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Revolution.rar)
 
-**Дата генерації:** 29.07.2026
-
 

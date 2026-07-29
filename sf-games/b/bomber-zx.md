@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/622/ZX-Spectrum/Bomber)
 
-**Дата генерації:** 29.07.2026
-
 

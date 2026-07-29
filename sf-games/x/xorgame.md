@@ -28,8 +28,6 @@
 ## Посилання
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/programozas/xorgame-pascal/)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

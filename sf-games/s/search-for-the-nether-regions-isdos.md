@@ -42,6 +42,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15542)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C1047/Search+For+the+Nether+Regions.html)
 
-**Дата генерації:** 29.07.2026
-
 

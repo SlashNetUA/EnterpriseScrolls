@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2851/ZX-Spectrum/Legend_of_the_Amazon_Women)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Legend_of_the_Amazon_Women.rar)
 
-**Дата генерації:** 29.07.2026
-
 

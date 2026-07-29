@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/617/ZX-Spectrum/Bomb_Jack)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/BombJack.rar)
 
-**Дата генерації:** 29.07.2026
-
 

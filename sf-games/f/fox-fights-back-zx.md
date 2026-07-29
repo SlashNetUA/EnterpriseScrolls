@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1846/ZX-Spectrum/Foxx_Fights_Back)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Foxback.rar)
 
-**Дата генерації:** 29.07.2026
-
 

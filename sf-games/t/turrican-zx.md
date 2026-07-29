@@ -46,6 +46,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5472/ZX-Spectrum/Turrican)
 
-**Дата генерації:** 29.07.2026
-
 

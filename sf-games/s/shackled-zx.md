@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4419/ZX-Spectrum/Shackled)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Shackled.rar)
 
-**Дата генерації:** 29.07.2026
-
 

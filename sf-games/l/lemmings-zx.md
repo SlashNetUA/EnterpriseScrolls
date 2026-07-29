@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9370/ZX-Spectrum/Lemmings)
 
-**Дата генерації:** 29.07.2026
-
 

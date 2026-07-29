@@ -86,6 +86,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9310/ZX-Spectrum/Black_Tiger)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Black_Tiger.rar)
 
-**Дата генерації:** 29.07.2026
-
 

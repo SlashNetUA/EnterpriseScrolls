@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/660/ZX-Spectrum/Bounty_Bob_Strikes_Back)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Bounty_Bob.rar)
 
-**Дата генерації:** 29.07.2026
-
 

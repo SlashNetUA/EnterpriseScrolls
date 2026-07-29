@@ -49,6 +49,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5519/ZX-Spectrum/Universal_Hero)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Universal_Hero.rar)
 
-**Дата генерації:** 29.07.2026
-
 

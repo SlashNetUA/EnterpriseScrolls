@@ -41,6 +41,4 @@
 - [Домашня сторінка гри](https://warrigal.itch.io/danny-dipstick)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C9213/Danny+Dipstick.html)
 
-**Дата генерації:** 29.07.2026
-
 

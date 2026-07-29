@@ -101,6 +101,4 @@ Enigma Force — це гра в жанрі екшн-пригод, розробл
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1634/ZX-Spectrum/Enigma_Force)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Enigma_Force.rar)
 
-**Дата генерації:** 29.07.2026
-
 

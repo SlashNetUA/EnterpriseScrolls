@@ -31,6 +31,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1610/ZX-Spectrum/Emilio_Butragueno_Futbol)
 
-**Дата генерації:** 29.07.2026
-
 

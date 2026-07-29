@@ -50,6 +50,4 @@ Tranz Am - це постапокаліптична гра, що відбуває
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9443/ZX-Spectrum/Tranz_Am)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Tranz-Am.rar)
 
-**Дата генерації:** 29.07.2026
-
 

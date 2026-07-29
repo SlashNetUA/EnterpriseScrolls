@@ -46,6 +46,4 @@ Toobin' - це гра, в якій гравці, керуючи персонаж
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5325/ZX-Spectrum/Toobin)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Toobin.rar)
 
-**Дата генерації:** 29.07.2026
-
 

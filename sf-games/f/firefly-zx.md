@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1772/ZX-Spectrum/Firefly)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/FireFly.rar)
 
-**Дата генерації:** 29.07.2026
-
 

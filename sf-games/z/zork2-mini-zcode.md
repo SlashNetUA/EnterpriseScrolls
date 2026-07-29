@@ -44,6 +44,4 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,9065/Mini-Zork+II:+The+Wizard+of+Frobozz.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Mini-Zork_2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

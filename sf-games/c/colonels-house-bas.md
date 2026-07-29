@@ -43,6 +43,4 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C2291/Colonel%27s+House%2C+The.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Basic_Program_Pack.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/653/ZX-Spectrum/Bounces)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Bounces.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -55,6 +55,4 @@ Galaxians - це класична аркадна гра, яка є розвит�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1934/ZX-Spectrum/Galaxians)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Galaxians_Classic.rar)
 
-**Дата генерації:** 29.07.2026
-
 

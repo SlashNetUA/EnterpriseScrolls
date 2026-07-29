@@ -49,6 +49,4 @@ Hammer Boy - це захоплююча аркадна гра, випущена �
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Hammerboy_1.rar)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Hammerboy_2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

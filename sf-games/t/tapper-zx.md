@@ -60,6 +60,4 @@ Tapper (оригінальна назва: Root Beer Tapper) — це аркад
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5143/ZX-Spectrum/Tapper)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Tapper.rar)
 
-**Дата генерації:** 29.07.2026
-
 

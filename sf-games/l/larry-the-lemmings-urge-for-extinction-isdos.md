@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=4513)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C836/Larry+the+Lemming%27s+Urge+For+Extinction.html)
 
-**Дата генерації:** 29.07.2026
-
 

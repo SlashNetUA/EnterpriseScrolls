@@ -61,8 +61,6 @@ Green Beret – це аркадна гра, в якій гравець пови�
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Green_Beret_CPC.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/357) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

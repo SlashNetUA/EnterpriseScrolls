@@ -50,6 +50,4 @@ Frost Byte — це складна гра, в якій ви керуєте жо�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1894/ZX-Spectrum/Frost_Byte)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Frost_Byte.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/739/ZX-Spectrum/Bugaboo_the_Flea)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Bugaboo.rar)
 
-**Дата генерації:** 29.07.2026
-
 

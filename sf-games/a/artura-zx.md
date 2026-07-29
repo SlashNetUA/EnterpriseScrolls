@@ -23,8 +23,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -36,7 +35,5 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/282/ZX-Spectrum/Artura)
 - [Завантажити гру](https://gafz.enterpriseforever.com/Programok/Games/A/PRG/Artura.zip)
-
-**Дата генерації:** 29.07.2026
 
 

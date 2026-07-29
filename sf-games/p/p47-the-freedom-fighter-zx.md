@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3575/ZX-Spectrum/P-47_Thunderbolt)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/P-47.rar)
 
-**Дата генерації:** 29.07.2026
-
 

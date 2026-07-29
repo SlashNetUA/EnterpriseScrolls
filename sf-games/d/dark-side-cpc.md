@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=675)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dark_Side_CPC.rar)
 
-**Дата генерації:** 29.07.2026
-
 

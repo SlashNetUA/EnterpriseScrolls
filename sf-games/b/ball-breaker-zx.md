@@ -69,6 +69,4 @@ BallBreaker — це аркадна гра, випущена в 1987 році к
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/383/ZX-Spectrum/Ball_Breaker)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Ball_Breaker.rar)
 
-**Дата генерації:** 29.07.2026
-
 

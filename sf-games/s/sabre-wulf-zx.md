@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9408/ZX-Spectrum/Sabre_Wulf)
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Sabrewulf.rar)
 
-**Дата генерації:** 29.07.2026
-
 

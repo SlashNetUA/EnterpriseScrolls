@@ -44,6 +44,4 @@ Thundercats – це гра в стилі хак-н-слеш, заснована
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5259/ZX-Spectrum/Thundercats)
 
-**Дата генерації:** 29.07.2026
-
 

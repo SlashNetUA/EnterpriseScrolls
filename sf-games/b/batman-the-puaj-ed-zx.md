@@ -28,8 +28,6 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/437/ZX-Spectrum/Batman_The_Puaj_Edition)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

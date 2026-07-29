@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3947/ZX-Spectrum/Puzznic)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Puzznic.rar)
 
-**Дата генерації:** 29.07.2026
-
 

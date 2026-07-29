@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2446/ZX-Spectrum/ICUPS)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/ICUPS.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -34,6 +34,4 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Heathrow_ATC.htm)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Heathrow_ATC.rar)
 
-**Дата генерації:** 29.07.2026
-
 

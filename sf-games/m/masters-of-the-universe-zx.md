@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3066/ZX-Spectrum/Masters_of_the_Universe-The_Movie)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Masters_of_the_Universe.rar)
 
-**Дата генерації:** 29.07.2026
-
 

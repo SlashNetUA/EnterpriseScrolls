@@ -41,6 +41,4 @@
 ## Посилання
 - [Домашня сторінка гри](https://newton.freehostia.com/treks/index.html#bbcbasictrek)
 
-**Дата генерації:** 29.07.2026
-
 

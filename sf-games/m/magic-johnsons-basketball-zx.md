@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2982/ZX-Spectrum/Magic_Johnsons_Basketball)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -47,6 +47,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5617/ZX-Spectrum/Wanted_Monty_Mole)
 
-**Дата генерації:** 29.07.2026
-
 

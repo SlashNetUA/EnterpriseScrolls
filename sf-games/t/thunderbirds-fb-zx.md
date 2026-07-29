@@ -50,6 +50,4 @@ Thunderbirds — це гра-головоломка для одного грав
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5253/ZX-Spectrum/Thunderbirds)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Thunderbirds_(Firebirds).rar)
 
-**Дата генерації:** 29.07.2026
-
 

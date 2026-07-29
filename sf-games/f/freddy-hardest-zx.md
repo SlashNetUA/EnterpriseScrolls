@@ -45,6 +45,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1860/ZX-Spectrum/Freddy_Hardest)
 
-**Дата генерації:** 29.07.2026
-
 

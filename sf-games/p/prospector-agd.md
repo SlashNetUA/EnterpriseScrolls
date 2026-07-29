@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/34364/ZX-Spectrum/Prospector)
 
-**Дата генерації:** 29.07.2026
-
 

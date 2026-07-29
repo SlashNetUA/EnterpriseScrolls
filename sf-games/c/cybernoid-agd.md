@@ -36,6 +36,4 @@
 ## Посилання
 - [Домашня сторінка гри](https://github.com/xianpinder/CybernoidMPAGD)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -53,6 +53,4 @@ Exploding Fist – це одна з найвідоміших ігор у жан�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5643/ZX-Spectrum/The_Way_of_the_Exploding_Fist)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Exploding_Fist.rar)
 
-**Дата генерації:** 29.07.2026
-
 

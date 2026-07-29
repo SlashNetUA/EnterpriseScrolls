@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4965/ZX-Spectrum/STUN_Runner)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Stun_Runner.rar)
 
-**Дата генерації:** 29.07.2026
-
 

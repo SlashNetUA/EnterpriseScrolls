@@ -34,6 +34,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/735/ZX-Spectrum/Buffalo_Bills_Wild_West_Show)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Buffalo_Bills_Wild_West_Show.rar)
 
-**Дата генерації:** 29.07.2026
-
 

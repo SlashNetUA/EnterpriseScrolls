@@ -30,8 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4177/ZX-Spectrum/Robin_of_the_Wood)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Robin_of_the_Wood.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

@@ -36,6 +36,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9371/ZX-Spectrum/Little_Puff)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Little_Puff_in_Dragonland.rar)
 
-**Дата генерації:** 29.07.2026
-
 

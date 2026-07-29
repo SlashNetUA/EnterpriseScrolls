@@ -60,6 +60,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5693/ZX-Spectrum/Winter_Games)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Winter_Games_part_2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/810/ZX-Spectrum/Captain_Blood)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Captain_Blood.rar)
 
-**Дата генерації:** 29.07.2026
-
 

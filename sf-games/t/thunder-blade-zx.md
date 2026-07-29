@@ -52,6 +52,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5249/ZX-Spectrum/Thunder_Blade)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Thunder_Blade.rar)
 
-**Дата генерації:** 29.07.2026
-
 

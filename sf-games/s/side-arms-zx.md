@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9416/ZX-Spectrum/Side_Arms)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Sidearms.rar)
 
-**Дата генерації:** 29.07.2026
-
 

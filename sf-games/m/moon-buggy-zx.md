@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3272/ZX-Spectrum/Moon_Buggy)
 
-**Дата генерації:** 29.07.2026
-
 

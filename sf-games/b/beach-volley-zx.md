@@ -68,6 +68,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/485/ZX-Spectrum/Beach_Volley)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Beach_Volley.rar)
 
-**Дата генерації:** 29.07.2026
-
 

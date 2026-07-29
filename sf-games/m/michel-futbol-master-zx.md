@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3166/ZX-Spectrum/Michel_Futbol_Master)
 
-**Дата генерації:** 29.07.2026
-
 

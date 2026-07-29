@@ -55,6 +55,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9357/ZX-Spectrum/Gunfright)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Gunfright.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3074/ZX-Spectrum/Match_Point)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Match_Point.rar)
 
-**Дата генерації:** 29.07.2026
-
 

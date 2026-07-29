@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4359/ZX-Spectrum/Sceptre_of_Bagdad)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Sceptre_of_Bagdad.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2648/ZX-Spectrum/Judge_Dredd)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Judge_Dredd.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1513/ZX-Spectrum/Draughts_Genius)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Draughts_Genius.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -31,6 +31,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9385/ZX-Spectrum/Olli_Lissa_3)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -31,6 +31,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1303/ZX-Spectrum/Deathchase)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/DeathChase.rar)
 
-**Дата генерації:** 29.07.2026
-
 

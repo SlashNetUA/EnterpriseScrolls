@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/825/ZX-Spectrum/Carrier_Command)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Carrier_Command.rar)
 
-**Дата генерації:** 29.07.2026
-
 

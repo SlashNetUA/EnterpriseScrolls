@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/859/ZX-Spectrum/Cavern_Fighter)
 
-**Дата генерації:** 29.07.2026
-
 

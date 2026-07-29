@@ -28,6 +28,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9384/ZX-Spectrum/Ninja_Massacre)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Ninja_Massacre.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -58,8 +58,6 @@ Fuss! - це захоплююча гра в жанрі "runner", де ви ке�
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Fuss.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/349) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

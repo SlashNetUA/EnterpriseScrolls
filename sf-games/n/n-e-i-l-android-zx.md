@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3384/ZX-Spectrum/NEIL_Android)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Neil.rar)
 
-**Дата генерації:** 29.07.2026
-
 

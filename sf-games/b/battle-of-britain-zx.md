@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/456/ZX-Spectrum/Battle_of_Britain)
 
-**Дата генерації:** 29.07.2026
-
 

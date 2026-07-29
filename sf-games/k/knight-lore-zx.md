@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9366/ZX-Spectrum/Knight_Lore)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Knight_Lore.rar)
 
-**Дата генерації:** 29.07.2026
-
 

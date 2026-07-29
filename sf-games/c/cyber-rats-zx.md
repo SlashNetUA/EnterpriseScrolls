@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1192/ZX-Spectrum/Cyber_Rats)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -50,6 +50,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/572/ZX-Spectrum/Blob_the_Cop)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Blob_the_Cop.rar)
 
-**Дата генерації:** 29.07.2026
-
 

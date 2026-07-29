@@ -51,8 +51,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5297/ZX-Spectrum/Titanic)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Titanic.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

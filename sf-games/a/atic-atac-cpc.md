@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна схвалена конверсія з платформи Amstrad CPC.
+﻿> ℹ Сучасна схвалена конверсія з платформи Amstrad CPC.
 
 
 ## Основна інформація
@@ -42,8 +41,6 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=17713)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/AticAtac_CPC.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/70) *(Telegram-канал Vibrant Waves)*
-
-**Дата генерації:** 29.07.2026
 
 
 ## Відео

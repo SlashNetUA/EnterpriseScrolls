@@ -57,6 +57,4 @@
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Maisie_Day_is_not_Okay.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/970) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 

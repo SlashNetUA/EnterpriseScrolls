@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2808/ZX-Spectrum/Lap_of_the_Gods)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Lap_of_the_Gods.rar)
 
-**Дата генерації:** 29.07.2026
-
 

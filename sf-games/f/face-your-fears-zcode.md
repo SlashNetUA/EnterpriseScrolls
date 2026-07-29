@@ -42,6 +42,4 @@
 - [Домашня сторінка гри](https://sijnstra.itch.io/face-your-fears)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10178/Face+your+fears.html)
 
-**Дата генерації:** 29.07.2026
-
 

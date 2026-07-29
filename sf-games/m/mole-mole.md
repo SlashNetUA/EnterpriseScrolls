@@ -43,8 +43,6 @@
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/games/molemole/)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/927) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

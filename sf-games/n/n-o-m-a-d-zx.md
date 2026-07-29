@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3450/ZX-Spectrum/NOMAD)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Nomad.rar)
 
-**Дата генерації:** 29.07.2026
-
 

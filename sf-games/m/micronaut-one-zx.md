@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3182/ZX-Spectrum/Micronaut_One)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Micronaut_One.rar)
 
-**Дата генерації:** 29.07.2026
-
 

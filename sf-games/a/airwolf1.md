@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Офіційний реліз (конверсія з платформи Amstrad CPC).
+﻿> ℹ Офіційний реліз (конверсія з платформи Amstrad CPC).  
 > ⚠ Може містити критичні помилки.
 
 
@@ -50,8 +49,6 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Airwolf.htm)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=248)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Airwolf.rar)
-
-**Дата генерації:** 29.07.2026
 
 
 ## Відео

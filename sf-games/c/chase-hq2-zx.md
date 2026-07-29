@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/906)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Chase_HQ2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

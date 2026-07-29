@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15584)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C1061/Star+Flaws.html)
 
-**Дата генерації:** 29.07.2026
-
 

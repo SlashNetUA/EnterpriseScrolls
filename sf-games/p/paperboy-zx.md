@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3603/ZX-Spectrum/Paperboy)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Paperboy.rar)
 
-**Дата генерації:** 29.07.2026
-
 

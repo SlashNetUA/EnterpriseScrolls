@@ -73,8 +73,6 @@
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Lemmings.rar)
 - [Завантажити гру](https://downloads.anystone.games/lemmings-ep128)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

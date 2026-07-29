@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4056/ZX-Spectrum/Rebel)
 
-**Дата генерації:** 29.07.2026
-
 

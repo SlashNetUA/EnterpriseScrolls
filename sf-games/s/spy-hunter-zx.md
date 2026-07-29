@@ -30,8 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4784/ZX-Spectrum/Spy_Hunter)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Spy_Hunter.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

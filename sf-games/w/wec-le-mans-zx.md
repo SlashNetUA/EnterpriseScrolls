@@ -49,6 +49,4 @@ Wec Le Mans - це захоплююча автомобільна гонка, я�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5648/ZX-Spectrum/WEC_Le_Mans)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Wec_Le_Mans.rar)
 
-**Дата генерації:** 29.07.2026
-
 

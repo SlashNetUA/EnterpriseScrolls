@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4438/ZX-Spectrum/Shanghai_Karate)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Shanghai_Karate.rar)
 
-**Дата генерації:** 29.07.2026
-
 

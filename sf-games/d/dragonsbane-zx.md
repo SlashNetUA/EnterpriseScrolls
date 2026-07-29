@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1501/ZX-Spectrum/Dragonsbane)
 
-**Дата генерації:** 29.07.2026
-
 

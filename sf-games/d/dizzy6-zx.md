@@ -53,6 +53,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9338/ZX-Spectrum/Dizzy_Prince_of_the_YolkFolk)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dizzy6.rar)
 
-**Дата генерації:** 29.07.2026
-
 

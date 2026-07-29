@@ -56,6 +56,4 @@ Total Recall – це відеогра, заснована на науково-�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5344/ZX-Spectrum/Total_Recall)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Total_Recall.rar)
 
-**Дата генерації:** 29.07.2026
-
 

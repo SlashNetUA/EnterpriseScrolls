@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/597/ZX-Spectrum/Blue_Max)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/BlueMax.rar)
 
-**Дата генерації:** 29.07.2026
-
 

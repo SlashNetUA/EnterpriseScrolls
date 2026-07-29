@@ -50,6 +50,4 @@ Top Cat - це відеогра, заснована на популярному 
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5329/ZX-Spectrum/Top_Cat_in_Beverly_Hills_Cats)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Top_Cat.rar)
 
-**Дата генерації:** 29.07.2026
-
 

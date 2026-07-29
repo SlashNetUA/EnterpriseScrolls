@@ -52,6 +52,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9337/ZX-Spectrum/Spellbound_Dizzy)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dizzy5.rar)
 
-**Дата генерації:** 29.07.2026
-
 

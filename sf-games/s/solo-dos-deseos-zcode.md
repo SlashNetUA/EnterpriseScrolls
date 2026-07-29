@@ -42,6 +42,4 @@
 ## Посилання
 - [Домашня сторінка гри](https://unapersona-y-otrapersona.itch.io/solo-dos-deseos)
 
-**Дата генерації:** 29.07.2026
-
 

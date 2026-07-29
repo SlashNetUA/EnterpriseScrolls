@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3367/ZX-Spectrum/NATO_Assault)
 
-**Дата генерації:** 29.07.2026
-
 

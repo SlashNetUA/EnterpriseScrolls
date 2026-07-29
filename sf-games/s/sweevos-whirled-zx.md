@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5086/ZX-Spectrum/Sweevos_Whirled)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Sweevos_Whirled.rar)
 
-**Дата генерації:** 29.07.2026
-
 

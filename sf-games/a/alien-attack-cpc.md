@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна неофіційна конверсія з платформи Amstrad CPC.
+﻿> ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC.
 
 
 ## Основна інформація
@@ -45,8 +44,6 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Alien_Attack.htm)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=2640)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Alien_Attack.rar)
-
-**Дата генерації:** 29.07.2026
 
 
 ## Відео

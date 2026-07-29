@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15577)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C1294/Case+of+the+Beheaded+Smuggler%2C+The.html)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2473/ZX-Spectrum/Indiana_Jones_and_the_Last_Crusade)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Indyana_Jones.rar)
 
-**Дата генерації:** 29.07.2026
-
 

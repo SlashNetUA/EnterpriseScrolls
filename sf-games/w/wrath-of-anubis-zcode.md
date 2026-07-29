@@ -53,6 +53,4 @@
 - [Домашня сторінка гри](https://bdb-project.itch.io/wrath-of-anubis)
 - [Інформація про гру (SolutionArchive.com)](https://www.solutionarchive.com/game/id%2C10901/Wrath+of+Anubis%2C+The.html)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4072/ZX-Spectrum/Red_Heat)
 
-**Дата генерації:** 29.07.2026
-
 

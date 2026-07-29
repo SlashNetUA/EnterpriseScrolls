@@ -35,6 +35,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2503/ZX-Spectrum/IK)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/International_Karate_Plus.rar)
 
-**Дата генерації:** 29.07.2026
-
 

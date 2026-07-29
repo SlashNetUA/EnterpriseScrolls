@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4205/ZX-Spectrum/Rockn_Roller)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Rock%27n_Roller.rar)
 
-**Дата генерації:** 29.07.2026
-
 

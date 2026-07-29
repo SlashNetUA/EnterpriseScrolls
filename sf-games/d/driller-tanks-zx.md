@@ -36,6 +36,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1524/ZX-Spectrum/Driller_Tanks)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Itasundorious.rar)
 
-**Дата генерації:** 29.07.2026
-
 

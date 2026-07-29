@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Офіційна мультиплатформенна гра.
+﻿> ℹ Офіційна мультиплатформенна гра.
 
 
 ## Основна інформація
@@ -50,8 +49,6 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Ascend.rar)
 - [Завантажити гру](http://inufuto.web.fc2.com/8bit/ep64/ascend_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/785?single) *(Telegram-канал Vibrant Waves)*
-
-**Дата генерації:** 29.07.2026
 
 
 ## Відео

@@ -31,6 +31,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3863/ZX-Spectrum/Predator)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Predator.rar)
 
-**Дата генерації:** 29.07.2026
-
 

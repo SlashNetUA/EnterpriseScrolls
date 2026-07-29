@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4293/ZX-Spectrum/Saboteur)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Saboteur.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -42,6 +42,4 @@
 - [Домашня сторінка гри](https://g0blin.itch.io/pharaoh)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10571/Pharaoh.html)
 
-**Дата генерації:** 29.07.2026
-
 

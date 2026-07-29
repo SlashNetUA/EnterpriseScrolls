@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1051)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Happy_Letters.rar)
 
-**Дата генерації:** 29.07.2026
-
 

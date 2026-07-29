@@ -35,8 +35,6 @@
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/jatekok/jack-s-house-of-cards/)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Jacks_House_of_Cards.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

@@ -43,6 +43,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5332/ZX-Spectrum/Top_Gun)
 
-**Дата генерації:** 29.07.2026
-
 

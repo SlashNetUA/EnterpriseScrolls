@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3170/ZX-Spectrum/Mickey_Mouse)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Mickey_Mouse.rar)
 
-**Дата генерації:** 29.07.2026
-
 

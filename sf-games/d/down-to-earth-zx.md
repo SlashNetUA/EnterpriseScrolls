@@ -44,6 +44,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1470/ZX-Spectrum/Down_to_Earth)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Down_to_Earth.rar)
 
-**Дата генерації:** 29.07.2026
-
 

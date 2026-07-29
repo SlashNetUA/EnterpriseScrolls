@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2768/ZX-Spectrum/Krakout)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Krakout.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1845/ZX-Spectrum/Formula_One)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Formula_one.rar)
 
-**Дата генерації:** 29.07.2026
-
 

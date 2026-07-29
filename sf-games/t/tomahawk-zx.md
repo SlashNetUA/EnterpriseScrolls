@@ -48,6 +48,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5317/ZX-Spectrum/Tomahawk)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Tomahawk.rar)
 
-**Дата генерації:** 29.07.2026
-
 

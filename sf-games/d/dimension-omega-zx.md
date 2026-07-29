@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1395/ZX-Spectrum/Omega_Dimension)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dimension_Omega.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3300/ZX-Spectrum/Movie)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Movie.rar)
 
-**Дата генерації:** 29.07.2026
-
 

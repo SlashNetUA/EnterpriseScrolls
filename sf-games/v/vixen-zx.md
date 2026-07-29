@@ -47,6 +47,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5589/ZX-Spectrum/Vixen)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Vixen.rar)
 
-**Дата генерації:** 29.07.2026
-
 

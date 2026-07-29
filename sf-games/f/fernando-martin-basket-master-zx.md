@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1741/ZX-Spectrum/Fernando_Martin_Basket_Master)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Basket_Master.rar)
 
-**Дата генерації:** 29.07.2026
-
 

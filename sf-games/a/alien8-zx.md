@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.  
 > (краще використовувати сучасний порт з Amstrad)
 
 
@@ -43,7 +42,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Alien8.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9302/ZX-Spectrum/Alien_8)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Alien_8.rar)
-
-**Дата генерації:** 29.07.2026
 
 

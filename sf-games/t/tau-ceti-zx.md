@@ -39,6 +39,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5153/ZX-Spectrum/Tau_Ceti)
 
-**Дата генерації:** 29.07.2026
-
 

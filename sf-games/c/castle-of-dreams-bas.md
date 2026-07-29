@@ -30,6 +30,4 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C5309/Castle+of+Dreams.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Castle_of_Dreams.rar)
 
-**Дата генерації:** 29.07.2026
-
 

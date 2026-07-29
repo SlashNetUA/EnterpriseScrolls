@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/34310/ZX-Spectrum/Quahappy)
 
-**Дата генерації:** 29.07.2026
-
 

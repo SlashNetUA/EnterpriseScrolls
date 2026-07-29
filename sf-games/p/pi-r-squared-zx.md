@@ -31,6 +31,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3734/ZX-Spectrum/Pi-R_Squared)
 
-**Дата генерації:** 29.07.2026
-
 

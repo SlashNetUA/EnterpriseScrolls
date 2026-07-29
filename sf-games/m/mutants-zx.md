@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3340/ZX-Spectrum/Mutants)
 
-**Дата генерації:** 29.07.2026
-
 

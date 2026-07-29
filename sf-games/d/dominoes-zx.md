@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1431/ZX-Spectrum/Dominoes)
 
-**Дата генерації:** 29.07.2026
-
 

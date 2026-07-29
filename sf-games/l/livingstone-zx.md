@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2902/ZX-Spectrum/Livingstone_Supongo)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Livingstone.rar)
 
-**Дата генерації:** 29.07.2026
-
 

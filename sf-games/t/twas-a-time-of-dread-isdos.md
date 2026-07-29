@@ -57,6 +57,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15572)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C561/T%27was+a+Time+of+Dread.html)
 
-**Дата генерації:** 29.07.2026
-
 

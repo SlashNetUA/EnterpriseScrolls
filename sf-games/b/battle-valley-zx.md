@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/465/ZX-Spectrum/Battle_Valley)
 
-**Дата генерації:** 29.07.2026
-
 

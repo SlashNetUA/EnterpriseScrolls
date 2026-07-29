@@ -31,6 +31,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2986/ZX-Spectrum/Magnetron)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Magnetron.rar)
 
-**Дата генерації:** 29.07.2026
-
 

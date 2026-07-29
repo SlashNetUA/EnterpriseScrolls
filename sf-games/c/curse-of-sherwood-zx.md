@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1189/ZX-Spectrum/The_Curse_of_Sherwood)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Curse_of_Sherwood.rar)
 
-**Дата генерації:** 29.07.2026
-
 

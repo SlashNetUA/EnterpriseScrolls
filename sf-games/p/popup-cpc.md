@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=499)
 - [Завантажити гру](http://ep.homeserver.hu/Programok/Games/P/PRG/popup-ep.zip)
 
-**Дата генерації:** 29.07.2026
-
 

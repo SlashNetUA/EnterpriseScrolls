@@ -52,6 +52,4 @@ Who Dares Wins II — це екшн-гра, випущена у 1986 році к
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5673/ZX-Spectrum/Who_Dares_Wins_II)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Hard_Commander.rar)
 
-**Дата генерації:** 29.07.2026
-
 

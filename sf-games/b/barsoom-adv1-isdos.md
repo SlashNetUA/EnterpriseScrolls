@@ -41,6 +41,4 @@
 ## Посилання
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C2024/Barsoom+Adventure+%231%3A+The+Lost+City.html)
 
-**Дата генерації:** 29.07.2026
-
 

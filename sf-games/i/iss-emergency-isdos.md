@@ -42,6 +42,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=16014)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C7944/ISS+Emergency%21.html)
 
-**Дата генерації:** 29.07.2026
-
 

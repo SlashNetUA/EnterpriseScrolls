@@ -46,6 +46,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5232/ZX-Spectrum/Thing_Bounces_Back)
 
-**Дата генерації:** 29.07.2026
-
 

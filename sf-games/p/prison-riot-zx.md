@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3883/ZX-Spectrum/Prison_Riot)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Prison_Riot.rar)
 
-**Дата генерації:** 29.07.2026
-
 

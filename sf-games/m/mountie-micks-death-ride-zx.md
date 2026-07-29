@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3299/ZX-Spectrum/Mountie_Micks_Death_Ride)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Death_Ride.rar)
 
-**Дата генерації:** 29.07.2026
-
 

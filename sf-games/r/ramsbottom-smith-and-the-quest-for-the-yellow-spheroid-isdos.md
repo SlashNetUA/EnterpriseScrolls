@@ -44,6 +44,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15357)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C7866/Ramsbottom+Smith%3A+The+Quest+for+the+Yellow+Spheroid.html)
 
-**Дата генерації:** 29.07.2026
-
 

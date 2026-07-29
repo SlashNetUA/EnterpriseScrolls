@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=16005)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C62/Bulbo+and+the+Lizard-King.html)
 
-**Дата генерації:** 29.07.2026
-
 

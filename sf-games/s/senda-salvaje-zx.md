@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4395/ZX-Spectrum/Senda_Salvaje)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Senda_Salvaje.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -26,6 +26,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3184/ZX-Spectrum/MicroProse_Soccer)
 
-**Дата генерації:** 29.07.2026
-
 

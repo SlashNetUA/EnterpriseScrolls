@@ -53,6 +53,4 @@ Uridium - це аркадна гра, де гравець керує сучас�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5525/ZX-Spectrum/Uridium)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Uridium.rar)
 
-**Дата генерації:** 29.07.2026
-
 

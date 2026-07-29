@@ -41,6 +41,4 @@
 - [Домашня сторінка гри](http://www.papasgong.com/calypso/)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C7753/Calypso.html)
 
-**Дата генерації:** 29.07.2026
-
 

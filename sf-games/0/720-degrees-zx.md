@@ -29,8 +29,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -52,7 +51,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/720_Degrees.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/41/ZX-Spectrum/720_Degrees)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/720_Degrees.rar)
-
-**Дата генерації:** 29.07.2026
 
 

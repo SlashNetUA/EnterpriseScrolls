@@ -45,6 +45,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5136/ZX-Spectrum/3D_Tank_Duel)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Battle_Tank_Simulator.rar)
 
-**Дата генерації:** 29.07.2026
-
 

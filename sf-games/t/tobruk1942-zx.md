@@ -47,6 +47,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5308/ZX-Spectrum/Tobruk)
 
-**Дата генерації:** 29.07.2026
-
 

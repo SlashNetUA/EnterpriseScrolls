@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4381/ZX-Spectrum/Scuba_Dive)
 
-**Дата генерації:** 29.07.2026
-
 

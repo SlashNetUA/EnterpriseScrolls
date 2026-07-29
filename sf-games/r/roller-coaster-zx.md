@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4231/ZX-Spectrum/Roller_Coaster)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Roller_Coaster.rar)
 
-**Дата генерації:** 29.07.2026
-
 

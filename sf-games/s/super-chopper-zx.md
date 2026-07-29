@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5010/ZX-Spectrum/Super_Chopper)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1046) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 

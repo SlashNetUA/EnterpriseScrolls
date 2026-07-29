@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3699/ZX-Spectrum/Pick_n_Pile)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Pick_n_Pile.rar)
 
-**Дата генерації:** 29.07.2026
-
 

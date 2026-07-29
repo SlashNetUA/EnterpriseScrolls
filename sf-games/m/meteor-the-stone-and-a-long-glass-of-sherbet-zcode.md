@@ -46,6 +46,4 @@
 ## Посилання
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C3909/Meteor%2C+the+Stone+and+a+Long+Glass+of+Sherbet%2C+The.html)
 
-**Дата генерації:** 29.07.2026
-
 

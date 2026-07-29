@@ -80,6 +80,4 @@ Bignose's USA Adventure є однією з найкращих платформе
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Big_Noses_USA.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1014) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 

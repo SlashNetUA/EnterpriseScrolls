@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4870/ZX-Spectrum/Starion)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Starion.rar)
 
-**Дата генерації:** 29.07.2026
-
 

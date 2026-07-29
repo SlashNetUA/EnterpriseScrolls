@@ -21,6 +21,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1217/ZX-Spectrum/Daley_Thompsons_Decathlon)
 
-**Дата генерації:** 29.07.2026
-
 

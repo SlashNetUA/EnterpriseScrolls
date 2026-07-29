@@ -36,8 +36,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4916/ZX-Spectrum/Stop_the_Express)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Stop_the_Express.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

@@ -41,6 +41,4 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C592/Witness%2C+The.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Witness.rar)
 
-**Дата генерації:** 29.07.2026
-
 

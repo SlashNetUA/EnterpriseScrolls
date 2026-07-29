@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1387/ZX-Spectrum/Dick_Tracy)
 
-**Дата генерації:** 29.07.2026
-
 

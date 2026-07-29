@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2233/ZX-Spectrum/Hard_Drivin)
 
-**Дата генерації:** 29.07.2026
-
 

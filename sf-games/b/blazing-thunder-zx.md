@@ -77,6 +77,4 @@ Blazing Thunder - це динамічна гра, яка вимагає швид
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/564/ZX-Spectrum/Blazing_Thunder)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Blazing_Thunder.rar)
 
-**Дата генерації:** 29.07.2026
-
 

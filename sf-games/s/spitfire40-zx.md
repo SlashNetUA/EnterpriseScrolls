@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4763/ZX-Spectrum/Spitfire_40)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Spitfire.rar)
 
-**Дата генерації:** 29.07.2026
-
 

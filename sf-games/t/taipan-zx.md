@@ -46,6 +46,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5114/ZX-Spectrum/Tai-Pan)
 
-**Дата генерації:** 29.07.2026
-
 

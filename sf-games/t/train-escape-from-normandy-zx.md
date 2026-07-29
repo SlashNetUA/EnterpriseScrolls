@@ -52,6 +52,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5373/ZX-Spectrum/The_Train_Escape_to_Normandy)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Train.rar)
 
-**Дата генерації:** 29.07.2026
-
 

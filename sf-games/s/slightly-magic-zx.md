@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9418/ZX-Spectrum/Slightly_Magic)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Slightly_Magic.rar)
 
-**Дата генерації:** 29.07.2026
-
 

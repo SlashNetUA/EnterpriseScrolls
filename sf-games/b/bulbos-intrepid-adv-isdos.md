@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15973)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C7864/Bulbo%27s+Intrepid+Adventure.html)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -42,6 +42,4 @@
 - [Домашня сторінка гри](https://ikeserver.de/Dust/retro.html)
 - [Інформація про гру (SolutionArchive.com)](https://www.solutionarchive.com/game/id,10761/Dust.html)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -29,6 +29,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2574/ZX-Spectrum/Jai_Alai)
 
-**Дата генерації:** 29.07.2026
-
 

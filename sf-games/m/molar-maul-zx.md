@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3241/ZX-Spectrum/Molar_Maul)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Molar_Maul.rar)
 
-**Дата генерації:** 29.07.2026
-
 

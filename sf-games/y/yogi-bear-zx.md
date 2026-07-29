@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5828/ZX-Spectrum/Yogi_Bear)
 
-**Дата генерації:** 29.07.2026
-
 

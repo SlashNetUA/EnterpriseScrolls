@@ -70,6 +70,4 @@ Blasteroids — це весела гра, яка забезпечить вам �
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/563/ZX-Spectrum/Blasteroids)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Blasteroids.rar)
 
-**Дата генерації:** 29.07.2026
-
 

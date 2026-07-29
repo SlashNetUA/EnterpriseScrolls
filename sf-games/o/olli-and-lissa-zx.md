@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3503/ZX-Spectrum/Olli_and_Lissa)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Olli_and_Lissa.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -29,8 +29,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Сучасна неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -49,7 +48,5 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/151/ZX-Spectrum/Alien_Highway)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Alien_Highway.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1130) *(Telegram-канал Vibrant Waves)*
-
-**Дата генерації:** 29.07.2026
 
 

@@ -65,6 +65,4 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Batman-Penguin.rar)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Batman-Joker.rar)
 
-**Дата генерації:** 29.07.2026
-
 

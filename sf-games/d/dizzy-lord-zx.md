@@ -48,6 +48,4 @@ Dizzy Lord — це гра, створена Ласлом Кёнцолом дл�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/17623/ZX-Spectrum/Dizzy_Lord)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dizzy_Lord.rar)
 
-**Дата генерації:** 29.07.2026
-
 

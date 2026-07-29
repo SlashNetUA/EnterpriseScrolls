@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/14428/ZX-Spectrum/Tokyo_Gang)
 
-**Дата генерації:** 29.07.2026
-
 

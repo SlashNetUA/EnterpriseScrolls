@@ -46,6 +46,4 @@
 ## Посилання
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C4097/Winter+Wonderland.html)
 
-**Дата генерації:** 29.07.2026
-
 

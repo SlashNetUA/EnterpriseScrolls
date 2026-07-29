@@ -51,6 +51,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2125/ZX-Spectrum/The_Great_Escape)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Great_Escape.rar)
 
-**Дата генерації:** 29.07.2026
-
 

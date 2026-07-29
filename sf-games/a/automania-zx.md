@@ -28,8 +28,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -43,7 +42,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Automania.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/339/ZX-Spectrum/Automania)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Automania.rar)
-
-**Дата генерації:** 29.07.2026
 
 

@@ -21,6 +21,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1848/ZX-Spectrum/Frank_Brunos_Boxing)
 
-**Дата генерації:** 29.07.2026
-
 

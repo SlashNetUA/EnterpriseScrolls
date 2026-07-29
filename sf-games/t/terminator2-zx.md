@@ -45,6 +45,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5187/ZX-Spectrum/Terminator_2_Judgment_Day)
 
-**Дата генерації:** 29.07.2026
-
 

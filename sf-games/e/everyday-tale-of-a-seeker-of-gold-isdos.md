@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=16004)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C811/Everyday+Tale+of+a+Seeker+of+Gold%2C+An.html)
 
-**Дата генерації:** 29.07.2026
-
 

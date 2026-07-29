@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/12123/ZX-Spectrum/Star_Trip)
 
-**Дата генерації:** 29.07.2026
-
 

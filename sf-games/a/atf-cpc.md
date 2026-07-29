@@ -29,8 +29,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна неофіційна конверсія з платформи Amstrad CPC.
+﻿> ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC.
 
 
 ## Основна інформація
@@ -48,7 +47,5 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=238)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/ATF.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1030) *(Telegram-канал Vibrant Waves)*
-
-**Дата генерації:** 29.07.2026
 
 

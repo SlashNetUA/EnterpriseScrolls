@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1337/ZX-Spectrum/Delta_Wing)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Delta_Wing.rar)
 
-**Дата генерації:** 29.07.2026
-
 

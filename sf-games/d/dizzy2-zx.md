@@ -55,6 +55,4 @@ Dizzy 2 - це захоплююча пригодницька гра, в якій
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9333/ZX-Spectrum/Treasure_Island_Dizzy)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dizzy2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4948/ZX-Spectrum/Strike_Force_Cobra)
 
-**Дата генерації:** 29.07.2026
-
 

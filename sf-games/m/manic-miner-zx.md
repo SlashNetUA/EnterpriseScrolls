@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3012/ZX-Spectrum/Manic_Miner)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Manic_Miner.rar)
 
-**Дата генерації:** 29.07.2026
-
 

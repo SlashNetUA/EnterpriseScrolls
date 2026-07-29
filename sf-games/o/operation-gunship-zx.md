@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9386/ZX-Spectrum/Operation_Gunship)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Operation_Gunship.rar)
 
-**Дата генерації:** 29.07.2026
-
 

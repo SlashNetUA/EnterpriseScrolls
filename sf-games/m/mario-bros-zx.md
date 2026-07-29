@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3035/ZX-Spectrum/Mario_Bros)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Mario_Bros.rar)
 
-**Дата генерації:** 29.07.2026
-
 

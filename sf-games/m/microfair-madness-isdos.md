@@ -42,6 +42,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15970)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C1005/Microfair+Madness.html)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -39,6 +39,4 @@
 ## Посилання
 - [Домашня сторінка гри](https://grubstudios.itch.io/a-day-in-the-life-a-puny-inform-game)
 
-**Дата генерації:** 29.07.2026
-
 

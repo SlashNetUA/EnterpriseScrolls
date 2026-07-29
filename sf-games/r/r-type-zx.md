@@ -30,8 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4256/ZX-Spectrum/R-Type)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/R-Type.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

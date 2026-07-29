@@ -32,8 +32,6 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Land_of_Havoc.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/485) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

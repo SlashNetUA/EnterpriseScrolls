@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1321/ZX-Spectrum/Defender_of_the_Crown)
 
-**Дата генерації:** 29.07.2026
-
 

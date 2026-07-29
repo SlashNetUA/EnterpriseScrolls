@@ -31,6 +31,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9374/ZX-Spectrum/Martianoids)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Martianoids.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4442/ZX-Spectrum/Shanghai_Warriors)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Shanghai_Warriors.rar)
 
-**Дата генерації:** 29.07.2026
-
 

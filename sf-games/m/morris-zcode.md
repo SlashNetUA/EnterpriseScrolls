@@ -42,6 +42,4 @@
 - [Домашня сторінка гри](https://dee-cooke.itch.io/morris)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10176/Morris.html)
 
-**Дата генерації:** 29.07.2026
-
 

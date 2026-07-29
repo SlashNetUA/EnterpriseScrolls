@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/829/ZX-Spectrum/Casanova)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Casanova.rar)
 
-**Дата генерації:** 29.07.2026
-
 

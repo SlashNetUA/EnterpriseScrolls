@@ -48,6 +48,4 @@ Tir-Na-Nog — це класична комп'ютерна гра в жанрі 
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5292/ZX-Spectrum/Tir_Na_Nog)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/TirNaNog.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -59,6 +59,4 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10576/Who+Kidnapped+Mother+Goose%3F.html)
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Z-machine_Adventures.rar)
 
-**Дата генерації:** 29.07.2026
-
 

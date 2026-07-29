@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -42,7 +41,5 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/328/ZX-Spectrum/Auf_Wiedersehen_Monty)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Auf_Wiedersehen_Monty.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1034) *(Telegram-канал Vibrant Waves)*
-
-**Дата генерації:** 29.07.2026
 
 

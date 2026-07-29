@@ -68,6 +68,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/495/ZX-Spectrum/Bedlam)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Bedlam.rar)
 
-**Дата генерації:** 29.07.2026
-
 

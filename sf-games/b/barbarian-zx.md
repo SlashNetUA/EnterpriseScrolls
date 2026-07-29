@@ -50,6 +50,4 @@ Barbarian — це екшн-гра, випущена в 1988 році компа
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/405/ZX-Spectrum/Barbarian)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Barbarian_4.rar)
 
-**Дата генерації:** 29.07.2026
-
 

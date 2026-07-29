@@ -44,6 +44,4 @@
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/DiaTanX.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/939) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 

@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/702/ZX-Spectrum/Bridge_Player)
 
-**Дата генерації:** 29.07.2026
-
 

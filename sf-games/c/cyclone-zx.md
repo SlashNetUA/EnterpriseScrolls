@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1206/ZX-Spectrum/Cyclone)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Cyclone.rar)
 
-**Дата генерації:** 29.07.2026
-
 

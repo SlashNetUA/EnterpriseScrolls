@@ -41,6 +41,4 @@
 - [Домашня сторінка гри](https://www.symbos.org/appinfo.htm?00087)
 - [Завантажити гру](https://www.symbos.org/download/apps/Snakes&Ladders.zip)
 
-**Дата генерації:** 29.07.2026
-
 

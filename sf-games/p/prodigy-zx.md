@@ -31,6 +31,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3892/ZX-Spectrum/Prodigy)
 
-**Дата генерації:** 29.07.2026
-
 

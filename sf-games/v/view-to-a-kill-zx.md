@@ -49,6 +49,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9/ZX-Spectrum/A_View_to_a_Kill-The_Computer_Game)
 
-**Дата генерації:** 29.07.2026
-
 

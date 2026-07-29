@@ -30,6 +30,4 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Bride_of_Frankenstein.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1062) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 

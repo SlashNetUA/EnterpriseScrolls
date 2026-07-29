@@ -25,6 +25,4 @@
 - [Домашня сторінка гри](http://symbos.de/appinfo.htm?00044)
 - [Завантажити гру](http://symbos.de/download/apps/Sokoban.zip)
 
-**Дата генерації:** 29.07.2026
-
 

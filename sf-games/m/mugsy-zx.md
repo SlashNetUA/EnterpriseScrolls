@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/6715/ZX-Spectrum/Mugsy)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Mugsy.rar)
 
-**Дата генерації:** 29.07.2026
-
 

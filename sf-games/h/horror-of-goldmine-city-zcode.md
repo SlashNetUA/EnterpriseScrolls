@@ -53,6 +53,4 @@
 - [Домашня сторінка гри](https://bdb-project.itch.io/horror-of-goldmine-city)
 - [Інформація про гру (SolutionArchive.com)](https://www.solutionarchive.com/game/id%2C10947/Horror+of+Goldmine+City%2C+The.html)
 
-**Дата генерації:** 29.07.2026
-
 

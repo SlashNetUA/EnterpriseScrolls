@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3911/ZX-Spectrum/Psi_Chess)
 
-**Дата генерації:** 29.07.2026
-
 

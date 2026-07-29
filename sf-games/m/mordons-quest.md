@@ -34,6 +34,4 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,364/Mordon's+Quest.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Mordons_Quest.rar)
 
-**Дата генерації:** 29.07.2026
-
 

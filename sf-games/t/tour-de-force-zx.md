@@ -55,6 +55,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5348/ZX-Spectrum/Tour_de_Force)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Tour_de_Force.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -49,6 +49,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2041/ZX-Spectrum/Gift_from_the_Gods)
 
-**Дата генерації:** 29.07.2026
-
 

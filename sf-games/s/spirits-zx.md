@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4760/ZX-Spectrum/Spirits)
 
-**Дата генерації:** 29.07.2026
-
 

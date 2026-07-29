@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4899/ZX-Spectrum/Stifflip_Co)
 
-**Дата генерації:** 29.07.2026
-
 

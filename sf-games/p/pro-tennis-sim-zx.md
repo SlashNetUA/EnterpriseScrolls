@@ -31,6 +31,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4515/ZX-Spectrum/Simulador_Profesional_de_Tenis)
 
-**Дата генерації:** 29.07.2026
-
 

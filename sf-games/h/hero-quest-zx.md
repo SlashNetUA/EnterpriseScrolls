@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2302/ZX-Spectrum/Hero_Quest)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Hero_Quest.rar)
 
-**Дата генерації:** 29.07.2026
-
 

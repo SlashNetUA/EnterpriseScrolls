@@ -21,6 +21,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1718/ZX-Spectrum/Falcon_Patrol_2)
 
-**Дата генерації:** 29.07.2026
-
 

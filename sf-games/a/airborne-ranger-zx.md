@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -47,7 +46,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Airborne_Ranger.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/117/ZX-Spectrum/Airborne_Ranger)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Airborne_Ranger.rar)
-
-**Дата генерації:** 29.07.2026
 
 

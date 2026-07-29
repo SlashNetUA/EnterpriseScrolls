@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1757/ZX-Spectrum/Fighting_Warrior)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Fighting_Warrior.rar)
 
-**Дата генерації:** 29.07.2026
-
 

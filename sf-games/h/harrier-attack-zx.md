@@ -41,6 +41,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2241/ZX-Spectrum/Harrier_Attack)
 
-**Дата генерації:** 29.07.2026
-
 

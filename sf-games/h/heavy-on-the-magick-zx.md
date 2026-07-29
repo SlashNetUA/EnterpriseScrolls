@@ -31,6 +31,4 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C251/Heavy+on+the+Magick.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Heavy_on_the_Magick.rar)
 
-**Дата генерації:** 29.07.2026
-
 

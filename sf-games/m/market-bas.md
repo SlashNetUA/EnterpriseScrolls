@@ -34,6 +34,4 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Market.rar)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Tozsde.rar)
 
-**Дата генерації:** 29.07.2026
-
 

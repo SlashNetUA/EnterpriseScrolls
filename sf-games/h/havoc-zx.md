@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2252/ZX-Spectrum/Havoc)
 
-**Дата генерації:** 29.07.2026
-
 

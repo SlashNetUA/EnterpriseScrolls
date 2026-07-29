@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/933/ZX-Spectrum/Chinese_Juggler)
 
-**Дата генерації:** 29.07.2026
-
 

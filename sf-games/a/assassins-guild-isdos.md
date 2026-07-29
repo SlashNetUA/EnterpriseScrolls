@@ -46,6 +46,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=4143)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C911/Assassins%27+Guild%2C+The.html)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3260/ZX-Spectrum/Monty_Pythons_Flying_Circus)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Monty_Pithon.rar)
 
-**Дата генерації:** 29.07.2026
-
 

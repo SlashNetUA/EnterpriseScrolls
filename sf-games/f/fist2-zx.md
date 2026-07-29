@@ -29,6 +29,4 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Exploding_Fist_2.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5644/ZX-Spectrum/Fist_II_The_Legend_Continues)
 
-**Дата генерації:** 29.07.2026
-
 

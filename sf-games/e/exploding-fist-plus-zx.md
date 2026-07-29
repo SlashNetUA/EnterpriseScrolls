@@ -31,6 +31,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5641/ZX-Spectrum/Exploding_Fist_)
 
-**Дата генерації:** 29.07.2026
-
 

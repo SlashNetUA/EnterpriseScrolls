@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=17752)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C915/Behind+Closed+Doors+4%3A+Balrog%27s+Day+Out.html)
 
-**Дата генерації:** 29.07.2026
-
 

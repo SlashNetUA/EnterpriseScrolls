@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5089/ZX-Spectrum/Switchblade)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/SwitchBlade.rar)
 
-**Дата генерації:** 29.07.2026
-
 

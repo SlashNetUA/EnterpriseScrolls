@@ -43,6 +43,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/606/ZX-Spectrum/Bobby_Bearing)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Bobby_Bearing.rar)
 
-**Дата генерації:** 29.07.2026
-
 

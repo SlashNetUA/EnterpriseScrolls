@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9432/ZX-Spectrum/Super_Robin_Hood)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Super_Robin_Hood.rar)
 
-**Дата генерації:** 29.07.2026
-
 

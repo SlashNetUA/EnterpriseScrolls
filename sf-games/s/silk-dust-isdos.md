@@ -51,6 +51,4 @@
 - [Домашня сторінка гри](https://darwinne.itch.io/silk-dust)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C9032/Silk+Dust.html)
 
-**Дата генерації:** 29.07.2026
-
 

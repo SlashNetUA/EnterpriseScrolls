@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3292/ZX-Spectrum/Motorbike_Madness)
 
-**Дата генерації:** 29.07.2026
-
 

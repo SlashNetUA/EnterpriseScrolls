@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=526)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Castle_Master_2_CPC.rar)
 
-**Дата генерації:** 29.07.2026
-
 

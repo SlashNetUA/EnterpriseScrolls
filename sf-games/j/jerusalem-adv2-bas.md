@@ -38,6 +38,4 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,1486/Jerusalem.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Jerusalem_Adventure_2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

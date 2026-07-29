@@ -23,6 +23,4 @@
 ## Посилання
 - [Домашня сторінка гри](https://bunsen.itch.io/turnright-enterprise-128-by-feco)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -51,8 +51,6 @@ Ghouls 'n' Ghosts — це захоплююча платформерна гра,
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9352/ZX-Spectrum/Ghouls_n_Ghosts)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Ghouls_n_Ghost.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

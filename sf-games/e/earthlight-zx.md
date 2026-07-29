@@ -95,6 +95,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1565/ZX-Spectrum/Earthlight)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/EarthLight.rar)
 
-**Дата генерації:** 29.07.2026
-
 

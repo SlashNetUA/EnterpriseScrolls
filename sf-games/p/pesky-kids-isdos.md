@@ -42,6 +42,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=18793)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10098/Pesky+Kids%21.html)
 
-**Дата генерації:** 29.07.2026
-
 

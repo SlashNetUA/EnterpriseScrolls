@@ -52,6 +52,4 @@ Dizzy 3 і пів — це захоплююча пригодницька гра,
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9334/ZX-Spectrum/Dizzy_3_and_a_Half)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dizzy3_and_Half.rar)
 
-**Дата генерації:** 29.07.2026
-
 

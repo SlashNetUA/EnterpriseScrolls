@@ -48,6 +48,4 @@ Ulises - це гра, розроблена іспанською компаніє
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5507/ZX-Spectrum/Ulises)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Ulises.rar)
 
-**Дата генерації:** 29.07.2026
-
 

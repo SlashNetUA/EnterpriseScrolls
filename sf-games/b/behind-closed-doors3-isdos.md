@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=16017)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C39/Behind+Closed+Doors+3%3A+Revenge+of+the+Ants.html)
 
-**Дата генерації:** 29.07.2026
-
 

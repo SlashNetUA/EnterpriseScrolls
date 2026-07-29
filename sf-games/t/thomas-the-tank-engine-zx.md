@@ -54,6 +54,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5237/ZX-Spectrum/Thomas_the_Tank_Engine_Friends)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Thomas_the_Tank_Engine.rar)
 
-**Дата генерації:** 29.07.2026
-
 

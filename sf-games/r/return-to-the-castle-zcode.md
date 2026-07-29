@@ -41,6 +41,4 @@
 ## Посилання
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C8839/Return+to+the+Castle.html)
 
-**Дата генерації:** 29.07.2026
-
 

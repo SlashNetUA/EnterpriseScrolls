@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/32234/ZX-Spectrum/Parachute)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1222)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Daley_Thompsons_Super_Test.rar)
 
-**Дата генерації:** 29.07.2026
-
 

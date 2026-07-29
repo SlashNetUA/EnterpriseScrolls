@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/937)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Chips_Challenge.rar)
 
-**Дата генерації:** 29.07.2026
-
 

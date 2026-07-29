@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1754/ZX-Spectrum/Fighter_Pilot)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Fighter_Pilot.rar)
 
-**Дата генерації:** 29.07.2026
-
 

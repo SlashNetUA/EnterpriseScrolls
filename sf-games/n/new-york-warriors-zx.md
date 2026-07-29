@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3398/ZX-Spectrum/New_York_Warriors)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4788/ZX-Spectrum/Spy_vs_Spy_II_The_Island_Caper)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Spy_vs_Spy_2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

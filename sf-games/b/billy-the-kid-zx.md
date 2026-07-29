@@ -62,6 +62,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/529/ZX-Spectrum/Billy_the_Kid)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Billy_the_Kid.rar)
 
-**Дата генерації:** 29.07.2026
-
 

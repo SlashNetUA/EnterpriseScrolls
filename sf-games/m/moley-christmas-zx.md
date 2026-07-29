@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3243/ZX-Spectrum/Moley_Christmas)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -25,6 +25,4 @@
 - [Домашня сторінка гри](https://ktbproductions.itch.io/shovel-duck-ii)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/43267/ZX-Spectrum/Shovel_Duck_II_Dig_Duck)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2680/ZX-Spectrum/Kemshu)
 
-**Дата генерації:** 29.07.2026
-
 

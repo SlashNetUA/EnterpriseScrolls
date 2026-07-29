@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2722/ZX-Spectrum/Knight_Tyme)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Knight_Tyme.rar)
 
-**Дата генерації:** 29.07.2026
-
 

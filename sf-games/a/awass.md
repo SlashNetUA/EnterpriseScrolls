@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Офіційна мультиплатформенна гра.
+﻿> ℹ Офіційна мультиплатформенна гра.
 
 
 ## Основна інформація
@@ -49,8 +48,6 @@
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Awass.rar)
 - [Завантажити гру](http://inufuto.web.fc2.com/8bit/ep64/awass_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1134) *(Telegram-канал Vibrant Waves)*
-
-**Дата генерації:** 29.07.2026
 
 
 ## Відео

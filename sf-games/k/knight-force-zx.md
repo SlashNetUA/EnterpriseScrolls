@@ -28,6 +28,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2718/ZX-Spectrum/Knight_Force)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Knight_Force.rar)
 
-**Дата генерації:** 29.07.2026
-
 

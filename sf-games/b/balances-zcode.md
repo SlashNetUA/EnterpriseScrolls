@@ -48,6 +48,4 @@
 ## Посилання
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C8357/Balances.html)
 
-**Дата генерації:** 29.07.2026
-
 

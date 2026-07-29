@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1016/ZX-Spectrum/Coloris)
 
-**Дата генерації:** 29.07.2026
-
 

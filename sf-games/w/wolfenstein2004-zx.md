@@ -32,8 +32,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/17189/ZX-Spectrum/Wolfenstein_2004)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Wolfenstein_2004.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

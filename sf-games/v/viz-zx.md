@@ -43,6 +43,4 @@ Viz: The Game — це екшн-гра, в якій гравці мчать че
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5595/ZX-Spectrum/Viz-The_Computer_Game)
 
-**Дата генерації:** 29.07.2026
-
 

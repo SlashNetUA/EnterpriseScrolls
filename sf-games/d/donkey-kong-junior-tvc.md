@@ -42,8 +42,6 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Donkey_Kong_Junior.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/252) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

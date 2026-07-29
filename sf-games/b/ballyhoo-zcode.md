@@ -42,6 +42,4 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,31/Ballyhoo.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Ballyhoo.rar)
 
-**Дата генерації:** 29.07.2026
-
 

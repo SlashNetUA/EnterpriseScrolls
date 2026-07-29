@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1765/ZX-Spectrum/Fire_and_Forget)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Fire_and_Forget.rar)
 
-**Дата генерації:** 29.07.2026
-
 

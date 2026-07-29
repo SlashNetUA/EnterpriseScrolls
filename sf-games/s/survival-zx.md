@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5080/ZX-Spectrum/Survival)
 
-**Дата генерації:** 29.07.2026
-
 

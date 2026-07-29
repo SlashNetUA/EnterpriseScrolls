@@ -28,8 +28,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Модифікована версія гри **Five in a Row**.
+﻿> ℹ Модифікована версія гри **Five in a Row**.
 
 
 ## Основна інформація
@@ -43,7 +42,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Basic_Program_Pack.htm)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Basic_Program_Pack.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/339) *(Telegram-канал Vibrant Waves)*
-
-**Дата генерації:** 29.07.2026
 
 

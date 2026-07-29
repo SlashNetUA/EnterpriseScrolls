@@ -50,6 +50,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5255/ZX-Spectrum/Thunderbirds)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Thunderbirds_(Grandslam).rar)
 
-**Дата генерації:** 29.07.2026
-
 

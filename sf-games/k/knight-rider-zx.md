@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2719/ZX-Spectrum/Knight_Rider)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Knight_Rider.rar)
 
-**Дата генерації:** 29.07.2026
-
 

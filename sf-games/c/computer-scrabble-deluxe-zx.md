@@ -31,6 +31,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4376/ZX-Spectrum/Scrabble_DeLuxe)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -31,6 +31,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2566/ZX-Spectrum/Jack_the_Nipper_II_In_Coconut_Capers)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Jack_the_Nipper_2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

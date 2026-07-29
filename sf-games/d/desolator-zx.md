@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1359/ZX-Spectrum/Desolator)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Desolator.rar)
 
-**Дата генерації:** 29.07.2026
-
 

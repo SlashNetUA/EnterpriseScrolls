@@ -31,6 +31,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4207/ZX-Spectrum/Rock_n_Wrestle)
 
-**Дата генерації:** 29.07.2026
-
 

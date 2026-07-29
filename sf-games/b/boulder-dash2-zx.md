@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/642/ZX-Spectrum/Boulder_Dash_II_Rockfords_Riot)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Boulder_Dash2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

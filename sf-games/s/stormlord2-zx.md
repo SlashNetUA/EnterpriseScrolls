@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4925/ZX-Spectrum/Stormlord_II_Deliverance)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Stormlord2_Deliverance.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -45,6 +45,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2040/ZX-Spectrum/Giants_Revenge)
 
-**Дата генерації:** 29.07.2026
-
 

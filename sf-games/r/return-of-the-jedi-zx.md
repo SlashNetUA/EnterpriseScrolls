@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4848/ZX-Spectrum/Return_of_the_Jedi)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Return_of_the_Jedi.rar)
 
-**Дата генерації:** 29.07.2026
-
 

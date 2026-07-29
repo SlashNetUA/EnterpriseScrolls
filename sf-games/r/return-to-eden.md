@@ -35,6 +35,4 @@
 - [Домашня сторінка гри](http://l9memorial.if-legends.org/html/rte.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Return_to_Eden.rar)
 
-**Дата генерації:** 29.07.2026
-
 

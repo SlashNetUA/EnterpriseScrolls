@@ -63,8 +63,6 @@ Gazza II - це футбольна гра, випущена у 1990 році к�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1996/ZX-Spectrum/Gazza_II)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Gazza_2.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

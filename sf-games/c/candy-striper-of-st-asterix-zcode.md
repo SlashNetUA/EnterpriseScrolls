@@ -49,6 +49,4 @@
 - [Домашня сторінка гри](https://improvmonster.itch.io/the-candy-striper-of-st-asterix)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10678/Candy+Striper+of+St+Asterix%2C+The.html)
 
-**Дата генерації:** 29.07.2026
-
 

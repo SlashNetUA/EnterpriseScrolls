@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4400/ZX-Spectrum/The_Sentinel)
 
-**Дата генерації:** 29.07.2026
-
 

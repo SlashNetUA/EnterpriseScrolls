@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9892)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Comando_Tracer.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4217/ZX-Spectrum/The_Rocky_Horror_Show)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Rocky_Horror_Show.rar)
 
-**Дата генерації:** 29.07.2026
-
 

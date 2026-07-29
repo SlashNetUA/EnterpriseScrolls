@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1295/ZX-Spectrum/Death_Star_Interceptor)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Death_Star_Interceptor.rar)
 
-**Дата генерації:** 29.07.2026
-
 

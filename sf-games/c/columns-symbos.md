@@ -40,6 +40,4 @@
 - [Домашня сторінка гри](http://www.symbos.de/appinfo.htm?00032)
 - [Завантажити гру](http://www.symbos.de/download/apps/Columns.zip)
 
-**Дата генерації:** 29.07.2026
-
 

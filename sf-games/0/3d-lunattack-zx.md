@@ -26,8 +26,7 @@
 
 ## Опис
 
-> [!NOTE]
-> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.  
 
 **Lunnatack 3D** — захоплива гра, що продовжує традиції якісних проєктів від Hewson.
 
@@ -79,7 +78,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Lunattack.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2955/ZX-Spectrum/3D_Lunattack)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Lunattack.rar)
-
-**Дата генерації:** 29.07.2026
 
 

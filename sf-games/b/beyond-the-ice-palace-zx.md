@@ -76,6 +76,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/512/ZX-Spectrum/Beyond_the_Ice_Palace)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Beyond_the_Ice_Palace.rar)
 
-**Дата генерації:** 29.07.2026
-
 

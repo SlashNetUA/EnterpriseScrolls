@@ -33,8 +33,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/951/ZX-Spectrum/Chronos)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Chronos.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

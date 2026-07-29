@@ -39,6 +39,4 @@
 - [Домашня сторінка гри](http://www.symbos.org/appinfo.htm?00051)
 - [Завантажити гру](http://www.symbos.org/download/apps/ChessSym.zip)
 
-**Дата генерації:** 29.07.2026
-
 

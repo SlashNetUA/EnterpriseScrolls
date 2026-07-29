@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1724/ZX-Spectrum/Fallen_Angel)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Fallen_Angel.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -42,6 +42,4 @@
 - [Домашня сторінка гри](https://g0blin.itch.io/tempus-fugit)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10806/Tempus+Fugit%3A+The+Past+is+Yet+Unwritten.html)
 
-**Дата генерації:** 29.07.2026
-
 

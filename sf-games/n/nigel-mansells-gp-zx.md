@@ -28,6 +28,4 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Nigel_Mansells_Grand_Prix.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3410/ZX-Spectrum/Nigel_Mansells_Grand_Prix)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -33,6 +33,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2937/ZX-Spectrum/Lotus_Esprit_Turbo_Challenge)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -46,8 +46,6 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1684)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Prince_of_Persia.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

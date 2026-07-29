@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1752/ZX-Spectrum/Fighter_Bomber)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Fighter_Bomber.rar)
 
-**Дата генерації:** 29.07.2026
-
 

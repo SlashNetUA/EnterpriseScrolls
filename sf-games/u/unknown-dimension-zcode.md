@@ -55,6 +55,4 @@
 - [Домашня сторінка гри](https://bdb-project.itch.io/unknown-dimension)
 - [Інформація про гру (SolutionArchive.com)](https://www.solutionarchive.com/game/id%2C10903/Unknown+Dimension.html)
 
-**Дата генерації:** 29.07.2026
-
 

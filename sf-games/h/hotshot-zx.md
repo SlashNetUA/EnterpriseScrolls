@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2357/ZX-Spectrum/Hotshot)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Hot_Shot.rar)
 
-**Дата генерації:** 29.07.2026
-
 

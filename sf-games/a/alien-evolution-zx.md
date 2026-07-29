@@ -23,8 +23,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -37,7 +36,5 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/149/ZX-Spectrum/Alien_Evolution)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Alien_Evolution.rar)
-
-**Дата генерації:** 29.07.2026
 
 

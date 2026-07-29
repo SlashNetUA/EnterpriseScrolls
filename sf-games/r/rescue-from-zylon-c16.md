@@ -33,8 +33,6 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Rescue_from_Zylon.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/636) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

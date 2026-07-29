@@ -41,6 +41,4 @@
 - [Домашня сторінка гри](https://www.symbos.org/appinfo.htm?00088)
 - [Завантажити гру](https://www.symbos.org/download/apps/SymFoot.zip)
 
-**Дата генерації:** 29.07.2026
-
 

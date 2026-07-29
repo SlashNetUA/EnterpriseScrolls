@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -40,7 +39,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Archon2.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/244/ZX-Spectrum/Archon_II_Adept)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Archon2.rar)
-
-**Дата генерації:** 29.07.2026
 
 

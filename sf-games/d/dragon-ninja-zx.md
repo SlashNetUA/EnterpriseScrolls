@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1488)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dragon_Ninja.rar)
 
-**Дата генерації:** 29.07.2026
-
 

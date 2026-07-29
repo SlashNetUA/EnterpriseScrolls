@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3898/ZX-Spectrum/Prohibition)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Prohibition.rar)
 
-**Дата генерації:** 29.07.2026
-
 

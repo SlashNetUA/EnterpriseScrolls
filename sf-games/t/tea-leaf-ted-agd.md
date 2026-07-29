@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/34294/ZX-Spectrum/Tea-Leaf_Ted)
 
-**Дата генерації:** 29.07.2026
-
 

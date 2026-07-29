@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4849/ZX-Spectrum/Starbike)
 
-**Дата генерації:** 29.07.2026
-
 

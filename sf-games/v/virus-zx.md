@@ -67,6 +67,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5587/ZX-Spectrum/Virus)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Virus.rar)
 
-**Дата генерації:** 29.07.2026
-
 

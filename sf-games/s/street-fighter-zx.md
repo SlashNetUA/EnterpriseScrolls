@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9425/ZX-Spectrum/Street_Fighter)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Street_Fighter.rar)
 
-**Дата генерації:** 29.07.2026
-
 

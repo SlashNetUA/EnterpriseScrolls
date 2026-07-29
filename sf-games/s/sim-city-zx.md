@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4509/ZX-Spectrum/Sim_City)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Simcity.rar)
 
-**Дата генерації:** 29.07.2026
-
 

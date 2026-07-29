@@ -42,6 +42,4 @@
 - [Домашня сторінка гри](https://carringtonvanston.net/games/dorm/)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10196/Dorm.html)
 
-**Дата генерації:** 29.07.2026
-
 

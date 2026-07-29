@@ -36,6 +36,4 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C735/Nellan+is+Thirsty.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Basic_Program_Pack.rar)
 
-**Дата генерації:** 29.07.2026
-
 

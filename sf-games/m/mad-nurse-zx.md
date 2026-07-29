@@ -31,6 +31,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2969/ZX-Spectrum/Mad_Nurse)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Mad_Nurse.rar)
 
-**Дата генерації:** 29.07.2026
-
 

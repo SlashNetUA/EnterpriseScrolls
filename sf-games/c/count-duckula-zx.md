@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1090/ZX-Spectrum/Count_Duckula)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Count_Duckula.rar)
 
-**Дата генерації:** 29.07.2026
-
 

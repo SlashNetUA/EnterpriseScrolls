@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/6/ZX-Spectrum/The_Living_Daylights-The_Computer_Game)
 
-**Дата генерації:** 29.07.2026
-
 

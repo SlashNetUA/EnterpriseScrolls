@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9312)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/BMX_Simulator.rar)
 
-**Дата генерації:** 29.07.2026
-
 

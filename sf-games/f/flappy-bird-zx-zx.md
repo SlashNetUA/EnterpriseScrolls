@@ -31,8 +31,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/index.php?cat=96&id=30100)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Flappy_Bird_ZX.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

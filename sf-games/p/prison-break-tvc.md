@@ -46,8 +46,6 @@
 - [Завантажити гру](https://downloads.anystone.games/prisonbreak-enterprise-com)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/769) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

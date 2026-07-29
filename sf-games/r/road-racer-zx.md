@@ -26,6 +26,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4161/ZX-Spectrum/Road_Racer)
 
-**Дата генерації:** 29.07.2026
-
 

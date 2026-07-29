@@ -49,6 +49,4 @@ Turbo Boat Simulator — це аркадна гра, в якій ви керує
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5456/ZX-Spectrum/Turbo_Boat_Simulator)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Turbo_Boat_Simulator.rar)
 
-**Дата генерації:** 29.07.2026
-
 

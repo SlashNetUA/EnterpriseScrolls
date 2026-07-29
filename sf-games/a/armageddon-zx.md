@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -43,7 +42,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Armageddon.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/266/ZX-Spectrum/Armageddon)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Armageddon.rar)
-
-**Дата генерації:** 29.07.2026
 
 

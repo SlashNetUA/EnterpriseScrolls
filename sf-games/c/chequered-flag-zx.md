@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/912/ZX-Spectrum/Chequered_Flag)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Chequered_Flag.rar)
 
-**Дата генерації:** 29.07.2026
-
 

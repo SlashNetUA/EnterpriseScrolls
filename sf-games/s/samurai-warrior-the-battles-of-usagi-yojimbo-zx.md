@@ -35,6 +35,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4326/ZX-Spectrum/Samurai_Warrior)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Samurai_Warrior.rar)
 
-**Дата генерації:** 29.07.2026
-
 

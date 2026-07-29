@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3693/ZX-Spectrum/PHM_Pegasus)
 
-**Дата генерації:** 29.07.2026
-
 

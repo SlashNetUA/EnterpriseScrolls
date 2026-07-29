@@ -43,8 +43,6 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Jammin.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/467) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

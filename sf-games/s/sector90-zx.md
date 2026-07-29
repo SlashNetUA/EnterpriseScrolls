@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4391/ZX-Spectrum/Sector_90)
 
-**Дата генерації:** 29.07.2026
-
 

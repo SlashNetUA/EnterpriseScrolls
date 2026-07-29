@@ -25,6 +25,4 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C5481/Tale+of+Spider+Mountain%2C+A.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Castles_and_Kingdoms.rar)
 
-**Дата генерації:** 29.07.2026
-
 

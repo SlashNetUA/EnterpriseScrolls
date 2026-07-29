@@ -21,6 +21,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1854/ZX-Spectrum/Frankie_Goes_to_Hollywood)
 
-**Дата генерації:** 29.07.2026
-
 

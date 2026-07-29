@@ -53,6 +53,4 @@ Exploding Fist - це класична гра в жанрі бойовика, я
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1904)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Exploding_Fist_CPC.rar)
 
-**Дата генерації:** 29.07.2026
-
 

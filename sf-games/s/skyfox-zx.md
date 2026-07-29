@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4560/ZX-Spectrum/Skyfox)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Skyfox.rar)
 
-**Дата генерації:** 29.07.2026
-
 

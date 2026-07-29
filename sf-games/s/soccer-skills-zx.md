@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/17305/ZX-Spectrum/Soccer_Skills)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Four_Soccer_Simulator.rar)
 
-**Дата генерації:** 29.07.2026
-
 

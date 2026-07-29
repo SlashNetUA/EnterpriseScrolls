@@ -29,8 +29,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/584/ZX-Spectrum/Blood_Brothers)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Blood_Brothers.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

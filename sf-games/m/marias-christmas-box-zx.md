@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://worldofspectrum.org/archive/software/games/marias-christmas-box-anco-software-ltd)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -54,6 +54,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2052/ZX-Spectrum/Glass)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Glass.rar)
 
-**Дата генерації:** 29.07.2026
-
 

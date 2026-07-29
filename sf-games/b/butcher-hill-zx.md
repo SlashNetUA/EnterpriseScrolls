@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/773/ZX-Spectrum/Butcher_Hill)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Butcher_Hill.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/519)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Big_Trouble_in_Little_China.rar)
 
-**Дата генерації:** 29.07.2026
-
 

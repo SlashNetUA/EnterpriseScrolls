@@ -50,6 +50,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5657/ZX-Spectrum/Wells_Fargo)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Wells_Fargo.rar)
 
-**Дата генерації:** 29.07.2026
-
 

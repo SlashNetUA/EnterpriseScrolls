@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1019/ZX-Spectrum/Colour_Clash)
 
-**Дата генерації:** 29.07.2026
-
 

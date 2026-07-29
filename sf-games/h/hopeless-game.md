@@ -25,8 +25,6 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Hopeless_Game.htm)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Hopeless_Game.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

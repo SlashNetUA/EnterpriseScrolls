@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4600/ZX-Spectrum/Snooker)
 
-**Дата генерації:** 29.07.2026
-
 

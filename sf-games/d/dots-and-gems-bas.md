@@ -26,8 +26,6 @@
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/programozas/dots-and-gems/)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Basic_Program_Pack.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

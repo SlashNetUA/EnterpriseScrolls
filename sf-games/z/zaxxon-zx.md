@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5846/ZX-Spectrum/Zaxxon)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Zaxxon.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -65,8 +65,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/461/ZX-Spectrum/Battle_Ships)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Battle_Ships.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

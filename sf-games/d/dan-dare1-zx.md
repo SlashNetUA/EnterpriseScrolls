@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1235/ZX-Spectrum/Dan_Dare_Pilot_of_the_Future)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/DanDare.rar)
 
-**Дата генерації:** 29.07.2026
-
 

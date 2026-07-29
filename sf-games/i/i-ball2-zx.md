@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2431/ZX-Spectrum/I_Ball_II)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/IBall2.rar)
 
-**Дата генерації:** 29.07.2026
-
 

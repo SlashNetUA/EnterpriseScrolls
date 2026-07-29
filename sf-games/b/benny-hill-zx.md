@@ -72,6 +72,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/507/ZX-Spectrum/Benny_Hills_Madcap_Chase)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Benny_Hill.rar)
 
-**Дата генерації:** 29.07.2026
-
 

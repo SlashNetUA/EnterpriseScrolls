@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Сучасна неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -48,8 +47,6 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/4K_Race_Refueled_Plus.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4000136/Timex/4K_Race_Refueled)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/4K_Race_Refueled_Plus.rar)
-
-**Дата генерації:** 29.07.2026
 
 
 ## Відео

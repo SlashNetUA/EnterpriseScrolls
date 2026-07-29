@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/601/ZX-Spectrum/BMX_Kidz)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/BMX_Kidz.rar)
 
-**Дата генерації:** 29.07.2026
-
 

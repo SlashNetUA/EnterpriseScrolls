@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4149/ZX-Spectrum/Ring_Wars)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/RingWars.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3759/ZX-Spectrum/Platoon)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Platoon.rar)
 
-**Дата генерації:** 29.07.2026
-
 

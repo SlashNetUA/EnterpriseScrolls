@@ -31,8 +31,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3070/ZX-Spectrum/Match_Day_II)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Match_Day_2.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

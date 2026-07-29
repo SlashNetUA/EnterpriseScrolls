@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2671/ZX-Spectrum/Kamikaze)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Kamikaze.rar)
 
-**Дата генерації:** 29.07.2026
-
 

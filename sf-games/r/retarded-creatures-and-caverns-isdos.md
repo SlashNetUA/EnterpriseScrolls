@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=16003)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C438/Retarded+Creatures+and+Caverns.html)
 
-**Дата генерації:** 29.07.2026
-
 

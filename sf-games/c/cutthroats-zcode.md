@@ -42,6 +42,4 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,118/Cutthroats.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Cutthroats.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -58,6 +58,4 @@ Dominator — це динамічна аркадна гра, розроблен�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1425/ZX-Spectrum/Dominator)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dominator.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15788)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C3408/Sherlock+Holmes%3A+The+Lamberley+Mystery.html)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -41,6 +41,4 @@
 - [Домашня сторінка гри](http://www.symbos.de/appinfo.htm?00083)
 - [Завантажити гру](http://www.symbos.de/download/apps/Reversi.zip)
 
-**Дата генерації:** 29.07.2026
-
 

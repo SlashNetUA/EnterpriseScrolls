@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3980/ZX-Spectrum/Quick_Draw_McGraw)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Quick_Draw_McGraw.rar)
 
-**Дата генерації:** 29.07.2026
-
 

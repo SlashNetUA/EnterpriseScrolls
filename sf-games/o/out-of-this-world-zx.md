@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3559/ZX-Spectrum/Out_of_This_World)
 
-**Дата генерації:** 29.07.2026
-
 

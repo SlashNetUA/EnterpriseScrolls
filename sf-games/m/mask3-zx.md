@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3045/ZX-Spectrum/MASK_III_VENOM_Strikes_Back)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Mask3.rar)
 
-**Дата генерації:** 29.07.2026
-
 

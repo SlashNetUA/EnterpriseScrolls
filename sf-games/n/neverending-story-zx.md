@@ -30,8 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/6740/ZX-Spectrum/The_NeverEnding_Story)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Neverending_Story.rar)
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1299/ZX-Spectrum/Death_Wish_3)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/DeathWish3.rar)
 
-**Дата генерації:** 29.07.2026
-
 

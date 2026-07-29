@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/511/ZX-Spectrum/Beverly_Hills_Cop)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Beverly_Hills_Cop.rar)
 
-**Дата генерації:** 29.07.2026
-
 

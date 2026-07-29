@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9399/ZX-Spectrum/Professional_Ski_Simulator)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Professional_Ski_Simulator.rar)
 
-**Дата генерації:** 29.07.2026
-
 

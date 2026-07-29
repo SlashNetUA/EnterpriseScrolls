@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1334/ZX-Spectrum/Delfox)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Katakis.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -35,6 +35,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9377/ZX-Spectrum/Soviet_Fighter_MiG_29)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/MIG29_Soviet_Fighter.rar)
 
-**Дата генерації:** 29.07.2026
-
 

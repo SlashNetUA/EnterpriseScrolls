@@ -58,6 +58,4 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C586/Williamsburg.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Williamsburg_Adventure_3.rar)
 
-**Дата генерації:** 29.07.2026
-
 

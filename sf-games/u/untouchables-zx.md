@@ -49,6 +49,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5520/ZX-Spectrum/The_Untouchables)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Untouchables.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -49,6 +49,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5664/ZX-Spectrum/West_Bank)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/West_Bank.rar)
 
-**Дата генерації:** 29.07.2026
-
 

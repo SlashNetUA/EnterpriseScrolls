@@ -41,6 +41,4 @@
 ## Посилання
 - [Домашня сторінка гри](https://rbiondi.itch.io/mystery-city-fortuneteller)
 
-**Дата генерації:** 29.07.2026
-
 

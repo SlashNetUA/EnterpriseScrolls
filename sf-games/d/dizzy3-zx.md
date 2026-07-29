@@ -61,6 +61,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9335/ZX-Spectrum/Fantasy_World_Dizzy)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dizzy3_Hun.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -36,8 +36,6 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/NorthStar_CPC.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/594) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
 ## Відео
 

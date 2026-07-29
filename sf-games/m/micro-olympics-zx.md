@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](http://spectrumcomputing.co.uk/entry/3173/ZX-Spectrum/Micro_Olympics)
 
-**Дата генерації:** 29.07.2026
-
 

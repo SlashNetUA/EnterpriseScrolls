@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3420/ZX-Spectrum/Night_Gunner)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Night_Gunner.rar)
 
-**Дата генерації:** 29.07.2026
-
 

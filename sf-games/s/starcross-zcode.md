@@ -41,6 +41,4 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C512/Starcross.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Starcross.rar)
 
-**Дата генерації:** 29.07.2026
-
 

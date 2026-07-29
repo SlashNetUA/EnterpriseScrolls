@@ -41,6 +41,4 @@
 ## Посилання
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/games/sliding-puzzle/)
 
-**Дата генерації:** 29.07.2026
-
 

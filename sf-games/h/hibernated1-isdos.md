@@ -40,6 +40,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15220)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C7666/Hibernated+1+-+This+Place+Is+Death.html)
 
-**Дата генерації:** 29.07.2026
-
 

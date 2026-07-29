@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4317/ZX-Spectrum/Sam_Spade)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Sam_Spade.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3454/ZX-Spectrum/Nonamed)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Nonamed.rar)
 
-**Дата генерації:** 29.07.2026
-
 

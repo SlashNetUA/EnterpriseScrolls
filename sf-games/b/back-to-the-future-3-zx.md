@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/367/ZX-Spectrum/Back_to_the_Future_Part_III)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Back_to_the_Future3.rar)
 
-**Дата генерації:** 29.07.2026
-
 

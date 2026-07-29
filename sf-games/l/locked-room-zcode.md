@@ -45,6 +45,4 @@
 ## Посилання
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C8110/Locked+Room%2C+The.html)
 
-**Дата генерації:** 29.07.2026
-
 

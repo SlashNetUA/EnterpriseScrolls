@@ -46,6 +46,4 @@ Wild Streets - це аркадна гра з бічним прокруткою, 
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5683/ZX-Spectrum/Wild_Streets)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1134/ZX-Spectrum/Crazy_Pingoin)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Crazy_Pingoin.rar)
 
-**Дата генерації:** 29.07.2026
-
 

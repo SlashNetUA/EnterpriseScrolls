@@ -51,6 +51,4 @@ Gutz — це аркадна гра, яка переносить вас у вс�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2189/ZX-Spectrum/Gutz)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Gutz.rar)
 
-**Дата генерації:** 29.07.2026
-
 

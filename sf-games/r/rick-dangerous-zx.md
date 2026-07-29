@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4135/ZX-Spectrum/Rick_Dangerous)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Rick_Dangerous.rar)
 
-**Дата генерації:** 29.07.2026
-
 

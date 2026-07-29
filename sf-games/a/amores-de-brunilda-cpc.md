@@ -29,8 +29,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна схвалена конверсія з платформи Amstrad CPC.
+﻿> ℹ Сучасна схвалена конверсія з платформи Amstrad CPC.
 
 
 ## Основна інформація
@@ -53,8 +52,6 @@
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/cpc-rl/los-amores-de-brunilda/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com//index.php?page=detail&num=18484)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Los_Amores_de_Brunilda.rar)
-
-**Дата генерації:** 29.07.2026
 
 
 ## Відео

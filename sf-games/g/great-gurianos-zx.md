@@ -45,6 +45,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2130/ZX-Spectrum/Great_Gurianos)
 
-**Дата генерації:** 29.07.2026
-
 

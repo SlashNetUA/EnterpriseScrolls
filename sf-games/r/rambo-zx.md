@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4010/ZX-Spectrum/Rambo)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Rambo.rar)
 
-**Дата генерації:** 29.07.2026
-
 

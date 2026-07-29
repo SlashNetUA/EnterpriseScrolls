@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9361/ZX-Spectrum/Jet_Bike_Simulator)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Jet_Bike_Simulator.rar)
 
-**Дата генерації:** 29.07.2026
-
 

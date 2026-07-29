@@ -29,8 +29,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна схвалена конверсія з платформи Commodore PET (та використовує графічні ресурси з версій для Commodore 64 та Amiga).
+﻿> ℹ Сучасна схвалена конверсія з платформи Commodore PET (та використовує графічні ресурси з версій для Commodore 64 та Amiga).
 
 
 ## Основна інформація
@@ -55,8 +54,6 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Attack_of_the_PETSCII_Robots_Plus.rar)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Attack_of_the_PETSCII_Robots.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/419) *(Telegram-канал Vibrant Waves)*
-
-**Дата генерації:** 29.07.2026
 
 
 ## Відео

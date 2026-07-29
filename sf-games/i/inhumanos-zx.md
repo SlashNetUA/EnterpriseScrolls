@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2486/ZX-Spectrum/Los_Inhumanos)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Inhumanos.rar)
 
-**Дата генерації:** 29.07.2026
-
 

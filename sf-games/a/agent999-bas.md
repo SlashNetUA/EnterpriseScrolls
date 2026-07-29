@@ -25,8 +25,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна конверсія.
+﻿> ℹ Сучасна конверсія.
 
 
 ## Основна інформація
@@ -47,7 +46,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Basic_Program_Pack.htm)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10325/Agent+999.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Basic_Program_Pack.rar)
-
-**Дата генерації:** 29.07.2026
 
 

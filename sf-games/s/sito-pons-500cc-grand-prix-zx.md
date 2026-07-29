@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4528/ZX-Spectrum/Sito_Pons_500cc_Grand_Prix)
 
-**Дата генерації:** 29.07.2026
-
 

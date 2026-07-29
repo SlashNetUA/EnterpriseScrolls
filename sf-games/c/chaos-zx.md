@@ -35,6 +35,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/894/ZX-Spectrum/Chaos)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Chaos.rar)
 
-**Дата генерації:** 29.07.2026
-
 

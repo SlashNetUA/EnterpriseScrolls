@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3040/ZX-Spectrum/Marsport)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Marsport.rar)
 
-**Дата генерації:** 29.07.2026
-
 

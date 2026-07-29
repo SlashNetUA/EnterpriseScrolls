@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1188/ZX-Spectrum/Curro_Jimenez)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Curro_Jimenez.rar)
 
-**Дата генерації:** 29.07.2026
-
 

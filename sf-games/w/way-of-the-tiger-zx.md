@@ -58,6 +58,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5646/ZX-Spectrum/The_Way_of_the_Tiger)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Way_of_the_Tiger.rar)
 
-**Дата генерації:** 29.07.2026
-
 

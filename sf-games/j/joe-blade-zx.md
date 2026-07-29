@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2620/ZX-Spectrum/Joe_Blade)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Joe_Blade.rar)
 
-**Дата генерації:** 29.07.2026
-
 

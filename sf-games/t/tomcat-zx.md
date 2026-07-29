@@ -50,6 +50,4 @@ TOMCAT – це традиційна гра жанру shoot'em up, яка пр�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5322/ZX-Spectrum/Tomcat)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Tomcat.rar)
 
-**Дата генерації:** 29.07.2026
-
 

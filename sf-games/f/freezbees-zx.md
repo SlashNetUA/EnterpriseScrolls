@@ -44,6 +44,4 @@ Freez' Bees — це екшн-гра, в якій ви граєте за пін�
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1870/ZX-Spectrum/FreezBees)
 
-**Дата генерації:** 29.07.2026
-
 

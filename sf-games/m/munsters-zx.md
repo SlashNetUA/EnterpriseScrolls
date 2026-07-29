@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3329/ZX-Spectrum/The_Munsters)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Munsters.rar)
 
-**Дата генерації:** 29.07.2026
-
 

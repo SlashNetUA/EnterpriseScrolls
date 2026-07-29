@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4767/ZX-Spectrum/Splat)
 
-**Дата генерації:** 29.07.2026
-
 

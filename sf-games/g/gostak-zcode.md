@@ -47,6 +47,4 @@
 ## Посилання
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C4207/Gostak%2C+The.html)
 
-**Дата генерації:** 29.07.2026
-
 

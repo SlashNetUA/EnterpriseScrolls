@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1543/ZX-Spectrum/Dustin)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dustin.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1651/ZX-Spectrum/Eskimo_Eddie)
 
-**Дата генерації:** 29.07.2026
-
 

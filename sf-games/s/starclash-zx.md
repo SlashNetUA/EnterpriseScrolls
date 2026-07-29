@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4857/ZX-Spectrum/Starclash)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Starclash.rar)
 
-**Дата генерації:** 29.07.2026
-
 

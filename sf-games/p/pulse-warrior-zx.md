@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3935/ZX-Spectrum/Pulse_Warrior)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Pulse_Warrior.rar)
 
-**Дата генерації:** 29.07.2026
-
 

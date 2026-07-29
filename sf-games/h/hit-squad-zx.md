@@ -34,6 +34,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9358/ZX-Spectrum/The_Hit_Squad)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Hit_Squad.rar)
 
-**Дата генерації:** 29.07.2026
-
 

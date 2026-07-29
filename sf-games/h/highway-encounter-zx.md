@@ -31,6 +31,4 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Highway_Encounter.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1126) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 

@@ -27,6 +27,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5097/ZX-Spectrum/Sword_Slayer)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Sword_Slayer.rar)
 
-**Дата генерації:** 29.07.2026
-
 

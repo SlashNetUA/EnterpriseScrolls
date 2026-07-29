@@ -32,6 +32,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/928)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Chickin_Chase.rar)
 
-**Дата генерації:** 29.07.2026
-
 

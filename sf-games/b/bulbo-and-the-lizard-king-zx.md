@@ -28,6 +28,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/6053/ZX-Spectrum/Bulbo_and_the_Lizard-King)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C62/Bulbo+and+the+Lizard-King.html)
 
-**Дата генерації:** 29.07.2026
-
 

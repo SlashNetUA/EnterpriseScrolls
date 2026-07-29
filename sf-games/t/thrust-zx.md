@@ -64,6 +64,4 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Thrust.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5245/ZX-Spectrum/Thrust)
 
-**Дата генерації:** 29.07.2026
-
 

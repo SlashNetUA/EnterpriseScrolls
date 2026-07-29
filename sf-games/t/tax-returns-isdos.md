@@ -59,6 +59,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=2982)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C1067/Tax+Returns.html)
 
-**Дата генерації:** 29.07.2026
-
 

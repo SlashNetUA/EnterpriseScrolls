@@ -42,6 +42,4 @@
 - [Домашня сторінка гри](https://interpied.itch.io/opportunity)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10177/Once+in+a+Lifetime+Opportunity%2C+A.html)
 
-**Дата генерації:** 29.07.2026
-
 

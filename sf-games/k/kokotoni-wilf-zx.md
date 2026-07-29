@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2732/ZX-Spectrum/Kokotoni_Wilf)
 
-**Дата генерації:** 29.07.2026
-
 

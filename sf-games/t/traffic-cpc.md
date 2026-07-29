@@ -54,6 +54,4 @@ Traffic — це симулятор управління дорожнім рух
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Traffic.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/857) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 

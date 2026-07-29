@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3896/ZX-Spectrum/Professional_Go-Kart_Simulator)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Professional_Go-Kart_Simulator.rar)
 
-**Дата генерації:** 29.07.2026
-
 

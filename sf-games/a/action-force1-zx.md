@@ -29,8 +29,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -50,7 +49,5 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Action_Force.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/76/ZX-Spectrum/Action_Force)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Action_Force.rar)
-
-**Дата генерації:** 29.07.2026
 
 

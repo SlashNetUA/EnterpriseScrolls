@@ -50,6 +50,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1858/ZX-Spectrum/Fred)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Fred.rar)
 
-**Дата генерації:** 29.07.2026
-
 

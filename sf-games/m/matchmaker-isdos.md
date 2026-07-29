@@ -41,6 +41,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15605)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C879/Matchmaker.html)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -80,6 +80,4 @@ Reversi Dáma Awari — це збірка з трьох логічних нас�
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Reversi_Dama_Awari.htm)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Reversi_Dama_Avari.rar)
 
-**Дата генерації:** 29.07.2026
-
 

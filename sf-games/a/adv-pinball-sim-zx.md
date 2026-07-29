@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -45,7 +44,5 @@
 ## Посилання
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Advanced_Pinball_S.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9301/ZX-Spectrum/Advanced_Pinball_Simulator)
-
-**Дата генерації:** 29.07.2026
 
 

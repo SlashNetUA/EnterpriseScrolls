@@ -55,6 +55,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1867/ZX-Spectrum/Freedom_Fighter)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Freedom_Fighter.rar)
 
-**Дата генерації:** 29.07.2026
-
 

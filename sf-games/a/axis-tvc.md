@@ -28,8 +28,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна схвалена конверсія з платформи Videoton TVC.
+﻿> ℹ Сучасна схвалена конверсія з платформи Videoton TVC.
 
 
 ## Основна інформація
@@ -51,8 +50,6 @@
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/tvc-rl/axis/)
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Axis.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1150) *(Telegram-канал Vibrant Waves)*
-
-**Дата генерації:** 29.07.2026
 
 
 ## Відео

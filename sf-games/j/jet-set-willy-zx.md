@@ -33,6 +33,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2589/ZX-Spectrum/Jet_Set_Willy)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Jet_Set_Willy.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4179/ZX-Spectrum/RoboCop)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Robocop.rar)
 
-**Дата генерації:** 29.07.2026
-
 

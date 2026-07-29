@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Сучасна неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -48,8 +47,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/26211/ZX-Spectrum/Alter_Ego)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Alter_Ego.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/66) *(Telegram-канал Vibrant Waves)*
-
-**Дата генерації:** 29.07.2026
 
 
 ## Відео

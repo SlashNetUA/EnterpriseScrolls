@@ -26,6 +26,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2315/ZX-Spectrum/High_Noon)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -42,6 +42,4 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15536)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C1370/Life+of+a+Lone+Electron%2C+The.html)
 
-**Дата генерації:** 29.07.2026
-
 

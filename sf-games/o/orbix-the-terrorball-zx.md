@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3541/ZX-Spectrum/Orbix_the_Terrorball)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Orbix_The_Terrorball.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4445/ZX-Spectrum/Shao-Lins_Road)
 
-**Дата генерації:** 29.07.2026
-
 

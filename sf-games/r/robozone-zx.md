@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4197/ZX-Spectrum/Robozone)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Robozone.rar)
 
-**Дата генерації:** 29.07.2026
-
 

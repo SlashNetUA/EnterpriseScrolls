@@ -48,6 +48,4 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C233/Grange+Hill.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Grange_Hill.rar)
 
-**Дата генерації:** 29.07.2026
-
 

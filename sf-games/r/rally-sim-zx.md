@@ -29,6 +29,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4007/ZX-Spectrum/Rally_Simulator)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Rally_Simulator.rar)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна неофіційна конверсія з аркадного автомата.
+﻿> ℹ Сучасна неофіційна конверсія з аркадного автомата.
 
 
 ## Основна інформація
@@ -41,8 +40,6 @@
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/konvertalas/american-poker-ii/)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/American_Poker_2.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/658?single) *(Telegram-канал Vibrant Waves)*
-
-**Дата генерації:** 29.07.2026
 
 
 ## Відео

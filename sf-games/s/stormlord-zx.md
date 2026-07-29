@@ -30,6 +30,4 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4922/ZX-Spectrum/Stormlord)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Stormlord.rar)
 
-**Дата генерації:** 29.07.2026
-
 

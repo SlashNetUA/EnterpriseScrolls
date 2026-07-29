@@ -51,6 +51,4 @@ Toyota Celica GT Rally - це автомобільні перегони, роз�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5357/ZX-Spectrum/Toyota_Celica_GT_Rally)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Toyota_Rally.rar)
 
-**Дата генерації:** 29.07.2026
-
 

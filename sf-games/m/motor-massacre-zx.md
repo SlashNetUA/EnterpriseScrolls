@@ -28,6 +28,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3290/ZX-Spectrum/Motor_Massacre)
 
-**Дата генерації:** 29.07.2026
-
 

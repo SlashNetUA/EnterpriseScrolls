@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/30370/ZX-Spectrum/Foggys_Quest_To_Narg_and_Back_Again)
 
-**Дата генерації:** 29.07.2026
-
 

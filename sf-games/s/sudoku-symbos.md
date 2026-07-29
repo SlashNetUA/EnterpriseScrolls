@@ -24,6 +24,4 @@
 - [Домашня сторінка гри](http://www.symbos.de/appinfo.htm?00055)
 - [Завантажити гру](http://www.symbos.de/download/apps/Sudoku.zip)
 
-**Дата генерації:** 29.07.2026
-
 

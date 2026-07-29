@@ -30,6 +30,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4549/ZX-Spectrum/Skool_Daze)
 
-**Дата генерації:** 29.07.2026
-
 

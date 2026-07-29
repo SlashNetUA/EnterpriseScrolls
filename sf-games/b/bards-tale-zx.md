@@ -31,6 +31,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/418/ZX-Spectrum/The_Bards_Tale)
 
-**Дата генерації:** 29.07.2026
-
 

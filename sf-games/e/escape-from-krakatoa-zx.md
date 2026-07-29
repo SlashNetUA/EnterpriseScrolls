@@ -31,6 +31,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2763/ZX-Spectrum/Krakatoa)
 
-**Дата генерації:** 29.07.2026
-
 

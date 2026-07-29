@@ -27,6 +27,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5866/ZX-Spectrum/Zombie_Zombie)
 
-**Дата генерації:** 29.07.2026
-
 

@@ -32,6 +32,4 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/762/ZX-Spectrum/Bump_Set_Spike)
 
-**Дата генерації:** 29.07.2026
-
 

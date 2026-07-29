@@ -26,8 +26,7 @@
 
 ## Опис
 
-﻿> [!NOTE]
-> ❕Сучасна неофіційна конверсія з платформи ZX Spectrum.
+﻿> ℹ Сучасна неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
@@ -43,7 +42,5 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/232/ZX-Spectrum/The_Arc_of_Yesod)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Arc_of_Yesod.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/580) *(Telegram-канал Vibrant Waves)*
-
-**Дата генерації:** 29.07.2026
 
 

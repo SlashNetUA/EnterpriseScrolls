@@ -31,6 +31,4 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Crazy_Cars2_CPC.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/175) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 29.07.2026
-
 
