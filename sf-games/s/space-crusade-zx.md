@@ -31,6 +31,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4660/ZX-Spectrum/Space_Crusade)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Space_Crusade.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

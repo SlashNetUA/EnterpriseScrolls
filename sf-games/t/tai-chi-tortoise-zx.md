@@ -48,6 +48,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5112/ZX-Spectrum/Tai_Chi_Tortoise)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Tai-Chi_Tortoise.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

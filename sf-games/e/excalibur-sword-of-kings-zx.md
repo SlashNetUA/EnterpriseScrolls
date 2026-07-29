@@ -31,7 +31,7 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,191/Excalibur:+Sword+of+Kings.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Excalibur.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9383/ZX-Spectrum/Nightshade)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/NightShade.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

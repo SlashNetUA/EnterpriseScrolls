@@ -24,7 +24,7 @@
 ## Посилання
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/basic/ugribugri-sundibundi/msg90612/#msg90612)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

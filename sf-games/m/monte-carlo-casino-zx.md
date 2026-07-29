@@ -29,6 +29,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9379/ZX-Spectrum/Monte_Carlo_Casino)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Monte_Carlo_Casino.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

@@ -47,6 +47,6 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C9360/%C3%AEle+Tristam%2C+L.html)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C8840/Tristam+Island.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

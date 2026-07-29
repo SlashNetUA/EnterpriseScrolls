@@ -46,6 +46,6 @@
 ## Посилання
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C4280/Gourmet.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

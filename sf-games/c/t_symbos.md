@@ -1,6 +1,6 @@
 # C
 
-- [Checkers](c/checkers-symbos.md)
-- [ChessSym](c/chesssym-symbos.md)
-- [Chuckie Egg](c/chuckie-egg-symbos.md)
-- [Columns](c/columns-symbos.md)
+- 🅂 [Checkers](c/checkers-symbos.md)
+- 🅂 [ChessSym](c/chesssym-symbos.md)
+- 🅂 [Chuckie Egg](c/chuckie-egg-symbos.md)
+- 🅂 [Columns](c/columns-symbos.md)

@@ -12,30 +12,30 @@
 
 # 0
 
-- [2048](0/2048-symbos.md)
+- 🅂 [2048](0/2048-symbos.md)
 
 # C
 
-- [Checkers](c/checkers-symbos.md)
-- [ChessSym](c/chesssym-symbos.md)
-- [Chuckie Egg](c/chuckie-egg-symbos.md)
-- [Columns](c/columns-symbos.md)
+- 🅂 [Checkers](c/checkers-symbos.md)
+- 🅂 [ChessSym](c/chesssym-symbos.md)
+- 🅂 [Chuckie Egg](c/chuckie-egg-symbos.md)
+- 🅂 [Columns](c/columns-symbos.md)
 
 # G
 
-- [Game of Life](g/game-of-life-symbos.md)
+- 🅂 [Game of Life](g/game-of-life-symbos.md)
 
 # L
 
-- [﻿LongCat](l/longcat-symbos.md)
+- 🅂 [﻿LongCat](l/longcat-symbos.md)
 
 # R
 
-- [Reversi](r/reversi-symbos.md)
+- 🅂 [Reversi](r/reversi-symbos.md)
 
 # S
 
-- [Slouching Towards Bedlam](s/slouching-towards-bedlam-zcode.md)
-- [Snakes & Ladders](s/snakes-and-ladders-symbos.md)
-- [SymFoot](s/symfoot-symbos.md)
+- 🅩 [Slouching Towards Bedlam](s/slouching-towards-bedlam-zcode.md)
+- 🅂 [Snakes & Ladders](s/snakes-and-ladders-symbos.md)
+- 🅂 [SymFoot](s/symfoot-symbos.md)
 

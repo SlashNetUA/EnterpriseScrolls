@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2475/ZX-Spectrum/Indiana_Jones_and_the_Temple_of_Doom)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Indiana_Jones_and_the_Temple_of_Doom.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

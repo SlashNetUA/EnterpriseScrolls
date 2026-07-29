@@ -40,6 +40,6 @@
 ## Посилання
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id,4750/Island,+The.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

@@ -24,6 +24,12 @@
 <img src="screens/scrn_alt-world-games-cpc_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Угорський реліз гри.
+
+
 ## Основна інформація
 ### Геймплей
 - **Додаткові теги:** 16-color mode
@@ -33,6 +39,6 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=263)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Alternative_World_Games.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

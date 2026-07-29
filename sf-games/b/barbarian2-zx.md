@@ -55,6 +55,6 @@ Barbarian: The Dungeon of Drax — це екшн-гра, випущена в 198
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/409/ZX-Spectrum/Barbarian_II_The_Dungeon_of_Drax)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Barbarian_2.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

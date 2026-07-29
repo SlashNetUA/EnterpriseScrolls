@@ -27,6 +27,12 @@
 <img src="screens/scrn_abadia-del-crimen-cpc_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Сучасна неофіційна конверсія з платформи ZX Spectrum.
+
+
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
@@ -47,6 +53,6 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Abadia_del_Crimen.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1058) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

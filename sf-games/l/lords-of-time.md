@@ -33,6 +33,6 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,331/Lords+of+Time.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Lord_of_Time.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

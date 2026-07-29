@@ -33,6 +33,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/10521/ZX-Spectrum/Grand_Prix_Tennis)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Lawn_Tennis.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

@@ -44,6 +44,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1979/ZX-Spectrum/Garfield-Winters_Tail)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Garfield2.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

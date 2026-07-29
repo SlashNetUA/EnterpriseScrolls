@@ -29,7 +29,7 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4770/ZX-Spectrum/Splitting_Images)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Splitting_Images.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

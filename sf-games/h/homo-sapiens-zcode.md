@@ -51,6 +51,6 @@
 - [Домашня сторінка гри](https://bdb-project.itch.io/homo-sapiens)
 - [Інформація про гру (SolutionArchive.com)](https://www.solutionarchive.com/game/id%2C10958/Homo+Sapiens.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

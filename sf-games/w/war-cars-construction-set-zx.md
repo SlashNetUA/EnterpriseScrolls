@@ -48,6 +48,6 @@ War Cars Construction Set — це гоночна гра, в якій ви зм�
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5624/ZX-Spectrum/War_Cars_Construction_Set)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

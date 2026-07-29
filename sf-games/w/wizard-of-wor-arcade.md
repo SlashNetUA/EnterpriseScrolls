@@ -30,7 +30,7 @@
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/konvertalas/wow/)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Wizard_of_Wor_Arcade.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

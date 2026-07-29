@@ -24,7 +24,7 @@
 ## Посилання
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/basic-programok-atirasa/manhole-tvc/)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

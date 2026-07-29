@@ -44,6 +44,6 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&onglet=dumps&num=17750)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C8207/Alien+Research+Centre+2.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

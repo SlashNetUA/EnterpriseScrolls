@@ -51,6 +51,6 @@ Uwol 2: Quest for Money — це продовження гри Uwol: Quest for M
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/UWOL2-Quest_for_Money.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/871) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

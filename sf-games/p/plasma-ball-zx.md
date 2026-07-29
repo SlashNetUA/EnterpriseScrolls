@@ -29,6 +29,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3757/ZX-Spectrum/Plasma_Ball)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Plasma_Ball.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

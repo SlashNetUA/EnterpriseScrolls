@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4271/ZX-Spectrum/Run_the_Gauntlet)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Run_the_Gauntlet.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

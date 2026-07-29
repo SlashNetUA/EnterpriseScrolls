@@ -31,6 +31,6 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4903/ZX-Spectrum/Stir_Crazy_Featuring_Bobo)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

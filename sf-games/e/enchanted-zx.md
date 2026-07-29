@@ -69,6 +69,6 @@ Enchanted — це унікальна гра, розроблена компан�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1622/ZX-Spectrum/Enchanted)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Enchanted.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

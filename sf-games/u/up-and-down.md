@@ -49,6 +49,6 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1837)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Up_and_Down.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

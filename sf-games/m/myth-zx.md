@@ -29,6 +29,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3354/ZX-Spectrum/Myth_History_in_the_Making)
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Myth.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

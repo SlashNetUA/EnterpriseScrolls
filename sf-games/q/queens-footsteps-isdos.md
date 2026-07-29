@@ -47,6 +47,6 @@
 - [Домашня сторінка гри](https://darwinne.itch.io/the-queens-footsteps)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C8255/Queen's+Footsteps%2C+The.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

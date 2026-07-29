@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3472/ZX-Spectrum/Nuclear_Countdown)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Nuclear_Countdown.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

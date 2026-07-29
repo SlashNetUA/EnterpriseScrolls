@@ -24,6 +24,12 @@
 <img src="screens/scrn_ascend_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Офіційна мультиплатформенна гра.
+
+
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Multiplatform
@@ -45,7 +51,7 @@
 - [Завантажити гру](http://inufuto.web.fc2.com/8bit/ep64/ascend_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/785?single) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

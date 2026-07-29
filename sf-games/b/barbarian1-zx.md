@@ -53,6 +53,6 @@ Barbarian: The Ultimate Warrior — це екшн-гра, випущена в 19
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/407/ZX-Spectrum/Barbarian_The_Ultimate_Warrior)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Barbarian.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

@@ -28,6 +28,6 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1831/ZX-Spectrum/Football_Manager_World_Cup_Edition)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1259/ZX-Spectrum/Dark_Sceptre)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dark_Sceptre.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

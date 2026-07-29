@@ -24,6 +24,12 @@
 <img src="screens/scrn_arcticfox-zx_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+
+
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
@@ -35,6 +41,6 @@
 - [Інформація про оригінальну версію](https://worldofspectrum.org//pub/sinclair/games-info/a/Arcticfox.txt)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/245/ZX-Spectrum/Arcticfox)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

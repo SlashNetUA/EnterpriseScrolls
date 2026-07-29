@@ -24,6 +24,12 @@
 <img src="screens/scrn_19-part1-boot-camp-zx_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+
+
 ## Основна інформація
 - **Мови:** Англійська, Угорська
 - **Оригінальна платформа:** ZX Spectrum
@@ -42,6 +48,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/16/ZX-Spectrum/19_Part_1_Boot_Camp)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/19_Part1.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

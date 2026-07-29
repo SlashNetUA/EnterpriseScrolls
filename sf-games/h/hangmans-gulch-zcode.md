@@ -42,6 +42,6 @@
 - [Домашня сторінка гри](https://drdooriddle.itch.io/hangmans-gulch)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10674/Hangman%27s+Gulch.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

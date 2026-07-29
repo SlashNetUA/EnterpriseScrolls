@@ -10,11 +10,11 @@
 
 
 
-- [X-Out](x-out-zx.md)
-- [﻿X-Bázis](xbazis-bas.md)
-- [Xeno](xeno-zx.md)
-- [Xenophobe](xenophobe-zx.md)
-- [Xevious](xevious-zx.md)
-- [XORgame](xorgame.md)
-- [XORgame 2](xorgame2-bas.md)
-- [Xybots](xybots-zx.md)
+- △ [X-Out](x-out-zx.md)
+- 𝔹 [﻿X-Bázis](xbazis-bas.md)
+- △ [Xeno](xeno-zx.md)
+- △ [Xenophobe](xenophobe-zx.md)
+- △ [Xevious](xevious-zx.md)
+- △ [XORgame](xorgame.md)
+- 𝔹 [XORgame 2](xorgame2-bas.md)
+- △ [Xybots](xybots-zx.md)

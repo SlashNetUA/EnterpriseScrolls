@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9407/ZX-Spectrum/Rock_Star_Ate_My_Hamster)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Rockstar_Manager.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

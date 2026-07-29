@@ -41,6 +41,6 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C616/Zork+II%3A+The+Wizard+of+Frobozz.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Zork_2.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

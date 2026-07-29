@@ -50,6 +50,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9340/ZX-Spectrum/Dizzy_Down_the_Rapids)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dizzy_Down_the_Rapids.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

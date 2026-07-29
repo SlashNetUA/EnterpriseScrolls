@@ -23,6 +23,12 @@
 <img src="screens/scrn_10th-frame-zx_03.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+
+
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
@@ -42,6 +48,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/11/ZX-Spectrum/10th_Frame)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/10th_Frame.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

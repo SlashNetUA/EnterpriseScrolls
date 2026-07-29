@@ -23,6 +23,12 @@
 <img src="screens/scrn_agent999-bas_03.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Сучасна конверсія.
+
+
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Commodore 64
@@ -42,6 +48,6 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10325/Agent+999.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Basic_Program_Pack.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

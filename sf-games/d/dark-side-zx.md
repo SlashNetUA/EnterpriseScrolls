@@ -29,6 +29,6 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Dark_Side.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1261/ZX-Spectrum/Dark_Side)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

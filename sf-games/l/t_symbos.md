@@ -1,3 +1,3 @@
 # L
 
-- [﻿LongCat](l/longcat-symbos.md)
+- 🅂 [﻿LongCat](l/longcat-symbos.md)

@@ -29,6 +29,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4791/ZX-Spectrum/Spy_vs_Spy_III_Arctic_Antics)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Spy_vs_Spy_3.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

@@ -1,3 +1,3 @@
 # Y
 
-- [Yewdow](y/yewdow.md)
+- △ [Yewdow](y/yewdow.md)

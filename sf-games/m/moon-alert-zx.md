@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3261/ZX-Spectrum/Moon_Alert)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Moon_Alert.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

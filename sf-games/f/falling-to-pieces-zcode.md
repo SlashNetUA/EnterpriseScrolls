@@ -42,6 +42,6 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10304/Falling+to+Pieces.html)
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Z-machine_Adventures.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

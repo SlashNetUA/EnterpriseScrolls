@@ -29,6 +29,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3128/ZX-Spectrum/Mercenary_The_Second_City)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Mercenary2.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

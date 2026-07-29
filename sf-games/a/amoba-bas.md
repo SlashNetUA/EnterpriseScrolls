@@ -26,6 +26,12 @@
 <img src="screens/scrn_amoba-bas_03.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Модифікована версія гри **Five in a Row**.
+
+
 ## Основна інформація
 - **Мови:** Угорська
 - **Оригінальна платформа:** Enterprise
@@ -38,6 +44,6 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Basic_Program_Pack.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/339) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

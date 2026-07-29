@@ -57,6 +57,6 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15761)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C1073/Trouble+With+Trolls.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

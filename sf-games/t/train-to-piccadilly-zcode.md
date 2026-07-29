@@ -42,6 +42,6 @@
 - [Домашня сторінка гри](https://jpking.itch.io/a-train-to-piccadilly)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10685/Train+to+Piccadilly%2C+A.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

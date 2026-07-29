@@ -28,6 +28,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2562/ZX-Spectrum/Jack_and_the_Beanstalk)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Jack_and_the_Beanstalk.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

@@ -44,6 +44,6 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=15757)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C755/Fistful+of+Necronomicons%2C+A.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

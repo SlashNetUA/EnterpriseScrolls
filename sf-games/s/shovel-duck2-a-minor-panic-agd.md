@@ -25,6 +25,6 @@
 - [Домашня сторінка гри](https://ktbproductions.itch.io/shovel-duck-ii)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/43307/ZX-Spectrum/Shovel_Duck_II_A_Minor_Panic)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

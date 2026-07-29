@@ -24,6 +24,12 @@
 <img src="screens/scrn_arkos-zx_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+
+
 ## Основна інформація
 - **Мови:** Іспанська
 - **Оригінальна платформа:** ZX Spectrum
@@ -36,6 +42,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/263/ZX-Spectrum/Arkos)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Arkos_part2-3.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

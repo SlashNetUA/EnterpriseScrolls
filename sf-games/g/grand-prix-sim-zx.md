@@ -63,6 +63,6 @@ Grand Prix Simulator - це автомобільна гонка, де гравц
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9353/ZX-Spectrum/Grand_Prix_Simulator)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Grand_Prix_Simulator.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

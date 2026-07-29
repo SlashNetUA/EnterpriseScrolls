@@ -26,6 +26,12 @@
 <img src="screens/scrn_axis-tvc_06.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Сучасна схвалена конверсія з платформи Videoton TVC.
+
+
 ## Основна інформація
 - **Мови:** Угорська
 - **Оригінальна платформа:** Videoton TVC
@@ -46,7 +52,7 @@
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Axis.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1150) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

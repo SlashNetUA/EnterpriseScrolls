@@ -40,6 +40,6 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=16556)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C8138/Bulbo+and+the+Blue+Dragon.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

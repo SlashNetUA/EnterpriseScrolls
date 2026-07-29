@@ -24,6 +24,12 @@
 <img src="screens/scrn_alien8-cpc_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Сучасна неофіційна конверсія з платформи Amstrad CPC.
+
+
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
@@ -39,7 +45,7 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Alien_8_CPC.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/62) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

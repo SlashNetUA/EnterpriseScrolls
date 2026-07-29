@@ -28,6 +28,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4861/ZX-Spectrum/Starfox)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/StarFox.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

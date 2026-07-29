@@ -26,6 +26,6 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5034/ZX-Spectrum/Super_Scramble_Simulator)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

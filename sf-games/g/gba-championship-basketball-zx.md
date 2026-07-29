@@ -48,6 +48,6 @@ GBA Championship Basketball - це спортивна гра, в якій ви �
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1998/ZX-Spectrum/GBA_Championship_Basketball)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

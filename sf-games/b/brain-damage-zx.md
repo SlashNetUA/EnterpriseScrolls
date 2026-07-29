@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/673/ZX-Spectrum/Brain_Damage)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Brain_Damage.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

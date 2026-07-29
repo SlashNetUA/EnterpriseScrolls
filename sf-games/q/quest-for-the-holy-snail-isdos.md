@@ -43,6 +43,6 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id%2C1155/Quest+For+the+Holy+Snail%2C+The.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Quest_for_the_Holy_Snail.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

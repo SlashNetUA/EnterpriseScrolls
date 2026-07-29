@@ -10,8 +10,8 @@
 
 
 
-- [Yanga+](yanga-plus-zx.md)
-- [Yewdow](yewdow.md)
-- [Yogi Bear](yogi-bear-zx.md)
-- [Yoomp!](yoomp-atari.md)
-- [You are Standing](you-are-standing-zcode.md)
+- △ [Yanga+](yanga-plus-zx.md)
+- △ [Yewdow](yewdow.md)
+- △ [Yogi Bear](yogi-bear-zx.md)
+- △ [Yoomp!](yoomp-atari.md)
+- 🅩 [You are Standing](you-are-standing-zcode.md)

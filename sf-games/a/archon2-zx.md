@@ -24,6 +24,12 @@
 <img src="screens/scrn_archon2-zx_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+
+
 ## Основна інформація
 - **Оригінальна платформа:** ZX Spectrum
 ### Геймплей
@@ -35,6 +41,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/244/ZX-Spectrum/Archon_II_Adept)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Archon2.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

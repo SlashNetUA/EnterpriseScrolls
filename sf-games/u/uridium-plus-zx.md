@@ -49,6 +49,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5528/ZX-Spectrum/Uridium_Plus)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Uridium_Plus.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

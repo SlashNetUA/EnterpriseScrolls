@@ -24,6 +24,6 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C1509/Brekk%21+-+Avagy+a+B%C3%A9k%C3%A1v%C3%A1+Var%C3%A1zsolt+Kir%C3%A1lyl%C3%A1ny.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Basic_Program_Pack.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

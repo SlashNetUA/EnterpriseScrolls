@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3668/ZX-Spectrum/Peter_Pack_Rat)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Peter_Pack_Rat.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

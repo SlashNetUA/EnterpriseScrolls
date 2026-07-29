@@ -42,7 +42,7 @@
 - [Домашня сторінка гри](https://adamatomic.itch.io/skeleton-gelatin)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/958) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

@@ -31,6 +31,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5838/ZX-Spectrum/Z)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Z.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

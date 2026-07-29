@@ -47,6 +47,6 @@ Gauntlet III — це гра в жанрі екшен, що поєднує в с
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1993/ZX-Spectrum/Gauntlet_III_The_Final_Quest)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Gauntlet3.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

@@ -39,6 +39,6 @@
 ## Посилання
 - [Домашня сторінка гри](https://royerson.itch.io/construction-cancellation-order-if)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

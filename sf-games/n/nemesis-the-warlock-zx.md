@@ -29,6 +29,6 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3387/ZX-Spectrum/Nemesis_the_Warlock)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

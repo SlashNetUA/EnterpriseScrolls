@@ -34,6 +34,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1712/ZX-Spectrum/Fairlight)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Fairlight.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

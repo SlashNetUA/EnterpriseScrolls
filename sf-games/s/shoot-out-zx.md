@@ -33,6 +33,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4466/ZX-Spectrum/Shoot-Out)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/ShootOut.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

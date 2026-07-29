@@ -49,6 +49,6 @@ UN. Squadron - це аркадна гра в жанрі shoot 'em up, випущ
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9445/ZX-Spectrum/UN_Squadron)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/UN_Squadron.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

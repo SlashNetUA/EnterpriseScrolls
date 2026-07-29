@@ -28,7 +28,7 @@
 - [Завантажити гру](http://doberdobrothers.hu/ep128_files/fitter_ep128.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/761) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

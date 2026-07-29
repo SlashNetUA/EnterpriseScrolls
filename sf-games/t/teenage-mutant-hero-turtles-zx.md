@@ -50,7 +50,7 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5168/ZX-Spectrum/Teenage_Mutant_Hero_Turtles)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Teenage_Mutant_Hero_Turtles.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

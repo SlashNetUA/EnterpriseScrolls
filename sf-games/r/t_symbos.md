@@ -1,3 +1,3 @@
 # R
 
-- [Reversi](r/reversi-symbos.md)
+- 🅂 [Reversi](r/reversi-symbos.md)

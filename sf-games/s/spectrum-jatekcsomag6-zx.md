@@ -40,6 +40,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/35906/ZX-Spectrum/TORONY)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5652/ZX-Spectrum/Weedkiller)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

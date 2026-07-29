@@ -35,7 +35,7 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=138)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/North&South.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

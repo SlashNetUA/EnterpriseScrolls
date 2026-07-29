@@ -32,6 +32,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1456/ZX-Spectrum/Double_Dragon)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Double_Dragon.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

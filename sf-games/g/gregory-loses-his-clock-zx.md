@@ -45,6 +45,6 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2137/ZX-Spectrum/Gregory_Loses_His_Clock)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

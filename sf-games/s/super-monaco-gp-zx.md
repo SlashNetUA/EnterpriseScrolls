@@ -32,6 +32,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5026/ZX-Spectrum/Super_Monaco_GP)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Super_Monaco_GP.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

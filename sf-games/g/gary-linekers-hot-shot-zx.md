@@ -47,6 +47,6 @@ Gary Lineker's Hot-Shot! — це футбольна гра, в якій дві 
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1982/ZX-Spectrum/Gary_Linekers_Hot-Shot)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

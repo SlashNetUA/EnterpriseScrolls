@@ -47,6 +47,6 @@ Total Eclipse: Special Edition — це збірка з двох ігор: Total
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=2269)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Total_Eclipse2_CPC.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

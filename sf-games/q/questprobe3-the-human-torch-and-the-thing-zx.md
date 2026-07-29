@@ -33,6 +33,6 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id%2C198/Questprobe+Featuring+the+Human+Torch+and+the+Thing.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Human_Torch_and_the_Thing.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

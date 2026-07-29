@@ -30,7 +30,7 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1637)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Pinball_Power_CPC.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

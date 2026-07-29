@@ -49,7 +49,7 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Galaxians.htm)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Galaxians.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

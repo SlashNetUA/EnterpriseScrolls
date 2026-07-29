@@ -24,6 +24,12 @@
 <img src="screens/scrn_astronaut-labyrinth-agd_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Тестова збірка неофіційної конверсії з платформи ZX Spectrum.
+
+
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
@@ -35,6 +41,6 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/34450/ZX-Spectrum/Astronaut_Labyrinth)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

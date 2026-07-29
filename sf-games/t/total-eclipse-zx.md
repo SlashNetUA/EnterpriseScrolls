@@ -51,6 +51,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5340/ZX-Spectrum/Total_Eclipse)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Total_Eclipse.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

@@ -56,6 +56,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5342/ZX-Spectrum/Total_Eclipse_2_The_Sphinx_Jinx)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Total_Eclipse2.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

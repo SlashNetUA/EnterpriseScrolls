@@ -42,6 +42,6 @@
 - [Домашня сторінка гри](https://drdooriddle.itch.io/escape-from-the-trolls-cave)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10672/Escape+from+the+Troll%27s+Cave.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

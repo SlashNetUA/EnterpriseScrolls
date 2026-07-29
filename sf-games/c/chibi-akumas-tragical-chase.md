@@ -45,6 +45,6 @@
 - [Домашня сторінка гри](https://www.chibiakumas.com/games/)
 - [Завантажити гру](https://www.chibiakumas.com/download/Tragical.7z)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

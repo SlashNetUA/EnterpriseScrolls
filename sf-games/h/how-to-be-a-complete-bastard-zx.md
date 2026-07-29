@@ -32,6 +32,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2366/ZX-Spectrum/How_to_be_a_Complete_Bastard)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/How_to_be_Complete_Bastard.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

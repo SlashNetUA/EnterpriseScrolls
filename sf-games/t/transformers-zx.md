@@ -57,6 +57,6 @@ Transformers - це гра, заснована на популярній фра�
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5380/ZX-Spectrum/The_Transformers)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/TransFormers.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

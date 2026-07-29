@@ -27,6 +27,6 @@
 - [Домашня сторінка гри](http://www.symbos.org/appinfo.htm?00043)
 - [Завантажити гру](http://www.symbos.org/download/apps/Doom.zip)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

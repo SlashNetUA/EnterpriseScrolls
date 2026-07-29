@@ -34,6 +34,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/787/ZX-Spectrum/Caesar_the_Cat)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Caesar_a_Cica.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

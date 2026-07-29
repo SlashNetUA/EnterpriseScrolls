@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4631/ZX-Spectrum/Soldier_of_Fortune)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Soldier_of_Fortune.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

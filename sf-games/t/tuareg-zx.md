@@ -55,6 +55,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5438/ZX-Spectrum/Tuareg)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Tuareg.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

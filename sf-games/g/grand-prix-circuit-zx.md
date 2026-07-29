@@ -47,6 +47,6 @@ Grand Prix Circuit — це симулятор гонок Формули-1, ви
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2116/ZX-Spectrum/Grand_Prix_Circuit)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Grand_Prix_Circuit.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

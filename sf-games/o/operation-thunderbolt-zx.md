@@ -28,6 +28,6 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3532/ZX-Spectrum/Operation_Thunderbolt)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

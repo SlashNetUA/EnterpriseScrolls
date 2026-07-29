@@ -45,6 +45,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2038/ZX-Spectrum/GI_Hero)
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/GI_Hero.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

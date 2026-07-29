@@ -28,6 +28,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4165/ZX-Spectrum/Road_Runner_and_Wile_E_Coyote)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Road_Runner.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

@@ -31,6 +31,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9397/ZX-Spectrum/Pro_Skateboard_Simulator)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Professional_Skateboard_Simulator.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

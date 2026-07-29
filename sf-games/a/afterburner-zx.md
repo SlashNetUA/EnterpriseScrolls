@@ -27,6 +27,13 @@
 <img src="screens/scrn_afterburner-zx_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+> ⚠ Може містити критичні помилки.
+
+
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
@@ -42,6 +49,6 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Games/Afterburner.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/103/ZX-Spectrum/Afterburner)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

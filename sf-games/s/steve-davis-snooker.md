@@ -34,6 +34,6 @@
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Snooker.htm)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Snooker.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1538/ZX-Spectrum/Dun_Darach)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dun_Darach.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

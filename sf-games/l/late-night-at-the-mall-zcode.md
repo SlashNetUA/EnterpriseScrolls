@@ -40,6 +40,6 @@
 - [Домашня сторінка гри](https://johanberntsson.itch.io/late-night-at-the-mall)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10682/Late+Night+at+the+Mall.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

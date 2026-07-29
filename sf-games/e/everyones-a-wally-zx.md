@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1677/ZX-Spectrum/Everyones_a_Wally)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Everyones_Wally.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

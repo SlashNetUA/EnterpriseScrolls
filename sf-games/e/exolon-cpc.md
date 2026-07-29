@@ -32,7 +32,7 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Exolon_cpc.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/310) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

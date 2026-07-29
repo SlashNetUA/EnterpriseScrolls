@@ -62,7 +62,7 @@ Guntus — це класичний клон Galaxians, який імітує с�
 - [Завантажити гру](http://inufuto.web.fc2.com/8bit/ep64/guntus_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/809?single) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

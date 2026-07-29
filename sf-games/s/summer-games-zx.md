@@ -29,6 +29,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4990/ZX-Spectrum/Summer_Games)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Summer_Games.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

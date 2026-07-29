@@ -42,6 +42,6 @@
 - [Домашня сторінка гри](https://warrigal.itch.io/acid-rain)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C9208/Acid+Rain.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

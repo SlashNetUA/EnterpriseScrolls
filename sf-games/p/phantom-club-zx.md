@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3681/ZX-Spectrum/Phantom_Club)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Phantom_Club.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

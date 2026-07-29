@@ -28,6 +28,6 @@
 - [Домашня сторінка гри](http://www.symbos.de/appinfo.htm?00010)
 - [Завантажити гру](http://www.symbos.de/download/apps/Pac-Man.zip)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

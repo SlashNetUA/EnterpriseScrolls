@@ -24,6 +24,12 @@
 <img src="screens/scrn_airwolf2-zx_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Стара неофіційна конверсія з платформи ZX Spectrum.
+
+
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
@@ -36,6 +42,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/128/ZX-Spectrum/Airwolf_II)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Airwolf2.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

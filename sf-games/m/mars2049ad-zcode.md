@@ -42,6 +42,6 @@
 - [Домашня сторінка гри](https://fredrikr.itch.io/mars2049ad)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10683/Mars%2C+2049+AD.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

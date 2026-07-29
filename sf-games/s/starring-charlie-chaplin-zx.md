@@ -28,6 +28,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4875/ZX-Spectrum/Starring_Charlie_Chaplin)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Starring_Charlie_Chaplin.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

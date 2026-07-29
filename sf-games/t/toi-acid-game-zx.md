@@ -48,6 +48,6 @@ Toi Acid Game починається, коли головний герой, То
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5310/ZX-Spectrum/Toi_Acid_Game)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Toi_Acid_Game.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

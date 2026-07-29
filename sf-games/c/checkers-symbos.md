@@ -41,6 +41,6 @@
 - [Домашня сторінка гри](https://symbos.org/appinfo.htm?00085)
 - [Завантажити гру](https://symbos.org/download/apps/Checkers.zip)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

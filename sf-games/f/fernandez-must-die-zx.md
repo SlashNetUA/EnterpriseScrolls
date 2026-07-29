@@ -33,6 +33,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1739/ZX-Spectrum/Fernandez_Must_Die)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Fernandez.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

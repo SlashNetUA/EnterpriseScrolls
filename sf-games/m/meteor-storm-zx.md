@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3148/ZX-Spectrum/Meteor_Storm)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Meteor_Strom.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

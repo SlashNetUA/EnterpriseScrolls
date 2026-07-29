@@ -29,6 +29,6 @@
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,160/Dungeon+Adventure.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dungeon_Adventure.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

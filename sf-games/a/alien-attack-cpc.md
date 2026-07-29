@@ -24,6 +24,12 @@
 <img src="screens/scrn_alien-attack-cpc_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Сучасна неофіційна конверсія з платформи Amstrad CPC.
+
+
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
@@ -40,7 +46,7 @@
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=2640)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Alien_Attack.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

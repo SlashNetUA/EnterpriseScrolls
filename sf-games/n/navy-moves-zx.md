@@ -31,6 +31,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3369/ZX-Spectrum/Navy_Moves)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Navy_Moves.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

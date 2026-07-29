@@ -27,6 +27,12 @@
 <img src="screens/scrn_academy-tau-ceti2-zx_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Неофіційна конверсія з платформи ZX Spectrum.
+
+
 ## Основна інформація
 - **Мови:** Англійська, Угорська
 - **Оригінальна платформа:** ZX Spectrum
@@ -46,6 +52,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5156/ZX-Spectrum/Academy)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Academy.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

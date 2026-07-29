@@ -32,6 +32,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/796/ZX-Spectrum/Cannibals_from_Outer_Space)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Cannibals.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

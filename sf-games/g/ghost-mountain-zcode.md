@@ -41,6 +41,6 @@
 - [Домашня сторінка гри](https://shinmc.itch.io/ghost-mountain)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C9336/Ghost+Mountain.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

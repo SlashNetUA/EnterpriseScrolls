@@ -24,6 +24,12 @@
 <img src="screens/scrn_4k-race-refueled-plus-tmx_04.png" width="24%">
 
 
+## Опис
+
+﻿> [!NOTE]
+> ❕Сучасна неофіційна конверсія з платформи ZX Spectrum.
+
+
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Timex TS2068
@@ -43,7 +49,7 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4000136/Timex/4K_Race_Refueled)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/4K_Race_Refueled_Plus.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

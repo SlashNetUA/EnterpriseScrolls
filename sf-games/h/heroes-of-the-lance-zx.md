@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2306/ZX-Spectrum/Heroes_of_the_Lance)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Heroes_of_the_Lance.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

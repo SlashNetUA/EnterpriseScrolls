@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4828/ZX-Spectrum/Star_Raiders_II)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Star_Raiders_II.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

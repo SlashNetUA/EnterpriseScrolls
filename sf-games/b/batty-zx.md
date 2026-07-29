@@ -76,6 +76,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/472/ZX-Spectrum/Batty)
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Batty.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

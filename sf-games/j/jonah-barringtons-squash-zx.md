@@ -28,6 +28,6 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2641/ZX-Spectrum/Jonah_Barringtons_Squash)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

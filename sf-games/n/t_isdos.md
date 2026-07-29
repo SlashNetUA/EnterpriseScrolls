@@ -1,3 +1,3 @@
 # N
 
-- [Nemesis](n/nemesis-isdos.md)
+- 🅸 [Nemesis](n/nemesis-isdos.md)

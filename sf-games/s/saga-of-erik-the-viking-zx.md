@@ -30,6 +30,6 @@
 ## Посилання
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/6918/ZX-Spectrum/The_Saga_of_Erik_the_Viking)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

@@ -35,6 +35,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2344/ZX-Spectrum/Hong_Kong_Phooey)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Hong_Kong_Phooey.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

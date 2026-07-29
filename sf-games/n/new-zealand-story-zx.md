@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3399/ZX-Spectrum/The_New_Zealand_Story)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/New_Zealand_Story.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

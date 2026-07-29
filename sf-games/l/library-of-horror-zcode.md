@@ -39,6 +39,6 @@
 ## Посилання
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10814/Library+of+Horror%2C+The.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

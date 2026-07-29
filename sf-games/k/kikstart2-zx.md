@@ -33,7 +33,7 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2694/ZX-Spectrum/Kikstart_2)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Kikstart2.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

@@ -29,6 +29,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/838/ZX-Spectrum/Castle_Master_II_The_Crypt)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Castle_Master_2.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

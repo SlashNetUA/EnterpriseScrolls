@@ -29,6 +29,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3144/ZX-Spectrum/Metalyx)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Metalyx.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

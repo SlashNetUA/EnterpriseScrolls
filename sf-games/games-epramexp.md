@@ -12,50 +12,50 @@
 
 # 0
 
-- [2048](0/2048-symbos.md)
+- 🅂 [2048](0/2048-symbos.md)
 
 # A
 
-- [Los Amores de Brunilda](a/amores-de-brunilda-cpc.md)
-- [Attack of the PETSCII Robots](a/attack-of-the-petscii-robots.md)
+- △ [Los Amores de Brunilda](a/amores-de-brunilda-cpc.md)
+- △ [Attack of the PETSCII Robots](a/attack-of-the-petscii-robots.md)
 
 # C
 
-- [Castlevania: Spectral Interlude](c/castlevania-spectral-interlude-zx.md)
-- [Checkers](c/checkers-symbos.md)
-- [ChessSym](c/chesssym-symbos.md)
-- [Chuckie Egg](c/chuckie-egg-symbos.md)
-- [Columns](c/columns-symbos.md)
-- [Cubix](c/cubix-zx.md)
+- △ [Castlevania: Spectral Interlude](c/castlevania-spectral-interlude-zx.md)
+- 🅂 [Checkers](c/checkers-symbos.md)
+- 🅂 [ChessSym](c/chesssym-symbos.md)
+- 🅂 [Chuckie Egg](c/chuckie-egg-symbos.md)
+- 🅂 [Columns](c/columns-symbos.md)
+- △ [Cubix](c/cubix-zx.md)
 
 # H
 
-- [The Hobbit](h/hobbit.md)
+- △ [The Hobbit](h/hobbit.md)
 
 # M
 
-- [MicroProse Soccer: Reloaded](m/microprose-soccer-reloaded-cpc.md)
-- [Mozaik](m/mozaik.md)
+- △ [MicroProse Soccer: Reloaded](m/microprose-soccer-reloaded-cpc.md)
+- △ [Mozaik](m/mozaik.md)
 
 # N
 
-- [The Next War](n/next-war-zxnext.md)
-- [North & South](n/north-and-south-cpc.md)
-- [Nothing](n/nothing-zx.md)
+- △ [The Next War](n/next-war-zxnext.md)
+- △ [North & South](n/north-and-south-cpc.md)
+- △ [Nothing](n/nothing-zx.md)
 
 # R
 
-- [RoboCop 3](r/robocop3-zx.md)
+- △ [RoboCop 3](r/robocop3-zx.md)
 
 # S
 
-- [Slouching Towards Bedlam](s/slouching-towards-bedlam-zcode.md)
-- [Snakes & Ladders](s/snakes-and-ladders-symbos.md)
-- [The Sword of Ianna](s/sword-of-ianna-cpc.md)
-- [SymFoot](s/symfoot-symbos.md)
+- 🅩 [Slouching Towards Bedlam](s/slouching-towards-bedlam-zcode.md)
+- 🅂 [Snakes & Ladders](s/snakes-and-ladders-symbos.md)
+- △ [The Sword of Ianna](s/sword-of-ianna-cpc.md)
+- 🅂 [SymFoot](s/symfoot-symbos.md)
 
 # W
 
-- [Where Time Stood Still](w/where-time-stood-still-zx.md)
-- [Wolfenstein 2004](w/wolfenstein2004-zx.md)
+- △ [Where Time Stood Still](w/where-time-stood-still-zx.md)
+- △ [Wolfenstein 2004](w/wolfenstein2004-zx.md)
 

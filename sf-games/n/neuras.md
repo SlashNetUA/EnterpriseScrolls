@@ -45,7 +45,7 @@
 - [Завантажити гру](http://inufuto.web.fc2.com/8bit/ep64/neuras_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/833) *(Telegram-канал Vibrant Waves)*
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
 ## Відео

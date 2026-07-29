@@ -30,6 +30,6 @@
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4969/ZX-Spectrum/Stunt_Car_Racer)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Stunt_Car_Racer.rar)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 

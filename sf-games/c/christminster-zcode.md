@@ -46,6 +46,6 @@
 ## Посилання
 - [Інформація про гру (SolutionArchive.com)](https://www.solutionarchive.com/game/id%2C7679/Christminster.html)
 
-**Дата генерації:** 28.07.2026
+**Дата генерації:** 29.07.2026
 
 
