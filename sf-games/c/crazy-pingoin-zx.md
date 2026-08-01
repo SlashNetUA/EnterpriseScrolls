@@ -14,6 +14,10 @@
 **ID:** crazy-pingoin-zx
 
 
+## Примітка
+
+aka "Pingvin"
+
 ## Скріншоти
 <img src="screens/scrn_crazy-pingoin-zx_01.png" width="24%">
 <img src="screens/scrn_crazy-pingoin-zx_02.png" width="24%">

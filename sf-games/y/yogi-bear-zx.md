@@ -14,6 +14,10 @@
 **ID:** yogi-bear-zx
 
 
+## Примітка
+
+Bad conversion by JANO
+
 ## Скріншоти
 <img src="screens/scrn_yogi-bear-zx_01.png" width="24%">
 <img src="screens/scrn_yogi-bear-zx_02.png" width="24%">

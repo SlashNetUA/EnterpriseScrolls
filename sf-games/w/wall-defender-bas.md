@@ -27,7 +27,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** EXOS 2.1
 ### Геймплей
@@ -49,3 +49,5 @@
 
 <iframe src="https://www.youtube.com/embed/NB1i_zMLrL0"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

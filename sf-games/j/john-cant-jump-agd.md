@@ -14,6 +14,10 @@
 **ID:** john-cant-jump-agd
 
 
+## Примітка
+
+Test AGD version
+
 ## Скріншоти
 <img src="screens/scrn_john-cant-jump-agd_01.png" width="24%">
 <img src="screens/scrn_john-cant-jump-agd_02.png" width="24%">

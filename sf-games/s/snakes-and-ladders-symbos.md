@@ -16,6 +16,9 @@
 
 **Жанри:** Настільна гра
 
+## Примітка
+
+SymbOS implementation of the classic board game.
 
 ## Скріншоти
 <img src="screens/scrn_snakes-and-ladders-symbos_01.png" width="24%">
@@ -26,7 +29,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EXDOS, EP128+RAM
 - **Програмні:** SymbOS 4.0
 ### Геймплей

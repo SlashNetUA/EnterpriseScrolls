@@ -16,17 +16,16 @@
 
 **Жанри:** Екшн
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.  
+⚠ В наявності лише друга та третя частини.
 
 ## Скріншоти
 <img src="screens/scrn_arkos-zx_01.png" width="24%">
 <img src="screens/scrn_arkos-zx_02.png" width="24%">
 <img src="screens/scrn_arkos-zx_03.png" width="24%">
 <img src="screens/scrn_arkos-zx_04.png" width="24%">
-
-
-## Опис
-
-﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація

@@ -14,6 +14,10 @@
 **ID:** diamond-geezer-agd
 
 
+## Примітка
+
+Test AGD version
+
 ## Скріншоти
 <img src="screens/scrn_diamond-geezer-agd_01.png" width="24%">
 <img src="screens/scrn_diamond-geezer-agd_02.png" width="24%">

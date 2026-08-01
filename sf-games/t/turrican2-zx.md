@@ -14,3 +14,8 @@
 **ID:** turrican2-zx
 
 
+## Примітка
+
+Missing unofficial conversion by Exosworm Digital Corp.
+
+

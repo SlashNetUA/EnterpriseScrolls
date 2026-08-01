@@ -16,6 +16,9 @@
 
 **Жанри:** Пригодницька, Платформер
 
+## Примітка
+
+Approved conversion from ZX Spectrum
 
 ## Скріншоти
 <img src="screens/scrn_nothing-zx_01.png" width="24%">
@@ -27,7 +30,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128, EP128+RAM
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
@@ -49,3 +52,5 @@
 
 <iframe src="https://www.youtube.com/embed/3HjqWdki63c"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

@@ -14,6 +14,10 @@
 **ID:** t-rex-game
 
 
+## Примітка
+
+Cancelled game
+
 ## Скріншоти
 <img src="screens/scrn_t-rex-game_01.png" width="24%">
 <img src="screens/scrn_t-rex-game_02.png" width="24%">
@@ -24,3 +28,5 @@
 
 <iframe src="https://www.youtube.com/embed/kfeYPXyTrTE"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

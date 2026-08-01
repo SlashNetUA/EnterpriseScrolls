@@ -17,6 +17,10 @@
 **ID:** steve-davis-snooker
 
 
+## Примітка
+
+This game requires IS-Basic to load
+
 ## Скріншоти
 <img src="screens/scrn_steve-davis-snooker_01.png" width="24%">
 <img src="screens/scrn_steve-davis-snooker_02.png" width="24%">
@@ -25,7 +29,7 @@
 
 
 ## Основна інформація
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic
 

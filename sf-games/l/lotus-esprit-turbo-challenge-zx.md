@@ -16,6 +16,9 @@
 
 **Жанри:** Перегони
 
+## Примітка
+
+Unofficial conversion
 
 ## Скріншоти
 <img src="screens/scrn_lotus-esprit-turbo-challenge-zx_01.png" width="24%">

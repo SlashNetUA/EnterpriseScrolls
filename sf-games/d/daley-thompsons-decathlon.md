@@ -14,6 +14,11 @@
 **ID:** daley-thompsons-decathlon
 
 
+## Примітка
+
+Missing! (mentioned in promo materials)
+
+
 ## Основна інформація
 - **Оригінальна платформа:** ZX Spectrum
 

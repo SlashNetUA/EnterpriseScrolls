@@ -14,10 +14,18 @@
 **ID:** blocks-isdos
 
 
+## Примітка
+
+ℹ Хоумбрю-гра.
+
 ## Скріншоти
 <img src="screens/scrn_blocks-isdos_01.png" width="24%">
 <img src="screens/scrn_blocks-isdos_02.png" width="24%">
 <img src="screens/scrn_blocks-isdos_03.png" width="24%">
 <img src="screens/scrn_blocks-isdos_04.png" width="24%">
+
+
+## Посилання
+- [Домашня сторінка гри](https://github.com/MiguelVis/blocks)
 
 

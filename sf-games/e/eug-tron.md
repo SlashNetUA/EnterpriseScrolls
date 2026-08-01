@@ -16,6 +16,9 @@
 
 **Жанри:** Екшн, Tron-подібна
 
+## Примітка
+
+Game from ENTERPRISE EUG LORCH INFO magazine
 
 ## Скріншоти
 <img src="screens/scrn_eug-tron_01.png" width="24%">

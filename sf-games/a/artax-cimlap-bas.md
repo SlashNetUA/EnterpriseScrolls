@@ -16,6 +16,10 @@
 
 **Жанри:** Пригодницька
 
+## Примітка
+
+Possibly an unfinished game prototype
+Homebrew
 
 ## Скріншоти
 <img src="screens/scrn_artax-cimlap-bas_01.png" width="24%">
@@ -27,7 +31,7 @@
 ## Основна інформація
 - **Мови:** Угорська
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Програмні:** IS-Basic
 
 

@@ -14,6 +14,10 @@
 **ID:** floodit-bas
 
 
+## Примітка
+
+﻿Game from Basic10Liner 2023 competition.
+
 ## Скріншоти
 <img src="screens/scrn_floodit-bas_01.png" width="24%">
 <img src="screens/scrn_floodit-bas_02.png" width="24%">

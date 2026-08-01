@@ -19,17 +19,15 @@
 
 **Жанри:** Екшн
 
+## Примітка
+
+ℹ Тестова збірка неофіційної конверсії з платформи ZX Spectrum.
 
 ## Скріншоти
 <img src="screens/scrn_apulija13-agd_01.png" width="24%">
 <img src="screens/scrn_apulija13-agd_02.png" width="24%">
 <img src="screens/scrn_apulija13-agd_03.png" width="24%">
 <img src="screens/scrn_apulija13-agd_04.png" width="24%">
-
-
-## Опис
-
-﻿> ℹ Тестова збірка неофіційної конверсії з платформи ZX Spectrum.
 
 
 ## Основна інформація

@@ -14,3 +14,8 @@
 **ID:** tavoli-vilag
 
 
+## Примітка
+
+Missing! (early Endi (Ork-Soft) game)
+
+

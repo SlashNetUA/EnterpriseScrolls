@@ -19,6 +19,9 @@
 
 **Жанри:** Аркада
 
+## Примітка
+
+Homebrew
 
 ## Скріншоти
 <img src="screens/scrn_90-degreeee-bas_01.png" width="24%">
@@ -29,7 +32,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Програмні:** IS-Basic
 ### Геймплей
 - **Керування:** Keyboard
@@ -44,3 +47,5 @@
 
 <iframe src="https://www.youtube.com/embed/bsGW8Gg3br0"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

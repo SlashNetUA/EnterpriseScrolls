@@ -46,7 +46,7 @@ Guntus — це класичний клон Galaxians, який імітує с�
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy
@@ -67,3 +67,5 @@ Guntus — це класичний клон Galaxians, який імітує с�
 
 <iframe src="https://www.youtube.com/embed/8V-tL1hV1pM"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

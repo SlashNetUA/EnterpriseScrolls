@@ -16,6 +16,9 @@
 
 **Жанри:** Текстова пригода
 
+## Примітка
+
+Approved adaptation of the Italian adventure Dimensione Sconosciuta
 
 ## Скріншоти
 <img src="screens/scrn_unknown-dimension-zcode_01.png" width="24%">
@@ -39,7 +42,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EXDOS
 - **Програмні:** IS-DOS
 ### Геймплей

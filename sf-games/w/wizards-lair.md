@@ -27,7 +27,7 @@
 ## Основна інформація
 - **Мови:** Англійська, Німецька, Французька
 - **Оригінальна платформа:** Amstrad CPC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Internal Joy, External Joy 1, External Joy 2
@@ -51,3 +51,5 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://tv.enterpriseforever.com/lair.mp4)
+
+

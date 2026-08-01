@@ -30,7 +30,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Videoton TVC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy
@@ -54,3 +54,5 @@
 
 <iframe src="https://www.youtube.com/embed/rhhb-hMGBnc"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

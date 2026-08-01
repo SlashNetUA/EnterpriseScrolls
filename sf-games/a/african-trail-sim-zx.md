@@ -16,17 +16,15 @@
 
 **Жанри:** Перегони
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 ## Скріншоти
 <img src="screens/scrn_african-trail-sim-zx_01.png" width="24%">
 <img src="screens/scrn_african-trail-sim-zx_02.png" width="24%">
 <img src="screens/scrn_african-trail-sim-zx_03.png" width="24%">
 <img src="screens/scrn_african-trail-sim-zx_04.png" width="24%">
-
-
-## Опис
-
-﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація

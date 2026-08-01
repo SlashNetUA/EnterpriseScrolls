@@ -14,3 +14,8 @@
 **ID:** fred2-bas
 
 
+## Примітка
+
+Missing! (early Endi (Ork-Soft) game)
+
+

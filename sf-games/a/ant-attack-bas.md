@@ -14,6 +14,10 @@
 **ID:** ant-attack-bas
 
 
+## Примітка
+
+Homebrew
+
 ## Скріншоти
 <img src="screens/scrn_ant-attack-bas_01.png" width="24%">
 <img src="screens/scrn_ant-attack-bas_02.png" width="24%">
@@ -22,7 +26,7 @@
 
 ## Основна інформація
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Програмні:** IS-Basic
 
 

@@ -16,17 +16,15 @@
 
 **Жанри:** Екшн
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 ## Скріншоти
 <img src="screens/scrn_atrog-zx_01.png" width="24%">
 <img src="screens/scrn_atrog-zx_02.png" width="24%">
 <img src="screens/scrn_atrog-zx_03.png" width="24%">
 <img src="screens/scrn_atrog-zx_04.png" width="24%">
-
-
-## Опис
-
-﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація

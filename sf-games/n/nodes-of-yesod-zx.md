@@ -23,7 +23,7 @@
 
 ## Основна інформація
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 
 
@@ -42,3 +42,5 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 - [Відео](https://tv.enterpriseforever.com/nodes_of_yesod.mp4)
 - [Відео](https://www.youtube.com/watch?v=ATkbBd-skug)
 - [Відео](https://youtu.be/1Z5h8NLroUA)
+
+

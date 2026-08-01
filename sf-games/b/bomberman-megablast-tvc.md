@@ -16,6 +16,9 @@
 
 **Жанри:** Екшн
 
+## Примітка
+
+ℹ Сучасна схвалена конверсія з платформи Videoton TVC.
 
 ## Скріншоти
 <img src="screens/scrn_bomberman-megablast-tvc_01.png" width="24%">
@@ -27,7 +30,7 @@
 ## Основна інформація
 - **Мови:** Угорська
 - **Оригінальна платформа:** Videoton TVC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2, External Joy 3, External Joy 4
@@ -49,3 +52,5 @@
 
 <iframe src="https://www.youtube.com/embed/E-Yo2tOIjUM"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

@@ -14,6 +14,10 @@
 **ID:** quahappy-agd
 
 
+## Примітка
+
+Test AGD version
+
 ## Скріншоти
 <img src="screens/scrn_quahappy-agd_01.png" width="24%">
 <img src="screens/scrn_quahappy-agd_02.png" width="24%">

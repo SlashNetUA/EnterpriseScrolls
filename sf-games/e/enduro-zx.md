@@ -16,6 +16,9 @@
 
 **Жанри:** Аркада, Перегони
 
+## Примітка
+
+Game from Spectrum Digest cartridge by Palex+
 
 ## Скріншоти
 <img src="screens/scrn_enduro-zx_01.png" width="24%">
@@ -54,7 +57,7 @@ Enduro — це захоплююча гонка, яка перевіряє ва�
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2

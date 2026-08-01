@@ -23,7 +23,7 @@
 
 ## Основна інформація
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128, EP128+RAM
 
 
@@ -39,3 +39,5 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://youtu.be/lIZ7TyjeRis)
+
+

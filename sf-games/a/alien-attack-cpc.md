@@ -16,6 +16,9 @@
 
 **Жанри:** Аркада
 
+## Примітка
+
+ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC.
 
 ## Скріншоти
 <img src="screens/scrn_alien-attack-cpc_01.png" width="24%">
@@ -24,15 +27,10 @@
 <img src="screens/scrn_alien-attack-cpc_04.png" width="24%">
 
 
-## Опис
-
-﻿> ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC.
-
-
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Додаткові теги:** 16-color mode
@@ -50,3 +48,5 @@
 
 <iframe src="https://www.youtube.com/embed/Ga_to2SlD4c"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

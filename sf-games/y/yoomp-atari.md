@@ -14,6 +14,10 @@
 **ID:** yoomp-atari
 
 
+## Примітка
+
+Conversion from Atari 8-bit
+
 ## Скріншоти
 <img src="screens/scrn_yoomp-atari_01.png" width="24%">
 <img src="screens/scrn_yoomp-atari_02.png" width="24%">
@@ -37,3 +41,5 @@
 
 <iframe src="https://www.youtube.com/embed/BXybXA11L40"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

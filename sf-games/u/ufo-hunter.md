@@ -16,6 +16,9 @@
 
 **Жанри:** Аркада, Екшн
 
+## Примітка
+
+Work in progress
 
 ## Скріншоти
 <img src="screens/scrn_ufo-hunter_01.png" width="24%">

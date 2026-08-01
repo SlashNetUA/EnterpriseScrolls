@@ -14,6 +14,10 @@
 **ID:** thunderbirds-zx
 
 
+## Примітка
+
+Parts: 2, 3, 4.
+
 ## Скріншоти
 <img src="screens/scrn_thunderbirds-zx_01.png" width="24%">
 <img src="screens/scrn_thunderbirds-zx_02.png" width="24%">

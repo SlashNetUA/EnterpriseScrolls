@@ -14,6 +14,10 @@
 **ID:** base-invaders-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_base-invaders-zx_01.png" width="24%">
 <img src="screens/scrn_base-invaders-zx_02.png" width="24%">

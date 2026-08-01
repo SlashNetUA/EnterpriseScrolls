@@ -27,7 +27,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Програмні:** IS-Basic
 ### Геймплей
 - **Кількість гравців:** 1 player
@@ -42,3 +42,5 @@
 
 <iframe src="https://www.youtube.com/embed/AQ9xOERzrng"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

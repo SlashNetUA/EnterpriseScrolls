@@ -29,7 +29,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic
 ### Геймплей
@@ -50,3 +50,5 @@
 
 <iframe src="https://www.youtube.com/embed/YEz-vIwhg18"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

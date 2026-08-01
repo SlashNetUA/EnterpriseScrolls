@@ -14,6 +14,11 @@
 **ID:** planer-bas
 
 
+## Примітка
+
+Missing! (mentioned in games by Revasz Gyorgy)
+
+
 ## Основна інформація
 ### Розробка
 - **Автор:** Revasz Gyorgy

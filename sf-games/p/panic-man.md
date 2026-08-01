@@ -22,7 +22,7 @@
 
 
 ## Основна інформація
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 
 
@@ -36,3 +36,5 @@
 
 <iframe src="https://www.youtube.com/embed/ZcPdqRzZkJ8"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

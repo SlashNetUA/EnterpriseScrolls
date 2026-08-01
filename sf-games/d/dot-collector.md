@@ -22,7 +22,7 @@
 
 
 ## Основна інформація
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** EXOS 2.1
 
@@ -40,3 +40,5 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://www.youtube.com/watch?v=4igsiM9iNkU)
 - [Відео](https://youtu.be/Ka9fsAtGLBQ)
+
+

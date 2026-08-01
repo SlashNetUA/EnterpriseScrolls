@@ -14,6 +14,10 @@
 **ID:** operation-thunderbolt-zx
 
 
+## Примітка
+
+Conversion of demoversion of the game.
+
 ## Скріншоти
 <img src="screens/scrn_operation-thunderbolt-zx_01.png" width="24%">
 <img src="screens/scrn_operation-thunderbolt-zx_02.png" width="24%">

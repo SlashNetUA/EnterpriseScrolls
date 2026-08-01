@@ -80,7 +80,7 @@
 - △ [Billy the Kid](billy-the-kid-zx.md)
 - △ [Bionic Commando](bionic-commando-zx.md)
 - △ [The Birds and the Bees](birds-and-the-bees-zx.md)
-- △ [Antics](birds-and-the-bees2-zx.md)
+- △ [The Birds and the Bees II: Antics](birds-and-the-bees2-zx.md)
 - △ [Black Hawk](black-hawk-zx.md)
 - △ [Black Lamp](black-lamp-zx.md)
 - 𝔹 [Black Max](black-max-bas.md)

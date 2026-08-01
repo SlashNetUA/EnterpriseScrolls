@@ -14,6 +14,10 @@
 **ID:** go-around
 
 
+## Примітка
+
+Unfinished game.
+
 ## Скріншоти
 <img src="screens/scrn_go-around_01.png" width="24%">
 <img src="screens/scrn_go-around_02.png" width="24%">

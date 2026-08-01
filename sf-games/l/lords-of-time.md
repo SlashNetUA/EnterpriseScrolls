@@ -14,6 +14,10 @@
 **ID:** lords-of-time
 
 
+## Примітка
+
+﻿⚠ IS-Basic interpreter is required to run this game.
+
 ## Скріншоти
 <img src="screens/scrn_lords-of-time_01.png" width="24%">
 <img src="screens/scrn_lords-of-time_02.png" width="24%">
@@ -22,7 +26,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic
 ### Геймплей

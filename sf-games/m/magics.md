@@ -14,3 +14,8 @@
 **ID:** magics
 
 
+## Примітка
+
+Missing! (early Endi (Ork-Soft) game)
+
+

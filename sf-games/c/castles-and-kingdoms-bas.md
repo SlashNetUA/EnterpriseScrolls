@@ -14,6 +14,26 @@
 **ID:** castles-and-kingdoms-bas
 
 
+## Примітка
+
+Compilation of several text adventures:<br>
+The Brass Helm<br>
+Castle Northstar<br>
+Deadly Dungeon<br>
+Dragonquest Adventure<br>
+Firekeep<br>
+Gauntlet of Death<br>
+Revenge of Balrog<br>
+Spider Mountain<br>
+Stargate<br>
+Temple of Vishtari<br>
+The Blue-Eyed Thief<br>
+The Fortress at Time's End<br>
+Thunder Mountain Passage<br>
+Tower of Fear<br>
+Werewolf Wars<br>
+
+
 ## Посилання
 - [Опис гри на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Castles_and_Kingdoms.htm)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Castles_and_Kingdoms.rar)

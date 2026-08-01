@@ -16,6 +16,9 @@
 
 **Жанри:** Навчальний, Логічна
 
+## Примітка
+
+ℹ Офіційний реліз.
 
 ## Скріншоти
 <img src="screens/scrn_animal-vegetable-mineral-bas_01.png" width="24%">
@@ -24,14 +27,9 @@
 <img src="screens/scrn_animal-vegetable-mineral-bas_04.png" width="24%">
 
 
-## Опис
-
-﻿> ℹ Офіційний реліз.
-
-
 ## Основна інформація
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic
 ### Геймплей
@@ -50,3 +48,5 @@
 
 <iframe src="https://www.youtube.com/embed/cQEkhlRjgoQ"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

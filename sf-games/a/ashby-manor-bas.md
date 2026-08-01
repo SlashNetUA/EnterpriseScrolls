@@ -16,6 +16,9 @@
 
 **Жанри:** Текстова пригода
 
+## Примітка
+
+ℹ Сучасна конверсія.
 
 ## Скріншоти
 <img src="screens/scrn_ashby-manor-bas_01.png" width="24%">
@@ -25,7 +28,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Програмні:** IS-Basic
 ### Геймплей
 - **Керування:** Keyboard
@@ -38,4 +41,8 @@
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C5304/Ashby+Manor.html)
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Basic_Program_Pack.rar)
 
+
+## Керування
+
+`Keyboard`
 

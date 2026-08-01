@@ -14,6 +14,10 @@
 **ID:** rats-nest-zx81
 
 
+## Примітка
+
+Game from GamePack 3 cartridge by Palex+
+
 ## Скріншоти
 <img src="screens/scrn_rats-nest-zx81_01.png" width="24%">
 <img src="screens/scrn_rats-nest-zx81_02.png" width="24%">

@@ -27,7 +27,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Multiplatform
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy
@@ -50,3 +50,5 @@
 
 <iframe src="https://www.youtube.com/embed/aE_WatcdY-Y"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

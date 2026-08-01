@@ -14,13 +14,17 @@
 **ID:** dungeon-adv
 
 
+## Примітка
+
+﻿⚠ IS-Basic interpreter is required to run this game.
+
 ## Скріншоти
 <img src="screens/scrn_dungeon-adv_01.png" width="24%">
 <img src="screens/scrn_dungeon-adv_02.png" width="24%">
 
 
 ## Основна інформація
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic
 

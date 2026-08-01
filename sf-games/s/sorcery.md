@@ -16,6 +16,9 @@
 
 **Жанри:** Екшн, Пригодницька
 
+## Примітка
+
+Original Enterprise version
 
 ## Скріншоти
 <img src="screens/scrn_sorcery_01.png" width="24%">
@@ -27,7 +30,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Кількість гравців:** 1 player
@@ -48,3 +51,5 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://tv.enterpriseforever.com/sorcery.mp4)
 - [Відео](https://www.youtube.com/watch?v=WOVfhKK3YYA)
+
+

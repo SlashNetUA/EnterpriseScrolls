@@ -23,7 +23,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2, External Joy 3, External Joy 4, External Joy 5, External Joy 6
@@ -40,3 +40,5 @@
 
 <iframe src="https://www.youtube.com/embed/ejhvCwbi1qE"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

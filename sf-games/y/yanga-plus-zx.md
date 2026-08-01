@@ -14,6 +14,10 @@
 **ID:** yanga-plus-zx
 
 
+## Примітка
+
+Conversion from ZX Spectrum by Povi
+
 ## Скріншоти
 <img src="screens/scrn_yanga-plus-zx_01.png" width="24%">
 <img src="screens/scrn_yanga-plus-zx_02.png" width="24%">
@@ -37,3 +41,5 @@
 
 <iframe src="https://www.youtube.com/embed/-Qjs9SSr2io"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

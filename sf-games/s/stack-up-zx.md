@@ -14,6 +14,10 @@
 **ID:** stack-up-zx
 
 
+## Примітка
+
+Miising! (mentioned in magazine)
+
 ## Скріншоти
 <img src="screens/scrn_stack-up-zx_01.png" width="24%">
 

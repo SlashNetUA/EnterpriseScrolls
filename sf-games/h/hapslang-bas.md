@@ -16,6 +16,10 @@
 
 **Жанри:** Аркада, Змійко-подібна
 
+## Примітка
+
+Type-in game from ENTERface 1985.01 magazine.
+Working only on stock EP64
 
 ## Скріншоти
 <img src="screens/scrn_hapslang-bas_01.png" width="24%">
@@ -27,7 +31,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64
 - **Програмні:** IS-Basic 2.0, EXOS 2.0
 ### Геймплей
@@ -42,3 +46,5 @@
 
 <iframe src="https://www.youtube.com/embed/U4-gIwQCgTA"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

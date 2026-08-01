@@ -14,3 +14,8 @@
 **ID:** gin-rummy
 
 
+## Примітка
+
+Missing! (mentioned in promo materials)
+
+

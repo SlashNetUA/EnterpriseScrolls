@@ -22,7 +22,7 @@
 
 
 ## Основна інформація
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128, EP128+RAM
 
 
@@ -34,3 +34,5 @@
 
 <iframe src="https://www.youtube.com/embed/wl1xazdbxrY"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

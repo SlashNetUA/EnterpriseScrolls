@@ -24,7 +24,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Кількість гравців:** 1 player, 2 players (opposing)
@@ -42,3 +42,5 @@
 
 <iframe src="https://www.youtube.com/embed/xp3EMdsBDXg"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

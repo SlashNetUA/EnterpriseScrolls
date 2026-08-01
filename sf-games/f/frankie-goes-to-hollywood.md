@@ -14,6 +14,11 @@
 **ID:** frankie-goes-to-hollywood
 
 
+## Примітка
+
+Missing! (mentioned in price list)
+
+
 ## Основна інформація
 - **Оригінальна платформа:** ZX Spectrum
 

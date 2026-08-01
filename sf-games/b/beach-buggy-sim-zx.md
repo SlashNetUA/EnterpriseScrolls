@@ -14,6 +14,10 @@
 **ID:** beach-buggy-sim-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_beach-buggy-sim-zx_01.png" width="24%">
 <img src="screens/scrn_beach-buggy-sim-zx_02.png" width="24%">

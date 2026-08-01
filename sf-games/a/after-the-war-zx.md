@@ -16,17 +16,16 @@
 
 **Жанри:** Екшн, Драка
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.  
+⚠ В наявності лише перша частина.
 
 ## Скріншоти
 <img src="screens/scrn_after-the-war-zx_01.png" width="24%">
 <img src="screens/scrn_after-the-war-zx_02.png" width="24%">
 <img src="screens/scrn_after-the-war-zx_03.png" width="24%">
 <img src="screens/scrn_after-the-war-zx_04.png" width="24%">
-
-
-## Опис
-
-﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація

@@ -14,6 +14,10 @@
 **ID:** money-mouse-in-full-barn-house-ep1-agd
 
 
+## Примітка
+
+Test AGD version
+
 ## Скріншоти
 <img src="screens/scrn_money-mouse-in-full-barn-house-ep1-agd_01.png" width="24%">
 <img src="screens/scrn_money-mouse-in-full-barn-house-ep1-agd_02.png" width="24%">

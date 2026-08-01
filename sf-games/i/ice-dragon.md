@@ -14,3 +14,8 @@
 **ID:** ice-dragon
 
 
+## Примітка
+
+﻿Missing! (mentioned in PC Mikrodata #8 1985 magazine)
+
+

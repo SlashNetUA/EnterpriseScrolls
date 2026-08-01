@@ -14,3 +14,8 @@
 **ID:** core-wars
 
 
+## Примітка
+
+Missing! (mentioned in price lists)
+
+

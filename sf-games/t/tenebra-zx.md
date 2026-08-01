@@ -57,7 +57,7 @@ Tenebra - це захоплююча гра, в якій гравець пови�
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1
@@ -80,3 +80,5 @@ Tenebra - це захоплююча гра, в якій гравець пови�
 
 <iframe src="https://www.youtube.com/embed/MyJ8fejJvlo"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

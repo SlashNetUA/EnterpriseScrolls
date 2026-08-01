@@ -42,7 +42,7 @@ Hat Trick - це хокейна гра на двох, де кожен граве
 
 
 ## Основна інформація
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 
 
@@ -58,3 +58,5 @@ Hat Trick - це хокейна гра на двох, де кожен граве
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://www.youtube.com/watch?v=M4E-BnV6ECg)
+
+

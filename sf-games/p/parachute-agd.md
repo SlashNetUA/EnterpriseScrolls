@@ -14,6 +14,10 @@
 **ID:** parachute-agd
 
 
+## Примітка
+
+Test AGD version
+
 ## Скріншоти
 <img src="screens/scrn_parachute-agd_01.png" width="24%">
 <img src="screens/scrn_parachute-agd_02.png" width="24%">

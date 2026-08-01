@@ -14,6 +14,10 @@
 **ID:** tenpair
 
 
+## Примітка
+
+Working in progress.
+
 ## Скріншоти
 <img src="screens/scrn_tenpair_01.png" width="24%">
 

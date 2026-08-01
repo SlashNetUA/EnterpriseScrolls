@@ -14,3 +14,8 @@
 **ID:** tron-n2
 
 
+## Примітка
+
+Missing! (early Endi (Ork-Soft) game)
+
+

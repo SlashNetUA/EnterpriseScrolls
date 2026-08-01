@@ -19,6 +19,9 @@
 
 **Жанри:** Пригодницька
 
+## Примітка
+
+Homebrew
 
 ## Скріншоти
 <img src="screens/scrn_sotet-evszazadok2_01.png" width="24%">

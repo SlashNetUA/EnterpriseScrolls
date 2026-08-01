@@ -16,6 +16,9 @@
 
 **Жанри:** Текстова пригода
 
+## Примітка
+
+Approved adaptation of the Italian adventure Murray Shannon: L'Orrore di Goldmine City
 
 ## Скріншоти
 <img src="screens/scrn_horror-of-goldmine-city-zcode_01.png" width="24%">
@@ -37,7 +40,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EXDOS
 - **Програмні:** IS-DOS
 ### Геймплей

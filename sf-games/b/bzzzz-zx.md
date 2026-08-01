@@ -16,6 +16,9 @@
 
 **Жанри:** Аркада, Tron-подібна
 
+## Примітка
+
+Game from Spectrum Digest cartridge by Palex+
 
 ## Скріншоти
 <img src="screens/scrn_bzzzz-zx_01.png" width="24%">
@@ -26,7 +29,7 @@
 ## Основна інформація
 - **Мови:** Польська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard (QAZX), Internal Joy

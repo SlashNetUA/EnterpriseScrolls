@@ -45,7 +45,7 @@ Vexed - це логічна гра, в якій гравець повинен з
 
 
 ## Основна інформація
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 
 
@@ -60,3 +60,5 @@ Vexed - це логічна гра, в якій гравець повинен з
 
 <iframe src="https://www.youtube.com/embed/EiX18_dPwLg"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

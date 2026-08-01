@@ -16,6 +16,9 @@
 
 **Жанри:** Настільна гра
 
+## Примітка
+
+Checkers is an adaptation of the well-known strategy board game and includes a powerful AI on the CPU side.
 
 ## Скріншоти
 <img src="screens/scrn_checkers-symbos_01.png" width="24%">
@@ -26,7 +29,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128+RAM, EXDOS
 - **Програмні:** SymbOS 3.0
 ### Геймплей

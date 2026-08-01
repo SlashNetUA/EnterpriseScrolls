@@ -14,6 +14,10 @@
 **ID:** tetris-sh
 
 
+## Примітка
+
+Work in progress
+
 ## Скріншоти
 <img src="screens/scrn_tetris-sh_01.png" width="24%">
 <img src="screens/scrn_tetris-sh_02.png" width="24%">
@@ -27,3 +31,5 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://www.youtube.com/watch?v=k5iCBqQG-dk)
+
+

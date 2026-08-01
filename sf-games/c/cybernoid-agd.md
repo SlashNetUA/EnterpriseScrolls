@@ -16,6 +16,9 @@
 
 **Жанри:** Аркада
 
+## Примітка
+
+Work in progress
 
 ## Скріншоти
 <img src="screens/scrn_cybernoid-agd_01.png" width="24%">

@@ -14,6 +14,10 @@
 **ID:** dovregubben
 
 
+## Примітка
+
+Missing! (mentioned in PC Mikrodata #8 1985 magazine)
+
 ## Скріншоти
 <img src="screens/scrn_dovregubben_01.png" width="24%">
 

@@ -16,6 +16,9 @@
 
 **Жанри:** Аркада, Екшн
 
+## Примітка
+
+Homebrew multiplatform arcade game
 
 ## Скріншоти
 <img src="screens/scrn_swordwork_01.png" width="24%">
@@ -35,7 +38,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Multiplatform
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy
@@ -56,3 +59,5 @@
 
 <iframe src="https://www.youtube.com/embed/bt9u_xh2pmU"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

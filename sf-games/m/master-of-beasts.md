@@ -14,3 +14,8 @@
 **ID:** master-of-beasts
 
 
+## Примітка
+
+Missing! (early Endi (Ork-Soft) game)
+
+

@@ -16,6 +16,10 @@
 
 **Жанри:** Аркада
 
+## Примітка
+
+Homebrew
+Homebrew
 
 ## Скріншоти
 <img src="screens/scrn_lift_01.png" width="24%">
@@ -27,7 +31,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Multiplatform
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy
@@ -49,3 +53,5 @@
 
 <iframe src="https://www.youtube.com/embed/muk4lU_hkrA"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

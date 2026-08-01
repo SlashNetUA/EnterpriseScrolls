@@ -16,6 +16,9 @@
 
 **Жанри:** Екшн, Платформер
 
+## Примітка
+
+﻿Missing original release! (mentioned in promo materials)
 
 ## Скріншоти
 <img src="screens/scrn_bruce-lee_01.png" width="24%">
@@ -27,7 +30,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
@@ -51,3 +54,5 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://www.youtube.com/watch?v=397x5LYrjvI)
+
+

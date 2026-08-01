@@ -14,6 +14,10 @@
 **ID:** tea-leaf-ted-agd
 
 
+## Примітка
+
+Test AGD version
+
 ## Скріншоти
 <img src="screens/scrn_tea-leaf-ted-agd_01.png" width="24%">
 <img src="screens/scrn_tea-leaf-ted-agd_02.png" width="24%">

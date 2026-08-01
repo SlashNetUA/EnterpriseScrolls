@@ -24,7 +24,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128
 ### Геймплей
 - **Кількість гравців:** 1 player
@@ -44,3 +44,5 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://tv.enterpriseforever.com/cauldron.mp4)
 - [Відео](https://youtu.be/KURvWzC8uRo)
+
+

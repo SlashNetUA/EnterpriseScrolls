@@ -19,6 +19,9 @@
 
 **Жанри:** Настільна гра
 
+## Примітка
+
+Unofficial reduced CP/M-version of simple chess playing program.
 
 ## Скріншоти
 <img src="screens/scrn_mscp-isdos_01.png" width="24%">
@@ -29,7 +32,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EXDOS
 - **Програмні:** IS-DOS
 ### Геймплей

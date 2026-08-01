@@ -16,6 +16,9 @@
 
 **Жанри:** Аркада, Логічна
 
+## Примітка
+
+Multiplatform game by Inufuto
 
 ## Скріншоти
 <img src="screens/scrn_yewdow_01.png" width="24%">
@@ -26,7 +29,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy
@@ -47,3 +50,5 @@
 
 <iframe src="https://www.youtube.com/embed/dL86FeYbXjQ"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

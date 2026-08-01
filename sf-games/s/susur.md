@@ -14,6 +14,10 @@
 **ID:** susur
 
 
+## Примітка
+
+Cancelled game
+
 ## Скріншоти
 <img src="screens/scrn_susur_01.png" width="24%">
 <img src="screens/scrn_susur_02.png" width="24%">
@@ -27,3 +31,5 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://www.youtube.com/watch?v=5Qb3tiWqjtU)
+
+

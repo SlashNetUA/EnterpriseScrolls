@@ -14,6 +14,10 @@
 **ID:** blue-angel-bas
 
 
+## Примітка
+
+ℹ Хоумбрю-гра.
+
 ## Скріншоти
 <img src="screens/scrn_blue-angel-bas_01.png" width="24%">
 <img src="screens/scrn_blue-angel-bas_02.png" width="24%">

@@ -16,6 +16,9 @@
 
 **Жанри:** Менеджмент, Стратегія
 
+## Примітка
+
+SymFoot is a manager-style computer game in which the player is able to control a football club.
 
 ## Скріншоти
 <img src="screens/scrn_symfoot-symbos_01.png" width="24%">
@@ -26,7 +29,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128+RAM, EXDOS
 - **Програмні:** SymbOS 4.0
 ### Геймплей

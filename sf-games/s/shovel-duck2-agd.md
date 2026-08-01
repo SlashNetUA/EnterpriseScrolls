@@ -14,6 +14,10 @@
 **ID:** shovel-duck2-agd
 
 
+## Примітка
+
+Test AGD version
+
 ## Скріншоти
 <img src="screens/scrn_shovel-duck2-agd_01.png" width="24%">
 <img src="screens/scrn_shovel-duck2-agd_02.png" width="24%">

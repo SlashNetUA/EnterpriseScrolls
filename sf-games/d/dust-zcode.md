@@ -16,6 +16,9 @@
 
 **Жанри:** Текстова пригода
 
+## Примітка
+
+The English version of the original Staub game (german version).
 
 ## Скріншоти
 <img src="screens/scrn_dust-zcode_01.png" width="24%">
@@ -26,7 +29,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EXDOS
 - **Програмні:** IS-DOS
 ### Геймплей

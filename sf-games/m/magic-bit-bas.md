@@ -22,7 +22,7 @@
 
 
 ## Основна інформація
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128, EP64
 - **Програмні:** IS-Basic, EXOS 2.1
 ### Геймплей
@@ -46,3 +46,5 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://www.youtube.com/watch?v=AIAhGbhZv_E)
+
+

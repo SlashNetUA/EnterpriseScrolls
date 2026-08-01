@@ -16,6 +16,9 @@
 
 **Жанри:** Логічна, Екшн
 
+## Примітка
+
+Unofficial version
 
 ## Скріншоти
 <img src="screens/scrn_lemmings-tvc_01.png" width="24%">
@@ -55,7 +58,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Videoton TVC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128, EXDOS
 ### Геймплей
 - **Керування:** Mouse, Internal Joy, External Joy 1
@@ -80,3 +83,5 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://www.youtube.com/watch?v=bKFvsY4VzJM)
+
+

@@ -14,6 +14,10 @@
 **ID:** electric-lamp-bas
 
 
+## Примітка
+
+Type-in game from Süni Magazine (HU)
+
 ## Скріншоти
 <img src="screens/scrn_electric-lamp-bas_01.png" width="24%">
 <img src="screens/scrn_electric-lamp-bas_02.png" width="24%">
@@ -23,7 +27,7 @@
 ## Основна інформація
 - **Мови:** Угорська
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Програмні:** IS-Basic
 ### Розробка
 - **Рік випуску:** 1989

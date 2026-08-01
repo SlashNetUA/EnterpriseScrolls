@@ -14,6 +14,10 @@
 **ID:** grellon
 
 
+## Примітка
+
+Canceled game
+
 ## Скріншоти
 <img src="screens/scrn_grellon_01.png" width="24%">
 <img src="screens/scrn_grellon_02.png" width="24%">

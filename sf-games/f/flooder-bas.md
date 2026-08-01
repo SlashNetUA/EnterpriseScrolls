@@ -14,6 +14,11 @@
 **ID:** flooder-bas
 
 
+## Примітка
+
+﻿Game from Basic10Liner 2023 competition.<br>
+An improved version of Floodit game.
+
 ## Скріншоти
 <img src="screens/scrn_flooder-bas_01.png" width="24%">
 <img src="screens/scrn_flooder-bas_02.png" width="24%">
@@ -29,3 +34,5 @@
 
 <iframe src="https://www.youtube.com/embed/LtOZpHxgAUU"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

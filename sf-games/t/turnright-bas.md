@@ -14,6 +14,10 @@
 **ID:** turnright-bas
 
 
+## Примітка
+
+Game from Basic10Liner 2025 competition.
+
 ## Скріншоти
 <img src="screens/scrn_turnright-bas_01.png" width="24%">
 <img src="screens/scrn_turnright-bas_02.png" width="24%">

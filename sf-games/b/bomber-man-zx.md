@@ -17,6 +17,12 @@
 **ID:** bomber-man-zx
 
 
+**Жанри:** Аркада
+
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_bomber-man-zx_01.png" width="24%">
 <img src="screens/scrn_bomber-man-zx_02.png" width="24%">
@@ -25,9 +31,15 @@
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1983
 
 
 ## Посилання
@@ -40,3 +52,5 @@
 
 <iframe src="https://www.youtube.com/embed/zzcUm5_rQpo"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

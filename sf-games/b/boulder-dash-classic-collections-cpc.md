@@ -24,7 +24,7 @@
 ## Основна інформація
 - **Оригінальна платформа:** Amstrad CPC
 Commodore 64
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 
 
@@ -39,3 +39,5 @@ Commodore 64
 
 <iframe src="https://www.youtube.com/embed/Jv39PiZGCVM"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

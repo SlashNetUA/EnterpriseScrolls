@@ -26,7 +26,7 @@
 
 ## Основна інформація
 - **Оригінальна платформа:** Amstrad CPC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 
 
@@ -42,3 +42,5 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://youtu.be/Wvj36BtRtG4)
+
+

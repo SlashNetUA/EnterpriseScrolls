@@ -44,3 +44,5 @@ Amstrad GX4000
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://youtu.be/gxAM5KKV4tM)
+
+

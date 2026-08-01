@@ -38,7 +38,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128, EP64
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
@@ -61,3 +61,14 @@
 
 <iframe src="https://www.youtube.com/embed/RwAbfPAH-8E"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+
+## Керування
+
+﻿`Keyboard` (`Z`,`X`,`P`)  
+`Internal Joystick`  
+`External Joystick 1`  
+`External Joystick 2`  
+
+`H`: Пауза (натисніть `Fire` щоб продовжити гру)
+

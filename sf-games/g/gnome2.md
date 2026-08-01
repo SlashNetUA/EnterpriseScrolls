@@ -14,3 +14,8 @@
 **ID:** gnome2
 
 
+## Примітка
+
+Missing! (early Endi (Ork-Soft) game)
+
+

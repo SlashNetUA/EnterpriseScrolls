@@ -14,6 +14,10 @@
 **ID:** alien-evolution-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_alien-evolution-zx_01.png" width="24%">
 <img src="screens/scrn_alien-evolution-zx_02.png" width="24%">
@@ -21,16 +25,11 @@
 <img src="screens/scrn_alien-evolution-zx_04.png" width="24%">
 
 
-## Опис
-
-﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
-
-
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Геймплей
-- **Додаткові теги:** Attribute mode
+- **Додаткові теги:** Attribute mode, Isometric
 
 
 ## Посилання

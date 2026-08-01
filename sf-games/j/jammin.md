@@ -30,7 +30,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Internal Joy
@@ -48,3 +48,5 @@
 
 <iframe src="https://www.youtube.com/embed/dUb04FxKuz8"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

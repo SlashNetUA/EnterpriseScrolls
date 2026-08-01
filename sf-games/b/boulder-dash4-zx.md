@@ -14,6 +14,10 @@
 **ID:** boulder-dash4-zx
 
 
+## Примітка
+
+Game from GamePack 2 cartridge by Palex+
+
 ## Скріншоти
 <img src="screens/scrn_boulder-dash4-zx_01.png" width="24%">
 <img src="screens/scrn_boulder-dash4-zx_02.png" width="24%">
@@ -24,7 +28,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128
 
 

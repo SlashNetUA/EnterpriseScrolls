@@ -14,6 +14,10 @@
 **ID:** wall-pipe-game
 
 
+## Примітка
+
+Work in progress
+
 ## Скріншоти
 <img src="screens/scrn_wall-pipe-game_01.png" width="24%">
 <img src="screens/scrn_wall-pipe-game_02.png" width="24%">

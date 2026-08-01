@@ -27,7 +27,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum Next
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128, EP128+RAM
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, Mouse
@@ -53,3 +53,5 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://www.youtube.com/watch?v=MIGhBzPPHeo)
+
+

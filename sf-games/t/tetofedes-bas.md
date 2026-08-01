@@ -16,6 +16,9 @@
 
 **Жанри:** Логічна
 
+## Примітка
+
+Clone of Bomb Squad game
 
 ## Скріншоти
 <img src="screens/scrn_tetofedes-bas_01.png" width="24%">
@@ -27,7 +30,7 @@
 ## Основна інформація
 - **Мови:** Угорська
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Програмні:** IS-Basic
 ### Геймплей
 - **Керування:** Internal Joy, External Joy 1, External Joy 2

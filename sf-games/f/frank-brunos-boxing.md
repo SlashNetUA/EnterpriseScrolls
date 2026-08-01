@@ -14,6 +14,11 @@
 **ID:** frank-brunos-boxing
 
 
+## Примітка
+
+Missing! (mentioned in price lists and adverts)
+
+
 ## Основна інформація
 - **Оригінальна платформа:** ZX Spectrum
 

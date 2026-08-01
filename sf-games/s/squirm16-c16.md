@@ -28,7 +28,7 @@
 - **Мови:** Англійська
 - **Оригінальна платформа:** Commodore 16-Plus/4
 Commodore 64
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
@@ -52,3 +52,5 @@ Commodore 64
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://youtu.be/1YNSxdI-ZT0)
+
+

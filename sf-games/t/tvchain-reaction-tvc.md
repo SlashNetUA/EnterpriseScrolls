@@ -27,7 +27,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Videoton TVC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, Mouse
@@ -50,3 +50,5 @@
 
 <iframe src="https://www.youtube.com/embed/kgLTqFjrO94"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

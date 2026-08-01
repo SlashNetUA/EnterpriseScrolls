@@ -16,6 +16,9 @@
 
 **Жанри:** Текстова пригода
 
+## Примітка
+
+Approved adaptation of the Italian adventure Antropos: Homo Sapiens
 
 ## Скріншоти
 <img src="screens/scrn_homo-sapiens-zcode_01.png" width="24%">
@@ -35,7 +38,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EXDOS
 - **Програмні:** IS-DOS
 ### Геймплей

@@ -14,6 +14,10 @@
 **ID:** hypsys-zx
 
 
+## Примітка
+
+Only Part 2.
+
 ## Скріншоти
 <img src="screens/scrn_hypsys-zx_01.png" width="24%">
 <img src="screens/scrn_hypsys-zx_02.png" width="24%">

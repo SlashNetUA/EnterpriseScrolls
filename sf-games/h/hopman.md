@@ -26,7 +26,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy
@@ -46,3 +46,5 @@
 
 <iframe src="https://www.youtube.com/embed/qu8fbE3bh4k"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

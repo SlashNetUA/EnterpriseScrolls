@@ -14,16 +14,15 @@
 **ID:** alien-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_alien-zx_01.png" width="24%">
 <img src="screens/scrn_alien-zx_02.png" width="24%">
 <img src="screens/scrn_alien-zx_03.png" width="24%">
 <img src="screens/scrn_alien-zx_04.png" width="24%">
-
-
-## Опис
-
-﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація

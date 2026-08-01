@@ -14,6 +14,10 @@
 **ID:** chip-tamadas-bas
 
 
+## Примітка
+
+Published as a type-in game in Bitvadasz magazine (1986-1).
+
 ## Скріншоти
 <img src="screens/scrn_chip-tamadas-bas_01.png" width="24%">
 <img src="screens/scrn_chip-tamadas-bas_02.png" width="24%">

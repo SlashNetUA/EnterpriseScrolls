@@ -14,6 +14,10 @@
 **ID:** fej-vagy-iras-bas
 
 
+## Примітка
+
+type-in game from Mikroszamitogep Magazine
+
 ## Скріншоти
 <img src="screens/scrn_fej-vagy-iras-bas_01.png" width="24%">
 <img src="screens/scrn_fej-vagy-iras-bas_02.png" width="24%">
@@ -24,7 +28,7 @@
 ## Основна інформація
 - **Мови:** Угорська
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Програмні:** IS-Basic
 ### Розробка
 - **Рік випуску:** 1989

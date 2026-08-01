@@ -14,6 +14,10 @@
 **ID:** star-trip-zx
 
 
+## Примітка
+
+Game from GamePack 3 cartridge by Palex+
+
 ## Скріншоти
 <img src="screens/scrn_star-trip-zx_01.png" width="24%">
 <img src="screens/scrn_star-trip-zx_02.png" width="24%">

@@ -29,7 +29,7 @@
 - **Оригінальна платформа:** ZX Spectrum
 ZX Uno
 MSX
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Internal Joy, External Joy 1, External Joy 2
@@ -53,3 +53,5 @@ MSX
 
 <iframe src="https://www.youtube.com/embed/Y19T4pN-SRk"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

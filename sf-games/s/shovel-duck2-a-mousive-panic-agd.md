@@ -14,6 +14,10 @@
 **ID:** shovel-duck2-a-mousive-panic-agd
 
 
+## Примітка
+
+Test AGD version
+
 ## Скріншоти
 <img src="screens/scrn_shovel-duck2-a-mousive-panic-agd_01.png" width="24%">
 <img src="screens/scrn_shovel-duck2-a-mousive-panic-agd_02.png" width="24%">

@@ -14,6 +14,10 @@
 **ID:** gladiators
 
 
+## Примітка
+
+Cancelled game
+
 ## Скріншоти
 <img src="screens/scrn_gladiators_01.png" width="24%">
 <img src="screens/scrn_gladiators_02.png" width="24%">
@@ -25,3 +29,5 @@
 
 <iframe src="https://www.youtube.com/embed/orqTacO3IUk"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

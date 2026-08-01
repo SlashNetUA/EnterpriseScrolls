@@ -14,3 +14,8 @@
 **ID:** dot-valley
 
 
+## Примітка
+
+﻿Cancelled game by DÜSI Software
+
+

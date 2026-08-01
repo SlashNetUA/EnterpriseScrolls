@@ -26,7 +26,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128
 ### Геймплей
 - **Кількість гравців:** 1 player, 2 players (versus)
@@ -44,3 +44,5 @@
 
 <iframe src="https://www.youtube.com/embed/rWjYW-KRo4U"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

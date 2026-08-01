@@ -27,7 +27,7 @@
 ## Основна інформація
 - **Мови:** Англійська, Українська
 - **Оригінальна платформа:** Pico-8
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128
 ### Геймплей
 - **Керування:** Internal Joy, External Joy 1
@@ -48,3 +48,5 @@
 
 <iframe src="https://www.youtube.com/embed/ANpnlPCR2Hs"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

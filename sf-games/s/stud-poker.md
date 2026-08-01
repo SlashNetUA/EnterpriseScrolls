@@ -14,3 +14,8 @@
 **ID:** stud-poker
 
 
+## Примітка
+
+Missing! (Mentioned in promo materials)
+
+

@@ -14,6 +14,10 @@
 **ID:** race-n2-bas
 
 
+## Примітка
+
+Type-in game from TAST! #1 1987 magazine
+
 ## Скріншоти
 <img src="screens/scrn_race-n2-bas_01.png" width="24%">
 <img src="screens/scrn_race-n2-bas_02.png" width="24%">

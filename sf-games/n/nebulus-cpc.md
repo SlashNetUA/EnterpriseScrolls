@@ -59,7 +59,7 @@ Nebulus — це аркадна гра-платформер 1988 року, ад�
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
@@ -83,3 +83,5 @@ Nebulus — це аркадна гра-платформер 1988 року, ад�
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://www.youtube.com/watch?v=sRNzvAj20-0)
+
+

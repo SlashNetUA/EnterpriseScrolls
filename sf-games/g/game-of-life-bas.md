@@ -17,6 +17,10 @@
 **ID:** game-of-life-bas
 
 
+## Примітка
+
+Type-in game from CHIP Special magazine.
+
 ## Скріншоти
 <img src="screens/scrn_game-of-life-bas_01.png" width="24%">
 <img src="screens/scrn_game-of-life-bas_02.png" width="24%">

@@ -16,6 +16,9 @@
 
 **Жанри:** Перегони
 
+## Примітка
+
+ℹ Сучасна неофіційна конверсія з платформи ZX Spectrum.
 
 ## Скріншоти
 <img src="screens/scrn_4k-race-refueled-plus-tmx_01.png" width="24%">
@@ -24,15 +27,10 @@
 <img src="screens/scrn_4k-race-refueled-plus-tmx_04.png" width="24%">
 
 
-## Опис
-
-﻿> ℹ Сучасна неофіційна конверсія з платформи ZX Spectrum.
-
-
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Timex TS2068
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
@@ -53,3 +51,5 @@
 
 <iframe src="https://www.youtube.com/embed/qgyWvAz1CfY"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

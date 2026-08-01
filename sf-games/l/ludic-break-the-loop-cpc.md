@@ -16,6 +16,10 @@
 
 **Жанри:** Логічна
 
+## Примітка
+
+Homebrew game
+Official port
 
 ## Скріншоти
 <img src="screens/scrn_ludic-break-the-loop-cpc_01.png" width="24%">
@@ -27,7 +31,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128
 ### Геймплей
 - **Керування:** Internal Joy, External Joy 1
@@ -51,3 +55,5 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://youtu.be/TyTChiUb08g)
+
+

@@ -14,6 +14,12 @@
 **ID:** flappybird-symbos
 
 
+## Примітка
+
+﻿⚠ SymbOS required.<br>
+⚠ V9990-card required.
+
+
 ## Посилання
 - [Домашня сторінка гри](http://www.symbos.de/appinfo.htm?00048)
 - [Завантажити гру](http://www.symbos.de/download/apps/FlappyBird.zip)

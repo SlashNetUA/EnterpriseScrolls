@@ -16,6 +16,9 @@
 
 **Жанри:** Платформер, Пазл
 
+## Примітка
+
+Approved conversion
 
 ## Скріншоти
 <img src="screens/scrn_cubix-zx_01.png" width="24%">
@@ -27,7 +30,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128+RAM, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
@@ -48,3 +51,5 @@
 
 <iframe src="https://www.youtube.com/embed/8CSYSlJrtc4"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

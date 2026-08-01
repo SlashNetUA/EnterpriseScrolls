@@ -14,6 +14,10 @@
 **ID:** rambo3-zx
 
 
+## Примітка
+
+Conversion of game demoversion.
+
 ## Скріншоти
 <img src="screens/scrn_rambo3-zx_01.png" width="24%">
 <img src="screens/scrn_rambo3-zx_02.png" width="24%">

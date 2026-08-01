@@ -14,6 +14,11 @@
 **ID:** falcon-patrol2
 
 
+## Примітка
+
+Missing! (mentioned in price lists and adverts)
+
+
 ## Основна інформація
 - **Оригінальна платформа:** ZX Spectrum
 

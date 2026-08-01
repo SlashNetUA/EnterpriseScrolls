@@ -16,17 +16,15 @@
 
 **Жанри:** Аркада
 
+## Примітка
+
+ℹ Угорський реліз гри.
 
 ## Скріншоти
 <img src="screens/scrn_alt-world-games-cpc_01.png" width="24%">
 <img src="screens/scrn_alt-world-games-cpc_02.png" width="24%">
 <img src="screens/scrn_alt-world-games-cpc_03.png" width="24%">
 <img src="screens/scrn_alt-world-games-cpc_04.png" width="24%">
-
-
-## Опис
-
-﻿> ℹ Угорський реліз гри.
 
 
 ## Основна інформація

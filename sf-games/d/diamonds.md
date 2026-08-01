@@ -23,7 +23,7 @@
 
 ## Основна інформація
 - **Мови:** Угорська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 
 
@@ -37,3 +37,5 @@
 
 <iframe src="https://www.youtube.com/embed/w6S3-q6LCe8"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

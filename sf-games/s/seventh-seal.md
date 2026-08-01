@@ -14,3 +14,8 @@
 **ID:** seventh-seal
 
 
+## Примітка
+
+Missing! (mentioned in news and price lists)
+
+

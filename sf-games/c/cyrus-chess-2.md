@@ -16,6 +16,9 @@
 
 **Жанри:** Настільна гра, Шахи
 
+## Примітка
+
+Official release
 
 ## Скріншоти
 <img src="screens/scrn_cyrus-chess-2_01.png" width="24%">
@@ -27,7 +30,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Internal Joy, External Joy 1, External Joy 2
@@ -47,3 +50,5 @@
 
 <iframe src="https://www.youtube.com/embed/wb7Iq3OwMF0"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

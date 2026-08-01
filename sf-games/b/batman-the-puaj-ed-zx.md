@@ -14,6 +14,10 @@
 **ID:** batman-the-puaj-ed-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_batman-the-puaj-ed-zx_01.png" width="24%">
 <img src="screens/scrn_batman-the-puaj-ed-zx_02.png" width="24%">
@@ -33,3 +37,5 @@
 
 <iframe src="https://www.youtube.com/embed/Uh5uODxXBzY"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

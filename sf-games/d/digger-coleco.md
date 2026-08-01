@@ -14,6 +14,10 @@
 **ID:** digger-coleco
 
 
+## Примітка
+
+Unfinished conversion from Colecovision by Povi
+
 ## Скріншоти
 <img src="screens/scrn_digger-coleco_01.png" width="24%">
 <img src="screens/scrn_digger-coleco_02.png" width="24%">
@@ -25,3 +29,5 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://www.youtube.com/watch?v=XsocUHBlsjk)
+
+

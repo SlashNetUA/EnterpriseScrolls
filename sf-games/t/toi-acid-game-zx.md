@@ -14,6 +14,10 @@
 **ID:** toi-acid-game-zx
 
 
+## Примітка
+
+Parts: 1, 2, 3.
+
 ## Скріншоти
 <img src="screens/scrn_toi-acid-game-zx_01.png" width="24%">
 <img src="screens/scrn_toi-acid-game-zx_02.png" width="24%">

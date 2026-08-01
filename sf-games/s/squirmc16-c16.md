@@ -23,7 +23,7 @@
 
 ## Основна інформація
 - **Оригінальна платформа:** Commodore 16-Plus/4
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 
 
@@ -37,3 +37,5 @@
 
 <iframe src="https://www.youtube.com/embed/l_xLnVhSVCY"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

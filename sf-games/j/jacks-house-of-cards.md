@@ -14,6 +14,10 @@
 **ID:** jacks-house-of-cards
 
 
+## Примітка
+
+This game requires IS-Basic to load
+
 ## Скріншоти
 <img src="screens/scrn_jacks-house-of-cards_01.png" width="24%">
 <img src="screens/scrn_jacks-house-of-cards_02.png" width="24%">
@@ -23,7 +27,7 @@
 
 ## Основна інформація
 - **Мови:** Англійська
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic
 ### Геймплей
@@ -40,3 +44,5 @@
 
 <iframe src="https://www.youtube.com/embed/G1Xp-xgFl2U"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

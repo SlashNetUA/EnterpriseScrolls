@@ -14,6 +14,10 @@
 **ID:** blue-max-zx
 
 
+## Примітка
+
+ℹ Неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_blue-max-zx_01.png" width="24%">
 <img src="screens/scrn_blue-max-zx_02.png" width="24%">

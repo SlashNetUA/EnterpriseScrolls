@@ -25,7 +25,7 @@
 
 
 ## Основна інформація
-### Системні вимоги
+### Загальні системні вимоги
 - **Програмні:** IS-Basic
 ### Розробка
 - **Рік випуску:** 1985
@@ -41,3 +41,5 @@
 
 <iframe src="https://www.youtube.com/embed/mhxPz2xFrDc"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

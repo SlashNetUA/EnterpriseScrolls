@@ -19,17 +19,15 @@
 
 **Жанри:** Екшн
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 ## Скріншоти
 <img src="screens/scrn_avenger-zx_01.png" width="24%">
 <img src="screens/scrn_avenger-zx_02.png" width="24%">
 <img src="screens/scrn_avenger-zx_03.png" width="24%">
 <img src="screens/scrn_avenger-zx_04.png" width="24%">
-
-
-## Опис
-
-﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація

@@ -16,6 +16,9 @@
 
 **Жанри:** Аркада
 
+## Примітка
+
+Cancelled game
 
 ## Скріншоти
 <img src="screens/scrn_mr-driller_01.png" width="24%">
@@ -34,3 +37,5 @@
 
 <iframe src="https://www.youtube.com/embed/PxQYYNw-Y0s"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

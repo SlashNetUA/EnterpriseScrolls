@@ -40,7 +40,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP128, EP64
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
@@ -57,4 +57,11 @@
 - [Завантажити гру](https://www.ep128.hu/Ep_Games/Prg/Maisie_Day_is_not_Okay.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/970) *(Telegram-канал Vibrant Waves)*
 
+
+## Керування
+
+﻿`Keyboard` (`Q`,`A`,`O`,`P`,`M`) (можна перевизначити)  
+`Internal joystick` (як Joystick 1)  
+`External Joystick 1` (як Joystick 1)  
+`External Joystick 2` (як Joystick 2)
 

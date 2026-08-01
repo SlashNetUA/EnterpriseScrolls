@@ -14,6 +14,10 @@
 **ID:** autoverseny-bas
 
 
+## Примітка
+
+Homebrew
+
 ## Скріншоти
 <img src="screens/scrn_autoverseny-bas_01.png" width="24%">
 <img src="screens/scrn_autoverseny-bas_02.png" width="24%">
@@ -24,7 +28,7 @@
 ## Основна інформація
 - **Мови:** Угорська
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Програмні:** IS-Basic
 
 

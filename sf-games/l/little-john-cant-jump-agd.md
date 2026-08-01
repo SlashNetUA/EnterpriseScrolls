@@ -16,6 +16,9 @@
 
 **Жанри:** Аркада, Платформер
 
+## Примітка
+
+Homebrew AGD game
 
 ## Скріншоти
 <img src="screens/scrn_little-john-cant-jump-agd_01.png" width="24%">
@@ -27,7 +30,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2

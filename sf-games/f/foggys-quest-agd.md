@@ -14,6 +14,10 @@
 **ID:** foggys-quest-agd
 
 
+## Примітка
+
+Test AGD version
+
 ## Скріншоти
 <img src="screens/scrn_foggys-quest-agd_01.png" width="24%">
 <img src="screens/scrn_foggys-quest-agd_02.png" width="24%">

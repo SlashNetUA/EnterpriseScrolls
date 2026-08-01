@@ -14,6 +14,10 @@
 **ID:** w-a-r-zx
 
 
+## Примітка
+
+Part: BETA
+
 ## Скріншоти
 <img src="screens/scrn_w-a-r-zx_01.png" width="24%">
 <img src="screens/scrn_w-a-r-zx_02.png" width="24%">

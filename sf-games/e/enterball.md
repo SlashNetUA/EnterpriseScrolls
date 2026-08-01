@@ -74,7 +74,7 @@ Enterball — це гра, яка забезпечує тривалі годин
 
 
 ## Основна інформація
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 
 
@@ -88,3 +88,5 @@ Enterball — це гра, яка забезпечує тривалі годин
 
 <iframe src="https://www.youtube.com/embed/ylI0MVhBF4s"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

@@ -14,6 +14,10 @@
 **ID:** megabasman-bas
 
 
+## Примітка
+
+Canceled game
+
 ## Скріншоти
 <img src="screens/scrn_megabasman-bas_01.png" width="24%">
 <img src="screens/scrn_megabasman-bas_02.png" width="24%">

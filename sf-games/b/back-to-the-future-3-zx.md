@@ -14,6 +14,10 @@
 **ID:** back-to-the-future-3-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_back-to-the-future-3-zx_01.png" width="24%">
 <img src="screens/scrn_back-to-the-future-3-zx_02.png" width="24%">

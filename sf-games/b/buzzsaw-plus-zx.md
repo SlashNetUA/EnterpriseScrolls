@@ -27,7 +27,7 @@
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
-### Системні вимоги
+### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1
@@ -47,3 +47,5 @@
 
 <iframe src="https://www.youtube.com/embed/XGLN-miSz5o"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

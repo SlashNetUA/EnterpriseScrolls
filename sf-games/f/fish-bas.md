@@ -14,6 +14,10 @@
 **ID:** fish-bas
 
 
+## Примітка
+
+﻿Game from Basic10Liner 2024 competition.
+
 ## Скріншоти
 <img src="screens/scrn_fish-bas_01.png" width="24%">
 <img src="screens/scrn_fish-bas_02.png" width="24%">
@@ -28,3 +32,5 @@
 
 <iframe src="https://www.youtube.com/embed/pg8Oy6SrOzY"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+

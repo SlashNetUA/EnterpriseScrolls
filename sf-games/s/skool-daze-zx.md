@@ -17,6 +17,10 @@
 **ID:** skool-daze-zx
 
 
+## Примітка
+
+aka "Suli-Buli"
+
 ## Скріншоти
 <img src="screens/scrn_skool-daze-zx_01.png" width="24%">
 <img src="screens/scrn_skool-daze-zx_02.png" width="24%">

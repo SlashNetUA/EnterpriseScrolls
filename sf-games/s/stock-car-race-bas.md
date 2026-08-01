@@ -19,6 +19,9 @@
 
 **Жанри:** Перегони
 
+## Примітка
+
+Type-in game from Enterpress 1990.11-12 #2 magazine
 
 ## Скріншоти
 <img src="screens/scrn_stock-car-race-bas_01.png" width="24%">
@@ -29,7 +32,7 @@
 ## Основна інформація
 - **Мови:** Англійська, Угорська
 - **Оригінальна платформа:** Enterprise
-### Системні вимоги
+### Загальні системні вимоги
 - **Програмні:** IS-Basic
 ### Геймплей
 - **Керування:** Internal Joy, External Joy 1, External Joy 2

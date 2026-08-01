@@ -14,3 +14,8 @@
 **ID:** north-and-south-zx
 
 
+## Примітка
+
+Missing unofficial conversion by Exosworm Digital Corp.
+
+

@@ -16,6 +16,10 @@
 
 **Жанри:** Екшн
 
+## Примітка
+
+Missing!
+Unofficial conversion
 
 ## Скріншоти
 <img src="screens/scrn_zx-tank-command_01.png" width="24%">

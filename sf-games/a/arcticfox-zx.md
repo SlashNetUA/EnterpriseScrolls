@@ -17,16 +17,15 @@
 **ID:** arcticfox-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_arcticfox-zx_01.png" width="24%">
 <img src="screens/scrn_arcticfox-zx_02.png" width="24%">
 <img src="screens/scrn_arcticfox-zx_03.png" width="24%">
 <img src="screens/scrn_arcticfox-zx_04.png" width="24%">
-
-
-## Опис
-
-﻿> ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 
 ## Основна інформація
