@@ -14,6 +14,11 @@
 **ID:** castle-master2-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.  
+(краще використовувати сучасний порт гри з Amstrad CPC)
+
 ## Скріншоти
 <img src="screens/scrn_castle-master2-zx_01.png" width="24%">
 <img src="screens/scrn_castle-master2-zx_02.png" width="24%">

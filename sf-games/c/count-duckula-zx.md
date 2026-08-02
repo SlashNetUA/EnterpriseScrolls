@@ -17,6 +17,10 @@
 **ID:** count-duckula-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_count-duckula-zx_01.png" width="24%">
 <img src="screens/scrn_count-duckula-zx_02.png" width="24%">

@@ -17,6 +17,10 @@
 **ID:** cross-road-reloaded
 
 
+## Примітка
+
+ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC з графічними покращеннями.
+
 ## Скріншоти
 <img src="screens/scrn_cross-road-reloaded_01.png" width="24%">
 <img src="screens/scrn_cross-road-reloaded_02.png" width="24%">

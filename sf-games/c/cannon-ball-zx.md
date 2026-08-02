@@ -14,6 +14,10 @@
 **ID:** cannon-ball-zx
 
 
+## Примітка
+
+ℹ Сучасна неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_cannon-ball-zx_01.png" width="24%">
 <img src="screens/scrn_cannon-ball-zx_02.png" width="24%">

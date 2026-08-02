@@ -18,13 +18,18 @@
 
 ## Примітка
 
-Checkers is an adaptation of the well-known strategy board game and includes a powerful AI on the CPU side.
+ℹ Хоумбрю-гра.
 
 ## Скріншоти
 <img src="screens/scrn_checkers-symbos_01.png" width="24%">
 <img src="screens/scrn_checkers-symbos_02.png" width="24%">
 <img src="screens/scrn_checkers-symbos_03.png" width="24%">
 <img src="screens/scrn_checkers-symbos_04.png" width="24%">
+
+
+## Опис
+
+Checkers — це адаптація відомої настільної стратегічної гри, оснащена потужним штучним інтелектом. У цю якісну реалізацію можна грати як удовох, так і проти комп'ютера, який має три рівні складності. Хід полягає в переміщенні шашки на сусідню вільну клітинку. Якщо ж на сусідній клітинці стоїть шашка суперника, а клітинка одразу за нею вільна, цю шашку можна збити, перестрибнувши через неї.
 
 
 ## Основна інформація

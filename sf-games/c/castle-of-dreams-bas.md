@@ -14,6 +14,10 @@
 **ID:** castle-of-dreams-bas
 
 
+## Примітка
+
+ℹ Офіційний реліз.
+
 ## Скріншоти
 <img src="screens/scrn_castle-of-dreams-bas_01.png" width="24%">
 <img src="screens/scrn_castle-of-dreams-bas_02.png" width="24%">

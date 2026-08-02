@@ -16,7 +16,7 @@
 
 ## Примітка
 
-aka "Pingvin"
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 ## Скріншоти
 <img src="screens/scrn_crazy-pingoin-zx_01.png" width="24%">

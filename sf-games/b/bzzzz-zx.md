@@ -18,7 +18,7 @@
 
 ## Примітка
 
-Game from Spectrum Digest cartridge by Palex+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
 
 ## Скріншоти
 <img src="screens/scrn_bzzzz-zx_01.png" width="24%">

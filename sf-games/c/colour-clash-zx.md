@@ -14,6 +14,11 @@
 **ID:** colour-clash-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.  
+⚠ Може містити критичні помилки.
+
 ## Скріншоти
 <img src="screens/scrn_colour-clash-zx_01.png" width="24%">
 <img src="screens/scrn_colour-clash-zx_02.png" width="24%">

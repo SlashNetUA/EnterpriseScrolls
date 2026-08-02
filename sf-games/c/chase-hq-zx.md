@@ -14,6 +14,11 @@
 **ID:** chase-hq-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.  
+(існує сучасна конверсія з Amstrad CPC)
+
 ## Скріншоти
 <img src="screens/scrn_chase-hq-zx_01.png" width="24%">
 <img src="screens/scrn_chase-hq-zx_02.png" width="24%">

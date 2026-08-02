@@ -14,6 +14,10 @@
 **ID:** coloris-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_coloris-zx_01.png" width="24%">
 <img src="screens/scrn_coloris-zx_02.png" width="24%">

@@ -14,6 +14,10 @@
 **ID:** collision-course-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_collision-course-zx_01.png" width="24%">
 <img src="screens/scrn_collision-course-zx_02.png" width="24%">

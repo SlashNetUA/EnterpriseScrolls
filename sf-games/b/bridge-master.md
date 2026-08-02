@@ -16,6 +16,6 @@
 
 ## Примітка
 
-Missing! (mentioned in promomaterials)
+‼ Загублений реліз. (згадується в рекламних матеріалах Enterprise Computers)
 
 

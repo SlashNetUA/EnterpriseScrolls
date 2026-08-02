@@ -36,14 +36,14 @@
   
 Приклади апаратних можливостей графічного процесора:
 
-<img src="sf-demos/screenshots/scrn_intrls-sldshw_01.png" alt="демо Interlace Slideshow" width="24%"> 
-<img src="sf-demos/screenshots/scrn_intrls-sldshw_02.png" alt="демо Interlace Slideshow" width="24%"> 
-<img src="sf-demos/screenshots/scrn_small-demo_13.png" alt="демо Small Demo" width="24%"> 
-<img src="sf-demos/screenshots/scrn_rot256_01.png" alt="демо Rot" width="24%"> 
-<img src="sf-games/y/screenshots/scrn_yoomp_05.png" alt="гра Yoomp!" width="24%"> 
-<img src="sf-games/i/screenshots/scrn_ik-plus-reloaded_05.png" alt="гра International Karate+ Reloaded" width="24%"> 
-<img src="sf-games/a/screenshots/scrn_petscii-robots_06.png" alt="гра Attack of the PETSCII Robots+" width="24%"> 
-<img src="sf-games/b/screenshots/scrn_bricky-prise_04.png" alt="гра Bricky Prise" width="24%"> 
+<img src="sf-demos/add_screens/scrn_intrls-sldshw_01.png" alt="демо Interlace Slideshow" width="24%"> 
+<img src="sf-demos/add_screens/scrn_intrls-sldshw_02.png" alt="демо Interlace Slideshow" width="24%"> 
+<img src="sf-demos/add_screens/scrn_small-demo_13.png" alt="демо Small Demo" width="24%"> 
+<img src="sf-demos/add_screens/scrn_rot256_01.png" alt="демо Rot" width="24%"> 
+<img src="sf-games/add_screens/scrn_yoomp_05.png" alt="гра Yoomp!" width="24%"> 
+<img src="sf-games/add_screens/scrn_ik-plus-reloaded_05.png" alt="гра International Karate+ Reloaded" width="24%"> 
+<img src="sf-games/add_screens/scrn_petscii-robots_06.png" alt="гра Attack of the PETSCII Robots+" width="24%"> 
+<img src="sf-games/add_screens/scrn_bricky-prise_04.png" alt="гра Bricky Prise" width="24%"> 
 
 **_Максимальна роздільна здатність екрана по горизонталі_**  
 736 пікселів - 2 колірний режим  
@@ -241,73 +241,73 @@
 ## XX сторіччя  
 Найбільш цікаві проекти минулого сторіччя, що я можу порекомендувати для розгляду, наступні:  
   
-**Raid** (**Raid over Moscow**) [YT](https://youtu.be/wCkr9Q4ATrI), **Beach Head** [YT](https://youtu.be/0qlBdPCVqQE), **Starstrike 3D** [YT](https://www.youtube.com/watch?v=fzgrmOVv1eg), **Nodes of Yesod** [YT](https://www.youtube.com/watch?v=v9Po7Fg_wnM) хоч і були візуально такі самі як і на платформі від Сінклера, але звукові ефекти замість простенького "пук-пук" стали значно багатшими та із стереоефектами.  
+[Raid](sf-games/r/raid.md) ([Raid over Moscow](sf-games/r/raid.md)) [YT](https://youtu.be/wCkr9Q4ATrI), [Beach Head](sf-games/b/beach-head.md) [YT](https://youtu.be/0qlBdPCVqQE), [Starstrike 3D](sf-games/s/starstrike-3d.md) [YT](https://www.youtube.com/watch?v=fzgrmOVv1eg), [Nodes of Yesod](sf-games/n/nodes-of-yesod-zx.md) [YT](https://www.youtube.com/watch?v=v9Po7Fg_wnM) хоч і були візуально такі самі як і на платформі від Сінклера, але звукові ефекти замість простенького "пук-пук" стали значно багатшими та із стереоефектами.  
   
 Порти з Amstrad CPC але з дещо покращеною музикою:
 
-- **Jammin'** [YT](https://youtu.be/dUb04FxKuz8) - музична гра з простеньким геймплеєм. Має деякі відмінності від версії для CPC.
-- **Race-Ace** [YT](https://www.youtube.com/watch?v=ahlVVSs2b7s) - один з перших симуляторів перегонів.
-- **Sorcery** [YT](https://youtu.be/8ggu8Q-24Lw) - однозначний хіт як на Ентерпрайзі так і на Амстраді. Гра отримала розширену версію яку вже в наші часи теж перенесли на Ентерпрайз.
-- **Cauldron** [YT](https://youtu.be/KURvWzC8uRo) - гра має чудову музику та графіку, але геймплей досить хардкорний. Гру важко пройти навіть з нескінченною кількістю життя. [Автор конверсії](peoples/pers_john-brandwood.md) так і не отримав ніякої оплати за роботу (він навіть не здогадувався що гра взагалі продавалась).
-- **Turbo-Rudi** [YT](https://www.youtube.com/watch?v=ljHolnNBhFk) - чудова аркадна гра. Оригінальні назви її **Electro Freddy** та **Uncle Claude**. А от щодо офіційності релізу цієї гри в мене великі сумніви.
+- [Jammin'](sf-games/j/jammin.md) [YT](https://youtu.be/dUb04FxKuz8) - музична гра з простеньким геймплеєм. Має деякі відмінності від версії для CPC.
+- [Race-Ace](sf-games/r/race-ace.md) [YT](https://www.youtube.com/watch?v=ahlVVSs2b7s) - один з перших симуляторів перегонів на даній платформі.
+- [Sorcery](sf-games/s/sorcery.md) [YT](https://youtu.be/8ggu8Q-24Lw) - однозначний хіт як на Ентерпрайзі так і на Амстраді. Гра отримала [розширену версію](sf-games/s/sorcery-plus-cpc.md) яку вже в наші часи теж перенесли на Ентерпрайз.
+- [Cauldron](sf-games/c/cauldron.md) [YT](https://youtu.be/KURvWzC8uRo) - гра має чудову музику та графіку, але геймплей досить хардкорний. Гру важко пройти навіть з нескінченною кількістю життя. [Автор конверсії](peoples/pers_john-brandwood.md) так і не отримав ніякої оплати за роботу (він навіть не здогадувався що гра взагалі продавалась).
+- [Turbo-Rudi](sf-games/t/turbo-rudi.md) [YT](https://www.youtube.com/watch?v=ljHolnNBhFk) - чудова аркадна гра. Оригінальні назви її **Electro Freddy** та **Uncle Claude**. А от щодо офіційності релізу цієї гри в мене великі сумніви.
 
-Те саме можна сказати і про наступні ігри **Permolift** (вона ж **Elevator Action**) [YT](https://youtu.be/op3AFiaiZbg), **Tutti Frutti** (вона ж **Fruity Frank**) [YT](https://youtu.be/RVsIMRLbR3Y) та інші, які продавались угорськими компаніями під іншими назвами.  
+Те саме можна сказати і про наступні ігри [Permolift](sf-games/p/permolift.md) (вона ж **Elevator Action**) [YT](https://youtu.be/op3AFiaiZbg), [Tutti Frutti](sf-games/t/tutti-frutti.md) (вона ж **Fruity Frank**) [YT](https://youtu.be/RVsIMRLbR3Y) та інші, які продавались угорськими компаніями під іншими назвами.  
   
 Із дійсно ексклюзивних проектів можу порекомендувати:  
 
-- **Out of This World** [YT](https://youtu.be/O1S03qZLLio) - непогана гра, але з дещо важкуватим геймплеєм.
-- **EnterBall** [YT](https://www.youtube.com/watch?v=ylI0MVhBF4s) - клон Арканоіда.
-- **Unicum** [YT](https://www.youtube.com/watch?v=Cekk4JLN5Z4) - клон гри **Flasch Bier**, але з угорським колоритом ([Unicum](https://uk.wikipedia.org/wiki/%D0%A3%D0%BD%D1%96%D0%BA%D1%83%D0%BC) - традиційний угорський біттер).
-- **Diamonds** [YT](https://youtu.be/w6S3-q6LCe8) - непоганий клон Діггера.
-- **Dot Collector** [YT](https://youtu.be/5Gej81s40po) - доволі проста гра, яка нагадує PacMan, але має дещо інший геймплей. Це перша гра яку я побачив на Ентерпрайзі, і вона завжди залишиться в моєму серці.
-- **GridTrouble** [YT](https://youtu.be/8YCIYo7pJQA) - Гра у жанрі Amidar (треба зафарбовувати клітинки оббігаючи їх з усіх сторін). На перший погляд, гра дуже важка, але попрактикувавшись в неї можна грати, хоч на мій погляд просто нереально пройти усі 32 рівня маючи всього 3 спроби. Гра пізніше отримала "ремастер" для DOS під назвою [DotTrouble](https://youtu.be/WnV6qeR4qI4).
-- **Pasziansz** [YT](https://www.youtube.com/watch?v=gmiJAzX_8OI) - набір з 4-х пасьянсів з підтримкою миші.
-- **Turbo Amoeba** [YT](https://www.youtube.com/watch?v=Td3z6pIT1W4) - гра 5-в-ряд.
-- **SWAP** [YT](https://www.youtube.com/watch?v=XeU5zVaLufg) та **Logiball** - логічні ігри.
+- [Out of this World](sf-games/o/out-of-this-world.md) [YT](https://youtu.be/O1S03qZLLio) - непогана гра, але з дещо важкуватим геймплеєм.
+- [EnterBall](sf-games/e/enterball.md) [YT](https://www.youtube.com/watch?v=ylI0MVhBF4s) - клон Арканоіда.
+- [Unicum](sf-games/u/unicum.md) [YT](https://www.youtube.com/watch?v=Cekk4JLN5Z4) - клон гри **Flasch Bier**, але з угорським колоритом ([Unicum](https://uk.wikipedia.org/wiki/%D0%A3%D0%BD%D1%96%D0%BA%D1%83%D0%BC) - традиційний угорський біттер).
+- [Diamonds](sf-games/d/diamonds.md) [YT](https://youtu.be/w6S3-q6LCe8) - непоганий клон Діггера.
+- [Dot Collector](sf-games/d/dot-collector.md) [YT](https://youtu.be/5Gej81s40po) - доволі проста гра, яка нагадує PacMan, але має дещо інший геймплей. Це перша гра яку я побачив на Ентерпрайзі, і вона завжди залишиться в моєму серці.
+- [GridTrouble](sf-games/g/gridtrouble.md) [YT](https://youtu.be/8YCIYo7pJQA) - Гра у жанрі Amidar (треба зафарбовувати клітинки оббігаючи їх з усіх сторін). На перший погляд, гра дуже важка, але попрактикувавшись в неї можна грати, хоч на мій погляд просто нереально пройти усі 32 рівня маючи всього 3 спроби. Гра пізніше отримала "ремастер" для DOS під назвою [DotTrouble](https://youtu.be/WnV6qeR4qI4).
+- [Paszians](sf-games/p/pasziansz.md)z [YT](https://www.youtube.com/watch?v=gmiJAzX_8OI) - набір з 4-х пасьянсів з підтримкою миші.
+- [Turbo Amoeba](sf-games/t/turbo-amoeba.md) [YT](https://www.youtube.com/watch?v=Td3z6pIT1W4) - гра 5-в-ряд.
+- [SWAP](sf-games/s/swap.md) [YT](https://www.youtube.com/watch?v=XeU5zVaLufg) та [Logiball](sf-games/l/logiball.md) - логічні ігри.
 
-Одним з креативних творців (він і досі працює у сучасному геймдеві) був [Endy](peoples/community/endy.md) ([ORK Soft](http://www.ep128.hu/Ep_Games/Orksoft.htm)), який створив багато самобутніх речей і не боявся експериментувати. В більшості випадків це були текстові адвенчури на угорській мові з гарними екранами, але є і ігри які не потребують знання угорської: [PacMan City](https://www.youtube.com/watch?v=7o1FRxW_Y3s), **Pacman City 2**, [TNT](https://www.youtube.com/watch?v=TZNVgXYcwsw). Ось ще приклади його ігор: [Book of Life](http://www.ep128.hu/Ep_Games/Pic/Book_of_Life.gif) та [Mutant Test](https://www.youtube.com/watch?v=B0XesECX5HA)  
+Одним з креативних творців (він і досі працює у сучасному геймдеві) був [Endy](peoples/community/endy.md) ([ORK Soft](http://www.ep128.hu/Ep_Games/Orksoft.htm)), який створив багато самобутніх речей і не боявся експериментувати. В більшості випадків це були текстові адвенчури на угорській мові з гарними екранами, але є і ігри які не потребують знання угорської: [PacMan City](sf-games/p/pacman-city.md) [YT](https://www.youtube.com/watch?v=7o1FRxW_Y3s), [Pacman City 2](sf-games/p/pacman-city2.md), [TNT](sf-games/t/tnt.md) [YT](https://www.youtube.com/watch?v=TZNVgXYcwsw). Ось ще приклади його ігор: [Book of Life](sf-games/b/book-of-life.md) [YT](http://www.ep128.hu/Ep_Games/Pic/Book_of_Life.gif) та [Mutant Test](sf-games/m/mutant-test.md) [YT](https://www.youtube.com/watch?v=B0XesECX5HA).  
   
-Інші ігри, які можна лише глянути: [Tombs of Doom](https://youtu.be/OXtZEnOI2Vw), **Super Pipeline II**, [Bulldozer](https://youtu.be/9zU7RjULJJo), [R2D2](https://youtu.be/iFxxl7Y68qQ), [Mirror World](https://www.youtube.com/watch?v=tln82A5d_r8), [Eggs of Death](https://www.youtube.com/watch?v=N9C0ao_f1_g).  
+Інші ігри, які можна лише глянути: [Tombs of Doom](sf-games/c/catacomb.md) [YT](https://youtu.be/OXtZEnOI2Vw), [Super Pipeline II](sf-games/s/super-pipeline2.md), [Bulldozer](sf-games/b/bulldozer.md) [YT](https://youtu.be/9zU7RjULJJo), [R2D2](sf-games/r/r2d2.md) [YT](https://youtu.be/iFxxl7Y68qQ), [Mirror World](sf-games/m/mirror-world.md) [YT](https://www.youtube.com/watch?v=tln82A5d_r8), [Eggs of Death](sf-games/e/eggs-of-death.md) [YT](https://www.youtube.com/watch?v=N9C0ao_f1_g).  
   
-А є і такі які викликають лише фрустрацію через нереальну складність: [Abyss](https://youtu.be/B-dlyyltjNo), [Airwolf](https://www.youtube.com/watch?v=lE9c4rWqq7E), [Devil's Lair](https://youtu.be/ed0st5KKnX0), [Jack's House of Cards](https://youtu.be/G1Xp-xgFl2U), [The Lands of Havoc](https://www.youtube.com/watch?v=XCuCq5jde2M).  
+А є і такі які викликають лише фрустрацію через нереальну складність: [The Abyss](sf-games/a/abyss.md) [YT](https://youtu.be/B-dlyyltjNo), [Airwolf](sf-games/a/airwolf1.md) [YT](https://www.youtube.com/watch?v=lE9c4rWqq7E), [Devil's Lair](sf-games/d/devils-lair.md) [YT](https://youtu.be/ed0st5KKnX0), [Jack's House of Cards](sf-games/j/jacks-house-of-cards.md) [YT](https://youtu.be/G1Xp-xgFl2U), [The Lands of Havoc](sf-games/l/lands-of-havoc.md) [YT](https://www.youtube.com/watch?v=XCuCq5jde2M).  
   
 ## XXI сторіччя  
   
 Після 2005 року, коли ком'юніті створило осередок на форумі enterpriseforever, були написані нормальні емулятори і ентузіасти ознайомились з іграми на сусідніх платформах, почали з'являтись конверсії ігор нормальної якості (а інколи і з візуальними покращеннями) з ZX Spectrum, Amstrad CPC, Commodore 16 Plus/4, аркадних автоматів, Atari (8-bit), Spectrum Next та інших.  
   
-Зазвичай це багатоколірні тайтли які могли б отримати офіційні релізи ще у 80-х: [Exolon](https://www.youtube.com/watch?v=WuA-syNkmJo), [Nebulus](https://youtu.be/4h9maFWsC48), [Prince of Persia](https://www.youtube.com/watch?v=1WRPB7RdL5Y), **La Abadia Del Crimen**, [Alien 8](https://youtu.be/Qq-DjhiOXog), **ATF**, [Barbarian](https://youtu.be/I0WMQzVFRuI), **Cybernoid 1** та **2**, **Boulder Dash**, **Castle Master 1** та **2**, [Chase H.Q.](https://www.youtube.com/watch?v=WXCk-lGaKbM), **Commando**, [Crazy Cars 1](https://www.youtube.com/watch?v=DzcEC5XSijY) та **2**, **Dark Side**, **Deflector**, **Dizzy 7**, **Driller**, [Green Beret](https://www.youtube.com/watch?v=Aiy_9Mz--5M), [H.E.R.O.](https://youtu.be/a9G5b2YzAc0), **Head over Heels**, **Heartland**, **Hydrofool**, **Ikari Warriors**, **Impossible Mission 1** та **2**, [Inside Outing](https://www.youtube.com/watch?v=jwTae4lC-i0), [International Karate Plus](https://www.youtube.com/watch?v=KvTHOaR0E9w), [Krakout](https://www.youtube.com/watch?v=Lb0shkDJfAk), **Microprose Soccer**, [Nigel Mansell's Grand Prix](https://www.youtube.com/watch?v=6GIzqTJhQPE), [North & South](https://www.youtube.com/watch?v=5lP7Y0lKqAk), [North Star](https://www.youtube.com/watch?v=UNDmFsijbCE), [Raster Runner](https://youtu.be/xp3EMdsBDXg), [Rick Dangerous 1](https://youtu.be/epSvMDbLo00) та [2](https://youtu.be/MtEijEMLBlE), [Short Circuit](https://www.youtube.com/watch?v=eB_835CwlSA), [SwitchBlade](https://www.youtube.com/watch?v=W7X4H6xJV2o), [WEC le Mans](https://www.youtube.com/watch?v=BPULrPCMsCM) та інших.  
+Зазвичай це багатоколірні тайтли які могли б отримати офіційні релізи ще у 80-х: [Exolon](sf-games/e/exolon-cpc.md) [YT](https://www.youtube.com/watch?v=WuA-syNkmJo), [Nebulus](sf-games/n/nebulus-cpc.md) [YT](https://youtu.be/4h9maFWsC48), [Prince of Persia](sf-games/p/prince-of-persia-cpc.md) [YT](https://www.youtube.com/watch?v=1WRPB7RdL5Y), [La Abadia Del Crimen](sf-games/a/abadia-del-crimen-cpc.md), [Alien 8](sf-games/a/alien8-cpc.md) [YT](https://youtu.be/Qq-DjhiOXog), [ATF](sf-games/a/atf-cpc.md), [Barbarian](sf-games/b/barbarian1-cpc.md) [YT](https://youtu.be/I0WMQzVFRuI), [Cybernoid 1](sf-games/c/cybernoid1-cpc.md) та [2](sf-games/c/cybernoid2-cpc.md), [Boulder Dash](sf-games/b/boulder-dash1-cpc.md), [Castle Master 1](sf-games/c/castle-master-cpc.md) та [2](sf-games/c/castle-master2-cpc.md), [Chase H.Q.](sf-games/c/chase-hq-cpc.md) [YT](https://www.youtube.com/watch?v=WXCk-lGaKbM), [Commando](sf-games/c/commando-cpc.md), [Crazy Cars 1](sf-games/c/cross-road-reloaded.md) [YT](https://www.youtube.com/watch?v=DzcEC5XSijY) та [2](sf-games/c/crazy-cars2-cpc.md), [Dark Side](sf-games/d/dark-side-cpc.md), [Deflector](sf-games/d/deflektor-cpc.md), [Dizzy 7](sf-games/d/dizzy7-cpc.md), [Driller](sf-games/d/driller-cpc.md), [Green Beret](sf-games/g/green-beret-cpc.md) [YT](https://www.youtube.com/watch?v=Aiy_9Mz--5M), [H.E.R.O.](sf-games/h/h-e-r-o-cpc.md) [YT](https://youtu.be/a9G5b2YzAc0), [Head over Heels](sf-games/h/head-over-heels-cpc.md), [Heartland](sf-games/h/heartland-cpc.md), [Hydrofool](sf-games/h/hydrofool-cpc.md), [Ikari Warriors](sf-games/i/ikari-warriors-cpc.md), [Impossible Mission 1](sf-games/i/impossible-mission-cpc.md) та [2](sf-games/i/impossible-mission2-cpc.md), [Inside Outing](sf-games/i/inside-outing-cpc.md) [YT](https://www.youtube.com/watch?v=jwTae4lC-i0),[International Karate Plus](sf-games/i/international-karate-plus-reloaded-cpc.md)  [YT](https://www.youtube.com/watch?v=KvTHOaR0E9w), [Krakout](sf-games/k/krakout-cpc.md) [YT](https://www.youtube.com/watch?v=Lb0shkDJfAk), [Microprose Soccer](sf-games/m/microprose-soccer-reloaded-cpc.md), [Nigel Mansell's Grand Prix](sf-games/n/nigel-mansells-gp-cpc.md) [YT](https://www.youtube.com/watch?v=6GIzqTJhQPE), [North & South](sf-games/n/north-and-south-cpc.md) [YT](https://www.youtube.com/watch?v=5lP7Y0lKqAk), [North Star](sf-games/n/north-star-cpc.md) [YT](https://www.youtube.com/watch?v=UNDmFsijbCE), [Raster Runner](sf-games/r/raster-runner-cpc.md) [YT](https://youtu.be/xp3EMdsBDXg), [Rick Dangerous 1](sf-games/r/rick-dangerous-cpc.md) [YT](https://youtu.be/epSvMDbLo00) та [2](sf-games/r/rick-dangerous2-zx.md) [YT](https://youtu.be/MtEijEMLBlE), [Short Circuit](sf-games/s/short-circuit-cpc.md) [YT](https://www.youtube.com/watch?v=eB_835CwlSA), [SwitchBlade](sf-games/s/switchblade-cpc.md) [YT](https://www.youtube.com/watch?v=W7X4H6xJV2o), [WEC le Mans](sf-games/w/wec-le-mans-cpc.md) [YT](https://www.youtube.com/watch?v=BPULrPCMsCM) та інших.  
   
 Але і сучасні ігри теж переносять на Ентерпрайз.  
-Портовані були майже усі ігри команди 4MHz: [Adios a la Casta 1](https://www.youtube.com/watch?v=Ozpdf_p5zgg) та [2](https://www.youtube.com/watch?v=atNI0AMza8k), [El Tesoro Perdido de Cuauhtemoc](https://www.youtube.com/watch?v=3KOkTQU0qhY), **Profanation 2. Escape from Abu Simbel**, [Operation Alexandra](https://www.youtube.com/watch?v=V8TfVLIrxDo) які є доволі чудовими.  
+Портовані були майже усі ігри команди 4MHz: [Adios a la Casta 1](sf-games/a/adios-a-la-casta-ep1-cpc.md) [YT](https://www.youtube.com/watch?v=Ozpdf_p5zgg) та [2](sf-games/a/adios-a-la-casta-ep2-cpc.md) [YT](https://www.youtube.com/watch?v=atNI0AMza8k), [El Tesoro Perdido de Cuauhtemoc](sf-games/t/tesoro-perdido-de-cuauhtemoc-cpc.md) [YT](https://www.youtube.com/watch?v=3KOkTQU0qhY), [Profanation 2: Escape from Abu Simbel](sf-games/p/profanation2-cpc.md), [Operation Alexandra](sf-games/o/operation-alexandra-cpc.md) [YT](https://www.youtube.com/watch?v=V8TfVLIrxDo) які є доволі чудовими.  
   
-Bибрані тайтли RetroWorks: [The Sword of Ianna](https://www.youtube.com/watch?v=ZpCaCE0TOEk) та [Los Amores de Brunilda](https://www.youtube.com/watch?v=7U94bDMLVDQ) які, нажаль, підуть лише на проапгрейджених машинах.  
+Bибрані тайтли RetroWorks: [The Sword of Ianna](sf-games/s/sword-of-ianna-cpc.md) [YT](https://www.youtube.com/watch?v=ZpCaCE0TOEk) та [Los Amores de Brunilda](sf-games/a/amores-de-brunilda-cpc.md) [YT](https://www.youtube.com/watch?v=7U94bDMLVDQ) які, нажаль, підуть лише на проапгрейджених машинах.  
   
-Аркадні проекти Mojon Twins: **Sir Ababol**, **Lala Prologue**, **Sgt. Helmet Zero**, **Uwol: Quest For Money**, **Subacuatic**, **Nanako in Classic Japanese Monster Castle**, **Phantomas Tales #1: Marsport** які, якщо чесно, доволі середньої іграбельності.  
+Аркадні проекти Mojon Twins: [Sir Ababol](sf-games/s/sir-ababol-cpc.md), [Lala Prologue](sf-games/l/lala-prologue-cpc.md), [Sgt. Helmet Zero](sf-games/s/sgt-helmet-zero-zx.md), [Uwol: Quest For Money](sf-games/u/uwol2-cpc.md), [Subacuatic](sf-games/s/subacuatic-zx.md), [Nanako in Classic Japanese Monster Castle](sf-games/n/nanako-in-classic-japanese-monster-castle-cpc.md), [Phantomas Tales #1: Marsport](sf-games/p/phantomas-tales1-marsport-cpc.md) які, якщо чесно, доволі середньої іграбельності.  
   
 Портовані сучасні ремейки старих хітів:
 
-- [Atic Atac](https://www.youtube.com/watch?v=sRyE2Y38ugY)
-- [R-Type (easter egg)](https://www.youtube.com/watch?v=m1VjO7mUV_s)  
+- [Atic Atac](sf-games/a/atic-atac-cpc.md) [YT](https://www.youtube.com/watch?v=sRyE2Y38ugY)
+- [R-Type (easter egg)](sf-games/r/r-type-cpc.md) [YT](https://www.youtube.com/watch?v=m1VjO7mUV_s)  
 
 та зроблені свої:  
 
-- [Fred Reloaded](https://www.youtube.com/watch?v=HCrrT9IfwiE) з трьома режимами графіки
-- [The Hobbit](https://www.youtube.com/watch?v=wl1xazdbxrY) з повністю новими зображеннями
-- [Renegade Plus](https://www.youtube.com/watch?v=41lj-sVjG0Y) з прокручуванням екрану.
+- [Fred Reloaded](sf-games/f/fred-reloaded.md) [YT](https://www.youtube.com/watch?v=HCrrT9IfwiE) з трьома режимами графіки
+- [The Hobbit](sf-games/h/hobbit.md) [YT](https://www.youtube.com/watch?v=wl1xazdbxrY) з повністю новими зображеннями
+- [Renegade Plus](sf-games/r/renegade-plus-cpc.md) [YT](https://www.youtube.com/watch?v=41lj-sVjG0Y) з прокручуванням екрану.
 
-Ось ще перелік нових та старих ігор з різноманітних платформ: [Star Sabre](https://www.youtube.com/watch?v=zDyl0546GM0) (CPC), [Sub Hunter](https://youtu.be/U9uTOJT2NPg) (CPC), [Atomix](https://www.youtube.com/watch?v=SRgwVIL5zu4) (C64), [Attack of PETSCII Robots](https://www.youtube.com/watch?v=t23FI3rXqu4) (CPET/C64), [Crillion/Quadrillion](https://www.youtube.com/watch?v=EoWHM5BiMHU) (C64/C16), [Exorcist](https://www.youtube.com/watch?v=p6bfPN8ERRs) (C16), [Rescue from Zylon](https://youtu.be/4s4Hb56hDo4) (C16), [Squirm](https://www.youtube.com/watch?v=cSfx-C0ePpA) (C64/C16), [The Next War](https://youtu.be/qk1P-hGWYjw) (Next), [Wizard of Wor](https://www.youtube.com/watch?v=QA_53eTsei0) (Arcade), [Space Invaders](https://www.youtube.com/watch?v=lvxaPFWGzEE) (Arcade), [Pacman](https://youtu.be/RZ0gQkF9Xlg) (CPC/Arcade), [Buzzsaw+](https://www.youtube.com/watch?v=XGLN-miSz5o) (ZX), [Skramble](https://www.youtube.com/watch?v=4m_AjUSxa-w), [Oh Chute!](https://www.youtube.com/watch?v=y9KALur0TNE&t=11s) (CPC+), [Yoomp!](https://www.youtube.com/watch?v=BXybXA11L40) (Atari), [Castlevania. Spectral Interlude](https://www.youtube.com/watch?v=jnsHXZI2WbI) (ZX), [The Speccies](https://www.youtube.com/watch?v=-yrW-o20KVo) (ZX), [Mag the Magician](https://www.youtube.com/watch?v=Y19T4pN-SRk) (ZX/ZX Uno).  
+Ось ще перелік нових та старих ігор з різноманітних платформ: [Star Sabre](sf-games/s/star-sabre-cpc.md) [YT](https://www.youtube.com/watch?v=zDyl0546GM0) (CPC), [Sub Hunter](sf-games/s/sub-hunter-cpc.md) [YT](https://youtu.be/U9uTOJT2NPg) (CPC), [Atomix](sf-games/a/atomix.md) [YT](https://www.youtube.com/watch?v=SRgwVIL5zu4) (C64), [Attack of PETSCII Robots](sf-games/a/attack-of-the-petscii-robots.md) [YT](https://www.youtube.com/watch?v=t23FI3rXqu4) (CPET/C64), [Crillion](sf-games/c/crillion-c64.md)/[Quadrillion](sf-games/q/quadrillion-c16.md) [YT](https://www.youtube.com/watch?v=EoWHM5BiMHU) (C64/C16), [Exorcist](sf-games/e/exorcist-c16.md) [YT](https://www.youtube.com/watch?v=p6bfPN8ERRs) (C16), [Rescue from Zylon](sf-games/r/rescue-from-zylon-c16.md) [YT](https://youtu.be/4s4Hb56hDo4) (C16), [Squirm](sf-games/s/squirm16-c16.md) [YT](https://www.youtube.com/watch?v=cSfx-C0ePpA) (C64/C16), [The Next War](sf-games/n/next-war-zxnext.md) [YT](https://youtu.be/qk1P-hGWYjw) (Next), [Wizard of Wor](sf-games/w/wizard-of-wor-arcade.md) [YT](https://www.youtube.com/watch?v=QA_53eTsei0) (Arcade), [Space Invaders](sf-games/s/space-invaders-plus-arcade.md) [YT](https://www.youtube.com/watch?v=lvxaPFWGzEE) (Arcade), [Pacman](sf-games/p/pacman-arcade.md) [YT](https://youtu.be/RZ0gQkF9Xlg) (CPC/Arcade), [Buzzsaw+](sf-games/b/buzzsaw-plus-zx.md) [YT](https://www.youtube.com/watch?v=XGLN-miSz5o) (ZX), [Skramble](sf-games/s/skramble.md) [YT](https://www.youtube.com/watch?v=4m_AjUSxa-w), [Oh Chute!](sf-games/o/oh-chute-cpcp.md) [YT](https://www.youtube.com/watch?v=y9KALur0TNE&t=11s) (CPC+), [Yoomp!](sf-games/y/yoomp-atari.md) [YT](https://www.youtube.com/watch?v=BXybXA11L40) (Atari), [Castlevania: Spectral Interlude](sf-games/c/castlevania-spectral-interlude-zx.md) [YT](https://www.youtube.com/watch?v=jnsHXZI2WbI) (ZX), [The Speccies](sf-games/s/speccies1-zx.md) [YT](https://www.youtube.com/watch?v=-yrW-o20KVo) (ZX), [Mag the Magician](sf-games/m/mag-the-magician-zx.md) [YT](https://www.youtube.com/watch?v=Y19T4pN-SRk) (ZX/ZX Uno).  
   
 От з ексклюзивними проектами, дійсно, доволі сухо:
 
-- [Treasure Cave](https://www.youtube.com/watch?v=wmmxRWdMrhw) що використовує недокументований текстовий режим
-- [Bricky Prise](https://www.youtube.com/watch?v=-q8d8XWXnyA) фізичний реліз якої все ніяк не наважаться зробити
-- [Banana](https://www.youtube.com/watch?v=DsvuVHIMsac) та [Banana 2](https://www.youtube.com/watch?v=uVIQ_sS5iew) (де автору допомагала його донька)
-- [XOR Game](https://www.youtube.com/watch?v=Pe1rnBS8izg) демейк гри з ПК  
+- [Treasure Cave](sf-games/t/treasure-cave.md) [YT](https://www.youtube.com/watch?v=wmmxRWdMrhw) що використовує 16-колірний текстовий режим
+- [Bricky Prise](sf-games/b/bricky-prise.md) [YT](https://www.youtube.com/watch?v=-q8d8XWXnyA) фізичний реліз якої все ніяк не наважаться зробити
+- [Banana](sf-games/b/banana.md) [YT](https://www.youtube.com/watch?v=DsvuVHIMsac) та [Banana 2](sf-games/b/banana2.md) [YT](https://www.youtube.com/watch?v=uVIQ_sS5iew) (де автору допомагала його донька)
+- [XOR Game](sf-games/x/xorgame.md) [YT](https://www.youtube.com/watch?v=Pe1rnBS8izg) демейк гри з ПК  
 
 ігри написані на Бейсіку:
 
-- [EnterSnake](https://www.youtube.com/watch?v=v-RUeBPy_zo)
-- [Dot Collector. Turbo edition](https://youtu.be/TF13drj1S2c)  
+- [EnterSnake](sf-games/e/entersnake-bas.md) [YT](https://www.youtube.com/watch?v=v-RUeBPy_zo)
+- [Dot Collector: Turbo edition](sf-games/d/dot-collector-turbo-ed-bas.md) [YT](https://youtu.be/TF13drj1S2c)  
 
 та інші.
 

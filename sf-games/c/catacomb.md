@@ -17,6 +17,10 @@
 **ID:** catacomb
 
 
+## Примітка
+
+ℹ Офіційний реліз (?).
+
 ## Скріншоти
 <img src="screens/scrn_catacomb_01.png" width="24%">
 <img src="screens/scrn_catacomb_02.png" width="24%">

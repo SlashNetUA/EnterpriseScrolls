@@ -18,7 +18,7 @@
 
 ## Примітка
 
-Test version
+ℹ Тестова неофіційна конверсія з платформи ZX Spectrum.
 
 ## Скріншоти
 <img src="screens/scrn_bubble-bobble-2023-agd_01.png" width="24%">

@@ -14,6 +14,10 @@
 **ID:** crillion-c64
 
 
+## Примітка
+
+ℹ Сучасна неофіційна конверсія з платформ Commodore 64 та Commodore Plus/4.
+
 ## Скріншоти
 <img src="screens/scrn_crillion-c64_01.png" width="24%">
 <img src="screens/scrn_crillion-c64_02.png" width="24%">

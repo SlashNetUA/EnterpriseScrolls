@@ -18,7 +18,8 @@
 
 ## Примітка
 
-Work in progress
+ℹ Тестова неофіційна конверсія з платформи ZX Spectrum.  
+(на рушії MPAGD)
 
 ## Скріншоти
 <img src="screens/scrn_cybernoid-agd_01.png" width="24%">

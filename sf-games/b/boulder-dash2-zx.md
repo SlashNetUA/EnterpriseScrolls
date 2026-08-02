@@ -17,6 +17,11 @@
 **ID:** boulder-dash2-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.  
+(краще використовувати сучасний порт гри з Amstrad CPC / Commodore 64)
+
 ## Скріншоти
 <img src="screens/scrn_boulder-dash2-zx_01.png" width="24%">
 <img src="screens/scrn_boulder-dash2-zx_02.png" width="24%">

@@ -14,6 +14,11 @@
 **ID:** cybernoid1-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.  
+(краще використовувати сучасний порт з Amstrad CPC)
+
 ## Скріншоти
 <img src="screens/scrn_cybernoid1-zx_01.png" width="24%">
 <img src="screens/scrn_cybernoid1-zx_02.png" width="24%">

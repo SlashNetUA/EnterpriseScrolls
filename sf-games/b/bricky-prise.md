@@ -16,6 +16,9 @@
 
 **Жанри:** Аркада, Арканоідо-подібна
 
+## Примітка
+
+ℹ Хоумбрю-гра.
 
 ## Скріншоти
 <img src="screens/scrn_bricky-prise_01.png" width="24%">
@@ -32,6 +35,7 @@
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2, Mouse
 - **Кількість гравців:** 1 player
+- **Додаткові теги:** 16-color mode
 ### Розробка
 - **Рік випуску:** 2016
 - **Автор:** Geco, Endi, Szipucsu

@@ -18,7 +18,8 @@
 
 ## Примітка
 
-Type-in game from Personal Computer World 86.10
+ℹ Хоумбрю-гра.  
+Лістинг був опублікований у журналі Personal Computer World 1986.10
 
 ## Скріншоти
 <img src="screens/scrn_cribbage-bas_01.png" width="24%">

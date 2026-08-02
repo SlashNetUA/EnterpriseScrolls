@@ -14,6 +14,10 @@
 **ID:** cyclops-bas
 
 
+## Примітка
+
+ℹ Хоумбрю-гра.
+
 ## Скріншоти
 <img src="screens/scrn_cyclops-bas_01.png" width="24%">
 <img src="screens/scrn_cyclops-bas_02.png" width="24%">

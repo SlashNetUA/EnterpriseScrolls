@@ -16,6 +16,9 @@
 
 **Жанри:** Екшн, Платформер
 
+## Примітка
+
+ℹ Сучасна неофіційна конверсія з платформи ZX Spectrum.
 
 ## Скріншоти
 <img src="screens/scrn_castlevania-spectral-interlude-zx_01.png" width="24%">
@@ -35,7 +38,7 @@
 - **Додаткові теги:** Attribute mode
 ### Розробка
 - **Рік випуску:** 2015
-- **Автор:** SaNchez [Aleksander Udotov], Vladimir Tugay, Diver [Aleksey Golubtsov], Lev Grinberg
+- **Автор:** Aleksander Udotov (SaNchez), Vladimir Tugay, Aleksey Golubtsov (Diver), Lev Grinberg
 - **Компанія:** Rewind
 
 

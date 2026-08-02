@@ -14,6 +14,10 @@
 **ID:** chessmaster2000-cpc
 
 
+## Примітка
+
+ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC.
+
 ## Скріншоти
 <img src="screens/scrn_chessmaster2000-cpc_01.png" width="24%">
 <img src="screens/scrn_chessmaster2000-cpc_02.png" width="24%">

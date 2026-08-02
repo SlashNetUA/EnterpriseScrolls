@@ -18,7 +18,8 @@
 
 ## Примітка
 
-Type-in game from Personal Computer World 86.01
+ℹ Хоумбрю-гра.  
+Лістинг був опублікований у журналі Personal Computer World 1986.01
 
 
 ## Основна інформація

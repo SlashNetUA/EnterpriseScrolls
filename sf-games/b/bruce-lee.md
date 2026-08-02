@@ -18,7 +18,8 @@
 
 ## Примітка
 
-﻿Missing original release! (mentioned in promo materials)
+ℹ Офіційна конверсія з платформи ZX Spectrum з покращеним звуком.  
+Офіційний реліз не знайдено (згадується у прайс-листах). Можливо, фізичний реліз було вирішено скасувати через банкрутство Enterprise Computers.
 
 ## Скріншоти
 <img src="screens/scrn_bruce-lee_01.png" width="24%">
@@ -35,6 +36,7 @@
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
 - **Кількість гравців:** 1 player, 2 players (alternate), 2 players (versus)
+- **Додаткові теги:** Attribute mode
 ### Розробка
 - **Рік випуску:** 1984
 - **Автор:** L.T. Software, F. David Thorpe [Frederick David Thorpe]

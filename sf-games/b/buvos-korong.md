@@ -14,6 +14,10 @@
 **ID:** buvos-korong
 
 
+## Примітка
+
+ℹ Хоумбрю-гра.
+
 ## Скріншоти
 <img src="screens/scrn_buvos-korong_01.png" width="24%">
 <img src="screens/scrn_buvos-korong_02.png" width="24%">

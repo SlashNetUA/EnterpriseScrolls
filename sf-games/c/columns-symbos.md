@@ -16,12 +16,20 @@
 
 **Жанри:** Тетрісо-подібна
 
+## Примітка
+
+ℹ Сучасна неофіційна версія.
 
 ## Скріншоти
 <img src="screens/scrn_columns-symbos_01.png" width="24%">
 <img src="screens/scrn_columns-symbos_02.png" width="24%">
 <img src="screens/scrn_columns-symbos_03.png" width="24%">
 <img src="screens/scrn_columns-symbos_04.png" width="24%">
+
+
+## Опис
+
+Це надзвичайно точний клон класичної головоломки Columns. Гру було розроблено в середовищі Quigs для SymbOS. Оригінал свого часу створила компанія SEGA. Цей порт хоч і не ідеальний, проте чудово демонструє можливості Quigs.
 
 
 ## Основна інформація

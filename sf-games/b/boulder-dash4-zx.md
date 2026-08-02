@@ -16,7 +16,8 @@
 
 ## Примітка
 
-Game from GamePack 2 cartridge by Palex+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.  
+(краще використовувати сучасний порт гри з Amstrad CPC / Commodore 64)
 
 ## Скріншоти
 <img src="screens/scrn_boulder-dash4-zx_01.png" width="24%">

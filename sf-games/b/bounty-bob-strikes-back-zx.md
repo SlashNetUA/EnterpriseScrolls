@@ -17,6 +17,10 @@
 **ID:** bounty-bob-strikes-back-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_bounty-bob-strikes-back-zx_01.png" width="24%">
 <img src="screens/scrn_bounty-bob-strikes-back-zx_02.png" width="24%">

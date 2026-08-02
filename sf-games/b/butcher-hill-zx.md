@@ -14,6 +14,10 @@
 **ID:** butcher-hill-zx
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_butcher-hill-zx_01.png" width="24%">
 <img src="screens/scrn_butcher-hill-zx_02.png" width="24%">

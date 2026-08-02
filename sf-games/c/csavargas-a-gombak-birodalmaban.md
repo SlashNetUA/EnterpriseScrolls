@@ -14,6 +14,10 @@
 **ID:** csavargas-a-gombak-birodalmaban
 
 
+## Примітка
+
+ℹ Офіційна гра.
+
 ## Скріншоти
 <img src="screens/scrn_csavargas-a-gombak-birodalmaban_01.png" width="24%">
 <img src="screens/scrn_csavargas-a-gombak-birodalmaban_02.png" width="24%">

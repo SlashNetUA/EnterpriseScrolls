@@ -18,6 +18,10 @@
 **ID:** caesar-a-cica-zx
 
 
+## Примітка
+
+ℹ Стара офіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_caesar-a-cica-zx_01.png" width="24%">
 <img src="screens/scrn_caesar-a-cica-zx_02.png" width="24%">

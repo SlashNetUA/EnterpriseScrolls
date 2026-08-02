@@ -10,14 +10,35 @@
 
 # Cracker Game
 
+**Альтернативні назви:**
+ - Code Cracker
+
 
 **ID:** cracker-game
 
+
+**Жанри:** Логічна
+
+## Примітка
+
+ℹ Хоумбрю-гра.
 
 ## Скріншоти
 <img src="screens/scrn_cracker-game_01.png" width="24%">
 <img src="screens/scrn_cracker-game_02.png" width="24%">
 <img src="screens/scrn_cracker-game_03.png" width="24%">
+
+
+## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
+### Загальні системні вимоги
+- **Апаратні:** EP128
+### Геймплей
+- **Додаткові теги:** 4-color mode
+### Розробка
+- **Рік випуску:** 1991
+- **Автор:** EXOSWORM Digital Corp
 
 
 ## Посилання

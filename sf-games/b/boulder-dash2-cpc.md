@@ -17,6 +17,10 @@
 **ID:** boulder-dash2-cpc
 
 
+## Примітка
+
+ℹ Сучасна неофіційна конверсія гри заснована на версіях з платформ Amstrad CPC та Commodore 64.
+
 ## Скріншоти
 <img src="screens/scrn_boulder-dash2-cpc_01.png" width="24%">
 <img src="screens/scrn_boulder-dash2-cpc_02.png" width="24%">

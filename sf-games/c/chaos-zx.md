@@ -17,6 +17,10 @@
 **ID:** chaos-zx
 
 
+## Примітка
+
+ℹ Сучасна неофіційна конверсія з платформи ZX Spectrum.
+
 ## Скріншоти
 <img src="screens/scrn_chaos-zx_01.png" width="24%">
 <img src="screens/scrn_chaos-zx_02.png" width="24%">

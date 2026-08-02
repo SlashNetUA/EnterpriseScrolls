@@ -14,6 +14,10 @@
 **ID:** chase-hq-cpc
 
 
+## Примітка
+
+ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC.
+
 ## Скріншоти
 <img src="screens/scrn_chase-hq-cpc_01.png" width="24%">
 <img src="screens/scrn_chase-hq-cpc_02.png" width="24%">

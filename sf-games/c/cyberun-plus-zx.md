@@ -14,6 +14,12 @@
 **ID:** cyberun-plus-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_cyberun-plus-zx_01.png" width="24%">
 <img src="screens/scrn_cyberun-plus-zx_02.png" width="24%">
@@ -22,7 +28,10 @@
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
 
 
 ## Посилання

@@ -17,6 +17,10 @@
 **ID:** centrumball
 
 
+## Примітка
+
+ℹ Стара неофіційна конверсія з платформи ZX Spectrum (яка все ж отримала реліз в Угорщині).
+
 ## Скріншоти
 <img src="screens/scrn_centrumball_01.png" width="24%">
 <img src="screens/scrn_centrumball_02.png" width="24%">
