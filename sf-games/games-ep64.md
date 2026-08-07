@@ -133,6 +133,7 @@
 - △ [Heathrow A.T.C.](h/heathrow-atc.md)
 - △ [The Hit Squad](h/hit-squad-zx.md)
 - △ [HOPMAN](h/hopman.md)
+- △ [Hyper Active](h/hyper-active-zx.md)
 
 # I
 

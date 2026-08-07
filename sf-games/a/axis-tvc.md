@@ -25,8 +25,6 @@
 <img src="screens/scrn_axis-tvc_02.png" width="24%">
 <img src="screens/scrn_axis-tvc_03.png" width="24%">
 <img src="screens/scrn_axis-tvc_04.png" width="24%">
-<img src="screens/scrn_axis-tvc_05.png" width="24%">
-<img src="screens/scrn_axis-tvc_06.png" width="24%">
 
 
 ## Опис
