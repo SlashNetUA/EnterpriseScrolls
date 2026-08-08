@@ -11,7 +11,7 @@ CBM Multi File Transfer
 # Емулятори
 
 [Апаратний емулятор ZX Spectrum 48](he-zxemu.md)  
-[Апаратний емулятор ZX Spectrum від BoxSoft](he-zxemu-boxsoft.md)
+[Sinclair Emulation Unit](he-zxemu-boxsoft.md) від BoxSoft
 
 # Пристрої введення інформації
 
@@ -70,7 +70,8 @@ Microvitec CUB 1451 MS
 Вбудована  
 [EPNET](net/hn-epnet.md)  
 ESP  
-Модеми  
+[Serial/Modem Card](net/hn-bugtronics-modem.md) від Bugtronics  
+[Модем](net/hn-modem-horst.md) від Roelof J.Horst
 
 # Пристрої розширення системної шини
 

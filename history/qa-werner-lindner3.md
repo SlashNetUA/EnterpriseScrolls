@@ -150,8 +150,8 @@
 
 **Werner Lindner**: Оригінальне внутрішнє розширення пам'яті на 64 кБ прямо з заводу [Elec&Eltek](../companies/elec-and-eltek.md). Там відсутня одна мікросхема (U111). На той час деякі компоненти було неможливо дістати на Далекому Сході, тому розширення пам'яті вироблялися без них. Компоненти, яких бракувало, доводилося впаювати в друковані плати пізніше, вже під час процесу збирання на фабриці [GRI](../companies/gri-ltd.md).
 
-<img src="../hardware/ram-expansion/int-ram-exp-03-08_01.jpg" width="42%"> 
-<img src="../hardware/ram-expansion/int-ram-exp-03-08_02.jpg" width="42%"> 
+<img src="../hardware/ram-expansion/pics/int-ram-exp-03-08_01.jpg" width="42%"> 
+<img src="../hardware/ram-expansion/pics/int-ram-exp-03-08_02.jpg" width="42%"> 
 
 ----
 
@@ -159,8 +159,8 @@
 
 > **Werner Lindner**: Я створив внутрішню плату статичної пам'яті на 64 КБ для ENTERPRISE, щоб апгрейдити 64-кілобайтні машини до 128 кілобайт. У мене є порожні друковані плати (PCB) цього розширення, але вони з ранньої партії виробництва, і там бракує однієї доріжки/провідника (як ви можете бачити на фотографії готового виробу).
 
-<img src="../hardware/ram-expansion/int-ram-exp-03-08-mod_01.jpg" width="30%"> 
-<img src="../hardware/ram-expansion/int-ram-exp-03-08-mod_02.jpg" width="48%"> 
+<img src="../hardware/ram-expansion/pics/int-ram-exp-03-08-mod_01.jpg" width="30%"> 
+<img src="../hardware/ram-expansion/pics/int-ram-exp-03-08-mod_02.jpg" width="48%"> 
 
 ----
 

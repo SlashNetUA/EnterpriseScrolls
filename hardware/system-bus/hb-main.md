@@ -50,3 +50,5 @@ Expansion Motherboard (проект)
 Статус: не актуальна
 
 [Mini DDC](hd-mini-ddc.md)
+
+[Motherboard](hb-bugtronics-mb.md) від [Bugtronics](../../companies/bugtronics.md)
