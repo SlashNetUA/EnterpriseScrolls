@@ -10,7 +10,8 @@ CBM Multi File Transfer
 
 # Емулятори
 
-[Апаратний емулятор ZX Spectrum 48](he-zxemu.md)
+[Апаратний емулятор ZX Spectrum 48](he-zxemu.md)  
+[Апаратний емулятор ZX Spectrum від BoxSoft](he-zxemu-boxsoft.md)
 
 # Пристрої введення інформації
 
