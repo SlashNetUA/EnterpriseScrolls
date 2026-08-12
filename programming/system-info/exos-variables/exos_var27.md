@@ -10,5 +10,5 @@ Border colour of screen.
 
 ----
 
-See also: [BORDER](../../../manuals/is-basic-man-en/options/man_vo-border.md)
+See also: [BORDER](../../../manuals/is-basic-man-en/options/man_vo-border.md); [Port 129](../ports/port129.md)
 

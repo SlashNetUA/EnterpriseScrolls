@@ -40,7 +40,7 @@
 ## Відео
 
 [Програмування Nick](system-info/nick/pro-nick.md)  
-[Коротко о відеорежимах]  
+[Коротко о відеорежимах](system-info/info_video-modes.md)  
 [LPT](system-info/nick/lpt.md)  
 [Палітра кольорів](system-info/info_colour-palette.md)    
 

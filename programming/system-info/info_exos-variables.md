@@ -8,7 +8,7 @@
 
 Системні виклики EXOS для читання / запису / інверсії (перемикання) системних змінних дозволяють користувачеві, драйверу периферії або розширенню системи отримувати доступ до цих змінних, не знаючи їхніх фактичних адрес у пам'яті. 
 
-
+[Додаткові системні змінні](exos-variables/system-variables.md).
 
 0 [IRQ_ENABLE_STATE](exos-variables/exos_var0.md) (system)  
 1 [FLAG_SOFT_IRQ](exos-variables/exos_var1.md) (system)  
@@ -122,7 +122,7 @@
 143 [VAR 143](exos-variables/exos_var143_zozotools.md)  
 
 ## Language extensions
-140 [VAR 140](exos-variables/exos_var140.md) Language extensions  (?)
+140 [VAR 140](exos-variables/exos_var140.md) Language extensions  (?)  
 144 [VAR 144](exos-variables/exos_var144.md) Language extensions  
 
 ## DBASX

@@ -24,6 +24,6 @@
 ## Згадки
 
  - [Питання та відповіді з Вернером Лінднером](../../history/qa-werner-lindner4.md)
- - Журнал [Enterface 1987.04-05](http://enterprise.iko.hu/magazines/ENTERface_198704-05.pdf)
- - Журнал [Enterface 1987.12-1988.01](http://enterprise.iko.hu/magazines/ENTERface_198712-198801.pdf)
- - Журнал [Enterface 1989.05-06](http://enterprise.iko.hu/magazines/ENTERface_198905-06.pdf)
+ - Журнал [Enterface 1987.04-05](../../press/magz/enterface-nl/ef-87-04-05.md)
+ - Журнал [Enterface 1987.12-1988.01](../../press/magz/enterface-nl/ef-87-12-01.md)
+ - Журнал [Enterface 1989.05-06](../../press/magz/enterface-nl/ef-89-05-06.md)

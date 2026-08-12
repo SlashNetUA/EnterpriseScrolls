@@ -6,4 +6,4 @@ Changes the border to the colour corresponding to the specified standard **color
 
 ----
 
-See also [EXOS VAR 27 - BORD_VID](../../../programming/system-info/exos-variables/exos_var27.md)
+See also [EXOS VAR 27 - BORD_VID](../../../programming/system-info/exos-variables/exos_var27.md); [Port 129](../../../programming/system-info/ports/port129.md)

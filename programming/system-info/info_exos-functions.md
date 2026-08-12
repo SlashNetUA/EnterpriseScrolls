@@ -1,5 +1,6 @@
 # Функції EXOS
 
+0x0 Reset EXOS  
 0x1 Open channel  
 0x2 Create channel  
 0x3 Close channel  
