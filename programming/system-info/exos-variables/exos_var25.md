@@ -1,5 +1,7 @@
 # 25 - Y_SIZ_VID
 
+Пристрій: [VIDEO](../exos-devices/video.md)  
+
 `ASK 25 var`  
 `SET 25, expr`  
 `TOGGLE 25` - inverts value.
@@ -8,7 +10,7 @@ Y page size. This variable select the characteristics of a video page when it op
 
 **24**: (default)
 
-The vertical size is specified in character rows. It can be any value from **1** to **255** although only **27** rows can be displayed on the screen at one time. Invalid values will produce an error (.VSIZE) when a channel is opened.
+The vertical size is specified in character rows. It can be any value from **1** to **255** although only **27** rows can be displayed on the screen at one time. Invalid values will produce an error [.VSIZE](../errors/err-vsize.md) when a channel is opened.
 
 ----
 

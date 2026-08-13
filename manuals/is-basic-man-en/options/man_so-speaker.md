@@ -6,4 +6,4 @@
 
 Controls sound output from the internal speaker; `SET SPEAKER OFF` is used for silencing the machine quickly.
 
-See also [EXOS VAR 14](../../../programming/system-info/exos-variables/exos_var14.md).   
+See also [EXOS VAR 14](../../../programming/system-info/exos-variables/exos_var14.md); [Port 128 FIXBIAS](../../../programming/system-info/ports/port128.md) .   

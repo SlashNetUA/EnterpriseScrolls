@@ -1,5 +1,7 @@
 # 9 - KEY_IRQ
 
+Пристрій: [KEYBOARD](../exos-devices/keyboard.md)  
+
 `ASK 9 var`  
 `SET 9, expr`  
 `TOGGLE 9` - inverts value.

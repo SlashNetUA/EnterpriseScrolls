@@ -1,5 +1,7 @@
 # 27 - BORD_VID
 
+Пристрій: [VIDEO](../exos-devices/video.md)  
+
 `ASK 27 var`  
 `SET 27, expr`  
 `TOGGLE 27` - inverts value.

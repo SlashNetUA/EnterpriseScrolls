@@ -1,5 +1,7 @@
 # 35 - LV_TAPE
 
+Пристрій: [TAPE](../exos-devices/tape.md)  
+
 `ASK 35 var`  
 `SET 35, expr`  
 `TOGGLE 35` - inverts value.

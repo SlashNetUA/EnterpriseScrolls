@@ -12,4 +12,4 @@
 **2**: (**HUN** locale) [Localization extention](../../../software/ss-localizations.md) present. ([Enterprise Plus](../../../hardware/cartridge/enterprise-plus.md) only)  
 
 [^1]: didn't switch keyboard layout and fonts. But programs can change language of messages.  
-[^2]: **not exist** cause error #9242 (Unknown EXOS variable number).
+[^2]: **not exist** cause error [#9242](../errors/9k/err-9242.md) (Unknown EXOS variable number).

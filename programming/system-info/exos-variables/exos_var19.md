@@ -1,5 +1,7 @@
 # 19 - NET_IRQ
 
+Пристрій: [NET](../exos-devices/net.md)  
+
 `ASK 19 var`  
 `SET 19, expr`  
 `TOGGLE 19` - inverts value.

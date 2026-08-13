@@ -124,9 +124,9 @@ RTC
 
 ## Процесори/сопроцесори
 
-Zilog Z80  
-Zilog Z180  
-AM9511  
+[Zilog Z80](cpu/z80.md)  
+[Zilog Z180](cpu/z180.md)  
+[AM9511](cpu/am9511.md)  
 
 ## Чіпсет
 

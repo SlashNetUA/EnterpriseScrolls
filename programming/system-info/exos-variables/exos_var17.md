@@ -1,5 +1,7 @@
 # 17 - FORM_SER
 
+Пристрій: [SERIAL](../exos-devices/serial.md)/[NET](../exos-devices/net.md)  
+
 `ASK 17 var`  
 `SET 17, expr`  
 `TOGGLE 17` - inverts value.

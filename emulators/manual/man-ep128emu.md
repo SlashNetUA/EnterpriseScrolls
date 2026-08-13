@@ -30,7 +30,7 @@
  - tape emulation (see general features for details)
  - **WD177x** (floppy drive controller) emulation for [EXDOS](../../hardware/hd-exdos.md)
  - IDE hard disk emulation; supports up to 4 2 GB disks, image files can be in raw or VHD format
- - optional extension ROM (epfileio.rom) that implements a [FILE:](../../programming/system-info/exos-devices/file.md) device for direct access to files on the host system in a single user selectable directory
+ - optional extension ROM (epfileio.rom) that implements a [FILE:](../../programming/system-info/exos-devices/fileio.md) device for direct access to files on the host system in a single user selectable directory
  - [Spectrum emulator card](../../hardware/he-zxemu.md) emulation
  - real time clock (at ports 7E, 7F)
  - external 4-channel 8-bit DAC at ports F0 to F3

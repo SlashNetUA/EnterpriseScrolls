@@ -1,5 +1,7 @@
 # 28 - BIAS_VID
 
+Пристрій: [VIDEO](../exos-devices/video.md)  
+
 `ASK 28 var`  
 `SET 28, expr`  
 `TOGGLE 28` - inverts value.

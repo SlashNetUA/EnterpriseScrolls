@@ -1,5 +1,7 @@
 # 21 - MACH_NET
 
+Пристрій: [NET](../exos-devices/net.md)  
+
 `ASK 21 var`  
 `SET 21, expr`  
 `TOGGLE 21` - inverts value.

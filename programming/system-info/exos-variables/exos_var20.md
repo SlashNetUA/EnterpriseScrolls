@@ -1,5 +1,7 @@
 # 20 - CHAN_NET
 
+Пристрій: [NET](../exos-devices/net.md)  
+
 `ASK 20 var`  
 `SET 20, expr`  
 `TOGGLE 20` - inverts value.

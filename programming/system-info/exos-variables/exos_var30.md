@@ -1,5 +1,7 @@
 # 30 - KEY_EDIT
 
+Пристрій: [EDITOR](../exos-devices/editor.md)  
+
 `ASK 30 var`  
 `SET 30, expr`  
 `TOGGLE 30` - inverts value.

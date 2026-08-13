@@ -1,5 +1,7 @@
 # 29 - VID_EDIT
 
+Пристрій: [EDITOR](../exos-devices/editor.md)  
+
 `ASK 29 var`  
 `SET 29, expr`  
 `TOGGLE 29` - inverts value.

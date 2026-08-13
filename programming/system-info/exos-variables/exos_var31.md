@@ -1,5 +1,7 @@
 # 31 - BUF_EDIT
 
+Пристрій: [EDITOR](../exos-devices/editor.md)  
+
 `ASK 31 var`  
 `SET 31, expr`  
 `TOGGLE 31` - inverts value.

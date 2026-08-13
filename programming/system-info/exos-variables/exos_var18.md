@@ -1,5 +1,7 @@
 # 18 - ADDR_NET
 
+Пристрій: [NET](../exos-devices/net.md)  
+
 `ASK 18 var`  
 `SET 18, expr`  
 `TOGGLE 18` - inverts value.

@@ -1,5 +1,7 @@
 # 6 - LOCK_KEY 
 
+Пристрій: [KEYBOARD](../exos-devices/keyboard.md)  
+
 Current keyboard lock status.
 
 `ASK 6 var`  

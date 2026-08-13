@@ -1,5 +1,7 @@
 # 10 - RATE_KEY
 
+Пристрій: [KEYBOARD](../exos-devices/keyboard.md)  
+
 `ASK 10 var`  
 `SET 10, expr`  
 `TOGGLE 10` - inverts value.

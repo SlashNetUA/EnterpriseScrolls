@@ -1,5 +1,7 @@
 # 26 - ST_FLAG
 
+Пристрій: [VIDEO](../exos-devices/video.md)  
+
 `ASK 26 var`  
 `SET 26, expr`  
 `TOGGLE 26` - inverts value.

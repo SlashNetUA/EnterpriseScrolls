@@ -1,5 +1,7 @@
 # 15 - BUF_SND
 
+Пристрій: [SOUND](../exos-devices/sound.md)
+
 `ASK 15 var`  
 `SET 15, expr`  
 `TOGGLE 15` - inverts value.

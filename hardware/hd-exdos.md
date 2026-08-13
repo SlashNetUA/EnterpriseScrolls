@@ -18,6 +18,7 @@ ZOZOtool by [kvaczko](../peoples/community/kvaczko.md)
 [EXDOS Floppy Controller](exdos/hd-exdos-wilco.md) by [Wilco2009](../peoples/community/wilco.md)  
 [EXDOS Floppy Disk Controller](exdos/hd-exdos-pear.md) by [Pear](../peoples/community/pear.md)  
 Dual Floppy Drive by Attila Nagy  
+[IDE HDD](exdos/hd-ide.md)
 
 ### Класичні
 

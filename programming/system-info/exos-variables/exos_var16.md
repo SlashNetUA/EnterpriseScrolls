@@ -1,5 +1,7 @@
 # 16 - BAUD_SER
 
+Пристрій: [SERIAL](../exos-devices/serial.md)/[NET](../exos-devices/net.md)  
+
 `ASK 16 var`  
 `SET 16, expr`  
 `TOGGLE 16` - inverts value.

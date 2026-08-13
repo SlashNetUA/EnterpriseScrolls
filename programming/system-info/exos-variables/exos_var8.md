@@ -1,5 +1,7 @@
 # 8 - STOP_IRQ
 
+Пристрій: [KEYBOARD](../exos-devices/keyboard.md)  
+
 `ASK 8 var`  
 `SET 8, expr`  
 `TOGGLE 8` - inverts value.

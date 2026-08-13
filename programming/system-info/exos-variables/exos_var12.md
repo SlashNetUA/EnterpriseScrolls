@@ -1,5 +1,7 @@
 # 12 - TAPE_SND
 
+Пристрій: [SOUND](../exos-devices/sound.md)
+
 `ASK 12 var`  
 `SET 12, expr`  
 `TOGGLE 12` - inverts value

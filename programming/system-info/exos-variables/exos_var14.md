@@ -1,5 +1,7 @@
 # 14 - MUTE_SND
 
+Пристрій: [SOUND](../exos-devices/sound.md)
+
 `ASK 14 var`  
 `SET 14, expr`  
 `TOGGLE 14` - inverts value.
@@ -9,4 +11,4 @@
 
 ----
 
-See also [SET SPEAKER ON/OFF](../../../manuals/is-basic-man-en/options/man_so-speaker.md).
+See also [SET SPEAKER ON/OFF](../../../manuals/is-basic-man-en/options/man_so-speaker.md); [Port 128 FIXBIAS](../ports/port128.md).

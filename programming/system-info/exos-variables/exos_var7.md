@@ -1,5 +1,7 @@
 # 7 - CLICK_KEY
 
+Пристрій: [KEYBOARD](../exos-devices/keyboard.md)  
+
 `ASK 7 var`  
 `SET 7, expr`  
 `TOGGLE 7` - inverts value.

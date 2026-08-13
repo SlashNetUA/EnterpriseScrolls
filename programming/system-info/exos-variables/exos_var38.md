@@ -1,5 +1,6 @@
 # 38 - SPRITE
 
+Пристрій: [VIDEO](../exos-devices/video.md)   
 Only in [EXOS 2.1](../../../software/exos/exos-versions.md) and greater.
 
 `ASK 38 var`  

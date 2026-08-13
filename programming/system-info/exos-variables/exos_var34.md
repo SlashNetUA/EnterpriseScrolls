@@ -1,5 +1,7 @@
 # 34 - PROTECT
 
+Пристрій: [TAPE](../exos-devices/tape.md)  
+
 `ASK 34 var`  
 `SET 34, expr`  
 `TOGGLE 34` - inverts value.

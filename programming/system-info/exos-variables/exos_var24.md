@@ -1,5 +1,7 @@
 # 24 - X_SIZ_VID
 
+Пристрій: [VIDEO](../exos-devices/video.md)  
+
 `ASK 24 var`  
 `SET 24, expr`  
 `TOGGLE 24` - inverts value.
@@ -8,7 +10,7 @@ X page size. This variable select the characteristics of a video page when it op
 
 **40**: (default)
 
-The horizontal size is specified in low resolution character widths, and can be any number from **2** to **42**. Invalid values will produce an error (.VSIZE) when a channel is opened.
+The horizontal size is specified in low resolution character widths, and can be any number from **2** to **42**. Invalid values will produce an error [.VSIZE](../errors/err-vsize.md) when a channel is opened.
 
 
 ----

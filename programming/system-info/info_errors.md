@@ -1,7 +1,7 @@
 # EXOS errors
 
-[err-basic](errors/err-basic.md)
+[errors-basic](errors/errors-basic.md)
 
-[err-exdos-isdos](errors/err-exdos-isdos.md)
+[errors-exdos-isdos](errors/errors-exdos-isdos.md)
 
 [http://enterprise.iko.hu/errors.htm](http://enterprise.iko.hu/errors.htm)  

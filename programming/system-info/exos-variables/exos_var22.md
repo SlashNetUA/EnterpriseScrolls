@@ -1,5 +1,7 @@
 # 22 - MODE_VID
 
+Пристрій: [VIDEO](../exos-devices/video.md)  
+
 `ASK 22 var`  
 `SET 22, expr`  
 `TOGGLE 22` - inverts value.
@@ -12,7 +14,7 @@ Video mode. This variable select the characteristics of a video page when it ope
 **5**: Low resolution pixel graphics.   
 **15**: Attribute graphics.  
 
-Any other values will produce an error (.VMODE) when an attempt is made to open a channel. The three graphics modes correspond to the PIXEL, LPIXEL and ATTRIBUTE modes of the NICK chip.
+Any other values will produce an error [.VMODE](../errors/err-vmode.md) when an attempt is made to open a channel. The three graphics modes correspond to the PIXEL, LPIXEL and ATTRIBUTE modes of the NICK chip.
 
 ----
 

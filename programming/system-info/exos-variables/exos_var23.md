@@ -1,5 +1,7 @@
 # 23 - COLR_VID
 
+Пристрій: [VIDEO](../exos-devices/video.md)  
+
 `ASK 23 var`  
 `SET 23, expr`  
 `TOGGLE 23` - inverts value.
