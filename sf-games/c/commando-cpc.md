@@ -61,7 +61,7 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard` (можливо перевизначити)  
 `Internal Joystick` (можна задіяти під час перевизначення клавіш)  

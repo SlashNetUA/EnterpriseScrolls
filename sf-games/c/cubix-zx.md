@@ -62,7 +62,7 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard`: `W`, `A`, `S`, `D`  
 `Keyboard`: `Q`, `A`, `O`, `P`  

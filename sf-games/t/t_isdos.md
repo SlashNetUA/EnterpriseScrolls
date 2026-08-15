@@ -1,5 +1,6 @@
 # T
 
+- 🅸 [Tale of Ancient Land](t/tale-of-ancient-land-isdos.md)
 - 🅩 [A Taste of Terror](t/taste-of-terror-zcode.md)
 - 🅸 [Tax Returns](t/tax-returns-isdos.md)
 - 🅸 [The Taxman Cometh](t/taxman-cometh-isdos.md)

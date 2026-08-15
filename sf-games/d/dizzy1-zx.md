@@ -55,7 +55,7 @@ Dizzy: The Ultimate Cartoon Adventure — це пригодницька гра-�
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Dizzy.rar)
 
 
-## Керування
+## [Керування](../controllers.md)
 
 ### Старт гри:
 

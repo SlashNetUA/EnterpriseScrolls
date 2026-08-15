@@ -53,7 +53,7 @@
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1022) *(Telegram-канал Vibrant Waves)*
 
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard`: (`2`, `W`, `9`, `0`, `Z`/`M`) (можливо перевизначити)  
 `Internal Joystick` (Натисніть `I` і потім `2`)  

@@ -50,7 +50,7 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Basic_Program_Pack.rar)
 
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard`  
 

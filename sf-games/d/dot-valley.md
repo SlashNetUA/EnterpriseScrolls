@@ -14,8 +14,16 @@
 **ID:** dot-valley
 
 
+**Жанри:** BoulderDash-подібна
+
 ## Примітка
 
 ﻿Cancelled game by DÜSI Software
+
+
+## Основна інформація
+- **Оригінальна платформа:** Enterprise
+### Розробка
+- **Автор:** Thilo Schwinn
 
 

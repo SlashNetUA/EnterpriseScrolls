@@ -13,6 +13,7 @@
 - △ [T-Rex game](t-rex-game.md)
 - △ [Tai Chi Tortoise](tai-chi-tortoise-zx.md)
 - △ [Tai-Pan](taipan-zx.md)
+- 🅸 [Tale of Ancient Land](tale-of-ancient-land-isdos.md)
 - △ [Tanium](tanium-zx.md)
 - △ [Tank Trax](tank-trax-zx.md)
 - 𝔹 [Tank Wars](tank-wars-bas.md)

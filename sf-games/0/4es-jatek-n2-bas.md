@@ -44,7 +44,7 @@ Homebrew
 - **Додаткові теги:** Text40 mode
 
 
-## Керування
+## [Керування](../controllers.md)
 
 Keyboard  
 

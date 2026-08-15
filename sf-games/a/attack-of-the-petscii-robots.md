@@ -69,7 +69,7 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 - [Відео](https://www.youtube.com/watch?v=t23FI3rXqu4)
 - [Відео](https://www.youtube.com/watch?v=1YZ6bpS2gJc)
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard` (можна перевизначити)  
 `Internal Joystick`  
@@ -93,18 +93,18 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 ## Детальна інформація
 
-## Системні вимоги Attack of the PETSCII Robots  
-### Мінімальні системні вимоги  
+### Системні вимоги Attack of the PETSCII Robots  
+#### Мінімальні системні вимоги  
 Оперативна пам'ять: **128 КБ**  
-### Рекомендовані системні вимоги  
+#### Рекомендовані системні вимоги  
 Оперативна пам'ять: **128 КБ (або більше)**  
 [EXDOS](../../software/ss-exdos.md)  
 [SID card](../../hardware/hs-sidcard.md)  
 
-## Системні вимоги Attack of the PETSCII Robots Plus (16-colour version)  
-### Мінімальні системні вимоги  
+### Системні вимоги Attack of the PETSCII Robots Plus (16-colour version)  
+#### Мінімальні системні вимоги  
 Оперативна пам'ять: **192 КБ**  
-### Рекомендовані системні вимоги  
+#### Рекомендовані системні вимоги  
 Оперативна пам'ять: **192 КБ (або більше)**  
 [EXDOS](../../software/ss-exdos.md)  
 [SID card](../../hardware/hs-sidcard.md)  

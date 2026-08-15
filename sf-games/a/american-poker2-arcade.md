@@ -53,7 +53,7 @@ American Poker II — це культовий відеопокер, розроб
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard`
 

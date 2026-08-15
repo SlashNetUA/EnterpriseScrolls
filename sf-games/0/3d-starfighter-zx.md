@@ -56,7 +56,7 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/3D-Starfighter.rar)
 
 
-## Керування
+## [Керування](../controllers.md)
 
 ### Керування у меню  
 

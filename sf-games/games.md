@@ -8,4 +8,4 @@
 
 ----------
 
-[Повний каталог ігрового програмного забезпечення](https://drive.google.com/drive/folders/1yKjXlATVuQCeVjZDJYHMZFnFBmhgUj-g) (включно з неробочими та загубленими релізами)
+[Повний каталог ігрового програмного забезпечення у форматі PDF](https://drive.google.com/drive/folders/1yKjXlATVuQCeVjZDJYHMZFnFBmhgUj-g) (включно з неробочими та загубленими релізами)

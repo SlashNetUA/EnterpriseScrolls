@@ -59,7 +59,7 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard` (`Q``A``O``P`+`Space`) (можна перевизначити)  
 `Internal Joystick`  

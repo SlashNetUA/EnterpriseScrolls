@@ -55,7 +55,7 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 - [Відео](https://tv.enterpriseforever.com/cauldron.mp4)
 - [Відео](https://youtu.be/KURvWzC8uRo)
 
-## Керування
+## [Керування](../controllers.md)
 
 `Internal Joystick`  
 `External Joystick 1`  

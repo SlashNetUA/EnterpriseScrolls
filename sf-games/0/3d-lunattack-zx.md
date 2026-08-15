@@ -57,7 +57,7 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Lunattack.rar)
 
 
-## Керування
+## [Керування](../controllers.md)
 
 `Internal Joystick`  
 `External Joystick 1`  

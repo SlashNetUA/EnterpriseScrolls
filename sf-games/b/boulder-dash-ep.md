@@ -55,7 +55,7 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 
-## Керування
+## [Керування](../controllers.md)
 
 `Internal Joystick`  
 

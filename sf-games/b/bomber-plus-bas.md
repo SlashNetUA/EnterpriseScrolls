@@ -58,7 +58,7 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 - [Відео](https://www.youtube.com/watch?v=yjx3mSIfgFM)
 - [Відео](https://www.youtube.com/watch?v=D4ELNb24Exk)
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard`  
 `External Joystick 1`  

@@ -51,7 +51,7 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Bomb_Squad.rar)
 
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard` (можливість перепризначення)  
 `Internal Joystick`  

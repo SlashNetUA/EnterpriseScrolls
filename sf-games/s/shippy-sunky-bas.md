@@ -54,7 +54,7 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://www.youtube.com/watch?v=EUiZ8oJpmZA)
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard`  
 

@@ -18,7 +18,7 @@
 
 ## Примітка
 
-Game from ENTERPRISE EUG LORCH INFO magazine
+Game from ENTERPRISE EUG LORCH INFO magazine (Jahresausgabe 1)
 
 ## Скріншоти
 <img src="screens/scrn_eug-tron_01.png" width="24%">
@@ -35,6 +35,6 @@ Game from ENTERPRISE EUG LORCH INFO magazine
 - **Додаткові теги:** Attribute mode
 ### Розробка
 - **Рік випуску:** 1987
-- **Автор:** Th. Schwinn, S. Ehrmann
+- **Автор:** Thilo Schwinn, Stephan Ehrmann
 
 

@@ -83,7 +83,7 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Castles_and_Kingdoms.rar)
 
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard`  
 

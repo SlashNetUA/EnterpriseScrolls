@@ -63,7 +63,7 @@
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 
-## Керування
+## [Керування](../controllers.md)
 
 ﻿`Keyboard` (`Z`,`X`,`P`)  
 `Internal Joystick`  

@@ -69,7 +69,7 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://youtu.be/oX1HMN3M3NA)
 
-## Керування
+## [Керування](../controllers.md)
 
 `Internal Joystick`  
 `External Joystick 1`  

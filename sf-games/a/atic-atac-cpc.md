@@ -57,7 +57,7 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://youtu.be/T4Cd-nfHwU8)
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard`: `Q`, `A`, `O`, `P`, `Space`  
 `Internal joystick`  

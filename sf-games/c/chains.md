@@ -59,7 +59,7 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Chains.rar)
 
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard`
 

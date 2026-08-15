@@ -63,7 +63,7 @@
 - [Завантажити гру](http://www.ep128.hu/Ep_Games/Prg/Colossal_Adventure.rar)
 
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard`
 

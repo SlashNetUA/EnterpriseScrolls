@@ -66,7 +66,7 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 - [Відео](https://youtu.be/mV0Szhtv3h4)
 - [Відео](https://youtu.be/wLaM6ErbLBo)
 
-## Керування
+## [Керування](../controllers.md)
 
 `Keyboard`: (можна перевизначити)  
 `Internal Joystick`: (можна перевизначити)  
