@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Appendix F: Using EXDOS system variables"
+---
 # Appendix F: Using EXDOS system variables
 
 The standard Enterprise computer contains a feature known as [EXOS variables](../../programming/system-info/info_exos-variables.md). Many special controls can be given to the computer through use of these variables, which are usually only altered by machine code programs — although a number of [SET](../is-basic-man-en/commands/man_cs-set.md) commands of BASIC in fact use these variables directly.

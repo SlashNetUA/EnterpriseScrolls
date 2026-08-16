@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4.5.8 Tout(Name,Start,Size)"
+---
 # 2.4.5.8 TOUT (NAME,START,SIZE)
 
 **TOUT** is the procedure which is used to save variables to a device. The first parameter is of type `ARRAY[1..n] OF CHAR;` and is the EXOS device/filename of the file to be saved. **SIZE** bytes of memory are dumped starting from address **START**. Both these parameters are of type INTEGER. For compatibility with other versions of HiSoft Pascal you should use a filename of exactly **8** characters padded to the right with spaces and use the default device.

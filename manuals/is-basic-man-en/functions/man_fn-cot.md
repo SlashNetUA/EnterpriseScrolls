@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. COT(X)"
+---
 # COT(X)
 
 The cotangent of **X**.

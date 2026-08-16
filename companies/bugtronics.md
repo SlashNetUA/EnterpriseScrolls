@@ -1,3 +1,6 @@
+---
+title: Компанія «Bugtronics»
+---
 # Bugtronics
 
 ![](pics/logo_bugtronics.png)

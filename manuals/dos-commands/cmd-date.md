@@ -1,3 +1,6 @@
+---
+title: Команда «DATE» (EXDOS/IS-DOS)
+---
 # DATE
 
 ## Applicable systems

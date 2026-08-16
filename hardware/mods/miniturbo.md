@@ -1,3 +1,6 @@
+---
+title: Модуль «MiniTurbo»
+---
 # MiniTurbo
 
 <div style="text-align:center;">

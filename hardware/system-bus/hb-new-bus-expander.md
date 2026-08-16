@@ -1,3 +1,6 @@
+---
+title: Модуль розширення системної шини від Wilco
+---
 # New Bus Expander
 
 <div style="text-align:center;">

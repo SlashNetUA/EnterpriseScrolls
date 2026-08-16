@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 1: Help Files"
+---
 # Help Files
 
 The [HELP](../dos-commands/cmd-help.md) command displays information about the system. If you type the word on its own, it lists the system extensions that are present. Alternatively, you may obtain information on some facility in particular, by typing (eg) `HELP WP` or `HELP EXDOS`.

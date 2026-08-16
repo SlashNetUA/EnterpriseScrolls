@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.12 Simple Expression"
+---
 # 1.12 SIMPLE EXPRESSION
 
 ![diagram](diagrams/pic-1-12.png)

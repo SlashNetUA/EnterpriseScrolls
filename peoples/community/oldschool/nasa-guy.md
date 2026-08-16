@@ -1,3 +1,6 @@
+---
+title: Команда «Nasa & Guy»
+---
 # Nasa & Guy
 
 ![](../pics/nasa-guy.png)

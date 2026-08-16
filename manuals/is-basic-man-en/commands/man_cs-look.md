@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. LOOK"
+---
 # LOOK
 
 `LOOK £chan AT x,y:v`

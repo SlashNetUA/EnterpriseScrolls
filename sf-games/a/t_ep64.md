@@ -6,6 +6,7 @@
 - △ [Airwolf](a/airwolf1.md)
 - △ [Alien Attack](a/alien-attack-cpc.md)
 - △ [Alien Highway](a/alien-highway-zx.md)
+- △ [Alien 8](a/alien8-cpc.md)
 - 𝔹 [Animal Vegetable Mineral](a/animal-vegetable-mineral-bas.md)
 - △ [AntiAir](a/antiair.md)
 - △ [Arcadia](a/arcadia-zx.md)

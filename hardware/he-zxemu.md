@@ -1,3 +1,6 @@
+---
+title: Апаратний емулятор комп'ютера «ZX Spectrum»
+---
 # Апаратний емулятор ZX Spectrum
 
 <img src="pics-ext/zx-spectrum-emu_01.jpg" alt="Коробки емулятора та адаптера системної шини" width="30%"> 

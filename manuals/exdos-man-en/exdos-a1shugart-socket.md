@@ -1,4 +1,7 @@
-# Appendix A: The "Shugart 410" socket.
+---
+title: 'EXDOS Manual. Appendix A: The "Shugart 410" socket'
+---
+# Appendix A: The "Shugart 410" socket
 
 Nearly all **3.5”** and **5.25”** disk drives provide a socket and interface signals which accord with the industry standard connection, normally known as "Shugart 410".
 

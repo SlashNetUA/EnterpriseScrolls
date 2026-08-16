@@ -1,3 +1,6 @@
+---
+title: Команда «FKEY» (IS-DOS)
+---
 # FKEY (transient)
 
 ## Applicable systems

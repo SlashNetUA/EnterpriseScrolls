@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. TRUNCATE(X,N)"
+---
 # TRUNCATE(X,N)
 
 Cuts **N** decimal places from **X**.

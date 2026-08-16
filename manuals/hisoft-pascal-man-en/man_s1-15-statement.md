@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.15 Statement"
+---
 # 1.15 STATEMENT
 
 **Assignment statements:**

@@ -1,3 +1,6 @@
+---
+title: Компанія «'á'-Studió»
+---
 # 'á'-Studió
 
 ![](pics/logo_a-studio_digi.png)

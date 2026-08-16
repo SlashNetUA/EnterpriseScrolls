@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. First Programs"
+---
 # FIRST PROGRAMS
 
 Try typing in the contents of the box below. Computers are a bit funny about little mistakes, so check your typing before you finish. Remember that you must press the key marked 'enter' at the end of each line. Don't forget the numbers which begin the lines, they're important too. However, you needn't worry about the blank spaces which appear after the numbers. The Enterprise can put spaces in automatically, to make programs look neater. Notice that computers use a special symbol for nought (**0**), to distinguish it from the capital letter **O**.

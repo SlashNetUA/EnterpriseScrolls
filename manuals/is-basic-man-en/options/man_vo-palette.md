@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. PALETTE"
+---
 # PALETTE
 
 `SET £chan:PALETTE c1,c2,c3,c4,c5,c6,c7,c8`

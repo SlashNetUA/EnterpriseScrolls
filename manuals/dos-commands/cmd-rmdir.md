@@ -1,3 +1,6 @@
+---
+title: Команда «RD»/«RMDIR» (EXDOS/IS-DOS)
+---
 # RD / RMDIR
 
 ## Applicable systems

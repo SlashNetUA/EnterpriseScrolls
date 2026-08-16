@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Handling Programs on Cassette"
+---
 # HANDLING PROGRAMS ON CASSETTE
 
 In the **Setting-Up Guide**, you learnt how to control a cassette recorder simply to load a program into the computer's memory. However, you can also use a cassette recorder to store your own programs.

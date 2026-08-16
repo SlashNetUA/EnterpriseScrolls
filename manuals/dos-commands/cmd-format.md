@@ -1,3 +1,6 @@
+---
+title: Команда «FORMAT» (EXDOS/IS-DOS)
+---
 # FORMAT
 
 ## Applicable systems

@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual"
+---
 # ENTERPRISE EXDOS
 
 (Enterprise eXpandable Disk Operating System)

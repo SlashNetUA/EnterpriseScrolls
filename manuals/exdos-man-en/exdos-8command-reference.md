@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Chapter 8: Command Reference Section"
+---
 # Chapter 8: Command Reference Section
 
 The command reference section uses the following notation to specify and describe the operation of commands:

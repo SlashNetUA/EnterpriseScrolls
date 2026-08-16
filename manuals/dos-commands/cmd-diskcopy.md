@@ -1,3 +1,6 @@
+---
+title: Команда «DISKCOPY» (IS-DOS)
+---
 # DISKCOPY (transient)
 
 ## Applicable systems

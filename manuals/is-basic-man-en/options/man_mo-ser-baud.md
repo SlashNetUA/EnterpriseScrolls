@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SERIAL BAUD"
+---
 # SERIAL BAUD
 
 `ASK SERIAL BAUD var`  

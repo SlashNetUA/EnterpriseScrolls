@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Chapter 2: Choosing Your Disk Drives"
+---
 # Chapter 2: Choosing Your Disk Drives
 
 The Enterprise disk interface is "**Shugart 410**" compatible and can be used with most of the modern **5.25”** and **3.5”** drives. [Appendices A](exdos-a1shugart-socket.md) and [B](exdos-a2configuring-drives.md) at the back of this manual give a detailed description of the disk drive connecting socket, and specify the characteristics of drives compatible with the Enterprise.

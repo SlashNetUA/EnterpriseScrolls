@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.11 Term"
+---
 # 1.11 TERM
 
 ![diagram](diagrams/pic-1-11.png)

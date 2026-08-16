@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SINH(X)"
+---
 # SINH(X)
 
 The hyperbolic sine of **X**.

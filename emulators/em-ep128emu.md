@@ -1,3 +1,6 @@
+---
+title: Емулятор «ep128emu»
+---
 # ep128emu
 
 <div style="text-align:center;">

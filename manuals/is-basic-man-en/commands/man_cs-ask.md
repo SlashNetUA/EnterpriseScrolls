@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. ASK"
+---
 # ASK
 
 `ASK machine-option var`

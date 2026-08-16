@@ -1,3 +1,6 @@
+---
+title: Команда «WIPE» (IS-DOS)
+---
 # WIPE (transient)
 
 ## Applicable systems

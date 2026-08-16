@@ -1,4 +1,8 @@
-[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
+---
+title: Renegade Plus
+---
+
+﻿[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
 
 Ігри для [Enterprise 64k](../games-ep64.md) - [Enterprise 128k+RAMexp](../games-epramexp.md)
 
@@ -99,13 +103,14 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 ### Чіти  
 
 `Space`/`Right Shift`+  
- - **F2**: збиття з ніг усіх противників (у тому ж ряду) на початку бігу  
+ - **F2**: взаємодія з ворогами поширюється на всіх супротивників що стоять на одній лінії з вами (удари, збиття з ніг тощо.)   
  - **F3**: невразливість  
  - **F4**: нескінченний час  
  - **F5**: нескінченні життя  
  - **F6**: червона кров  
  - **F7**: поміняти спрайт ліворуч на стартовому екрані  
- - **F8**: поміняти спрайт праворуч на стартовому екрані
+ - **F8**: поміняти спрайт праворуч на стартовому екрані  
 
+### Історія розробки  
 
-
+У 2020 році [Джон Брендвуд](../../peoples/pers_john-brandwood.md) поділився вихідним кодом гри для платформи Amstrad CPC. На його основі [Geco](../../peoples/community/geco.md) створив розширену версію з прокручуванням екрану та новими ігровими можливостями. Пізніше ця версія була портована назад на комп'ютери Amstrad.

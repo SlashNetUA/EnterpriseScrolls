@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. LBOUND(A)"
+---
 # LBOUND(A)
 
 Lower bound of the dimension of a one-dimensional array **A**.

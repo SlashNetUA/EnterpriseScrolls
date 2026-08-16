@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. NET MACHINE"
+---
 # NET MACHINE
 
 `ASK NET MACHINE var`

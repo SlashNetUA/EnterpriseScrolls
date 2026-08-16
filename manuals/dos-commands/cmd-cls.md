@@ -1,3 +1,6 @@
+---
+title: Команда «CLS» (EXDOS/IS-DOS)
+---
 # CLS
 
 ## Applicable systems

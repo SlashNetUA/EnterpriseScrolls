@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Appendix E: Batch and start-up-files"
+---
 # Appendix E: Batch and start-up-files
 
 EXDOS provides simple handling of batch command files. These batch files are used to automatically issue a sequence of command instructions, and any command which is valid when using the EXDOS command interpreter can also be used in an EXDOS batch file.

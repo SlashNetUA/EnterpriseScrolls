@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. EXOS"
+---
 # EXOS
 
 **EXOS** is short for Enterprise eXpandable Operating System. An operating system is a program that attempts to enable the best and easiest possible use to be made of a computer and its facilities. It forms an interface between high-level programs (such as the BASIC language) and the computer.

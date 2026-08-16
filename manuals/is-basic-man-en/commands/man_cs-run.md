@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. RUN"
+---
 # RUN
 
 `RUN (para-list)`  

@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 3: Programmer's Reference Section"
+---
 # Part 3: Programmer's Reference Section
 
 [Introduction](isdos-p3-intro.md)  

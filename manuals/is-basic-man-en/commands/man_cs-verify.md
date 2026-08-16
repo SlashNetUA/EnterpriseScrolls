@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. VERIFY"
+---
 # VERIFY
 
 `VERIFY £chan:filename`

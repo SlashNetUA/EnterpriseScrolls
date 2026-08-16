@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. NUMERIC"
+---
 # NUMERIC
 
 `NUMERIC variable/array-list`

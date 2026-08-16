@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. CAUSE EXCEPTION"
+---
 # CAUSE EXCEPTION
 
 `CAUSE EXCEPTION expr`

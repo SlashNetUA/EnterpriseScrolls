@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. TIMER"
+---
 # TIMER
 
 `SET TIMER expr`

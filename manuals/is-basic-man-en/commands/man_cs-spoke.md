@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SPOKE"
+---
 # SPOKE
 
 `SPOKE segment,address,value`

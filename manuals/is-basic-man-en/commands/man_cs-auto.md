@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. AUTO"
+---
 # AUTO
 
 Special editing command which prints line-numbers automatically. Only works in immediate mode.

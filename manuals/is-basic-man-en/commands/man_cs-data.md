@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. DATA"
+---
 # DATA
 
 `DATA data-list` 

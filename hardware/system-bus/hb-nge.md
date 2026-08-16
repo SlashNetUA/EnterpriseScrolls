@@ -1,3 +1,6 @@
+---
+title: Модуль розширення системної шини «NGE» від kvaczko
+---
 # NGE Expander
 
 Автор: [kvaczko](../../peoples/community/kvaczko.md)

@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4.6.6 Peek(x,t)"
+---
 # 2.4.6.6 PEEK(X,T)
 
 The first parameter of this function is of type integer and is used to specify a memory address (see [Section 2.4.5.5](man_s2-4-5-user.md)). The second argument is a type; this is the result type of the function.

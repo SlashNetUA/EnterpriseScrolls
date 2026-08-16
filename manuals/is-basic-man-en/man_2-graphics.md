@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Graphics"
+---
 # GRAPHICS
 
 The Enterprise's powerful graphics can be used to provide some impressive pictures and visual effects. You may already have realized this from using the demonstration cassette, and some of the programs provided in the earlier parts of the manual show a glimpse of the possibilities of high-resolution graphics.

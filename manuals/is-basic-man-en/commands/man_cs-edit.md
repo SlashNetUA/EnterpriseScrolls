@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. EDIT"
+---
 # EDIT
 
 `EDIT program-number`  

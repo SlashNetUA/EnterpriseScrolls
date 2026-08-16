@@ -1,3 +1,6 @@
+---
+title: "Журнал «ENTER Vol.1 #2 (1985)»"
+---
 # ENTER Vol.1 #2 (1985 ≈вересень-грудень)
 
 <div style="text-align:center;">

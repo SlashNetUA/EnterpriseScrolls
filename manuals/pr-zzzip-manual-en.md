@@ -1,3 +1,6 @@
+---
+title: "ZZZIP Compiler Manual"
+---
 # ZZZIP Compiler Manual
 
 ## 1. Introduction

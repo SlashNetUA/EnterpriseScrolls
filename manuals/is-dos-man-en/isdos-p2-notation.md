@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 2: Notation"
+---
 # Notation
 
 The following notation is used in the detailed description of commands:

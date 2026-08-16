@@ -1,6 +1,9 @@
+---
+title: LGB
+---
 # Gábor Lénárt
 
-aka LGB
+aka **LGB**
 
 [Домашня сторінка](http://ep.lgb.hu)
 

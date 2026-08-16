@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.5 Constant"
+---
 # 1.5 CONSTANT
 
 ![diagram](diagrams/pic-1-5.png)

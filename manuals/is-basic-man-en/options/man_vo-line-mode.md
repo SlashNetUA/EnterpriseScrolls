@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. LINE MODE"
+---
 # LINE MODE
 
 `SET £chan:LINE MODE parameter`

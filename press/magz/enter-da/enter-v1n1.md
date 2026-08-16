@@ -1,3 +1,6 @@
+---
+title: "Журнал «ENTER Vol.1 #1 (1985)»"
+---
 # ENTER Vol.1 #1 (1985)
 
 <div style="text-align:center;">

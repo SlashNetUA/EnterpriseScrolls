@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 1Bh: Get Allocation Information"
+---
 # Function 1Bh: Get Allocation Information
 
 ## Parameters

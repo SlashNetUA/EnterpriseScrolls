@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. BIAS"
+---
 # BIAS
 
 `SET £chan:BIAS colour-code`

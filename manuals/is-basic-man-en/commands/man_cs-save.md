@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SAVE"
+---
 # SAVE
 
 `SAVE £chan:filename`  

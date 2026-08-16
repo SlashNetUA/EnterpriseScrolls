@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Loops"
+---
 # LOOPS
 
 You have already seen some short programs which use loops to make the computer repeat itself. Should you wish the machine to perform one operation several times in succession, a loop represents a much easier way of doing this than typing in the same piece of BASIC over and over again.
@@ -111,7 +114,7 @@ These words might sound rather strange. Nested loops, though, are just loops pla
 ```
 You can nest another loop inside the second one as well, and another inside that, and so on. If you look at a series of nested loops, the end lines should come in descending order as you look down the program. The beginnings should be in ascending order. Look at the diagram.
 
-![diagram](IS-BASIC_ProgrGuide(Loops).png)
+![diagram](is-basic-man-loops.png)
 
 As you can see from the diagram, if you really felt that loops were the answer to all your problems, you could also sandwich loops in between two beginnings or two endings of other loops,
 

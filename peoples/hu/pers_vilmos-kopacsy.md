@@ -1,3 +1,6 @@
+---
+title: Vilmos Kopacsy
+---
 # Vilmos Kopacsy
 
 Співвласник компанії ['a' Studio](../../companies/a-studio.md).

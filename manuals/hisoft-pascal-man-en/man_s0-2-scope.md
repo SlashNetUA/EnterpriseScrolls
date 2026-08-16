@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 0.2 Scope of this Manual"
+---
 # 0.2 SCOPE OF THIS MANUAL
 
 This manual is not intended to teach you Pascal; you are referred to the excellent books given in the Bibliography if you are a newcomer to programming in Pascal.

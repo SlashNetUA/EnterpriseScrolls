@@ -1,3 +1,6 @@
+---
+title: Апаратний емулятор комп'ютера «ZX Spectrum» (BoxSoft)
+---
 # Sinclair Emulation Unit
 
 Розробник: [BoxSoft](../companies/boxsoft.md)  

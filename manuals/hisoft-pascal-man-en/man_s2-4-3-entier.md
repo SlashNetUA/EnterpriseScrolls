@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4.3.3 Entier(x)"
+---
 # 2.4.3.3 ENTIER(X)
 
 **X** must be of type real or integer – **ENTIER** returns the greatest integer less than or equal to **X**, for all **X**.

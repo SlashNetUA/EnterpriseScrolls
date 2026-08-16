@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. LCASE$(A$)"
+---
 # LCASE\$(A\$)
 
 Converts all upper case alphabetic characters (capitals) to lower case (small letters).

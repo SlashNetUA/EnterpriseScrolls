@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 0Eh: Select Disk"
+---
 # Function 0Eh: Select Disk
 
 ## Parameters

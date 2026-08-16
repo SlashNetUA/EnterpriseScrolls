@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. About Programming"
+---
 # ABOUT PROGRAMMING
 
 You've now had some fun with the machine and, hopefully, introduced yourself. You probably didn't see how some of the-programs worked, so this is where we begin adding knowledge to enjoyment.
@@ -8,7 +11,7 @@ All computers understand instructions, usually in the form of words or lists of 
 
 The diagram below shows (using an everyday example) how one task must be broken up into several small ones to make up a program.
 
-![Algorythm](IS-BASIC_ProgrGuide(Algorythm).png)
+![Algorythm](is-basic-man-algorythm.png)
  
 ## COMPUTER LANGUAGES
 

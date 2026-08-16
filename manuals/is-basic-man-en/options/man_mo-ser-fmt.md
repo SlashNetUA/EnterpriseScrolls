@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SERIAL FORMAT"
+---
 # SERIAL FORMAT
 
 `ASK SERIAL FORMAT var`  

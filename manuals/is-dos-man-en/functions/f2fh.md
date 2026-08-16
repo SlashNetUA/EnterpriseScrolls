@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 2Fh: Absolute Sector Read"
+---
 # Function 2Fh: Absolute Sector Read
 
 ## Parameters

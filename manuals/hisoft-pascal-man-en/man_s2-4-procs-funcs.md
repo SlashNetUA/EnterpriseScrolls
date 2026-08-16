@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4 Procedures and Functions"
+---
 # 2.4 PROCEDURES AND FUNCTIONS
 
 ## 2.4.1 Input and Output Procedures

@@ -1,3 +1,6 @@
+---
+title: Команда «BACKUP» (IS-DOS)
+---
 # BACKUP (transient)
 
 ## Applicable systems

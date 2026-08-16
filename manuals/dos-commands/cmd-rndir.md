@@ -1,3 +1,6 @@
+---
+title: Команда «RNDIR» (EXDOS/IS-DOS)
+---
 # RNDIR
 
 ## Applicable systems

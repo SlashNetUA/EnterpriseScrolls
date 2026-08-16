@@ -1,3 +1,6 @@
+---
+title: Команда «VAR» (EXDOS/IS-DOS)
+---
 # VAR
 
 ## Applicable systems

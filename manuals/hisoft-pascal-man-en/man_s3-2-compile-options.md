@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 3.2 Compiler Options"
+---
 # 3.2 COMPILER OPTIONS
 
 Compiler options should be included in your program between comment braces and the first option in the list (which is separated by commas) should be preceded by a dollar symbol:

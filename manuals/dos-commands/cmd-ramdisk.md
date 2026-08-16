@@ -1,3 +1,6 @@
+---
+title: Команда «RAMDISK» (EXDOS/IS-DOS)
+---
 # RAMDISK
 
 ## Applicable systems

@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 2Bh: Set Date"
+---
 # Function 2Bh: Set Date
 
 ## Parameters

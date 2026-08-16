@@ -1,3 +1,6 @@
+---
+title: Контролер гнучких дисків «DDC (Disk Drive Controller)»
+---
 # DDC (Disk Drive Controller)
 
 <div style="text-align:center;">

@@ -1,3 +1,6 @@
+---
+title: Команда «TYPE» (EXDOS/IS-DOS)
+---
 # TYPE
 
 ## Applicable systems

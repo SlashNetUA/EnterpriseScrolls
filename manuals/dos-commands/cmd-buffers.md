@@ -1,3 +1,6 @@
+---
+title: Команда «BUFFERS» (EXDOS/IS-DOS)
+---
 # BUFFERS
 
 ## Applicable systems

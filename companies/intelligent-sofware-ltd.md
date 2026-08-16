@@ -1,3 +1,6 @@
+---
+title: Компанія «Intelligent Software Ltd»
+---
 # Intelligent Software Ltd
 
 ![](pics/logo_intelligent-software-ltd.png)

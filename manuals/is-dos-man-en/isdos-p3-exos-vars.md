@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 3: EXOS System Variables"
+---
 # 6. EXOS System Variables
 
 The following is a list of the EXOS system variables which can be controlled by IS-DOS.

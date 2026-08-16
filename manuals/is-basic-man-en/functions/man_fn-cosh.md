@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. COSH(X)"
+---
 # COSH(X)
 
 The hyperbolic cosine of **X**.

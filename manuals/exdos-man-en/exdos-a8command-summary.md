@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Appendix H: EXDOS command summary"
+---
 # Appendix H: EXDOS command summary
 
 The following is a list of all the EXDOS commands available and a summary of their syntax and purpose.

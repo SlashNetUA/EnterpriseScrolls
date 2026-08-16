@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Exception Handling"
+---
 # EXCEPTION HANDLING
 
 To deal with errors, to handle the network or certain other devices, and also to deal with some special conditions which are independent of the normal program flow, Enterprise BASIC provides something called exception handlers.

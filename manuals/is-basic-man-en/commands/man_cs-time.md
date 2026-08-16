@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. TIME"
+---
 # TIME
 
 `TIME time-string`  

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. GOTO"
+---
 # GOTO
 
 `GOTO line-number`

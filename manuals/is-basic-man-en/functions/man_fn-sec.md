@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SEC(X)"
+---
 # SEC(X)
 
 The secant of **X**.

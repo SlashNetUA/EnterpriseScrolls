@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.2 Types"
+---
 # 2.2 TYPES
 
 ## INTEGER

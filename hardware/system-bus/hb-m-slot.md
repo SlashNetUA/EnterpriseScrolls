@@ -1,3 +1,6 @@
+---
+title: Адаптер системної шини для картриджів MSX
+---
 # M-Slot
 
 Автори: [wilco](../../peoples/community/wilco.md)

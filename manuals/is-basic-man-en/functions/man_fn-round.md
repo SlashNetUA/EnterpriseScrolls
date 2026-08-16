@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. ROUND(X,N)"
+---
 # ROUND(X,N)
 
 Rounds **X** to **N** decimal places. **ROUND(1.7668,2)** would be **1.77**. **ROUND(-17668,2)** would be **-1.76**.

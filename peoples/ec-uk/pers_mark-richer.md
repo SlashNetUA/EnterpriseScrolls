@@ -1,4 +1,7 @@
+---
+title: Mark Richer
+---
 # Mark Richer
 
-Програміст у IS.
-Працював над [is-lisp](../../programming/is-lisp.md)
+Програміст у [IS](../../companies/intelligent-sofware-ltd.md).  
+Працював над [IS-Lisp](../../programming/is-lisp.md)

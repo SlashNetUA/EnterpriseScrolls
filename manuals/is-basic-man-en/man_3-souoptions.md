@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Sound Options"
+---
 # SOUND OPTIONS
 
 These work on the built-in sound generator.

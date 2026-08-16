@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. LOG(X) / LOG10(X) / LOG2(X)"
+---
 # LOG(X)
 
 The natural logarithm (logarithm to base **e**) of number **X**.

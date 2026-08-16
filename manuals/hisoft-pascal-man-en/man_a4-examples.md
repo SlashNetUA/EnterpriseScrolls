@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. Appendix 4: Some Example HiSoft Pascal Programs"
+---
 # APPENDIX 4: SOME EXAMPLE HISOFT PASCAL PROGRAMS
 
 There follow some example programs written in HiSoft Pascal. All have been thoroughly tested and therefore can be typed in with confidence.

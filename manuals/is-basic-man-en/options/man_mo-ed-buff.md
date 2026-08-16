@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. EDITOR BUFFER"
+---
 # EDITOR BUFFER
 
 `SET EDITOR BUFFER expr`  

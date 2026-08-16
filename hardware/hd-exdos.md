@@ -1,3 +1,6 @@
+---
+title: Контролер «EXDOS»
+---
 # EXDOS (Enterprise eXpandable Disk Operating System)
 
 ![exdos-logo](exdos-logo.png)

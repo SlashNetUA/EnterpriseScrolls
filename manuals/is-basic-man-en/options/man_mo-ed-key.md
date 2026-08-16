@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. EDITOR KEY"
+---
 # EDITOR KEY
 
 `SET EDITOR KEY channel-number`  

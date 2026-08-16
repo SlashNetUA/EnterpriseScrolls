@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. GRAPHICS"
+---
 # GRAPHICS
 
 `GRAPHICS`  

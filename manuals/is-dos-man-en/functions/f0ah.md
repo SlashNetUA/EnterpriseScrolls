@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 0Ah: Buffered Line Input"
+---
 # Function 0Ah: Buffered Line Input
 
 ## Parameters

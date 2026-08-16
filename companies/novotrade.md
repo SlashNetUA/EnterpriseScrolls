@@ -1,3 +1,6 @@
+---
+title: Компанія «Novotrade»
+---
 # Novotrade
 
 ![](pics/logo_novotrade.png)

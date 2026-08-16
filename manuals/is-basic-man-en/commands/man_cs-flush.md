@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. FLUSH"
+---
 # FLUSH
 
 `FLUSH £chan`

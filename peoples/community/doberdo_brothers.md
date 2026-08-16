@@ -1,3 +1,6 @@
+---
+title: Команда «Doberdo Brothers»
+---
 # Doberdo Brothers
 
 ![](pics/doberdo_brothers.png)

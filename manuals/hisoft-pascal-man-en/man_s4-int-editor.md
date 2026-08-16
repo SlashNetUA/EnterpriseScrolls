@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. Section 4: The Integral Editor"
+---
 # SECTION 4: THE INTEGRAL EDITOR
 
 The integral editor supplied with HiSoft Pascal is a combination of the standard HiSoft line editor and the EXOS screen editor; this partnership leads to simple yet powerful creation and editing of your Pascal programs.

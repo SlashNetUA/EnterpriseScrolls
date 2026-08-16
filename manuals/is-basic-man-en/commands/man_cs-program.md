@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. PROGRAM"
+---
 # PROGRAM
 
 `PROGRAM name (variable-list)`

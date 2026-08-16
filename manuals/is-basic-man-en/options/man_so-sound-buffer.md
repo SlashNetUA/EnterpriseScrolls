@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SOUND BUFFER"
+---
 # SOUND BUFFER
 
 `SET SOUND BUFFER expr`  

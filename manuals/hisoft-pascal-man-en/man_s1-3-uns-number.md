@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.3 Unsigned Number"
+---
 # 1.3 UNSIGNED NUMBER
 
 ![diagram](diagrams/pic-1-3.png)

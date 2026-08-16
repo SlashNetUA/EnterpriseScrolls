@@ -1,3 +1,6 @@
+---
+title: Чип «Dave»
+---
 # DAVE
 
 <div style="text-align:center;">

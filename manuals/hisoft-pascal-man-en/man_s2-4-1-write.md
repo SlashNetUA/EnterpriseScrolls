@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4.1.1 Write"
+---
 # 2.4.1.1 WRITE
 
 The procedure **WRITE** is used to output data to the screen or printer. When the expression to be written is simply of type character then `WRITE(e)` passes the 8 bit value represented by the expression **e** to the screen or printer as appropriate. Use **CHR(16)** to toggle the printer on and off when WRITEing.

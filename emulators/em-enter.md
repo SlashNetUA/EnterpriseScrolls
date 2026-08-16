@@ -1,3 +1,6 @@
+---
+title: Емулятор «Enter»
+---
 # Enter
 
 <div style="text-align:center;">

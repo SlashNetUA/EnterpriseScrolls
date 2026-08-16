@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. DELETE"
+---
 # DELETE
 
 `DELETE line-description TO line-description,...`  

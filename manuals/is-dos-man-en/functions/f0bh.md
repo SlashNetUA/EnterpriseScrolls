@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 0Bh: Console Status"
+---
 # Function 0Bh: Console Status
 
 ## Parameters

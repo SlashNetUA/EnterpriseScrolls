@@ -1,3 +1,6 @@
+---
+title: Команда «REM» (EXDOS/IS-DOS)
+---
 # REM
 
 ## Applicable systems

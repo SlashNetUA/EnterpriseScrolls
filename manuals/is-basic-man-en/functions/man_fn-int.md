@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. INT(X)"
+---
 # INT(X)
 
 The largest whole number not bigger than **X**. So **INT(3.4)** would be **3**, and **INT(-3.4)** would be **-4**.

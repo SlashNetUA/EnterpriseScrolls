@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Chapter 1: Introduction"
+---
 # Chapter 1: Introduction
 
 The addition of an Enterprise Disk Interface and disk drives to your Enterprise system will open up a whole new area of computing experience. Your favorite games will load in seconds instead of minutes, you will be able to read data files from other computers and, using the [IS-DOS](../../software/ss-is-dos.md) disk, you will be able to run software designed to run under CP/M.

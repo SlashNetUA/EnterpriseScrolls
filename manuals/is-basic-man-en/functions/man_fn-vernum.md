@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. VERNUM"
+---
 # VERNUM
 
 Az IS-BASIC 2.1-es verziójában (Enterprise 128): **2.1**,  

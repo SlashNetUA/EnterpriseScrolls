@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Variables"
+---
 # VARIABLES
 
 Now that you know all about program lines, immediate mode and keywords, let's bring something else into the picture.

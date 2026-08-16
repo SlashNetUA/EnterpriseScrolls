@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. RENUMBER"
+---
 # RENUMBER
 
 `RENUMBER line-description TO line-description AT expr STEP expr`  

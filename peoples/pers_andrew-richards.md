@@ -1,3 +1,6 @@
+---
+title: Andrew Richards
+---
 # Andrew Richards
 
 Ендрю Річардс — англійський програміст що навчався в Кембриджі, який створив [Out of This World](../sf-games/o/out-of-this-world.md), деякі процедури пензлів та заливки для _Paintbox_, а також [програмні розширення IS-Basic](../programming/is-basic/ext-boxsoft.md). Крім того, він створив бета-версію гри під назвою [Insane](../sf-games/i/insane.md).

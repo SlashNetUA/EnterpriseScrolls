@@ -1,3 +1,6 @@
+---
+title: Команда «HELP» (IS-DOS)
+---
 # HELP
 
 ## Applicable systems

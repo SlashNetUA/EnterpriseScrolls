@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. The Net"
+---
 # THE NET
 
 The Enterprise is able to communicate with other computers using a simple wire connection. The other computers, of course, have to have the same facility (known as the **Intelligent Net**) if they are going to manage their end of the conversation, but linking up with other Enterprises is no problem.

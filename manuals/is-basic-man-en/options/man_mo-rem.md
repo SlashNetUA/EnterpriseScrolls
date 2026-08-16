@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. REM1 / REM2"
+---
 # REM1 / REM2
 
 `SET REM1 ON/OFF`  

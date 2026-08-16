@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. ALLOCATE"
+---
 # ALLOCATE
 
 `ALLOCATE expr`

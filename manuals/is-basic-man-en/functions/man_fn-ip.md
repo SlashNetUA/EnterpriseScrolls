@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. IP(X)"
+---
 # IP(X)
 
 The integer part of **X**. This means that all figures following the decimal point are chopped off. **IP(9.9)** would be **9**, and **IP(-9.9)** would be - **9**.

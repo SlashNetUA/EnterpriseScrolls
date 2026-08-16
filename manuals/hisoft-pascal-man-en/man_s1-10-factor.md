@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.10 Factor"
+---
 # 1.10 FACTOR
 
 ![diagram](diagrams/pic-1-10.png)

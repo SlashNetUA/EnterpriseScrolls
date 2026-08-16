@@ -1,3 +1,7 @@
+---
+title: "HiSoft Pascal Manual. Bibliography"
+---
+
 # BIBLIOGRAPHY
 
 *K. Jensen* and *N. Wirth*  

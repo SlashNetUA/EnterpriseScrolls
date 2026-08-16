@@ -1,4 +1,7 @@
-﻿# Szipucsu
+---
+title: Szipucsu
+---
+# Szipucsu
 
 Bodnár Tamás
 

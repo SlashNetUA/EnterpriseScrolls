@@ -1,3 +1,6 @@
+---
+title: Компанія «Enterprise Computers Ltd.»
+---
 # Enterprise Computers Ltd
 
 <div style="text-align:center;">

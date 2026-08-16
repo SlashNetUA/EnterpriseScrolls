@@ -1,3 +1,6 @@
+---
+title: Команда «PRINTER» (IS-DOS)
+---
 # PRINTER
 
 ## Applicable systems

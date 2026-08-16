@@ -1,3 +1,6 @@
+---
+title: Команда «MAPDISK» (EXDOS/IS-DOS)
+---
 # MAPDISK
 
 ## Applicable systems

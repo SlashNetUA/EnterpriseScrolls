@@ -1,3 +1,6 @@
+---
+title: Компанія «OPC Manufacturing Ltd»
+---
 # OPC Manufacturing Ltd
 
 [https://web.archive.org/web/20230131230926/http://www.hkexporter.net/electronic/circuit/opc-manufacturing.html](https://web.archive.org/web/20230131230926/http://www.hkexporter.net/electronic/circuit/opc-manufacturing.html)

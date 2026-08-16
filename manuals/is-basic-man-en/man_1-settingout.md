@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Setting Out Text"
+---
 # SETTING OUT TEXT
 
 A semicolon will tell the computer that the things on either side of it are to be printed next to each other on the screen. A program with four separate [PRINT](commands/man_cs-print.md) statements but no semicolons would appear like this:
@@ -77,7 +80,7 @@ The diagram opposite shows you how the screen is normally made up of **960** (**
 
 Some more advanced ways to format text are explained on [page 89](man_2-graphics.md).
 
-![](IS-BASIC_ProgrGuide(PrAT).png)
+![](is-basic-man-prat.png)
 
 ## 80-COLUMN SCREEN
 

@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.14 Parameter List"
+---
 # 1.14 PARAMETER LIST
 
 ![diagram](diagrams/pic-1-14.png)

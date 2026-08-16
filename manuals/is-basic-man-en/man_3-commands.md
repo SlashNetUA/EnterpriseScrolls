@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Commands and Statements"
+---
 # Commands and Statements
 [line-number](commands/man_cs-linenum.md)  
 [ALLOCATE](commands/man_cs-allocate.md)  

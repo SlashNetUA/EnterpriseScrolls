@@ -1,3 +1,6 @@
+---
+title: Журнал «ENTERface Nooduitgave (1986.11)»
+---
 # ENTER*face* Nooduitgave (1986.11)
 
 <div style="text-align:center;">

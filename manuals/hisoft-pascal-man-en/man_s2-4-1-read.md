@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4.1.4 Read"
+---
 # 2.4.1.4 READ
 
 The procedure **READ** is used to access data from the keyboard.

@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4.4.4 Frac(x)"
+---
 # 2.4.4.4 FRAC(X)
 
 **X** must be of type real or integer. Returns the fractional part of **X**: `FRAC(X)=X-ENTIER(X)`.

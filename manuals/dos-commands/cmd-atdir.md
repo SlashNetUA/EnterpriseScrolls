@@ -1,3 +1,6 @@
+---
+title: Команда «ATDIR» (EXDOS/IS-DOS)
+---
 # ATDIR
 
 ## Applicable systems

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. STATUS"
+---
 # STATUS
 
 `SET STATUS ON/OFF`  

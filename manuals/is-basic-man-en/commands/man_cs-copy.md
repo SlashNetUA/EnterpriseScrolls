@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. COPY"
+---
 # COPY
 
 `COPY FROM £chan TO £chan`

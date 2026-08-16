@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. GET"
+---
 # GET
 
 `GET £chan:string-id`

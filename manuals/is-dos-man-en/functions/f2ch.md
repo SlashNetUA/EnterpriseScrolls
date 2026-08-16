@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 2Ch: Get Time"
+---
 # Function 2Ch: Get Time
 
 ## Parameters

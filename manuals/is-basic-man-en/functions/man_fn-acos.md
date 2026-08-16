@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. ACOS(X)"
+---
 # ACOS(X)
 
 The angle associated with cosine **X**, i.e. the opposite of [COS](man_fn-cos.md). Thus, **ACOS(COS(X))** is **X**.

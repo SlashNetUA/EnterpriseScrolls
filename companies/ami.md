@@ -1,3 +1,6 @@
+---
+title: Компанія «AMI»
+---
 # AMI
 
 ![](pics/logo_ami-austria.png)

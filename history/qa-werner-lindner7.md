@@ -1,3 +1,6 @@
+---
+title: "Питання та відповіді з Вернером Лінднером: Enterprise X, Model 911 або Project Vulcan"
+---
  1. [Історичні подробиці](qa-werner-lindner1.md)
  2. [Розробка апаратного забезпечення](qa-werner-lindner2.md)
  3. [Апаратні розширення та картриджі](qa-werner-lindner3.md)

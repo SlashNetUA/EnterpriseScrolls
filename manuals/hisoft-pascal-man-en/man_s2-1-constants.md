@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.1 Constants"
+---
 # 2.1 CONSTANTS
 
 ## MAXINT

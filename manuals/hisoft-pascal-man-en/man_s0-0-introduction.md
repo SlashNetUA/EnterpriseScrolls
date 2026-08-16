@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 0.0 Introduction"
+---
 # 0.0 INTRODUCTION
 
 **Hisoft Pascal** is a fast, easy-to-use and powerful version of the Pascal language as specified in the Pascal User Manual and Report (Jensen/Wirth Second Edition). Omissions from this specification are as follows:

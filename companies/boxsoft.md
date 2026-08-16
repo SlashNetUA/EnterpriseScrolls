@@ -1,3 +1,6 @@
+---
+title: Компанія «BoxSoft»
+---
 # BoxSoft
 
 <img src="pics/logo_boxsoft_01.png" alt="Логотип 1" height="150"> 

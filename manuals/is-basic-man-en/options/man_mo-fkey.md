@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. FKEY"
+---
 # FKEY
 
 `SET £chan:FKEY key-number string`

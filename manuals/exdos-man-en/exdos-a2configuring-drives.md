@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Appendix B: Specifying and configuring disk drives"
+---
 # Appendix B: Specifying and configuring disk drives
 
 The Enterprise has been designed to be used in conjunction with disk drives utilising the "Shugart 410" interface standard. The following criteria should also be checked when specifying the disk drive.

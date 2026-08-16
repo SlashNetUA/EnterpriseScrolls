@@ -1,3 +1,6 @@
+---
+title: Команда «CHKDSK» (IS-DOS)
+---
 # CHKDSK (transient)
 
 ## Applicable systems

@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 2Eh: Set/Reset Verify Flag"
+---
 # Function 2Eh: Set/Reset Verify Flag
 
 ## Parameters

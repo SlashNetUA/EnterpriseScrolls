@@ -1,3 +1,6 @@
+---
+title: Модуль «EPower»
+---
 # EPower
 
 <div style="text-align:center;">

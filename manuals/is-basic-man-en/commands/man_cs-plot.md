@@ -1,3 +1,7 @@
+---
+title: "IS-Basic Manual. PLOT"
+---
+
 # PLOT
 
 `PLOT £chan:point-list`  

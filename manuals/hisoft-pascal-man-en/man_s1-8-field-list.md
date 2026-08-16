@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.8 Field List"
+---
 # 1.8 FIELD LIST
 
 ![diagram](diagrams/pic-1-8.png)

@@ -1,3 +1,6 @@
+---
+title: Контролер «EXDOS» від Вернера Лінднера
+---
 # EXDOS by Werner Lindner
 
 ![](pics/exdos-w-lindner_01.jpg)

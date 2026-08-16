@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. INPUT"
+---
 # INPUT
 
 `INPUT £chan,IF MISSING action,AT row-expr,column-expr,PROMPT string:variable-list.`

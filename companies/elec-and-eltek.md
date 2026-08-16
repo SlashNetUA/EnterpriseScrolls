@@ -1,3 +1,6 @@
+---
+title: Компанія «Elec & Eltek»
+---
 # Elec & Eltek
 
 ![](pics/logo_elec-and-eltek.jpg)

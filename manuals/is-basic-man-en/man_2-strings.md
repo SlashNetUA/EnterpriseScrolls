@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Strings"
+---
 # STRINGS
 
 The earlier part of the manual dealt with strings in very little detail. Now that you have learnt the fundamental concepts, a word about strings will put your knowledge into perspective.

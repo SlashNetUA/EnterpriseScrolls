@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. CHARACTER"
+---
 # CHARACTER
 
 `SET £chan:CHARACTER n,r1,r2,r3,r4,r5,r6,r7,r8,r9`

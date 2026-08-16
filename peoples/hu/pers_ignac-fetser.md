@@ -1,3 +1,6 @@
+---
+title: Ignác Fetser
+---
 # Ignác Fetser
 
 Штатний програміст компанії ['a' Studio](../../companies/a-studio.md).

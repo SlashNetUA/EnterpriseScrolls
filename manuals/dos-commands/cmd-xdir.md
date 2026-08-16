@@ -1,3 +1,6 @@
+---
+title: Команда «XDIR» (IS-DOS)
+---
 # XDIR (transient)
 
 ## Applicable systems

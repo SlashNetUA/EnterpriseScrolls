@@ -1,3 +1,6 @@
+---
+title: Команда «VER» (EXDOS/IS-DOS)
+---
 # VER
 
 ## Applicable systems

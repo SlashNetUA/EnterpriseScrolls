@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. line-number"
+---
 # line-number
 
 `line-number text`  

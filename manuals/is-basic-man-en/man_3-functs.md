@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Built-in Functions and Variables"
+---
 # BUILT-IN FUNCTIONS AND VARIABLES
 
 Trigonometric functions work in degrees or radians (see [OPTION](commands/man_cs-option.md) statement). Minimal BASIC functions are **ABS**, **ATN**, **COS**, **EXP**, **INT**, **LOG**, **RND**, **SGN**, **SIN**, **SQR**, **TAB** and **TAN**.

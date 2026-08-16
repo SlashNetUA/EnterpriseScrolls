@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. PEEK(N)"
+---
 # PEEK(N)
 
 Returns the byte at Z80 address **N**.

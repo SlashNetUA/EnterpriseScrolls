@@ -1,3 +1,6 @@
+---
+title: Карта «SymbiFace III»
+---
 # SymbiFace III
 
 <div style="text-align:center;">

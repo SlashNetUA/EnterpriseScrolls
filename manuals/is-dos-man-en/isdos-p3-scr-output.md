@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 3: Screen Output"
+---
 # 5. Screen Output
 
 Below is a list of all control codes and escape sequences which may be used when doing console output by IS-DOS calls or BIOS calls. When the fast video driver is being used, these codes are handled directly. For the normal EXOS video driver, the codes are translated internally by IS-DOS. This ensures that the control sequences are identical, so that the same program can work with either driver. The only difference is that some of the colour pairs are different, and the fast video cursor flashes.

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. PAPER"
+---
 # PAPER
 
 `SET £chan:PAPER:colour-number`

@@ -1,3 +1,6 @@
+---
+title: Команда «TIME» (EXDOS/IS-DOS)
+---
 # TIME
 
 ## Applicable systems

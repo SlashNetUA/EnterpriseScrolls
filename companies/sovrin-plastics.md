@@ -1,3 +1,6 @@
+---
+title: Компанія «Sovrin Plastics»
+---
 # Sovrin Plastics
 
 Займалась виробництвом пластикових деталей.

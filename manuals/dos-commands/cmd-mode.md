@@ -1,3 +1,6 @@
+---
+title: Команда «MODE» (IS-DOS)
+---
 # MODE
 
 ## Applicable systems

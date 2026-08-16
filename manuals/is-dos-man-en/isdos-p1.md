@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 1: Using IS-DOS"
+---
 # Part 1: Using IS-DOS
 
 [Introduction](isdos-p1-intro.md)  

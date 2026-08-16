@@ -1,3 +1,6 @@
+---
+title: Robert Madge
+---
 # Robert Madge
 
 <div style="text-align:center;">

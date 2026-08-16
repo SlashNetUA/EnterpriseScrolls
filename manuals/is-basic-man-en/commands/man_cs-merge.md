@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. MERGE"
+---
 # MERGE
 
 `MERGE £chan:filename`

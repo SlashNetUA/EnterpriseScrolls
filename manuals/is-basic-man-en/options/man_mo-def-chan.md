@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. DEFAULT CHANNEL"
+---
 # DEFAULT CHANNEL
 
 `SET DEFAULT CHANNEL expr`

@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Chapter 7: Managing Files on Disk"
+---
 # Chapter 7: Managing Files on Disk
 
 The primary purpose of a disk system is to save and load data. Because of the speed and random access facility of disk systems, it is possible to save and load data automatically under control of a program without causing significant interruption to the user of the program.

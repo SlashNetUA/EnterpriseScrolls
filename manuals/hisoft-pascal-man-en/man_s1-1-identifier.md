@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.1 Identifier"
+---
 # 1.1 IDENTIFIER
 
 ![diagram](diagrams/pic-1-1.png)

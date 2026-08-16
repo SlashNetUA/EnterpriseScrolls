@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Introduction"
+---
 # INTRODUCTION
 
 Let's begin by using the machine. That way you can get used to it and see demonstrations of its abilities. Technicalities will be explained later.

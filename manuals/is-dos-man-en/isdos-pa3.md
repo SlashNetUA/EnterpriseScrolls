@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Appendix 3: List of CP/M Programs Tested"
+---
 # Appendix 3: List of CP/M Programs Tested 
 
 | Program         | Version | Company     |
@@ -5,7 +8,7 @@
 | Wordstar        |   3.0   | Micropro    |
 | Wordstar        |  3.30   | Micropro    |
 | DataStar        |  1.41   | Micropro    |
-| ReportStar     |  1.02   | Micropro    |
+| ReportStar      |  1.02   | Micropro    |
 | CalcStar        |  1.45   | Micropro    |
 | SuperCalc       |         |             |
 | SuperCalc II    |         |             |

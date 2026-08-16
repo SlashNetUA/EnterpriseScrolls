@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. POS(X$,Y$)"
+---
 # POS(X\$,Y\$)
 # POS(X\$,Y\$,X)
 

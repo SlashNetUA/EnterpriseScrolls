@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.7 Type"
+---
 # 1.7 TYPE
 
 ![diagram](diagrams/pic-1-7.png)

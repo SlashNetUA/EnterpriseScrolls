@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Minimal Basic Features"
+---
 # MINIMAL BASIC FEATURES
 
 As you know, BASIC comes in many dialects, just as spoken languages have dialects. In the past, computer companies have invented their own BASICs with their own words and ideas. But the core of the language, and its approach, have remained the same.

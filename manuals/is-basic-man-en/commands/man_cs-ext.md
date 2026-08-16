@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. EXT"
+---
 # EXT
 
 `EXT parameter-string`

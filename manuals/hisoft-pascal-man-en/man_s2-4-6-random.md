@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4.6.1 Random"
+---
 # 2.4.6.1 RANDOM
 
 This returns a pseudo-random REAL number between **0.0** and **1.0**.

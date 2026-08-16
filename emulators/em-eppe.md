@@ -1,3 +1,6 @@
+---
+title: Емулятор «Eppe»
+---
 # Eppe
 
 <div style="text-align:center;">

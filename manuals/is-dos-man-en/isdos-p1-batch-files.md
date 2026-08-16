@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 1: Using Batch Files"
+---
 # Using Batch Files
 
 We have seen that when a transient command is given to IS-DOS, a disk file with the corresponding name, plus the extension "**COM**" or "**BAT**", is searched for. If a **COM** file is not found, but a file with a **BAT** extension is present, the latter will be executed as a batch file.

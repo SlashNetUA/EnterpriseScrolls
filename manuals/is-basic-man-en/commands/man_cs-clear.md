@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. CLEAR"
+---
 # CLEAR
 
 `CLEAR £chan:`  

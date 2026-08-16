@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. CSC(X)"
+---
 # CSC(X)
 
 The cosecant of **X**.

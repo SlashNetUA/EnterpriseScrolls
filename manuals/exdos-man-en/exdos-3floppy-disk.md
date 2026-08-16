@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Chapter 3: What is a Floppy Disk?"
+---
 # Chapter 3: What is a Floppy Disk?
 
 A floppy disk, like cassette tape, uses a magnetic oxide coating as a storage medium. The tape cassette is a "serial storage" device which requires "winding on" to the appropriate place on the tape before data can be accessed. This procedure can be hit and miss due to the uncertain nature of the tape counters on cassette decks and the length of tape involved. It is also very time consuming due to the slow tape loading speeds.

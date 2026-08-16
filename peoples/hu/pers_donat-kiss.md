@@ -1,3 +1,6 @@
+---
+title: Donát Kiss
+---
 # Donát Kiss
 
 > [!NOTE]

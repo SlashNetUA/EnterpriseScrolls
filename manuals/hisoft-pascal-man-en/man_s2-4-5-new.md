@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4.5.1 New(p)"
+---
 # 2.4.5.1 NEW(p)
 
 The procedure **NEW(p)** allocates space for a dynamic variable. The variable **p** is a pointer variable and after **NEW(p)** has been executed **p** contains the address of the newly allocated dynamic variable. The type of the dynamic variable is the same as the type of the pointer variable **p** and this can be of any type.

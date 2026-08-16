@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.16 Block"
+---
 # 1.16 BLOCK
 
 ![diagram](diagrams/pic-1-16.png)

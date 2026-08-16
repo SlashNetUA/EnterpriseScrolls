@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. WAIT DELAY"
+---
 # WAIT DELAY
 
 `WAIT DELAY expr`

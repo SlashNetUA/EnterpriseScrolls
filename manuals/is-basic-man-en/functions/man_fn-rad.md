@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. RAD(X)"
+---
 # RAD(X)
 
 Converts **X** from degrees to radians. **RAD(X)=X\*PI/180**.

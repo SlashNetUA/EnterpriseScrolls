@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4.1.2 WriteLN"
+---
 # 2.4.1.2 WRITELN
 
 **WRITELN** causes subsequent output to occur on a new line.

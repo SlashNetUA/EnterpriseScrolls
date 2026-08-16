@@ -1,3 +1,6 @@
+---
+title: Команда «DIR» (EXDOS/IS-DOS)
+---
 # DIR
 
 ## Applicable systems

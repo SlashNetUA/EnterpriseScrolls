@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. END"
+---
 # END
 
 Halts execution, marks the end of the program.

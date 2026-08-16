@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. TANH(X)"
+---
 # TANH(X)
 
 Hyperbolic tangent of **X**.

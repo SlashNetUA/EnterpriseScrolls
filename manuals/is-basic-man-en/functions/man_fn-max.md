@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. MAX(X,Y)"
+---
 # MAX(X,Y)
 
 Returns the bigger number of **X** and **Y**. So **MAX(6,99)** is **99**.

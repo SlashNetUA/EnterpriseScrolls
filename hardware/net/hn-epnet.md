@@ -1,7 +1,10 @@
+---
+title: Мережевий адаптер «EPNET»
+---
 # EPNet
 
 <div style="text-align:center;">
-<img src="pics/epnet_01.jpg" alt="зовнішній вигляд" width="50%"></div>
+<img src="pics/epnet_01.jpg" alt="зовнішній вигляд" width="75%"></div>
 
 
 Розробник: [Bruce Tanner](../../peoples/ec-uk/pers_bruce-tanner.md)

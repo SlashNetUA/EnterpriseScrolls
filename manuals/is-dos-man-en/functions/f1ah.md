@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 1Ah: Set Disk Transfer Address"
+---
 # Function 1Ah: Set Disk Transfer Address
 
 ## Parameters

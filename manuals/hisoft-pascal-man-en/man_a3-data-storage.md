@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. Appendix 3: Data Representation and Storage"
+---
 # APPENDIX 3: DATA REPRESENTATION AND STORAGE
 
 ## A 3.1 Data Representation

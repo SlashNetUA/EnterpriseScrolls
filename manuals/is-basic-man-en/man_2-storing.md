@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Storing Larger Amounts of Information"
+---
 # STORING LARGER AMOUNTS OF INFORMATION
 
 As you've discovered, programming is chiefly a way to handle information. Until now, you have only used small amounts of information in programs, either sentences and numbers that you have typed in response to INPUT statements, or sentences the computer has displayed for you to read.

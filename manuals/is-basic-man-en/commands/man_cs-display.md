@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. DISPLAY"
+---
 # DISPLAY
 
 `DISPLAY £chan:AT a FROM b TO c`

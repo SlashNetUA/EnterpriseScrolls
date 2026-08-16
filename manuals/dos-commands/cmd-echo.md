@@ -1,3 +1,6 @@
+---
+title: Команда «ECHO» (EXDOS/IS-DOS)
+---
 # ECHO
 
 ## Applicable systems

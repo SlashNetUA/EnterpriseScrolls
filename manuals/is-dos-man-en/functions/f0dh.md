@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 0Dh: Disk Reset"
+---
 # Function 0Dh: Disk Reset
 
 ## Parameters

@@ -1,3 +1,6 @@
+---
+title: "The ENTERPRISE IS-DOS Manual"
+---
 # The ENTERPRISE IS-DOS Manual
 
 Version 1.0

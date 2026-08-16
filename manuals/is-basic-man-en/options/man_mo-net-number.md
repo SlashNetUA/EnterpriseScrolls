@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. NET NUMBER"
+---
 # NET NUMBER
 
 `ASK NET NUMBER var`  

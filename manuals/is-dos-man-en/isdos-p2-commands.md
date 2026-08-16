@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 2: Detailed Description of Commands"
+---
 # Detailed Description of Commands
 
 [ASSIGN](../dos-commands/cmd-assign.md)  

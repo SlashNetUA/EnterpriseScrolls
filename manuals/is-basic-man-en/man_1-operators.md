@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Operators and Expressions"
+---
 # OPERATORS AND EXPRESSIONS 
 
 This is an expression: `4+2*3-5`
@@ -72,7 +75,7 @@ This done, the computer drops down to the next level of priority and starts on t
 
 Let's look at a longer one now, and take it to bits in the way the computer would.
 
-![](IS-BASIC_ProgrGuide(Operators).png)
+![](is-basic-man-operators.png)
 
 `2+3*7-5+21/3+4*3^2` is our expression.
 

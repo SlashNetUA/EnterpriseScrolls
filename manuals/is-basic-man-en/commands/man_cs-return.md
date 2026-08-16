@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. RETURN"
+---
 # RETURN
 
 Returns from a subroutine called by [GOSUB](man_cs-gosub.md).

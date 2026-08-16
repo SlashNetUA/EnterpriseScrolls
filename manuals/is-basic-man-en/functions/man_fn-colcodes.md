@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Color Codes"
+---
 # BLACK
 
 The colour **black**, equivalent to [RGB](man_fn-rgb.md)(**0**,**0**,**0**).

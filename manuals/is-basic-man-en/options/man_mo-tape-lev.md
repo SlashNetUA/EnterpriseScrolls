@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. TAPE LEVEL"
+---
 # TAPE LEVEL
 
 `SET TAPE LEVEL expr`

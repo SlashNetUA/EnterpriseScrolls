@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. READ"
+---
 # READ
 
 `READ variable-list`  

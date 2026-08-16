@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. Section 5: Turtle Graphics"
+---
 # SECTION 5: TURTLE GRAPHICS
 
 HiSoft Pascal comes complete with a Logo-style Turtle Graphics package on the 'B' side of the program cassette.

@@ -1,3 +1,6 @@
+---
+title: Компанія «Centrum»
+---
 # Centrum
 
 <div style="text-align:center;">

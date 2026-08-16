@@ -1,3 +1,6 @@
+---
+title: Емулятор «Clock Signal»
+---
 # Clock Signal (CLK)
 
 ![](https://github.com/TomHarte/CLK/raw/master/READMEImages/Icon.png)

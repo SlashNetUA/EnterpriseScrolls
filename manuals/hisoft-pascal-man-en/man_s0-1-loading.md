@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 0.1 Loading HiSoft Pascal Into Your Enterprise"
+---
 # 0.1 LOADING HISOFT PASCAL INTO YOUR ENTERPRISE
 
 HiSoft Pascal is supplied as an Application Program running at address **£100** (throughout this manual **£** is used to denote hexadecimal) on the Enterprise computers; to load it into your computer you should place the cassette into your tape deck with the label showing HiSoft Pascal Compiler facing upwards, ensure that the tape is rewound to the beginning and then press:

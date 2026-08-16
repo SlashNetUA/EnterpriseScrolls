@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 0.3 Compiling and Running"
+---
 # 0.3 COMPILING AND RUNNING
 
 When writing a Pascal program for use with HiSoft Pascal you can type in your source text using the editor contained within the Pascal package or any editor that produces a pure ASCII text stream (each line ending with a **CR** and **LF** character pair) on tape or disc.

@@ -1,3 +1,6 @@
+---
+title: Команда «MOVE» (EXDOS/IS-DOS)
+---
 # MOVE
 
 ## Applicable systems

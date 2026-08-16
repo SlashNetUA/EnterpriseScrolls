@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. COS(X)"
+---
 # COS(X)
 
 The cosine of **X**.

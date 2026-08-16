@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Chapter 4: What is a Disk Operating System?"
+---
 # Chapter 4: What is a Disk Operating System?
 
 The job of an operating system is to control the standard functions of a computer, and to provide a simple means for programs to work within the computer.

@@ -1,3 +1,6 @@
+---
+title: Карта «RSF III»
+---
 # RSF III
 
 <div style="text-align:center;">

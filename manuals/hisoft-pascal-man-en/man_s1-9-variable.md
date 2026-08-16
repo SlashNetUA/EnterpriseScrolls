@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.9 Variable"
+---
 # 1.9 VARIABLE
 
 ![diagram](diagrams/pic-1-9.png)

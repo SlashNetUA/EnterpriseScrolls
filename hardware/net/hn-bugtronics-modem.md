@@ -1,3 +1,6 @@
+---
+title: Карта модему / послідовного порту від «Bugtronics»
+---
 # Serial/Modem Card by Bugtronics
 
 <img src="pics/bugtronics-modem_01.jpg" alt="" width="75%"><br> 

@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 1: Introduction"
+---
 # Introduction
 
 [IS-DOS](../../software/ss-is-dos.md) is a disk-based disk operating system which is a powerful addition to your Enterprise computer. As well as providing useful utilities such as [DISKCOPY](../dos-commands/cmd-diskcopy.md), [BACKUP](../dos-commands/cmd-backup.md) and [UNDEL](../dos-commands/cmd-undel.md)ete, it allows the Enterprise to run the majority of application programs designed to operate under version 2.2 of the CP/M-80 operating system. The batch processing facilities of [EXDOS](../../software/ss-exdos.md) are also enhanced, and EXDOS commands can be issued from IS-DOS. Like EXDOS, IS-DOS uses the MS-DOS file structure, and files from both systems may be mixed on a single disk.

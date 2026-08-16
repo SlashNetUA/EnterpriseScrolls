@@ -1,3 +1,6 @@
+---
+title: Карта MIDI від kvaczko
+---
 # MIDI Card
 
 <div style="text-align:center;">

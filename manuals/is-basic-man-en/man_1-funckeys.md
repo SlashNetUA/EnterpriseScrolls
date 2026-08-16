@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. The Function Keys"
+---
 # THE FUNCTION KEYS
 
 You have already tried pressing some or all of these keys. They are located above the number keys and are themselves numbered **1**-**8**.

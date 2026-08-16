@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Using Machine Code"
+---
 # USING MACHINE CODE
 
 The 'brain' of the Enterprise is a Z80 microprocessor. The Z80 can perform around 500 specific operations, each one denoted by a code number – a 'machine code'. If you program a processor in machine code, you are addressing it directly, in its own language, not through the BASIC interpreter.

@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 0Fh: Open File"
+---
 # Function 0Fh: Open File
 
 ## Parameters

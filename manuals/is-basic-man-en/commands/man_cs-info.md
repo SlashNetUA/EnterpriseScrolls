@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. INFO"
+---
 # INFO
 
 Prints out the amount of memory in the system and the number of unused bytes. A table of information about the programs in memory is also printed, in the following form:

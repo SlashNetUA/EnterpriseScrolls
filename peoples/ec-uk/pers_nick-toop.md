@@ -1,3 +1,6 @@
+---
+title: Nick Toop
+---
 # Nick Toop
 
 Розробник чипа [Nick](../../hardware/hm-nick.md) та системи менеджмента пам'яті, яка пізніше увійшла до чіпу [Dave](../../hardware/hm-dave.md).

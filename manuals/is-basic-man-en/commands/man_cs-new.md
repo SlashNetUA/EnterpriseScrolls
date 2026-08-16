@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. NEW"
+---
 # NEW
 
 Deletes all the current program. Only executed in immediate mode. Clears variables.

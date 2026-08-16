@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. VIDEO COLOUR"
+---
 # VIDEO COLOUR
 
 `SET VIDEO COLOUR expr`

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Doing Things in Order"
+---
 # DOING THINGS IN ORDER
 
 The number at the beginning of a BASIC program line makes an important difference.

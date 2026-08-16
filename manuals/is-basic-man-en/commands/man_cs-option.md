@@ -1,3 +1,7 @@
+---
+title: "IS-Basic Manual. OPTION"
+---
+
 # OPTION
 
 `OPTION ANGLE DEGREES`  

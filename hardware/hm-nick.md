@@ -1,3 +1,6 @@
+---
+title: Відеопроцесор «Nick»
+---
 # NICK
 
 <div style="text-align:center;">

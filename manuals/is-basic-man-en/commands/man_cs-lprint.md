@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. LPRINT"
+---
 # LPRINT
 
 `LPRINT print-expression`

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. INK"
+---
 # INK
 
 `SET £chan:INK colour-number`

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. PRIORITY"
+---
 # PRIORITY
 
 `SET £chan:PRIORITY expr`

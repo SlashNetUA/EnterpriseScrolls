@@ -1,1 +1,4 @@
+---
+title: Компанія «Videoton»
+---
 # Videoton

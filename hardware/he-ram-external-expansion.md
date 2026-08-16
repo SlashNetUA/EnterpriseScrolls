@@ -1,3 +1,6 @@
+---
+title: Модуль розширення ОЗП
+---
 # External RAM Expansion
 
 Prototype only

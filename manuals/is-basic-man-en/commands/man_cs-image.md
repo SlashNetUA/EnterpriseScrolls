@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. IMAGE"
+---
 # IMAGE
 
 `IMAGE:format-specification`

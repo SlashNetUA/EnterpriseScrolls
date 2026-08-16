@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Defining Functions"
+---
 # DEFINING FUNCTIONS
 
 A function is a kind of 'program within a program', designed to carry out some specific task – a sequence of instructions which is set aside for use whenever you need it, and can be utilized again and again.
@@ -26,7 +29,7 @@ The function cannot work on its own. Type in the above lines, and try to run the
 
 Whenever the computer reaches a [CALL](commands/man_cs-call.md) statement, it stops whatever it is doing, finds the function being **CALL**ed, goes and carries it out, then returns to the point in the program immediately after the [CALL](commands/man_cs-call.md). The diagram should make this clear.
 
-![DEF](IS-BASIC_ProgrGuide(DEF).png)
+![DEF](is-basic-man-def.png)
 
 Remember that a function is inactive as long as you don't actually tell the computer to perform it. If the computer is simply following through the sequence of line-numbers and it comes to the part of a program where a function is placed, it jumps over it and does whatever comes afterwards. You cannot make a function work without using its name elsewhere in the program.
 

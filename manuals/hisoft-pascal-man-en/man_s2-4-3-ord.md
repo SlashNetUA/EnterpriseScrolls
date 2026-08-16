@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4.3.4 Ord(x)"
+---
 # 2.4.3.4 ORD(X)
 
 **X** may be of any scalar type except real. The value returned is an integer representing the ordinal number of the value of **X** within the set defining the type of **X**.

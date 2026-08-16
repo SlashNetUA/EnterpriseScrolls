@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. NET CHANNEL"
+---
 # NET CHANNEL
 
 `ASK NET CHANNEL var`

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. IF"
+---
 # IF
 
 `IF relational-expression THEN line-number`  

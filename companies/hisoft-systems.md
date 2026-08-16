@@ -1,3 +1,6 @@
+---
+title: Компанія «HiSoft Systems»
+---
 # HiSoft Systems
 
 <img src="pics/logo_hisoft-systems.png" alt="новий логотип" width="30%"> 

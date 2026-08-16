@@ -1,3 +1,6 @@
+---
+title: Компанія «VTGe Electronics Ltd.»
+---
 # VTGe Electronics Ltd.
 
 ![](pics/logo_vtge-electronics-ltd.jpg)

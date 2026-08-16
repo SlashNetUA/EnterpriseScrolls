@@ -1,3 +1,6 @@
+---
+title: Контролер «EXDOS» від Pear
+---
 # EXDOS від [Pear](../../peoples/community/pear.md)
 
 <div style="text-align:center;">

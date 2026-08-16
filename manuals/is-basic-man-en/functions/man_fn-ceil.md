@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. CEIL(X)"
+---
 # CEIL(X)
 
 Gives the smallest whole number not less than **X**. In other words, **X** is 'rounded up' to the nearest whole number. **CEIL(3.45)** would be **4**, and **CEIL(-3.45)** would be **-3**.

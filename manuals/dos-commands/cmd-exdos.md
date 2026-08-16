@@ -1,3 +1,6 @@
+---
+title: Команда «EXDOS» (EXDOS/IS-DOS)
+---
 # EXDOS
 
 ## Applicable systems

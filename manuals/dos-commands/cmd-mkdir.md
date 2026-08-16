@@ -1,3 +1,6 @@
+---
+title: Команда «MD»/«MKDIR» (EXDOS/IS-DOS)
+---
 # MD / MKDIR
 
 ## Applicable systems

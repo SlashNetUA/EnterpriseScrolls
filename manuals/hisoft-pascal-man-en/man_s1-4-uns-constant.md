@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.4 Unsigned Constant"
+---
 # 1.4 UNSIGNED CONSTANT
 
 ![diagram](diagrams/pic-1-4.png)

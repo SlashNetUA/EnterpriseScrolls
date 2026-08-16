@@ -1,3 +1,6 @@
+---
+title: Команда «COPY» (EXDOS/IS-DOS)
+---
 # COPY
 
 ## Applicable systems

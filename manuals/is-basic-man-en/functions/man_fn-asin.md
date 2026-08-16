@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. ASIN(X)"
+---
 # ASIN(X)
 
 The angle of which **X** is the sine.

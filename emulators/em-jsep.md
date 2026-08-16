@@ -1,3 +1,6 @@
+---
+title: Емулятор «JSep»
+---
 # JSep (JavaScript Enterprise-128 emulator)
 
 <div style="text-align:center;">

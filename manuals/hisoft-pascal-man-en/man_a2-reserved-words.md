@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. Appendix 2: Reserved Words and Predefined Identifiers"
+---
 # APPENDIX 2: RESERVED WORDS AND PREDEFINED IDENTIFIERS
 
 ## A 2.1 RESERVED WORDS

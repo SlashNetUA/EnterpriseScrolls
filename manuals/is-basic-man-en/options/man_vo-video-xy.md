@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. VIDEO X / Y"
+---
 # VIDEO X
 
 `SET VIDEO X expr`

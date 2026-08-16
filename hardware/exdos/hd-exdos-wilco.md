@@ -1,3 +1,6 @@
+---
+title: Контролер «EXDOS» від Wilco
+---
 # EXDOS від [Wilco](../../peoples/community/wilco.md)
 
 <div style="text-align:center;">

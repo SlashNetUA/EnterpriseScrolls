@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Word Processing"
+---
 # WORD PROCESSING
 
 One very valuable thing you can do with your computer is use it as a sophisticated typewriter. You can type in a passage of text – a letter, essay, or whatever – and then print it on a line printer if you have one. The advantage of the computer over an ordinary typewriter is that any mistakes can be corrected much more simply, and that various special functions are provided to help you format your paragraphs and move them around.

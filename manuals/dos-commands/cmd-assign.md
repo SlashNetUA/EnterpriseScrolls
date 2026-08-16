@@ -1,3 +1,6 @@
+---
+title: Команда «ASSIGN» (EXDOS/IS-DOS)
+---
 # ASSIGN
 
 ## Applicable systems

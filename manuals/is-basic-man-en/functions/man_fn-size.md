@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SIZE(A)"
+---
 # SIZE(A)
 
 The number of elements in the array **A**.

@@ -1,3 +1,6 @@
+---
+title: Емулятор «EP32»
+---
 # EP32
 
 <div style="text-align:center;">

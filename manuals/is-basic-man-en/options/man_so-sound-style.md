@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SOUND STYLE"
+---
 # SOUND STYLE
 
 The values for the **STYLE** parameter in a [SOUND](../commands/man_cs-sound.md) statement have the following effects.

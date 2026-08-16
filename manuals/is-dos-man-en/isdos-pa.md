@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Appendices"
+---
 # Appendices
 
 [Summary of Commands](isdos-pa1.md)  

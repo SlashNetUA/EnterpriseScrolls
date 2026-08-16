@@ -1,3 +1,6 @@
+---
+title: Команда «LOAD» (EXDOS/IS-DOS)
+---
 # LOAD
 
 ## Applicable systems

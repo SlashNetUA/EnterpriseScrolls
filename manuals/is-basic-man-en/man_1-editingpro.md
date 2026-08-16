@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Editing Programs"
+---
 # EDITING PROGRAMS
 
 You already know how to correct typing errors by using the joystick and the '**Erase**' key. We shall now look at some more elaborate ways of altering programs – inserting new lines, changing the line numbers, altering parts of lines, and so on. Sometimes this is quite a complicated matter. To make it easier, the computer provides 'word processing' facilities, which will be partly introduced in this chapter and discussed more fully in the next.

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. LINE STYLE"
+---
 # LINE STYLE
 
 `SET £chan:LINE STYLE parameter`

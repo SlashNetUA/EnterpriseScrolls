@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. REDIRECT"
+---
 # REDIRECT
 
 `REDIRECT FROM £chan TO £chan`

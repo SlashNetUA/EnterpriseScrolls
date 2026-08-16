@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SIN(X)"
+---
 # SIN(X)
 
 The sine of **X**.

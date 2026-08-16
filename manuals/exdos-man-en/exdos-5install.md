@@ -1,4 +1,7 @@
-# Chapter 5: Installing Your Interface and Drives.
+---
+title: "EXDOS Manual. Chapter 5: Installing Your Interface and Drives"
+---
+# Chapter 5: Installing Your Interface and Drives
 
 It is important that this chapter is read carefully before attempting to connect your system. It will also be necessary to refer to your disk drive manual
 

@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual"
+---
 # HiSoft Pascal
 
 © Hisoft 1985
@@ -8,7 +11,7 @@ SECTION 0: PRELIMINARIES
 0.0 [Introduction](hisoft-pascal-man-en/man_s0-0-introduction.md)  
 0.1 [Loading HiSoft Pascal into your Enterprise](hisoft-pascal-man-en/man_s0-1-loading.md)  
 0.2 [Scope of this manual](hisoft-pascal-man-en/man_s0-2-scope.md)  
-0.3 [Compiling and running](hisoft-pascal-man-en/man_s0-1-compile.md)  
+0.3 [Compiling and running](hisoft-pascal-man-en/man_s0-3-compile.md)  
 
 SECTION 1: [SYNTAX AND SEMANTICS](hisoft-pascal-man-en/man_s1-0-index.md)  
 1.1	[Identifier](hisoft-pascal-man-en/man_s1-1-identifier.md)  

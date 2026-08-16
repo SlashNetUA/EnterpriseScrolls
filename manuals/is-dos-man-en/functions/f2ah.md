@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 2Ah: Get Date"
+---
 # Function 2Ah: Get Date
 
 ## Parameters

@@ -1,3 +1,6 @@
+---
+title: Модуль синтезу мовлення «Speakeasy»
+---
 # Speakeasy
 
 [Manual](../../manuals/hw-speakeasy.md)

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. DEG(X)"
+---
 # DEG(X)
 
 Converts **X** from radians to degrees. **DEG(X)=X\*180/PI**.

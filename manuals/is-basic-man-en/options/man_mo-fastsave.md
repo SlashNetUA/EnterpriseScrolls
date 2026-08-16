@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. FAST SAVE"
+---
 # FAST SAVE
 
 `SET FAST SAVE ON/OFF`  

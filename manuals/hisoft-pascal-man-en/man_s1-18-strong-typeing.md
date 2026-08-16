@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.18 Strong TYPEing"
+---
 # 1.18 STRONG TYPEing
 
 Different languages have different ways of ensuring that the user does not use an element of data in a manner which is inconsistent with its definition.

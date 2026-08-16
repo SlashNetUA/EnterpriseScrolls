@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 2: Operator's Reference Section"
+---
 # Part 2: Operator's Reference Section
 
 [Notation](isdos-p2-notation.md)  

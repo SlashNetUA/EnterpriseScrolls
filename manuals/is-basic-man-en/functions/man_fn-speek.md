@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SPEEK(S,N)"
+---
 # SPEEK(S,N)
 
 As [PEEK](man_fn-peek.md), but returns the byte at system address **N** within the segment **S**.

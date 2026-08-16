@@ -1,3 +1,6 @@
+---
+title: Компанія «Dataquip Electronics»
+---
 # Dataquip Electronics
 
 ![](pics/logo_dataquip-electronics.png)

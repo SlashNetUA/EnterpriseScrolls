@@ -1,3 +1,6 @@
+---
+title: Miklós Bankó
+---
 # Miklós Bankó
 
 Один з власників фірми MICROTEAM.

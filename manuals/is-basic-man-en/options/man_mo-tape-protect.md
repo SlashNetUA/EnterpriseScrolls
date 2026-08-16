@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. TAPE PROTECT"
+---
 # TAPE PROTECT  
 `SET TAPE PROTECT ON/OFF`  
 `TOGGLE TAPE PROTECT`

@@ -1,3 +1,6 @@
+---
+title: Команда «PATH» (IS-DOS)
+---
 # PATH
 
 ## Applicable systems

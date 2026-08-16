@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 1: Starting IS-DOS"
+---
 # Starting IS-DOS
 
 Your system should be set up as described in the EXDOS manual. We will assume you have just powered up the computer or performed a "cold reset" (two quick presses on the **Reset** button). Press a key to enter BASIC. Insert the IS-DOS disk into drive **A**. Then, from the BASIC screen, type:

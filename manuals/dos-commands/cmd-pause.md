@@ -1,3 +1,6 @@
+---
+title: Команда «PAUSE» (EXDOS/IS-DOS)
+---
 # PAUSE
 
 ## Applicable systems

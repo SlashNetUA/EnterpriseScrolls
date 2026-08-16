@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Rules of Basic"
+---
 # RULES OF BASIC
 
 The Reference Section provides a guide to all the BASIC words available on the Enterprise, along with their purposes and methods of use. Some of them are mentioned only briefly in the Tutorial section, others are not mentioned at all.

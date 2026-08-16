@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4.3.2 Round(x)"
+---
 # 2.4.3.2 ROUND(X)
 
 **X** must be of type real or integer and the function returns the 'nearest' integer to **X** (according to standard rounding rules). Examples:

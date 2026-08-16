@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. KEY CLICK"
+---
 # KEY CLICK
 
 `SET KEY CLICK ON/OFF`  

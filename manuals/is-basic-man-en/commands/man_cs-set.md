@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SET"
+---
 # SET
 
 Sets current machine-option values.

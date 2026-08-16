@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.17 Program"
+---
 # 1.17 PROGRAM
 
 ![diagram](diagrams/pic-1-17.png)

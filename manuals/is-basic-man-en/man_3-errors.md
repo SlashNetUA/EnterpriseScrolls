@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Error Messages"
+---
 # ERROR MESSAGES
 
 Every so often, you are bound to make the odd mistake in a program. It may be difficult to find where the mistake is – or even what it is.

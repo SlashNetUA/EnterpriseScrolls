@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Making Programs Out of Problems"
+---
 # MAKING PROGRAMS OUT OF PROBLEMS
 
 We've spent a lot of time dividing programming into different sections and dealing with these one at a time.
@@ -97,7 +100,7 @@ Now you know roughly which parts come in which order – and exactly what you're
 
 Before you type anything into the computer, take a look at this diagram:
 
-![def2](IS-BASIC_ProgrGuide(DEF2).png)
+![def2](is-basic-man-def2.png)
 
 The diagram shows the order in which the actual BASIC will appear, while the arrows show the order in which the program will operate if you follow them from the YOU INPUT box.
 

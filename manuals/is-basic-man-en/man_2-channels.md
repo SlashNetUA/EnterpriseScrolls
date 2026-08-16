@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Channels"
+---
 # CHANNELS
 In order to give more flexibility in the use of the computer and the 'devices' attached to it, the Enterprise makes use of a concept called channels.
 

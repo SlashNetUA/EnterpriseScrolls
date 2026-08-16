@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. DEF"
+---
 # DEF
 
 `DEF numeric-id=expression`  

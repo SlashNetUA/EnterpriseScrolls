@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Machine Options (General)"
+---
 # MACHINE OPTIONS (GENERAL)
 
 Certain system variables and machine functions can be controlled directly from BASIC; these are called machine options. To assign a value to an option, the command [SET](commands/man_cs-set.md) is used. Where stated, the options listed below may also be handled in conjunction with [ASK](commands/man_cs-ask.md) or [TOGGLE](commands/man_cs-toggle.md).

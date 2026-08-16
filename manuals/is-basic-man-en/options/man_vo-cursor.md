@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. CURSOR"
+---
 # CURSOR
 
 `SET £chan:CURSOR CHARACTER code`  

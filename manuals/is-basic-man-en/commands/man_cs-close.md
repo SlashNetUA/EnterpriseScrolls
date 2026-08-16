@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. CLOSE"
+---
 # CLOSE
  
 `CLOSE £chan`

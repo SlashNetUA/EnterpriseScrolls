@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. INTERRUPT"
+---
 # INTERRUPT
 
 `ASK INTERRUPT CODE var`

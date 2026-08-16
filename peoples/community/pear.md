@@ -1,3 +1,6 @@
+---
+title: Pear
+---
 # Pear
 
 Maciej Gruszecki

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. MIN(X,Y)"
+---
 # MIN(X,Y)
 
 As **MAX(X,Y)**, but returns the smaller number.

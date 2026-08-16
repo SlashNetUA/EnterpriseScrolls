@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Immediate Mode and Keywords"
+---
 # IMMEDIATE MODE AND KEYWORDS
 
 ## IMMEDIATE MODE

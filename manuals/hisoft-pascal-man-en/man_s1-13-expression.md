@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 1.13 Expression"
+---
 # 1.13 EXPRESSION
 
 ![diagram](diagrams/pic-1-13.png)

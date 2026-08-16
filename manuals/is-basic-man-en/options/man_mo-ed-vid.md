@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. EDITOR VIDEO"
+---
 # EDITOR VIDEO
 
 `SET EDITOR VIDEO channel-number`  

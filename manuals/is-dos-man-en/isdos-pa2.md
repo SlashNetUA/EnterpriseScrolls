@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Appendix 2: Error Messages"
+---
 # Appendix 2: Error Messages
 
 For details of the error messages issued by EXDOS, see Appendix G of the EXDOS manual. The following additional messages are specific to IS-DOS:

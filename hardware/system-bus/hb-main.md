@@ -1,3 +1,6 @@
+---
+title: Пристрої розширення системної шини
+---
 # Пристрої розширення системної шини
 <div style="text-align:center;">
     <img src="pics/expansion-port.jpg" width="50%">

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. ATN(X)"
+---
 # ATN(X)
 
 The angle of which **X** is the tangent.

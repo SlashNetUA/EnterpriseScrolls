@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SOUND STOP"
+---
 # SOUND STOP
 `SET SOUND STOP ON/OFF`  
 

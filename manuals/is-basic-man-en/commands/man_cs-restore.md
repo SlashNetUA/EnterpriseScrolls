@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. RESTORE"
+---
 # RESTORE
 
 `RESTORE`  

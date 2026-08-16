@@ -1,3 +1,6 @@
+---
+title: Команда «DEL»/«ERASE»/«ERA» (EXDOS/IS-DOS)
+---
 # DEL / ERASE / ERA
 
 ## Applicable systems

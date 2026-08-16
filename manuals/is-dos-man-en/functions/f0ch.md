@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 0Ch: Get CP/M Version Number"
+---
 # Function 0Ch: Get CP/M Version Number
 
 ## Parameters

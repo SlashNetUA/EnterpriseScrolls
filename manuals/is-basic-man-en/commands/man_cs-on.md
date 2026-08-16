@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. ON"
+---
 # ON
 
 `ON expr GOTO line-number-list`  

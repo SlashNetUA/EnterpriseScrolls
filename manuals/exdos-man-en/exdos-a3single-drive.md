@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Appendix C: Working with a single disk drive"
+---
 # Appendix C: Working with a single disk drive
 
 When power is turned on to the computer, or if it is given a cold reset (two quick successive presses on the **reset** button), EXDOS checks to see if there are two disk drives attached. If it finds drive **A:**, but does not find drive **B:**, it will do an automatic [MAPDISK](../dos-commands/cmd-mapdisk.md) operation — so that all program or user references to **B:** will expect the disk for drive **B:**, but look for it on drive **A:**.

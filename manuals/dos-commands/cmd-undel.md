@@ -1,3 +1,6 @@
+---
+title: Команда «UNDEL» (IS-DOS)
+---
 # UNDEL (transient)
 
 ## Applicable systems

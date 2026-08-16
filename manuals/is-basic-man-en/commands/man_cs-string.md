@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. STRING"
+---
 # STRING
 
 `STRING variable/array-list*n`

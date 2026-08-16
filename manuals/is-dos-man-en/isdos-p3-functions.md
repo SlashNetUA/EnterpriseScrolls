@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 3: IS-DOS Function Calls"
+---
 # 4. IS-DOS Function Calls
 
 IS-DOS function calls are made by putting the function code in register **C**, with any other parameters in the other main registers, and then executing a "**CALL 5**" instruction. The operation will be performed and results will be returned in various registers depending on the function.

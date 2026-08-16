@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.3 Variables"
+---
 # 2.3 VARIABLES
 
 ## RA, RB, RC, RD, RE, RH, RL

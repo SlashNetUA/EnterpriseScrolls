@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. DIM"
+---
 # DIM
 
 `DIM array-list`

@@ -1,3 +1,6 @@
+---
+title: Команда «ATTR» (EXDOS/IS-DOS)
+---
 # ATTR
 
 ## Applicable systems

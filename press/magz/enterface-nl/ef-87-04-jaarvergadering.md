@@ -1,3 +1,6 @@
+---
+title: Журнал «ENTERface bijlage voor jaarvergadering 1987»
+---
 # ENTER*face* bijlage voor jaarvergadering 1987 (≈1987.04)
 
 <div style="text-align:center;">

@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Chapter 6: Formatting and Using a Disk"
+---
 # Chapter 6: Formatting and Using a Disk
 
 As we have mentioned previously, before a new disk can be used it must be formatted to suit the system in which it will be working. The [FORMAT](../dos-commands/cmd-format.md) command should be used with care as formatting a disk containing data will irretrievably destroy that data) EXDOS always gives a warning message and asks for confirmation before formatting a disk.

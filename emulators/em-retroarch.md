@@ -1,1 +1,4 @@
+---
+title: Емулятор «RetroArch»
+---
 # RetroArch

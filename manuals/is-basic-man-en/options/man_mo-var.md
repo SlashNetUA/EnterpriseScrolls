@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. VARIABLE"
+---
 # VARIABLE
 
 `SET variable-number, expr`  

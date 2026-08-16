@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. BORDER"
+---
 # BORDER
 
 `SET £chan:BORDER colour-code`

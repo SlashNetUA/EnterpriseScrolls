@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Appendix 1: Summary of Commands"
+---
 # Appendix 1: Summary of Commands
 
 The following is a list of all the commands available and a summary of their syntax and purpose.

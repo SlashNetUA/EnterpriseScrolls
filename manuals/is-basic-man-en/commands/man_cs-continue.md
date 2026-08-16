@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. CONTINUE"
+---
 # CONTINUE
 
 As a command in immediate mode, it restarts the program at the next line after a [STOP](man_cs-stop.md) command or press of the 'Stop' key.

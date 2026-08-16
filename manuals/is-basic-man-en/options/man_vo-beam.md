@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. BEAM"
+---
 # BEAM
 
 `SET £chan:BEAM ON`  

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. LIST"
+---
 # LIST
 
 `LIST £chan:line-description TO line-description`  

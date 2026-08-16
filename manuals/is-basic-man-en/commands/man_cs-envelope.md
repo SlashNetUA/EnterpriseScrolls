@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. ENVELOPE"
+---
 # ENVELOPE
 
 `ENVELOPE £chan:NUMBER a;b,c,d,e;f,g,h,i;...;RELEASE;j,k;l;m;...`

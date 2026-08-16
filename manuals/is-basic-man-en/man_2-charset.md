@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. The Character Set"
+---
 # THE CHARACTER SET
 
 The Enterprise is provided with a pre-defined group of characters which make up the standard character set. This follows the International Standards Organisation (ISO) character definitions, but is commonly referred to as ASCII – which stands for American Standard Code for Information Interchange.

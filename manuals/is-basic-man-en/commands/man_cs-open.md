@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. OPEN"
+---
 # OPEN
 
 `OPEN £chan:NAME device/filename ACCESS mode`  

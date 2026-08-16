@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. TAPE SOUND"
+---
 # TAPE SOUND
 
 `SET TAPE SOUND ON/OFF`  

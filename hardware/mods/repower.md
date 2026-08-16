@@ -1,3 +1,6 @@
+---
+title: Модуль «REpower»
+---
 # REpower
 
 <div style="text-align:center;">

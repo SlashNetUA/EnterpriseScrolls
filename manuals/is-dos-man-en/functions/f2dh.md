@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Function 2Dh: Set Time"
+---
 # Function 2Dh: Set Time
 
 ## Parameters

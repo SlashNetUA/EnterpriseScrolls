@@ -1,3 +1,6 @@
+---
+title: Модуль розширення системної шини (угорська версія)
+---
 # Bus Expander
 
 <div style="text-align:center;">

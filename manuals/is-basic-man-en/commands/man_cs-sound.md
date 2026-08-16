@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SOUND"
+---
 # SOUND
 
 `SOUND £chan:PITCH expr,DURATION expr,LEFT expr,RIGHT expr,SOURCE expr,STYLE expr,ENVELOPE expr,SYNC expr,INTERRUPT`  

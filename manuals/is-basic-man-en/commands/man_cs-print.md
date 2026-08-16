@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. PRINT"
+---
 # PRINT
 
 `PRINT £chan,AT row-expr,column-expr:output-list`  

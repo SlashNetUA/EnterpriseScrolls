@@ -1,3 +1,6 @@
+---
+title: Команда «CD»/«CHDIR» (EXDOS/IS-DOS)
+---
 # CD / CHDIR
 
 ## Applicable systems

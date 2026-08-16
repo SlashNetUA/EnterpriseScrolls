@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. SCROLL"
+---
 # SCROLL
 
 `SET £chan:SCROLL ON/OFF`

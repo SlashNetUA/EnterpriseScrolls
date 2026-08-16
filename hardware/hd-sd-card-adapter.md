@@ -1,3 +1,6 @@
+---
+title: Адаптер SD-карт
+---
 # SD-card adapter
 
 ![](cartridge/pics/covr_sd-card-adapter.png)

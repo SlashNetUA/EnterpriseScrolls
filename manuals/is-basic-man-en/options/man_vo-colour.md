@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. COLOUR"
+---
 # COLOUR
 
 `SET £chan:COLOUR palette-number, colour-code`

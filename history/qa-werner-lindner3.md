@@ -1,3 +1,6 @@
+---
+title: "Питання та відповіді з Вернером Лінднером: Апаратні розширення та картриджі"
+---
  1. [Історичні подробиці](qa-werner-lindner1.md)
  2. [Розробка апаратного забезпечення](qa-werner-lindner2.md)
  3. Апаратні розширення та картриджі
@@ -203,9 +206,9 @@
 
 Плата ROM з джампером для вибору сегмента пам'яті
 
-<img src="../hardware/rom-external/rom-ext-for-minibus_01.jpg" width="30%"> 
-<img src="../hardware/rom-external/rom-ext-for-minibus_02.jpg" width="30%"> 
-<img src="../hardware/rom-external/rom-ext-for-minibus_03.jpg" width="30%"> 
+<img src="../hardware/rom-external/pics/rom-ext-for-minibus_01.jpg" width="30%"> 
+<img src="../hardware/rom-external/pics/rom-ext-for-minibus_02.jpg" width="30%"> 
+<img src="../hardware/rom-external/pics/rom-ext-for-minibus_03.jpg" width="30%"> 
 
 ----
 

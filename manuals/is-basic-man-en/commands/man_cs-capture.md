@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. CAPTURE"
+---
 # CAPTURE
 
 `CAPTURE FROM £chan TO £chan`

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. OUT"
+---
 # OUT
 
 `OUT n,a`

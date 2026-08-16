@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Appendix G: Errors during operation"
+---
 # Appendix G: Errors during operation
 
 Various error conditions can occur when using EXDOS. Informative error messages are given in these circumstances, and are often accompanied by a prompt such as:

@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal Manual. 2.4.1.5 ReadLN"
+---
 # 2.4.1.5 READLN
 
 `READLN(V1,V2,.......Vn);` is equivalent to:

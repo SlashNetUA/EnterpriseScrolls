@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. STOP"
+---
 # STOP
 
 Halts execution (prints **STOP** message).

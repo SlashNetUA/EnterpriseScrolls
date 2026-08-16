@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 3: Introduction"
+---
 # 1. Introduction
 
 This section describes the environment which IS-DOS provides for transient programs on the Enterprise computer. It is intended as a guide for writing new programs to run under IS-DOS and also to assist in converting existing CP/M programs.

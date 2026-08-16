@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Function Key Operations"
+---
 # FUNCTION KEY OPERATIONS
 
    

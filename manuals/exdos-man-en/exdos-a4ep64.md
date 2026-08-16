@@ -1,3 +1,6 @@
+---
+title: "EXDOS Manual. Appendix D: Working with an Enterprise 64"
+---
 # Appendix D: Working with an Enterprise 64
 
 An **Enterprise 64** can be used with the disk interface unit in exactly the same manner as an **Enterprise 128**, although there will of course be less memory to use for the [RAMDISK](../dos-commands/cmd-ramdisk.md) and other EXDOS features. The advantages of IS-DOS will be best realised with the **Enterprise 128**.

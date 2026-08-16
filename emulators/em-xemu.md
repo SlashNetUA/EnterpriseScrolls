@@ -1,3 +1,6 @@
+---
+title: Емулятор «Xemu»
+---
 # Xemu
 
 <div style="text-align:center;">

@@ -1,3 +1,6 @@
+---
+title: Модуль розширення системної шини від «Bugtronics»
+---
 # Motherboard від Bugtronics
 
 Модуль розширення системної шини **Mini Motherboard** пропонувався данською фірмою [Bugtronics](../../companies/bugtronics.md) у кооперації з [Dataquip Electronics](../../companies/dataquip-electronics.md). Одною стороною підключається до шини розширення (з правого боку комп'ютера), а з іншої сторони має слот для підключення офіціального EXDOS. Додатковий слот (скоріш за все був використаний роз'єм [DIN 41612](https://uk.wikipedia.org/wiki/DIN_41612)) був розташований у верхній частині пристрою.

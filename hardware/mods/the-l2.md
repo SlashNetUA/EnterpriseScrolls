@@ -1,3 +1,6 @@
+---
+title: Модуль «The "L2"»
+---
 # The L2
 
 <div style="text-align:center;">

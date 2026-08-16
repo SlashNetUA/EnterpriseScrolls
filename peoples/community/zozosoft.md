@@ -1,3 +1,6 @@
+---
+title: ZozoSoft
+---
 # ZozoSoft
 
 Zoltán Németh

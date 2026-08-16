@@ -1,3 +1,6 @@
+---
+title: Команда «REN»/«RENAME» (EXDOS/IS-DOS)
+---
 # REN / RENAME
 
 ## Applicable systems

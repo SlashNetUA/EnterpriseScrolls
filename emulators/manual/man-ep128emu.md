@@ -1,3 +1,6 @@
+---
+title: ep128emu manual
+---
 # ep128emu 2.0.11.2
 
 **ep128emu** is an open source, portable emulator of the **Enterprise 128**, **ZX Spectrum 48**/**128**, **Amstrad CPC 464**/**664**/**6128** and **Videoton TVC** computers, written in C++, and supporting Windows and POSIX platforms (32 and 64 bit Windows and Linux, and MacOS X have been tested). It implements accurate, high quality hardware emulation, however, the system requirements are higher than that of most other emulators.

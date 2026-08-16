@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. TIME$"
+---
 # TIME$
  
 Returns the current time in the standard format (**HH:MM:SS**).

@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. LOAD"
+---
 # LOAD
 
 `LOAD £chan:filename`  

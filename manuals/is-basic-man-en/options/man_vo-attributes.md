@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. ATTRIBUTES"
+---
 # ATTRIBUTES
 
 `SET ATTRIBUTES expr`

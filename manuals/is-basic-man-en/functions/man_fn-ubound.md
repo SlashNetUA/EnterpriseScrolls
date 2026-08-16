@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. UBOUND(A)"
+---
 # UBOUND(A)
 
 Upper bound of the dimension of a one-dimensional array **A**.

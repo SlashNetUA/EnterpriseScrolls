@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. VIDEO MODE"
+---
 # VIDEO MODE
 
 `SET VIDEO MODE expr`

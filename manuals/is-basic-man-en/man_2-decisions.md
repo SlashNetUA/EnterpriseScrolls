@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. Decisions, Decisions!"
+---
 # DECISIONS, DECISIONS!
 
 Fiction often refers to computers with the reasoning of human beings. Perhaps, like most people, you believed before you understood computers that they are more 'clever' than they really are.
@@ -134,7 +137,7 @@ The previous program shows exactly how you should use an [IF](commands/man_cs-if
 
 An [IF](commands/man_cs-if.md) block must always finish with [END IF](commands/man_cs-if.md) – otherwise the computer will not run the rest of the program if the last [IF](commands/man_cs-if.md) test failed.
 
-![if](IS-BASIC_ProgrGuide(IF).png)
+![if](is-basic-man-if.png)
 
 [IF](commands/man_cs-if.md)/[THEN](commands/man_cs-if.md) is, therefore, good as one line to pick out exceptions or deal with decisions when only something simple needs to be done as a result. As a block it can be used to run an entire complex program, depending on a decision which is made through the IF block at the beginning.
 

@@ -1,3 +1,6 @@
+---
+title: Команда «EXIT» (EXDOS)
+---
 # EXIT
 
 ## Applicable systems

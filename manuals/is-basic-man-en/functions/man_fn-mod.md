@@ -1,3 +1,6 @@
+---
+title: "IS-Basic Manual. MOD(X,Y)"
+---
 # MOD(X,Y)
 
 **X** modulo **Y**. Or, in simpler terms, the integer remainder of **X** divided by **Y**. Note **MOD(-1,3)=2**.

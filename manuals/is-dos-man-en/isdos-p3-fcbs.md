@@ -1,3 +1,6 @@
+---
+title: "IS-DOS Manual. Part 3: File Control Blocks (FCBs)"
+---
 # 3. File Control Blocks (FCBs)
 
 All IS-DOS function calls which refer to disk files must be passed a pointer to a File Control Block (FCB) in register **DE**. These FCBs are identical to CP/M FCBs except that some of the reserved fields are used differently, reflecting the different filing system which IS-DOS uses.

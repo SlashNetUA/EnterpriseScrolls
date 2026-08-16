@@ -1,3 +1,6 @@
+---
+title: Компанія «MICROTEAM»
+---
 # MICROTEAM
 
 Засновники: [Міклош Банко](../peoples/hu/pers_miklos-banko.md) та
