@@ -1,3 +1,6 @@
+---
+title: "Розширення для IS-Basic від BoxSoft"
+---
 # BoxSoft extensions
 
 <img src="../../software/releases/covr_is-basic-extensions.png" height="288"> 

@@ -1,3 +1,6 @@
+---
+title: "Конверсія програм з платформи ZX Spectrum"
+---
 # Конверсія програм з платформи ZX Spectrum
 
 <div style="text-align:center;">

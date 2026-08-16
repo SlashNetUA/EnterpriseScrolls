@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 2025/1 (2025)»
+---
 # Enterpress 2025/1 (2025)
 
 <div style="text-align:center;">

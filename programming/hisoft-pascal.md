@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal"
+---
 # HiSoft Pascal
 
 <img src="../software/screenshots/scrn_hisoft-pascal-12_01.png" height="288"> 

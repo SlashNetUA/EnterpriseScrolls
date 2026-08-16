@@ -1,3 +1,6 @@
+---
+title: EXOS variable 79 DT_FORM
+---
 # 79 DT_FORM
 
 EXDOS/IS-DOS variable.

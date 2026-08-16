@@ -1,3 +1,6 @@
+---
+title: "z88dk"
+---
 # z88dk
 
 ![](https://raw.githubusercontent.com/wiki/z88dk/z88dk/images/logo.gif)

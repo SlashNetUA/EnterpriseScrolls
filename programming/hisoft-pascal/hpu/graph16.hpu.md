@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal: бібліотека GRAPH16.HPU"
+---
 # GRAPH16.HPU
 # Опис
 

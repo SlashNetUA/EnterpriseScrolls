@@ -1,3 +1,6 @@
+---
+title: EXOS variable 11 - DELAY_KEY
+---
 # 11 - DELAY_KEY
 
 Пристрій: [KEYBOARD](../exos-devices/keyboard.md)  

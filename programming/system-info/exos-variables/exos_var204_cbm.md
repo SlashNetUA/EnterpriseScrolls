@@ -1,3 +1,6 @@
+---
+title: EXOS variable 204 (BV+4) - (CBM-MFT)
+---
 # 204 (BV+4) - (CBM-MFT)
 
 `ASK 204 var`  

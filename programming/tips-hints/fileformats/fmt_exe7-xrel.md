@@ -1,3 +1,6 @@
+---
+title: "Ôîğìàò ôàéëó «Type 7: Relocatable System Extension»"
+---
 # Relocatable System Extension
 
 Relocatable and absolute system extension are loaded automatically by EXOS when the appropriate module header is found. They are loaded into segments which EXOS marks as allocated to devices and will therefore never be freed. Once loaded they function exactly like ROM based system extensions, with a single entry point which is passed action codes.

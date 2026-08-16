@@ -1,3 +1,6 @@
+---
+title: EXOS variable 14 - MUTE_SND
+---
 # 14 - MUTE_SND
 
 Пристрій: [SOUND](../exos-devices/sound.md)

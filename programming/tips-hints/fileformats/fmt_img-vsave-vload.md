@@ -1,3 +1,6 @@
+---
+title: "Формат файлу «VSave/VLoad image»"
+---
 # VSave/VLoad image
 
 ## Header (16 bytes)

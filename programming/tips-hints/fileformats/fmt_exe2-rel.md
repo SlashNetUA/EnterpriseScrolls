@@ -1,3 +1,6 @@
+---
+title: "Ôîğìàò ôàéëó «Type 2: User Relocatable Module»"
+---
 # User Relocatable Module
 
 User relocatable modules are loaded into user RAM and are regarded as being part of the current applications program once loaded. It is the responsibilty of the user to organise allocation of RAM for them to be loaded into. They are useful for providing user device drivers, indeed the interlace video driver which is provided with the Enterpise Computer is loaded as a user relocatable module.

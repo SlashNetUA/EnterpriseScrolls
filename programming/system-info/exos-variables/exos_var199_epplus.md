@@ -1,3 +1,6 @@
+---
+title: EXOS variable 199 - EPPLUS_VARS (Enterprise Plus)
+---
 # 199 - EPPLUS_VARS (Enterprise Plus)
 
 `ASK 199 var`  

@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress»
+---
 # Enterpress
 
 ![](enterpress-hu/logo-enterpress.png)

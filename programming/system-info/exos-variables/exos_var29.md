@@ -1,3 +1,6 @@
+---
+title: EXOS variable 29 - VID_EDIT
+---
 # 29 - VID_EDIT
 
 Пристрій: [EDITOR](../exos-devices/editor.md)  

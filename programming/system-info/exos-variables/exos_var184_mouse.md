@@ -1,3 +1,6 @@
+---
+title: EXOS variable 184 - (MOUSE.XR)
+---
 # 184 - (MOUSE.XR)
 
 `ASK 184 var`  

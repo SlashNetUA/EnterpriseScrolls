@@ -1,3 +1,6 @@
+---
+title: "Конверсія програм з платформи Amstrad CPC"
+---
 # Конверсія програм з платформи Amstrad CPC
 
 <div style="text-align:center;">

@@ -1,3 +1,6 @@
+---
+title: "Системне розширення FILE"
+---
 # Системне розширення FILE
 
 <img src="screenshots/scrn_file-ext_01.png" width="42%">  

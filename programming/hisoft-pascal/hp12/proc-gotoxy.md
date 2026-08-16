@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal: GOTOXY(X,Y)"
+---
 # GOTOXY(X,Y)
 
 (тільки у версії 1.2)

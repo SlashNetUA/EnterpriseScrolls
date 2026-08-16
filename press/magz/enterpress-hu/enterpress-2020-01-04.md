@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 2020/1-2 (2020.01-04)»
+---
 # Enterpress 2020/1-2 (2020.01-04)
 
 <div style="text-align:center;">

@@ -1,3 +1,6 @@
+---
+title: EXOS variable 200 - VDUMP_RES (Enterprise Plus)
+---
 # 200 - VDUMP_RES (Enterprise Plus)
 
 `ASK 200 var`  

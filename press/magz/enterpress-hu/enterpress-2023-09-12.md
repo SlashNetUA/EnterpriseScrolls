@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 2023/5-6 (2023.09-12)»
+---
 # Enterpress 2023/5-6 (2023.09-12)
 
 <div style="text-align:center;">

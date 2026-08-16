@@ -1,3 +1,6 @@
+---
+title: EXOS Channels
+---
 # EXOS Channels
 
 Channels numbers range **0** to **254** (**255** is an invalid channel number which is used for special purposes)

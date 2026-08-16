@@ -1,3 +1,6 @@
+---
+title: EXOS variable 144 - 
+---
 # 144 - 
 
 `ASK 144 var`  

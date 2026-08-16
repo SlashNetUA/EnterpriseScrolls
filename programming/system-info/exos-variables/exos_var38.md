@@ -1,3 +1,6 @@
+---
+title: EXOS variable 38 - SPRITE
+---
 # 38 - SPRITE
 
 Пристрій: [VIDEO](../exos-devices/video.md)   

@@ -1,3 +1,6 @@
+---
+title: EXOS variables 94-97 Drive Clock
+---
 # 94-97 Drive Clock
 
 Each drive clock variable binary format is:

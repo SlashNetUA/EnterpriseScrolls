@@ -1,3 +1,6 @@
+---
+title: "װמנלאע פאיכף «SprED sprite»"
+---
 # SprED sprite
 
 ## Header (none)

@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal: HI(N)"
+---
 # HI(N)
 
 (тільки у версії 1.2)

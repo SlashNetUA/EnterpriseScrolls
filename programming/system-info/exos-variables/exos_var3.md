@@ -1,3 +1,6 @@
+---
+title: EXOS variable 3 - DEF_TYPE
+---
 # 3 - DEF_TYPE
 
 `ASK 3 var`  

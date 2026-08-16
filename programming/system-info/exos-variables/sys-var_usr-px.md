@@ -1,3 +1,6 @@
+---
+title: EXOS variables USR_P0, USR_P1, USR_P2, USR_P3
+---
 # USR_P0, USR_P1, USR_P2, USR_P3
 
 Адреси пам'яті: 

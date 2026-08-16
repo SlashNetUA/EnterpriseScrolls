@@ -1,3 +1,6 @@
+---
+title: EXOS variable 18 - ADDR_NET
+---
 # 18 - ADDR_NET
 
 Пристрій: [NET](../exos-devices/net.md)  

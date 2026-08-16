@@ -1,3 +1,6 @@
+---
+title: EXOS variable 35 - LV_TAPE
+---
 # 35 - LV_TAPE
 
 Пристрій: [TAPE](../exos-devices/tape.md)  

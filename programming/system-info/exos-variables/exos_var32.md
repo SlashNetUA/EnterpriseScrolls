@@ -1,3 +1,6 @@
+---
+title: EXOS variable 32 - FLG_EDIT
+---
 # 32 - FLG_EDIT
 
 Пристрій: [EDITOR](../exos-devices/editor.md)  

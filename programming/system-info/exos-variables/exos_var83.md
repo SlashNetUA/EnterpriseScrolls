@@ -1,3 +1,6 @@
+---
+title: EXOS variable 83 CLI_PROT
+---
 # 83 CLI_PROT
 
 Protection flag for IS-DOS CLI.

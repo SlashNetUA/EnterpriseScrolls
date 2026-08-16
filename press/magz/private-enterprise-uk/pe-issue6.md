@@ -1,3 +1,6 @@
+---
+title: Журнал «Private Enterprise Issue 6 (1986)»
+---
 # Private Enterprise Issue 6 (1986 ≈друга половина літа)
 
 <div style="text-align:center;">

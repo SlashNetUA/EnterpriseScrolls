@@ -1,3 +1,6 @@
+---
+title: "Розширення IS-Basic: EnterSprite"
+---
 # EnterSprite
 
 <img src="../../software/releases/covr_entersprite.png" height="288"> 

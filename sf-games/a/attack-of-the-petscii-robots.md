@@ -1,5 +1,5 @@
 ---
-title: Attack of the PETSCII Robots
+title: "Attack of the PETSCII Robots"
 ---
 
 ﻿[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
@@ -103,7 +103,7 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 #### Рекомендовані системні вимоги  
 Оперативна пам'ять: **128 КБ (або більше)**  
 [EXDOS](../../software/ss-exdos.md)  
-[SID card](../../hardware/sound/hs-sid-card.md)  
+[SID card](../../hardware/hs-sidcard.md)  
 
 ### Системні вимоги Attack of the PETSCII Robots Plus (16-colour version)  
 #### Мінімальні системні вимоги  
@@ -111,7 +111,7 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 #### Рекомендовані системні вимоги  
 Оперативна пам'ять: **192 КБ (або більше)**  
 [EXDOS](../../software/ss-exdos.md)  
-[SID card](../../hardware/sound/hs-sid-card.md)  
+[SID card](../../hardware/hs-sidcard.md)  
 
 
 ### Тонкощі запуску  

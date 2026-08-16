@@ -1,3 +1,6 @@
+---
+title: "MPAGD (Multi-Platform Arcade Game Designer)"
+---
 # MPAGD (Multi-Platform Arcade Game Designer)
 
 ![](pics/mpagd-ico.png)

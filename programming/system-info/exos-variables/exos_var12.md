@@ -1,3 +1,6 @@
+---
+title: EXOS variable 12 - TAPE_SND
+---
 # 12 - TAPE_SND
 
 Пристрій: [SOUND](../exos-devices/sound.md)

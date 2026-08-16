@@ -1,3 +1,6 @@
+---
+title: "Дискова операційна система IS-DOS"
+---
 # IS-DOS
 [IS-DOS Manual](../manuals/ss-is-dos-manual-en.md)
 

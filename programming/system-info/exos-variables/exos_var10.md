@@ -1,3 +1,6 @@
+---
+title: EXOS variable 10 - RATE_KEY
+---
 # 10 - RATE_KEY
 
 Пристрій: [KEYBOARD](../exos-devices/keyboard.md)  

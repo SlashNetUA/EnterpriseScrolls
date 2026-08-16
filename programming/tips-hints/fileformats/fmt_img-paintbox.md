@@ -1,3 +1,6 @@
+---
+title: "Формат файлу «PaintBox image»"
+---
 # PaintBox image
 
 ## Header (12 bytes)

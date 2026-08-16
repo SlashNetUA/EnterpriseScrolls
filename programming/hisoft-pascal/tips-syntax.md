@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal: синтаксис"
+---
 # CASE
 
 ```

@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal: SWAP(N)"
+---
 # SWAP(N)
 
 (тільки у версії 1.2)

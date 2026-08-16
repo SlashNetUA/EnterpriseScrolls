@@ -1,3 +1,6 @@
+---
+title: EXOS variables 36 - REM1 / 37 - REM2
+---
 # 36 - REM1
 
 Пристрій: [TAPE](../exos-devices/tape.md)  

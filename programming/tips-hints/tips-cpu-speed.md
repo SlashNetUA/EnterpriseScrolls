@@ -1,3 +1,6 @@
+---
+title: "Трюки та хитрощі: частота процесора"
+---
 # Визначення поточної частоти процесора
 
 ## Q: Is there a way to programatically check for turbo mode (and of what kind/speed is it)?

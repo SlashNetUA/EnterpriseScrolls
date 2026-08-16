@@ -1,3 +1,6 @@
+---
+title: EXOS variable STACK_LIMIT
+---
 # STACK_LIMIT
 
 Адреси пам'яті: **0BFFAh**, **0BFFBh**

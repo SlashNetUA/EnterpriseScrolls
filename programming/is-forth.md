@@ -1,3 +1,6 @@
+---
+title: "IS-Forth"
+---
 # IS-Forth
 
 <img src="../software/releases/covr_forth.png" height="288"> 

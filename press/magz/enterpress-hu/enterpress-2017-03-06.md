@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 2017/2-3 (2017.03-06)»
+---
 # Enterpress 2017/2-3 (2017.03-06)
 
 <div style="text-align:center;">

@@ -1,3 +1,6 @@
+---
+title: EXOS variable 74 DSK_CHK
+---
 # 74 DSK_CHK
 
 EXDOS/IS-DOS variable.

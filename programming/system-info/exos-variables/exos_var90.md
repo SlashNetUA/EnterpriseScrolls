@@ -1,3 +1,6 @@
+---
+title: EXOS variable 90 FAST_VID
+---
 # 90 FAST_VID
 
 Zero to enable IS-DOS fast video by default

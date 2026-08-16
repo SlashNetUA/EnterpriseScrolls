@@ -1,3 +1,8 @@
+---
+title: "װמנלאע פאיכף «EPF: EP128pal font»"
+---
+# EPF: EP128pal font
+
 Font file used in [EP128pal](../../../software-pc/ep128pal.md) image converter.
 
 | Name          |       Length       | Byte offset | Description                                       |

@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 2021/1-3 (2021.01-06)»
+---
 # Enterpress 2021/1-3 (2021.01-06)
 
 <div style="text-align:center;">

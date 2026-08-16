@@ -1,3 +1,6 @@
+---
+title: EXOS variable RST_ADDR
+---
 # RST_ADDR
 
 Адреси пам'яті: **0BFF8h**, **0BFF9h**

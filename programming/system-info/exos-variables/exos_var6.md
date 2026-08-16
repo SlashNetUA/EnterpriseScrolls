@@ -1,3 +1,6 @@
+---
+title: EXOS variable 6 - LOCK_KEY 
+---
 # 6 - LOCK_KEY 
 
 Пристрій: [KEYBOARD](../exos-devices/keyboard.md)  

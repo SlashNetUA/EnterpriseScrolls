@@ -1,3 +1,6 @@
+---
+title: EXOS variable 39 - RANDOM_IRQ
+---
 # 39 - RANDOM_IRQ
 
 Only in [EXOS 2.1](../../../software/exos/exos-versions.md) and greater.

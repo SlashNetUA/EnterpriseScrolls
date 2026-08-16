@@ -1,3 +1,6 @@
+---
+title: "Дискова операційна система EXDOS"
+---
 # EXDOS
 
 (Enterprise eXpandable Disk Operating System)

@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 2019/3-4 (2019.05-08)»
+---
 # Enterpress 2019/3-4 (2019.05-08)
 
 <div style="text-align:center;">

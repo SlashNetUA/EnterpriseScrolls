@@ -1,3 +1,6 @@
+---
+title: EXOS variable 9 - KEY_IRQ
+---
 # 9 - KEY_IRQ
 
 Пристрій: [KEYBOARD](../exos-devices/keyboard.md)  

@@ -1,3 +1,6 @@
+---
+title: "Формат файлу «TAP: Tapir tape image»"
+---
 # Tapir tape image file
 
 Образ касетної стрічки для утіліти **Tapir**.

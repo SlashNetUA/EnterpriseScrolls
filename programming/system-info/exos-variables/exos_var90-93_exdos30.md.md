@@ -1,3 +1,6 @@
+---
+title: EXOS variables 90-93 Drive Type
+---
 # 90-93 Drive Type
 
 Each drive type variable binary format is:

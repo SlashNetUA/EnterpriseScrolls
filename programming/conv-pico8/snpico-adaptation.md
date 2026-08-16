@@ -1,3 +1,6 @@
+---
+title: "Конверсія ігор з платформи Pico-8: HiSoft Pascal"
+---
 # Адаптація програм Pico-8 у [HiSoft Pascal](../hisoft-pascal.md)
 [Скорочена інформація по функціям Pico-8](https://iiviigames.github.io/pico8-api/)
 

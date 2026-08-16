@@ -1,3 +1,6 @@
+---
+title: EXOS variable 21 - MACH_NET
+---
 # 21 - MACH_NET
 
 Пристрій: [NET](../exos-devices/net.md)  

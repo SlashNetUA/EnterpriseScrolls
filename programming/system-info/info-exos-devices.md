@@ -1,3 +1,6 @@
+---
+title: EXOS Devices
+---
 # EXOS Devices
 
 [editor](exos-devices/editor.md)  

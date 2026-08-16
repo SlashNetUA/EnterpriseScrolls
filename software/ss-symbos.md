@@ -1,3 +1,6 @@
+---
+title: "Операційна система SymbOS"
+---
 # SymbOS
 
 ![](screenshots/logo_symbos.jpg)

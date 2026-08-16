@@ -1,3 +1,6 @@
+---
+title: Журнал «Enter»
+---
 # ENTER
 
 ![](enter-da/logo_enter.png)

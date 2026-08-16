@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 1991/4 (1991.07-08)»
+---
 # Enterpress 1991/4 (1991.07-08)
 
 <div style="text-align:center;">

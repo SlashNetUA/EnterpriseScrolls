@@ -1,3 +1,6 @@
+---
+title: EXOS errors
+---
 # EXOS errors
 
 [errors-basic](errors/errors-basic.md)

@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 2024/4-6 (2024.07-12)»
+---
 # Enterpress 2024/4-6 (2024.07-12)
 
 <div style="text-align:center;">

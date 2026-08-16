@@ -1,3 +1,6 @@
+---
+title: Æóğíàë «Private Enterprise»
+---
 # Private Enterprise
 
 ![](private-enterprise-uk/logo-private-enterprise.png)

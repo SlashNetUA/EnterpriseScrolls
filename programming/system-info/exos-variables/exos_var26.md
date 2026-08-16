@@ -1,3 +1,6 @@
+---
+title: EXOS variable 26 - ST_FLAG
+---
 # 26 - ST_FLAG
 
 Пристрій: [VIDEO](../exos-devices/video.md)  

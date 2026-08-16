@@ -1,3 +1,6 @@
+---
+title: Функції EXOS
+---
 # Функції EXOS
 
 0x0 Reset EXOS  

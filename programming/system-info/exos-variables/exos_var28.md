@@ -1,3 +1,6 @@
+---
+title: EXOS variable 28 - BIAS_VID
+---
 # 28 - BIAS_VID
 
 Пристрій: [VIDEO](../exos-devices/video.md)  

@@ -1,3 +1,6 @@
+---
+title: Журнал «Private Enterprise Issue 5 (1986)»
+---
 # Private Enterprise Issue 5 (1986 ≈весна)
 
 <div style="text-align:center;">

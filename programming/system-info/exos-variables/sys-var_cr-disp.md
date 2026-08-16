@@ -1,3 +1,6 @@
+---
+title: EXOS variable CR_DISP
+---
 # CR_DISP
 
 Адреса пам'яті: **0BFEFh**

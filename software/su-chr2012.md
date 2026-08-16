@@ -1,3 +1,6 @@
+---
+title: "Редактор шрифтів CHR2012"
+---
 # CHR2012
 ![](screenshots/scrn_chr2012_01s.png)
 

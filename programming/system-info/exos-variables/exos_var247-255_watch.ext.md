@@ -1,3 +1,6 @@
+---
+title: EXOS variables 247-255 (Watch.rsx / Clock.ext)
+---
 # Watch.rsx / Clock.ext
 
 ## 247 

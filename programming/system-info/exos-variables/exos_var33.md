@@ -1,3 +1,6 @@
+---
+title: EXOS variable 33 - SP_TAPE
+---
 # 33 - SP_TAPE
 
 Пристрій: [TAPE](../exos-devices/tape.md)  

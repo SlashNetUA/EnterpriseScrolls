@@ -1,3 +1,6 @@
+---
+title: "װמנלאע פאיכף «M64: Converted SID file for SIDBasic Player»"
+---
 # Converted SID file for SIDBasic Player
 
 SID file converted for playing by Enterprise.  

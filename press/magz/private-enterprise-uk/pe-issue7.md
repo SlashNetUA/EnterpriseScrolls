@@ -1,3 +1,6 @@
+---
+title: Журнал «Private Enterprise Issue 7 (1986.11-12)»
+---
 # Private Enterprise Issue 7 (1986.11-12)
 
 <div style="text-align:center;">

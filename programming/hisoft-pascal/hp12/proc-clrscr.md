@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal: CLRSCR"
+---
 # CLRSCR
 
 (тільки у версії 1.2)

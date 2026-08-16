@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal: PI"
+---
 # PI
 
 (лише у версії 1.2)

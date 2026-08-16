@@ -1,3 +1,6 @@
+---
+title: EXOS variable 30 - KEY_EDIT
+---
 # 30 - KEY_EDIT
 
 Пристрій: [EDITOR](../exos-devices/editor.md)  

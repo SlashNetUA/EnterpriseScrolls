@@ -1,3 +1,6 @@
+---
+title: EXOS variable PORTB5
+---
 # PORTB5
 
 Адреса пам'яті: **0BFF3h**

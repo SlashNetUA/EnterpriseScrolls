@@ -1,3 +1,6 @@
+---
+title: EXOS variable 19 - NET_IRQ
+---
 # 19 - NET_IRQ
 
 Пристрій: [NET](../exos-devices/net.md)  

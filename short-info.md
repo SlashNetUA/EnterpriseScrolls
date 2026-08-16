@@ -1,3 +1,6 @@
+---
+title: "Стислий опис платформи Enterprise"
+---
 # Enterprise 64 (Enterprise Sixty Four) / Enterprise 128 (Enterprise One Two Eight)
 
 Країна походження: Англія  

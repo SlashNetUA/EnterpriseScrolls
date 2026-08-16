@@ -1,3 +1,6 @@
+---
+title: EXOS variable FLAG_SOFT_IRQ
+---
 # FLAG_SOFT_IRQ
 
 Адреса пам'яті: **0BFF2h**

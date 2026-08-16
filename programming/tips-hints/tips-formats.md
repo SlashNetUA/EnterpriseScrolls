@@ -1,3 +1,6 @@
+---
+title: "Трюки та хитрощі: формати файлів"
+---
 # EXOS-files
 
 [User relocatable module (REL)](fileformats/fmt_exe2-rel.md) (type 2)  

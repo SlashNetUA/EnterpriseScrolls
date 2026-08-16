@@ -1,3 +1,6 @@
+---
+title: "Перелік помилок"
+---
 # IS-Basic errors
 
 0 — 999 User  

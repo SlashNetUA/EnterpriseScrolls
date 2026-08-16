@@ -1,3 +1,6 @@
+---
+title: "IS-Basic"
+---
 # IS-Basic
 
 <img src="../software/releases/covr_is-basic.png" height="288"> 

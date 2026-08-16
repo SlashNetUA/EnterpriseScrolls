@@ -1,3 +1,6 @@
+---
+title: "HIDTest"
+---
 # HIDTest
 
 Системні вимоги: **Enterprise 64/128**

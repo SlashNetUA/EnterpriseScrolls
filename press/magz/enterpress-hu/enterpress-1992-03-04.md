@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 1992/2 (1992.03-04)»
+---
 # Enterpress 1992/2 (1992.03-04)
 
 <div style="text-align:center;">

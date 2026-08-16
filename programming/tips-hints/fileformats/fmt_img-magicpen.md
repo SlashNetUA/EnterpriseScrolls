@@ -1,3 +1,6 @@
+---
+title: "Ôîğìàò ôàéëó «MagicPen image»"
+---
 # MagicPen image
 
 ## Header (16 bytes)

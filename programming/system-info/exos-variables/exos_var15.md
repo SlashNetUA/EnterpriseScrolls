@@ -1,3 +1,6 @@
+---
+title: EXOS variable 15 - BUF_SND
+---
 # 15 - BUF_SND
 
 Пристрій: [SOUND](../exos-devices/sound.md)

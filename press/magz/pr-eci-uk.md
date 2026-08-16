@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterprise Computing International (ECI)»
+---
 # Enterprise Computing International (ECI)
 
 ![](eci-uk/logo_eci.png)

@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal: бібліотека SOUND.HPU"
+---
 # SOUND.HPU
 # Опис
 

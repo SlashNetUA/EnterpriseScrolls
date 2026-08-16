@@ -1,3 +1,6 @@
+---
+title: "DTF compressor"
+---
 # DTF compressor
 
 <div style="text-align:center;">

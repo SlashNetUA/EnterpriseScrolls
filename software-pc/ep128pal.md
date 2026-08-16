@@ -1,3 +1,6 @@
+---
+title: "EP128pal - Конвертор зображень та редактор шрифтів"
+---
 # EP128pal
 
 ![](screenshots/scrn_ep128pal.png)

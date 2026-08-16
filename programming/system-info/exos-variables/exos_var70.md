@@ -1,3 +1,6 @@
+---
+title: EXOS variable 70 VERIFY
+---
 # 70 VERIFY
 
 EXDOS/IS-DOS variable.

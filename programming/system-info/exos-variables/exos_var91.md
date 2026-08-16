@@ -1,3 +1,6 @@
+---
+title: EXOS variable 91 CD_PROMPT
+---
 # 91 CD_PROMPT
 
 Zero to enable printing of current directory as the IS-DOS prompt

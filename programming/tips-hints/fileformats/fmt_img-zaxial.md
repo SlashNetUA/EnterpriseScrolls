@@ -1,3 +1,6 @@
+---
+title: "װמנלאע פאיכף «zAxial image»"
+---
 # zAxial image
 
 ## Header (16 bytes)

@@ -1,3 +1,6 @@
+---
+title: EXOS variable 89 DCH_DIS
+---
 # 89 DCH_DIS
 
 EXDOS/IS-DOS variable.

@@ -1,3 +1,6 @@
+---
+title: "Quasar Pascal"
+---
 # Quasar Pascal
 
-written by R.J. Horst
+written by Roelof J. Horst

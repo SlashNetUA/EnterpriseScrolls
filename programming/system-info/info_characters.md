@@ -1,3 +1,6 @@
+---
+title: Character codes
+---
 # Character codes
 
 | CHR |        Keyboard        |     Symbol (UK/BRD)     |                    Meaning                     |

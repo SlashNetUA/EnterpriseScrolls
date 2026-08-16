@@ -1,3 +1,6 @@
+---
+title: "Формат кодування даних стрічки"
+---
 # Header Chunk Format
 
 | Name            | Length     | Byte offset | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

@@ -1,3 +1,6 @@
+---
+title: EXOS variable 34 - PROTECT
+---
 # 34 - PROTECT
 
 Пристрій: [TAPE](../exos-devices/tape.md)  

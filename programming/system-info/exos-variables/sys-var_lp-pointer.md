@@ -1,3 +1,6 @@
+---
+title: EXOS variable LP_POINTER
+---
 # LP_POINTER
 
 Адреси пам'яті: **0BFF4h**, **0BFF5h**

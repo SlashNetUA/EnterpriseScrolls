@@ -1,3 +1,6 @@
+---
+title: "Формат файлу «TAP: ep128emu tape image»"
+---
 # ep128emu tape image file
 
 Образ касетної стрічки для емулятора [ep128emu](../../../emulators/em-ep128emu.md).  

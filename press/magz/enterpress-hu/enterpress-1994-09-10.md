@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 1994/5 (1994.09-10)»
+---
 # Enterpress 1994/5 (1994.09-10)
 
 <div style="text-align:center;">

@@ -1,3 +1,6 @@
+---
+title: EXOS variable 24 - X_SIZ_VID
+---
 # 24 - X_SIZ_VID
 
 Пристрій: [VIDEO](../exos-devices/video.md)  

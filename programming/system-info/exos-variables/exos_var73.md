@@ -1,3 +1,6 @@
+---
+title: EXOS variable 73 STEP_RATE
+---
 # 73 STEP_RATE
 
 EXDOS/IS-DOS variable.

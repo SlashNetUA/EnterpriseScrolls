@@ -1,3 +1,6 @@
+---
+title: EXOS variable 202 - VTPR_FLAG (Enterprise Plus)
+---
 # 202 - VTPR_FLAG (Enterprise Plus)
 
 `ASK 202 var`  

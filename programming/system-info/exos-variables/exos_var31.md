@@ -1,3 +1,6 @@
+---
+title: EXOS variable 31 - BUF_EDIT
+---
 # 31 - BUF_EDIT
 
 Пристрій: [EDITOR](../exos-devices/editor.md)  

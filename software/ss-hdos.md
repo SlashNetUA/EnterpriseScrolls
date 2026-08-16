@@ -1,3 +1,6 @@
+---
+title: "Драйвер жорсткого диску HDOS"
+---
 # HDOS
 
 Драйвер жорсткого диску (MFM) створений у [enterprise-computers-gmbh](../companies/enterprise-computers-gmbh.md)

@@ -1,3 +1,6 @@
+---
+title: EXOS variable 27 - BORD_VID
+---
 # 27 - BORD_VID
 
 Пристрій: [VIDEO](../exos-devices/video.md)  

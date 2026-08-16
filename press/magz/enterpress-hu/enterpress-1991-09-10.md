@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 1991/5 (1991.09-10)»
+---
 # Enterpress 1991/5 (1991.09-10)
 
 <div style="text-align:center;">

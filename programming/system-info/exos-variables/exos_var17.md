@@ -1,3 +1,6 @@
+---
+title: EXOS variable 17 - FORM_SER
+---
 # 17 - FORM_SER
 
 Пристрій: [SERIAL](../exos-devices/serial.md)/[NET](../exos-devices/net.md)  

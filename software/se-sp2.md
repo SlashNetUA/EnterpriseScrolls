@@ -1,3 +1,6 @@
+---
+title: "Емулятор SP"
+---
 # SP 2.2
 
 Емулятор комп'ютера **Sinclair ZX Spectrum 48**.

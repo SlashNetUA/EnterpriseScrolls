@@ -1,3 +1,6 @@
+---
+title: Журнал «ENTERface»
+---
 # ENTER*face*
 
 ![](enterface-nl/logo_enterface.png)

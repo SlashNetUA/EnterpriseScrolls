@@ -1,3 +1,6 @@
+---
+title: "Формат файлу «Stílusfaragó font set»"
+---
 # Stílusfaragó font set
 
 Charater set (font set) used with Stílusfaragó font editor.

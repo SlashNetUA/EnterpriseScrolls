@@ -1,3 +1,6 @@
+---
+title: EXOS variable 16 - BAUD_SER
+---
 # 16 - BAUD_SER
 
 Пристрій: [SERIAL](../exos-devices/serial.md)/[NET](../exos-devices/net.md)  

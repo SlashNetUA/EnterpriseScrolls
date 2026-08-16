@@ -1,3 +1,6 @@
+---
+title: EXOS Commands
+---
 # EXOS Commands
 
 Перелік команд системних розширень.

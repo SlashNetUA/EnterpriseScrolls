@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 2022/3-6 (2022.05-12)»
+---
 # Enterpress 2022/3-6 (2022.05-12)
 
 <div style="text-align:center;">

@@ -1,3 +1,6 @@
+---
+title: Журнал «Enterpress 1990/2 (1990.11-12)»
+---
 # Enterpress 1990/2 (1990.11-12)
 
 <div style="text-align:center;">

@@ -1,3 +1,6 @@
+---
+title: "HiSoft Pascal: LO(N)"
+---
 # LO(N)
 
 (тільки у версії 1.2)

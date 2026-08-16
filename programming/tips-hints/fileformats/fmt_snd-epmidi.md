@@ -1,3 +1,6 @@
+---
+title: "Формат файлу «EPM: Enterprise MIDI»"
+---
 # Enterprise MIDI file
 
 MIDI file converted for playing by Enterprise.  

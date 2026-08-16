@@ -1,3 +1,6 @@
+---
+title: EXOS variable 23 - COLR_VID
+---
 # 23 - COLR_VID
 
 Пристрій: [VIDEO](../exos-devices/video.md)  

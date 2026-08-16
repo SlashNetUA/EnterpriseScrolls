@@ -1,3 +1,6 @@
+---
+title: EXOS variable 203 - DATUM_FLAG (Enterprise Plus)
+---
 # 203 - DATUM_FLAG (Enterprise Plus)
 
 `ASK 203 var`  

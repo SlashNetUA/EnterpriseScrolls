@@ -1,3 +1,6 @@
+---
+title: EXOS variable 202 (BV+2) - (CBM-MFT)
+---
 # 202 (BV+2) - (CBM-MFT)
 
 `ASK 202 var`  

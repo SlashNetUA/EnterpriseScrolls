@@ -1,3 +1,6 @@
+---
+title: EXOS variable 0 - IRQ_ENABLE_STATE
+---
 # 0 - IRQ_ENABLE_STATE
 
 **b0** - set to enable sound IRQ.  

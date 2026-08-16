@@ -1,3 +1,6 @@
+---
+title: Журнал «Private Enterprise Issue 8 (1987.01-02)»
+---
 # Private Enterprise Issue 8 (1987.01-02)
 
 <div style="text-align:center;">

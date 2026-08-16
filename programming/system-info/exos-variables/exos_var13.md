@@ -1,3 +1,6 @@
+---
+title: EXOS variable 13 - WAIT_SND
+---
 # 13 - WAIT_SND
 
 Пристрій: [SOUND](../exos-devices/sound.md)

@@ -1,3 +1,6 @@
+---
+title: EXOS variable 7 - CLICK_KEY
+---
 # 7 - CLICK_KEY
 
 Пристрій: [KEYBOARD](../exos-devices/keyboard.md)  

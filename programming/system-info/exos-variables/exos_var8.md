@@ -1,3 +1,6 @@
+---
+title: EXOS variable 8 - STOP_IRQ
+---
 # 8 - STOP_IRQ
 
 Пристрій: [KEYBOARD](../exos-devices/keyboard.md)  

@@ -1,3 +1,6 @@
+---
+title: Журнал «Private Enterprise Issue 2 (1985.09-10)»
+---
 # Private Enterprise Issue 2 (1985.09-10)
 
 <div style="text-align:center;">

@@ -1,3 +1,6 @@
+---
+title: "Ôîğìàò ôàéëó «Lorigraph image»"
+---
 # Lorigraph image
 
 ## Header (13 bytes)

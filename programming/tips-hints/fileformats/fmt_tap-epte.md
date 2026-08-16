@@ -1,3 +1,6 @@
+---
+title: "Формат файлу «TAP: EPTE tape image»"
+---
 # EPTE tape image file
 
 Образ касетної стрічки для утіліти **EPTE**.  

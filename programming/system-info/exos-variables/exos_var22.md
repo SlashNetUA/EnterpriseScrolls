@@ -1,3 +1,6 @@
+---
+title: EXOS variable 22 - MODE_VID
+---
 # 22 - MODE_VID
 
 Пристрій: [VIDEO](../exos-devices/video.md)  

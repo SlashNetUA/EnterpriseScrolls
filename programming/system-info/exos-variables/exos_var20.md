@@ -1,3 +1,6 @@
+---
+title: EXOS variable 20 - CHAN_NET
+---
 # 20 - CHAN_NET
 
 Пристрій: [NET](../exos-devices/net.md)  
