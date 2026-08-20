@@ -1,3 +1,7 @@
+---
+title: "Matches"
+---
+
 ﻿[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
 
 Ігри для [Enterprise 64k](../games-ep64.md) - [Enterprise 128k+RAMexp](../games-epramexp.md)
@@ -8,30 +12,27 @@
 
 ----------
 
+# Matches
 
 
-- △ [U.N. Squadron](u-n-squadron-zx.md)
-- 𝔹 [U-Both](uboth-bas.md)
-- △ [UCHOTOS](uchotos.md)
-- △ [UFO Hunter](ufo-hunter.md)
-- △ [UFO](ufo-zx.md)
-- △ [UGH!](ugh-zx.md)
-- 𝔹 [Ügyességi Játék](ugyessegi-jatek-bas.md)
-- △ [Ulises](ulises-zx.md)
-- 𝔹 [Ultimate Adventure](ultimate-adv4-bas.md)
-- △ [Ultimate Combat Mission](ultimate-combat-mission-zx.md)
-- 🅸 [The Unborn One](unborn-one-isdos.md)
-- 𝔹 [Underground Adventure](underground-adv-bas.md)
-- △ [Underwurlde](underwurlde-zx.md)
-- △ [Unicum](unicum.md)
-- △ [Universal Hero](universal-hero-zx.md)
-- 🅩 [Unknown Dimension](unknown-dimension-zcode.md)
-- △ [The Untouchables](untouchables-zx.md)
-- △ [Up & Down](up-and-down.md)
-- 𝔹 [﻿Ür Kukac](ur-kukac-bas.md)
-- 𝔹 [﻿Űrhajó](urhajo-bas.md)
-- △ [Uridium Plus](uridium-plus-zx.md)
-- △ [Uridium](uridium-zx.md)
-- 𝔹 [﻿Űrkaland](urkaland-bas.md)
-- 𝔹 [﻿Az Utolsó Kaland](utolso-kaland-bas.md)
-- △ [UWOL 2: Quest for Money](uwol2-cpc.md)
+**ID:** matches-isdos
+
+
+**Жанри:** Логічна
+
+
+## Скріншоти
+<img src="screens/scrn_matches-isdos_01.png" width="24%">
+<img src="screens/scrn_matches-isdos_02.png" width="24%">
+
+
+## Основна інформація
+- **Мови:** Англійська
+### Загальні системні вимоги
+- **Апаратні:** EXDOS
+- **Програмні:** IS-DOS
+### Геймплей
+- **Керування:** Keyboard
+- **Кількість гравців:** 1 player
+
+
