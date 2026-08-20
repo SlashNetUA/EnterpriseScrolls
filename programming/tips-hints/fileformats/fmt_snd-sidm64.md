@@ -1,5 +1,5 @@
----
-title: "Формат файлу «M64: Converted SID file for SIDBasic Player»"
+п»ї---
+title: "Р¤РѕСЂРјР°С‚ С„Р°Р№Р»Сѓ В«M64: Converted SID file for SIDBasic PlayerВ»"
 ---
 # Converted SID file for SIDBasic Player
 

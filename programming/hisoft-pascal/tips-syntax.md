@@ -1,5 +1,5 @@
 ---
-title: "HiSoft Pascal: синтаксис"
+title: "HiSoft Pascal: СЃРёРЅС‚Р°РєСЃРёСЃ"
 ---
 # CASE
 

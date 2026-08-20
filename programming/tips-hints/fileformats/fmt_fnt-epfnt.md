@@ -1,5 +1,5 @@
----
-title: "Ôîğìàò ôàéëó «FNT: Enterprise Font»"
+ï»¿---
+title: "Ğ¤Ğ¾Ñ€Ğ¼Ğ°Ñ‚ Ñ„Ğ°Ğ¹Ğ»Ñƒ Â«FNT: Enterprise FontÂ»"
 ---
 # Enterprise font
 Binary font used at Enterprise computers.

@@ -1,5 +1,5 @@
----
-title: "Формат файлу «EPF: EP128pal font»"
+п»ї---
+title: "Р¤РѕСЂРјР°С‚ С„Р°Р№Р»Сѓ В«EPF: EP128pal fontВ»"
 ---
 # EPF: EP128pal font
 

@@ -1,5 +1,5 @@
 ---
-title: Æóğíàë «Private Enterprise»
+title: Ğ–ÑƒÑ€Ğ½Ğ°Ğ» Â«Private EnterpriseÂ»
 ---
 # Private Enterprise
 

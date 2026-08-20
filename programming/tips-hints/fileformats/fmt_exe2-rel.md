@@ -1,5 +1,5 @@
----
-title: "Формат файлу «Type 2: User Relocatable Module»"
+п»ї---
+title: "Р¤РѕСЂРјР°С‚ С„Р°Р№Р»Сѓ В«Type 2: User Relocatable ModuleВ»"
 ---
 # User Relocatable Module
 

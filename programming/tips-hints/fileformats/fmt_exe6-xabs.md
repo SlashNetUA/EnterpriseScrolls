@@ -1,5 +1,5 @@
----
-title: "Ôîğìàò ôàéëó «Type 6: Absolute System Extension»"
+ï»¿---
+title: "Ğ¤Ğ¾Ñ€Ğ¼Ğ°Ñ‚ Ñ„Ğ°Ğ¹Ğ»Ñƒ Â«Type 6: Absolute System ExtensionÂ»"
 ---
 # Absolute System Extension
 

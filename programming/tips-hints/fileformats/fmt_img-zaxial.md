@@ -1,5 +1,5 @@
----
-title: "Формат файлу «zAxial image»"
+п»ї---
+title: "Р¤РѕСЂРјР°С‚ С„Р°Р№Р»Сѓ В«zAxial imageВ»"
 ---
 # zAxial image
 

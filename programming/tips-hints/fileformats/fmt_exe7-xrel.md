@@ -1,5 +1,5 @@
----
-title: "Ôîğìàò ôàéëó «Type 7: Relocatable System Extension»"
+ï»¿---
+title: "Ğ¤Ğ¾Ñ€Ğ¼Ğ°Ñ‚ Ñ„Ğ°Ğ¹Ğ»Ñƒ Â«Type 7: Relocatable System ExtensionÂ»"
 ---
 # Relocatable System Extension
 

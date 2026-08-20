@@ -1,5 +1,5 @@
----
-title: "Формат файлу «SprED sprite»"
+п»ї---
+title: "Р¤РѕСЂРјР°С‚ С„Р°Р№Р»Сѓ В«SprED spriteВ»"
 ---
 # SprED sprite
 

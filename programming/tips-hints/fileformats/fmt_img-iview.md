@@ -1,5 +1,5 @@
----
-title: "Формат файлу «IView image»"
+п»ї---
+title: "Р¤РѕСЂРјР°С‚ С„Р°Р№Р»Сѓ В«IView imageВ»"
 ---
 # IView image
 
