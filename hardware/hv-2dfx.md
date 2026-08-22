@@ -3,7 +3,8 @@ title: Графічний акселератор «2dfx»
 ---
 # 2dfx
 
-<img src="2dfx/2dfx_logo_ui.png" width="40%"> 
+<div style="text-align:center;">
+<img src="2dfx/2dfx_logo_ui_bl.png" width="40%"></div>
 
 Це апаратне розширення є першим графічним акселератором для комп'ютера Enterprise що задіює раніше невикористаний потенціал чипа [Nick](hm-nick.md), функціонал якого був передбачений ще на стадії проєктування на початку 1980-х років.
 
@@ -31,6 +32,8 @@ title: Графічний акселератор «2dfx»
 
 <iframe src="https://www.youtube.com/embed/rkOJymZdHxc"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+[Офіційний сайт](https://2dfx.net)
 
 [Коментарі автора розробки](2dfx/about.md)
 

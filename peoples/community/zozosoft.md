@@ -1,5 +1,5 @@
 ---
-title: ZozoSoft
+title: Zoltán Németh (ZozoSoft)
 ---
 # ZozoSoft
 

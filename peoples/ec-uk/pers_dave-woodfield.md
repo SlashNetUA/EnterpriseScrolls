@@ -1,7 +1,7 @@
 ---
 title: Dave Woodfield
 ---
-# David Woodfield
+# David Allen Woodfield
 
 Розробник чипа [Dave](../../hardware/hm-dave.md) та технічний дизайнер материнської плати комп'ютера.
 
