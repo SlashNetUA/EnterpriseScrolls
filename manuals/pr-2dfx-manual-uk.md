@@ -17,4 +17,8 @@ title: "2dfx: посібник програміста"
  - [Що таке 2dfx?](2dfx/1-4_what-is-2dfx.md)
  - [Загальні принципи роботи та обмеження 2dfx](2dfx/1-5_general-operation-and-limitations.md)
  - [Геометрія екрану](2dfx/1-6_geometry.md)
-	 - [Геометрія екрану «Enterprise»](2dfx/1-6-1_enterprise-geometry.md)
+ - [Робота з кольором](2dfx/1-7_color-management.md)
+ - [Шари](2dfx/1-8_layers.md)
+ - [Комунікація з 2dfx](2dfx/1-9_2dfx-comunication.md)
+ - [Регістр статусу](2dfx/1-10_status-register.md)
+

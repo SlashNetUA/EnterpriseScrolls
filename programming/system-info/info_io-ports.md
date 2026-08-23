@@ -147,6 +147,11 @@ Enterprise загалом використовує лише 8-бітну адр�
 0xF2: External DAC write  
 0xF3: External DAC write  
 
+## [2dfx](../../hardware/hv-2dfx.md)
+
+[F8h / 248](ports/port248.md):  
+[F9h / 249](ports/port249.md):  через нього 2dfx отримує параметри відповідної команди
+
 
 ## [ZX Spectrum emulator](../../hardware/he-zxemu.md) again
 
