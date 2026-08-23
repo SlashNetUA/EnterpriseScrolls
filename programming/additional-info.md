@@ -47,6 +47,8 @@ title: "Різноманітна інформація по системі"
 [LPT](system-info/nick/lpt.md)  
 [Палітра кольорів](system-info/info_colour-palette.md)    
 
+[Програмування графічного акселератора 2dfx](2dfx-programming.md)
+
 ## Звук
 
 [man_2-sound](../manuals/is-basic-man-en/man_2-sound.md)  

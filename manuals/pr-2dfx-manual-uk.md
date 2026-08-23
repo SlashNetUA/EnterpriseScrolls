@@ -11,6 +11,7 @@ title: "2dfx: посібник програміста"
 [Висловлення подяки](2dfx/0_acknowledgement.md)
 
 [Загальна інформація](2dfx/1_general-info.md)
+
  - [ПОПЕРЕДЖЕННЯ](2dfx/1-1_warning.md)
  - [Інші плати розширення, що використовують зовнішнє керування кольором](2dfx/1-2_other-extcol-cards.md)
  - [Технічна інформація](2dfx/1-3_tech-info.md)
@@ -21,4 +22,9 @@ title: "2dfx: посібник програміста"
  - [Шари](2dfx/1-8_layers.md)
  - [Комунікація з 2dfx](2dfx/1-9_2dfx-comunication.md)
  - [Регістр статусу](2dfx/1-10_status-register.md)
+
+[2_commands-description](2dfx/2_commands-description.md)
+
+- [2-1_rram](2dfx/2-1_rram.md)
+- [2-2_general-operation-commands](2dfx/2-2_general-operation-commands.md)
 
