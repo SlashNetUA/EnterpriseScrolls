@@ -11,5 +11,8 @@ title: "2dfx: посібник програміста - Команди, що в�
 [SET_FPS (51h / 81)](commands/set_fps.md) — вибір частоти оновлення сцен    
 [SET_RASTER_INT1..4 (54h..57h / 84..87)](commands/set_raster_int1-4.md) — налаштування растрових переривань    
 [CLEAR_RASTER_INT (58h / 88)](commands/clear_raster_int.md) — скидання растрових переривань    
-
-
+[SET_RENDER_OVERRUN_VISUAL (52h / 82)](commands/set_render_overrun_visual.md) — індикація перевантаженого рендерера  
+[CLEAR_RENDER_OVERRUN (53h / 83)](commands/clear_render_overrun.md) — скидання індикації перевантаження рендерера  
+[SHOW_BUILTIN_LOGO (90h / 144)](commands/show_builtin_logo.md) — вивести вбудоване лого  
+[HIDE_BUILTIN_LOGO (91h / 145)](commands/hide_builtin_logo.md) — приховати вбудоване лого  
+[SHOW_FW (8Eh / 142)](commands/show_fw.md) — інформація щодо прошивки  

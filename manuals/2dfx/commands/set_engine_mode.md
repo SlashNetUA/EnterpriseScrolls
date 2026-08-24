@@ -1,7 +1,7 @@
 ---
 title: "2dfx: посібник програміста - SET_ENGINE_MODE"
 ---
-## SET_ENGINE_MODE (50h / 80)
+### SET_ENGINE_MODE (50h / 80)
 
 Обирає один із трьох основних режимів роботи 2dfx.
 

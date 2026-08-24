@@ -3,7 +3,7 @@ title: "Програмування 2dfx"
 ---
 # Програмування для 2dfx
 
-[Офіційний посібник користувача](https://2dfx.net/docs/2dfx_programmers_handbook_v1_0_0_hu.pdf) (угорською)  
+[Офіційний посібник користувача](https://2dfx.net/docs/) (англійською та угорською)  
 [Посібник користувача](../manuals/pr-2dfx-manual-uk.md) (переклад)
 
 [Спрайти](2dfx/2dfx-sprites.md)  

@@ -18,13 +18,14 @@ title: "2dfx: посібник програміста"
  - [Що таке 2dfx?](2dfx/1-4_what-is-2dfx.md)
  - [Загальні принципи роботи та обмеження 2dfx](2dfx/1-5_general-operation-and-limitations.md)
  - [Геометрія екрану](2dfx/1-6_geometry.md)
- - [Робота з кольором](2dfx/1-7_color-management.md)
+ - [Робота з кольором](2dfx/1-7_color-handling.md)
  - [Шари](2dfx/1-8_layers.md)
  - [Комунікація з 2dfx](2dfx/1-9_2dfx-comunication.md)
  - [Регістр статусу](2dfx/1-10_status-register.md)
 
-[2_commands-description](2dfx/2_commands-description.md)
+[Детальний опис команд](2dfx/2_command-reference.md)
 
-- [2-1_rram](2dfx/2-1_rram.md)
-- [2-2_general-operation-commands](2dfx/2-2_general-operation-commands.md)
-
+- [Структура та використання Resource RAM (RRAM)](2dfx/2-1_rram.md)
+- [Глобальні команди, що впливають на загальну роботу](2dfx/2-2_general-operation-commands.md)
+- [Спрайтова підсистема та її використання](2dfx/2-3_sprite-subsystem.md)
+- [2DPT - використання шарів малювання векторної 2D-графіки](2dfx/2-4_2dpt.md)
