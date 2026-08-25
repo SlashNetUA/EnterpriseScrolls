@@ -30,9 +30,9 @@ title: "2dfx: посібник програміста - Структура та 
 
 Через це команди [UPLOAD_NICK](commands/upload_nick.md) та [UPLOAD_TVC](commands/upload_tvc.md) під час завантаження конвертують кожен байт даних із формату **NICK** або **TVC** відповідно у внутрішній піксельний формат 2dfx. Команда [UPLOAD_RAW](commands/upload_raw.md), навпаки, зберігає дані в RRAM байт-у-байт без жодної конвертації.
 
-[upload_raw](commands/upload_raw.md)  
-[upload_nick](commands/upload_nick.md)  
-[upload_tvc](commands/upload_tvc.md)  
+[UPLOAD_RAW (80h / 128)](commands/upload_raw.md)  
+[UPLOAD_NICK (81h / 129)](commands/upload_nick.md)  
+[UPLOAD_TVC (82h / 130)](commands/upload_tvc.md)  
 
 
 2dfx також має вбудований розпакувальник **ZX1**. За допомогою команды [UPLOAD_RAW](commands/upload_raw.md) до RRAM можна завантажувати заздалегідь стиснуті пакети даних **ZX1**, а потім розпаковувати їх у потрібну цільову область. [UNZX1_RAW](commands/unzx1_raw.md) виконує розпакування байт-у-байт, тоді як [UNZX1_NICK](commands/unzx1_nick.md) та [UNZX1_TVC](commands/unzx1_tvc.md) після розпакування додатково здійснюють відповідне перегрупування бітів на відповідній ділянці RRAM.
@@ -45,9 +45,9 @@ title: "2dfx: посібник програміста - Структура та 
 
 > **Увага!** Під час розпакування **UNZX1** поточна робота з рендерингу призупиняється. На екрані залишається останній сформований кадр доти, доки операцію не буде завершено. З цієї причини великі завантаження/розпакування доцільно виконувати під час запуску програми, між рівнями гри або під час переходів між сценами у демосценах.
 
-[unzx1_raw](commands/unzx1_raw.md)  
-[unzx1_nick](commands/unzx1_nick.md)  
-[unzx1_tvc](commands/unzx1_tvc.md)  
+[UNZX1_RAW (83h / 131)](commands/unzx1_raw.md)  
+[UNZX1_NICK (84h / 132)](commands/unzx1_nick.md)  
+[UNZX1_TVC (85h / 133)](commands/unzx1_tvc.md)  
 
 
 
