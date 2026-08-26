@@ -27,10 +27,3 @@ It should be stressed that we are talking about transferring data to and from th
 
 Although twin drives will make your system more efficient, many of the advantages of a disk system can be obtained with a single disk drive. EXDOS features an automatic [MAPDISK](../dos-commands/cmd-mapdisk.md) mode which prompts a single drive user to change disks when required. This is more fully explained in [Appendix C](exdos-a3single-drive.md) at the back of this manual.
 
-## Diagram 1: The 3.5” floppy disk
-
-![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/001abra.gif)
-
-## Diagram 2: The 5.25” floppy disk
-
-![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/002abra.GIF)

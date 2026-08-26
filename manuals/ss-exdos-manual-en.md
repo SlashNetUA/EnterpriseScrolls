@@ -9,7 +9,7 @@ title: "EXDOS Manual"
 
 Please read the installation section of this manual carefully before attempting to connect your disk interface and drives.
 
-© Enterprise Computers Ltd. 1985
+© [Enterprise Computers Ltd.](../companies/enterprise-computers-ltd.md) 1985
 
 No part of this manual may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without the prior consent of the copyright holder.
 
@@ -41,10 +41,10 @@ EM10985
 [EXDOS error messages](exdos-man-en/exdos-a7errors.md)  
 [EXDOS command summary](exdos-man-en/exdos-a8command-summary.md)  
 
-Text by Robert Madge and Steve Groves.  
+Text by [Robert Madge](../peoples/ec-uk/pers_robert-madge.md) and [Steve Groves](../peoples/ec-uk/pers_steve-groves.md).  
 Typesetting by Words & Pictures Ltd
 
-Enterprise Computers Ltd.,  
+[Enterprise Computers Ltd.](../companies/enterprise-computers-ltd.md),  
 London, England
 
 

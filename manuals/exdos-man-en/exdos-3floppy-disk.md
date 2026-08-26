@@ -11,9 +11,21 @@ When a new disk is purchased it is totally blank, and does not contain the divis
 
 As we have previously mentioned there are several sizes of floppy disks available. We will only concern ourselves with the **3.5”** and **5.25”** types. The main features of each type of disk are shown in Diagrams 1 and 2.
 
+## Diagram 1: The 3.5” floppy disk
+
+<div style="text-align:center;">
+<img src="pics/isdos-man-diagram-1.png" alt="The 3.5” floppy disk" width="70%"></div>
+
+## Diagram 2: The 5.25” floppy disk
+
+<div style="text-align:center;">
+<img src="pics/isdos-man-diagram-2.png" alt="The 5.25” floppy disk" width="80%"></div>
+
 ## Diagram 3: How data is stored on a floppy disk
 
-![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/003abra.GIF)
+<div style="text-align:center;">
+<img src="pics/isdos-man-diagram-3.png" alt="How data is stored on a floppy disk" width="70%"></div>
+
 
 ## Care of disks
 
