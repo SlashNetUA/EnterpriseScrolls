@@ -7,8 +7,6 @@ title: "Дискова операційна система IS-DOS"
 Автори: [Bruce Tanner](../peoples/ec-uk/pers_bruce-tanner.md) (більша частина) та ще хтось.    
 Рік: 1985  
 
-> [!Short tips]
-> 
 > Max CP/M version: **2.2**  
 > Емуляція терміналу: **VT52** (керуючі коди та escape-послідовності)   
 > `VAR 90 ON` for Fast Video  

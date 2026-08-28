@@ -7,3 +7,10 @@
 Ігри для емуляторів [ZX Spectrum 48k/128k](zxemu/games-zxemu.md) - [Amstrad CPC](cpcemu/games-cpc.md) - [Sinclair ZX81](zx81emu/games-zx81.md) - [Videoton TVC](tvcemu/games-tvc.md) - [Commodore VIC-20](vic20emu/games-vic20.md)
 
 ----------
+
+Для віконної операційної системи EDC Windows було створено не дуже багато додатків. Серед них є лише одна гра.
+
+----
+
+- [Secret of the Büdösszájú barlang](s/secret-of-the-budosszaju-barlang-edcw.md)
+

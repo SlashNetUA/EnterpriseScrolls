@@ -54,7 +54,9 @@ title: "UCHOTOS"
 
 
 ## Посилання
+- [Домашня сторінка гри](https://inufuto.web.fc2.com/8bit/uchotos/#ep64)
 - [Завантажити гру](http://inufuto.web.fc2.com/8bit/ep64/uchotos_rom.zip)
+- [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1170) *(Telegram-канал Vibrant Waves)*
 
 
 ## Відео

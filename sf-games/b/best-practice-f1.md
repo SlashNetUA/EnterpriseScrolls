@@ -34,6 +34,11 @@ title: "Best Practice"
 <img src="screens/scrn_best-practice-f1_04.png" width="24%">
 
 
+## Опис
+
+П'ять ландшафтів. Шість машин. Безкінечні траси. Світло згасло, і пелотон уже мчить у перший поворот. Тримай мотор на високих обертах, зчитуй дорожні знаки й залишай пейзажі позаду. Просто перемоги замало: лише чиста звитяга відкриє шлях до наступного виклику.
+
+
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Enterprise
@@ -49,6 +54,7 @@ title: "Best Practice"
 
 ## Посилання
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/jatekok/uj-jatek-bestpracticef1/)
+- [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1174?single) *(Telegram-канал Vibrant Waves)*
 
 
 ## Відео
@@ -58,7 +64,12 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://youtu.be/NBNYeOm8wXQ)
 - [Відео](https://www.youtube.com/watch?v=BeWB2qWju2U)
+- [Відео](https://www.youtube.com/watch?v=wwKmYbV6PVk)
 
+## [Керування](../controllers.md)
+
+`Internal Joystick`  
+`Keyboard`: `W`, `A`, `S`, `D`
 
 ## Детальна інформація
 

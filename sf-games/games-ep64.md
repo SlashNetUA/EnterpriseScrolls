@@ -1,4 +1,4 @@
-﻿[0-9](0/games-0.md) - [A](a/games-a.md) - [B](b/games-b.md) - [C](c/games-c.md) - [D](d/games-d.md) - [E](e/games-e.md) - [F](f/games-f.md) - [G](g/games-g.md) - [H](h/games-h.md) - [I](i/games-i.md) - [J](j/games-j.md) - [K](k/games-k.md) - [L](l/games-l.md) - [M](m/games-m.md) - [N](n/games-n.md) - [O](o/games-o.md) - [P](p/games-p.md) - [Q](q/games-q.md) - [R](r/games-r.md) - [S](s/games-s.md) - [T](t/games-t.md) - [U](u/games-u.md) - [V](v/games-v.md) - [W](w/games-w.md) - [X](x/games-x.md) - [Y](y/games-y.md) - [Z](z/games-z.md)
+[0-9](0/games-0.md) - [A](a/games-a.md) - [B](b/games-b.md) - [C](c/games-c.md) - [D](d/games-d.md) - [E](e/games-e.md) - [F](f/games-f.md) - [G](g/games-g.md) - [H](h/games-h.md) - [I](i/games-i.md) - [J](j/games-j.md) - [K](k/games-k.md) - [L](l/games-l.md) - [M](m/games-m.md) - [N](n/games-n.md) - [O](o/games-o.md) - [P](p/games-p.md) - [Q](q/games-q.md) - [R](r/games-r.md) - [S](s/games-s.md) - [T](t/games-t.md) - [U](u/games-u.md) - [V](v/games-v.md) - [W](w/games-w.md) - [X](x/games-x.md) - [Y](y/games-y.md) - [Z](z/games-z.md)
 
 Ігри для [Enterprise 64k](games-ep64.md) - [Enterprise 128k+RAMexp](games-epramexp.md)
 
@@ -9,6 +9,14 @@
 ----------
 
 
+
+Ігри для моделі комп'ютера **Enterprise 64**.
+
+Вибір ігор для цієї моделі незначний — в Угорщині про неї мало хто знав. Через це більшість старих програм та некомерційних портів (поза вказаними нижче) з нею несумісні.
+
+Майте на увазі що деякі ігри з поточного списку потребують оновлення [EXOS](../software/ss-exos.md) хоча б до версії **2.1**.
+
+----
 
 # 0
 
