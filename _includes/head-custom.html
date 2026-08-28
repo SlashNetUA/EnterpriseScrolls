@@ -103,24 +103,19 @@ document.addEventListener("DOMContentLoaded", () => {
     margin-top: 6px;
 }
 
-
-/* 1. Стилізуємо БЛОК тільки якщо перший параграф всередині починається з [! */
-blockquote:has(> p:first-child:contains("[!")) {
-  border-left: 4px solid #5ba13d;
+blockquote {
+  border-left: 4px solid #8bf65c;
   background-color: #f5fff3;
   padding: 12px 16px;
   margin: 16px 0;
   border-radius: 6px;
 }
 
-/* 2. Стилізуємо ЗАГОЛОВОК (перший рядок з [!]) */
-blockquote:has(> p:first-child:contains("[!")) > p:first-child {
+/* Перший абзац (тобто заголовок [!TITLE]) робимо виділеним */
+blockquote > p:first-child {
   font-weight: bold;
-  color: #548519;
-  margin-bottom: 8px;
-  border-bottom: 1px solid #e9ffd5; /* Опціонально: тонка лінія під заголовком */
-  padding-bottom: 4px;
+  color: #6ba821;
+  margin-bottom: 8px; /* відступ від заголовка до основного тексту */
 }
-
 
 </style>
