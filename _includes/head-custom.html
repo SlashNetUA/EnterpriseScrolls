@@ -66,14 +66,33 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", function () {
   document.querySelectorAll("blockquote").forEach(function (bq) {
     const firstP = bq.querySelector("p");
-    if (firstP && firstP.textContent.trim().startsWith("[!")) {
+    if (!firstP) return;
+
+    // Перевіряємо, чи починається перший параграф з [!
+    const text = firstP.textContent.trim();
+    if (text.startsWith("[!")) {
+      // Додаємо клас для CSS-стилей
       bq.classList.add("obsidian-callout");
+
+      // Прибираємо [! та ] з тексту заголовка
+      firstP.innerHTML = firstP.innerHTML.replace(/^\[!([^\]]+)\]/, '$1');
     }
   });
 });
 </script>
 
 <style>
+/* Основний колір для всіх посилань */
+a, a:visited {
+  color: #1b4332; /* Темно-зелений колір */
+  text-decoration: underline; /* або none, якщо хочете прибрати підкреслення */
+}
+
+/* Колір при наведенні курсору (Hover) */
+a:hover, a:focus {
+  color: #2d6a4f; /* Трохи світліший/активніший відтінок зеленого */
+}
+
   /* Щоб піксель-арт на Enterprise 128 виглядав чітким, а не розмитим */
 /*  .fancybox__content img {
     image-rendering: pixelated;
@@ -115,7 +134,8 @@ document.addEventListener("DOMContentLoaded", function () {
 }
 
 blockquote {
-  border-left: 4px solid #8bf65c;
+  border-left: 4px solid #205e23;
+  color: #20300c;
   background-color: #f5fff3;
   padding: 12px 16px;
   margin: 16px 0;
@@ -124,7 +144,8 @@ blockquote {
 
 /* Стиль тільки для знайдених блоків Obsidian */
 blockquote.obsidian-callout {
-  border-left: 4px solid #8bf65c;
+  border-left: 4px solid #205e23;
+  color: #20300c;
   background-color: #f5fff3;
   padding: 12px 16px;
   margin: 16px 0;
