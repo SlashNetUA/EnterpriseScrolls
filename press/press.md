@@ -5,7 +5,7 @@ title: Преса
 
 | Назва                                                         |                Мова                 |     Роки видання     |
 | ------------------------------------------------------------- |:-----------------------------------:|:--------------------:|
-| [Enterpress](magz/pr-enterpress-hu.md)                        | угорська<br>англійська *(частково)* | 1990-1995, 2015-2026 |
+| [Enterpress](magz/pr-enterpress-hu.md)                        | угорська<br>англійська *(частково)* | 1990-1995,<br>2015-2026 |
 | [Private Enterprise](magz/pr-private-enterprise-uk.md)        |             англійська              |      1985-1987       |
 | [Enterprise Computing International (ECI)](magz/pr-eci-uk.md) |             англійська              |         1989         |
 | [ENTER*face*](magz/pr-enterface-nl.md)                        |            нідерландська            |      1985-1989       |
