@@ -191,6 +191,37 @@ Escape-послідовності можна зберігати у файл і �
 | `esc y 4` | 1Bh, 79h, 34h | 27, 121, 52 | Вибрати курсор у вигляді підкреслення ( **\_** ) |
 | `esc y 5` | 1Bh, 79h, 35h | 27, 121, 53 | Відобразити курсор |
 
+### Для IS-DOS 1.1a
+
+В цю версію [Elmer](../../peoples/pers_john-brandwood.md) додав деякі нові послідовності з стандарту терміналів Z19/Z89.
+
+> I actually added a couple of additional Z19/Z89 control sequences (including the ones for reverse video) into IS-DOS 1.1. [>](https://enterpriseforever.com/games/games-and-other-software-for-is-dos/msg81918/#msg81918)
+
+| Символ  |   HEX    |   DEC   | Опис                                                  |
+|:-------:|:--------:|:-------:| ----------------------------------------------------- |
+| `esc p` | 1Bh, 70h | 27, 112 | Режим інверсного тексту (червоний на чорному)         |
+| `esc q` | 1Bh, 70h | 27, 112 | Вихід з режиму інверсного тексту (зелений на чорному) |
+|  ? ? ?  |          |         | (які ще?)                                             |
+
+### Для CP/M
+
+Ці символи керування можуть не працювати у командному рядку [IS-DOS](../../software/ss-is-dos.md), але можуть спрацювати у нативних CP/M програмах.
+
+| Символ | HEX | DEC | Опис                                        |
+|:------:|:---:|:---:| ------------------------------------------- |
+|  `^С`  | 03h |  3  | Warm Boot (продубльована клавішею **Stop**) |
+|  `^E`  | 05h |  5  | Physical End-of-Line                        |
+|  `^H`  | 08h |  8  | Backspace                                   |
+|  `^J`  | 0Ah | 10  | Line Feed                                   |
+|  `^M`  | 0Dh | 13  | Carriage Return                             |
+|  `^P`  | 10h | 16  | Printer Echo                                |
+|  `^R`  | 12h | 18  | Repeat Command Line                         |
+|  `^S`  | 13h | 19  | Stop Screen Output                          |
+|  `^U`  | 15h | 21  | Undo Command Line                           |
+|  `^X`  | 18h | 24  | Undo Command Line                           |
+|        | 7Fh | 127 | Delete Last Character                       |
+
+
 # Читання даних з відеосторінок
 
 За допомогою команди Бейсіку [GET](../../manuals/is-basic-man-en/commands/man_cs-get.md) можна зчитувати дані з відеоканалів.

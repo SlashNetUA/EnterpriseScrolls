@@ -2,21 +2,32 @@
 title: "Дискова операційна система IS-DOS"
 ---
 # IS-DOS
-[IS-DOS Manual](../manuals/ss-is-dos-manual-en.md)
-
-[Посібник користувача угорською](http://ep128.hu/Ep_Konyv/ISDOS.htm)
 
 Розробник: [Intelligent Sofware Ltd](../companies/intelligent-sofware-ltd.md)  
 Автори: [Bruce Tanner](../peoples/ec-uk/pers_bruce-tanner.md) (більша частина) та ще хтось.    
 Рік: 1985  
 
-Max CP/M version: **2.2**  
-Емуляція терміналу: **VT52** (керуючі коди та escape-послідовності)   
-`VAR 90 ON` for Fast Video  
+> [!Short tips]
+> Max CP/M version: **2.2**  
+> Емуляція терміналу: **VT52** (керуючі коди та escape-послідовності)   
+> `VAR 90 ON` for Fast Video  
+
 
 **IS-DOS** — це дискова операційна система, яка дозволяє Enterprise запускати більшість прикладних програм, розроблених для роботи під управлінням операційної системи CP/M-80 версії 2.2. Засоби пакетної обробки [EXDOS](ss-exdos.md) також розширено, а самі команди EXDOS можна виконувати безпосередньо з IS-DOS. Як і EXDOS, IS-DOS використовує файлову структуру MS-DOS, тому файли обох систем можуть зберігатися поруч на одному диску.
 
 Будь-яка програма CP/M-80, яку планується запускати на Enterprise, повинна знаходитися на диску формату MS-DOS. Слід зазначити, що деякі програми «модифікують» CP/M під час інсталяції — запуск таких програм під IS-DOS неможливий.
+
+# Документація
+
+📔 [IS-DOS Manual](../manuals/ss-is-dos-manual-en.md)
+
+📕 [Посібник користувача угорською](http://ep128.hu/Ep_Konyv/ISDOS.htm)
+
+## Cпецифікація (попередня версія)
+
+Документи відносяться до предрелізних версій продукту і тому деякі частини будуть відрізнятись від того що увійшло у фінальну версію.
+
+[ISDOS System Specifications](http://enterprise.iko.hu/technical/PER-16-2_ISDOS_System_Specification.pdf)  
 
 # Версії системи
 
@@ -57,7 +68,6 @@ Max CP/M version: **2.2**
 
 <div style="text-align:center;">
 <img src="screenshots/scrn_is-dos11a-survey_01.png" alt="Інформація о системі з програми System Survey" width="75%"><br><i>Інформація о IS-DOS 1.1a з програми System Survey</i></div>
-
 
 # Історія розробки
 

@@ -3,9 +3,13 @@ title: Контролер «EXDOS»
 ---
 # EXDOS (Enterprise eXpandable Disk Operating System)
 
-![exdos-logo](exdos-logo.png)
+![exdos-logo](../software/screenshots/logo_exdos.png)
 
 [Опис програмної частини EXDOS](../software/ss-exdos.md)
+
+<div style="text-align:center;">
+<img src="exdos/pics/exdos-orig_01.jpg" alt="" width="70%"></div>
+
 
 ## Офіційні пристрої
 
