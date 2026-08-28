@@ -176,11 +176,17 @@ title: "Стислий опис платформи Enterprise"
 ## Адаптер SD-карт
 
 <div style="text-align:center;">
-<img src="hardware/exdos/pics/sdcard-case_01.jpg" alt="SD-card адаптер" width="50%"></div>
+<img src="hardware/cartridge/pics/sd-card-adapter_01.jpg" alt="SD-card адаптер" width="50%"></div>
 
 [Адаптер](hardware/hd-sd-card-adapter.md) дозволяє використовувати SD-карти у якості носія інформації. На карточці створюється один або декілька розділів з файловою системою FAT-12 (максимальний розмір 32 МБ). В останніх версіях адаптер містить годинник реального часу (RTC).  
  
-  
+## Графічний акселератор 2dfx
+
+<div style="text-align:center;">
+<img src="hardware/2dfx/2dfx_logo_ui_bl.png" alt="зовнішній вигляд" width="50%"></div>
+
+[2dfx](hardware/hv-2dfx.md) використовує цифровий відеовхід чіпа Nick для розширення графічних можливостей комп'ютера. Додає апаратні спрайти, бліттер, векторну і тайлову графіку.
+
 ## Мережевий адаптер EPNET
 
 <div style="text-align:center;">

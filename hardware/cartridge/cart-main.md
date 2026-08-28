@@ -64,7 +64,7 @@ title: Картриджі (загальна інформація)
 ## Інші пристрої
 
 CBM Multi File Transfer (Cartridge version)  
-MIDI Cartridge  
+[MIDI Cartridge](../sound/hs-midi-cartridge.md)  
 [SD-card reader](hd-sd-card-adapter.md)  
 
 External Cartridge Bay  

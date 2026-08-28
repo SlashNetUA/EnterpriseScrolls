@@ -44,7 +44,7 @@ CBM Multi File Transfer
 
 [SID-card](sound/hs-sid-card.md)  
 HDIGI  
-SpeakEasy (синтез мовлення)  
+[SpeakEasy](sound/hs-speakeasy.md) (синтез мовлення)  
 [MSX SE-One](sound/hs-msx-se-one.md)  
 
 ## MIDI-інтерфейс
@@ -65,11 +65,11 @@ GFX-NINE V9990 video card
 
 ## Монітори
 
-Ciaegi M14H  
-Ciaegi N12H  
+[Ciaegi M14H](monitor/hv-ciaegi-m14h.md)  
+[Ciaegi N12H](monitor/hv-ciaegi-n12h.md)  
 Ciaegi PM-RGB+A  
 Fidelity CM 14  
-Microvitec CUB 1451 MS  
+[Microvitec CUB 1451 MS](monitor/hv-microvitec-cub-1451-ms.md)  
 
 # Meрежеві пристрої
 
@@ -89,7 +89,7 @@ ESP
 
 # Принтери
 
-Enterprise EP 80+
+[Enterprise EP 80+](printer/ep80.md)
 
 # Живлення
 
