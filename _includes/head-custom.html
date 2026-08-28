@@ -105,28 +105,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 
-/* Знаходить будь-яку цитату, що починається з [!...] */
-blockquote:has(p:first-child:is(
-  :nth-letter(1) /* універсальний селектор за вмістом тексту */
-)) {
-  /* стилі будуть застосовуватись до всіх таких цитат */
-}
-
-/* Простіше рішення: за збігом символів `[!` у першому параграфі */
 blockquote {
-  position: relative;
-  border-left: 4px solid #0969da;
-  background-color: #f6f8fa;
+  border-left: 4px solid #8b5cf6;
+  background-color: #f5f3ff;
   padding: 12px 16px;
   margin: 16px 0;
   border-radius: 6px;
 }
 
-/* Або конкретизація за стандартними та довільними мітками */
-blockquote:has(p:first-child:contains("[!")) {
-  border-left-color: #8b5cf6;
-  background-color: #f5f3ff;
+/* Перший абзац (тобто заголовок [!TITLE]) робимо виділеним */
+blockquote > p:first-child {
+  font-weight: bold;
+  color: #6b21a8;
+  margin-bottom: 8px; /* відступ від заголовка до основного тексту */
 }
+
 
 
 </style>

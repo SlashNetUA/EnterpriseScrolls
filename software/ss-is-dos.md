@@ -8,6 +8,7 @@ title: "Дискова операційна система IS-DOS"
 Рік: 1985  
 
 > [!Short tips]
+> 
 > Max CP/M version: **2.2**  
 > Емуляція терміналу: **VT52** (керуючі коди та escape-послідовності)   
 > `VAR 90 ON` for Fast Video  
