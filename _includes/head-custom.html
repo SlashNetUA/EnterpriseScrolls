@@ -62,13 +62,24 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 </script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("blockquote").forEach(function (bq) {
+    const firstP = bq.querySelector("p");
+    if (firstP && firstP.textContent.trim().startsWith("[!")) {
+      bq.classList.add("obsidian-callout");
+    }
+  });
+});
+</script>
+
 <style>
   /* Щоб піксель-арт на Enterprise 128 виглядав чітким, а не розмитим */
-  .fancybox__content img {
+/*  .fancybox__content img {
     image-rendering: pixelated;
     image-rendering: crisp-edges;
   }
-
+*/
 .tiles {
     display: grid;
 
@@ -109,6 +120,21 @@ blockquote {
   padding: 12px 16px;
   margin: 16px 0;
   border-radius: 6px;
+}
+
+/* Стиль тільки для знайдених блоків Obsidian */
+blockquote.obsidian-callout {
+  border-left: 4px solid #8bf65c;
+  background-color: #f5fff3;
+  padding: 12px 16px;
+  margin: 16px 0;
+  border-radius: 6px;
+}
+
+blockquote.obsidian-callout > p:first-child {
+  font-weight: bold;
+  color: #6ba821;
+  margin-bottom: 8px;
 }
 
 </style>
