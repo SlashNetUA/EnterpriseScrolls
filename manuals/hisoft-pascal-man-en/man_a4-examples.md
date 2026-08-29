@@ -7,7 +7,7 @@ There follow some example programs written in HiSoft Pascal. All have been thoro
 
 Some of the programs may be of practical use; certainly all of them demonstrate particular aspects of the implementation of Pascal within HiSoft Pascal, to facilitate the user's learning process.
 
-```
+```pascal
 (Program to illustrate the use of TIN and TOUT.
 The program constructs a very simple telephone
 directory on tape and then reads it back. You
@@ -50,7 +50,8 @@ END;
 (And now you can process the directory as you wish.....)
 END.
 ```
-```
+
+```pascal
 10 (Program to shown the use of recursion)
 20
 30 PROGRAM FACTOR;
@@ -99,7 +100,8 @@ END.
 460 	UNTIL NUMBER=0
 470 END.
 ```
-```
+
+```pascal
 10 (Program to list lines of a file in reverse order.
 20 Shows use of pointers, records, MARK and RELEASE.)
 30
@@ -141,7 +143,8 @@ END.
 390 UNTIL FALSE		(Use STOP to exit)
 400 END.
 ```
-```
+
+```pascal
 10 (Program to show how to 'get your hands dirty'!
 20 i.e. how to modify Pascal Variables using machine code.
 30 Demonstrates PEEK, POKE, ADDR and INLINE.)

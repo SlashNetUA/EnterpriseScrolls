@@ -35,14 +35,15 @@ The following disk drives have been tested and have worked successfully with the
  - Mitsubishi M4853
  - Shugart SA465
 
-NOTE: The above are uncased, unpowered drives. Suitable cased and self-powered units are available from several sources including:
-
-Cumana Ltd.,  
-The Pines Trading Estate,  
-Broad Street, GUILDFORD,  
-Surrey, GU3 3BH, England  
- 
-or their authorised distributors.
+> [!Note]
+> The above are uncased, unpowered drives. Suitable cased and self-powered units are available from several sources including:
+> 
+> *Cumana Ltd.,  
+> The Pines Trading Estate,  
+> Broad Street, GUILDFORD,  
+> Surrey, GU3 3BH, England* 
+>  
+> or their authorised distributors.
 
 ## Un-powered disk drive units
 

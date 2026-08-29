@@ -27,7 +27,7 @@ The value of the integer expression **e** is converted to a character string wit
 
 In this case **e** is output in hexadecimal. If **m=1** or **m=2** then the value (**e MOD 16^m**) is output in a width of exactly **m** characters. If **m=3** or **m=4** then the full value of **e** is output in hexadecimal in a width of **4** characters. If **m>4** then leading spaces are inserted before the full hexadecimal value of **e** as necessary. Leading zeroes will be inserted where applicable. Examples:
 
-```
+```pascal
 WRITE (1025:m:H);
 ```
 
@@ -43,7 +43,7 @@ The value of **e** is converted to a character string representing a real number
 
 If **n** is not present then the number is output in scientific notation, with a mantissa and an exponent. If the number is negative then a minus sign is output prior to the mantissa, otherwise a space is output. The number is always output to at least one decimal place up to a maximum of **5** decimal places and the exponent is always signed (either with a plus or minus sign). This means that the minimum width of the scientific representation is **8** characters; if the field width **m** is less than **8** then the full width of **12** characters will always be output. If **m>=8** then one or more decimal places will be output up to a maximum of **5** decimal places (**m=12**). For **m>12** leading spaces are inserted before the number. Examples:
 
-```
+```pascal
 WRITE (-1.23E10:m);
 ```
 

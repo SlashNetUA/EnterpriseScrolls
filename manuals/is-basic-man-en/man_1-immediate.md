@@ -8,11 +8,13 @@ title: "IS-Basic Manual. Immediate Mode and Keywords"
 If you type in commands without giving them a line number, it is called immediate mode. You can use the computer as a calculator in this way. Here's how.
 
 On the keyboard you will notice these symbols: **+**, **\***, **=**, **-** and **/**. Of these, **\*** and **/** may be unfamiliar to you. They stand for 'multiply' (**\*** instead of **×**) and 'divide' (**/** instead of **÷**). If you type
-```
+
+```basic
 PRINT 2 + 2
 ```
 you will get the answer, **4**, as soon as you press '**Enter**'. With all the mathematical operators, as they are known, you can do sums on the computer in this way. You can also work out square roots. Try
-```
+
+```basic
 PRINT SQR(100)
 ```
 and the answer will be the square root of **100**. The word [SQR](functions/man_fn-sqr.md) is a special one which the computer understands to mean 'the square root of the number in brackets'. There are several words like this in BASIC. You can find a list of them in the Reference Section, under the heading '[Built-in Functions and Variables](man_3-functs.md)'. More of them will be explained as they're used in the text.

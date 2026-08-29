@@ -12,13 +12,15 @@ The way in which you would keep a list of names, for instance, in a program woul
 ## NUMERIC ARRAYS
 
 As with variables, you have string arrays and numeric ones. So to declare a numeric array you would use (e.g.):
-```
+
+```basic
 NUMERIC STORE (1 TO 10)
 ```
 Type this into the computer as line **100**. It tells the computer to set aside a 'container' called **STORE** with space for **10** smaller variables in it. These variables are known as the elements of the array, and you can record whatever numbers you like in these little spaces. The seventh variable (or element) inside **STORE** would be called **STORE(7)**.
 
 Now type in the following lines:
-```
+
+```basic
 110 FOR S=1 TO 10
 120   INPUT PROMPT "Enter a number ":STORE(S)
 130 NEXT S
@@ -76,7 +78,8 @@ As you already know, the Enterprise has a certain amount of space inside it, in 
 When you declare a string array the computer will set aside a certain amount of space for each element. This is called [MAXLEN](functions/man_fn-maxlen.md). [MAXLEN](functions/man_fn-maxlen.md) is, unless you specify otherwise, **132** characters. This does not affect numbers; it only relates to strings.
 
 Should you wish to conserve space in your computer's memory – or to allow for longer elements than **132** characters – you must tell the computer so. This is how:
-```
+
+```basic
 STRING ARRAY$(30 TO 50)*10
 ```
 That BASIC statement would set aside an array with **20** elements in it (numbered **30** to **50**), each element being **10** characters long. **MAXLEN(ARRAY$(45))** would then be **10**. The longer your elements are, the more you can put into them, but they will take up more memory and leave less space for other things. So you should only make them longer than normal if it is really necessary, or if you are certain you will have enough space for them. If you expand your Enterprise's memory, you will naturally be able to store much bigger programs and put much more in your arrays.
@@ -90,7 +93,8 @@ Simple variables can also be declared using [STRING](commands/man_cs-string.md) 
 Many BASIC words go hand in hand with other BASIC words. [READ](commands/man_cs-read.md) and [DATA](commands/man_cs-data.md) (and the word [RESTORE](commands/man_cs-restore.md) as well) are such words.
 
 These are mentioned in this part of the manual because they represent yet another way to keep large amounts of information inside a program. They also represent another way to put numbers or strings into an array. [READ](commands/man_cs-read.md) is the word which does all the hard work. Here is a short example.
-```
+
+```basic
  80 LET P=1
  90 DO UNTIL P=0
 100   READ P
@@ -108,7 +112,8 @@ Notice that the same variable name is used for all the [DATA](commands/man_cs-da
 The computer will only read each [DATA](commands/man_cs-data.md) item once. Once an item has been read, the machine 'remembers' its position and goes on to the next one (reading from left to right and lop to bottom as you would read a book). When it's read them all, it considers there are no more there – and will be confused if you try to tell it to go on looking!
 
 The program below demonstrates the use of [READ](commands/man_cs-read.md)/[DATA](commands/man_cs-data.md) with strings.
-```
+
+```basic
 150 CLEAR SCREEN
 200 PRINT "I'm going to tell you a story."
 250 PRINT

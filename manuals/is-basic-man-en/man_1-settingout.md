@@ -21,7 +21,7 @@ There are other ways of putting things onto the screen to make them look nice.
 
 Try using a comma, as below (this modifies the counter program used on [page 22](man_1-variables.md)):
 
-```
+```basic
 10 LET A=0 !          Declare A as 0.
 20 DO !               Begin DO/LOOP.
 30   LET A=A+1 !      Add 1 to A.
@@ -41,7 +41,7 @@ Using a comma to formal text is a little like using the semicolon, but it adds s
 
 Try this short program:
 
-```
+```basic
 10 PRINT "There was an old man from St. Bees"
 20 PRINT
 30 PRINT "Who was stung on the head by a wasp."
@@ -58,7 +58,7 @@ Lines **20**, **40**, **60** and **80** all print an empty line on the screen â€
 
 It is not possible to print double inverted commas on the screen in the same way as other characters (e.g. `PRINT"""`), because this confuses the computer. Instead, type the double inverted commas twice in order to get it printed once. Try line **70** above as follows:
 
-```
+```basic
 70 PRINT "He replied,""No, it doesn't"
 ```
 
@@ -68,7 +68,7 @@ The next way to set out text is with [PRINT AT](commands/man_cs-print.md). You a
 
 Try this:
 
-```
+```basic
 PRINT AT 20,20:"I'M OVER HERE"
 ```
 

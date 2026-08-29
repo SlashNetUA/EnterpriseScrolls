@@ -8,7 +8,7 @@ The Enterprise's powerful graphics can be used to provide some impressive pictur
 In the first part of the manual, `PRINT AT` was explained to you. This command made use of a system which divided the screen up into a number of 'positions', or imaginary squares, so that you could specify where you wanted something to be printed. `PRINT AT 1,1` would put a string (or a number) in the top left-hand corner of the display.
 
 The graphics commands use a similar system to put lines and dots on the screen and enable you to make diagrams and pictures. In this case, though, the 'screen positions' are much smaller. Here's a short program which will draw a line.
-```
+```basic
 100 GRAPHICS
 110 PLOT 640,360;1000,700
 120 END
@@ -33,13 +33,13 @@ When you learn about 'channels' and the more sophisticated features of the graph
 ## DOTS OR LINES
 
 Try changing the [PLOT](commands/man_cs-plot.md) statement in the program so that it simply reads:
-```
+```basic
 110 PLOT 100,100
 ```
 — and run the program again. A dot appears on the screen.
 
 Now add a semicolon after `100,100`. Then add:
-```
+```basic
 115 PLOT 1000,700
 ```
 — and run the program once more, it draws a line again. Then remove the semicolon from line **110**. Run the program. Two dots appear. Why?
@@ -51,7 +51,7 @@ You can think of the beam as a drawing pen. A [PLOT](commands/man_cs-plot.md) co
 You can also use the commands [SET BEAM ON](options/man_vo-beam.md) and [SET BEAM OFF](options/man_vo-beam.md) to put the 'pen' on the paper or lift it up.
 
 Here's a measles program:
-```
+```basic
 100 RANDOMIZE
 110 INPUT PROMPT "How many measles? ": B
 120 GRAPHICS
@@ -65,13 +65,13 @@ Here's a measles program:
 200 END
 ```
 That program will plot dots in random positions on the screen. By changing **170** to:
-```
+```basic
 170 PLOT X,Y;
 ```
 – you could change the measles to lines.
 
 Any of the graphics commands can, of course, be included in the definition of a function. The following example shows, incidentally, that you can put several screen positions in one [PLOT](commands/man_cs-plot.md) command and draw lines between them all:
-```
+```basic
 100 DEF DIAGRAM
 110   GRAPHICS
 120   PLOT 504,544;564,464;516,448;504,544;460,464;516,448
@@ -84,7 +84,7 @@ If you put a comma after a pair of co-ordinates, no dot will be inserted in that
 ## TURTLE COMMANDS
 
 We shall now look at another set of commands which enable you to draw lines. They are called 'turtle' commands, because they were first used for controlling a slow-moving robot animal. This time, we don't need to work out the co-ordinates of a whole series of screen positions.
-```
+```basic
 100 OPTION ANGLE DEGREES
 110 GRAPHICS
 120 PLOT 300,150;
@@ -113,7 +113,7 @@ Notice that with 'turtle' commands you still have to use semicolons to keep the 
 ## ELLIPSES AND CIRCLES
 
 The following program plots an ellipse:
-```
+```basic
 100 GRAPHICS
 110 PLOT 640,250,
 120 PLOT ELLIPSE 100,200,
@@ -126,11 +126,11 @@ Line **110** gives the centre of the ellipse. The first number after [PLOT ELLIP
 You are probably well aware that the Enterprise can display **256** colours. Up until now, you have not had many chances to use them. This is where you learn to master the many hues the Enterprise can put on its screen.
 
 The following program will display all **256** colours at once:
-```
+```basic
 100 !	------------------------------------
 110 GRAPHICS 256 !	Note the number which this
-120 !	time has to follow
-125 !	GRAPHICS.
+120 !	            time has to follow
+125 !	            GRAPHICS.
 130 !	------------------------------------
 140 LET Z=0
 150 FOR Y=0 TO 560 STEP 80
@@ -170,7 +170,7 @@ The Reference Section explains how the resolution can be halved (and memory save
 In addition to **HIRES**, there are two other graphics modes.
 
 **LORES** is identical to **HIRES**, but uses less computer memory and provides half the horizontal resolution. Colour modes are specified in the same manner as HIRES, eg:
-```
+```basic
 GRAPHICS LORES 16
 ```
 would give a **16**-colour low resolution graphics page.
@@ -178,7 +178,7 @@ would give a **16**-colour low resolution graphics page.
 **ATTRIBUTE** mode is a special form of video display, which is a cross between text and graphics modes. It can be used for character printing, or for plotting commands, and provides **16** colours, but needs careful handling of the [ATTRIBUTES](options/man_vo-attributes.md) 'flag' for most effective use. See the reference section, page 188.
 
 No colour mode should be specified, the command is:
-```
+```basic
 GRAPHICS ATTRIBUTE
 ```
 
@@ -196,23 +196,23 @@ So `SET INK RGB(1,.5,.5)` would give you pink as a plotting colour. `RGB(.4,.4,0
 
 The **8** colours below can be selected very simply, by just typing their names (e.g. `SET INK GREEN`). Here are the 'mixtures' to which they correspond: —
 
-|         |            |
-|:-------:|:----------:|
-|  BLACK  | RGB(0,0,0) |
-|   RED   | RGB(1,0,0) |
-|  GREEN  | RGB(0,1,0) |
-| YELLOW  | RGB(1,1,0) |
-|  BLUE   | RGB(0,0,1) |
-| MAGENTA | RGB(1,0,1) |
-|  CYAN   | RGB(0,1,1) |
-|  WHITE  | RGB(1,1,1) |
+|                                         |            |
+|:---------------------------------------:|:----------:|
+|  [BLACK](functions/man_fn-colcodes.md)  | RGB(0,0,0) |
+|   [RED](functions/man_fn-colcodes.md)   | RGB(1,0,0) |
+|  [GREEN](functions/man_fn-colcodes.md)  | RGB(0,1,0) |
+| [YELLOW](functions/man_fn-colcodes.md)  | RGB(1,1,0) |
+|  [BLUE](functions/man_fn-colcodes.md)   | RGB(0,0,1) |
+| [MAGENTA](functions/man_fn-colcodes.md) | RGB(1,0,1) |
+|  [CYAN](functions/man_fn-colcodes.md)   | RGB(0,1,1) |
+|  [WHITE](functions/man_fn-colcodes.md)  | RGB(1,1,1) |
 
 ## THE PALETTE
 
 If you give the command `GRAPHICS HIRES 16`, restricting yourself to **16** colours on the display at any one time, you still have considerable freedom to choose which ones they will be. You do this by specifying a 'palette' – a list of selected colours which are to be made available for drawing.
 
 First, type [SET PALETTE](options/man_vo-palette.md), then list eight of the colours that you want to use. These can be freely chosen from the full range of **256**, and you can specify them by their standard code-numbers, by their names (if they are in the above list), or by defining them as a 'mixture'. For example, you could type:
-```
+```basic
 100 SET PALETTE 67,31,WHITE,4,RGB(0.,3,.8),RGB(.7,.7,.1),187,190
 ```
 – and these colours would then be numbered **0**-**7** in your 'palette'.
@@ -224,7 +224,7 @@ You can now select any colour in the palette to make the 'ink' for plotting the 
 In the **4**-colour mode, only the colours numbered **0**-**3** in the palette can be used, so there is no point in listing more than four colours in a [SET PALETTE](options/man_vo-palette.md) command. Similarly, in the **2**-colour mode, you will only want to specify palette colours **0** and **1**.
 
 Sometimes you may want to alter just one colour in the palette, while leaving the rest as they are. This example alters palette colour **3**:
-```
+```basic
 SET COLOUR 3,110
 ```
 You can also, of course, use any of the modes without actually bothering to select your palette. If nothing is specified by you, the computer will always use certain pre-programmed 'default' colours.
@@ -236,7 +236,7 @@ Remember that if you alter the set of colours in your palette, this will affect 
 In the following program, which creates ellipses of random sizes and colours, we shall start by making all the palette colours the same; so a line drawn in 'ink' of colour number **2** will look no different from one drawn in colour **3**, and both will be distinguishable from the 'paper' – the drawing will, in fact, be invisible. Then, when a key is pressed, the drawing will stop, and by repeatedly varying the contents of the palette, the program will make the different 'inks' change colour and stand out against each other and the background.
 
 The program ends with an infinite loop – it will never finish unless interrupted. To halt execution, press the 'Stop' key.
-```
+```basic
 100 RANDOMIZE
 140 GRAPHICS HIRES 4
 150 SET PALETTE BLUE,BLUE,BLUE,BLUE
@@ -269,7 +269,7 @@ The program ends with an infinite loop – it will never finish unless interrupt
 420 !	-------------------------------
 ```
 Note, by the way, that the [PALETTE](options/man_vo-palette.md), [INK](options/man_vo-ink.md) and [PAPER](options/man_vo-paper.md) commands can also be used if you are working with a 'text' page. The '[Video Options](man_3-vidoptions.md)' chapter in the Reference Section gives details of this. Try the following experiments:
-```
+```basic
 SET £102:COLOUR 1,MAGENTA
 SET £102:INK 3
 ```
@@ -277,7 +277,7 @@ SET £102:INK 3
 ## PLOT PAINT
 
 This instruction fills a solid shape with the current 'ink' colour. Here is a program which will draw one circle inside another and then paint in two different colours:
-```
+```basic
 100 GRAPHICS HIRES 4
 110 SET PALETTE WHITE,YELLOW,BLUE
 120 PLOT 400,400,
@@ -308,7 +308,7 @@ There are two main advantages in opening new 'channels' for your pages:
 2. You can specify the size of a page. So you can make a graphics drawing fill (almost) the whole screen (but note that you cannot use the 'status line' at the top); or you can save memory by making the page small. You can choose the vertical position on the screen for displaying the page or a part of it.
 
 The following example creates a small text page and shows it in the middle of the screen:
-```
+```basic
  50 SET BORDER CYAN
 100 SET VIDEO MODE 0
 110 SET VIDEO COLOUR 0
@@ -341,7 +341,7 @@ Line **150** is an instruction to put the top part of the page (measured as **10
 Notice that the [PRINT](commands/man_cs-print.md) command in line **160** has to include the channel number.
 
 The height specified for the page can, if you like, be greater than the height of the screen. (The maximum is **255** character-rows.) The following program defines a page measuring **8** columns across by **30** rows down, and plots an ellipse on it; then two segments, containing the bottom and top portions of the drawing, are displayed in turn.
-```
+```basic
 100 SET VIDEO MODE 1
 110 SET VIDEO COLOUR 2
 120 SET VIDEO X 8
@@ -356,23 +356,23 @@ The height specified for the page can, if you like, be greater than the height o
 210 END
 ```
 The next example defines **3** 'pages' and displays them simultaneously in different parts of the screen:
-```
+```basic
 100 SET VIDEO MODE 0
 110 SET VIDEO COLOUR 0
 120 SET VIDEO X 42
 130 SET VIDEO Y 8
-140 !				----------
-150 OPEN £1:"VIDEO:" !	Text page.
-160 !				----------
+140 !                 ----------
+150 OPEN £1:"VIDEO:"  !	Text page.
+160 !                 ----------
 170 SET VIDEO MODE 1
 180 SET VIDEO COLOUR 3
-190 !				--------------------
+190 !                 --------------------
 200 OPEN £2: "VIDEO:" !	256-colour graphics.
-210 !				--------------------
+210 !                 --------------------
 220 SET VIDEO COLOUR 1
-230 !				------------------
-240 OPEN £3:"VIDEO:" !	4-colour graphics.
-250 !				------------------
+230 !                 ------------------
+240 OPEN £3:"VIDEO:"  !	4-colour graphics.
+250 !                 ------------------
 260 DISPLAY £1:AT 9 FROM 1 TO 8
 270 DISPLAY £2:AT 1 FROM 1 TO 8
 280 DISPLAY £3:AT 17 FROM 1 TO 8
@@ -388,7 +388,7 @@ After running this, you won't be able to see what you are typing. Type [TEXT](co
 Note that every 'page' has its own 'palette', although a [SET BIAS](options/man_vo-bias.md) command will be applied to all pages.
 
 The use of channel numbers enables you to draw or write on a page even if it isn't currently displayed. It also allows characters to be printed on a graphics page, at the current 'beam' position. For example, if channel **3** has been opened as a graphics page, you can type something like:
-```
+```basic
 PLOT £3:640,50
 PRINT £3:"Hello"
 ```

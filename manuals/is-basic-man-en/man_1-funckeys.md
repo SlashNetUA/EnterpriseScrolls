@@ -9,7 +9,7 @@ These keys can be redefined by you to perform whatever function you may wish the
 
 Redefining the function keys is done by typing (for example):
 
-```
+```basic
 SET FKEY 1 "PRINT"
 ```
 
@@ -25,7 +25,7 @@ A carriage 'return' – the equivalent of pressing '**Enter**' – can be added 
 
 to the end of that definition, e.g.:
 
-```
+```basic
 SET FKEY 1 "PRINT"&CHR$(13)
 ```
 

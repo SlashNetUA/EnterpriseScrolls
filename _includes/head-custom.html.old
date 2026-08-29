@@ -1,0 +1,194 @@
+﻿<link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
+
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // 1. Автоматично обгортаємо всі зображення (md-синтаксис та <img> теги)
+    const images = document.querySelectorAll('img');
+    
+    images.forEach(img => {
+      // Пропускаємо, якщо картинка вже є посиланням
+      if (img.closest('a')) return;
+
+      const link = document.createElement('a');
+      link.href = img.src;
+      link.dataset.fancybox = "gallery";
+      
+      // Додаємо клас для стилізації (опційно)
+      link.classList.add('fancybox-trigger');
+
+      img.parentNode.insertBefore(link, img);
+      link.appendChild(img);
+    });
+
+    // 2. Ініціалізація Fancybox з налаштуваннями для ретро-графіки
+    Fancybox.bind("[data-fancybox]", {
+      Images: {
+        Panzoom: {
+          maxScale: 3 // Дозволяємо сильне збільшення для скріншотів EXOS
+        }
+      },
+      // Вимикаємо розмиття при збільшенні (піксельна чіткість)
+      on: {
+        ready: (fancybox) => {
+          const container = fancybox.container;
+//          container.style.imageRendering = 'pixelated';
+        }
+      },
+      caption: (fancybox, slide) => {
+          const img = slide.triggerEl?.querySelector("img");
+          return img?.getAttribute("alt")
+              || img?.getAttribute("title")
+              || "";
+      }
+    });
+  });
+</script>
+
+<script>
+// Посилання на зовнішні сайти выдкриваємо у новому вікні
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll('a[href]').forEach(link => {
+    const url = new URL(link.href, location.href);
+
+    if (url.hostname && url.hostname !== location.hostname) {
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+    }
+  });
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // 1. Виправлення регістру для підсвітки коду (BASIC -> basic)
+  document.querySelectorAll('code[class*="language-"]').forEach(function (el) {
+    el.className = el.className.toLowerCase();
+  });
+
+  // 2. Обробка Obsidian-блоків
+  document.querySelectorAll("blockquote").forEach(function (bq) {
+    const firstP = bq.querySelector("p");
+    if (!firstP) return;
+
+    const text = firstP.textContent.trim();
+    if (text.startsWith("[!")) {
+      bq.classList.add("obsidian-callout");
+
+      const match = firstP.innerHTML.match(/^\[!([^\]]+)\]\s*(.*)/s);
+      if (match) {
+        const titleText = match[1];
+        const restOfText = match[2];
+
+        const titleElement = `<div class="callout-title">${titleText}</div>`;
+        firstP.innerHTML = `${titleElement}<div class="callout-content">${restOfText}</div>`;
+      }
+    }
+  });
+});
+</script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.css"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/basic.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Очищаємо HTML від розмітки Rouge, щоб Highlight.js працював з чистим текстом
+  document.querySelectorAll('pre code').forEach(function (block) {
+    block.innerHTML = block.textContent;
+  });
+
+  // Запускаємо Highlight.js
+  hljs.highlightAll();
+
+
+});
+</script>
+
+<style>
+/* Основний колір для всіх посилань */
+a, a:visited {
+  color: #0f7c25; /* Темно-зелений колір */
+  text-decoration: underline; /* або none, якщо хочете прибрати підкреслення */
+}
+
+/* Колір при наведенні курсору (Hover) */
+a:hover, a:focus {
+  color: #15ab33; /* Трохи світліший/активніший відтінок зеленого */
+}
+
+  /* Щоб піксель-арт на Enterprise 128 виглядав чітким, а не розмитим */
+/*  .fancybox__content img {
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+  }
+*/
+.tiles {
+    display: grid;
+
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+
+    gap: 16px;
+}
+
+.tile {
+    text-align: center;
+}
+
+.tile img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: contain;
+
+    background: #f5fff3;
+    border: 1px solid #29782d;
+    border-radius: 3px;
+    padding: 5px;
+
+    transition: .15s ease;
+}
+
+.tile:hover img {
+    border-color: #7aa7d9;
+    box-shadow: 0 2px 8px rgba(0,0,0,.12);
+}
+
+.title {
+    margin-top: 6px;
+}
+
+
+/* 1. БАЗОВІ СТИЛІ ДЛЯ ВСІХ ЦИТАТ (і звичайних, і Obsidian) */
+blockquote {
+  border-left: 4px solid #29782d !important;
+  background-color: #f5fff3 !important;
+  padding: 12px 16px !important;
+  margin: 16px 0 !important;
+  border-radius: 6px !important;
+}
+
+/* Колір основного тексту у ВСІХ цитатах */
+blockquote, 
+blockquote p {
+  color: #20300c !important;
+}
+
+/* 2. ДОДАТКОВІ СТИЛІ ТІЛЬКИ ДЛЯ ЗАГОЛОВКІВ (Callouts) */
+blockquote.obsidian-callout .callout-title {
+  font-weight: bold;
+  color: #29782d !important;
+  font-size: 1.05em;
+  margin-bottom: 8px;
+  display: block;
+}
+
+blockquote.obsidian-callout .callout-content {
+  color: #20300c !important;
+  line-height: 1.5;
+}
+
+</style>

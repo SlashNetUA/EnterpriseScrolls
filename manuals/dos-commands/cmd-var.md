@@ -33,7 +33,9 @@ Some useful EXOS variable numbers are:
  - [74](../../programming/system-info/exos-variables/exos_var74.md): Full disk change checking
  - [79](../../programming/system-info/exos-variables/exos_var79.md): [DATE](cmd-date.md) and [TIME](cmd-time.md) format
  
-NOTE: Appendix F of the EXDOS manual lists some EXOS system variables which can be displayed or changed by giving the **VAR** command to EXDOS. 
+
+> [!Note]
+> [Appendix F of the EXDOS manual](../exdos-man-en/exdos-a6sys-vars.md) lists some EXOS system variables which can be displayed or changed by giving the **VAR** command to EXDOS. 
 
 When operating IS-DOS, you may, in addition, wish to use the following:
 

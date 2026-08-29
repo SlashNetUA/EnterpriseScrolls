@@ -17,7 +17,8 @@ title: "ESC-послідовності: змінити вигляд символ
 **n** – номер символу (**0**—**255**).
 **r1**—**r9** – байти для дев'яти рядків символу, **r1** – верхній рядок.
 
-Примітка: У текстовому режимі високої роздільної здатності фактично відображатимуться лише середні шість бітів байтів символів, оскільки два інші маскуються та використовуються для задання кольору символу.
+> [!Примітка]
+> У текстовому режимі високої роздільної здатності фактично відображатимуться лише середні шість бітів байтів символів, оскільки два інші маскуються та використовуються для задання кольору символу.
 
 [IS-Basic](../../../manuals/is-basic-man-en/options/man_vo-character.md)
 
@@ -35,5 +36,5 @@ where:
 **n** is the character number (**0**—**255**).  
 **r1**—**r9** are the bytes for the nine rows of the character, **r1** is the top row.
 
-Note: In high resolution text mode, only the middle six bits of the character bytes will actually be
-displayed as the other two are masked out and used to control the colour selection.
+> [!Note]
+> In high resolution text mode, only the middle six bits of the character bytes will actually be displayed as the other two are masked out and used to control the colour selection.

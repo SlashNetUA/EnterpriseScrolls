@@ -25,20 +25,21 @@ Notice also that you can put numbers into quoted speech:
 
 Try these examples:
 
-```
+```basic
 PRINT 2*2
 ```
 
 This example tells the computer to do a small sum: put the value of **2** multiplied by the value of **2** on the screen – i.e. do the sum and display the result.
 
-```
+```basic
 PRINT "2*2"
 ```
 
 This example looks almost exactly the same as that above it. But the inverted commas make **2\*2** into a string. We are now telling the computer to put **2**, then **\***, then **2** onto the screen.
 
 The computer can tell you how long a string is, if you ask it to. Try this program;
-```
+
+```basic
 100 LET A$="COMPUTER"
 110 LET B$="MICROCOMPUTER"
 120 !	---------------------------------------
@@ -79,7 +80,8 @@ As you can see, it doesn't even contain spaces. This is called a null string.
 ## STRINGS INSIDE STRINGS
 
 The Enterprise can do some interesting things with strings. For instance, you can make one string out of another one. Here's a program which does this:
-```
+
+```basic
 100 LET BIGSTRING$="quite a few words"
 110 !	------------------------------------
 120 !	Line 100 declares a string variable.
@@ -100,7 +102,8 @@ The computer literally copies some characters from one variable into another sep
 So a statement such as `LET INITIAL$=NAME$(1:1)` says 'call the substring **INITIAL\$** and let it contain the first letter of **NAME\$**'.
 
 In each of these examples we have declared our substring as a variable in its own right, by giving it a name (an 'identifier') of its own. This isn't strictly necessary, though. In the above program, we could delete line 140 and change line **230** to:
-```
+
+```basic
 230 PRINT BIGSTRING$(9:17)
 ```
 – meaning 'print the ninth to seventeenth characters of the string called **BIGSTRING\$**'. The method you choose will depend on the reason why you're using substrings. If you want to use the same substring several times, it's often more convenient to declare it as a separate variable. If not, then the second method above will suffice.
@@ -110,7 +113,8 @@ In each of these examples we have declared our substring as a variable in its ow
 [INKEY$](functions/man_fn-inkey.md) is a very useful and important string function. (Any BASIC word which does something to a string is called a string function; most of them end with the **$** sign, to indicate that the result they produce is also a string.)
 
 [INKEY$](functions/man_fn-inkey.md) allows you to press a key while the program is running, so as to affect the way that the program will continue. In some ways it's like an [INPUT](commands/man_cs-input.md), but the differences will soon become clear. Try this:
-```
+
+```basic
 100 PRINT "Have you understood this chapter?"
 110 PRINT
 120 PRINT "Answer with у or n"
@@ -152,7 +156,8 @@ Bear in mind that [INKEY$](functions/man_fn-inkey.md) is like a variable of whic
 This explains why line **140** is needed in the program. It immediately puts the result of your keystroke into a separate string variable which will not change while the computer is examining it (testing it to see if it meets certain conditions – see lines **210** to **270**).
 
 You could try deleting line **140** and altering lines **150**, **210** and **230** to:
-```
+
+```basic
 150 LOOP UNTIL INKEY$<>""
 210 IF INKEY$="y" THEN
 230 ELSE IF INKEY$="n" THEN
@@ -160,7 +165,8 @@ You could try deleting line **140** and altering lines **150**, **210** and **23
 The reason why the program doesn't work properly any more is that the value of [INKEY$](functions/man_fn-inkey.md) changes (it reverts to **""**) in between lines **150** and **210**.
 
 There is, of course, no need to put the value of [INKEY$](functions/man_fn-inkey.md) into a separate variable if it is not going to be used in subsequent program lines. For example, if you merely want to hold up the action of a program until the user tells it to continue, you can type something like:
-```
+
+```basic
 100 PRINT "Press any key to continue."
 110 DO
 120 LOOP UNTIL INKEY$<>""
@@ -170,7 +176,8 @@ There is, of course, no need to put the value of [INKEY$](functions/man_fn-inkey
 
 Another interesting thing you can do with strings is to change them into capital or small letters.
 The two words which will do this are [UCASE$](functions/man_fn-ucase.md) and [LCASE$](functions/man_fn-lcase.md). This program will show you how it's done:
-```
+
+```basic
 100 !	---------------------------------------
 110 !	This program will convert a string that
 120 !	you have typed, first into capitals and
@@ -186,7 +193,8 @@ The two words which will do this are [UCASE$](functions/man_fn-ucase.md) and [LC
 ## VAL
 
 Something else which you can do is to convert a string which contains number-symbols into the number that it would be if it were not a string. The BASIC word which does this is [VAL](functions/man_fn-val.md) (short for 'value'). Try this:
-```
+
+```basic
 100 INPUT PROMPT "Please type in some characters: ":A$
 110 PRINT A$
 120 PRINT VAL(A$)
@@ -201,7 +209,8 @@ You can also do the opposite – convert a number into a string – by using the
 You have already seen how you can turn part of a string into a substring. Another way to form a new string is by linking up strings (or portions of strings) to one another. The act of joining strings together is called concatenation; all you do is put an ampersand ('**&**') between the strings – as if to say, 'one string and another string'.
 
 The following example makes use of concatenation in addition to substrings and the [LEN](functions/man_fn-len.md) function.
-```
+
+```basic
 100 INPUT PROMPT "Please type a word: ":STRING$
 120 CLEAR SCREEN
 130 LET ABBREV$=STRING$(1:1)&STRING$(LEN(STRING$):LEN(STRING$))&"."
@@ -222,7 +231,8 @@ The following example makes use of concatenation in addition to substrings and t
 270 END
 ```
 You would do it this way if you wanted to use the abbreviation repeatedly. If you were only using it once, you could of course delete line **130** and change line **260** to:
-```
+
+```basic
 260 PRINT STRING$(1:1)&STRING$(LEN(STRING$):LEN(STRING$))&"."
 ```
 In this case the ampersands could be replaced by semicolons.

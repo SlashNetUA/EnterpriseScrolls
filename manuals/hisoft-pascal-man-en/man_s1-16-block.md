@@ -9,7 +9,7 @@ title: "HiSoft Pascal Manual. 1.16 Block"
 
 As in the Pascal User Manual and Report (Section 11.C.1) procedures and functions may be referenced before they declared through use of the Reserved Word **FORWARD** e.g.
 
-```
+```pascal
 PROCEDURE a(y:t); FORWARD;	(* procedure a declared to be *)
 PROCEDURE b(x:t);			(* forward of this statement *)
 	BEGIN

@@ -31,7 +31,7 @@ end-def-line
 
 If the function is intended to return a value, this value should be assigned to the function name within the **DEF block**.
 
-```
+```basic
 DEF ANSWER(A$)
   IF UCASE$(A$(1:1))="Y" THEN
     ANSWER=1
@@ -45,7 +45,7 @@ END DEF
 
 The scope of variables at any point in a program is dynamic – that is, it depends upon the history of which lines have been executed, and not upon the static layout of the program.
 
-```
+```basic
 100 NUMERIC FRED
 110 LET FRED=1
 120 CALL Q
@@ -68,7 +68,7 @@ Everything declared within a **DEF block** is local to that block, and allocated
 
 It is best to declare all variables at the start of each program or function in order to avoid unexpected results.
 
-```
+```basic
 100 CALL P	! This call of P has I as local to P.
 110 LET I=9
 120 CALL P	! This call of P changes the global I.
@@ -88,7 +88,7 @@ The memory used for the storage of local variables is released when a function i
 
 Almost anything can be passed as a reference parameter. Normally parameters are passed by value, which means that copies are passed to the function and any operation inside the function does not change the external variables. Reference parameters take their type from the actual parameter, and any changes inside the function change the external variables also.
 
-```
+```basic
 100 DEF SWAP(REF A,REF B)
 110 	NUMERIC T
 120 	LET T=A
@@ -105,7 +105,7 @@ Prints	`23	99`
 
 Arrays and functions must always be passed by reference.
 
-```
+```basic
 100 NUMERIC A(10)
 110 OPTION ANGLE DEGREES
 120 DEF P(REF FN,X)

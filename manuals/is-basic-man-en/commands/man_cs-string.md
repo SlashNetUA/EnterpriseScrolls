@@ -19,4 +19,5 @@ Here, **NAME\$** has a maximum length of **132**.
 
 This array has **96** elements, each of **10** characters.
 
-Note: a [DIM](man_cs-dim.md) statement cannot be used to define the length of a string variable.
+> [!Note]
+> a [DIM](man_cs-dim.md) statement cannot be used to define the length of a string variable.

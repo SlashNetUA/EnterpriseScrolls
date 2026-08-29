@@ -17,8 +17,8 @@ title: EXOS variable 191 -
 
 Затримки пам'яті (wait states) за замовчуванням вимкнені (вмикаються за допомогою `SET 191,4`) ([↗](https://enterpriseforever.com/programozas/exos-2-3-tovabb-fejlesztese/msg32251/#msg32251)).
 
-> [!NOTE]
-> you can select which wait states enabled by the automatic 191 port setting. If bit 7 of this variable is disabled, then the automatic 191 port settings is disabled.
-> - memory wait states disabled at default (can be enabled with SET 191,4 commands)
+> [!Note]
+> you can select which wait states enabled by the automatic [191 port](../ports/port191.md) setting. If bit **7** of this variable is **disabled**, then the automatic [191 port](../ports/port191.md) settings is disabled.
+> - memory wait states disabled at default (can be enabled with `SET 191,4` commands)
 
 [^2]: **not exist** cause error [#9242](../errors/9k/err-9242.md) (Unknown EXOS variable number).

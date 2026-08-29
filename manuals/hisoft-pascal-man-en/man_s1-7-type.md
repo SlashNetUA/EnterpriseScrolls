@@ -15,7 +15,7 @@ Full arrays of arrays, arrays of sets, records of sets etc. are supported.
 
 Two **ARRAY** types are only treated as equivalent if their definition stems from the same use of the reserved word **ARRAY**. Thus the following types are not equivalent:
 
-```
+```pascal
 TYPE
 	tablea = ARRAY[1..100] OF INTEGER;
 	tableb = ARRAY[1..100] OF INTEGER;
@@ -31,7 +31,7 @@ There are some restrictions on the use of pointers within HiSoft Pascal. These a
 
 Pointers to types that have not been declared are not allowed. This does not prevent the construction of linked list structures since type definitions may contain pointers to themselves e.g.
 
-```
+```pascal
 TYPE
 	item=RECORD
 		value:INTEGER;
@@ -44,7 +44,7 @@ Pointers to pointers and pointers to files are both not allowed.
 
 Pointers to the same type are regarded as equivalent e.g.
 
-```
+```pascal
 VAR
 	first:link;
 	current:^item;

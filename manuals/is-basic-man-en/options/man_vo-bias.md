@@ -13,8 +13,8 @@ The channel number defaults to **£101**. The bias is, however, applied to every
 
 ----
 
-> [!NOTE]
-> BIAS is available for the whole screen, it is handled by port 80h, not the LPT, you can enter to any channels even non existing ones, it will change the bias
+> [!Note]
+> BIAS is available for the whole screen, it is handled by [port 80h](../../../programming/system-info/ports/port128.md), not the [LPT](../../../programming/system-info/nick/lpt.md), you can enter to any channels even non existing ones, it will change the bias
 
 ----
 

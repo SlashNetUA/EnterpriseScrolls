@@ -22,7 +22,7 @@ The **USING** option controls the format of the output. The line-number must be 
 
 У команді `PRINT USING` є помилка, яка некоректно виводить дробові числа у проміжку від **-1** до **1**.
 
-```
+```basic
 PRINT USING "##.####":0.1234
  1.2340
 ```

@@ -88,16 +88,18 @@ In addition to the standard development tools (a recent version of the GNU C/C++
  - [SCons](http://www.scons.org/)
  - Python interpreter for running SCons
  - [FLTK 1.3.x](http://www.fltk.org/software.php?VERSION=1.3.4) or [1.1.x](http://www.fltk.org/software.php?VERSION=1.1.10)
-   NOTES:
-	 - this library should be compiled with the --enable-threads 'configure' option - many Linux distributions include binaries of FLTK 1.1 built without --enable-threads, so you may need to compile it from sources
-	 - on MacOS X, FLTK 1.1.7 needs to be patched with the included  fltk-1.1.7-MacOSX.patch file
+> [!Notes]
+> - this library should be compiled with the --enable-threads 'configure' option - many Linux distributions include binaries of FLTK 1.1 built without --enable-threads, so you may need to compile it from sources
+> - on MacOS X, FLTK 1.1.7 needs to be patched with the included  fltk-1.1.7-MacOSX.patch file
  - [PortAudio](http://www.portaudio.com/download.html), version **18** and **19** are supported, but **v19** is recommended
  - [libsndfile](http://www.mega-nerd.com/libsndfile/#Download)
 
 The following packages are optional:
 
  - OpenGL for improved video display and effects
- - [SDL](http://www.libsdl.org/) **1.2** for joystick input; NOTE: on Linux, versions **1.2.10** and newer do not work if they are statically linked and were built with video support (`--enable-video`)
+ - [SDL](http://www.libsdl.org/) **1.2** for joystick input; 
+> [!Note]
+> on Linux, versions **1.2.10** and newer do not work if they are statically linked and were built with video support (`--enable-video`)
  - Lua (http://www.lua.org/) or (http://www.luajit.org/) for scripting in the debugger; version **5.1** or newer is recommended, but **5.0** is also supported
  - [libcurl](https://curl.haxx.se/) for ROM download support in epmakecfg
 
@@ -312,7 +314,8 @@ Close sound output file if it is currently being written.
 
 Open new AVI file for video recording. This increases the CPU usage significantly, and since the data is written without compression, it will take up a lot of disk space. If the size of the output file reaches **2 GB**, it is automatically closed, and the emulator asks for a new file to continue the recording.
 
-NOTE: the video and audio streams in the AVI file are not affected by any of the display or sound configuration settings. There are two options in the machine configuration that affect the video capture: the frame rate and the codec. It is recommended to use the defaults (RLE8 768x576 at 50 fps) when possible, but RLE8 is not always supported by other software, in those cases it may be necessary to use the YV12 codec, which decreases the quality while usually increasing the output file size and CPU usage.
+> [!Note]
+> the video and audio streams in the AVI file are not affected by any of the display or sound configuration settings. There are two options in the machine configuration that affect the video capture: the frame rate and the codec. It is recommended to use the defaults (RLE8 768x576 at 50 fps) when possible, but RLE8 is not always supported by other software, in those cases it may be necessary to use the YV12 codec, which decreases the quality while usually increasing the output file size and CPU usage.
 
 ### Record video / Stop
 
@@ -409,7 +412,9 @@ Set the directory to be accessed by the optional file I/O ROM extension modules.
 ## Memory configuration files
 
 While the GUI based memory configuration is easy to use, and is sufficient for creating the most commonly used configurations, it does have a number of limitations. Using a configuration file - which is a simple text file with a format described below - makes it possible to have RAM, ROM, or no memory at any segment, and image files can also be loaded to RAM (e.g. for emulating static RAM).  
-NOTE: if a memory configuration file is specified, the RAM/ROM settings in the "Machine configuration" GUI are ignored.
+
+> [!Note]
+> if a memory configuration file is specified, the RAM/ROM settings in the "Machine configuration" GUI are ignored.
 
 A memory configuration file may contain any number of segment range definitions, each being a line in one of the following formats for RAM or ROM:
 
@@ -563,7 +568,8 @@ The value or CPU opcode read from or written to memory or I/O port.
 
 The breakpoint callback function will remain active until either a new script is run which does not define one, or the **Stop** button is clicked.
 
-NOTE: an infinite loop in the script will hang the emulator, and a very frequently called and/or complex breakpoint callback may slow down the emulation.
+> [!Note]
+> an infinite loop in the script will hang the emulator, and a very frequently called and/or complex breakpoint callback may slow down the emulation.
 
 ----
 
@@ -594,7 +600,8 @@ Set a breakpoint or watchpoint at address **addr** (**0**-**0xFFFF**), with prio
 
 For memory breakpoints, it is possible to add **8** to **bpType** to interpret the address as a **22 bit** value in the range **0** to **0x3FFFFF**, with the segment number determined by the most significant **8 bits**. If the address is greater than **0xFFFF**, it is also automatically assumed to be in **22 bit** format. An "ignore" breakpoint can be defined by adding **16** to **bpType**, this will disable other breakpoints when the program counter is at the address to be ignored. It is still possible to have a normal read or write breakpoint as well at the same address, by setting the lowest **three bits** of **bpType** to **1**, **2**, or **3**. A **priority** value of **-1** will delete an existing breakpoint at the specified address. The read, write, execute, and ignore flags are combined (bitwise OR) if multiple breakpoints are set at the same address, while the priority will be the highest value specified.
 
-NOTE: the changes made to the breakpoint list by the script are not reflected in the breakpoint editor. To restore the previously defined breakpoints, click the **Apply** button.
+> [!Note]
+> the changes made to the breakpoint list by the script are not reflected in the breakpoint editor. To restore the previously defined breakpoints, click the **Apply** button.
 
 ----
 

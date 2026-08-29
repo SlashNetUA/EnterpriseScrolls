@@ -15,7 +15,7 @@ When specifying elements of multi-dimensional arrays the programmer is not force
 
 e.g. if variable a is declared as:
 
-```
+```pascal
 ARRAY[1..10] OF ARRAY[1..10] OF INTEGER
 ```
 then either `a[1][1]` or `a[1,1]` may be used to access element **(1,1)** of the array.

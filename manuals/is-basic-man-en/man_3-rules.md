@@ -19,7 +19,7 @@ An identifier can be up to **31** characters long, and all characters are signif
 
 The interpreter deletes spaces before and after the [line-number](commands/man_cs-linenum.md) and first keyword, and at the end of the line. It then indents the program for every new block. [FOR](commands/man_cs-for.md), [DEF](commands/man_cs-def.md), [DO](commands/man_cs-do.md), [HANDLER](commands/man_cs-handler.md), [SELECT](commands/man_cs-select.md) and [WHEN](commands/man_cs-when.md) will indent the next line by **2** spaces. [ELSE](commands/man_cs-if.md) and [CASE](commands/man_cs-select.md) inside an indented block are placed **2** characters to the right. [LOOP](commands/man_cs-do.md), [END](commands/man_cs-end.md) and [NEXT](commands/man_cs-for.md) terminate the indentation. [Line-numbers](commands/man_cs-linenum.md) are printed with leading spaces to maintain a straight edge,
 
-```
+```basic
    1 LET A=0
   10 DO WHILE A<10
  100   LET A=A+1

@@ -9,14 +9,14 @@ At one end of the scale there is machine code where no checks whatever are made 
 
 There are basically two approaches used by Pascal implementations to strength of typing; structural equivalence or name equivalence. HiSoft Pascal uses name equivalence for **RECORD**s and **ARRAY**s. The consequences of this are clarified in [Section 1](man_s1-0-index.md) – let it suffice to give an example here; say two variables are defined as follows:
 
-```
+```pascal
 VAR	A: ARRAY['A'..'C'] OF INTEGER;
 	B: ARRAY['A'..'C'] OF INTEGER;
 ```
 
 then one might be tempted to think that one could write `A:=B`; but this would generate an error (`*ERROR* 10`) under HiSoft Pascal since two separate '**TYPE** records' have been created by the above definitions. In other words, the user has not taken the decision that **A** and **B** should represent the same type of data. She/He could do this by:
 
-```
+```pascal
 VAR A,B: ARRAY['A'..'C'] OF INTEGER;
 ```
 and now the user can freely assign **A** to **B** and vice versa since only one '**TYPE** record' has been created.

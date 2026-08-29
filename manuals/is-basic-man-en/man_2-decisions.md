@@ -12,7 +12,7 @@ But while they can't think like people can, computers can make very simple decis
 Perhaps we can start with comparisons. Do you remember the relational operators mentioned in part 1 of the manual? These are the key to the way in which computers make comparisons and, sometimes, decisions based on those comparisons.
 
 Try out this program. It will show you how to use these relational operators to decide whether two strings are different or not.
-```
+```basic
 100 LET THAT$="kettle"
 110 INPUT PROMPT "Please type in some letters:":THIS$
 120 !	-----------------------------------
@@ -48,7 +48,7 @@ Then, when the variable is equal to the number of turns the player should be all
 An [IF](commands/man_cs-if.md)/[THEN](commands/man_cs-if.md) statement does not have to be just one line long. You can also use what is called an IF block. This is simply several lines which allow the computer to make several comparisons or decisions. It also means you can use several lines to deal with each condition. That gives you great scope for making decisions.
 
 Lines **220** and **230** of the program opposite could have been written in a different way. The lines below could be used to replace **220** and **230** in the original program. They would have the same effect.
-```
+```basic
 220 IF THIS$=THAT$ THEN
 224   PRINT THIS$;" = ";THAT$
 230 ELSE
@@ -61,7 +61,7 @@ The reason is that the computer had just two alternatives. Either the two string
 [IF](commands/man_cs-if.md)/[THEN](commands/man_cs-if.md) statement.
 
 The example below is an [IF](commands/man_cs-if.md) block. It also uses a numeric function that you have seen once before (pages 5-6).
-```
+```basic
 100 RANDOMIZE
 110 LET A=RND(5)
 120 !	--------------------------------------
@@ -148,7 +148,7 @@ With [SELECT CASE](commands/man_cs-select.md), you can make very similar compari
 In the example which follows, notice the lack of the variable name in the [CASE](commands/man_cs-select.md) statements. **CASE 1,2,3** is right, **CASE X=1,2,3** is wrong – the variable to be tested has already been given by the [SELECT](commands/man_cs-select.md) line. Using [CASE](commands/man_cs-select.md) to make one decision out of several alternatives is, as you can see, shorter and clearer than using [IF](commands/man_cs-if.md)/[THEN](commands/man_cs-if.md).
 
 Just as with [END IF](commands/man_cs-if.md), you must mark the end of the [SELECT](commands/man_cs-select.md) block – in this case by typing [END SELECT](commands/man_cs-select.md).
-```
+```basic
 100 CLEAR SCREEN
 105 !	---------------------------------
 110 !	Line 100 clears the screen. Then
@@ -229,7 +229,7 @@ Just as with [END IF](commands/man_cs-if.md), you must mark the end of the [SELE
 1550 END
 ```
 Try writing a program to simulate a dice. You can do this using either [IF](commands/man_cs-if.md)/[THEN](commands/man_cs-if.md) or [SELECT CASE](commands/man_cs-select.md). Use a random number as in the program on page 66. This, of course, would have to be between **1** and **6**. So
-```
+```basic
 RND(6)+1
 ```
 would take care of that. Knowing you have six possible results, you shouldn't find it hard to do. Perhaps you could use graphics to put a picture of the dice on the screen.
@@ -237,7 +237,7 @@ would take care of that. Knowing you have six possible results, you shouldn't fi
 Remember that using [IF](commands/man_cs-if.md)/[THEN](commands/man_cs-if.md) as an [IF](commands/man_cs-if.md) block does not mean you have to use [ELSE](commands/man_cs-if.md). [ELSE](commands/man_cs-if.md) lines are optional, just like the number of possibilities mentioned within the block or the number of [CASE](commands/man_cs-select.md) selections.
 
 [CASE](commands/man_cs-select.md) can also have an '**ELSE** clause'. This is [CASE ELSE](commands/man_cs-select.md) – just like **CASE 1** or **CASE "HELLO"**. Notice that you can use [CASE](commands/man_cs-select.md) with strings as well, and that an advantage over [IF](commands/man_cs-if.md)/[THEN](commands/man_cs-if.md) is the ability to lump several 'truths' together with the same result – like this:
-```
+```basic
 CASE 1,3,5
 PRINT "These are odd numbers."
 ```

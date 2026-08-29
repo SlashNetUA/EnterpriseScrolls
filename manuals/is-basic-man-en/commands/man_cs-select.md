@@ -34,7 +34,7 @@ There can be any number of **CASE** lines. The cases are tested in order of line
 
 e.g. `CASE 1,2,3 TO 6,99`
 
-```
+```basic
 SELECT CASE N
 CASE 1
   PRINT "first case"

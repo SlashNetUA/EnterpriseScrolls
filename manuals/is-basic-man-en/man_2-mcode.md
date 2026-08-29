@@ -42,7 +42,7 @@ TEST: 29 ADD HL, HL	; add number to itself
       C9 RET
 ```
 – can be inserted into the BASIC program like this:
-```
+```basic
 100 ALLOCATE 2
 110 CODE TEST=HEX$("29,C9")
 ```
@@ -51,7 +51,7 @@ Once you have run this part of the program, the routine is stored in the memory 
 ## EXECUTING THE ROUTINE
 
 Broadly speaking, your code will create a new 'function'. In the chapter on defining functions, we divided these into two types. One type is designed to calculate a result – the 'built-in' functions come into this category. A good example is SIN, which calculates the sine of a specific angle when you type something like:
-```
+```basic
 PRINT SIN(53)
 ```
 The value to be processed (which you put between brackets) is called the argument of the function. Some built-in functions don't take an argument – [RND](functions/man_fn-rnd.md), for example – but all return a value, an 'answer'
@@ -63,11 +63,13 @@ The way your routine is executed depends on which of these two types it is. If i
 `USR(name,argument)`
 
 For example:
-```
+
+```basic
 PRINT USR(TEST,2)
 ```
 will print **4** on the screen; while
-```
+
+```basic
 LET A=3*USR(TEST,2)
 ```
 will assign the value of **12** to variable **A**.
@@ -79,20 +81,23 @@ If your routine is a command-type operation, you must use
 `CALL USR`
 
 – which does not return a value. For example:
-```
+
+```basic
 CALL USR(NAME,0)
 ```
 You must still give [USR](functions/man_fn-usr.md) an argument, but the value doesn't matter.
 
 'Commands' can be amalgamated as in the following example:
-```
+
+```basic
 CALL USR(CLEAR,0)+USR(GRAPH,0)+USR(PICTURE,0)
 ```
 
 ## WORD$
 
 [WORD$](functions/man_fn-word.md) converts its argument into a two-byte string – **LSB** **MSB** – so it's useful for forming backward jumps from labels. For example,
-```
+
+```basic
 WORD$(TEST)
 ```
 will return the start address of the TEST routine in the correct format for machine-code jumps and calls.

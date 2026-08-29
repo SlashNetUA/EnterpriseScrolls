@@ -90,7 +90,8 @@ Now you should have some idea of what variables you will need. They are (complet
 The first two variables will be entered in response to an [INPUT](commands/man_cs-input.md) statement. So you don't need to declare them. Now you know that you only need to declare two global variables at the beginning.
 
 The function can be written immediately. You don't have to tell the computer you're working with percentages – it wouldn't understand you. A percentage is only a certain number of hundredths.
-```
+
+```basic
 DEF DISCOUNT
   LET TOTDISC=(PRICE/100)*DISC
   LET NEWPRICE=PRICE-TOTDISC
@@ -105,7 +106,8 @@ Before you type anything into the computer, take a look at this diagram:
 The diagram shows the order in which the actual BASIC will appear, while the arrows show the order in which the program will operate if you follow them from the YOU INPUT box.
 
 First type in the variable declarations:
-```
+
+```basic
 100 NUMERIC TOTDISC, NEWPRICE
 110 !	Then the main program:
 120 DO
@@ -125,14 +127,16 @@ First type in the variable declarations:
 240 END
 ```
 That's the main program. Now all you need to do is add the function:
-```
+
+```basic
 250 DEF DISCOUNT
 260   LET TOTDISC=(PRICE/100)*DISC
 270   LET NEWPRICE=PRICE-TOTDISC
 280 END DEF
 ```
 If you [RUN](commands/man_cs-run.md) this program now, you'll find it works, but it is really only the bones of a program which need some padding. The program below is essentially the same, but far tidier than what you have just typed in. Anything you don't understand should appear in the **!** lines (there are plenty of those!).
-```
+
+```basic
 100 NUMERIC TOTDISC, NEWPRICE
 120 CLEAR SCREEN
 160 PRINT AT 9,5:"A PROGRAM TO WORK OUT DISCOUNTS"
@@ -179,7 +183,8 @@ The program above has one small defect. When it asks you if you want to work out
 This may not make a crucial amount of difference to your programs now, but it will when they get longer and more complicated. It's very frustrating to make a typing error which either makes the program finish before you want it to, or just crashes it altogether. Crash is a very expressive word. Crashing a program means making something go so wrong that the computer stops running it and jumps into immediate mode, so that you have to run the program again. This can be caused by all sorts of things, but normally happens because you write a program which tries to do something that is illegal in BASIC. This is known as a fatal error.
 
 The program below doesn't provide all the answers, but it does show you how you can make sure a program won't end or fail to work because you type in the wrong input.
-```
+
+```basic
 100 DO
 110   !	-------------------------------------
 120   !	The whole program is a large DO/

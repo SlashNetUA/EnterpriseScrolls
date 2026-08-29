@@ -122,7 +122,7 @@ If we now type:
 
 this will result in the copyright message being displayed, followed by a list of EXDOS commands. An explanation of the functions and use of these commands is given in the command reference section of this manual ([chapter 8](exdos-8command-reference.md)).
 
-> [!NOTE]
+> [!Note]
 > EXDOS commands may be entered in upper or lower case letters. When using commands from the BASIC editor screen, they must be preceded by a colon (`:`). The use of EXDOS commands from within a BASIC program and from the word processor are described later in this manual.
 
 Before carrying out some simple disk operations, we will take a brief look at the EXDOS "command interpreter". This has its own **20** line × **38** column screen and is called by typing:

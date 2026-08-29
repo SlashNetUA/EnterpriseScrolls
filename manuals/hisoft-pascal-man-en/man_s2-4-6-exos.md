@@ -12,7 +12,7 @@ This has changed on version **1.2**, the Exos command has been modified to proce
 
 The using of EXOS() now is like this:
   
-```
+```pascal
 procedure ToggleVar(x:integer);
 begin
 	rb:=chr(2);
@@ -21,7 +21,7 @@ begin
 end;
 ```
 
-```
+```pascal
 procedure SetTime(hour,min,sec:integer);  
 begin  
 	rc:=chr(tobcd(hour));  

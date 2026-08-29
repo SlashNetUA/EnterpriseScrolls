@@ -24,7 +24,7 @@ Languages are made up with definite limits and types of task in mind. Some are e
 The language you are learning through this manual is known as BASIC. It uses words with similar spelling and meaning to English words. It is therefore very easy to learn and understand, even if you are inexperienced with computers. All the programs in this manual are in BASIC, and it is the language the computer understands as long as the IS-BASIC cartridge is plugged in. Remember that, from now on, all the instructions and all the information in this manual relate to BASIC. Some other languages are totally different in both philosophy and approach, and they usually look completely different from BASIC.
 
 Look at this:
-```
+```basic
 10 PRINT "Hello!"
 ```
 You will know by now that it's a program line – it's one small task which could make up part of a bigger one. Just as, in a story, each sentence tells you something, so each line in a program tells the computer to do something. If you want to tell the computer to carry out a task, you will need several lines to do it.

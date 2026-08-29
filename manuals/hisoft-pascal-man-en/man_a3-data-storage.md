@@ -149,7 +149,7 @@ These individual cases are discussed below and an example of how to use this inf
 
 Global variables are allocated from the top of the runtime stack downwards e.g. if the runtime stack is at **£B000** and the main program variables are:
 
-```
+```pascal
 VAR	i:INTEGER;
 	ch:CHAR;
 	x:REAL;
@@ -166,7 +166,7 @@ then:
 
 Local variables cannot be accessed via the stack very easily so, instead, the **IX** register is set up at the beginning of each inner block so that (**IX-4**) points to the start of the block's local variables e.g.
 
-```
+```pascal
 PROCEDURE test;
 VAR	i,j:INTEGER;
 ```
@@ -180,7 +180,7 @@ then:
 
 Value parameters are treated like local variables and, like these variables, the earlier a parameter is declared the higher address it has in memory. However, unlike variables, the lowest (not the highest) address is fixed and this is fixed at (**IX+2**) e.g.
 
-```
+```pascal
 PROCEDURE test(i:REAL; j:INTEGER);
 ```
 then:
@@ -191,7 +191,7 @@ then:
 
 Variable parameters are treated just like value parameters except that they are always allocated **2** bytes and these **2** bytes contain the address of the variable e.g.
 
-```
+```pascal
 PROCEDURE test(i:INTEGER; VAR x:REAL);
 ```
 then:
@@ -200,7 +200,7 @@ the reference to **x** is placed at **IX+2** and **IX+3**; these locations conta
 
 Returned values of functions are placed above the first parameter in memory e.g.
 
-```
+```pascal
 FUNCTION test(i:INTEGER):REAL;
 ```
 then **i** is at **IX+2** and **IX+3** and space is reserved for the returned value at **IX+4**, **IX+5**, **IX+6** and **IX+7**.

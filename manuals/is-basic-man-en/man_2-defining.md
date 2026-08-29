@@ -6,7 +6,7 @@ title: "IS-Basic Manual. Defining Functions"
 A function is a kind of 'program within a program', designed to carry out some specific task – a sequence of instructions which is set aside for use whenever you need it, and can be utilized again and again.
 
 As a simple example, suppose that you want a particular message to be displayed on the screen at various different stages of a program. You could define this action as a function, by typing something like:
-```
+```basic
 100 DEF WARNING
 110   CLEAR SCREEN
 120   PRINT AT 10,7:"NOW PAY CLOSE ATTENTION..."
@@ -21,7 +21,7 @@ You always have to give the function a name (in this case **WARNING**), and intr
 ## CALLING FUNCTIONS
 
 The function cannot work on its own. Type in the above lines, and try to run them; for the moment, nothing will happen. The function needs to be activated by the statement `CALL WARNING`. Type this as line **180**, and run the program; then type the same instruction in immediate mode. Note that the definition of the function may come after the [CALL](commands/man_cs-call.md) statement – or indeed after the [END](commands/man_cs-end.md) statement of the program. If, instead of line **180**, you typed:
-```
+```basic
 80 CALL WARNING
 90 END
 ```
@@ -38,7 +38,7 @@ Remember that a function is inactive as long as you don't actually tell the comp
 Usually, functions will handle variables. To make them do this correctly, some important rules must be followed.
 
 Try typing this:
-```
+```basic
 100 DEF CUBE
 110   INPUT PROMPT "Number to be cubed: ":Z
 120   PRINT Z; " cubed is ";Z*Z*Z
@@ -46,7 +46,7 @@ Try typing this:
 140 CALL CUBE
 ```
 — and after running it, add:
-```
+```basic
 150 PRINT Z
 ```
 — and run it again. You will then find that although the **CUBE** function still works, the computer gives an error message when it comes to line **150**. Why is this?
@@ -58,7 +58,7 @@ Next, renumber line **110** as **90** – to place it outside the function. You 
 The reason is that by introducing **Z** before the function is called, you have made **Z** into a **global** variable. A 'global' variable is one that is available to the general 'world' of the program.
 
 Now add:
-```
+```basic
 125 LET Z=20
 ```
 — and run the program again. What now happens is that the function takes the number out of the 'box' (labelled **Z**) in the 'main' part of the program, performs a calculation with it and prints the result, then alters the number itself and puts it back in the same box as before. The 'main program' then prints out this new number.
@@ -68,7 +68,7 @@ The point to remember is that if a function contains a line which mentions a var
 You will have read about declaring variables in earlier parts of the manual. (If you need a recap on this, look at pages 24 and 75.) It was stated that, although this is not always essential, it is best to declare every variable you use. Obviously, declaring variables is especially important if you are making much use of functions.
 
 A variable, as you know, can be declared by a [NUMERIC](commands/man_cs-numeric.md) or [STRING](commands/man_cs-string.md) statement, or by the word [LET](commands/man_cs-let.md) (e.g. `LET A=0`). In previous examples, it didn't much matter which of these forms of declaration was used; but their effects must be precisely understood when you are working with functions. Inside a function, a [NUMERIC](commands/man_cs-numeric.md) (or [STRING](commands/man_cs-string.md)) statement always has the effect of creating a local variable. In the program above (after renumbering the original line **110**), try adding:
-```
+```basic
 110 NUMERIC Z
 115 LET Z=3
 ```
@@ -77,7 +77,7 @@ You will then find that the program operates with two quite separate **Z**'s, on
 The program below contains some rather more complex examples of functions. It's a restructured version of an earlier program which appeared in the chapter about decisions. Apart from showing you what functions look like within a program, it will also demonstrate that there are always several ways of putting a program together. Some look nice, some look horrible, some are incomprehensible, some are very efficient and others are quite the opposite. If you look at the program as a whole, you will probably agree that this version of it is much tidier.
 
 As long as you want the computer to print more names on the screen, the program will not end. You will have to type '**N**' when asked, to finish it.
-```
+```basic
 100 DO
 110   LET A=0
 120   LET A$=""
@@ -157,7 +157,7 @@ So far we have been using functions that are activated with [CALL](commands/man_
 Several functions of this kind are supplied 'ready-made' by the computer. Take [SQR](functions/man_fn-sqr.md) for instance. A program line can contain the statement `PRINT SQR(121)`, or `PRINT SQR(P)`, or `LET M=2*SQR(N)+1`. The function [SQR](functions/man_fn-sqr.md) calculates the square root of the bracketed number or variable, then lets you use this square root as part of an 'expression' or do whatever else you want with it. You are also familiar with the function [INT](functions/man_fn-int.md). Such BASIC words give you the means to perform, quickly and easily, calculations that you may need often.
 
 Suppose you were writing a program that made use of several 'factorial' numbers (factorial **4** means **4\*3\*2\*1**; factorial **6** is **6\*5\*4\*3\*2\*1**; etc.). There is no ready-made function to calculate factorials. But if you wanted, you could devise one by the methods you have so far learned. You could type:
-```
+```basic
 100 DEF FACT
 110   !	--------------------------
 120   !	This funclion will take a
@@ -172,7 +172,7 @@ Suppose you were writing a program that made use of several 'factorial' numbers 
 200 END DEF
 ```
 And then, in order to print (say) factorial **13**, or use factorial **7** in an 'expression', you could add:
-```
+```basic
 210 LET F=13
 220 CALL FACT
 230 PRINT F
@@ -182,7 +182,7 @@ And then, in order to print (say) factorial **13**, or use factorial **7** in an
 270 PRINT NUMBER
 ```
 But this, as you can see, is a good deal more cumbersome than using a BASIC word like [SQR](functions/man_fn-sqr.md), because every time the function **FACT** is called, the number on which you want it lo operate has first to be placed in the variable **F**. However, the computer offers you ways of overcoming this limitation. Delete all of the above, and type instead:
-```
+```basic
 100 DEF FACT(X)
 110   FOR Y=X -1 TO 1 STEP -1
 120     LET X=X*Y
@@ -200,23 +200,23 @@ The two things about the above program which are new to you are lines **100** an
 ## DUMMY VARIABLES
 
 In technical terms, the bracketed **X** in line **100** above is known as a dummy variable. It tells the function to expect one number to be handed to it for processing. (The final example in this chapter will show you a function with two dummy variables, telling it to expect two numbers.) That number may, however, be supplied by a global variable in the main program. Delete lines **160**-**180**. and substitute:
-```
+```basic
 160 LET A=11
 170 PRINT FACT(A)
 ```
 What happens now is that the function looks into box **A** and makes a note (takes a copy) of the number it sees there. It then puts an identical number into its own box **X**, which it uses for its calculations – during which the number in box **X** changes, but the one in box **A** stays the same.
 
 The particular way that the dummy variable works is seen if you alter lines **160** and **170** to:
-```
+```basic
 160 LET X=11
 170 PRINT FACT(X)
 ```
 You have now defined a global variable with the same name as the function's dummy variable. But you will find that the program still treats these two 'boxes' as separate, even though at the beginning of the function a number is 'copied' from one box to the other. You could add an extra line to the function:
-```
+```basic
 145 LET X=100
 ```
 – and an extra line to the 'main' program:
-```
+```basic
 180 PRINT X
 ```
 – but you would find that line **180** printed **11**, not **100**. Line **145** alters the 'local' **X** only.
@@ -228,7 +228,7 @@ You have just seen a function, using a dummy variable, perform a calculation wit
 It is a different matter if you put **REF** (for 'reference') in front of the dummy variable – as the following simple example will show.
 
 This program allows you to type in two numbers – for **A** and **B** – and then it changes them by raising **A** to the power of **B**, and **B** to the power of **A**:
-```
+```basic
 100 INPUT PROMPT "First Number":A
 110 INPUT PROMPT "Second Number":B
 120 CALL POWERS(A,B)

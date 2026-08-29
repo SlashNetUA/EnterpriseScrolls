@@ -20,7 +20,7 @@ next-line
 
 The structure of a **FOR** loop is defined as a block, with a **FOR** line, the loop body, and a **NEXT** line. **FOR** and **NEXT** cannot be placed on a conditional line. Allowed in Minimal BASIC.
 
-```
+```basic
 FOR Y=0 TO 10 STEP 2
   PRINT Y
 NEXT Y

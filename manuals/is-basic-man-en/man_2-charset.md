@@ -12,7 +12,7 @@ The computer uses these codes to refer to characters inside itself, but you won'
 As far as you are concerned, all that happens is that you press a key and the character appears at the same time. This is an example of how fast a computer works, especially when you consider that the operation described above is actually far more complex; each phase of that task is broken down into far smaller operations.
 
 Here is a program which will print out the whole character set and then allow you to type in a character for which the ASCII code will be printed:
-```
+```basic
 100 FOR N=33 TO 159
 110   !	----------------------------------
 125   !	There are 128 pre-set characters.
@@ -58,7 +58,7 @@ Now you've read about ASCII codes, a few words on making up your own character s
 Imagine a character is made up of nine rows of eight little lanterns. To form a character shape, some lanterns will be lit and others will not. This forms a pattern of tiny dots which are so small and so close together they appear to join up. So to design or redesign a character, it's helpful to draw a square grid of **8**×**9** spaces. Then you can form a character by putting dots in the appropriate squares.
 
 Now, to program this information into your computer you need to imagine all the dots are **1**s and all the blanks are **0**s. By looking at each row you can put together a sequence of **0**s and **1**s. The program below designs a little character and then prints it.
-```
+```basic
 100 NUMERIC N(1 TO 9)
 110 !	---------------------------------------
 120 !	A standard character is 8 dots wide and

@@ -8,7 +8,7 @@ title: "HiSoft Pascal Manual. 1.5 Constant"
 The non-standard **CHR** construct is provided here so that constants may be used for control characters. In this case the constant in parentheses must be of type integer.
 
 E.G.
-```
+```pascal
 CONST	bs=CHR(8);
-	cr=CHR(13);
+		cr=CHR(13);
 ```

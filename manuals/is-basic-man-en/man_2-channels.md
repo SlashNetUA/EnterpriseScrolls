@@ -15,7 +15,7 @@ If, on the other hand, you wished to make the message appear on the printer inst
 When the computer is turned on, it automatically connects channel **104** to the printer socket. So any message sent to channel **104** goes on to the printer.
 
 You can also refer to channel numbers by using variable names, so the program itself can choose where to send a message.
-```
+```basic
 120 INPUT PROMPT "Please enter a message: ":A$
 130 PRINT
 140 PRINT "Where would you like the message repeated?"

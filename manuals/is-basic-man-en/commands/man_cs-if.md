@@ -37,7 +37,7 @@ There can be any number of **ELSE IF** lines.
 
 **IF** blocks can contain any statement which is not restricted to immediate mode.
 
-```
+```basic
 IF A<10 THEN
   PRINT A
 ELSE IF A>30 AND A<=40 OR A>50 THEN

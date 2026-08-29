@@ -25,7 +25,7 @@ Two ways of branching within a program are [GOTO](commands/man_cs-goto.md) and [
 ## GOTO
 
 [GOTO](commands/man_cs-goto.md) uses a line number to tell the computer where to move to next. Like this:
-```
+```basic
 100 CLEAR SCREEN
 110 INPUT PROMPT "Do you like computers? ":SAY$
 120 IF UCASE$(SAY$(1:1))="Y" THEN
@@ -49,15 +49,15 @@ Two ways of branching within a program are [GOTO](commands/man_cs-goto.md) and [
 250 END
 ```
 So [GOTO](commands/man_cs-goto.md) directs the computer to a line number. You can also use it as a loop. If you changed line **250** to:
-```
+```basic
 250 INPUT PROMPT" Would you like to do that again? ":A$
 ```
 And added line **260**:
-```
+```basic
 260 IF UCASE$(A$(1:1))="Y" THEN GOTO 100
 ```
 (and line `270 END`), then the program would loop back to the beginning if you responded with '**yes**'. This is the same as making a [DO/LOOP](commands/man_cs-do.md) out of this program, ending in:
-```
+```basic
 260 LOOP WHILE UCASE$(A$(1:1))="Y"
 ```
 Although the computer would not be working out what to do in exactly the same way for both methods, the result would be the same.
@@ -87,7 +87,7 @@ If this happens, and the computer reads the word [RETURN](commands/man_cs-return
 The best way to avoid this problem with [GOSUB](commands/man_cs-gosub.md) is to put all your subroutines at the physical end of your programs. Then, immediately before they start, put the [END](commands/man_cs-end.md) statement or a [STOP](commands/man_cs-stop.md) command. This tells the computer to end the program before it has a chance to read the subroutines again.
 
 The following program shows an example of this technique:
-```
+```basic
  80 CLEAR SCREEN
 100 PRINT AT 1,5:"POPULATION TO LIVING SPACE"
 110 PRINT AT 2,9:"RATIO PROGRAM"
@@ -152,7 +152,7 @@ A look back on the chapter about storing larger amounts of information will remi
 `DIM A(10)` will set aside a one-dimensional array with elements numbered **0**-**10**. `DIM A(4,4)` will set aside a two-dimensional array using the same element-numbering system. You can use `(X TO Y)` to specify a range of numbers to be given to your array's elements, as you would using [STRING](commands/man_cs-string.md) or [NUMERIC](commands/man_cs-numeric.md). What is missing, though, is the ability to decide how long each string element may be. When you write very long programs which use several string arrays, you will perhaps realize how useful this can be, because you can use it to conserve memory space.
 
 [DIM](commands/man_cs-dim.md) is only provided for compatibility with other BASICs. Here is a short program to demonstrate it. Note that `DIM ARRAY$(9)` is the same as `STRING ARRAY$(9)` – the bottom element is always **0** unless you specify a different number.
-```
+```basic
 100 DIM ARRAY$(9)	!	a 10 element array
 110 FOR N=0 TO 9
 120   READ ARRAY$(N)

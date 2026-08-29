@@ -20,7 +20,7 @@ Here are the rest, just to make sure:
 
 The last five operators are known as 'relational operators'. Their main use on a computer is in handling variables – for instance:
 
-```
+```basic
 10 INPUT PROMPT "Please type in a number: ":A
 20 !	----------------------------------
 30 !	Line 10 asks for a number which is

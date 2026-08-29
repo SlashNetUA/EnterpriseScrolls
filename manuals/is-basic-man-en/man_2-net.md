@@ -8,7 +8,8 @@ The Enterprise is able to communicate with other computers using a simple wire c
 The advantage of a net is that many computers can be joined up together, but when one computer wants to talk to another the remaining computers stay out of the conversation – just like a telephone system.
 
 Your computer does not have a pre-set number in the same way as a telephone does; when you connect up to the net you must select a number for it, by typing for example:
-```
+
+```basic
 SET NET NUMBER 5
 ```
 The net number can be anything from **1** to **32**. You can use [ASK NET NUMBER](options/man_mo-net-number.md) to remind yourself of the number you have selected.
@@ -20,13 +21,15 @@ Once your computer has been given a net 'address' number, it is a simple matter 
 On the computer which will be receiving the program, type `LOAD "NET-0:"`. This will allow you to accept a program sent from any other computer on the net.
 
 Alternatively, if you only want to receive a program sent from one specific computer, type `LOAD "NET-n:"`( where '**n**' is the net number of the other computer. For example:
-```
+
+```basic
 LOAD "NET-17:"
 ```
 will attempt to load a program from the computer with net number **17**.
 
 Of course, instructions will have to be given on the other computer to send the program. Computer number **17** would have to be given the instruction
-```
+
+```basic
 SAVE "NET-5:"
 ```
 This would send the current program on computer **17** to computer **5**.
@@ -42,7 +45,8 @@ This facility is very useful if you have a short message for all other computers
 One problem with broadcast transmissions is that they are not a very reliable means of communication. With a directed signal, sent to a particular computer, the message is re-transmitted until the receiving computer acknowledges that the message has arrived safely. With broadcast signals, this is not possible. It is also not possible to automatically slow down the speed of transmission to a rate which matches the ability of the receiving computer to deal with the information.
 
 So, the instruction
-```
+
+```basic
 SAVE "NET-0:"
 ```
 will send a program for all computers to hear, but there is a strong possibility that the program will not be received correctly. Also the sending computer will not know whether or not the transfer has been successful.
@@ -60,13 +64,15 @@ Note that if you have a special channel open to another machine, you will receiv
 ## COMMUNICATION CHANNELS
 
 For detailed use of the net, a channel is opened specifically for communication with one machine. This is done using the normal conventions for opening channels.
-```
+
+```basic
 OPEN £110:"NET-17:"
 ```
 will open channel number **110** for two-way communication with computer number **17**.
 
 This channel can thereafter be used with normal input/output instructions, eg
-```
+
+```basic
 PRINT £110:"This is message for computer 17"
 LINE INPUT £110:A$	! A$ will receive line from computer 17
 ```
@@ -77,7 +83,8 @@ Because the messages sent between computers on the net are buffered (held in mem
 `CLEAR £chan:NET` will clear the input and output buffers. The computer will not accept any message from another computer on one particular channel until its receiving buffer is clear. This is to prevent corruption of data before it has been used by the receiving computer.
 
 If there is data not yet removed from the receiving buffer (by [INPUT](commands/man_cs-input.md) instruction, for example), and this data can be discarded, then the [CLEAR](commands/man_cs-clear.md) instruction should be used. If there is data not yet sent, use [FLUSH](commands/man_cs-flush.md) before [CLEAR](commands/man_cs-clear.md).
-```
+
+```basic
 PRINT £110:"Message for computer 17"
 FLUSH £110
 CLEAR £110:NET

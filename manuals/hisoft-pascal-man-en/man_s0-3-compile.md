@@ -9,7 +9,7 @@ For example type the following immediately after you have loaded the Pascal (i.e
 
 `I10,10` **Enter**
 
-```
+```pascal
 PROGRAM FACT;
 VAR I:INTEGER;
 	FUNCTION FACT(N:INTEGER):REAL;
@@ -63,13 +63,13 @@ During a run of the object code various runtime error messages may be generated 
 
 When using HiSoft Pascal the function keys are programmed as follows:
 
-|Key Number|Without Shift|With Shift    |
-|:--------:|:------------|:-------------|
-|F1         |HELP *[ENTER]* |READ(         |
-|F2         |PROGRAM      |WRITE(        |
-|F3         |CONST *[ENTER]*|INTEGER       |
-|F4         |TYPE *[ENTER]* |WRITELN       |
-|F5         |VAR *[ENTER]*  |WHILE         |
-|F6         |BEGIN *[ENTER]*|UNTIL         |
-|F7         |END          |REPEAT *[ENTER]*|
-|F8         |PROCEDURE    |FUNCTION      |
+| Key Number | Without Shift   | With Shift       |
+|:----------:|:--------------- |:---------------- |
+|     F1     | HELP *[ENTER]*  | READ(            |
+|     F2     | PROGRAM         | WRITE(           |
+|     F3     | CONST *[ENTER]* | INTEGER          |
+|     F4     | TYPE *[ENTER]*  | WRITELN          |
+|     F5     | VAR *[ENTER]*   | WHILE            |
+|     F6     | BEGIN *[ENTER]* | UNTIL            |
+|     F7     | END             | REPEAT *[ENTER]* |
+|     F8     | PROCEDURE       | FUNCTION         |

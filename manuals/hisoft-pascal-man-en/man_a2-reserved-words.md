@@ -22,20 +22,20 @@ The following entities may be thought of a declared in a block surrounding the w
 
 For further information see [Section 2](man_s2-0-index.md).
 
-```
+```pascal
 CONST	MAXINT=32767;
 ```
 
-```
+```pascal
 TYPE BOOLEAN=(FALSE,TRUE);
      CHAR (The expanded ASCII character set);
      INTEGER=-MAXINT..MAXINT;
      REAL (A subset of the real numbers. See Section 1.3.)
 ```
 
-```
+```pascal
 PROCEDURE	WRITE; WRITELN; READ; READLN; PAGE; HALT; USER; POKE; INLINE; NEW; MARK; RELEASE; OUT; TIN; TOUT; RANSEED
 ```
-```
+```pascal
 FUNCTION	ABS; SQR; ODD; RANDOM; ORD; SUCC; PRED; INCH; EOLN; PEEK; CHR; SQRT; ENTIER; ROUND; TRUNC; FRAC; SIN; COS; TAN; ARCTAN; EXP; LN; ADDR; SIZE; INP; EXOS; MAKESTR;
 ```

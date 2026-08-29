@@ -8,7 +8,7 @@ Now that you know all about program lines, immediate mode and keywords, let's br
 Imagine two boxes, labelled **X** and **Y**. Into each box we can put a number. Later, this number may be taken out and replaced with a new one.
 
 We are now going to tell the computer that each time we [RUN](commands/man_cs-run.md) the following program and put a pair of numbers into the two boxes, we want it to add together the contents of **X** and those of **Y**.
-```
+```basic
 10 !	------------------------------
 20 !	60 and 70 ask you to type in
 25 !	numbers. They wait for your
@@ -48,7 +48,7 @@ Note how the use of comments makes the program easier to understand. They are no
 [INPUT PROMPT](commands/man_cs-input.md) (see the program on page 20) is the set of keywords which tells the computer to ask you a question and then wait for you to enter an answer.
 
 If you use [INPUT](commands/man_cs-input.md) by itself, without adding **PROMPT** followed by a few words in inverted commas (which are there for your benefit), the computer will ask its question merely by displaying a question mark and the red cursor. The words after **PROMPT** can be anything you like; and are just there to remind you of what you are supposed to type in. They must always be entered between inverted commas (although these don't appear on the screen). Another way of giving an 'input prompt' is this:
-```
+```basic
 10 PRINT "Type in number X;
 20 INPUT X
 30 PRINT "Type in number Y;
@@ -67,7 +67,7 @@ Look back on the first pages of the manual. All the programs you tried out then 
 At other times it is convenient to use variable names for very long numbers which will be used several times. This means you don't have to keep on typing them again each time you want them to be used in a program.
 
 Here's another use for variables.
-```
+```basic
 10 LET A=0 !          A begins as 0.
 20 DO !               DO/LOOP begins.
 30   LET A=A+1 !      Add 1 to A.
@@ -140,7 +140,7 @@ The computer expects the variable which is changing or being declared to follow 
 If you want to, you can use a BASIC word as a variable name. But if you do, you must use [LET](commands/man_cs-let.md) to tell the computer to look out for a variable with the same name as one of the words it understands. There are some BASIC words which cannot be used as variable names – a bit of experimentation will soon tell you which ones these are. (A more versatile way of declaring variables is explained on page 73, in the chapter on storing information)
 
 Overpage is another program illustrating all the principles you've just read about. This time each line is explained in the light of your new knowledge about these variables.
-```
+```basic
 10 LET A$="The sum of the two numbers is: "
 20 !	--------------------------------
 30 !	10 declares string variable A$.

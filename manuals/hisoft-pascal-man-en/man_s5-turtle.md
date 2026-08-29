@@ -129,7 +129,7 @@ This concludes the list of facilities available with HiSoft Pascal TURTLE; altho
 In all the example programs given below we assume that you have already loaded HiSoft Pascal and used `G,, ` **Enter** to load the Turtle Graphics package. Then use `N10,10` **Enter** to renumber the program to make editing easier. Next type `D2150,2260` to delete the main part of the demonstration program. Now we are ready to type the example programs:
 
 ### 1. CIRCLES
-```
+```pascal
 75 I:INTEGER;
 
 2150 SETXY(600,350);
@@ -145,7 +145,7 @@ In all the example programs given below we assume that you have already loaded H
 
 `D2180,2210`
 
-```
+```pascal
 2150 SETXY(600,350);
 2160 SPIRALS(9,95,9);		(or (9,90,9) or (9,121,9) ... )
 2170 READLN;
@@ -155,7 +155,7 @@ In all the example programs given below we assume that you have already loaded H
 
 `D1830,2090`
 
-```
+```pascal
 1830 PROCEDURE PETAL(S:REAL);
 1840 BEGIN
 1850  ARCR(S,60);

@@ -14,7 +14,7 @@ If you run a program with some sort of mistake in it, the computer will, if the 
 BASIC also allows for you to make up your own exceptions. These must be numbered from **1** to **999** and they can be used to deal with wrongly typed input (e.g. a number which is too big or small) or another unusual condition recognized by a program.
 
 Let's begin looking at exception handling by causing one within a program and then dealing with it using exception handler statements.
-```
+```basic
  50 WHEN EXCEPTION USE INPUT_ERROR
  60   !--------------------------------------
  65   ! 50 tells the computer to use the

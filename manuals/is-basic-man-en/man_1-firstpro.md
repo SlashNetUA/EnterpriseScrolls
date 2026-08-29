@@ -5,7 +5,7 @@ title: "IS-Basic Manual. First Programs"
 
 Try typing in the contents of the box below. Computers are a bit funny about little mistakes, so check your typing before you finish. Remember that you must press the key marked 'enter' at the end of each line. Don't forget the numbers which begin the lines, they're important too. However, you needn't worry about the blank spaces which appear after the numbers. The Enterprise can put spaces in automatically, to make programs look neater. Notice that computers use a special symbol for nought (**0**), to distinguish it from the capital letter **O**.
 
-```
+```basic
 100 GRAPHICS
 110 PLOT 640, 360,
 120 !
@@ -76,7 +76,7 @@ Using this computer you can produce all kinds of sounds and many colours very ea
 The programs on the following pages are simple examples of the Enterprise's talents.
 
 Try them all! They are just a few things you can do with this machine. In this book you will find out how to do all of them for yourself - plus a lot more. Don't forget to use [TEXT](commands/man_cs-text.md) to get a full screen to type onto when you want it. You can also use [CLEAR SCREEN](commands/man_cs-clear.md) to empty the TV screen when it gets full. These commands don't actually remove any program lines from the computer's memory; you can view the whole program again any time you like, by typing [LIST](commands/man_cs-list.md).
-```
+```basic
 10 PROGRAM "Fire-tunnel"
 20 !
 30 ! This program draws a
@@ -111,7 +111,7 @@ Try them all! They are just a few things you can do with this machine. In this b
 1090 END DEF
 ```
 
-```
+```basic
 100 ! This program will draw boxes.
 110 !
 120 ! 100-140 are comment lines.
@@ -161,7 +161,7 @@ Try them all! They are just a few things you can do with this machine. In this b
 560 END ! This is the end of the program.
 ```
 
-```
+```basic
 100 ! This program sorts 10 numbers
 106 ! into numerical order.
 108 ! ------------------------------------------
@@ -195,7 +195,7 @@ Try them all! They are just a few things you can do with this machine. In this b
 390 END
 ```
 
-```
+```basic
 100 ! This program gives the
 110 ! area/circumference of circles.
 120 ! ----------------------------------------
@@ -240,7 +240,7 @@ Remember always that whatever you type will do the computer no harm at all. The 
 `250 FOR X=1 TOO 10`
 
 In that case, after running the first part of the program, the computer would stop and the screen would show:
-```
+```basic
 *** Not understood.
 250 FOR X=1 TOO 10
 ```

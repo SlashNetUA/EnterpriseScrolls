@@ -15,7 +15,7 @@ Remember – the computer can't tell you about other kinds of mistake in the sam
 
 If the program is already running when a problem arises which makes it impossible to continue, the error message will contain the relevant line-number; for example:
 
-```
+```basic
 *** Invalid argument to SQR
 300 PRINT SQR(Y)
 ```
@@ -177,5 +177,5 @@ Errors like a division by zero, or a negative [SQR](functions/man_fn-sqr.md) arg
 
 ----
 
-> [!NOTE]
+> [!Note]
 > message "Statement not allowed after THEN" not only after lines with THEN but sometimes when the line was too long. Sometimes it stands for "Identifier too long". It must be an IS-BASIC bug.

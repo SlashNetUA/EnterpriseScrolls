@@ -17,7 +17,7 @@ _It does not matter whether the computer is on or off when you do this!_
 
 Next, you have to give your program a name. For the purposes of clarity we'll assume you're calling it 'myprog'. The name can be up to twenty-eight characters long, and may contain letters, numbers and the following punctuation marks: `.`, `-`, `_`, ` ` and `/`. You could call the program '**My-program-number-1**' if you wanted to. Type:
 
-```
+```basic
 SAVE "myprog"
 ```
 
@@ -44,7 +44,7 @@ Of course, you may want to check that your program has been saved onto the tape 
 
 First wind the tape back to where it was when you began saving the program. (If the remote control facility is being used, the computer will probably be disabling the rewind on the recorder. If this is so, type [TOGGLE REM2](functions/man_fn-rem.md) or press the '**Shift**' key in conjunction with **Function key 4**.) Then type:
 
-```
+```basic
 VERIFY "myprog"
 ```
 
@@ -81,7 +81,7 @@ The method with the tape recorder is exactly the same as for loading ([MERGE](co
 
 So make sure your tape is at the beginning of the program you wish to MERGE, and that you are sure all the line numbers are right. Then type
 
-```
+```basic
 MERGE "newprog"
 ```
 

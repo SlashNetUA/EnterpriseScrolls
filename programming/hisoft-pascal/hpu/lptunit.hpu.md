@@ -1,6 +1,6 @@
 {set Translate stack and Compiler stack to 0BF00H !!!}
 
-```
+```pascal
  ..:: LPT unit ::..
 
   PixelTable   = #BF00
