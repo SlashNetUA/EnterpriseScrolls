@@ -68,14 +68,23 @@ document.addEventListener("DOMContentLoaded", function () {
     const firstP = bq.querySelector("p");
     if (!firstP) return;
 
-    // Перевіряємо, чи починається перший параграф з [!
     const text = firstP.textContent.trim();
     if (text.startsWith("[!")) {
-      // Додаємо клас для CSS-стилей
+      // 1. Додаємо клас до всієї цитати
       bq.classList.add("obsidian-callout");
 
-      // Прибираємо [! та ] з тексту заголовка
-      firstP.innerHTML = firstP.innerHTML.replace(/^\[!([^\]]+)\]/, '$1');
+      // 2. Виділяємо заголовок та решту тексту
+      const match = firstP.innerHTML.match(/^\[!([^\]]+)\]\s*(.*)/s);
+      if (match) {
+        const titleText = match[1];
+        const restOfText = match[2];
+
+        // 3. Створюємо окремий елемент для заголовка з власним класом
+        const titleElement = `<div class="callout-title">${titleText}</div>`;
+
+        // 4. Перезаписуємо вміст: Заголовок + Новий рядок + Основний текст
+        firstP.innerHTML = `${titleElement}<div class="callout-content">${restOfText}</div>`;
+      }
     }
   });
 });
@@ -134,8 +143,8 @@ a:hover, a:focus {
 }
 
 
-/* Базові стилі для самого блоку (фон, рамка, радіус, відступи) */
-blockquote, blockquote.obsidian-callout {
+/* Базовий контейнер цитати */
+blockquote.obsidian-callout {
   border-left: 4px solid #29782d !important;
   background-color: #f5fff3 !important;
   padding: 12px 16px !important;
@@ -143,18 +152,18 @@ blockquote, blockquote.obsidian-callout {
   border-radius: 6px !important;
 }
 
-/* Примусово застосовуємо колір до тексту та абзаців усередині цитати */
-blockquote, 
-blockquote p, 
-blockquote.obsidian-callout p {
-  color: #20300c !important;
-}
-
-/* Якщо всередині є заголовок (перший параграф) */
-blockquote.obsidian-callout > p:first-child {
+/* Окремий стиль для ЗАГОЛОВКА */
+blockquote.obsidian-callout .callout-title {
   font-weight: bold;
-  color: #29782d !important; /* Насиченіший зелений для заголовка */
-  margin-bottom: 8px;
+  color: #29782d !important;
+  font-size: 1.05em;
+  margin-bottom: 8px; /* Створює чіткий відступ від заголовка до основного тексту */
+  display: block;      /* Гарантує переведення рядка */
 }
 
+/* Окремий стиль для ОСНОВНОГО ТЕКСТУ */
+blockquote.obsidian-callout .callout-content {
+  color: #20300c !important;
+  line-height: 1.5;
+}
 </style>

@@ -12,7 +12,7 @@ With one exception ([GOTO](commands/man_cs-goto.md), which can be treated as a l
 ## DO/LOOPS
 
 Let's deal with the easiest kind first, [DO](commands/man_cs-do.md)/[LOOP](commands/man_cs-do.md)s. You have already come across these. They look like this:
-```
+```BASIC
 80 INPUT PROMPT "Please type in a number and I'll print the 'times table' for it. ":A
 90 LET B=A
 100 DO !	Beginning of DO/LOOP
@@ -51,7 +51,7 @@ Try changing the loop above by using a [WHILE](commands/man_cs-do.md) condition 
 ## GETTING OUT
 
 At any time, if you want to, you can make the machine get out of a loop by using the word [EXIT](commands/man_cs-exit.md). Now, [EXIT](commands/man_cs-exit.md) applies to [FOR](commands/man_cs-for.md)/[NEXT](commands/man_cs-for.md) loops as well (these are described opposite). So you need to specify which type of loop you are exiting – [EXIT FOR](commands/man_cs-exit.md) or [EXIT DO](commands/man_cs-exit.md) is the way to do this. You should exit using some sort of condition – e.g.:
-```
+```BASIC
 1000 IF X>25 THEN EXIT DO
 ```
 A quick look at the chapter about decisions will tell you how to do this using [SELECT CASE](commands/man_cs-select.md) as well.
@@ -63,7 +63,7 @@ Remember that the word [EXIT](commands/man_cs-exit.md) is the only proper way to
 [FOR](commands/man_cs-for.md)/[NEXT](commands/man_cs-for.md) loops are rather different from [DO](commands/man_cs-do.md)/[LOOP](commands/man_cs-do.md)s. They are possibly a little less straight-forward, but they have definite uses.
 
 Here is a short [FOR](commands/man_cs-for.md)/[NEXT](commands/man_cs-for.md) loop:
-```
+```BASIC
 100 INPUT PROMPT "How many times would you like me to loop? ":X
 110 !	------------------------------------
 120 !	Notice that in this and other INPUT
@@ -79,7 +79,7 @@ Here is a short [FOR](commands/man_cs-for.md)/[NEXT](commands/man_cs-for.md) loo
 Do you see how the number you type is the number of times the computer will perform the loop? This is the essential purpose of a [FOR](commands/man_cs-for.md)/[NEXT](commands/man_cs-for.md) – you can specify quickly and concisely how many times the loop should be done. There is no need to use conditions except in special circumstances.
 
 [FOR](commands/man_cs-for.md)/[NEXT](commands/man_cs-for.md) can also count in successions of three, twenty, 0.2, 1000, 466.666 or even backwards. [STEP](commands/man_cs-for.md) is the key to this little ability. Here's a program which counts backwards by twos.
-```
+```BASIC
 10 FOR P=40 TO 0 STEP -2
 20   PRINT P,
 30 NEXT P
@@ -87,7 +87,7 @@ Do you see how the number you type is the number of times the computer will perf
 ```
 
 You cannot simply ask the machine to count from **40** to **0** without giving it a [STEP](commands/man_cs-for.md) command. It has to know to subtract (counting in minus numbers) from the number given in the [FOR](commands/man_cs-for.md) line before it will do this. Unless you specify by using [STEP](commands/man_cs-for.md), a [FOR](commands/man_cs-for.md)/[NEXT](commands/man_cs-for.md) loop will always count upward in steps of **1**. Note also the **PRINT P** statement. The first line of the loop creates a variable, in this case **P**, of which the value changes each time the loop is performed. The 'times table' program, used as an example of the [DO](commands/man_cs-do.md)/[LOOP](commands/man_cs-do.md), will be shorter if we use [FOR](commands/man_cs-for.md)/[NEXT](commands/man_cs-for.md):
-```
+```BASIC
 100 INPUT PROMPT "Please type in a number and I will give you a 'times table' for it. ":A
 110 FOR P=0 TO 150 STEP A
 120   PRINT P,
@@ -103,7 +103,7 @@ You might like to try different ways of presenting this program using **PRINT AT
 ## NESTED LOOPS
 
 These words might sound rather strange. Nested loops, though, are just loops placed inside loops. The important thing to remember is never to end the second loop outside the first one. Here is an example:
-```
+```BASIC
 100 FOR P=1 TO 20 !	First loop begins.
 110   PRINT P,
 120   FOR A=1 TO 4 !	Second loop begins.
