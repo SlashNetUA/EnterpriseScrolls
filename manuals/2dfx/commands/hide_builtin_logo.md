@@ -9,4 +9,4 @@ title: "2dfx: посібник програміста - HIDE_BUILTIN_LOGO"
 
 ----
 
-Див також: [show_builtin_logo](show_builtin_logo.md)
+Див також: [SHOW_BUILTIN_LOGO](show_builtin_logo.md)

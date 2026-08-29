@@ -20,4 +20,10 @@ title: "2dfx: посібник програміста - 2DPT - BUCKET_FILL"
 
 ----
 
-Див. також: FILL_xx
+Див. також: 
+
+[2DPT - FILL_RECT](2dpt-fill_rect.md)  
+[2DPT - FILL_ROUND_RECT](2dpt-fill_round_rect.md)  
+[2DPT - FILL_ELLIPSE](2dpt-fill_ellipse.md)  
+[2DPT - PIE](2dpt-pie.md)  
+

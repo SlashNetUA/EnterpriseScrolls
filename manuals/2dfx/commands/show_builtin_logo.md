@@ -25,4 +25,4 @@ title: "2dfx: посібник програміста - SHOW_BUILTIN_LOGO"
 
 ----
 
-Див. також: [hide_builtin_logo](hide_builtin_logo.md)
+Див. також: [HIDE_BUILTIN_LOGO](hide_builtin_logo.md)

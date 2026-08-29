@@ -43,4 +43,5 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 
 <div style="text-align:center;">
-<img src="2dfx/2dfx-tvc.jpg" alt="Карта 2dfx для комп'ютера Videoton TVC" width="50%"><br><i>зовнішній вигляд карт для комп'ютерів Videoton TVC</i></div>
+<img src="2dfx/2dfx-ep-proto.jpg" alt="Прототип карти 2dfx для комп'ютера Enterprise" width="31%"> 
+<img src="2dfx/2dfx-tvc.jpg" alt="Карта 2dfx для комп'ютера Videoton TVC" width="55%"><br><i>зовнішній вигляд карт для комп'ютерів «Enterprise» та «Videoton TVC»</i></div>
