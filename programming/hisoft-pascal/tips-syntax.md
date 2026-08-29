@@ -5,8 +5,8 @@ title: "HiSoft Pascal: синтаксис"
 
 ```pascal
 CASE selector OF
-    caseValue0: statement;
-    caseValue1,caseValue7: statement
+  caseValue0: statement;
+  caseValue1,caseValue7: statement
 ELSE statement;
 ```
 
@@ -55,16 +55,16 @@ FOR controlVariable := start TO finalValue DOWNTO statement;
 ```pascal
 FOR controlVariable := start TO finalValue DO
 BEGIN
-	statement;
-	statement
+  statement;
+  statement
 END;
 ```
 
 ```pascal
 FOR controlVariable := start TO finalValue DOWNTO
 BEGIN
-	statement;
-	statement
+  statement;
+  statement
 END;
 ```
 
@@ -111,9 +111,9 @@ END;
 
 ```pascal
 REPEAT
-	statement_zero;
-	statement_one;
-	statement_two
+  statement_zero;
+  statement_one;
+  statement_two
 UNTIL boolean_condition;
 ```
 
@@ -130,8 +130,8 @@ WHILE NOT boolean_condition DO statement_zero;
 ```pascal
 WHILE boolean_condition DO
 BEGIN
-	statement_zero;
-	statement_one;
-	statement_two
+  statement_zero;
+  statement_one;
+  statement_two
 END;
 ```
