@@ -3,28 +3,28 @@ title: "HiSoft Pascal: синтаксис"
 ---
 # CASE
 
-```PASCAL
+```pascal
 CASE selector OF
     caseValue0: statement;
     caseValue1,caseValue7: statement
 ELSE statement;
 ```
 
-```PASCAL
+```pascal
 CASE selector OF
   caseValue0,caseValue1: BEGIN statement; statement END;
   caseValue2: BEGIN statement; statement END
 ELSE BEGIN statement; statement END;
 ```
 
-```PASCAL
+```pascal
 CASE selector OF
   caseValue0,caseValue1: BEGIN statement; statement END;
   caseValue2: BEGIN statement; statement END
 END;
 ```
 
-```PASCAL
+```pascal
 CASE selector OF
   caseValue0,caseValue1:
   BEGIN
@@ -44,15 +44,15 @@ CASE selector OF
 
 # FOR
 
-```PASCAL
+```pascal
 FOR controlVariable := start TO finalValue DO statement;
 ```
 
-```PASCAL
+```pascal
 FOR controlVariable := start TO finalValue DOWNTO statement;
 ```
 
-```PASCAL
+```pascal
 FOR controlVariable := start TO finalValue DO
 BEGIN
 	statement;
@@ -60,7 +60,7 @@ BEGIN
 END;
 ```
 
-```PASCAL
+```pascal
 FOR controlVariable := start TO finalValue DOWNTO
 BEGIN
 	statement;
@@ -70,19 +70,19 @@ END;
 
 # IF
 
-```PASCAL
+```pascal
 IF boolean_condition THEN statement;
 ```
 
-```PASCAL
+```pascal
 IF boolean_condition THEN statement ELSE statement;
 ```
 
-```PASCAL
+```pascal
 IF (boolean_condition) AND/OR (boolean_condition) THEN statement;
 ```
 
-```PASCAL
+```pascal
 IF boolean_condition THEN
 BEGIN
   statement_zero;
@@ -91,7 +91,7 @@ BEGIN
 END;
 ```
 
-```PASCAL
+```pascal
 IF boolean_condition THEN
 BEGIN
   statement_zero;
@@ -109,7 +109,7 @@ END;
 
 # REPEAT
 
-```PASCAL
+```pascal
 REPEAT
 	statement_zero;
 	statement_one;
@@ -119,15 +119,15 @@ UNTIL boolean_condition;
 
 # WHILE
 
-```PASCAL
+```pascal
 WHILE boolean_condition DO statement_zero;
 ```
 
-```PASCAL
+```pascal
 WHILE NOT boolean_condition DO statement_zero;
 ```
 
-```PASCAL
+```pascal
 WHILE boolean_condition DO
 BEGIN
 	statement_zero;

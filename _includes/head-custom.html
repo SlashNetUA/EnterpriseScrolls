@@ -64,25 +64,26 @@ document.addEventListener("DOMContentLoaded", () => {
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
+  // 1. Виправлення регістру для підсвітки коду (BASIC -> basic)
+  document.querySelectorAll('code[class*="language-"]').forEach(function (el) {
+    el.className = el.className.toLowerCase();
+  });
+
+  // 2. Обробка Obsidian-блоків
   document.querySelectorAll("blockquote").forEach(function (bq) {
     const firstP = bq.querySelector("p");
     if (!firstP) return;
 
     const text = firstP.textContent.trim();
     if (text.startsWith("[!")) {
-      // 1. Додаємо клас до всієї цитати
       bq.classList.add("obsidian-callout");
 
-      // 2. Виділяємо заголовок та решту тексту
       const match = firstP.innerHTML.match(/^\[!([^\]]+)\]\s*(.*)/s);
       if (match) {
         const titleText = match[1];
         const restOfText = match[2];
 
-        // 3. Створюємо окремий елемент для заголовка з власним класом
         const titleElement = `<div class="callout-title">${titleText}</div>`;
-
-        // 4. Перезаписуємо вміст: Заголовок + Новий рядок + Основний текст
         firstP.innerHTML = `${titleElement}<div class="callout-content">${restOfText}</div>`;
       }
     }
@@ -93,13 +94,13 @@ document.addEventListener("DOMContentLoaded", function () {
 <style>
 /* Основний колір для всіх посилань */
 a, a:visited {
-  color: #2a6321; /* Темно-зелений колір */
+  color: #0f7c25; /* Темно-зелений колір */
   text-decoration: underline; /* або none, якщо хочете прибрати підкреслення */
 }
 
 /* Колір при наведенні курсору (Hover) */
 a:hover, a:focus {
-  color: #3a872e; /* Трохи світліший/активніший відтінок зеленого */
+  color: #15ab33; /* Трохи світліший/активніший відтінок зеленого */
 }
 
   /* Щоб піксель-арт на Enterprise 128 виглядав чітким, а не розмитим */
@@ -143,8 +144,8 @@ a:hover, a:focus {
 }
 
 
-/* Базовий контейнер цитати */
-blockquote.obsidian-callout {
+/* 1. БАЗОВІ СТИЛІ ДЛЯ ВСІХ ЦИТАТ (і звичайних, і Obsidian) */
+blockquote {
   border-left: 4px solid #29782d !important;
   background-color: #f5fff3 !important;
   padding: 12px 16px !important;
@@ -152,18 +153,24 @@ blockquote.obsidian-callout {
   border-radius: 6px !important;
 }
 
-/* Окремий стиль для ЗАГОЛОВКА */
+/* Колір основного тексту у ВСІХ цитатах */
+blockquote, 
+blockquote p {
+  color: #20300c !important;
+}
+
+/* 2. ДОДАТКОВІ СТИЛІ ТІЛЬКИ ДЛЯ ЗАГОЛОВКІВ (Callouts) */
 blockquote.obsidian-callout .callout-title {
   font-weight: bold;
   color: #29782d !important;
   font-size: 1.05em;
-  margin-bottom: 8px; /* Створює чіткий відступ від заголовка до основного тексту */
-  display: block;      /* Гарантує переведення рядка */
+  margin-bottom: 8px;
+  display: block;
 }
 
-/* Окремий стиль для ОСНОВНОГО ТЕКСТУ */
 blockquote.obsidian-callout .callout-content {
   color: #20300c !important;
   line-height: 1.5;
 }
+
 </style>
