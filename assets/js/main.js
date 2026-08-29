@@ -33,10 +33,10 @@
     }
   });
 
-  // 3. Обробка Obsidian-блоків та коригування назв мов
-  document.querySelectorAll('code[class*="language-"]').forEach(function (el) {
-    el.className = el.className.toLowerCase();
-  });
+//  // 3. Обробка Obsidian-блоків та коригування назв мов
+//  document.querySelectorAll('code[class*="language-"]').forEach(function (el) {
+//    el.className = el.className.toLowerCase();
+//  });
 
   document.querySelectorAll("blockquote").forEach(function (bq) {
     const firstP = bq.querySelector("p");
@@ -57,13 +57,32 @@
     }
   });
 
-  // 4. Очищення від Rouge та запуск Highlight.js
-  document.querySelectorAll('pre code').forEach(function (block) {
-    block.innerHTML = block.textContent;
+  document.addEventListener("DOMContentLoaded", function () {
+    
+    // Адаптуємо блоки Jekyll/Rouge під стандартний формат Prism
+    document.querySelectorAll('pre code').forEach(function (codeBlock) {
+      // Якщо клас language-* висить на <pre> або <div class="highlighter-rouge">
+      const parent = codeBlock.closest('[class*="language-"]');
+      if (parent) {
+        const match = parent.className.match(/language-([a-zA-Z0-9_-]+)/);
+        if (match) {
+          let lang = match[1].toLowerCase();
+          
+          // Синоніми для зручності (наприклад, z80 або asm)
+          if (lang === 'basic') lang = 'visual-basic';
+          
+          codeBlock.classList.add(`language-${lang}`);
+        }
+      }
+      
+      // Прибираємо старий тегований вміст від Rouge
+      codeBlock.innerHTML = codeBlock.textContent;
+    });
+
+    // Запускаємо підсвічування
+    if (typeof Prism !== 'undefined') {
+      Prism.highlightAll();
+    }
+
   });
-
-  if (typeof hljs !== 'undefined') {
-    hljs.highlightAll();
-  }
-
 });
