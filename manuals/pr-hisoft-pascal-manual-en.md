@@ -3,7 +3,7 @@ title: "HiSoft Pascal Manual"
 ---
 # HiSoft Pascal
 
-© Hisoft 1985
+© [Hisoft](../companies/hisoft-systems.md) 1985
 
 ## INDEX
 
