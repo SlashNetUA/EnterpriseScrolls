@@ -104,13 +104,13 @@ You might like to try different ways of presenting this program using **PRINT AT
 
 These words might sound rather strange. Nested loops, though, are just loops placed inside loops. The important thing to remember is never to end the second loop outside the first one. Here is an example:
 ```basic
-100 FOR P=1 TO 20 !	First loop begins.
+100 FOR P=1 TO 20 ! First loop begins.
 110   PRINT P,
-120   FOR A=1 TO 4 !	Second loop begins.
+120   FOR A=1 TO 4   ! Second loop begins.
 130     PRINT P+10; P-10;
-140   NEXT A !	Second loop ends.
+140   NEXT A         ! Second loop ends.
 145   PRINT
-150 NEXT P !	First loop ends.
+150 NEXT P        ! First loop ends.
 ```
 You can nest another loop inside the second one as well, and another inside that, and so on. If you look at a series of nested loops, the end lines should come in descending order as you look down the program. The beginnings should be in ascending order. Look at the diagram.
 
