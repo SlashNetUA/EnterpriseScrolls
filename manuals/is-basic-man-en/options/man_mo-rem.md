@@ -20,4 +20,8 @@ Controls remote control switches 1 and 2. (Also controlled by tape operations.)
 
 ----
 
+Команди `TOGGLE REMx` за замовчуванням призначені на клавіші **F4** та **Shift**+**F4**.
+
+----
+
 See also [EXOS VAR 36 - REM1 / VAR 37 - REM2](../../../programming/system-info/exos-variables/exos_var36-37.md)

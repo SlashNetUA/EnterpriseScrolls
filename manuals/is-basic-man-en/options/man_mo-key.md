@@ -10,6 +10,11 @@ Determines whether a click is heard with each key-press. Can be used with [TOGGL
 
 See also [EXOS VAR 7](../../../programming/system-info/exos-variables/exos_var7.md).   
 
+----
+
+Команда `TOGGLE KEY CLICK` за замовчуванням призначена на клавішу **F7**.
+
+
 # KEY DELAY
 
 `SET KEY DELAY expr`  

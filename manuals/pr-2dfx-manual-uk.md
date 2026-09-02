@@ -45,4 +45,33 @@ title: "2dfx: посібник програміста"
 - [Оновлення прошивки](2dfx/3-4_fw-update.md)  
 - [Зведена таблиця команд](2dfx/3-5_all-сommands.md)
 
+[Вбудовані демонстрації](2dfx/4_easter-eggs.md)
 
+- [EGG_C0 (C0h / 192) – «Як тебе назвати?»](2dfx/commands/egg_c0.md)
+- [EGG_C1 (C1h / 193) – бенчмарк трансформацій](2dfx/commands/egg_c1.md)
+- [EGG_C2 (C2h / 194) – анімоване 2DPT-демо](2dfx/commands/egg_c2.md)
+- [EGG_C3 (C3h / 195) – робота зі шрифтами та виведення тексту](2dfx/commands/egg_c3.md)
+- [EGG_C4 (C4h / 196) – демонстрація BLIT](2dfx/commands/egg_c4.md)
+- [EGG_C5 (C5h / 197) – демонстрація PATTERN_FILL](2dfx/commands/egg_c5.md)
+- [EGG_C6 (C6h / 198) – міні-демонстрація TILEMAP](2dfx/commands/egg_c6.md)
+- [EGG_C7 (C7h / 199) – інтерактивний класичний Pong](2dfx/commands/egg_c7.md)
+- [EGG_C8 (C8h / 200) – інтерактивний WOW pong](2dfx/commands/egg_c8.md)
+- [EGG_C9 (C9h / 201) – «Вторгнення хробаків!»](2dfx/commands/egg_c9.md)
+- [EGG_CA (CAh / 202) – Boulder Dash від 2dfx](2dfx/commands/egg_ca.md)
+- [EGG_CB (CBh / 203) – демонстрація перевищення часу рендерингу](2dfx/commands/egg_cb.md)
+- [EGG_CC (CCh / 204) – діагностичні тести](2dfx/commands/egg_cc.md)
+- [EGG_CD (CDh / 205) – повноекранний BLIT](2dfx/commands/egg_cd.md)
+- [EGG_CE (CEh / 206) – «В'язниця»](2dfx/commands/egg_ce.md)
+- [EGG_CF (CFh / 207) – тест дискретизації зовнішнього кольору «TVC»](2dfx/commands/egg_cf.md)
+- [EGG_D0 (D0h / 208) – стрес-тест оновлення зображення «TVC»](2dfx/commands/egg_d0.md)
+- [EGG_D1 (D1h / 209) – координати видимої області екрана](2dfx/commands/egg_d1.md)
+- [EGG_D2 (D2h / 210) – анімований 2DPT та демонстрація SET_XY_OFFSET](2dfx/commands/egg_d2.md)
+
+----
+
+*дизайн усього апаратного забезпечення: [Кароль Вацко](../peoples/community/kvaczko.md)*  
+*архітектура програмного забезпечення, дизайн інтерфейсу команд: [Кароль Вацко](../peoples/community/kvaczko.md)*  
+*код для мікроконтролера було запрограмовано **ChatGPT 5.5 Plus**, а потім **ChatGPT 5.6 Sol**, після чого він пройшов кілька додаткових перевірок на коректність від **Fable 5** від **Anthropic** *  
+*посібник написав: [Кароль Вацко](../peoples/community/kvaczko.md)*  
+
+*серпень 2026 року*  

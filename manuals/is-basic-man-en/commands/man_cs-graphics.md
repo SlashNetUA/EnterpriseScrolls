@@ -17,5 +17,9 @@ Valid colour-quantity numbers are **2**, **4**, **16** and **256**. If nothing i
 
 ----
 
+Ця команда за замовчуванням призначена на клавішу **F6**.
+
+----
+
 [Application Note №13: Dumping graphics to the printer](http://enterprise.iko.hu/technical/Enterprise-AppNote-13.pdf)  
 [Application Note №15: Saving and loading of graphics screens](http://enterprise.iko.hu/technical/Enterprise-AppNote-15.pdf)  

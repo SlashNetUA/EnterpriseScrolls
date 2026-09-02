@@ -4,7 +4,7 @@ title: "﻿Robot 1 in... The Ship of Doom"
 
 ﻿[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
 
-Ігри для [Enterprise 64k](../games-ep64.md) - [Enterprise 128k+RAMexp](../games-epramexp.md)
+Ігри для [Enterprise 64k](../games-ep64.md) - [Enterprise 128k+RAMexp](../games-epramexp.md) - [2dfx](games-2dfx.md)
 
 Ігри для систем [IS-DOS](../games-is-dos.md) - [SymbOS](../games-symbos.md) - [EDC Windows](../games-edcw.md)
 
@@ -54,10 +54,10 @@ title: "﻿Robot 1 in... The Ship of Doom"
 
 
 ## Посилання
-- [Домашня сторінка гри](https://prefim.itch.io/robot-1-in-the-ship-of-doom)
-- [Опис гри на ep128.hu (угорською)](https://ep128.hu/Games/Robot1_in_The_Ship_of_Doom.htm)
+- [Домашня сторінка](https://prefim.itch.io/robot-1-in-the-ship-of-doom)
+- [Опис на ep128.hu (угорською)](https://ep128.hu/Games/Robot1_in_The_Ship_of_Doom.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/30408/ZX-Spectrum/Robot_1_in_The_Ship_of_Doom)
-- [Завантажити гру](https://ep128.hu/Ep_Games/Prg/Robot1_Ship_of_Doom.rar)
+- [Завантажити](https://ep128.hu/Ep_Games/Prg/Robot1_Ship_of_Doom.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/966) *(Telegram-канал Vibrant Waves)*
 
 

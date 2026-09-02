@@ -15,4 +15,8 @@ See [DISPLAY TEXT](man_cs-display.md).
 
 ----
 
+Ця команда за замовчуванням призначена на клавішу **F5**.
+
+----
+
 [Application Note №25: Multi-coloured text on the Enterprise](http://enterprise.iko.hu/technical/Enterprise-AppNote-25.pdf)  

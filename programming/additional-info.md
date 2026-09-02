@@ -18,13 +18,13 @@ title: "Різноманітна інформація по системі"
 
 [Технічний опис EXOS 2.1](http://www.ep128.hu/Ep_Konyv/Exos.htm) (угорською)
 
-[Змінні EXOS](system-info/info_exos-variables.md)  
+[Системні змінні](system-info/info_exos-variables.md)  
 [Функції EXOS](system-info/info_exos-functions.md)  
-[Пристрої EXOS](system-info/info-exos-devices.md)  
+[Пристрої](system-info/info-exos-devices.md)  
+[Канали](system-info/info_channels.md)  
 
 [Escape-послідовності та керуючі символи](system-info/info_esc-sequences.md)  
 
-[Канали](system-info/info_channels.md)  
 [Помилки](system-info/info_errors.md)  
 
 [Список команд розширень](system-info/info_exos-commands-list.md)
@@ -38,7 +38,7 @@ title: "Різноманітна інформація по системі"
 ## Шрифти та текстові режими
 
 [Робота з стандартними шрифтами 8×9](tips-hints/tips-epfonts.md)  
-[Таблиця символів](system-info/info_characters.md)  
+[Таблиця символів EXOS](system-info/info_characters.md)  
 
 ## Відео
 
@@ -51,7 +51,7 @@ title: "Різноманітна інформація по системі"
 
 ## Звук
 
-[man_2-sound](../manuals/is-basic-man-en/man_2-sound.md)  
+[Опис роботи зі звуком з посібника IS-Basic](../manuals/is-basic-man-en/man_2-sound.md)  
 
 ## Різне
 

@@ -308,6 +308,7 @@ Bибрані тайтли RetroWorks: [The Sword of Ianna](sf-games/s/sword-of-
   
 От з ексклюзивними проектами, дійсно, доволі сухо:
 
+- [Best Practice: F1](sf-games/b/best-practice-f1.md) [(YT)](https://youtu.be/wwKmYbV6PVk) — цікавий ремейк гри Race Ace.  
 - [Treasure Cave](sf-games/t/treasure-cave.md) [(YT)](https://www.youtube.com/watch?v=wmmxRWdMrhw) що використовує 16-колірний текстовий режим
 - [Bricky Prise](sf-games/b/bricky-prise.md) [(YT)](https://www.youtube.com/watch?v=-q8d8XWXnyA) фізичний реліз якої все ніяк не наважаться зробити
 - [Banana](sf-games/b/banana.md) [(YT)](https://www.youtube.com/watch?v=DsvuVHIMsac) та [Banana 2](sf-games/b/banana2.md) [(YT)](https://www.youtube.com/watch?v=uVIQ_sS5iew) (де автору допомагала його донька)

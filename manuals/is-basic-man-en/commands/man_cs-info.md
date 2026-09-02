@@ -8,3 +8,7 @@ Prints out the amount of memory in the system and the number of unused bytes. A 
 `program-number	number-of-bytes-in-program	first-line-of-program`
 
 **INFO** clears all variables. Only executed in immediate mode.
+
+----
+
+Команда за замовчуванням призначена на клавішу **F8**.

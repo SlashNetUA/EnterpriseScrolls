@@ -1,7 +1,9 @@
 ---
 title: kvaczko
 ---
-# kvaczko
+# Károly Vaczkó
+
+aka **kvaczko**
 
 ## Розробки
 

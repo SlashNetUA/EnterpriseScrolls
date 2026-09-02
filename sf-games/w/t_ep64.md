@@ -10,4 +10,5 @@
 - △ [Wizball](w/wizball-cpc.md)
 - 𝔹 [Wordhang](w/wordhang-bas.md)
 - △ [A World of One-Way](w/world-of-one-way-zx.md)
+- 𝔹 [WOW Pong](w/wow-pong-bas.md)
 - △ [Wriggler](w/wriggler.md)

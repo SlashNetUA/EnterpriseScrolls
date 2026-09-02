@@ -17,7 +17,9 @@ title: "Програмування"
 
 [IS-Forth](is-forth.md)
 
-[2dfx Programming](2dfx-programming.md)
+# Апаратні розширення
+
+[Графічний акселератор 2dfx](2dfx-programming.md)
 
 # Низькорівневе програмування
 

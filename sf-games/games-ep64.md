@@ -1,6 +1,6 @@
-[0-9](0/games-0.md) - [A](a/games-a.md) - [B](b/games-b.md) - [C](c/games-c.md) - [D](d/games-d.md) - [E](e/games-e.md) - [F](f/games-f.md) - [G](g/games-g.md) - [H](h/games-h.md) - [I](i/games-i.md) - [J](j/games-j.md) - [K](k/games-k.md) - [L](l/games-l.md) - [M](m/games-m.md) - [N](n/games-n.md) - [O](o/games-o.md) - [P](p/games-p.md) - [Q](q/games-q.md) - [R](r/games-r.md) - [S](s/games-s.md) - [T](t/games-t.md) - [U](u/games-u.md) - [V](v/games-v.md) - [W](w/games-w.md) - [X](x/games-x.md) - [Y](y/games-y.md) - [Z](z/games-z.md)
+﻿[0-9](0/games-0.md) - [A](a/games-a.md) - [B](b/games-b.md) - [C](c/games-c.md) - [D](d/games-d.md) - [E](e/games-e.md) - [F](f/games-f.md) - [G](g/games-g.md) - [H](h/games-h.md) - [I](i/games-i.md) - [J](j/games-j.md) - [K](k/games-k.md) - [L](l/games-l.md) - [M](m/games-m.md) - [N](n/games-n.md) - [O](o/games-o.md) - [P](p/games-p.md) - [Q](q/games-q.md) - [R](r/games-r.md) - [S](s/games-s.md) - [T](t/games-t.md) - [U](u/games-u.md) - [V](v/games-v.md) - [W](w/games-w.md) - [X](x/games-x.md) - [Y](y/games-y.md) - [Z](z/games-z.md)
 
-Ігри для [Enterprise 64k](games-ep64.md) - [Enterprise 128k+RAMexp](games-epramexp.md)
+Ігри для [Enterprise 64k](games-ep64.md) - [Enterprise 128k+RAMexp](games-epramexp.md) - [2dfx](games-2dfx.md)
 
 Ігри для систем [IS-DOS](games-is-dos.md) - [SymbOS](games-symbos.md) - [EDC Windows](games-edcw.md)
 
@@ -210,6 +210,7 @@
 - △ [PaperBoy](p/paperboy-zx.md)
 - △ [Penalty Soccer](p/penalty-soccer-zx.md)
 - 𝔹 [Crooked Adventure](p/playground-adventure-bas.md)
+- 𝔹 [Pong](p/pong-bas.md)
 - △ [Profanation 2: Escape from Abu Simbel](p/profanation2-cpc.md)
 
 # Q
@@ -290,6 +291,7 @@
 - △ [Wizball](w/wizball-cpc.md)
 - 𝔹 [Wordhang](w/wordhang-bas.md)
 - △ [A World of One-Way](w/world-of-one-way-zx.md)
+- 𝔹 [WOW Pong](w/wow-pong-bas.md)
 - △ [Wriggler](w/wriggler.md)
 
 # Y

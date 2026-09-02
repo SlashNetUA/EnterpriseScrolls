@@ -20,3 +20,7 @@ The name of a **DEF** or **HANDLER** block can be given instead of a line-number
 All references in the program to renumbered lines are changed.
 
 **RENUMBER** cannot change the order of lines in a program. So if the renumbered lines would overlay or surround lines not renumbered, or would be put into a new place in the sequence, or would create too high a line-number — then the **RENUMBER** command is not executed, and the text of the program is left unchanged.
+
+----
+
+Ця команда за замовчуванням призначена на клавішу **Shift**+**F3**.

@@ -20,3 +20,7 @@ Lists all or part of the program. Can be stopped by 'Stop' key or paused by 'Hol
 
 e.g. `LIST FIRST-100,500-LAST`  
 for `LIST FIRST TO 100,500 TO LAST`
+
+----
+
+Ця команда за замовчуванням призначена на клавішу **F2**.

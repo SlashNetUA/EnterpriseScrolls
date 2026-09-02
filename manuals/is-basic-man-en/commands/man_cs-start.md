@@ -7,4 +7,4 @@ If no program is currently loaded, this command loads and runs the first file on
 
 ----
 
-Assigned to **F1** key, by default.
+Ця команда за замовчуванням призначена на клавішу **F1**.

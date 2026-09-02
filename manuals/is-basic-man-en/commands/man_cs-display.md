@@ -11,8 +11,17 @@ Defines a window to display a segment of a text or graphics video page. Screen-r
 
 Sets up 20 lines as graphics, and displays previous graphics page if one was open (£101). Does not clear text page.
 
+----
+
+Ця команда за замовчуванням призначена на клавішу **Shift**+**F6**.
+
+
 # DISPLAY TEXT
 
 Sets up full screen in text mode and displays full page of text if it was previously open (£102). Does not clear graphics screen.
 
 If only a small text page was previously open, then this is cleared, and a new full-size text page is opened.
+
+----
+
+Ця команда за замовчуванням призначена на клавішу **Shift**+**F5**.
