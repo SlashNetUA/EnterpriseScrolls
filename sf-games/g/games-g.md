@@ -53,6 +53,7 @@
 - △ [Go-Around](go-around.md)
 - 🅸 [The Gods of War](gods-of-war-isdos.md)
 - △ [Golden Axe](golden-axe-zx.md)
+- 🅩 [The Golden Baton](golden-baton-zcode.md)
 - 🅩 [The Golden Voyage](golden-voyage-zcode.md)
 - 𝔹 [﻿Gombaszedő](gombaszedo-bas.md)
 - 𝔹 [﻿Gombócfaló](gombocfalo-bas.md)

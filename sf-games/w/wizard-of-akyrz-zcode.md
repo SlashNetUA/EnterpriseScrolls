@@ -1,0 +1,72 @@
+---
+title: "The Wizard of Akyrz"
+---
+
+﻿[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
+
+Ігри для [Enterprise 64k](../games-ep64.md) - [Enterprise 128k+RAMexp](../games-epramexp.md) - [2dfx](../games-2dfx.md)
+
+Ігри для систем [IS-DOS](../games-is-dos.md) - [SymbOS](../games-symbos.md) - [EDC Windows](../games-edcw.md)
+
+Ігри для емуляторів [ZX Spectrum 48k/128k](../zxemu/games-zxemu.md) - [Amstrad CPC](../cpcemu/games-cpc.md) - [Sinclair ZX81](../zx81emu/games-zx81.md) - [Videoton TVC](../tvcemu/games-tvc.md) - [Commodore VIC-20](../vic20emu/games-vic20.md)
+
+----------
+
+# The Wizard of Akyrz
+
+**Альтернативні назви:**
+ - Mysterious Adventures 8 - The Wizard of Akyrz
+
+
+**ID:** wizard-of-akyrz-zcode
+
+
+**Жанри:** Текстова пригода
+
+## Примітка
+
+ℹ Мультиплатформенна гра на рушії Z-machine від Infocom.
+
+## Скріншоти
+<img src="screens/scrn_wizard-of-akyrz-zcode_01.png" width="24%">
+<img src="screens/scrn_wizard-of-akyrz-zcode_02.png" width="24%">
+<img src="screens/scrn_wizard-of-akyrz-zcode_03.png" width="24%">
+
+
+## Опис
+
+Двічі переможений звичайним смертним, злий чаклун витратив чимало часу на відновлення своїх сил. Тепер він вигадує новий план, щоб упіймати у пастку й остаточно знищити земне створіння, яке наважилося стати на його шляху.  
+
+Знайдіть дорогоцінну державу, золотий скіпетр і королівську корону, врятуйте принцесу від злого Акірза та поверніть все це до королівської скарбниці.
+
+
+## Основна інформація
+- **Мови:** Англійська
+### Загальні системні вимоги
+- **Апаратні:** EXDOS
+- **Програмні:** IS-DOS
+### Геймплей
+- **Керування:** Keyboard
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Z-code
+### Розробка
+- **Рік випуску:** 1983
+- **Автор:** Brian Howarth, Cliff J. Ogden
+
+
+## Посилання
+- [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C594/Wizard+of+Akyrz%2C+The.html)
+- [Завантажити](https://www.ifarchive.org/if-archive/games/inform/mysterious_inform.zip)
+
+
+## [Керування](../controllers.md)
+
+`Keyboard`
+
+## Детальна інформація
+
+### Історія розробки  
+
+Восьма гра у серії «Mysterious Adventures»  
+
+Браян Гаварт написав свої одинадцять текстових пригод «Mysterious Adventures» у 1981–1983 роках, початково як суто текстові ігри (саме так вони представлені тут). Пізніші версії (Spectrum, C64) мали контурну графіку. Усі файли даних є конверсіями з версій для Spectrum/C64 (але без графіки). Браян Гаварт дав свій дозвіл на завантаження ігор до IF Archive.

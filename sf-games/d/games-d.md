@@ -60,6 +60,7 @@
 - 🅩 [Desperados](desperados-zcode.md)
 - 🅩 [Detective](detective-mst3k-zcode.md)
 - △ [Deviants](deviants-zx.md)
+- 𝔹 [Devils](devils-bas.md)
 - △ [Devil's Lair](devils-lair.md)
 - △ [Diamond Geezer](diamond-geezer-agd.md)
 - △ [Diamonds](diamonds.md)

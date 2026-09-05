@@ -10,6 +10,8 @@
 - 🅩 [Alchemist's Gold](a/alchemists-gold-zcode.md)
 - 🅸 [Alien Research Centre 2: Return to Oblivion](a/arc2-isdos.md)
 - 🅩 [Alien Research Centre 3: Footprints in the Snow](a/arc3-zcode.md)
+- 🅩 [Arrow of Death. Part 1](a/arrow-of-death1-zcode.md)
+- 🅩 [Arrow of Death. Part 2](a/arrow-of-death2-zcode.md)
 - 🅩 [Arthur's Day Out](a/arthurs-day-out-zcode.md)
 - 🅸 [The Assassins' Guild](a/assassins-guild-isdos.md)
 - 🅸 [Aunt Velma's Coming to Tea!](a/aunt-velmas-coming-to-tea-isdos.md)

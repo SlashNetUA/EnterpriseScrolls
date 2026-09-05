@@ -11,6 +11,7 @@
 - 🅸 [Celtic Carnage](c/celtic-carnage-isdos.md)
 - 🅸 [The Challenge](c/challenge-isdos.md)
 - 🅩 [Christminster](c/christminster-zcode.md)
+- 🅩 [Circus](c/circus-zcode.md)
 - 🅩 [A Clean Getaway](c/clean-getaway-zcode.md)
 - 🅸 [Cloud 99](c/cloud99-isdos.md)
 - 🅩 [Construction Cancellation Order](c/construction-cancellation-order-zcode.md)

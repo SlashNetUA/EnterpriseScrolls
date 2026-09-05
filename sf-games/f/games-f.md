@@ -29,6 +29,7 @@
 - 𝔹 [﻿A Fáraó Kincse](farao-kincse-bas.md)
 - △ [Fast Food](fast-food-zx.md)
 - 🅩 [Fat Bear](fat-bear-zcode.md)
+- 🅩 [Feasibility Experiment](feasibility-experiment-zcode.md)
 - 𝔹 [﻿Fej vagy Írás](fej-vagy-iras-bas.md)
 - 𝔹 [﻿Fej vagy Írás](fej-vagy-iras2-bas.md)
 - 𝔹 [﻿Felhasználó Teszt](felhasznalo-teszt-bas.md)

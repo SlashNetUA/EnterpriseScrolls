@@ -28,6 +28,8 @@
 - 🅩 [Alchemist's Gold](a/alchemists-gold-zcode.md)
 - 🅸 [Alien Research Centre 2: Return to Oblivion](a/arc2-isdos.md)
 - 🅩 [Alien Research Centre 3: Footprints in the Snow](a/arc3-zcode.md)
+- 🅩 [Arrow of Death. Part 1](a/arrow-of-death1-zcode.md)
+- 🅩 [Arrow of Death. Part 2](a/arrow-of-death2-zcode.md)
 - 🅩 [Arthur's Day Out](a/arthurs-day-out-zcode.md)
 - 🅸 [The Assassins' Guild](a/assassins-guild-isdos.md)
 - 🅸 [Aunt Velma's Coming to Tea!](a/aunt-velmas-coming-to-tea-isdos.md)
@@ -74,6 +76,7 @@
 - 🅸 [Celtic Carnage](c/celtic-carnage-isdos.md)
 - 🅸 [The Challenge](c/challenge-isdos.md)
 - 🅩 [Christminster](c/christminster-zcode.md)
+- 🅩 [Circus](c/circus-zcode.md)
 - 🅩 [A Clean Getaway](c/clean-getaway-zcode.md)
 - 🅸 [Cloud 99](c/cloud99-isdos.md)
 - 🅩 [Construction Cancellation Order](c/construction-cancellation-order-zcode.md)
@@ -116,6 +119,7 @@
 - 🅸 [Emerald Elf](e/emerald-elf-isdos.md)
 - 🅸 [The Enchanted Cottage](e/enchanted-cottage-isdos.md)
 - 🅩 [Enchanter](e/enchanter-zcode.md)
+- 🅩 [Escape from Pulsar 7](e/escape-from-pulsar7-zcode.md)
 - 🅩 [Escape from the Troll's Cave](e/escape-from-the-trolls-cave-zcode.md)
 - 🅸 [The Escaping Habit](e/escaping-habit-isdos.md)
 - 🅸 [An Everyday Tale of a Seeker of Gold](e/everyday-tale-of-a-seeker-of-gold-isdos.md)
@@ -126,6 +130,7 @@
 - 🅩 [Falling to Pieces](f/falling-to-pieces-zcode.md)
 - 🅩 [The Fantasy Dimension](f/fantasy-dimension-zcode.md)
 - 🅩 [Fat Bear](f/fat-bear-zcode.md)
+- 🅩 [Feasibility Experiment](f/feasibility-experiment-zcode.md)
 - 🅸 [Final Demand](f/final-demand-isdos.md)
 - 🅸 [First Past the Post](f/first-past-the-post-isdos.md)
 - 🅸 [A Fistful of Necronomicons](f/fistful-of-necronomicons-isdos.md)
@@ -146,6 +151,7 @@
 - 🅩 [Ghost Town](g/ghost-town-zcode.md)
 - 🅩 [The Ghosts of Blackwood Manor](g/ghosts-of-blackwood-manor-zcode.md)
 - 🅸 [The Gods of War](g/gods-of-war-isdos.md)
+- 🅩 [The Golden Baton](g/golden-baton-zcode.md)
 - 🅩 [The Golden Voyage](g/golden-voyage-zcode.md)
 - 🅩 [Good Bones](g/good-bones-zcode.md)
 - 🅩 [The Gostak](g/gostak-zcode.md)
@@ -243,10 +249,12 @@
 - 🅩 [One Night in San Francisco](o/one-night-in-san-francisco-zcode.md)
 - 🅸 [OrbQuest](o/orbquest-isdos.md)
 - 🅸 [Othello](o/othello-hisoftc-isdos.md)
+- 🅸 [Othello](o/othello-ru-isdos.md)
 
 # P
 
 - 🅸 [The Pendant of Logryn](p/pendant-of-logryn-isdos.md)
+- 🅩 [Perseus and Andromeda](p/perseus-and-andromeda-zcode.md)
 - 🅸 [Personal Computing Whirled!](p/personal-computing-whirled-isdos.md)
 - 🅸 [Pesky Kids!](p/pesky-kids-isdos.md)
 - 🅸 [Peter's Adventure](p/peters-adventure-isdos.md)
@@ -337,11 +345,13 @@
 - 🅸 [The Taxman Cometh](t/taxman-cometh-isdos.md)
 - 🅸 [Teacher Trouble](t/teacher-trouble-isdos.md)
 - 🅩 [Tempus Fugit: The Past is Yet Unwritten](t/tempus-fugit-the-past-is-yet-unwritten-zcode.md)
+- 🅩 [Ten Little Indians](t/ten-little-indians-zcode.md)
 - 🅸 [The Test](t/test-isdos.md)
 - 🅩 [Theatre](t/theatre-zcode.md)
 - 🅸 [There's Gold in them there Skyscrapers](t/theres-gold-in-them-there-skyscrapers-mbas-isdos.md)
 - 🅩 [Thornfell Manor: 1984](t/thornfell-manor1984-zcode.md)
 - 🅩 [The Time Crystals of Cythii](t/time-crystals-of-cythii-zcode.md)
+- 🅩 [The Time Machine](t/time-machine-zcode.md)
 - 🅩 [Tin Star](t/tin-star-zcode.md)
 - 🅩 [A Train to Piccadilly](t/train-to-piccadilly-zcode.md)
 - 🅸 [Treasure Island](t/treasure-island-isdos.md)
@@ -363,6 +373,7 @@
 
 # W
 
+- 🅩 [Waxworks](w/waxworks-zcode.md)
 - 🅸 [Weaver of Her Dreams](w/weaver-of-her-dreams-isdos.md)
 - 🅩 [Who Kidnapped Mother Goose](w/who-kidnapped-mother-goose-zcode.md)
 - 🅩 [Wild West](w/wild-west-zcode.md)
@@ -371,6 +382,7 @@
 - 🅸 [Witch Hunt](w/witch-hunt-isdos.md)
 - 🅩 [Witchever](w/witchever-zcode.md)
 - 🅩 [The Witness](w/witness-zcode.md)
+- 🅩 [The Wizard of Akyrz](w/wizard-of-akyrz-zcode.md)
 - 🅩 [The Wrath of Anubis](w/wrath-of-anubis-zcode.md)
 
 # Y

@@ -4,3 +4,4 @@
 - 🅩 [One Night in San Francisco](o/one-night-in-san-francisco-zcode.md)
 - 🅸 [OrbQuest](o/orbquest-isdos.md)
 - 🅸 [Othello](o/othello-hisoftc-isdos.md)
+- 🅸 [Othello](o/othello-ru-isdos.md)

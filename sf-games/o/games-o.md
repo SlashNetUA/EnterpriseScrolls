@@ -38,6 +38,7 @@
 - 𝔹 [Othello](othello-bas.md)
 - 🅸 [Othello](othello-hisoftc-isdos.md)
 - 𝔹 [Othello Játék](othello-jatek-bas.md)
+- 🅸 [Othello](othello-ru-isdos.md)
 - △ [Out of this World](out-of-this-world.md)
 - △ [Out of this World](out-of-this-world-zx.md)
 - △ [Out Run](outrun-zx.md)

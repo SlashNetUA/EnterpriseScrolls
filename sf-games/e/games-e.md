@@ -46,6 +46,7 @@
 - 𝔹 [Escape from Atlantis](escape-from-atlantis-bas.md)
 - △ [Krakatoa](escape-from-krakatoa-zx.md)
 - 𝔹 [Escape from Mars](escape-from-mars-bas.md)
+- 🅩 [Escape from Pulsar 7](escape-from-pulsar7-zcode.md)
 - 🅩 [Escape from the Troll's Cave](escape-from-the-trolls-cave-zcode.md)
 - 🅸 [The Escaping Habit](escaping-habit-isdos.md)
 - △ [Eskimo Eddie](eskimo-eddie-zx.md)

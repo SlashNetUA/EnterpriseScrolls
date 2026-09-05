@@ -21,16 +21,16 @@ title: "2dfx: посібник програміста - EGG_C7 – інтера�
 120 SET KEY DELAY 1
 130 SET KEY CLICK OFF
 140 SET £102: PALETTE 0,73,75,219,146,182,109,255
-150 OUT 248,80
-160 OUT 249,1
+150 OUT 248,80                    ! Ініціалізація 2dfx
+160 OUT 249,1                     ! і активація режиму ENGINE_ON
 170 WAIT DELAY 2
-180 OUT 248,199
+180 OUT 248,199                   ! Виклик гри  
 190 LET A$=INKEY$
-200 IF A$="q" THEN OUT 249,8
-210 IF A$="a" THEN OUT 249,4
-220 IF A$="p" THEN OUT 249,2
-230 IF A$="l" THEN OUT 249,1
-240 IF A$="n" THEN OUT 249,128
+200 IF A$="q" THEN OUT 249,8      ! переміщення лівої біти вгору
+210 IF A$="a" THEN OUT 249,4      ! переміщення лівої біти вниз
+220 IF A$="p" THEN OUT 249,2      ! переміщення правої біти вгору
+230 IF A$="l" THEN OUT 249,1      ! переміщення правої біти вниз
+240 IF A$="n" THEN OUT 249,128    ! запуск нової гри
 250 IF A$="" THEN OUT 249,0
 260 GOTO 190
 ```

@@ -41,6 +41,7 @@
 - △ [Penetrator 2](penetrator2.md)
 - △ [Pentagram](pentagram-zx.md)
 - △ [Permolift](permolift.md)
+- 🅩 [Perseus and Andromeda](perseus-and-andromeda-zcode.md)
 - 🅸 [Personal Computing Whirled!](personal-computing-whirled-isdos.md)
 - 🅸 [Pesky Kids!](pesky-kids-isdos.md)
 - △ [Peter Pack Rat](peter-pack-rat-zx.md)

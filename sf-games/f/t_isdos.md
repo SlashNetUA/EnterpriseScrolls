@@ -4,6 +4,7 @@
 - 🅩 [Falling to Pieces](f/falling-to-pieces-zcode.md)
 - 🅩 [The Fantasy Dimension](f/fantasy-dimension-zcode.md)
 - 🅩 [Fat Bear](f/fat-bear-zcode.md)
+- 🅩 [Feasibility Experiment](f/feasibility-experiment-zcode.md)
 - 🅸 [Final Demand](f/final-demand-isdos.md)
 - 🅸 [First Past the Post](f/first-past-the-post-isdos.md)
 - 🅸 [A Fistful of Necronomicons](f/fistful-of-necronomicons-isdos.md)

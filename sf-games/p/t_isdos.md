@@ -1,6 +1,7 @@
 # P
 
 - 🅸 [The Pendant of Logryn](p/pendant-of-logryn-isdos.md)
+- 🅩 [Perseus and Andromeda](p/perseus-and-andromeda-zcode.md)
 - 🅸 [Personal Computing Whirled!](p/personal-computing-whirled-isdos.md)
 - 🅸 [Pesky Kids!](p/pesky-kids-isdos.md)
 - 🅸 [Peter's Adventure](p/peters-adventure-isdos.md)

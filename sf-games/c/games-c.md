@@ -84,6 +84,7 @@
 - △ [Chuckie Egg](chuckie-egg-zx.md)
 - 𝔹 [Cinderella](cinderella-bas.md)
 - △ [Circus Games](circus-games-zx.md)
+- 🅩 [Circus](circus-zcode.md)
 - △ [Classic Muncher](classic-muncher-zx.md)
 - 🅩 [A Clean Getaway](clean-getaway-zcode.md)
 - 🅸 [Cloud 99](cloud99-isdos.md)
