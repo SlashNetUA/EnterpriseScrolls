@@ -10,4 +10,4 @@ title: EXOS variable 188 - (MOUSE.XR)
 Status of fire button.
 
 **0**: off.  
-**1**: on.
+**255** / **1**: on.

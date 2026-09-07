@@ -96,32 +96,32 @@ title: "Питання та відповіді з Вернером Ліндне�
 > **Werner Lindner**: Я раніше про це не згадував, але шукаючи інші речі, я натрапив на свій невеликий "запас" оригінальних кабелів для ENTERPRISE. Ці фотографії та описи, ймовірно, стануть у пригоді для вашого сайту. Я ніколи не мав опису для кабелю 900-07 (кабель RCA / "тюльпан") і взагалі ніколи не бачив його в оригіналі. Ми завжди робили власні RCA-кабелі, просто припаюючи потрібний штекер до кабелю з нерозпаяним кінцем.
 
 900-02 Scart Peritel  
-<img src="../hardware/cables/900-02-scart-peritel_01.jpg" width="40%"> 
-<img src="../hardware/cables/900-02-scart-peritel_02.jpg" width="40%"> 
+<img src="../hardware/connections/pics/900-02-scart-peritel_01.jpg" width="40%"> 
+<img src="../hardware/connections/pics/900-02-scart-peritel_02.jpg" width="40%"> 
 
 900-03 Joystick 1-2 (Кабель джойстика)  
-<img src="../hardware/cables/900-03-joystick_01.jpg" width="40%"> 
-<img src="../hardware/cables/900-03-joystick_02.jpg" width="40%"> 
+<img src="../hardware/connections/pics/900-03-joystick_01.jpg" width="40%"> 
+<img src="../hardware/connections/pics/900-03-joystick_02.jpg" width="40%"> 
 
 900-04 Monitor open end (Кабель монітора)  
-<img src="../hardware/cables/900-04-monitor-open-end_01.jpg" width="30%"> 
-<img src="../hardware/cables/900-04-monitor-open-end_02.jpg" width="30%"> 
-<img src="../hardware/cables/900-04-monitor-open-end_03.jpg" width="30%"> 
+<img src="../hardware/connections/pics/900-04-monitor-open-end_01.jpg" width="30%"> 
+<img src="../hardware/connections/pics/900-04-monitor-open-end_02.jpg" width="30%"> 
+<img src="../hardware/connections/pics/900-04-monitor-open-end_03.jpg" width="30%"> 
 
 900-05 Serial-Net (Послідовний порт / Мережа)  
-<img src="../hardware/cables/900-05-serial-net_01.jpg" width="40%"> 
-<img src="../hardware/cables/900-05-serial-net_02.jpg" width="40%"> 
+<img src="../hardware/connections/pics/900-05-serial-net_01.jpg" width="40%"> 
+<img src="../hardware/connections/pics/900-05-serial-net_02.jpg" width="40%"> 
 
 900-06 Printer (Кабель принтера)  
-<img src="../hardware/cables/900-06-printer_01.jpg" width="40%"> 
-<img src="../hardware/cables/900-06-printer_02.jpg" width="40%"> 
+<img src="../hardware/connections/pics/900-06-printer_01.jpg" width="40%"> 
+<img src="../hardware/connections/pics/900-06-printer_02.jpg" width="40%"> 
 
 900-08 Joystick Adaptor (Адаптер джойстика)  
-<img src="../hardware/cables/900-08-joystick-adaptor_01.jpg" width="40%"> 
-<img src="../hardware/cables/900-08-joystick-adaptor_02.jpg" width="40%"> 
+<img src="../hardware/connections/pics/900-08-joystick-adaptor_01.jpg" width="40%"> 
+<img src="../hardware/connections/pics/900-08-joystick-adaptor_02.jpg" width="40%"> 
 
 900-10 Monitor TTL-DIN (Кабель для монітора TTL-DIN)  
-<img src="../hardware/cables/900-10-monitor-ttl-din_01.jpg" width="40%"> 
+<img src="../hardware/connections/pics/900-10-monitor-ttl-din_01.jpg" width="40%"> 
 
 ----
 

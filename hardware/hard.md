@@ -106,7 +106,8 @@ ESP
 
 ![](pics-ep/backside.png)
 
-[Pinouts](http://enterprise.iko.hu/pinouts.htm)
+[Рinouts](connections/pinouts-main.md)
+
 
 # Інше
 

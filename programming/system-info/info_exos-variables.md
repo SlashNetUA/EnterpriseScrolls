@@ -149,16 +149,16 @@ title: EXOS variables
 
 ## MOUSE.XR
 
-180 [VAR 180](exos-variables/exos_var180_mouse.md)  
-181 [VAR 181](exos-variables/exos_var181_mouse.md)  
-182 [VAR 182](exos-variables/exos_var182_mouse.md)  
-183 [VAR 183](exos-variables/exos_var183_mouse.md)  
-184 [VAR 184](exos-variables/exos_var184_mouse.md)  
-185 [VAR 185](exos-variables/exos_var185_mouse.md)  
-186 [VAR 186](exos-variables/exos_var186_mouse.md)  
-187 [VAR 187](exos-variables/exos_var187_mouse.md)  
-188 [VAR 188](exos-variables/exos_var188_mouse.md)  
-189 [VAR 189](exos-variables/exos_var189_mouse.md)  
+180 [VAR 180](exos-variables/exos_var180_mouse.md) — Video channel number  
+181 [VAR 181](exos-variables/exos_var181_mouse.md) — Status info position  
+182 [VAR 182](exos-variables/exos_var182_mouse.md) — Status info  
+183 [VAR 183](exos-variables/exos_var183_mouse.md) — Pointer colour  
+184 [VAR 184](exos-variables/exos_var184-187_mouse.md) — XLB  
+185 [VAR 185](exos-variables/exos_var184-187_mouse.md) — XHB  
+186 [VAR 186](exos-variables/exos_var184-187_mouse.md) — YLB  
+187 [VAR 187](exos-variables/exos_var184-187_mouse.md) — YHB  
+188 [VAR 188](exos-variables/exos_var188_mouse.md) — Fire button status  
+189 [VAR 189](exos-variables/exos_var189_mouse.md) — Input pointing device  
 190 [VAR 190](exos-variables/exos_var190_mouse.md)  
 
 ## EXOS 2.4

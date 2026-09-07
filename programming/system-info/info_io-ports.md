@@ -11,64 +11,71 @@ Enterprise загалом використовує лише 8-бітну адр�
 
 ## Serial card from Mr Meszaros
 
-00: Serial card 'Meszaros'  
-01: Serial card 'Meszaros'  
+00h / 0: Serial card 'Meszaros'  
+01h / 1: Serial card 'Meszaros'  
 
 ## SID "sound card"
 
-0x08 - 0x0F
+08h / 8  
+09h / 9  
+0Ah / 10  
+0Bh / 11  
+0Ch / 12  
+0Dh / 13  
+0Eh / 14  
+0Fh / 15
 
 ## [EXDOS](../../hardware/hd-exdos.md) card
 
-0x10: EXDOS WD177x write command register / read status register  
-0x11: EXDOS WD177x track register read/write  
-0x12: EXDOS WD177x sector register read/write  
-0x13: EXDOS WD177x data register read/write  
-0x14: EXDOS WD177x (echo of port 0x10) write command register / read status register  
-0x15: EXDOS WD177x (echo of port 0x11) track register read/write  
-0x16: EXDOS WD177x (echo of port 0x12) sector register read/write  
-0x17: EXDOS WD177x (echo of port 0x13) data register read/write  
-0x18: EXDOS card status/control register  
-0x19: EXDOS card (echo of port 0x18) status/control register  
-0x1A: EXDOS card (echo of port 0x18) status/control register  
-0x1B: EXDOS card (echo of port 0x18) status/control register  
-0x1C: EXDOS card (echo of port 0x18) status/control register  
-0x1D: EXDOS card (echo of port 0x18) status/control register  
-0x1E: EXDOS card (echo of port 0x18) status/control register  
-0x1F: EXDOS card (echo of port 0x18) status/control register  
+10h / 16: EXDOS WD177x write command register / read status register  
+11h / 17: EXDOS WD177x track register read/write  
+12h / 18: EXDOS WD177x sector register read/write  
+13h / 19: EXDOS WD177x data register read/write  
+14h / 20: EXDOS WD177x (echo of port 0x10) write command register / read status register  
+15h / 21: EXDOS WD177x (echo of port 0x11) track register read/write  
+16h / 22: EXDOS WD177x (echo of port 0x12) sector register read/write  
+17h / 23: EXDOS WD177x (echo of port 0x13) data register read/write  
+18h / 24: EXDOS card status/control register  
+19h / 25: EXDOS card (echo of port 0x18) status/control register  
+1Ah / 26: EXDOS card (echo of port 0x18) status/control register  
+1Bh / 27: EXDOS card (echo of port 0x18) status/control register  
+1Ch / 28: EXDOS card (echo of port 0x18) status/control register  
+1Dh / 29: EXDOS card (echo of port 0x18) status/control register  
+1Eh / 30: EXDOS card (echo of port 0x18) status/control register  
+1Fh / 31: EXDOS card (echo of port 0x18) status/control register  
 
 ## Turbo [EXDOS](../../hardware/hd-exdos.md) speed switching
 
-0x20: Turbo EXDOS speed switching
+20h / 32: Turbo EXDOS speed switching
 
 ## Not so much used, special
 
 > There is a plan to use [Z180](../../hardware/cpu/z180.md) in the Enterprise instead of [Z80](../../hardware/cpu/z80.md) by Zozo (note: Z180 is not fully Z80 compatible, for example it does not know the IX/IY register splitting into two 8 bit ones). Since Z180 has built-in I/O ports, some EXOS versions from Zozo use these ports to pre-program the Z180 I/O space not to collade with other I/O ports in the system.
 
-0x32: Z180 configuration   
-0x3F: Z180 configuration   
+32h / 50: Z180 configuration   
+3Fh / 63: Z180 configuration   
 
 ## [ZX Spectrum emulator](../../hardware/he-zxemu.md) card
 
-0x40: ZX Spectrum emulator card, high byte address  
-0x41: ZX Spectrum emulator card, low byte address  
-0x42: ZX Spectrum emulator card, data  
-0x43: ZX Spectrum emulator card, operation type  
-0x44: Spectrum emulator, write: enable emulator  
+40h / 64: ZX Spectrum emulator card, high byte address  
+41h / 65: ZX Spectrum emulator card, low byte address  
+42h / 66: ZX Spectrum emulator card, data  
+43h / 67: ZX Spectrum emulator card, operation type  
+44h / 68: Spectrum emulator, write: enable emulator  
 
 ## APU (AMD Am9511) "FPU" I/O ports
 
 > An experiment to add some mathematical processing power :) to the system with the [AMD Am9511 chip](../../hardware/cpu/am9511.md), also named as the "APU". There is not so much a standard way to use its capabilities, you need custom softwares written for it.
 
-0x50: APU (AMD Am9511) "FPU" read data or write data  
-0x51: APU (AMD Am9511) "FPU" read status or write command  
+50h / 80: APU (AMD Am9511) "FPU" read data or write data  
+51h / 81: APU (AMD Am9511) "FPU" read status or write command  
 
 ## RTC card from Zozosoft
 
 > Zozosoft's RTC card, supported by ZT (ZozoTools) ROM (you can have real time clock above the status line with the help of 1Hz interrupt).
 
-0x7E: CMOS RTC/memory register select  
-0x7F: CMOS RTC/memory register read/write  
+7Eh / 126: CMOS RTC/memory register select  
+7Fh / 127: CMOS RTC/memory register read/write  
 
 ## Built-in: [Nick](../../hardware/hm-nick.md) (video chip) I/O ports
 
@@ -92,60 +99,60 @@ Enterprise загалом використовує лише 8-бітну адр�
 
 ## Built-in: [Dave](../../hardware/hm-dave.md) (audio, interrupt controller, memory mapper chip) I/O ports
 
-0xA0: Dave tone channel 0 frequency low byte  
-0xA1: Dave tone channel 0 frequency high nybble + params  
-0xA2: Dave tone channel 1 frequency low byte  
-0xA3: Dave tone channel 1 frequency high nybble + params  
-0xA4: Dave tone channel 2 frequency low byte  
-0xA5: Dave tone channel 2 frequency high nybble + params  
-0xA6: Dave noise frequency, polynominal counter + misc  
-0xA7: Dave sync, D/A mode, and interrupt selection  
-0xA8: Dave tone channel 0 left volume  
-0xA9: Dave tone channel 1 left volume  
-0xAA: Dave tone channel 2 left volume  
-0xAB: Dave noise channel left volume  
-0xAC: Dave tone channel 0 right volume  
-0xAD: Dave tone channel 1 right volume  
-0xAE: Dave tone channel 2 right volume  
-0xAF: Dave noise channel right volume  
-0xB0: Dave MMU reg, page 0 (0000-3FFF) selector  
-0xB1: Dave MMU reg, page 1 (4000-7FFF) selector  
-0xB2: Dave MMU reg, page 2 (8000-BFFF) selector  
-0xB3: Dave MMU reg, page 3 (C000-FFFF) selector  
-0xB4: Dave enable/reset interrupt sources/latches  
-0xB5: Dave active low strobe on WR0/RD0 (keyboard row select/read)  
-0xB6: Dave active low strobe on WR1/RD1   
-0xB7: Dave active low strobe on WR2/RD2  
-[0xBF / 191](ports/port191.md): Dave sysconfig register (wait states, clkdiv)  
+A0h / 160: Dave tone channel 0 frequency low byte  
+A1h / 161: Dave tone channel 0 frequency high nybble + params  
+A2h / 162: Dave tone channel 1 frequency low byte  
+A3h / 163: Dave tone channel 1 frequency high nybble + params  
+A4h / 164: Dave tone channel 2 frequency low byte  
+A5h / 165: Dave tone channel 2 frequency high nybble + params  
+A6h / 166: Dave noise frequency, polynominal counter + misc  
+A7h / 167: Dave sync, D/A mode, and interrupt selection  
+A8h / 168: Dave tone channel 0 left volume  
+A9h / 169: Dave tone channel 1 left volume  
+AAh / 170: Dave tone channel 2 left volume  
+ABh / 171: Dave noise channel left volume  
+ACh / 172: Dave tone channel 0 right volume  
+ADh / 173: Dave tone channel 1 right volume  
+AEh / 174: Dave tone channel 2 right volume  
+AFh / 175: Dave noise channel right volume  
+B0h / 176: Dave MMU reg, page 0 (0000-3FFF) selector  
+B1h / 177: Dave MMU reg, page 1 (4000-7FFF) selector  
+B2h / 178: Dave MMU reg, page 2 (8000-BFFF) selector  
+B3h / 179: Dave MMU reg, page 3 (C000-FFFF) selector  
+B4h / 180: Dave enable/reset interrupt sources/latches  
+[B5h / 181](ports/port181.md): Dave active low strobe on WR0/RD0 (keyboard row select/read)    
+[B6h / 182](ports/port182.md): Dave active low strobe on WR1/RD1 (Printer / Ext Joysticks / SerialNet / Tape)     
+[B7h / 183](ports/port183.md): Dave active low strobe on WR2/RD2 (SerialNet)   
+[BFh / 191](ports/port191.md): Dave sysconfig register (wait states, clkdiv)    
 
 ## [IDE card](../../hardware/exdos/hd-ide.md) from Zozosoft
 
-0xE0: Possible another IDE card (see ports 0xEC-0xEF for the layout)   
-0xE1		- "" -  
-0xE2		- "" -   
-0xE3		- "" -  
-0xE4: Possible another IDE card (see ports 0xEC-0xEF for the layout)  
-0xE5		- "" -  
-0xE6		- "" -  
-0xE7		- "" -  
-0xE8: Possible another IDE card (see ports 0xEC-0xEF for the layout)  
-0xE9		- "" -  
-0xEA		- "" -  
-0xEB		- "" -  
-0xEC: IDE data register low byte  
-0xED: IDE data register high byte  
-0xEE: IDE command register port 1  
-0xEF: IDE command register port 0  
+E0h / 224: Possible another IDE card (see ports 0xEC-0xEF for the layout)   
+E1h / 225		- "" -  
+E2h / 226		- "" -   
+E3h / 227		- "" -  
+E4h / 228: Possible another IDE card (see ports 0xEC-0xEF for the layout)  
+E5h / 229		- "" -  
+E6h / 230		- "" -  
+E7h / 231		- "" -  
+E8h / 232: Possible another IDE card (see ports 0xEC-0xEF for the layout)  
+E9h / 233		- "" -  
+EAh / 234		- "" -  
+EBh / 235		- "" -  
+ECh / 236: IDE data register low byte  
+EDh / 237: IDE data register high byte  
+EEh / 238: IDE command register port 1  
+EFh / 239: IDE command register port 0  
 
 ## External DAC
 
 > I have not so much idea, it's some kind of solution to play digitalized samples in a better quality than Dave can do (6 bits).  
 > 4 x 8bit DAC, probably to support 4 channel "MOD like" file playing (DTM files?). It's stereo, 2-2 channels for left and right.
 
-0xF0: External DAC write  
-0xF1: External DAC write  
-0xF2: External DAC write  
-0xF3: External DAC write  
+F0h / 240: External DAC write  
+F1h / 241: External DAC write  
+F2h / 242: External DAC write  
+F3h / 243: External DAC write  
 
 ## [2dfx](../../hardware/hv-2dfx.md)
 
@@ -157,5 +164,5 @@ Enterprise загалом використовує лише 8-бітну адр�
 
 > See information about the Spectrum emulator above in the list. These ports are used in ZX Spectrum.
 
-0xFE: Spectrum emulator  
-0xFF: Spectrum emulator  
+FEh / 254: Spectrum emulator  
+FFh / 255: Spectrum emulator  

@@ -1,5 +1,5 @@
 ---
-title: "IS-Basic Manual. LOOK"
+title: IS-Basic Manual. LOOK
 ---
 # LOOK
 
@@ -15,4 +15,5 @@ Assigns to variable '**v**' the palette colour at point (**x**,**y**) on the sta
 
 **LOOK** command without parameters causing cool freezes.
 
-![video](https://youtu.be/P6J6GMkIIwg)
+<iframe src="https://www.youtube.com/embed/P6J6GMkIIwg"  
+style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>

@@ -14,4 +14,6 @@ title: EXOS variable 12 - TAPE_SND
 
 ----
 
-See also [SET TAPE SOUND ON/OFF](../../../manuals/is-basic-man-en/options/man_mo-tape-snd.md)
+See also:  
+[SET TAPE SOUND ON/OFF](../../../manuals/is-basic-man-en/options/man_mo-tape-snd.md)  
+[port181](../ports/port181.md)  

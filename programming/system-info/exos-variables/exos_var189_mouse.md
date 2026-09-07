@@ -7,7 +7,7 @@ title: EXOS variable 189 - (MOUSE.XR)
 `SET 189, expr`  
 `TOGGLE 189` - inverts value.
 
-Change mouse pointing device.
+Input pointing device.
 
 | Value | Device                            | Buttons                      |
 |:-----:| --------------------------------- | ---------------------------- |
