@@ -4,7 +4,7 @@ title: Чип «Dave»
 # DAVE
 
 <div style="text-align:center;">
-    <img src="pics-mb/hard_dave-08-05-au.jpg" width="50%">
+    <img src="motherboard/pics/hard_dave-08-05-au.jpg" width="50%">
 </div>
 
 Тип: **Менеджмент пам'яті, обробка переривань та генерація звуку**  
