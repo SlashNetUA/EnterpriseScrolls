@@ -11,3 +11,9 @@
 **Для перегляду списку ігор виберіть згори потрібну категорію.**
 
 Або можна завантажити [Повний каталог ігрового програмного забезпечення](https://drive.google.com/drive/folders/1yKjXlATVuQCeVjZDJYHMZFnFBmhgUj-g) у форматі PDF (включно з неробочими та загубленими релізами)
+
+----
+
+## Статті на тему
+
+[Az Enterprise játékok története](https://ep128.hu/Ep_Games_History.htm)

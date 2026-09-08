@@ -9,10 +9,11 @@ title: Апаратне забезпечення
 Магнітофони  
 [Картріджі](cartridge/cart-main.md)  
 [EXDOS](hd-exdos.md)  
-Дисководи  
+[Дисководи](drives/floppy-drives.md)  
 [Адаптер SD-карт](hd-sd-card-adapter.md)  
-Контролери жорстких дисків  
-CBM Multi File Transfer  
+[Контролер жорсткого диску IDE](exdos/hd-ide.md)  
+[Контролер жорсткого диску MFM](exdos/hd-exdos-hdd-mfm.md)  
+[CBM Multi File Transfer](interface/cbm.md)  
 
 # Емулятори
 
@@ -93,7 +94,7 @@ ESP
 
 # Живлення
 
-Блок живлення  
+[Блок живлення](power/power-main.md)  
 Адаптери  
 Вимикачі  
 
@@ -111,7 +112,9 @@ ESP
 
 # Інше
 
-RTC
+RTC  
+[Digitális IC Teszter](https://ep128.hu/Ep_Hardware/TTL_IC_Tester.htm)
+
 
 # Корпус та 3D-моделі
 
@@ -129,6 +132,8 @@ RTC
 
 ## Внутрішні розширення ОЗП
 
+[int-ram-exp-main](ram-expansion/int-ram-exp-main.md)
+
 ## Процесори/сопроцесори
 
 [Zilog Z80](cpu/z80.md)  
@@ -142,7 +147,8 @@ RTC
 
 ## Розгін
 
-[miniTurbo](mods/miniturbo.md)
+[miniTurbo](mods/miniturbo.md)  
+SMD turbókártya
 
 ## Живлення
 

@@ -8,3 +8,5 @@ title: Компанія «Intelligent Software Ltd»
 
 
 Стаття про компанію у [Personal Computer World 1983.04](https://archive.org/details/PersonalComputerWorld1983-04/page/196/mode/2up)
+
+[Intelligent Software](https://ep128.hu/Ep_Hardware/Intelligent_Software.htm) (угорською)

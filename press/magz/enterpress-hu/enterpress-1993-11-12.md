@@ -10,5 +10,8 @@ title: Журнал «Enterpress 1993/6 (1993.11-12)»
 
 ## Зміст
 
+[Az Enterprise DOS lemezek felépítése](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#3a)  
+
+----
 
 [Чернетка вмісту](1993-11-12/epress-1993-11-12.txt)

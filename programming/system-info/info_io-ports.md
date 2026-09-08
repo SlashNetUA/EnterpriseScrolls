@@ -154,6 +154,12 @@ F1h / 241: External DAC write
 F2h / 242: External DAC write  
 F3h / 243: External DAC write  
 
+## MIDI-card / ep128emu MIDI emulation
+
+[F6h / 246](ports/port246.md): CONTROL/STATUS port  
+[F7h / 247](ports/port247.md): DATA8 port   
+
+
 ## [2dfx](../../hardware/hv-2dfx.md)
 
 [F8h / 248](ports/port248.md):  введення команд, та отримання статусу роботи карти розширення  

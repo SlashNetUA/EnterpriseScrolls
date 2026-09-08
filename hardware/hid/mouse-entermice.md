@@ -22,3 +22,5 @@ title: Інтерфейс «EnterMice»
 - [німецькою](https://wiki.enterpriseforever.com/index.php?title=EnterMice_(Deutsch))
 - [угорською](https://wiki.enterpriseforever.com/index.php?title=EnterMice_(Magyar))
 
+
+[EnterMice](https://ep128.hu/Ep_Hardware/Ep_EnterMice.htm) (угорською)

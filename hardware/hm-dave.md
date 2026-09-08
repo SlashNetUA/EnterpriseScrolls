@@ -48,3 +48,7 @@ title: Чип «Dave»
 
 
 [Системна інформація для програмування](../programming/system-info/dave/pro-dave.md)
+
+<div style="text-align:center;">
+<img src="motherboard/schemes/chip_dave.svg" alt="розпіновка мікросхеми Dave" width="50%"><br><i>розпіновка мікросхеми Dave</i></div>
+

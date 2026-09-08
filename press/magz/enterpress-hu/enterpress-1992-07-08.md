@@ -10,4 +10,9 @@ title: Журнал «Enterpress 1992/4 (1992.07-08)»
 
 ## Зміст
 
+[Pascal 12. rész](https://ep128.hu/Ep_Konyv/Enterpress_Pascal.htm#12)  
+[Kooprocesszort az ENTERPRISE-ba!](https://ep128.hu/Ep_Hardware/Ep_Kooprocesszor.htm)
+
+----
+
 [Чернетка вмісту](1992-07-08/epress-1992-07-08.txt)

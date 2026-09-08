@@ -12,3 +12,4 @@ title: Модуль «MiniTurbo»
 
 [http://magazin.enterpress.news.hu/2023/3-4/index.html#p=4](http://magazin.enterpress.news.hu/2023/3-4/index.html#p=4)
 
+[miniTURBO panel](https://ep128.hu/Ep_Hardware/Ep_Turbok2.htm) (угорською)

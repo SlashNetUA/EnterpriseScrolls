@@ -14,7 +14,7 @@ Az Enterprise elbűvölt képességeivel és könnyű bővíthetőségével - In
 Halló! Itt az emulátor?  
 A SOUND utasítás rejtelmei I.  
 Új buszbővítő és M-Slot (MSX cartridge adapter)  
-Microsoft Basic  
+[Microsoft BASIC programok futtatása Ep-n](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#6d)  
 SE-ONE kártya  
 Készül az EXDOS 3.0  
 Arrow of Death. Part 1  

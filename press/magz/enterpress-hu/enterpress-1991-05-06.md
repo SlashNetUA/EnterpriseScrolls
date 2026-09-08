@@ -10,4 +10,11 @@ title: Журнал «Enterpress 1991/3 (1991.05-06)»
 
 ## Зміст
 
+[Assembly 5. rész](https://ep128.hu/Ep_Konyv/Enterpress_Gepikod.htm#a5) (ASMON)  
+[Pascal 5. rész](https://ep128.hu/Ep_Konyv/Enterpress_Pascal.htm#3b)  
+[Lehetőségek Páratlan Tárháza - az LPT kezelése 4. rész](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#1)  
+[Az ismeretlen SPOKE és SPEEK](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#3)  
+
+----
+
 [Чернетка вмісту](1991-05-06/epress-1991-05-06.txt)

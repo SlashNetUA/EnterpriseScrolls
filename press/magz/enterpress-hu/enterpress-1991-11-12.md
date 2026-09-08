@@ -10,4 +10,9 @@ title: Журнал «Enterpress 1991/6 (1991.11-12)»
 
 ## Зміст
 
+[Assembly 8. rész](https://ep128.hu/Ep_Konyv/Enterpress_Gepikod.htm#a8)  
+[Pascal 8. rész](https://ep128.hu/Ep_Konyv/Enterpress_Pascal.htm#4j)  
+[Az Eletjáték (2)](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#life)  
+[Buszkiterjesztő egység több bővítőkártya ilesztésére](https://ep128.hu/Ep_Hardware/Ep_Buszkiterjeszto.htm)
+
 [Чернетка вмісту](1991-01-02/epress-1991-11-12.txt)

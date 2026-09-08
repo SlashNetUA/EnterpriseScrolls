@@ -10,9 +10,10 @@ title: Журнал «Enterpress 1990/2 (1990.11-12)»
 
 ## Зміст
 
-Assembly 2. rész  
-Pascal 1. rész  
-Lehetőségek Páratlan Tárháza - az LPT kezelése 1. rész  
+Tisztelt Olvasó!  
+[Assembly 2. rész](https://ep128.hu/Ep_Konyv/Enterpress_Gepikod.htm#a2)  
+[Pascal 1. rész](https://ep128.hu/Ep_Konyv/Enterpress_Pascal.htm#1)  
+[Lehetőségek Páratlan Tárháza - az LPT kezelése 1. rész](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#1)  
 Videofüggvények  
 KEYBPC – intelligens billentyűzetpuffer  
 Tippek-trükkök  

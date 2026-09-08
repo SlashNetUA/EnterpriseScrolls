@@ -10,5 +10,8 @@ title: Журнал «Enterpress 1993/4 (1993.07-08)»
 
 ## Зміст
 
+[Gyökvonás](https://ep128.hu/Ep_Konyv/Enterpress_Gepikod.htm#c2)  
+
+----
 
 [Чернетка вмісту](1993-07-08/epress-1993-07-08.txt)

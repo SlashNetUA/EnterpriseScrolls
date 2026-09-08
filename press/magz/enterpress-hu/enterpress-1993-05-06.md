@@ -10,5 +10,8 @@ title: Журнал «Enterpress 1993/3 (1993.05-06)»
 
 ## Зміст
 
+[Cartridge átalakítások](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#5d)  
+
+----
 
 [Чернетка вмісту](1993-05-06/epress-1993-05-06.txt)

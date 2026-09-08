@@ -10,4 +10,11 @@ title: Журнал «Enterpress 1991/5 (1991.09-10)»
 
 ## Зміст
 
+[Az AUTOFIRE belövése](https://ep128.hu/Ep_Hardware/Ep_Botkormany.htm)  
+[Assembly 7. rész](https://ep128.hu/Ep_Konyv/Enterpress_Gepikod.htm#a7)  
+[Pascal 7. rész](https://ep128.hu/Ep_Konyv/Enterpress_Pascal.htm#4h)  
+[Az Eletjáték](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#life)  
+[Mi lakik a cartridge-ben?](https://ep128.hu/Ep_Hardware/Ep_Memoria.htm)
+
+
 [Чернетка вмісту](1991-09-10/epress-1991-09-10.txt)

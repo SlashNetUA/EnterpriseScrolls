@@ -34,3 +34,9 @@ title: Відеопроцесор «Nick»
 - **Вказівникова організація пам'яті:** використання вказівників для максимальної гнучкості та швидкодії при відображенні даних.
 
 [Системна інформація для програмування](../programming/system-info/nick/pro-nick.md)
+
+<div style="text-align:center;">
+<img src="motherboard/schemes/chip_nick.svg" alt="розпіновка мікросхеми Nick" width="50%"><br><i>розпіновка мікросхеми Nick</i></div>
+
+
+

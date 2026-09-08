@@ -14,7 +14,7 @@ title: Контролер «EXDOS»
 ## Офіційні пристрої
 
 Модуль розширення EXDOS (німецькі без наліпки)  
-[Diskettenstation 3.5](hd-diskettenstation-35.md)  
+[Diskettenstation 3.5](drives/diskettenstation-35.md)  
 [MFM HDD Interface](exdos/hd-exdos-hdd-mfm.md)  
 
 ## Неофіційні пристрої
@@ -33,3 +33,8 @@ EXDOS Card+RAM Ext by MIKROTEAM
 EXDOS Card by Gyula Meszaros  
 [DDC](exdos/hd-exdos-ddc.md) by Jan Versteeg  
 [Enterprise Disc-Controller](exdos/hd-exdos-w-lindner.md) by [Werner Lindner](../peoples/ec-de/pers_werner-lindner.md)  
+
+## Додаткові посилання
+
+[Знайомство з "дисковою" машиною](https://ep128.hu/Ep_Hardware/Ep_Exdos.htm) (угорською)  
+[Turbo EXDOS](https://ep128.hu/Ep_Hardware/Ep_WD_Turbo.htm) (угорською)  

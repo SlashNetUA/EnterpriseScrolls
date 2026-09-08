@@ -10,12 +10,13 @@ title: Журнал «Enterpress 1990/1 (1990.09)»
 
 ## Зміст
 
-Assembly 1 .rész  
-Tömbök rendezése  
+[Tisztelt Olvasó!](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm)  
+[Assembly 1 .rész](https://ep128.hu/Ep_Konyv/Enterpress_Gepikod.htm#a1)    
+[Tömbök rendezése](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#1a)  
 Sprite tervezés a FINE_PEN-nel  
 Funkcióbillentyűk - máshogy  
 Nyomtató hiányában  
-Színes videókimenet  
+[Színes videókimenet](https://ep128.hu/Ep_Hardware/Videokimenet.htm)  
 Gyorsabb directory  
 Röviden az editorcsatornáról  
 Üzenet a státuszsorban  

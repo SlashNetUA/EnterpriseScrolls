@@ -20,25 +20,25 @@ Expansion Port / Expansion Bus
 
 Cartridge
 
-Internal Expansion
+[Internal Expansion](pinouts-int-exp.md)
 
 [Internal Keyboard](pinouts-kb-int.md)
 
 [Control 1](pinouts-control12.md) / [Control 2](pinouts-control12.md)
 
-Printer
+[Printer](pinouts-printer.md)
 
-Serial / Network
+[Serial / Network](pinouts-serial-net.md)
 
-Monitor / Audio
+[Monitor / Audio](pinouts-monitor.md)
 
 [Tape IN/OUT](pinouts-tape-rem.md) / [REM 1/2](pinouts-tape-rem.md)
 
-Power
+[Power](pinouts-power.md)
 
-TV
+[TV](pinouts-tv.md)
 
-CBM
+[CBM](pinouts-cbm.md)
 
 
 

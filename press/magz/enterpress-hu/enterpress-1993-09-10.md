@@ -10,5 +10,8 @@ title: Журнал «Enterpress 1993/5 (1993.09-10)»
 
 ## Зміст
 
+[Mi a teendő botkormányválság esetén?](https://ep128.hu/Ep_Hardware/Ep_Botkormany.htm)  
+[A WD turbósítása](https://ep128.hu/Ep_Hardware/Ep_WD_Turbo.htm)
+
 
 [Чернетка вмісту](1993-09-10/epress-1993-09-10.txt)

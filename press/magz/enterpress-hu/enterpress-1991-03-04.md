@@ -10,4 +10,12 @@ title: Журнал «Enterpress 1991/2 (1991.03-04)»
 
 ## Зміст
 
+[Assembly 4. rész](https://ep128.hu/Ep_Konyv/Enterpress_Gepikod.htm#a4)  
+[Pascal 3. rész](https://ep128.hu/Ep_Konyv/Enterpress_Pascal.htm#3a)  
+[Lehetőségek Páratlan Tárháza - az LPT kezelése 3. rész](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#1)  
+[Hanoi Tornyai](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#2a)  
+[ENTERPRISE képviselet nyílt Budapesten](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#2b)  
+
+----
+
 [Чернетка вмісту](1991-03-04/epress-1991-03-04.txt)

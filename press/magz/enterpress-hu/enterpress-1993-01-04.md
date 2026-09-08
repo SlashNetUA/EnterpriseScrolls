@@ -10,5 +10,11 @@ title: Журнал «Enterpress 1993/1-2 (1993.01-04)»
 
 ## Зміст
 
+[Szorzás, osztás](https://ep128.hu/Ep_Konyv/Enterpress_Gepikod.htm#c1)  
+[RAM-szegmensek az EXOS alatt](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#4a)  
+[A tömörített programokról](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#4b) (kiegészítve)  
+[A bináris számokról](https://ep128.hu/Ep_Konyv/Enterpress_Cikkek.htm#5)  
+
+----
 
 [Чернетка вмісту](1993-01-04/epress-1993-01-04.txt)

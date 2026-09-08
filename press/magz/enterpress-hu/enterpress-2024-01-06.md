@@ -13,7 +13,7 @@ title: Журнал «Enterpress 2024/1-3 (2024.01-06)»
 
 Mikor az élet közbeszól ...  
 A MIDI zenék mágusa. Interjú: Bodnár Tamással  
-Programozási nyelvek. Avagy miért éppen a BASIC? – I. rész  
+[Programozási nyelvek. Avagy miért éppen a BASIC? – I. rész](https://ep128.hu/Ep_Konyv/Enterpress_Programozasi_nyelvek.htm)  
 Soundtracker 2.1 (Rockmonitor)  
 Yoomp!  
 Helyzetjelentés az Enterprise Issue7 alaplapról  

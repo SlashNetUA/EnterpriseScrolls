@@ -10,5 +10,8 @@ title: Журнал «Enterpress 1995/1 (1995.01-02)»
 
 ## Зміст
 
+[Gépi kódú programozás kezdőknek V. rész](https://ep128.hu/Ep_Konyv/Enterpress_Gepikod.htm#b5)  
+
+----
 
 [Чернетка вмісту](1995-01-02/epress-1995-01-02.txt)
