@@ -6,7 +6,7 @@ title: Журнал «Enterprise News»
 <div style="text-align:center;">
 <img src="enterprise-news-hu/logo-enews.jpg" alt=""></div>
 
-Був створений лише один тестовий номер який так і не був виданий.
+Цей журнал мав стати наступником [Enterpress](pr-enterpress-hu.md), але був створений лише один тестовий номер який так і не був виданий.
 
 
 ## 1999

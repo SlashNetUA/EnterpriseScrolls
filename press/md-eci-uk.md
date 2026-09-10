@@ -4,4 +4,4 @@
 
 ## 1989
 
-Enterprise Computing International #1
+[eci-1989-02](magz/eci-uk/eci-1989-02.md)

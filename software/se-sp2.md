@@ -5,7 +5,7 @@ title: "Емулятор SP"
 
 Емулятор комп'ютера **Sinclair ZX Spectrum 48**.
 
-Автор: Alexander Gusev (1993 р.)  
+Автор: [Alexander Gusev](../peoples/ru/pers_alexandr-gusev.md) (1993 р.)  
 Системні вимоги: Enterprise 128k  
 EXOS-сумістність:
  - версія 2.1 - не працює на комп'ютерах з розширенням пам'яті

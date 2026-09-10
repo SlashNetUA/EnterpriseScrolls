@@ -7,4 +7,11 @@ title: Журнал «Enterprise Computing International (ECI)»
 
 ## 1989
 
-Enterprise Computing International #1
+<div class="tiles">
+  <div class="tile"><a href="eci-uk/eci-1989-02.html">
+    <img src="eci-uk/1989-02/eci-1989-02_01.png" width="24%">
+    <div class="title">Enterprise Computing International #1</div></a>
+  </div>
+</div>
+
+

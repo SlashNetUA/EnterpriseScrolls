@@ -11,6 +11,7 @@ title: Апаратний емулятор комп'ютера «ZX Spectrum»
 [http://ep128.hu/Ep_Hardware/Ep_Emulator1.htm](http://ep128.hu/Ep_Hardware/Ep_Emulator1.htm)      
 [http://ep128.hu/Ep_Hardware/Ep_Emulator2.htm](http://ep128.hu/Ep_Hardware/Ep_Emulator2.htm)
 
+[Manual](http://ep.homeserver.hu/Dokumentacio/Egyebek/Spectrum_emulator_kezikonyv/Spectrum_Emulator_Kezikonyv.htm) (угорською)
 
 ## Швидкий старт з користування
 
