@@ -15,9 +15,9 @@ Sáránszki Mihály
 
 [DevTool](../../programming/devtool/dt-main.md)
 
-[PuckMan]()  
-[Monty on the Run](../../sf-games/m/sg-montyontherun.md)  
-[Fitter](../../sf-games/f/sg-fitter.md)  
+[PuckMan](../../sf-games/p/puck-man-tvc.md)  
+[Monty on the Run](../../sf-games/m/monty-on-the-run-tvc.md)  
+[Fitter](../../sf-games/f/fitter-tvc.md)  
 
 
 
