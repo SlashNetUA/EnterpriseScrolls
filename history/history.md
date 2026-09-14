@@ -28,3 +28,22 @@ title: Історичні подробиці пов'язані з комп'ют�
 ## Тім Бокс
 
 ## Дейв Вудфілд
+
+# Компанії, підприємства та фірми
+
+[Enterprise Computers Ltd](../companies/enterprise-computers-ltd.md) 
+
+[Intelligent Sofware Ltd](../companies/intelligent-software-ltd.md)
+
+[Enterprise Computers GmbH](../companies/enterprise-computers-gmbh.md)
+
+----
+
+[Постачальники / виробники](../companies/list_suppliers.md)
+
+[Дистриб'ютори](../companies/list_distributors.md)
+
+[Софтверні компанії](../companies/list_sw-companies.md)
+
+[Розробники обладнання](../companies/list_hw-companies.md)
+

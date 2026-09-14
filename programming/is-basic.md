@@ -6,7 +6,7 @@ title: "IS-Basic"
 <img src="../software/releases/covr_is-basic.png" height="288"> 
 <img src="../software/screenshots/scrn_is-basic_01.png" height="288"> 
 
-Розробник: [Intelligent Software Ltd.](../companies/intelligent-sofware-ltd.md)  
+Розробник: [Intelligent Software Ltd.](../companies/intelligent-software-ltd.md)  
 Автори: [Bruce Tanner](../peoples/ec-uk/pers_bruce-tanner.md) та [Mike Johnson](../peoples/ec-uk/pers_mike-johnson.md) (рання версія написана на С) 
 
 ----

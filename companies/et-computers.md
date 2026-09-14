@@ -1,13 +1,13 @@
 ---
-title: E.T. Computers A/S
+title: ET Computers A/S
 ---
-# E.T. Computers A/S
+# ET Computers A/S
 
 ![](pics/logo_et-computers.png)
 
 Офіційний дистриб'ютор у Норвегії
 
-[pers_eigil-toft](../peoples/pers_eigil-toft.md)
+[Eigil Toft](../peoples/pers_eigil-toft.md)
 
-[pers_roger-skoglund](../peoples/pers_roger-skoglund.md)
+[Roger Skoglund](../peoples/pers_roger-skoglund.md)
 

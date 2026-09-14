@@ -13,3 +13,18 @@ title: Компанія «Enterprise Computers Ltd.»
 
 - **Samurai Worldwide Ltd.** — змінена після того як виявилось що є комп'ютери Samurai від Nissei Sangyo дочірньої компанії Hitachi
 - **Elan Computers Ltd.** — змінена після позову компанії зі схожою назвою (скоріш за все це була Elan Digital Systems Ltd з лінійкою продуктів з назвою Elan). 
+
+[Lachu Mahtani](../peoples/ec-uk/pers_lachu-mahtani.md)
+
+[Michael Shirley](../peoples/ec-uk/pers_michael-shirley.md)
+
+[Charles Macadam](../peoples/ec-uk/pers_charles-macadam.md)
+
+[Dave Woodfield](../peoples/ec-uk/pers_dave-woodfield.md)
+
+[Nick Toop](../peoples/ec-uk/pers_nick-toop.md)
+
+[Robert Madge](../peoples/ec-uk/pers_robert-madge.md)
+
+[Steve Groves](../peoples/ec-uk/pers_steve-groves.md)
+

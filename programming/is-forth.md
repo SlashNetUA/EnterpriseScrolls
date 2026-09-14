@@ -6,7 +6,7 @@ title: "IS-Forth"
 <img src="../software/releases/covr_forth.png" height="288"> 
 <img src="../software/screenshots/scrn_is-forth-11_01.png" height="288"> 
 
-Розробник: [Intelligent Software Ltd.](../companies/intelligent-sofware-ltd.md)  
+Розробник: [Intelligent Software Ltd.](../companies/intelligent-software-ltd.md)  
 Автор: [Bruce Tanner](../peoples/ec-uk/pers_bruce-tanner.md)  
 
 ----

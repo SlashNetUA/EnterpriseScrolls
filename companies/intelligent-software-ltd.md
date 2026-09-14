@@ -17,3 +17,27 @@ title: Компанія «Intelligent Software Ltd»
 Нижній ряд (зліва-направо): [Марк Річер](../peoples/ec-uk/pers_mark-richer.md), Марк Тейлор, Девід Легг, [Мартін Лі](../peoples/ec-uk/pers_martin-lea.md), [Ґері (?)](../peoples/ec-uk/pers_gary-gnh.md), (???)*
 
 [Intelligent Software](https://ep128.hu/Ep_Hardware/Intelligent_Software.htm) (угорською)
+
+[David Levy](../peoples/ec-uk/pers_david-levy.md)
+
+[Kevin O'Connell](../peoples/ec-uk/pers_kevin-oconnell.md)
+
+
+
+[Bruce Tanner](../peoples/ec-uk/pers_bruce-tanner.md)
+
+[Charles G. Eliot](../peoples/ec-uk/pers_charles-g-eliot.md)
+
+[Mark Richer](../peoples/ec-uk/pers_mark-richer.md)
+
+[Martin Lea](../peoples/ec-uk/pers_martin-lea.md)
+
+[Mike Johnson](../peoples/ec-uk/pers_mike-johnson.md)
+
+[Nick Vincent](../peoples/ec-uk/pers_nick-vincent.md)
+
+[Richard Lang](../peoples/ec-uk/pers_richard-lang.md)
+
+[Gary ?](../peoples/ec-uk/pers_gary-gnh.md)
+
+[ael](../peoples/ec-uk/pers_ael.md) ?

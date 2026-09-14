@@ -6,7 +6,7 @@ title: "IS-Lisp"
 <img src="../software/releases/covr_lisp.png" height="288"> 
 <img src="../software/screenshots/scrn_is-lisp-06_01.png" height="288"> 
 
-Розробник: [Intelligent Software Ltd.](../companies/intelligent-sofware-ltd.md)  
+Розробник: [Intelligent Software Ltd.](../companies/intelligent-software-ltd.md)  
 Автор: [Mark Richer](../peoples/ec-uk/pers_mark-richer.md)  
 
 ----

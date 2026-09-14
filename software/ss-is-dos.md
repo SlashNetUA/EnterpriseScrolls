@@ -3,7 +3,7 @@ title: "Дискова операційна система IS-DOS"
 ---
 # IS-DOS
 
-Розробник: [Intelligent Sofware Ltd](../companies/intelligent-sofware-ltd.md)  
+Розробник: [Intelligent Sofware Ltd](../companies/intelligent-software-ltd.md)  
 Автори: [Bruce Tanner](../peoples/ec-uk/pers_bruce-tanner.md) (більша частина) та ще хтось.    
 Рік: 1985  
 
@@ -71,6 +71,6 @@ title: "Дискова операційна система IS-DOS"
 # Історія розробки
 
 > [Брюс Таннер](../peoples/ec-uk/pers_bruce-tanner.md):  
-> Наприкінці існування компанії [Intelligent Software](../companies/intelligent-sofware-ltd.md) / [Enterprise](../companies/enterprise-computers-ltd.md) [Роберт Медж](../peoples/ec-uk/pers_robert-madge.md) їздив до Японії, намагаючись продати IS-DOS консорціуму MSX як MSX-DOS 2, а також продати версію для процесора HD64180 із використанням його функцій пейджингу. Як ми тепер знаємо, з цього нічого не вийшло, а Microsoft поцупила функцію віднови файлів ([undel](../manuals/dos-commands/cmd-undel.md)). Проте для підтримки цієї поїздки було написано низку документів, включно з ідеями щодо майбутніх можливостей IS-DOS. 
+> Наприкінці існування компанії [Intelligent Software](../companies/intelligent-software-ltd.md) / [Enterprise](../companies/enterprise-computers-ltd.md) [Роберт Медж](../peoples/ec-uk/pers_robert-madge.md) їздив до Японії, намагаючись продати IS-DOS консорціуму MSX як MSX-DOS 2, а також продати версію для процесора HD64180 із використанням його функцій пейджингу. Як ми тепер знаємо, з цього нічого не вийшло, а Microsoft поцупила функцію віднови файлів ([undel](../manuals/dos-commands/cmd-undel.md)). Проте для підтримки цієї поїздки було написано низку документів, включно з ідеями щодо майбутніх можливостей IS-DOS. 
 > 
 > Гадаю, основними фічами були змінні оточення, перенаправлення, конвеєри/пайпи (як це було в тогочасній MS-DOS) і... найголовніше... декілька одночасних областей TPA (із використанням пейджингу Enterprise або 64180) та кооперативна багатозадачність. Тобто можна було запустити WordStar в одній TPA, натиснути Alt+Tab чи щось подібне, щоб переключитися на іншу TPA й запустити щось інше.
