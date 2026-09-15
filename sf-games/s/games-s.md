@@ -102,6 +102,7 @@
 - △ [Slightly Magic](slightly-magic-zx.md)
 - △ [Slippery Sid](slippery-sid-zx.md)
 - 🅩 [Slouching Towards Bedlam](slouching-towards-bedlam-zcode.md)
+- △ [Snake Puzzle](snake-puzzle-tvc.md)
 - 🅂 [Snake](snake-symbos.md)
 - △ [Snake 1k](snake1k.md)
 - △ [Snake 256byte](snake256byte.md)

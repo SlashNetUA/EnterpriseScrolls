@@ -18,9 +18,16 @@ title: "Falazó"
 **ID:** falazo-bas
 
 
+**Жанри:** Аркада, Арканоідо-подібна
+
 ## Примітка
 
 Type-in game from Süni Magazine (HU)
+
+## Скріншоти
+<img src="screens/scrn_falazo-bas_01.png" width="24%">
+<img src="screens/scrn_falazo-bas_02.png" width="24%">
+<img src="screens/scrn_falazo-bas_03.png" width="24%">
 
 
 ## Основна інформація
@@ -28,6 +35,10 @@ Type-in game from Süni Magazine (HU)
 - **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Програмні:** IS-Basic
+### Геймплей
+- **Керування:** Internal Joy
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
 ### Розробка
 - **Рік випуску:** 1988
 - **Автор:** Péter Fischer

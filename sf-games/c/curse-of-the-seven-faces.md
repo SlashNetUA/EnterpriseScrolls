@@ -1,5 +1,5 @@
 ---
-title: "Jack the Nipper II: In Coconut Capers"
+title: "The Curse of the Seven Faces"
 ---
 
 ﻿[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
@@ -12,28 +12,20 @@ title: "Jack the Nipper II: In Coconut Capers"
 
 ----------
 
-# Jack the Nipper II: In Coconut Capers
+# The Curse of the Seven Faces
 
 
-**ID:** jack-the-nipper2-zx
+**ID:** curse-of-the-seven-faces
 
 
-## Скріншоти
-<img src="screens/scrn_jack-the-nipper2-zx_01.png" width="24%">
-<img src="screens/scrn_jack-the-nipper2-zx_02.png" width="24%">
-<img src="screens/scrn_jack-the-nipper2-zx_03.png" width="24%">
-<img src="screens/scrn_jack-the-nipper2-zx_04.png" width="24%">
+**Жанри:** Текстова пригода
 
+## Примітка
 
-## Основна інформація
-- **Оригінальна платформа:** ZX Spectrum
-### Геймплей
-- **Керування:** Internal Joy, External Joy 1, External Joy 2
+‼ Загублений реліз. (згадується в [Popular Computing Weekly 84 V3#33](https://archive.org/details/popular-computing-weekly-1984-08-16/page/n38/mode/1up?q=enterprise))
 
 
 ## Посилання
-- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Jack_the_Nipper_2.htm)
-- [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2566/ZX-Spectrum/Jack_the_Nipper_II_In_Coconut_Capers)
-- [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Jack_the_Nipper_2.rar)
+- [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C115/Curse+of+the+Seven+Faces.html)
 
 

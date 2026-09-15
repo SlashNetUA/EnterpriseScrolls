@@ -14,6 +14,9 @@ title: "Kapdosás"
 
 # Kapdosás
 
+**Альтернативні назви:**
+ - Persely
+
 
 **ID:** kapdosas-bas
 
@@ -26,6 +29,11 @@ title: "Kapdosás"
 <img src="screens/scrn_kapdosas-bas_02.png" width="24%">
 <img src="screens/scrn_kapdosas-bas_03.png" width="24%">
 <img src="screens/scrn_kapdosas-bas_04.png" width="24%">
+
+
+## Опис
+
+За допомогою склянки (у формі літери «U») потрібно впіймати 20 монет, що падають зверху.
 
 
 ## Основна інформація
@@ -41,3 +49,6 @@ title: "Kapdosás"
 - **Рік випуску:** 1999
 
 
+## Детальна інформація
+
+### Геймплей

@@ -131,6 +131,7 @@
 - 🅸 [The Cup](cup-isdos.md)
 - △ [Curro Jimenez](curro-jimenez-zx.md)
 - △ [The Curse of Sherwood](curse-of-sherwood-zx.md)
+- △ [The Curse of the Seven Faces](curse-of-the-seven-faces.md)
 - 🅩 [Curses](curses-zcode.md)
 - 🅩 [Cutthroats](cutthroats-zcode.md)
 - 🅸 [CWordle](cwordle-isdos.md)

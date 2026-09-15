@@ -63,7 +63,7 @@ title: "Throbbing Headache DX"
 
 ## Посилання
 - [Домашня сторінка](https://ktbproductions.itch.io/enterprise-games)
-- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Throbbing%20Headache.htm)
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Throbbing_Headache.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/44015/ZX-Spectrum/Throbbing_Headache)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Throbbin_Headache_DX.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/899) *(Telegram-канал Vibrant Waves)*

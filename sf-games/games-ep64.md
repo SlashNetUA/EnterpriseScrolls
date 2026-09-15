@@ -233,6 +233,7 @@
 
 # S
 
+- △ [Snake Puzzle](s/snake-puzzle-tvc.md)
 - △ [Snake 1k](s/snake1k.md)
 - △ [Snake 256byte](s/snake256byte.md)
 - △ [Snowball](s/snowball.md)
