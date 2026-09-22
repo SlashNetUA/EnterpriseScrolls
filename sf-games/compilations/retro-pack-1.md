@@ -12,7 +12,14 @@
 | [Playground Adventure](../p/playground-adventure-bas.md)                                 | [Jack the Nipper in Coconut Capers](../j/jack-the-nipper2-zx.md) |
 
 
+## Сybernoid 1
 
+Хачена версія з нескінченним життям та невразливістю.
+
+## Army Moves
+
+Версія з нескінченними життями (тому керування вибирати ретельно).
+Після завантаження буде запущене перевизначення клавіш.
 
 
 

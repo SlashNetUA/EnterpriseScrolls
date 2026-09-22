@@ -76,5 +76,5 @@
 
 [enterpress-2026-01-04](magz/enterpress-hu/enterpress-2026-01-04.md)   
 [enterpress-2026-05-08](magz/enterpress-hu/enterpress-2026-05-08.md)  
-
+[enterpress-2026-09-10](magz/enterpress-hu/enterpress-2026-09-10.md)  
 

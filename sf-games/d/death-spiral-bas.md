@@ -1,5 +1,5 @@
 ---
-title: "Magic Bit"
+title: "Death Spiral"
 ---
 
 ﻿[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
@@ -12,44 +12,41 @@ title: "Magic Bit"
 
 ----------
 
-# Magic Bit
+# Death Spiral
+
+**Альтернативні назви:**
+ - Halálspirál
 
 
-**ID:** magic-bit-bas
+**ID:** death-spiral-bas
+
+
+**Жанри:** Екшн, Reaction
 
 
 ## Скріншоти
-<img src="screens/scrn_magic-bit-bas_01.png" width="24%">
-<img src="screens/scrn_magic-bit-bas_02.png" width="24%">
-<img src="screens/scrn_magic-bit-bas_03.png" width="24%">
-<img src="screens/scrn_magic-bit-bas_04.png" width="24%">
+<img src="screens/scrn_death-spiral-bas_01.png" width="24%">
+<img src="screens/scrn_death-spiral-bas_02.png" width="24%">
+<img src="screens/scrn_death-spiral-bas_03.png" width="24%">
+<img src="screens/scrn_death-spiral-bas_04.png" width="24%">
 
 
 ## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
-- **Апаратні:** EP128, EP64
-- **Програмні:** IS-Basic, EXOS 2.1
+- **Апаратні:** EP128
+- **Програмні:** IS-Basic
 ### Геймплей
-- **Керування:** Internal Joy
+- **Керування:** Keyboard
 - **Кількість гравців:** 1 player
-- **Додаткові теги:** 16-color mode
+- **Додаткові теги:** 2-color mode
 ### Розробка
-- **Рік випуску:** 2017
-- **Автор:** Baráth Endre
+- **Рік випуску:** 2016
+- **Автор:** Endi
 
 
 ## Посилання
-- [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Basic_Program_Pack.htm)
-- [Тема на форумі enterpriseforever](https://enterpriseforever.com/basic/magic-bit-basic-game-finished/)
-- [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Basic_Program_Pack.rar)
-- [Easy Load&Play](https://t.me/EP128k_Load_n_Play/522) *(Telegram-канал Vibrant Waves)*
-
-
-## Відео
-
-<iframe src="https://www.youtube.com/embed/472UXpN0imc"  
-style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
-
-- [Відео](https://www.youtube.com/watch?v=AIAhGbhZv_E)
+- [Тема на форумі enterpriseforever](https://enterpriseforever.com/basic/halalspiral-minigame/)
 
 

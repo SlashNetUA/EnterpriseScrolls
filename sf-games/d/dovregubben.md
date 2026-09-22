@@ -18,11 +18,24 @@ title: "Dovregubben"
 **ID:** dovregubben
 
 
+**Жанри:** Текстова пригода
+
 ## Примітка
 
 Missing! (mentioned in PC Mikrodata #8 1985 magazine)
 
 ## Скріншоти
 <img src="screens/scrn_dovregubben_01.png" width="24%">
+
+
+## Основна інформація
+- **Мови:** Норвезька
+- **Оригінальна платформа:** Enterprise
+### Геймплей
+- **Керування:** Keyboard
+- **Кількість гравців:** 1 player
+### Розробка
+- **Рік випуску:** 1985
+- **Автор:** Jarle Midtun
 
 

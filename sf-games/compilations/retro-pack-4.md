@@ -15,3 +15,12 @@
 |                                                                       | [Popeye](../p/popeye-zx.md)                           |
 |                                                                       | [Tapper](../t/tapper-zx.md)                           |
 |                                                                       | [Jack's House of Cards](../j/jacks-house-of-cards.md) |
+
+
+## Tombs of Doom
+
+Краще запускати у режимі 64к.
+
+## Tomahawk
+
+Замість **Enter** використовувати клавішу **Ö**.

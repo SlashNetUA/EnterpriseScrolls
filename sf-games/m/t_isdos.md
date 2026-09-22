@@ -19,7 +19,7 @@
 - 🅩 [The Moonlit Tower](m/moonlit-tower-zcode.md)
 - 🅩 [Moonmist](m/moonmist-zcode.md)
 - 🅩 [Morgan Tyler #1: Eclipse](m/morgan-tyler1-eclipse-zcode.md)
-- △ [Morgan Tyler #2: The Cursed Planet](m/morgan-tyler2-cursed-planet.md)
+- 🅩 [Morgan Tyler #2: The Cursed Planet](m/morgan-tyler2-cursed-planet-zcode.md)
 - 🅩 [Morris](m/morris-zcode.md)
 - 🅸 [MSCP](m/mscp-isdos.md)
 - 🅩 [Muse: An Autumn Romance](m/muse-an-autumn-romance-zcode.md)

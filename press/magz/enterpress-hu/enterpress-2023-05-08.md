@@ -12,8 +12,8 @@ title: Журнал «Enterpress 2023/3-4 (2023.05-08)»
 ## Зміст
 
 Kényszerű szünet és egy jó hír  
-NVRAM 1.1  
-miniTURBO  
+[NVRAM 1.1](2023-05-08/nvram.md)  
+[miniTURBO](2023-05-08/miniturbo.md)  
 Billentyűfólia hosszabbító  
 Xorka - logikai játék. Az Enterprise változat átírása TVC-re  
 Bemutatkozik az Enterprise Alapítvány!  

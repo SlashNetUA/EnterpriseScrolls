@@ -18,7 +18,7 @@ title: "Morgan Tyler #2: The Cursed Planet"
  - The Cursed Planet
 
 
-**ID:** morgan-tyler2-cursed-planet
+**ID:** morgan-tyler2-cursed-planet-zcode
 
 
 **Жанри:** Текстова пригода
@@ -28,10 +28,10 @@ title: "Morgan Tyler #2: The Cursed Planet"
 ℹ Мультиплатформенна гра на рушії Z-machine від Infocom.
 
 ## Скріншоти
-<img src="screens/scrn_morgan-tyler2-cursed-planet_01.png" width="24%">
-<img src="screens/scrn_morgan-tyler2-cursed-planet_02.png" width="24%">
-<img src="screens/scrn_morgan-tyler2-cursed-planet_03.png" width="24%">
-<img src="screens/scrn_morgan-tyler2-cursed-planet_04.png" width="24%">
+<img src="screens/scrn_morgan-tyler2-cursed-planet-zcode_01.png" width="24%">
+<img src="screens/scrn_morgan-tyler2-cursed-planet-zcode_02.png" width="24%">
+<img src="screens/scrn_morgan-tyler2-cursed-planet-zcode_03.png" width="24%">
+<img src="screens/scrn_morgan-tyler2-cursed-planet-zcode_04.png" width="24%">
 
 
 ## Опис
@@ -70,6 +70,7 @@ title: "Morgan Tyler #2: The Cursed Planet"
 
 ## Посилання
 - [Домашня сторінка](https://bdb-project.itch.io/cursed-planet)
+- [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C10976/Cursed+Planet%2C+The.html)
 
 
 ## [Керування](../controllers.md)

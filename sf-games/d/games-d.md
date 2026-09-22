@@ -38,6 +38,7 @@
 - 𝔹 [Death House](death-house-bas.md)
 - 🅩 [Death Number Four](death-number-four-zcode.md)
 - 𝔹 [Death Ship](death-ship-bas.md)
+- 𝔹 [Death Spiral](death-spiral-bas.md)
 - △ [Death Stalker](death-stalker-zx.md)
 - △ [Death Star Interceptor](death-star-interceptor-zx.md)
 - △ [Death Wish 3](death-wish3-zx.md)

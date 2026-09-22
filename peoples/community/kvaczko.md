@@ -14,3 +14,5 @@ aka **kvaczko**
 [hv-2dfx](../../hardware/hv-2dfx.md)
 
 [hs-midi-card](../../hardware/sound/hs-midi-card.md)
+
+[nvram](../../hardware/ram-expansion/nvram.md)

@@ -23,4 +23,6 @@ title: "Конверсія програм з платформи ZX Spectrum"
 
 [Converting Spectrum programs to run on the Enterprise](http://enterprise.iko.hu/technical/Converting_Spectrum_programs.pdf) (офіційна інструкція)
 
+[Тема на форумі з розбором деяких нюансів](https://enterpriseforever.com/programming/converting-speccy-programs-to-enterprise/)
+
 [Палітра](zx-palette.md)

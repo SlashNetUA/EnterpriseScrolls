@@ -44,6 +44,7 @@
 - 🅩 [The King's Ball](kings-ball-zcode.md)
 - 𝔹 [A Király Koronája](kiraly-koronaja-bas.md)
 - 𝔹 [﻿Kiszorító játék](kiszorito-bas.md)
+- △ [Klaus Pagh](klaus-pagh.md)
 - △ [Klax](klax-zx.md)
 - △ [Knight Driver](knight-driver-zx.md)
 - △ [Knight Force](knight-force-zx.md)

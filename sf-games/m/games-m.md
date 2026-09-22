@@ -136,7 +136,7 @@
 - 🅩 [Moonmist](moonmist-zcode.md)
 - △ [Mordon's Quest](mordons-quest.md)
 - 🅩 [Morgan Tyler #1: Eclipse](morgan-tyler1-eclipse-zcode.md)
-- △ [Morgan Tyler #2: The Cursed Planet](morgan-tyler2-cursed-planet.md)
+- 🅩 [Morgan Tyler #2: The Cursed Planet](morgan-tyler2-cursed-planet-zcode.md)
 - 🅩 [Morris](morris-zcode.md)
 - △ [Motor Massacre](motor-massacre-zx.md)
 - △ [Motorbike Madness](motorbike-madness-zx.md)

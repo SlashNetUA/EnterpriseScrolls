@@ -1,7 +1,7 @@
 ---
 title: Компанія «Semicap ApS»
 ---
-# Semicap ApS
+# Semicap Data ApS
 
 ![](pics/logo_semicap-asp.png)
 
