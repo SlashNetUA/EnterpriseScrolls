@@ -3,7 +3,7 @@ title: István Matusa (Tutus)
 ---
 # István Matusa
 
-**Tutus**
+aka **Tutus**
 
 Поточний головний редактор журналу [Enterpress](../../press/magz/pr-enterpress-hu.md).
 

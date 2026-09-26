@@ -63,6 +63,26 @@ Enterprise загалом використовує лише 8-бітну адр�
 43h / 67: ZX Spectrum emulator card, operation type  
 44h / 68: Spectrum emulator, write: enable emulator  
 
+## [RSF3](../../hardware/he-rsf3.md) card
+
+40h / 64: reserve for AT command set  
+41h / 65: Command functions / response  
+42h / 66: port 0, Data read/write buffers (Serveral)  
+43h / 67: port 1, Data read/write buffers (FatFS read)  
+44h / 68: port 2, Data read/write buffers (FatFS write)  
+45h / 69: port 3, Data read buffers (WIFI socket channel 0)  
+46h / 70: port 4, Data read buffers (WIFI socket channel 1)  
+47h / 71: port 5, Data read buffers (WIFI socket channel 2)  
+48h / 72: port 6, Data read buffers (WIFI socket channel 3)  
+49h / 73: port 7, Data read/write buffers (WIFI AT command’s, non-socket)  
+4Ah / 74: reserve for TMTNET  
+4Bh / 75: reserve for TMTNET  
+4Ch / 76: reserve for TMTNET  
+4Dh / 77: reserve for TMTNET  
+4Eh / 78: WIFI process status byte  
+4Fh / 79: system databus echo  
+
+
 ## APU (AMD Am9511) "FPU" I/O ports
 
 > An experiment to add some mathematical processing power :) to the system with the [AMD Am9511 chip](../../hardware/cpu/am9511.md), also named as the "APU". There is not so much a standard way to use its capabilities, you need custom softwares written for it.

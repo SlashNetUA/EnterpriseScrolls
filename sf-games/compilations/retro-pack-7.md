@@ -16,3 +16,15 @@
 | [Bounces](../b/bounces-zx.md)                                                   |                                                               |
 | [Strike!](../s/strike-zx.md)                                                    |                                                               |
 
+## Street Soccer
+
+Має глюк з кривою обробкою порту [181](../../programming/system-info/ports/port181.md), через що керуючі порти [REMn](../../hardware/connections/pinouts-tape-rem.md) починають хаотично перемикатись.
+
+## Monte Carlo Casino
+
+Деякі ігри працюють некоректно через "поламаний" генератор рандомних чисел.
+
+## Bobby Bearing
+
+**6** / **7**: вибір керування, **0**: підтвердження
+**IntJoy** / **ExtJoy1**: при виборі будь якого типу джойстика.

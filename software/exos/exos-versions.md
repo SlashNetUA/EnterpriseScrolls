@@ -16,7 +16,7 @@ title: "Версії EXOS"
 
 *Приблизно так виглядав екран після включення комп'ютера*
 
-Створено: **Intelligent Software Ltd.**  
+Створено: [Intelligent Software Ltd.](../../companies/intelligent-software-ltd.md)  
 Рік: **1983**  
 
 Орієнтовно, могла бути встановлена у передпродажні моделі комп'ютерів із старою назвою **ELAN**. З дуже ранньої версії посібника користувача можна дізнатись, що стартовий екран (з великим написом `ENTERPRISE`) був відсутній і комп'ютер відразу переходив до командного режиму (тоді ще вбудованого) інтерпретатора Бейсіку. Мала назву **EROS** (Elan Rom Operating System).
@@ -28,7 +28,7 @@ title: "Версії EXOS"
 <img src="scrn_exos20-testscreen.png" width="45%"> 
 <img src="scrn_exos20-startscreen.png" width="45%"> 
 
-Створено: **Intelligent Software Ltd.**  
+Створено: [Intelligent Software Ltd.](../../companies/intelligent-software-ltd.md)  
 Рік: **1984**    
 
 Офіційна версія, що була встановлена у **Enterprise 64**. Екран тесту оперативної пам'яті пофарбований у випадковий колір.
@@ -46,7 +46,7 @@ title: "Версії EXOS"
 <img src="scrn_exos21-testscreen.png" width="45%"> 
 <img src="scrn_exos21-startscreen.png" width="45%"> 
 
-Створено: **Intelligent Software Ltd.**  
+Створено: [Intelligent Software Ltd.](../../companies/intelligent-software-ltd.md)  
 Рік: **1985**  
 
 Офіційна версія, що була встановлена у **Enterprise 128**.
@@ -65,7 +65,7 @@ title: "Версії EXOS"
 
 ## v 2.2 (CYR)
 
-Створено: **Enterprise Computers GmbH** та **'a' Studió**  
+Створено: [Enterprise Computers GmbH](../../companies/enterprise-computers-gmbh.md) та ['a' Studió](../../companies/a-studio.md)  
 Рік: **1989**  
 
 Є модифікацією версії **2.1** для комп'ютерів що були призначені для шкільних класів колишнього СРСР.
@@ -76,7 +76,7 @@ title: "Версії EXOS"
 <img src="scrn_exos22-testscreen.png" width="45%"> 
 <img src="scrn_exos21-startscreen.png" width="45%"> 
 
-Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та **Apuci**.  
+Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та [Apuci](../../peoples/community/oldschool/apuci.md).  
 Рік: **1992**  
 
 Є модифікацією офіційної версії **2.1**. Одним з головних нововведень цієї версії є швидкий тест оперативної пам'яті, який працює суттєво швидше, ніж стандартний. Раніше користувачі систем із розширенням ОЗП (200-300 КБ і більше) стикалися з тривалим очікуванням завершення процедури тестування пам'яті, яку неможливо було перервати.
@@ -87,7 +87,7 @@ title: "Версії EXOS"
 <img src="scrn_exos23-testscreen.png" width="45%"> 
 <img src="scrn_exos21-startscreen.png" width="45%"> 
 
-Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та **Apuci**.  
+Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та [Apuci](../../peoples/community/oldschool/apuci.md).  
 Рік: **1993**  
 
 ## v 2.31 (unofficial)
@@ -95,7 +95,7 @@ title: "Версії EXOS"
 <img src="scrn_exos231-testscreen.png" width="45%"> 
 <img src="scrn_exos21-startscreen.png" width="45%"> 
 
-Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та **Apuci**.  
+Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та [Apuci](../../peoples/community/oldschool/apuci.md).  
 Рік: **2008**  
 
 Версія з екраном тестування на різних мовах (EN, ES, HU) .
@@ -105,7 +105,7 @@ title: "Версії EXOS"
 <img src="scrn_exos232-testscreen.png" width="45%"> 
 <img src="scrn_exos21-startscreen.png" width="45%"> 
 
-Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та **Apuci**.  
+Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та [Apuci](../../peoples/community/oldschool/apuci.md).  
 Рік: **2010**  
 
 Версія з екраном тестування на різних мовах (EN, ES, HU) .
@@ -116,7 +116,7 @@ title: "Версії EXOS"
 <img src="scrn_exos24-testscreen.png" width="45%"> 
 <img src="scrn_exos21-startscreen.png" width="45%"> 
 
-Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та **Apuci**.  
+Створено: [ZozoSoft](../../peoples/community/zozosoft.md) та [Apuci](../../peoples/community/oldschool/apuci.md).  
 Рік: **2014**  
 
 ### Новий функціонал
@@ -124,11 +124,11 @@ title: "Версії EXOS"
 - Додано режим розширеного тестування пам'яті (Advanced Memory Test).
 - Додано звукові сигнали на випадок збою вбудованої пам'яті.
 - Визначається та відображається тип процесора (ви можете побачити, що «новісінькі чипи CMOS Z80» з Китаю здебільшого є підробками — перемаркованими старими чипами NMOS).
-- Визначається та відображається тактова частота процесора. На турбо-машинах встановлюється режим 6 МГц для чипа Dave на порту **BFh** (це також робиться при гарячому перезавантаженні).
-- Нова змінна [EXOS 191](../../programming/system-info/exos-variables/exos_var191.md) для порту **BFh**.
-- Тепер за замовчуванням на порту **BFh** використовується налаштування без циклів очікування пам'яті (no memory wait cycles).
+- Визначається та відображається тактова частота процесора. На [турбо-машинах](../../hardware/mods/turbo-main.md) встановлюється режим 6 МГц для чипа Dave на порту [BFh](../../programming/system-info/ports/port191.md) (це також робиться при гарячому перезавантаженні).
+- Нова змінна [EXOS 191](../../programming/system-info/exos-variables/exos_var191.md) для порту [BFh](../../programming/system-info/ports/port191.md).
+- Тепер за замовчуванням на порту [BFh](../../programming/system-info/ports/port191.md) використовується налаштування без циклів очікування пам'яті (no memory wait cycles).
 - Тест RAM за замовчуванням виконується до сегмента **04h**, що дозволяє легко використовувати SRAM у картриджі як розширення пам'яті.
-- Додано опцію пропуску тесту ПЗП картриджа на випадок, якщо в SD-адаптер було прошито неправильний ROM (ви зможете можете завантажити правильну прошивку з дискети або касети).
+- Додано опцію пропуску тесту ПЗП картриджа на випадок, якщо в [SD-адаптер](../../hardware/hd-sd-card-adapter.md) було прошито неправильний ROM (ви зможете можете завантажити правильну прошивку з дискети або касети).
 
 ### Керування перезапуском та тестом пам'яті
 

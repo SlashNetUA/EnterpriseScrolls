@@ -5,9 +5,9 @@ title: Загальна палітра кольорів комп'ютера
 
 [Інтерактивна таблиця підбору кольорів](http://ep.lgb.hu/colors.html) [(дзеркало)](https://ep128.hu/Ep_Konyv/EP_colours.html)
 
-![](https://www.ep128.hu/Ep_Konyv/Pic/BIAS.PNG)
+![](nick/pics/fullpalette.png)
 
-Ліва колонка - номер [BIAS](nick/bias.md) (для I/O порта Nick)
+Ліва колонка - номер [BIAS](nick/bias.md) (для запису у [128](ports/port128.md) порт Nick)
 
 # Підбір кольорів з інших платформ
 

@@ -1,5 +1,5 @@
 ---
-title: kvaczko
+title: Károly Vaczkó (kvaczko)
 ---
 # Károly Vaczkó
 
@@ -16,3 +16,7 @@ aka **kvaczko**
 [hs-midi-card](../../hardware/sound/hs-midi-card.md)
 
 [nvram](../../hardware/ram-expansion/nvram.md)
+
+[miniturbo](../../hardware/mods/miniturbo.md)
+
+[adptr-autofire-joy-kvaczko](../../hardware/hid/adptr-autofire-joy-kvaczko.md)

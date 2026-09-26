@@ -1,9 +1,9 @@
 ---
-title: AnyStone Games
+title: Róbert Kis (AnyStone Games)
 ---
-# AnyStone Games
+# Róbert Kis
 
-**Kis Róbert**  
+aka **AnyStone Games**  
 
 [Home site](https://anystone.games)  
 [Youtube](https://www.youtube.com/@AnyStoneGames)  

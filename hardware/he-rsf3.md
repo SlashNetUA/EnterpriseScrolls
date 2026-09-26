@@ -49,3 +49,6 @@ TMTlogic більше не виробляє цю карту. На заміну �
 - Відсутні виходи MIDI I/O.
 - Інтегрована антена WiFi.
 
+# Документація
+
+[SF3/RSF3 Manual](https://www.cpcwiki.eu/imgs/7/7b/Manual_SF3_RSF3.pdf)

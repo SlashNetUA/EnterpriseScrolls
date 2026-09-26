@@ -35,3 +35,6 @@ TMTlogic більше не виробляє цю карту.
 
 У 2023 році компанія TMTlogic замінила її своєю покращеною картою розширення [RSF3](he-rsf3.md).
 
+## Документація
+
+[SF3/RSF3 Manual](https://www.cpcwiki.eu/imgs/7/7b/Manual_SF3_RSF3.pdf)

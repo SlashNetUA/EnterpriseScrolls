@@ -1,9 +1,9 @@
 ---
-title: Pear
+title: Maciej Gruszecki (Pear)
 ---
-# Pear
+# Maciej Gruszecki
 
-Maciej Gruszecki
+aka **Pear**
 
 [github](https://github.com/maciejgruszecki)
 

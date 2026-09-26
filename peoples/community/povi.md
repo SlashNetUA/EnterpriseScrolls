@@ -1,10 +1,11 @@
 ---
-title: Povi
+title: Zoltán Povázsay (Povi)
 ---
 # Zoltán Povázsay  
 
-aka **Povi**  
-aka **PoviSoft**
+aka **Povi** (**PoviSoft**)  
+
+![](pics/logo_povisoft.png)
 
 ![](pics/povi.jpg)
 

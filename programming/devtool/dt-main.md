@@ -5,11 +5,11 @@ title: "DevTool"
 
 ![](pics/devtool-ico.png)
 
-Універсальний інструментарій для розробки програм для комп'ютера Videoton TVC та інших.
+Універсальний інструментарій від [Doberdo Brothers](../../peoples/community/team/doberdo_brothers.md) для розробки програм для комп'ютера Videoton TVC та інших платформ.
 
-Програму створив: [Major Tamás](../../peoples/community/doberdo_brothers.md)  
-Емулятор для дебагу створив: Grósz Attila  
-Графічний інтерфейс розробив: [Sáránszki Mihály](../../peoples/community/doberdo_brothers.md)
+Програму створив: [Tamás Major](../../peoples/community/t_major.md)  
+Емулятор для дебагу створив: Attila Grósz  
+Графічний інтерфейс розробив: [Mihály Sáránszki](../../peoples/community/musaic.md)
 
 [Домашня сторінка](https://www.doberdobrothers.hu/?page_id=4336)
 

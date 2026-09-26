@@ -1,8 +1,10 @@
 ---
 title: Zoltán Németh (ZozoSoft)
 ---
-# ZozoSoft
+# Zoltán Németh
 
-Zoltán Németh
+aka **ZozoSoft** (**ZozoHard**)
+
+
 
 [Інтерв'ю на Sinclair.hu](http://ep.homeserver.hu/Dokumentacio/Interju/Zozo.htm) (угорською)

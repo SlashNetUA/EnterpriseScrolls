@@ -15,7 +15,7 @@ Please wait... Ősz betöltése
 Eltűnt csavarok nyomában  
 Új szövegszerkesztő Enterprise-ra  
 Hogyan készítsünk (strukturált) szöveges kalandjátékot? II. rész  
-MIDI kártya  
+[MIDI kártya](2026-05-08/midi-kartya.md)  
 Enterprise külső joystick világító gombokkal  
 Botrány videojátékok, videójáték botrányok  
 Enterprise Klub – 2026. március 7.  

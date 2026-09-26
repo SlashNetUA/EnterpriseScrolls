@@ -20,12 +20,18 @@ Ezen fellelkesedve elmondtam az ötletet Zozónak… (hibát hibára halmozok) �
 
 Itt megkérdeztem tőle, hogy toronyórát nem akar-e lánccal és már morogtam is kicsit magamban, hogy kár volt elmondani, meg kellett volna csinálni, tessék, kész, 4-6 MHz egyszerű turbó, boldogság. Aztán persze nem hagyott a dolog nyugodni (nem szokott…) és nekiálltam megcsinálni. Először egy The “L2”-t buheráltam meg a nyomógombbal, megírtam rá a programot, működött. Utána jött a tervezés, hogy legyen berakva a gépbe, hol fér el, stb. A végeredmény mostanra állt össze.
 
+<div style="text-align:center;">
+<img src="miniturbo_02.jpg" alt="" width="50%"></div>
+
 Bemutatom a [miniTURBO](../../../../hardware/mods/miniturbo.md) panelt, ami a fenti összes funkciót gyúrja magába. A beszereléséhez ki kell szerelni az eredeti óragenerátor alkatrészeit (fél marék), majd az eredeti Nick óragenerátor alkatrészeit (másik fél marék) — utóbbit nem muszáj, de minek maradjon benne áramot fogyasztani feleslegesen alapon érdemes. A miniTURBO beül a processzor mellé, ott szükséges néhány forrasztás, illetve az alaplapon két helyen át kell vágni a vezetősávot és két vékony dróttal a helyére kötni az expansion busz felé menő órajelet, illetve a Nick órajelet is be kell ugyanígy kötni. Ezután találni kell egy alkalmas helyet a nyomógombnak, majd azt is beépíteni és már kész is az egész. A panelen lévő kis nyúlvány tetején ücsörög egy RGB LED, ami a sebbességtől függő színben pompázik, ez az eredeti piros LED helyére megy, rá lehet tenni a fényvezetőt és össze lehet rakni a gépet.
 
 > [!Fun fact:]
 > a benne lévő mikrokontroller flash memóriája 4096 bájtos (4 kB), a rajta futó szoftver 4086 bájt…  
 
 A beszerelése (elsősorban a sok felesleges alkatrész kiszerelése miatt) eléggé komplikált, de ebben Németh Zoltán (Zozo) tud segíteni.
+
+<div style="text-align:center;">
+<img src="miniturbo_03.jpg" alt="один з варіантів розміщення кнопки перемикання режимів (вид зсередини)" width="31%"> <img src="miniturbo_04.jpg" alt="один з варіантів розміщення кнопки перемикання режимів (вид зовні)" width="40%"></div>
 
 
 [Основна сторінка модуля miniTURBO](../../../../hardware/mods/miniturbo.md)

@@ -1,5 +1,5 @@
 ---
-title: LGB
+title: Gábor Lénárt (LGB)
 ---
 # Gábor Lénárt
 

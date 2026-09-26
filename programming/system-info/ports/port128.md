@@ -24,3 +24,8 @@ title: Порт 128 / 80h
 - **b7:** Керування виходом **VC1** чипа Nick. За допомогою цього біта можна апаратно вимкнути (заглушити) внутрішній динамік комп'ютера.
 	 - `0`: динамік увімкнено
 	 - `1`: динамік вимкнено
+
+Див. також: 
+
+[SET BIAS](../../../manuals/is-basic-man-en/options/man_vo-bias.md)  
+[SET PRIORITY](../../../manuals/is-basic-man-en/options/man_vo-priority.md)  

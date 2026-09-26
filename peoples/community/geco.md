@@ -1,9 +1,9 @@
 ---
-title: Geco
+title: Noel Persa (Geco)
 ---
-# Geco
+# Noel Persa
 
-Noel Persa
+aka **Geco**
 
 [Youtube](https://www.youtube.com/user/Gecoaa)  
 [pouët.net](https://www.pouet.net/user.php?who=99616)  

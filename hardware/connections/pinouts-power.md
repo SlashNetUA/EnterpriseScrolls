@@ -4,6 +4,9 @@ title: Роз'єм живлення
 
 # Роз'єм живлення
 
+<div style="text-align:center;">
+<img src="pics/port_tv-power.jpg" alt="" width="75%"></div>
+
 > Тип конектора: DC Power Jack Socket 5.5×2.1 mm
 > 
 > Part number: **05-08** (power jack socket 2.1mm; centre of socket 6.6mm above PCB; right angle pins into PCB)

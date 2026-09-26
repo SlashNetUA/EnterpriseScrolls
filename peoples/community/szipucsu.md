@@ -1,8 +1,8 @@
 ---
-title: Szipucsu
+title: Tamás Bodnár (Szipucsu)
 ---
-# Szipucsu
+# Tamás Bodnár
 
-Bodnár Tamás
+aka **Szipucsu**
 
 [Youtube](https://www.youtube.com/@szipucsu/videos)

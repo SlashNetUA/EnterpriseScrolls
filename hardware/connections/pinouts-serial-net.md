@@ -4,12 +4,17 @@ title: Розпіновка порту Serial/Net
 
 # Serial/Net
 
+<div style="text-align:center;">
+<img src="pics/port_serial-net.jpg" alt="" width="50%"></div>
+
+
+
 4 контакти завширшки, використовуються 6 з 8 контактів:
 
 	A1 : Опорна напруга (Reference)	B1 : 0В 
 	A2 : не підключено (nc)			B2 : не підключено (nc)
-	A3 : RTS							B3 : Вихід даних (Data Out)
-	A4 : CTS							B4 : Вхід даних (Data In)
+	A3 : RTS						B3 : Вихід даних (Data Out)
+	A4 : CTS						B4 : Вхід даних (Data In)
 
 Рівні сигналів відносно лінії **0В**:
 

@@ -1,4 +1,6 @@
 ---
-title: Endy
+title: Endre Baráth (Endy)
 ---
-# Endy
+# Endre Baráth
+
+aka **Endy**
