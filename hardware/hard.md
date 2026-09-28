@@ -64,6 +64,7 @@ GFX-NINE V9990 video card
 ## Конвертери сигналу
 
 Модифікації комп'ютера  
+[rgb2cvbs-yc-interface](video/rgb2cvbs-yc-interface.md)
 
 ## Монітори
 

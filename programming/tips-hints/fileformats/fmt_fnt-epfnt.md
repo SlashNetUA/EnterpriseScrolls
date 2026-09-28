@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Формат файлу «FNT: Enterprise Font»"
 ---
 # Enterprise font
 Binary font used at Enterprise computers.
 
 
-## 1152 bytes font file
+## 1152 bytes font file (EXOS)
 Size: **1152** bytes.  
 Character width: **8** pixels (**1** byte)  
 Character height: **9** pixels  

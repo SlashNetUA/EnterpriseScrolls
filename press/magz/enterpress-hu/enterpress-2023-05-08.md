@@ -18,7 +18,7 @@ Billentyűfólia hosszabbító
 Xorka - logikai játék. Az Enterprise változat átírása TVC-re  
 Bemutatkozik az Enterprise Alapítvány!  
 Enterprise demók - I. rész  
-RGB/S-video/kompozit adapter  
+[RGB/S-video/kompozit adapter](2023-05-08/rgb-svideo-kompozit-adapter.md)  
 Karambol  
 Új buszbővítő az Enterprise -hoz  
 IS-FORTH - 9. rész  

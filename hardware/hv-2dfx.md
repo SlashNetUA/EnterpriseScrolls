@@ -30,14 +30,17 @@ title: Графічний акселератор «2dfx»
 <iframe src="https://www.youtube.com/embed/rkOJymZdHxc"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
+Автор: [kvaczko](../peoples/community/kvaczko.md)   
+Рік: 2022  
 [Офіційний сайт](https://2dfx.net)
+
+----
 
 [Коментарі автора розробки](2dfx/about.md)
 
 Редактор спрайтів
 
-[Програмування](../programming/2dfx-programming.md)
-
+[Посібник користувача та програмування](../programming/2dfx-programming.md)
 
 <div style="text-align:center;">
 <img src="2dfx/2dfx-ep-v7.jpg" alt="Карта 2dfx для комп'ютера Enterprise" width="36%"> 
