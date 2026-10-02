@@ -22,3 +22,4 @@
 - 🅩 [Questprobe featuring Spider-Man](questprobe2-spiderman-zcode.md)
 - △ [Questprobe featuring the Human Torch and the Thing](questprobe3-the-human-torch-and-the-thing-zx.md)
 - △ [Quick Draw McGraw](quick-draw-mcgraw-zx.md)
+- △ [Quoridor](quoridor-tvc.md)

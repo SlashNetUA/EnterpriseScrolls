@@ -66,6 +66,7 @@
 - △ [Sheer Panic](sheer-panic-zx.md)
 - 🅸 [Sherlock Holmes in the Case of the Beheaded Smuggler](sherlock-holmes-in-the-case-of-the-beheaded-smuggler-isdos.md)
 - 🅸 [Sherlock Holmes: The Lamberley Mystery](sherlock-holmes-the-lamberley-mystery-isdos.md)
+- △ [Shikaku](shikaku-tvc.md)
 - 𝔹 [Shippy Sunky](shippy-sunky-bas.md)
 - △ [Shoot Out](shoot-out-zx.md)
 - △ [Shoot'em Up!](shootem-up.md)

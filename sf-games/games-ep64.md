@@ -217,6 +217,7 @@
 
 - △ [Quadrillion](q/quadrillion-c16.md)
 - 𝔹 [The Queen of Hearts](q/queen-of-hearts-bas.md)
+- △ [Quoridor](q/quoridor-tvc.md)
 
 # R
 
@@ -233,6 +234,7 @@
 
 # S
 
+- △ [Shikaku](s/shikaku-tvc.md)
 - △ [Snake Puzzle](s/snake-puzzle-tvc.md)
 - △ [Snake 1k](s/snake1k.md)
 - △ [Snake 256byte](s/snake256byte.md)
