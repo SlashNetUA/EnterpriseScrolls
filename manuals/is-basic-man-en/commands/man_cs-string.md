@@ -5,7 +5,7 @@ title: "IS-Basic Manual. STRING"
 
 `STRING variable/array-list*n`
 
-Declares string variables or arrays with maximum length. Default length is **132**. Adding **\*n** after the word **STRING** or the variable declaration sets the length to **n**. The default lower bound for an array is **0**.
+Declares string variables or arrays with maximum length. Default length is **132** (maximum: **254**). Adding **\*n** after the word **STRING** or the variable declaration sets the length to **n**. The default lower bound for an array is **0**.
 
 `STRING*8 LAST_NAME$*20,FIRST_NAME$,MIDDLE_NAME$`
 
@@ -21,3 +21,4 @@ This array has **96** elements, each of **10** characters.
 
 > [!Note]
 > a [DIM](man_cs-dim.md) statement cannot be used to define the length of a string variable.
+

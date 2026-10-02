@@ -11,6 +11,9 @@ Declares numeric or string arrays; lower bound defaults to 0 if not specified. O
 
 Note: all the above have 10 elements.
 
+> [!Примітка:]  
+> Для декларування масиву строкових змінних конкретної довжини використовуйте [STRING](man_cs-string.md).
+
 ----
 
 [Application Note №14: Saving string & numeric arrays](http://enterprise.iko.hu/technical/Enterprise-AppNote-14.pdf)  
