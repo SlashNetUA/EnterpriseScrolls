@@ -52,6 +52,9 @@ title: Розпіновка порту Serial/Net
 
 ![](pics/pinout_com25_alt.png)
 
+
+[Application Note №29: Serial Transfers between the IBM PC and the Enterprise](http://enterprise.iko.hu/technical/Enterprise-AppNote-29.pdf)
+
 ## Підключення Enterprise - Atari ST
 
 [Замітка у журналі Popular Computing Weekly Issue 87.09.11](https://archive.org/details/NH2021_Popular_Computing_Weekly_Issue870911.pdf/page/n27/mode/1up?q=enterprise)

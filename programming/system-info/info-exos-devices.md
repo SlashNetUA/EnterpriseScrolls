@@ -15,3 +15,6 @@ title: EXOS Devices
 [rom](exos-devices/romfs.md)
 
 [fileio](exos-devices/fileio.md)
+
+modem  
+com  

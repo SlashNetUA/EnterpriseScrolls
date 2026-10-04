@@ -104,6 +104,25 @@ title: EXOS variables
 96 [Drive C: clock](exos-variables/exos_var94-97_exdos30.md)  
 97 [Drive D: clock](exos-variables/exos_var94-97_exdos30.md)  
 
+## MODEM / ENTERCOM
+
+128 [MOD_SLOT](exos-variables/exos_var128_modem.md) — Slot position of serial/modem card.  
+129 [BAUD_COM](exos-variables/exos_var129_com.md) — Baud rate used for transmission/reception.  
+130 [FORMAT_COM](exos-variables/exos_var130_com.md) — Serial format used in transmission/reception.  
+131 [MOD_BAUD](exos-variables/exos_var131_modem.md) — Baud rate used.  
+132 [MOD_FORMAT](exos-variables/exos_var132_modem.md) — Format used.  
+133 [MOD_MODE](exos-variables/exos_var133_modem.md) — Current modem mode.  
+134 [MOD_BUF](exos-variables/exos_var134_modem.md) — modem receive buffer size.  
+135 [MOD_PROTOCOL](exos-variables/exos_var135_modem.md) — Protocol used.  
+136 [MOD_DISPLAY](exos-variables/exos_var136_modem.md) — Modem status display.  
+137 [MOD_STAT](exos-variables/exos_var137_modem.md) — Current modem status.   
+138 [DIALMAX](exos-variables/exos_var138_modem.md) — Max. wait for dial tone.  
+139 [DASHWAIT](exos-variables/exos_var139_modem.md) — Duration of pause, caused by '-'.  
+140 [DTMFDUR](exos-variables/exos_var140_modem.md) — Duration and spacing of dial-tones.   
+141 [RINGNUM](exos-variables/exos_var141_modem.md) — No. of rings on which modem answers.  
+142 [MAXCD](exos-variables/exos_var142_modem.md) — Maximum wait time for a carrier.  
+143 [CDLOSS](exos-variables/exos_var143_modem.md) — Delay between loss of carrier and hangup.  
+
 ## MOUSE (Hsoft)
 
 128 [XPL](exos-variables/exos_var128-131_mouse-hsoft.md)  

@@ -50,7 +50,8 @@ title: Розпіновка порту Monitor
 
 ## Додаткові матеріали
 
-[Enterprise AppNote #01](http://enterprise.iko.hu/technical/Enterprise-AppNote-01.pdf)
-
-
-
+[Application Note #1: Enterprise Pinout Information](http://enterprise.iko.hu/technical/Enterprise-AppNote-01.pdf)  
+[Application Note #3: Converting Microvitec Colour Monitors from TTL to Linear Input](http://enterprise.iko.hu/technical/Enterprise-AppNote-03.pdf)  
+[Application Note #5: Connecting an Enterprise 64/128 to a Hitachi CPT 1444 TV receiver](http://enterprise.iko.hu/technical/Enterprise-AppNote-05.pdf)  
+[Application Note #9: Modifying the Peritel (SCART) Cable for Use with Certain TV's with Monaural Sound](http://enterprise.iko.hu/technical/Enterprise-AppNote-09.pdf)  
+[Application Note #10: 900-04 Colour/Sound Cable](http://enterprise.iko.hu/technical/Enterprise-AppNote-10.pdf)  
