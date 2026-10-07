@@ -16,7 +16,7 @@ title: Розпіновки виводів
 
 Для виготовлення конекторів можна використати ISA-слот зі старої материнської плати, або стандартні *2.54mm PCB edge connector* на потрібну кількість контактів.
 
-Expansion Port / Expansion Bus
+[Expansion Port / Expansion Bus](pinouts-exp.md)
 
 Cartridge
 

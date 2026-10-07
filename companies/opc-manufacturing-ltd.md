@@ -3,9 +3,9 @@ title: Компанія «OPC Manufacturing Ltd»
 ---
 # OPC Manufacturing Ltd
 
-[https://web.archive.org/web/20230131230926/http://www.hkexporter.net/electronic/circuit/opc-manufacturing.html](https://web.archive.org/web/20230131230926/http://www.hkexporter.net/electronic/circuit/opc-manufacturing.html)
+[http://www.hkexporter.net/electronic/circuit/opc-manufacturing.html](https://web.archive.org/web/20230131230926/http://www.hkexporter.net/electronic/circuit/opc-manufacturing.html)
 
-[https://web.archive.org/web/20060519105852/http://www.meadvillegroup.com/eng/e_opc_profile.html](https://web.archive.org/web/20060519105852/http://www.meadvillegroup.com/eng/e_opc_profile.html)
+[http://www.meadvillegroup.com/eng/e_opc_profile.html](https://web.archive.org/web/20060519105852/http://www.meadvillegroup.com/eng/e_opc_profile.html)
 
 (Oriental Printed Circuits)
 

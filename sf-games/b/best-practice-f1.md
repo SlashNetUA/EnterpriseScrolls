@@ -25,7 +25,7 @@ title: "Best Practice"
 
 ## Примітка
 
-ℹ Прототип гри / Технодемка
+ℹ Хоумбрю-гра.  
 
 ## Скріншоти
 <img src="screens/scrn_best-practice-f1_01.png" width="24%">
@@ -54,14 +54,15 @@ title: "Best Practice"
 
 ## Посилання
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/jatekok/uj-jatek-bestpracticef1/)
-- [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1174?single) *(Telegram-канал Vibrant Waves)*
+- [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1197) *(Telegram-канал Vibrant Waves)*
 
 
 ## Відео
 
-<iframe src="https://www.youtube.com/embed/rxwNAoErGdQ"  
+<iframe src="https://www.youtube.com/embed/J4k4qZ6Ayas"  
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
+- [Відео](https://youtu.be/rxwNAoErGdQ)
 - [Відео](https://youtu.be/NBNYeOm8wXQ)
 - [Відео](https://www.youtube.com/watch?v=BeWB2qWju2U)
 - [Відео](https://www.youtube.com/watch?v=wwKmYbV6PVk)

@@ -53,7 +53,9 @@ Quoridor — це абстрактна настільна стратегічна
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Quoridor.htm)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/tvc-rl/quoridor/)
+- [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Quoridor.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1193) *(Telegram-канал Vibrant Waves)*
 
 

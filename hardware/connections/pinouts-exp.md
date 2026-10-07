@@ -47,6 +47,8 @@ A32: HSYNC             B32: GND
 A33: +9V (⚠)           B33: +9V (⚠)
 ```
 
+**\***: Контакти позначені (⚠) відрізняються від аналогічних контактів на розширювачі системної шини.
+
 ## Додаткові матеріали
 
 [Application Note #22: The Enterprise Expansion Port](http://enterprise.iko.hu/technical/Enterprise-AppNote-22.pdf)
@@ -54,6 +56,9 @@ A33: +9V (⚠)           B33: +9V (⚠)
 # Bus Bridge
 
 Єдиний офіційний розширювач системної шини [System Bus Bridge](../system-bus/hb-bus-bridge.md).
+
+<div style="text-align:center;">
+<img src="../system-bus/pics/system-bus-bridge_01.jpg" alt="" width="50%"></div>
 
 На пристрої: 37 контактів завширшки, використовуються 67 з 74 контактів: 
 
@@ -96,3 +101,5 @@ A35: GND                B35: SA0
 A36: SA1                B36: SA2
 A37: nc                 B37: nc
 ```
+
+**\***: Контакти позначені (⚠) відрізняються від аналогічних контактів на системній шині.

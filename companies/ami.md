@@ -5,7 +5,7 @@ title: Компанія «AMI»
 
 ![](pics/logo_ami-austria.png)
 
-https://en.wikipedia.org/wiki/AMS-Osram
+[AMS-Osram](https://en.wikipedia.org/wiki/AMS-Osram)
 
 > [компанія Voestalpine AG](https://en.wikipedia.org/wiki/Voestalpine_AG "Voestalpine AG") Наприкінці 1970-х років вирішує розширити асортимент своєї продукції та послуг і обрала напівпровідникову промисловість. Через пошуки Voestalpine партнера для спільного підприємства було укладено першу співпрацю з [American Microsystems, Inc.](https://en.wikipedia.org/wiki/American_Microsystems "Американські мікросистеми") (AMI), пізніше [AMI Semiconductor](https://en.wikipedia.org/wiki/AMI_Semiconductor "AMI Semiconductor") , яка зараз є частиною [OnSemi](https://en.wikipedia.org/wiki/Onsemi "Онсемі").
 

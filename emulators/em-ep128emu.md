@@ -25,6 +25,10 @@ title: Емулятор «ep128emu»
 
 [EP Wiki](https://wiki.enterpriseforever.com/index.php?title=EP128Emu_manual)
 
+## web-версія
+
+[https://kks2003.github.io/Ep128web/](https://kks2003.github.io/Ep128web/)
+
 ## libretro core
 
 На основі даного емулятора було створене ядро для Libretro.

@@ -3,10 +3,10 @@ title: Команда «Doberdo Brothers»
 ---
 # Doberdo Brothers
 
-![](pics/logo_doberdo_brothers.png)
+![](../pics/logo_doberdo_brothers.png)
 
 [Tamás Major](../t_major.md)  
-[Mihály Sáránszki](musaic.md)  
+[Mihály Sáránszki](../musaic.md)  
 
 [Home site](http://doberdobrothers.hu)  
 [Youtube](https://www.youtube.com/@Musaic)  
