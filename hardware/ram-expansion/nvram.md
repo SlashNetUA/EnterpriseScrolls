@@ -6,6 +6,7 @@ title: Внутрішнє розширення ОЗП «NVRAM»
 <div style="text-align:center;">
 <img src="pics/int-ram-exp-nvram_02.jpg" alt="Модуль NVRAM" width="60%"></div>
 
+Тип: [внутрішнє розширення оперативної пам'яті](int-ram-exp-main.md)  
 Автор: [kvaczko](../../peoples/community/kvaczko.md)  
 Рік: 2023  
 
