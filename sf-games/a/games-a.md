@@ -14,6 +14,7 @@
 - 🅩 [A1RL0CK](a1rl0ck-zcode.md)
 - △ [La Abadia Del Crimen](abadia-del-crimen-cpc.md)
 - 🅸 [The Abandoned Farmhouse Adventure](abandoned-farmhouse-adv-isdos.md)
+- △ [Abduction of Oscar Z](abduction-of-oscar-z-cpc.md)
 - △ [The Abyss](abyss.md)
 - △ [Academy](academy-tau-ceti2-zx.md)
 - △ [ACE](ace1-zx.md)

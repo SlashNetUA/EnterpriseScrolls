@@ -13,7 +13,7 @@ title: Журнал «Enterpress 2019/1-2 (2019.01-04)»
 
 Az idő fogságában  
 Az Enterprise dátum problémái  
-Enterprise SD Premium rev. 4.  
+[Enterprise SD Premium rev. 4.](2019-01-04/sd-card-rev4.md)   
 Enterprise MIDI inferface  
 A SOUND utasítás rejtelmei III.  
 Enterprise egér felújítása  

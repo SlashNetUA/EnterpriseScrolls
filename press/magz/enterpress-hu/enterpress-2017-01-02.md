@@ -16,7 +16,7 @@ Again on stage at Enterprise!
 Enterprise 1088 Kb  
 Ep128emu 2.0.11 version with tvc64emu  
 Karakterek felhasználása később  
-Enterprise 128 SD adapter premium activity LED  
+[Enterprise 128 SD adapter premium activity LED](2017-01-02/sd-card-led.md)  
 EXOS compatible memory management - Part I.  
 Book of life  
 Enterprise DevCompo #2 announcement  

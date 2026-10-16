@@ -6,7 +6,7 @@ title: Апаратне забезпечення
 
 # Накопичувачі інформації та контролери
 
-Магнітофони  
+[Касетні накопичувачі](cass-recorder/cassette-recorder-main.md)  
 [Картріджі](cartridge/cart-main.md)  
 [EXDOS](hd-exdos.md)  
 [Дисководи](drives/floppy-drives.md)  

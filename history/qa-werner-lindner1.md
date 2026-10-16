@@ -63,11 +63,13 @@ title: "Питання та відповіді з Вернером Ліндне�
 > *(про бізнес в Угорщині)*  
 > **Werner Lindner**: Початкова угода стосувалася всієї партії (приблизно 20 000 одиниць), але відвантаження здійснювалося кількома партіями. Товар з англійських складів постачався напряму з Англії та об’єднувався з німецькими залишками на складі компанії _MIDI-DATA_ у Франкфурті. Звідти кілька вантажівок вирушили до Угорщини. Магнітофони **OMEGA** привезли з Гонконгу. Я особисто знаю про одну поставку в 5000 штук, але не впевнений, чи були інші. Управлінською стороною (контракти, логістика тощо) на той час займався [Г. М. Віндіш](../peoples/ec-de/pers_h-m-windisch.md) («Майк» Віндіш), який пізніше став керуючим директором [ENTERPRISE Computers GmbH](../companies/enterprise-computers-gmbh.md). Я вже намагався зв’язатися з ним (щодо деталей по Угорщині, Алмати, Джезказгану та Москві), але, на жаль, він зараз за кордоном. Він повернеться десь у середині квітня, і я думаю, що раніше отримати більше інформації не вдасться.
 
-**Zozosoft**: Хто створив цей чудовий дизайн магнітофонів і чому існують інші версії (**Cloud 7**/**Omega**)?
+----
 
-<img src="../hardware/cass-recorder/hd-cassette-recorder-ep.jpg" height="150"> 
-<img src="../hardware/cass-recorder/hd-cassette-recorder-cloud7.jpg" height="150"> 
-<img src="../hardware/cass-recorder/hd-cassette-recorder-omega.jpg" height="150"> 
+**Zozosoft**: Хто створив цей чудовий дизайн [магнітофонів](../hardware/cass-recorder/cassette-recorder-main.md) і чому існують інші версії (**Cloud 7**/**Omega**)?
+
+<img src="../hardware/cass-recorder/pics/hd-cassette-recorder-ep_01.jpg" height="150"> 
+<img src="../hardware/cass-recorder/pics/hd-cassette-recorder-cloud7_01.jpg" height="150"> 
+<img src="../hardware/cass-recorder/pics/hd-cassette-recorder-omega_01.jpg" height="150"> 
 
 > **Werner Lindner**: Наскільки мені відомо, усі магнітофони, відправлені до Угорщини, прибули з Гонконгу. Замовлення та доставку організувала філія [Locumals Ltd.](../companies/locumals-ltd.md) у Гонконгу — це торгова компанія родини [Маxтані](../peoples/ec-uk/pers_lachu-mahtani.md). Чорно-зелений корпус був нашою ідеєю; ми надіслали плівки для логотипа **Гені Матані** (Heny Mathani), який узгодив усі деталі з постачальником. Здається, початкове замовлення було на 10 000 штук, але я не пам’ятаю точно.
 > 

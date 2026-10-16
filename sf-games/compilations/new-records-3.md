@@ -13,7 +13,9 @@
 | [Deflector](../d/deflektor-cpc.md)                  |                                                |
 
 
+## Speccies 2
 
+Після завантаження натиснути **Stop**.
 
 
 
