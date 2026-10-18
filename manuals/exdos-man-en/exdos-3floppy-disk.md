@@ -49,8 +49,20 @@ Disks may be "write protected", to stop any data being written to the disk or an
 
 ## Diagram 4: Write protecting a 3.5” disk
 
-![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/004abra.GIF)
+<div style="text-align:center;">
+<img src="pics/isdos-man-diagram-4.png" alt="Write protecting a 3.5” disk" width="70%"></div>
+
+**Underside**  
+Hole covered = Write enable  
+Hole uncovered = Write protect  
+Slide plastic "switch" to change  
 
 ## Diagram 5: Write protecting a 5.25” disk
 
-![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/005abra.GIF)
+<div style="text-align:center;">
+<img src="pics/isdos-man-diagram-5.png" alt="Write protecting a 5.25” disk" width="70%"></div>
+
+**Top**  
+Notch covered = Write protect  
+Notch uncovered = Write enable  
+(Cover with sticky tape provided to write protect)  

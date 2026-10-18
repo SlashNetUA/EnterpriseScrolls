@@ -27,7 +27,8 @@ Your local computer store should be able to offer advice on the choice of drive 
 
 ## Diagram 6: The complete system
 
-![](http://ep.homeserver.hu/Dokumentacio/Konyvek/EXDOS/Picture/006abra.GIF)
+<div style="text-align:center;">
+<img src="pics/isdos-man-diagram-6.png" alt="The complete system" width="100%"></div>
 
 Step by step instructions.
 

@@ -11,3 +11,4 @@ title: Журнал «Enterpress 2026/5 (2026.09-10)»
 
 ## Зміст
 
+Gépi mesék az informatikatörténetről: Képes Gábor AI-játékai [>](https://www.facebook.com/groups/112679608813524/posts/28699722103015893/)

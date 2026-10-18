@@ -47,3 +47,5 @@ title: "Програмування"
 [Amstrad CPC](conv-cpc/main.md)
 
 [Pico-8](conv-pico8/main.md)
+
+[MSX](conv-msx/main.md)
