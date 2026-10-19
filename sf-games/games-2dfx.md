@@ -14,11 +14,16 @@
 
 ----
 
+# L
+
+- △ [Lemmings](l/lemmings-tvc.md)
+
 # P
 
 - 𝔹 [Pong](p/pong-bas.md)
 
 # W
 
+- △ [Wolf 3D](w/wolf-3d.md)
 - 𝔹 [WOW Pong](w/wow-pong-bas.md)
 

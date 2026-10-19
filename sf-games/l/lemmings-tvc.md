@@ -63,7 +63,7 @@ Unofficial version
 - **Мови:** Англійська
 - **Оригінальна платформа:** Videoton TVC
 ### Загальні системні вимоги
-- **Апаратні:** EP128, EXDOS
+- **Апаратні:** EP128, EXDOS, 2dfx (optional)
 ### Геймплей
 - **Керування:** Mouse, Internal Joy, External Joy 1
 - **Кількість гравців:** 1 player
@@ -75,7 +75,7 @@ Unofficial version
 
 
 ## Посилання
-- [Домашня сторінка](https://anystone.games)
+- [Домашня сторінка](https://anystone.games/?lang=en&platform=Enterprise+128#en/game-lemmings-ep)
 - [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/Lemmings.htm)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Lemmings.rar)
 - [Завантажити](https://downloads.anystone.games/lemmings-ep128)

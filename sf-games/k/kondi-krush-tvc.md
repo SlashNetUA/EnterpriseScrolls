@@ -55,7 +55,7 @@ title: "Kondi Krush!"
 
 
 ## Посилання
-- [Домашня сторінка](https://anystone.games)
+- [Домашня сторінка](https://anystone.games/?lang=en&platform=Enterprise+128#en/game-kondikrush-ep)
 - [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/Kondi_Krush.htm)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Kondi_Krush.rar)
 - [Завантажити](https://downloads.anystone.games/kondikrush-enterprise-com)

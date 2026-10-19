@@ -52,7 +52,7 @@ title: "Rush!"
 
 
 ## Посилання
-- [Домашня сторінка](https://anystone.games)
+- [Домашня сторінка](https://anystone.games/?lang=en&platform=Enterprise+128#en/game-rush-ep)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Rush.htm)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/tvc-rl/rush!/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Rush.rar)

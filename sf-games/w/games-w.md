@@ -54,6 +54,7 @@
 - △ [Wizard of Wor](wizard-of-wor-zx.md)
 - △ [Wizard's Lair](wizards-lair.md)
 - △ [Wizball](wizball-cpc.md)
+- △ [Wolf 3D](wolf-3d.md)
 - △ [Wolfenstein 2004](wolfenstein2004-zx.md)
 - △ [Wonder Boy](wonder-boy-zx.md)
 - △ [Wopus](wopus.md)

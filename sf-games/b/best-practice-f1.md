@@ -57,6 +57,7 @@ title: "Best Practice"
 
 ## Посилання
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/jatekok/uj-jatek-bestpracticef1/)
+- [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Best_Practice_F1.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1197) *(Telegram-канал Vibrant Waves)*
 
 
