@@ -142,4 +142,6 @@ title: "2dfx: посібник програміста - Зведена табл�
 |          D0h / 208           | [EGG_D0](commands/egg_d0.md) | Демо прошивки: стрес-тест частоти оновлення екрана TVC                                        |
 |          D1h / 209           | [EGG_D1](commands/egg_d1.md) | Демо прошивки: координати видимої області екрана                                              |
 |          D2h / 210           | [EGG_D2](commands/egg_d2.md) | Демо прошивки: анімоване 2DPT та демонстрація [SET_XY_OFFSET](commands/2dpt-set_xy_offset.md) |
+|          D3h / 211           | [EGG_D3](commands/egg_d3.md) | Демо прошивки: космічні кораблі                                              |
+|          D4h / 212           | [EGG_D4](commands/egg_d4.md) | Демо прошивки: політ скрізь тунель                                              |
 

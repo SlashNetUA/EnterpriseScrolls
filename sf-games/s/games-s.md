@@ -63,6 +63,7 @@
 - △ [Shanghai Karate](shanghai-karate-zx.md)
 - △ [Shanghai Warriors](shanghai-warriors-zx.md)
 - △ [Shao-Lin's Road](shaolins-road-zx.md)
+- △ [Sheepish](sheepish-zx.md)
 - △ [Sheer Panic](sheer-panic-zx.md)
 - 🅸 [Sherlock Holmes in the Case of the Beheaded Smuggler](sherlock-holmes-in-the-case-of-the-beheaded-smuggler-isdos.md)
 - 🅸 [Sherlock Holmes: The Lamberley Mystery](sherlock-holmes-the-lamberley-mystery-isdos.md)

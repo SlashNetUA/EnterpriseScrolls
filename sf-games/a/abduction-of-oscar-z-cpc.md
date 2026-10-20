@@ -48,3 +48,8 @@ The ABDUCTION of Oscar Z — це аркадна гра, в якій хлопч�
 - **Автор:** Tulo, Alberto Hache, Gryzor87
 
 
+## Посилання
+- [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=17793)
+- [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1221) *(Telegram-канал Vibrant Waves)*
+
+
