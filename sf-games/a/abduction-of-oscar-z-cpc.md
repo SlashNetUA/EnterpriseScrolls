@@ -50,6 +50,13 @@ The ABDUCTION of Oscar Z — це аркадна гра, в якій хлопч�
 
 ## Посилання
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=17793)
+- [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Abduction_of_Oscar_Z.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1221) *(Telegram-канал Vibrant Waves)*
+
+
+## Відео
+
+<iframe src="https://www.youtube.com/embed/X8lCda6NnX8"  
+style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 

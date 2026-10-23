@@ -14,6 +14,10 @@
 
 ----
 
+# D
+
+- △ [Digger](d/digger-coleco.md)
+
 # L
 
 - △ [Lemmings](l/lemmings-tvc.md)

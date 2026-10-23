@@ -18,13 +18,37 @@ title: "Digger"
 **ID:** digger-coleco
 
 
+**Жанри:** Аркада, Екшн
+
 ## Примітка
 
-Unfinished conversion from Colecovision by Povi
+ℹ Сучасна неофіційна конверсія з платформи ColecoVision.
 
 ## Скріншоти
 <img src="screens/scrn_digger-coleco_01.png" width="24%">
 <img src="screens/scrn_digger-coleco_02.png" width="24%">
+<img src="screens/scrn_digger-coleco_03.png" width="24%">
+<img src="screens/scrn_digger-coleco_04.png" width="24%">
+
+
+## Опис
+
+Приєднуйтесь до пошуків захованих скарбів — сяючого золота та блискучих смарагдів. Сідайте за кермо вашого механізованого «Digger-мобіля» із клацаючими передніми щелепами. Проривайте лабіринти довільної форми, перехитріть витрішкуватих Ноббінів та поспішайте зібрати коштовні камені. Покладайтеся на свій розум — він вам обов'язково знадобиться!
+
+
+## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Colecovision
+### Загальні системні вимоги
+- **Апаратні:** 2dfx, EP128
+### Геймплей
+- **Керування:** Keyboard, Internal Joy, External Joy 1
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1983, 2015
+- **Автор:** Mystery Man
+- **Компанія:** Windmill Software Inc.
 
 
 ## Відео
@@ -34,4 +58,20 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 - [Відео](https://www.youtube.com/watch?v=XsocUHBlsjk)
 
+## [Керування](../controllers.md)
 
+`Keyboard`  
+`Internal Joystick`  
+`External Joystick 1`  
+
+`F6`: вимкн./увімкн. звукові ефекти  
+`F7`: вимкн./увімкн. музику  
+`Hold`/`Pause`: пауза
+
+## Детальна інформація
+
+### Системні вимоги  
+
+#### Мінімальні системні вимоги  
+Оперативна пам'ять: **128 КБ (або більше)**  
+Апаратні розширення: **2dfx**

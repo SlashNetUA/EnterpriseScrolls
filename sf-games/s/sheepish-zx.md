@@ -48,6 +48,13 @@ title: "Sheepish"
 ## Посилання
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/jatekok/sheepish/msg96974/#msg96974)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/43030/ZX-Spectrum/Sheepish)
+- [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Sheepish.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1217) *(Telegram-канал Vibrant Waves)*
+
+
+## Відео
+
+<iframe src="https://www.youtube.com/embed/Ky0KgjKbOn0"  
+style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 
