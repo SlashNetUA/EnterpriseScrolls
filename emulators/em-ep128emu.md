@@ -11,12 +11,12 @@ title: Емулятор «ep128emu»
 <img src="manual/scrn_ep128emu_cpc.png" alt="Головне вікно емулятора ep128emu (емуляція Amstrad CPC)" width="20%"> 
 <img src="manual/scrn_ep128emu_tvc.png" alt="Головне вікно емулятора ep128emu (емуляція Videoton TVC)" width="20%"></div>
 
-
+Платформа: Windows (32 bit), Linux & MacOS X (32 and 64 bit)  
 Автор: [István Varga](../peoples/community/istvanv.md)  
 [Сторінка проекту](https://ep128emu.enterpriseforever.com)  
 [Сторінка проекту](http://ep128emu.sourceforge.net)  
-[Актуальний вихідний код](https://github.com/czo/ep128emu)  
-Платформа: Windows (32 bit), Linux & MacOS X (32 and 64 bit)
+✨ [Найактуальніша версія](https://zoltanvb.github.io/ep128emu/)  
+
 
 > ep128emu — це портативний емулятор комп'ютерів **Enterprise 128**, ZX Spectrum 48/128, Amstrad CPC 464/664/6128 та Videoton TVC із відкритим вихідним кодом. Він написаний на C++ та підтримує платформи Windows і POSIX (успішно протестований на 32- та 64-бітних версіях Windows, Linux, а також на MacOS X.  
 > Програма забезпечує точну та високоякісну апаратну емуляцію, проте її системні вимоги є вищими, ніж у більшості інших емуляторів.

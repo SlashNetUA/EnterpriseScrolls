@@ -32,7 +32,7 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 Автор: [kvaczko](../peoples/community/kvaczko.md)   
 Рік: 2022  
-[Офіційний сайт](https://2dfx.net)
+🏚 [Офіційний сайт](https://2dfx.net)
 
 ----
 
@@ -40,9 +40,9 @@ style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 Редактор спрайтів
 
-[Посібник користувача та програмування](../programming/2dfx-programming.md)
+📔 [Посібник користувача та програмування](../programming/2dfx-programming.md)
 
-[Ігри що повністю або частково використовують цей акселератор графіки](../sf-games/games-2dfx.md)
+⚽ [Ігри що повністю або частково використовують цей акселератор графіки](../sf-games/games-2dfx.md)
 
 <div style="text-align:center;">
 <img src="2dfx/2dfx-ep-v7.jpg" alt="Карта 2dfx для комп'ютера Enterprise" width="36%"> 
