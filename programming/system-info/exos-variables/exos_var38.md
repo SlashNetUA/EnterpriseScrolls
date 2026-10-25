@@ -10,7 +10,7 @@ Only in [EXOS 2.1](../../../software/exos/exos-versions.md) and greater.
 `SET 38, expr`  
 `TOGGLE 38` - inverts value.
 
-Controls the priority selection of external colour inputs from the expansion bus and may thus be used with a sprite generator.
+Controls the priority selection of [external colour inputs](../nick/ext-colours.md) from the expansion bus and may thus be used with a sprite generator.
 
 **0**: (default)
 
