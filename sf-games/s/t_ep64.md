@@ -1,5 +1,6 @@
 # S
 
+- △ [SandTris](s/sandtris-tvc.md)
 - △ [Shikaku](s/shikaku-tvc.md)
 - △ [Snake Puzzle](s/snake-puzzle-tvc.md)
 - △ [Snake 1k](s/snake1k.md)

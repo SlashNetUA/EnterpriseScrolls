@@ -159,6 +159,8 @@ SMD turbókártya
 
 ## Відеосигнал
 
+[RGBtoHDMI](https://github.com/hoglet67/RGBtoHDMI/wiki/Cables)
+
 ## Інше
 
 [The 'L2'](mods/the-l2.md)  

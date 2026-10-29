@@ -67,3 +67,19 @@ The ABDUCTION of Oscar Z — це аркадна гра, в якій хлопч�
 style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
 
 
+## [Керування](../controllers.md)
+
+`Keyboard` (можна перевизначити)  
+`Internal Joystick` (за замовчуванням)  
+`External Joystick 1`  
+`External Joystick 2`  
+`External Joystick 3`  
+`External Joystick 4`  
+`External Joystick 5`  
+`External Joystick 6`  
+
+`Fire` (якщо є енергія): Пришвидшитись (або стріляти під час польоту на тарілці)  
+
+`Stop` (за замовчуванням): вихід з поточної гри у головне меню  
+`Esc`: вихід з гри у систему
+

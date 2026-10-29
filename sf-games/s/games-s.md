@@ -24,6 +24,7 @@
 - △ [Samantha Fox Strip Poker](samantha-fox-strip-poker-zx.md)
 - 🅩 [The Samurai and the Kappa](samurai-and-the-kappa-zcode.md)
 - △ [Samurai Warrior](samurai-warrior-the-battles-of-usagi-yojimbo-zx.md)
+- △ [SandTris](sandtris-tvc.md)
 - △ [Sanxion](sanxion-zx.md)
 - 🅸 [Sargon](sargon-isdos.md)
 - △ [SAS Combat Simulator](sas-combat-simulator-zx.md)
