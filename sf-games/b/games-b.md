@@ -44,6 +44,7 @@
 - △ [Battle-Tank Simulator](battle-tank-sim-zx.md)
 - △ [Battle Valley](battle-valley-zx.md)
 - △ [BATTLOT](battlot.md)
+- △ [Batty](batty-c64.md)
 - △ [Batty](batty-zx.md)
 - △ [B.C. Bill](bc-bill-zx.md)
 - △ [BC's Quest for Tires](bcs-quest-for-tires-zx.md)

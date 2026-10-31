@@ -46,6 +46,12 @@ Homebrew
 - [Завантажити](https://downloads.anystone.games/wolf3d-tvc-enterprise)
 
 
+## Відео
+
+<iframe src="https://www.youtube.com/embed/sYJnyYW_Waw"  
+style="width:75%; aspect-ratio:16/9;" allowfullscreen></iframe>
+
+
 ## Детальна інформація
 
 ### Системні вимоги  

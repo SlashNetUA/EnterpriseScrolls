@@ -14,6 +14,10 @@
 
 ----
 
+# B
+
+- △ [Batty](b/batty-c64.md)
+
 # D
 
 - △ [Digger](d/digger-coleco.md)

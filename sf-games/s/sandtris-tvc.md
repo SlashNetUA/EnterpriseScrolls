@@ -46,6 +46,7 @@ Approved conversion
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/SandTris.htm)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/tvc-rol/sandtris)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Sandtris.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1229) *(Telegram-канал Vibrant Waves)*
