@@ -24,6 +24,7 @@ title: "Конверсія програм з платформи MSX: Кольо�
 | 14  |        Gray         | (204, 204, 204) | ![#cccccc](https://dummyimage.com/40x40/cccccc/000000.png&text=+) | ![#b6b6aa](https://dummyimage.com/40x40/b6b6aa/000000.png&text=+) | (182, 182, 170) |      199      |
 | 15  |        White        | (255, 255, 255) | ![#FFFFFF](https://dummyimage.com/40x40/FFFFFF/000000.png&text=+) | ![#FFFFFF](https://dummyimage.com/40x40/FFFFFF/000000.png&text=+) | (255, 255, 255) |      255      |
 
+----
 
 **0**-**7**: palette colours  
 **8**-**15**: BIAS colours (Nick I/O BIAS=**17**)
