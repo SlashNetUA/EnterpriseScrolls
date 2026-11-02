@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enterprise Palette Creator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Courier New', monospace;
+            background: #1a1a1a;
+            color: #e0e0e0;
+            padding: 20px;
+        }
+        
+        .container {
+            display: flex;
+            gap: 20px;
+            max-width: 1800px;
+            margin: 0 auto;
+        }
+        
+        .left-panel {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        
+        .right-panel {
+            flex: 1.5;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        
+        .panel {
+            background: #2a2a2a;
+            border: 2px solid #444;
+            border-radius: 8px;
+            padding: 15px;
+        }
+        
+        .panel-title {
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #00ff00;
+            text-transform: uppercase;
+        }
+        
+        #imageUpload {
+            width: 100%;
+            padding: 10px;
+            background: #333;
+            border: 1px solid #555;
+            color: #fff;
+            cursor: pointer;
+        }
+        
+        .image-comparison {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        
+        .image-container {
+            text-align: center;
+        }
+        
+        .image-container label {
+            display: block;
+            font-size: 11px;
+            color: #888;
+            margin-bottom: 5px;
+        }
+        
+        #originalImage, #modifiedImage {
+            width: 100%;
+            max-height: 300px;
+            object-fit: contain;
+            background: #000;
+            border: 1px solid #555;
+        }
+        
+        .view-toggle {
+            display: flex;
+            gap: 5px;
+            margin-top: 10px;
+        }
+        
+        .view-toggle button {
+            flex: 1;
+            padding: 6px;
+            font-size: 11px;
+        }
+        
+        .view-toggle button.active {
+            background: #00aa00;
+            border-color: #00ff00;
+        }
+        
+        .palettes-stack {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            gap: 25px;
+        }
+        
+        .palette-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .palette-label {
+            width: 100px;
+            font-size: 11px;
+            color: #aaa;
+            text-align: right;
+        }
+        
+        .palette {
+            display: grid;
+            grid-template-columns: repeat(16, 1fr);
+            gap: 2px;
+            flex: 1;
+            padding: 5px;
+            background: #1a1a1a;
+            border: 1px solid #555;
+        }
+        
+        .color-cell {
+            aspect-ratio: 1;
+            border: 2px solid #333;
+            cursor: pointer;
+            position: relative;
+            transition: all 0.1s;
+            min-height: 30px;
+        }
+        
+        .color-cell:hover {
+            transform: scale(1.15);
+            z-index: 10;
+            border-color: #fff;
+        }
+        
+        .color-cell.selected {
+            border: 3px solid #ffff00;
+            box-shadow: 0 0 8px #ffff00;
+        }
+        
+        .color-cell.connected {
+            border: 2px solid #00ff00;
+        }
+        
+        .color-index {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            font-size: 7px;
+            color: #fff;
+            background: rgba(0,0,0,0.8);
+            padding: 1px 2px;
+            line-height: 1;
+        }
+        
+        .arrows-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 5;
+        }
+        
+        .arrow-line {
+            stroke: #00ff00;
+            stroke-width: 2;
+            fill: none;
+            marker-end: url(#arrowhead);
+        }
+        
+        .global-palette {
+            display: grid;
+            grid-template-columns: repeat(16, 1fr);
+            gap: 1px;
+            padding: 8px;
+            background: #1a1a1a;
+            border: 1px solid #555;
+        }
+        
+        .global-color {
+            aspect-ratio: 1;
+            border: 1px solid #222;
+            cursor: pointer;
+            position: relative;
+            width: 24px;
+            height: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+        
+        .global-color:hover {
+            border: 2px solid #fff;
+            z-index: 2;
+        }
+        
+        .global-color-index {
+            font-size: 7px;
+            color: #fff;
+            text-shadow: 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000;
+            line-height: 1;
+            pointer-events: none;
+            font-weight: bold;
+        }
+        
+        .enterprise-global-indices {
+            display: grid;
+            grid-template-columns: repeat(16, 1fr);
+            gap: 2px;
+            padding: 5px;
+            margin-top: 5px;
+            background: #1a1a1a;
+            border: 1px solid #555;
+        }
+        
+        .global-index-cell {
+            aspect-ratio: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 9px;
+            color: #00ff00;
+            background: #222;
+            border: 1px solid #444;
+            min-height: 22px;
+        }
+        
+        .global-index-cell.empty {
+            color: #555;
+        }
+        
+        .controls {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 10px;
+        }
+        
+        button {
+            padding: 8px 16px;
+            background: #444;
+            border: 1px solid #666;
+            color: #fff;
+            cursor: pointer;
+            border-radius: 4px;
+            font-family: inherit;
+            font-size: 12px;
+        }
+        
+        button:hover {
+            background: #555;
+        }
+        
+        button:active {
+            background: #333;
+        }
+        
+        button.reset-connection {
+            background: #553333;
+            border-color: #774444;
+        }
+        
+        button.reset-connection:hover {
+            background: #664444;
+        }
+        
+        button.save-btn {
+            background: #335533;
+            border-color: #447744;
+        }
+        
+        button.save-btn:hover {
+            background: #446644;
+        }
+        
+        select {
+            padding: 8px;
+            background: #333;
+            border: 1px solid #555;
+            color: #fff;
+            cursor: pointer;
+        }
+        
+        .bias-control {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        
+        .bias-control label {
+            font-size: 12px;
+            white-space: nowrap;
+        }
+        
+        input[type="range"] {
+            flex: 1;
+        }
+        
+        .info-text {
+            font-size: 11px;
+            color: #888;
+            margin-top: 5px;
+        }
+        
+        .mode-indicator {
+            font-size: 11px;
+            color: #ffff00;
+            margin-top: 5px;
+            min-height: 16px;
+        }
+        
+        .connection-controls {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+            flex-wrap: wrap;
+        }
+        
+        .global-indices-label {
+            font-size: 11px;
+            color: #aaa;
+            margin-top: 8px;
+            margin-bottom: 3px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="left-panel">
+            <div class="panel">
+                <div class="panel-title">Image Upload</div>
+                <input type="file" id="imageUpload" accept="image/*">
+                <div class="image-comparison" id="imageComparison">
+                    <div class="image-container">
+                        <label>Original</label>
+                        <img id="originalImage" style="display:none;">
+                    </div>
+                    <div class="image-container">
+                        <label>Modified</label>
+                        <canvas id="modifiedImage"></canvas>
+                    </div>
+                </div>
+                <div class="view-toggle">
+                    <button id="viewBoth" class="active">Both</button>
+                    <button id="viewOriginal">Original</button>
+                    <button id="viewModified">Modified</button>
+                </div>
+                <canvas id="colorCanvas" style="display:none;"></canvas>
+            </div>
+        </div>
+        
+        <div class="right-panel">
+            <div class="panel">
+                <div class="panel-title">Palette Mapping</div>
+                <select id="platformSelect" style="margin-bottom: 10px;">
+                    <option value="zx">ZX Spectrum</option>
+                    <option value="cpc">Amstrad CPC</option>
+                    <option value="msx">MSX</option>
+                    <option value="custom">Custom</option>
+                </select>
+                <div class="palettes-stack" id="palettesStack">
+                    <div class="palette-row">
+                        <div class="palette-label">Image:</div>
+                        <div class="palette" id="imagePalette"></div>
+                    </div>
+                    <div class="palette-row">
+                        <div class="palette-label">Platform:</div>
+                        <div class="palette" id="middlePalette"></div>
+                    </div>
+                    <div class="palette-row">
+                        <div class="palette-label">Enterprise:</div>
+                        <div class="palette" id="rightPalette"></div>
+                    </div>
+                    <svg class="arrows-overlay" id="arrowsOverlay">
+                        <defs>
+                            <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+                                <polygon points="0 0, 10 3, 0 6" fill="#00ff00"/>
+                            </marker>
+                        </defs>
+                    </svg>
+                </div>
+                <div class="connection-controls">
+                    <button class="reset-connection" id="resetImgToPlatBtn">Clear: Image → Platform</button>
+                    <button class="reset-connection" id="resetPlatToEntBtn">Clear: Platform → Enterprise</button>
+                </div>
+                <div class="mode-indicator" id="modeIndicator"></div>
+                <div class="info-text">Click a color in one palette, then click a color in another to create a mapping</div>
+            </div>
+            
+            <div class="panel">
+                <div class="panel-title">Enterprise Global Palette (256 colors)</div>
+                <div class="global-palette" id="globalPalette"></div>
+                <div class="bias-control">
+                    <label>BIAS_NUM: <span id="biasValue">0</span></label>
+                    <input type="range" id="biasSlider" min="0" max="31" value="0">
+                </div>
+                <div class="info-text">Indices 8-15 are automatically set according to BIAS_NUM</div>
+                <div class="global-indices-label">Enterprise palette global indices:</div>
+                <div class="enterprise-global-indices" id="enterpriseGlobalIndices"></div>
+                <div class="controls">
+                    <button id="applyBtn">Apply to Image</button>
+                    <button class="save-btn" id="saveBtn">Save Image</button>
+                    <button id="exportBtn">Export Palette</button>
+                    <button id="resetBtn">Reset All</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const FULL_PALETTE = [
+            0,0,0,      146,0,0,    0,146,0,   146,146,0,  0,0,170,    146,0,170,   0,146,170,  146,146,170,  73,0,0,     219,0,0,    73,146,0,   219,146,0,  73,0,170,    219,0,170,   73,146,170,  219,146,170,
+            0,73,0,     146,73,0,   0,219,0,   146,219,0,  0,73,170,   146,73,170,  0,219,170,  146,219,170,  73,73,0,    219,73,0,   73,219,0,   219,219,0,  73,73,170,   219,73,170,  73,219,170,  219,219,170,
+            0,0,85,     146,0,85,   0,146,85,  146,146,85, 0,0,255,    146,0,255,   0,146,255,  146,146,255,  73,0,85,    219,0,85,   73,146,85,  219,146,85, 73,0,255,    219,0,255,   73,146,255,  219,146,255,
+            0,73,85,    146,73,85,  0,219,85,  146,219,85, 0,73,255,   146,73,255,  0,219,255,  146,219,255,  73,73,85,   219,73,85,  73,219,85,  219,219,85, 73,73,255,   219,73,255,  73,219,255,  219,219,255,
+            36,0,0,     182,0,0,    36,146,0,  182,146,0,  36,0,170,   182,0,170,   36,146,170, 182,146,170,  109,0,0,    255,0,0,    109,146,0,  255,146,0,  109,0,170,   255,0,170,   109,146,170, 255,146,170,
+            36,73,0,    182,73,0,   36,219,0,  182,219,0,  36,73,170,  182,73,170,  36,219,170, 182,219,170,  109,73,0,   255,73,0,   109,219,0,  255,219,0,  109,73,170,  255,73,170,  109,219,170, 255,219,170,
+            36,0,85,    182,0,85,   36,146,85, 182,146,85, 36,0,255,   182,0,255,   36,146,255, 182,146,255,  109,0,85,   255,0,85,   109,146,85, 255,146,85, 109,0,255,   255,0,255,   109,146,255, 255,146,255,
+            36,73,85,   182,73,85,  36,219,85, 182,219,85, 36,73,255,  182,73,255,  36,219,255, 182,219,255,  109,73,85,  255,73,85,  109,219,85, 255,219,85, 109,73,255,  255,73,255,  109,219,255, 255,219,255,
+            0,36,0,     146,36,0,   0,182,0,   146,182,0,  0,36,170,   146,36,170,  0,182,170,  146,182,170,  73,36,0,    219,36,0,   73,182,0,   219,182,0,  73,36,170,   219,36,170,  73,182,170,  219,182,170,
+            0,109,0,    146,109,0,  0,255,0,   146,255,0,  0,109,170,  146,109,170, 0,255,170,  146,255,170,  73,109,0,   219,109,0,  73,255,0,   219,255,0,  73,109,170,  219,109,170, 73,255,170,  219,255,170,
+            0,36,85,    146,36,85,  0,182,85,  146,182,85, 0,36,255,   146,36,255,  0,182,255,  146,182,255,  73,36,85,   219,36,85,  73,182,85,  219,182,85, 73,36,255,   219,36,255,  73,182,255,  219,182,255,
+            0,109,85,   146,109,85, 0,255,85,  146,255,85, 0,109,255,  146,109,255, 0,255,255,  146,255,255,  73,109,85,  219,109,85, 73,255,85,  219,255,85, 73,109,255,  219,109,255, 73,255,255,  219,255,255,
+            36,36,0,    182,36,0,   36,182,0,  182,182,0,  36,36,170,  182,36,170,  36,182,170, 182,182,170,  109,36,0,   255,36,0,   109,182,0,  255,182,0,  109,36,170,  255,36,170,  109,182,170, 255,182,170,
+            36,109,0,   182,109,0,  36,255,0,  182,255,0,  36,109,170, 182,109,170, 36,255,170, 182,255,170,  109,109,0,  255,109,0,  109,255,0,  255,255,0,  109,109,170, 255,109,170, 109,255,170, 255,255,170,
+            36,36,85,   182,36,85,  36,182,85, 182,182,85, 36,36,255,  182,36,255,  36,182,255, 182,182,255,  109,36,85,  255,36,85,  109,182,85, 255,182,85, 109,36,255,  255,36,255,  109,182,255, 255,182,255,
+            36,109,85,  182,109,85, 36,255,85, 182,255,85, 36,109,255, 182,109,255, 36,255,255, 182,255,255,  109,109,85, 255,109,85, 109,255,85, 255,255,85, 109,109,255, 255,109,255, 109,255,255, 255,255,255
+        ];
+
+        const PLATFORM_PALETTES = {
+            zx: [
+                [0,0,0], [0,0,215], [215,0,0], [215,0,215],
+                [0,215,0], [0,215,215], [215,215,0], [215,215,215],
+                [0,0,0], [0,0,255], [255,0,0], [255,0,255],
+                [0,255,0], [0,255,255], [255,255,0], [255,255,255]
+            ],
+            cpc: [
+                [0,0,0], [0,0,128], [0,0,255], [128,0,255],
+                [255,0,255], [255,0,128], [255,0,0], [255,128,0],
+                [255,255,0], [128,255,0], [0,255,0], [0,255,128],
+                [0,255,255], [0,128,255], [128,128,128], [255,255,255]
+            ],
+            msx: [
+                [0,0,0], [1,1,1], [62, 184, 73], [116, 208, 125],
+                [89, 85, 224], [128, 118, 241], [185, 94, 81], [101, 219, 239],
+                [219, 101, 89], [255, 137, 125], [204, 195, 94], [222, 208, 135],
+                [58, 162, 65], [183, 102, 181], [204, 204, 204], [255, 255, 255]
+            ],
+            custom: Array(16).fill([128,128,128])
+        };
+
+        // Lookup: RGB string → global index
+        const RGB_TO_GLOBAL_INDEX = new Map();
+        for (let i = 0; i < 256; i++) {
+            const key = `${FULL_PALETTE[i*3]},${FULL_PALETTE[i*3+1]},${FULL_PALETTE[i*3+2]}`;
+            RGB_TO_GLOBAL_INDEX.set(key, i);
+        }
+
+        let state = {
+            imageColors: [],
+            imagePalette: Array(16).fill(null),
+            middlePalette: PLATFORM_PALETTES.zx.slice(),
+            rightPalette: Array(16).fill(null),
+            rightPaletteGlobalIndex: Array(16).fill(null),
+            connections: { imageToMiddle: {}, middleToRight: {} },
+            biasNum: 0,
+            selectedColor: null,
+            selectedPalette: null,
+            originalImageData: null,
+            viewMode: 'both'
+        };
+
+        function init() {
+            renderGlobalPalette();
+            renderPalettes();
+            renderEnterpriseGlobalIndices();
+            setupEventListeners();
+            updateBias();
+        }
+
+        function renderGlobalPalette() {
+            const container = document.getElementById('globalPalette');
+            container.innerHTML = '';
+            
+            for (let i = 0; i < 256; i++) {
+                const r = FULL_PALETTE[i * 3];
+                const g = FULL_PALETTE[i * 3 + 1];
+                const b = FULL_PALETTE[i * 3 + 2];
+                
+                const cell = document.createElement('div');
+                cell.className = 'global-color';
+                cell.style.backgroundColor = `rgb(${r},${g},${b})`;
+                cell.dataset.index = i;
+                cell.title = `Index: ${i}\nRGB: ${r},${g},${b}`;
+                
+                const indexLabel = document.createElement('div');
+                indexLabel.className = 'global-color-index';
+                indexLabel.textContent = i;
+                cell.appendChild(indexLabel);
+                
+                cell.addEventListener('click', () => selectGlobalColor(i));
+                container.appendChild(cell);
+            }
+        }
+
+        function renderPalettes() {
+            renderPalette('imagePalette', state.imagePalette);
+            renderPalette('middlePalette', state.middlePalette);
+            renderPalette('rightPalette', state.rightPalette);
+            renderEnterpriseGlobalIndices();
+            renderArrows();
+        }
+
+        function renderPalette(containerId, colors) {
+            const container = document.getElementById(containerId);
+            container.innerHTML = '';
+            
+            for (let i = 0; i < 16; i++) {
+                const cell = document.createElement('div');
+                cell.className = 'color-cell';
+                
+                if (colors[i]) {
+                    const [r, g, b] = colors[i];
+                    cell.style.backgroundColor = `rgb(${r},${g},${b})`;
+                } else {
+                    cell.style.backgroundColor = '#333';
+                    cell.style.backgroundImage = 'linear-gradient(45deg, #222 25%, transparent 25%, transparent 75%, #222 75%), linear-gradient(45deg, #222 25%, transparent 25%, transparent 75%, #222 75%)';
+                    cell.style.backgroundSize = '10px 10px';
+                    cell.style.backgroundPosition = '0 0, 5px 5px';
+                }
+                
+                const indexLabel = document.createElement('div');
+                indexLabel.className = 'color-index';
+                indexLabel.textContent = i;
+                cell.appendChild(indexLabel);
+                
+                cell.dataset.palette = containerId;
+                cell.dataset.index = i;
+                
+                cell.addEventListener('click', () => handleColorClick(containerId, i));
+                container.appendChild(cell);
+            }
+        }
+
+        function renderEnterpriseGlobalIndices() {
+            const container = document.getElementById('enterpriseGlobalIndices');
+            container.innerHTML = '';
+            
+            for (let i = 0; i < 16; i++) {
+                const cell = document.createElement('div');
+                cell.className = 'global-index-cell';
+                
+                const globalIdx = state.rightPaletteGlobalIndex[i];
+                if (globalIdx !== null && globalIdx !== undefined) {
+                    cell.textContent = globalIdx;
+                } else {
+                    cell.textContent = '-';
+                    cell.classList.add('empty');
+                }
+                
+                cell.title = `Local index: ${i}\nGlobal index: ${globalIdx !== null ? globalIdx : 'not set'}`;
+                container.appendChild(cell);
+            }
+        }
+
+        function renderArrows() {
+            const svg = document.getElementById('arrowsOverlay');
+            const stack = document.getElementById('palettesStack');
+            const rect = stack.getBoundingClientRect();
+            
+            svg.setAttribute('width', rect.width);
+            svg.setAttribute('height', rect.height);
+            svg.innerHTML = `
+                <defs>
+                    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+                        <polygon points="0 0, 10 3, 0 6" fill="#00ff00"/>
+                    </marker>
+                </defs>
+            `;
+            
+            for (const [imgIdx, midIdx] of Object.entries(state.connections.imageToMiddle)) {
+                drawArrow(svg, 'imagePalette', parseInt(imgIdx), 'middlePalette', parseInt(midIdx), rect);
+            }
+            
+            for (const [midIdx, rightIdx] of Object.entries(state.connections.middleToRight)) {
+                drawArrow(svg, 'middlePalette', parseInt(midIdx), 'rightPalette', parseInt(rightIdx), rect);
+            }
+        }
+
+        function drawArrow(svg, fromPalette, fromIdx, toPalette, toIdx, containerRect) {
+            const fromCell = document.querySelector(`#${fromPalette} .color-cell[data-index="${fromIdx}"]`);
+            const toCell = document.querySelector(`#${toPalette} .color-cell[data-index="${toIdx}"]`);
+            
+            if (!fromCell || !toCell) return;
+            
+            const fromRect = fromCell.getBoundingClientRect();
+            const toRect = toCell.getBoundingClientRect();
+            
+            const x1 = fromRect.left + fromRect.width / 2 - containerRect.left;
+            const y1 = fromRect.bottom - containerRect.top;
+            const x2 = toRect.left + toRect.width / 2 - containerRect.left;
+            const y2 = toRect.top - containerRect.top;
+            
+            const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+            line.setAttribute('x1', x1);
+            line.setAttribute('y1', y1);
+            line.setAttribute('x2', x2);
+            line.setAttribute('y2', y2);
+            line.setAttribute('class', 'arrow-line');
+            
+            svg.appendChild(line);
+        }
+
+        function handleColorClick(palette, index) {
+            const indicator = document.getElementById('modeIndicator');
+            
+            if (state.selectedPalette === palette && state.selectedColor === index) {
+                state.selectedPalette = null;
+                state.selectedColor = null;
+                indicator.textContent = '';
+                renderPalettes();
+                return;
+            }
+            
+            if (!state.selectedPalette) {
+                state.selectedPalette = palette;
+                state.selectedColor = index;
+                
+                if (palette === 'imagePalette') {
+                    indicator.textContent = `Selected image color [${index}]. Click a platform color to map.`;
+                } else if (palette === 'middlePalette') {
+                    indicator.textContent = `Selected platform color [${index}]. Click an Enterprise color to map.`;
+                } else if (palette === 'rightPalette') {
+                    indicator.textContent = `Selected Enterprise color [${index}]. Click a global palette color to change.`;
+                }
+                
+                renderPalettes();
+                highlightSelected();
+            } else {
+                if (state.selectedPalette === 'imagePalette' && palette === 'middlePalette') {
+                    state.connections.imageToMiddle[state.selectedColor] = index;
+                    indicator.textContent = `Mapped: image [${state.selectedColor}] → platform [${index}]`;
+                } else if (state.selectedPalette === 'middlePalette' && palette === 'rightPalette') {
+                    state.connections.middleToRight[state.selectedColor] = index;
+                    indicator.textContent = `Mapped: platform [${state.selectedColor}] → Enterprise [${index}]`;
+                }
+                
+                state.selectedPalette = null;
+                state.selectedColor = null;
+                renderPalettes();
+                
+                if (state.originalImageData) {
+                    applyPaletteToImage();
+                }
+            }
+        }
+
+        function highlightSelected() {
+            const cells = document.querySelectorAll('.color-cell');
+            cells.forEach(cell => {
+                if (cell.dataset.palette === state.selectedPalette && 
+                    parseInt(cell.dataset.index) === state.selectedColor) {
+                    cell.classList.add('selected');
+                }
+            });
+        }
+
+        function selectGlobalColor(index) {
+            const r = FULL_PALETTE[index * 3];
+            const g = FULL_PALETTE[index * 3 + 1];
+            const b = FULL_PALETTE[index * 3 + 2];
+            
+            if (state.selectedPalette === 'rightPalette' && state.selectedColor !== null) {
+                state.rightPalette[state.selectedColor] = [r, g, b];
+                state.rightPaletteGlobalIndex[state.selectedColor] = index;
+                state.selectedPalette = null;
+                state.selectedColor = null;
+                document.getElementById('modeIndicator').textContent = '';
+                renderPalettes();
+                
+                if (state.originalImageData) {
+                    applyPaletteToImage();
+                }
+            } else if (state.selectedPalette === 'middlePalette' && state.selectedColor !== null) {
+                state.middlePalette[state.selectedColor] = [r, g, b];
+                state.selectedPalette = null;
+                state.selectedColor = null;
+                document.getElementById('modeIndicator').textContent = '';
+                renderPalettes();
+            }
+        }
+
+        function handleImageUpload(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const img = new Image();
+                img.onload = function() {
+                    document.getElementById('originalImage').src = e.target.result;
+                    document.getElementById('originalImage').style.display = 'block';
+                    
+                    extractColors(img);
+                };
+                img.src = e.target.result;
+            };
+            reader.readAsDataURL(file);
+        }
+
+        function extractColors(img) {
+            const canvas = document.getElementById('colorCanvas');
+            const ctx = canvas.getContext('2d');
+            
+            canvas.width = img.width;
+            canvas.height = img.height;
+            ctx.drawImage(img, 0, 0);
+            
+            state.originalImageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+            
+            const imageData = state.originalImageData;
+            const colorMap = new Map();
+            
+            for (let i = 0; i < imageData.data.length; i += 4) {
+                const r = imageData.data[i];
+                const g = imageData.data[i + 1];
+                const b = imageData.data[i + 2];
+                const key = `${r},${g},${b}`;
+                
+                colorMap.set(key, (colorMap.get(key) || 0) + 1);
+            }
+            
+            const sortedColors = Array.from(colorMap.entries())
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 16)
+                .map(([key]) => key.split(',').map(Number));
+            
+            state.imagePalette = sortedColors.slice();
+            state.imageColors = sortedColors;
+            
+            // Try to match image colors to global palette indices
+            for (let i = 0; i < state.imagePalette.length; i++) {
+                const [r, g, b] = state.imagePalette[i];
+                const key = `${r},${g},${b}`;
+                // We don't store these in rightPaletteGlobalIndex, that's only for Enterprise palette
+            }
+            
+            renderPalettes();
+            updateView();
+        }
+
+        function applyPaletteToImage() {
+            if (!state.originalImageData) return;
+            
+            const canvas = document.getElementById('modifiedImage');
+            const ctx = canvas.getContext('2d');
+            
+            canvas.width = state.originalImageData.width;
+            canvas.height = state.originalImageData.height;
+            
+            const imageData = ctx.createImageData(canvas.width, canvas.height);
+            const finalPalette = buildFinalPalette();
+            
+            for (let i = 0; i < state.originalImageData.data.length; i += 4) {
+                const r = state.originalImageData.data[i];
+                const g = state.originalImageData.data[i + 1];
+                const b = state.originalImageData.data[i + 2];
+                
+                let closestImgIdx = 0;
+                let minDist = Infinity;
+                
+                for (let j = 0; j < state.imagePalette.length; j++) {
+                    if (!state.imagePalette[j]) continue;
+                    const [pr, pg, pb] = state.imagePalette[j];
+                    const dist = Math.pow(r - pr, 2) + Math.pow(g - pg, 2) + Math.pow(b - pb, 2);
+                    if (dist < minDist) {
+                        minDist = dist;
+                        closestImgIdx = j;
+                    }
+                }
+                
+                let finalColor = [0, 0, 0];
+                
+                if (state.connections.imageToMiddle[closestImgIdx] !== undefined) {
+                    const midIdx = state.connections.imageToMiddle[closestImgIdx];
+                    if (state.connections.middleToRight[midIdx] !== undefined) {
+                        const rightIdx = state.connections.middleToRight[midIdx];
+                        if (finalPalette[rightIdx]) {
+                            finalColor = finalPalette[rightIdx];
+                        }
+                    } else if (state.middlePalette[midIdx]) {
+                        finalColor = findClosestInPalette(state.middlePalette[midIdx], finalPalette);
+                    }
+                } else {
+                    finalColor = findClosestInPalette(state.imagePalette[closestImgIdx], finalPalette);
+                }
+                
+                imageData.data[i] = finalColor[0];
+                imageData.data[i + 1] = finalColor[1];
+                imageData.data[i + 2] = finalColor[2];
+                imageData.data[i + 3] = 255;
+            }
+            
+            ctx.putImageData(imageData, 0, 0);
+            updateView();
+        }
+
+        function buildFinalPalette() {
+            const palette = [];
+            for (let i = 0; i < 16; i++) {
+                if (state.rightPalette[i]) {
+                    palette[i] = state.rightPalette[i];
+                } else {
+                    palette[i] = [0, 0, 0];
+                }
+            }
+            return palette;
+        }
+
+        function findClosestInPalette(color, palette) {
+            if (!color) return [0, 0, 0];
+            
+            let closest = palette[0] || [0, 0, 0];
+            let minDist = Infinity;
+            
+            for (const pColor of palette) {
+                if (!pColor) continue;
+                const dist = Math.pow(color[0] - pColor[0], 2) + 
+                            Math.pow(color[1] - pColor[1], 2) + 
+                            Math.pow(color[2] - pColor[2], 2);
+                if (dist < minDist) {
+                    minDist = dist;
+                    closest = pColor;
+                }
+            }
+            
+            return closest;
+        }
+
+        function updateBias() {
+            state.biasNum = parseInt(document.getElementById('biasSlider').value);
+            document.getElementById('biasValue').textContent = state.biasNum;
+            
+            for (let i = 8; i < 16; i++) {
+                const globalIndex = state.biasNum * 8 + (i - 8);
+                const r = FULL_PALETTE[globalIndex * 3];
+                const g = FULL_PALETTE[globalIndex * 3 + 1];
+                const b = FULL_PALETTE[globalIndex * 3 + 2];
+                state.rightPalette[i] = [r, g, b];
+                state.rightPaletteGlobalIndex[i] = globalIndex;
+            }
+            
+            renderPalettes();
+            
+            if (state.originalImageData) {
+                applyPaletteToImage();
+            }
+        }
+
+        function changePlatform() {
+            const platform = document.getElementById('platformSelect').value;
+            state.middlePalette = PLATFORM_PALETTES[platform].slice();
+            state.connections = { imageToMiddle: {}, middleToRight: {} };
+            renderPalettes();
+        }
+
+        function resetImageToPlatform() {
+            state.connections.imageToMiddle = {};
+            document.getElementById('modeIndicator').textContent = 'Image → Platform mappings cleared';
+            renderPalettes();
+            
+            if (state.originalImageData) {
+                applyPaletteToImage();
+            }
+        }
+
+        function resetPlatformToEnterprise() {
+            state.connections.middleToRight = {};
+            document.getElementById('modeIndicator').textContent = 'Platform → Enterprise mappings cleared';
+            renderPalettes();
+            
+            if (state.originalImageData) {
+                applyPaletteToImage();
+            }
+        }
+
+        function updateView() {
+            const origImg = document.getElementById('originalImage');
+            const modCanvas = document.getElementById('modifiedImage');
+            const containers = document.querySelectorAll('.image-container');
+            
+            if (state.viewMode === 'both') {
+                containers[0].style.display = 'block';
+                containers[1].style.display = 'block';
+                origImg.style.display = 'block';
+                modCanvas.style.display = 'block';
+            } else if (state.viewMode === 'original') {
+                containers[0].style.display = 'block';
+                containers[1].style.display = 'none';
+                origImg.style.display = 'block';
+            } else if (state.viewMode === 'modified') {
+                containers[0].style.display = 'none';
+                containers[1].style.display = 'block';
+                modCanvas.style.display = 'block';
+            }
+        }
+
+        function saveImage() {
+            const canvas = document.getElementById('modifiedImage');
+            if (!canvas.width || !canvas.height) {
+                alert('No modified image to save. Please upload an image first.');
+                return;
+            }
+            const link = document.createElement('a');
+            link.download = 'enterprise_modified.png';
+            link.href = canvas.toDataURL('image/png');
+            link.click();
+        }
+
+        function exportPalette() {
+            const data = {
+                biasNum: state.biasNum,
+                palette: state.rightPalette.map((color, i) => ({
+                    index: i,
+                    rgb: color,
+                    globalIndex: state.rightPaletteGlobalIndex[i]
+                })),
+                connections: state.connections
+            };
+            
+            const json = JSON.stringify(data, null, 2);
+            const blob = new Blob([json], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'enterprise_palette.json';
+            a.click();
+        }
+
+        function resetAll() {
+            state.imagePalette = Array(16).fill(null);
+            state.rightPalette = Array(16).fill(null);
+            state.rightPaletteGlobalIndex = Array(16).fill(null);
+            state.connections = { imageToMiddle: {}, middleToRight: {} };
+            state.biasNum = 0;
+            state.originalImageData = null;
+            document.getElementById('biasSlider').value = 0;
+            document.getElementById('biasValue').textContent = '0';
+            document.getElementById('originalImage').style.display = 'none';
+            document.getElementById('modifiedImage').style.display = 'none';
+            document.getElementById('modeIndicator').textContent = '';
+            updateBias();
+            renderPalettes();
+        }
+
+        function setupEventListeners() {
+            document.getElementById('imageUpload').addEventListener('change', handleImageUpload);
+            document.getElementById('biasSlider').addEventListener('input', updateBias);
+            document.getElementById('platformSelect').addEventListener('change', changePlatform);
+            document.getElementById('exportBtn').addEventListener('click', exportPalette);
+            document.getElementById('resetBtn').addEventListener('click', resetAll);
+            document.getElementById('applyBtn').addEventListener('click', applyPaletteToImage);
+            document.getElementById('saveBtn').addEventListener('click', saveImage);
+            document.getElementById('resetImgToPlatBtn').addEventListener('click', resetImageToPlatform);
+            document.getElementById('resetPlatToEntBtn').addEventListener('click', resetPlatformToEnterprise);
+            
+            document.getElementById('viewBoth').addEventListener('click', () => {
+                state.viewMode = 'both';
+                document.querySelectorAll('.view-toggle button').forEach(b => b.classList.remove('active'));
+                document.getElementById('viewBoth').classList.add('active');
+                updateView();
+            });
+            
+            document.getElementById('viewOriginal').addEventListener('click', () => {
+                state.viewMode = 'original';
+                document.querySelectorAll('.view-toggle button').forEach(b => b.classList.remove('active'));
+                document.getElementById('viewOriginal').classList.add('active');
+                updateView();
+            });
+            
+            document.getElementById('viewModified').addEventListener('click', () => {
+                state.viewMode = 'modified';
+                document.querySelectorAll('.view-toggle button').forEach(b => b.classList.remove('active'));
+                document.getElementById('viewModified').classList.add('active');
+                updateView();
+            });
+            
+            window.addEventListener('resize', () => {
+                if (state.originalImageData) {
+                    renderArrows();
+                }
+            });
+        }
+
+        init();
+    </script>
+</body>
+</html>
