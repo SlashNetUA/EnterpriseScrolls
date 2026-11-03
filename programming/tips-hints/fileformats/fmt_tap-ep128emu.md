@@ -3,9 +3,14 @@ title: "Формат файлу «TAP: ep128emu tape image»"
 ---
 # ep128emu tape image file
 
-Образ касетної стрічки для емулятора [ep128emu](../../../emulators/em-ep128emu.md).  
+Образ касетної стрічки.  
 
-Файли зберігаються у аудіовигляді (аналогічно як у TZX для ZX Spectrum).
+Може використовуватись у наступних програмах:
+
+ - [ep128emu](../../../emulators/em-ep128emu.md) - емулятор (читання/запис)
+ - **tapeedit** (з пакету ep128emu) - редактор образів стрічок (читання/запис)
+
+Файли зберігаються у аудіовигляді (схоже на те як це робить TZX для ZX Spectrum).
 
 > [!Note]
 > Uses custom file format which is PCM audio data with 1 to 8 bits of sample resolution and variable sample rate, and header including the table of markers.

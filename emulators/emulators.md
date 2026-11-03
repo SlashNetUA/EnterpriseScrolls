@@ -12,6 +12,7 @@ title: Емулятори платформи «Enterprise»
 | [RetroArch](em-retroarch.md)    | Win32, Linux, MacOS, ARM | Ядро Libretro на основі ep128emu                  |
 | [JSep](em-jsep.md)              |          Online          | Онлайн емулятор, заснований на емуляторі JSSpeccy |
 | [Xemu](em-xemu.md)              |   Win32, Linux, MacOS    | Експериментальний мультиплатформений емулятор     |
+| [EP-emu](em-ep-emu.md)          |   Win32/64, Linux        | В розробці                                        |
 | [Eppe](em-eppe.md)              |          Win32           | В розробці                                        |
 
 ## FPGA емулятори

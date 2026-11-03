@@ -6,7 +6,7 @@ title: "Програми для ПК-сумісних комп'ютерів"
 
 ## Емулятори
 
-[emulators](../emulators/emulators.md)
+[Основна сторінка емуляторів](../emulators/emulators.md)
 
 ## Робота з графікою та шрифтами
 
@@ -26,13 +26,13 @@ MIDIConv
 
 ## Програмування
 
-[programming](../programming/programming.md)
+[Основна сторінка програмування](../programming/programming.md)
 
 ## Робота з носіями даних
 ### Стрічкові
 
 TapeEdit  
-Tapir  
+[TAPir](pc-tapir.md)  
 EPTE  
 
 ### Дискові

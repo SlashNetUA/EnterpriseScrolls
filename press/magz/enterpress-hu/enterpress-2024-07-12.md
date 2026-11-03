@@ -12,7 +12,7 @@ title: Журнал «Enterpress 2024/4-6 (2024.07-12)»
 ## Зміст
 
 2024: az Enterprise közösség termékeny éve!  
-Enterprise Forever. Interjú Lukács Árpáddal (Mr.Prise)  
+[Enterprise Forever. Interjú Lukács Árpáddal (Mr.Prise)](2024-07-12/epforever-mrprise.md)  
 [Programozási nyelvek. Avagy miért éppen a BASIC? – II. rész](https://ep128.hu/Ep_Konyv/Enterpress_Programozasi_nyelvek.htm)  
 Bemutatkozik a Microchips  
 2024 termése  
