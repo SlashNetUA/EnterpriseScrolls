@@ -164,7 +164,7 @@
             position: absolute;
             bottom: 0;
             right: 0;
-            font-size: 7px;
+            font-size: 10px;
             color: #fff;
             background: rgba(0,0,0,0.8);
             padding: 1px 2px;
@@ -198,11 +198,9 @@
         }
         
         .global-color {
-            aspect-ratio: 1;
             border: 1px solid #222;
             cursor: pointer;
             position: relative;
-            width: 24px;
             height: 24px;
             display: flex;
             align-items: center;
@@ -215,8 +213,14 @@
             z-index: 2;
         }
         
+        .global-color.highlighted {
+            border: 3px solid #ffff00;
+            box-shadow: 0 0 10px #ffff00;
+            z-index: 3;
+        }
+        
         .global-color-index {
-            font-size: 7px;
+            font-size: 10px;
             color: #fff;
             text-shadow: 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000;
             line-height: 1;
@@ -344,6 +348,23 @@
             margin-top: 8px;
             margin-bottom: 3px;
         }
+        
+        .global-view-controls {
+            display: flex;
+            gap: 5px;
+            margin-bottom: 8px;
+            flex-wrap: wrap;
+        }
+        
+        .global-view-controls button {
+            padding: 4px 8px;
+            font-size: 10px;
+        }
+        
+        .global-view-controls button.active {
+            background: #00aa00;
+            border-color: #00ff00;
+        }
     </style>
 </head>
 <body>
@@ -378,6 +399,8 @@
                     <option value="zx">ZX Spectrum</option>
                     <option value="cpc">Amstrad CPC</option>
                     <option value="msx">MSX</option>
+                    <option value="msx2">MSX2</option>
+                    <option value="pico8">PICO-8</option>
                     <option value="custom">Custom</option>
                 </select>
                 <div class="palettes-stack" id="palettesStack">
@@ -411,6 +434,13 @@
             
             <div class="panel">
                 <div class="panel-title">Enterprise Global Palette (256 colors)</div>
+                <div class="global-view-controls">
+                    <button class="view-btn active" data-view="linear">Linear</button>
+                    <button class="view-btn" data-view="hue">By Hue</button>
+                    <button class="view-btn" data-view="brightness">By Brightness</button>
+                    <button class="view-btn" data-view="rgb">RGB Ordered</button>
+                    <button class="view-btn" data-view="custom">Custom Order</button>
+                </div>
                 <div class="global-palette" id="globalPalette"></div>
                 <div class="bias-control">
                     <label>BIAS_NUM: <span id="biasValue">0</span></label>
@@ -468,10 +498,26 @@
                 [219, 101, 89], [255, 137, 125], [204, 195, 94], [222, 208, 135],
                 [58, 162, 65], [183, 102, 181], [204, 204, 204], [255, 255, 255]
             ],
+            msx2: [
+                [0,0,0], [1,1,1], [34, 221, 34], [102, 255, 102],
+                [34, 34, 255], [68, 102, 255], [171, 34, 34], [68, 221, 255],
+                [255, 34, 34], [255, 102, 102], [221, 221, 34], [221, 221, 137],
+                [34, 137, 34], [221, 68, 171], [171, 171, 171], [255, 255, 255]
+            ],
+            pico8: [
+                [2, 4, 8], [29, 43, 83], [126, 37, 83], [0, 135, 81],
+                [171, 82, 54], [95, 87, 79], [194, 195, 199], [255, 241, 232],
+                [255, 0, 77], [255, 163, 0], [255, 236, 39], [0, 228, 54],
+                [41, 173, 255], [131, 118, 156], [255, 119, 168], [255, 204, 170]
+            ],
             custom: Array(16).fill([128,128,128])
         };
 
-        // Lookup: RGB string → global index
+        // Custom order from user's list
+        const CUSTOM_ORDER = [
+            0, 0, 128, 16, 144, 2, 130, 18, 146, 178, 50, 162, 34, 176, 48, 160, 32, 64, 192, 80, 208, 66, 194, 82, 210, 242, 114, 226, 98, 240, 112, 224, 96, 8, 136, 24, 152, 10, 138, 26, 154, 186, 58, 170, 42, 184, 56, 168, 40, 72, 200, 88, 216, 74, 202, 90, 218, 250, 122, 234, 106, 248, 120, 232, 104, 1, 129, 17, 145, 3, 131, 19, 147, 179, 51, 163, 35, 177, 49, 161, 33, 65, 193, 81, 209, 67, 195, 83, 211, 243, 115, 227, 99, 241, 113, 225, 97, 9, 137, 25, 153, 11, 139, 27, 155, 187, 59, 171, 43, 185, 57, 169, 41, 73, 201, 89, 217, 75, 203, 91, 219, 251, 123, 235, 107, 249, 121, 233, 105, 77, 205, 93, 221, 79, 207, 95, 223, 255, 127, 239, 111, 253, 125, 237, 109, 13, 141, 29, 157, 15, 143, 31, 159, 191, 63, 175, 47, 189, 61, 173, 45, 69, 197, 85, 213, 71, 199, 87, 215, 247, 119, 231, 103, 245, 117, 229, 101, 5, 133, 21, 149, 7, 135, 23, 151, 183, 55, 167, 39, 181, 53, 165, 37, 76, 204, 92, 220, 78, 206, 94, 222, 254, 126, 238, 110, 252, 124, 236, 108, 12, 140, 28, 156, 14, 142, 30, 158, 190, 62, 174, 46, 188, 60, 172, 44, 68, 196, 84, 212, 70, 198, 86, 214, 246, 118, 230, 102, 244, 116, 228, 100, 4, 132, 20, 148, 6, 134, 22, 150, 182, 54, 166, 38, 180, 52, 164, 36
+        ];
+
         const RGB_TO_GLOBAL_INDEX = new Map();
         for (let i = 0; i < 256; i++) {
             const key = `${FULL_PALETTE[i*3]},${FULL_PALETTE[i*3+1]},${FULL_PALETTE[i*3+2]}`;
@@ -489,8 +535,90 @@
             selectedColor: null,
             selectedPalette: null,
             originalImageData: null,
-            viewMode: 'both'
+            viewMode: 'both',
+            globalPaletteView: 'linear'
         };
+
+        function getHSL(r, g, b) {
+            r /= 255; g /= 255; b /= 255;
+            const max = Math.max(r, g, b), min = Math.min(r, g, b);
+            let h, s, l = (max + min) / 2;
+
+            if (max === min) {
+                h = s = 0;
+            } else {
+                const d = max - min;
+                s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+                switch (max) {
+                    case r: h = (g - b) / d + (g < b ? 6 : 0); break;
+                    case g: h = (b - r) / d + 2; break;
+                    case b: h = (r - g) / d + 4; break;
+                }
+                h /= 6;
+            }
+            return { 
+                h: Math.round(h * 360 * 10) / 10, 
+                s: Math.round(s * 1000) / 1000, 
+                l: Math.round(l * 1000) / 1000 
+            };
+        }
+
+        function getSortedIndices() {
+            const indices = [];
+            for (let i = 0; i < 256; i++) {
+                const r = FULL_PALETTE[i * 3];
+                const g = FULL_PALETTE[i * 3 + 1];
+                const b = FULL_PALETTE[i * 3 + 2];
+                const hsl = getHSL(r, g, b);
+                indices.push({
+                    index: i,
+                    r, g, b,
+                    h: hsl.h,
+                    s: hsl.s,
+                    l: hsl.l
+                });
+            }
+
+            switch (state.globalPaletteView) {
+                case 'hue':
+                    indices.sort((a, b) => {
+                        if (a.h !== b.h) return a.h - b.h;
+                        if (a.s !== b.s) return a.s - b.s;
+                        return a.l - b.l;
+                    });
+                    break;
+                case 'brightness':
+                    indices.sort((a, b) => {
+                        if (a.l !== b.l) return a.l - b.l;
+                        if (a.h !== b.h) return a.h - b.h;
+                        return a.s - b.s;
+                    });
+                    break;
+                case 'rgb':
+                    indices.sort((a, b) => {
+                        if (a.r !== b.r) return a.r - b.r;
+                        if (a.g !== b.g) return a.g - b.g;
+                        return a.b - b.b;
+                    });
+                    break;
+                case 'custom':
+                    // Use the custom order provided by user
+                    const orderMap = new Map();
+                    CUSTOM_ORDER.forEach((idx, pos) => {
+                        orderMap.set(idx, pos);
+                    });
+                    indices.sort((a, b) => {
+                        const posA = orderMap.get(a.index) || 9999;
+                        const posB = orderMap.get(b.index) || 9999;
+                        return posA - posB;
+                    });
+                    break;
+                default:
+                    // linear - keep original order
+                    break;
+            }
+            return indices;
+        }
 
         function init() {
             renderGlobalPalette();
@@ -504,10 +632,13 @@
             const container = document.getElementById('globalPalette');
             container.innerHTML = '';
             
-            for (let i = 0; i < 256; i++) {
-                const r = FULL_PALETTE[i * 3];
-                const g = FULL_PALETTE[i * 3 + 1];
-                const b = FULL_PALETTE[i * 3 + 2];
+            const sortedIndices = getSortedIndices();
+            
+            for (const item of sortedIndices) {
+                const i = item.index;
+                const r = item.r;
+                const g = item.g;
+                const b = item.b;
                 
                 const cell = document.createElement('div');
                 cell.className = 'global-color';
@@ -522,6 +653,24 @@
                 
                 cell.addEventListener('click', () => selectGlobalColor(i));
                 container.appendChild(cell);
+            }
+            
+            highlightSelectedInGlobal();
+        }
+
+        function highlightSelectedInGlobal() {
+            const cells = document.querySelectorAll('.global-color');
+            cells.forEach(cell => cell.classList.remove('highlighted'));
+            
+            if (state.selectedPalette === 'rightPalette' && state.selectedColor !== null) {
+                const globalIdx = state.rightPaletteGlobalIndex[state.selectedColor];
+                if (globalIdx !== null && globalIdx !== undefined) {
+                    const cell = document.querySelector(`.global-color[data-index="${globalIdx}"]`);
+                    if (cell) {
+                        cell.classList.add('highlighted');
+                        cell.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                    }
+                }
             }
         }
 
@@ -641,6 +790,7 @@
                 state.selectedColor = null;
                 indicator.textContent = '';
                 renderPalettes();
+                highlightSelectedInGlobal();
                 return;
             }
             
@@ -654,6 +804,7 @@
                     indicator.textContent = `Selected platform color [${index}]. Click an Enterprise color to map.`;
                 } else if (palette === 'rightPalette') {
                     indicator.textContent = `Selected Enterprise color [${index}]. Click a global palette color to change.`;
+                    highlightSelectedInGlobal();
                 }
                 
                 renderPalettes();
@@ -670,6 +821,7 @@
                 state.selectedPalette = null;
                 state.selectedColor = null;
                 renderPalettes();
+                highlightSelectedInGlobal();
                 
                 if (state.originalImageData) {
                     applyPaletteToImage();
@@ -699,6 +851,7 @@
                 state.selectedColor = null;
                 document.getElementById('modeIndicator').textContent = '';
                 renderPalettes();
+                highlightSelectedInGlobal();
                 
                 if (state.originalImageData) {
                     applyPaletteToImage();
@@ -759,13 +912,6 @@
             
             state.imagePalette = sortedColors.slice();
             state.imageColors = sortedColors;
-            
-            // Try to match image colors to global palette indices
-            for (let i = 0; i < state.imagePalette.length; i++) {
-                const [r, g, b] = state.imagePalette[i];
-                const key = `${r},${g},${b}`;
-                // We don't store these in rightPaletteGlobalIndex, that's only for Enterprise palette
-            }
             
             renderPalettes();
             updateView();
@@ -886,6 +1032,14 @@
             renderPalettes();
         }
 
+        function changeGlobalView(view) {
+            state.globalPaletteView = view;
+            document.querySelectorAll('.view-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.view === view);
+            });
+            renderGlobalPalette();
+        }
+
         function resetImageToPlatform() {
             state.connections.imageToMiddle = {};
             document.getElementById('modeIndicator').textContent = 'Image → Platform mappings cleared';
@@ -985,6 +1139,12 @@
             document.getElementById('saveBtn').addEventListener('click', saveImage);
             document.getElementById('resetImgToPlatBtn').addEventListener('click', resetImageToPlatform);
             document.getElementById('resetPlatToEntBtn').addEventListener('click', resetPlatformToEnterprise);
+            
+            document.querySelectorAll('.view-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    changeGlobalView(btn.dataset.view);
+                });
+            });
             
             document.getElementById('viewBoth').addEventListener('click', () => {
                 state.viewMode = 'both';
