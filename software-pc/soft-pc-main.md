@@ -10,14 +10,15 @@ title: "Програми для ПК-сумісних комп'ютерів"
 
 ## Робота з графікою та шрифтами
 
-[EPImgConv](pc_epimgconv.md)  
-[ep128pal](ep128pal.md)  
+[EPImgConv](pc_epimgconv.md) - конвертація зображень  
+[ep128pal](ep128pal.md) - конвертація зображень та редактор шрифтів  
 
+[Palette Creator](online/ep-pal-creator.html) (онлайн) - утиліта для підбору палітри для графіки з інших платформ.
 
 ## Робота з аудіо
 
 MIDIConv  
-[Dave Test](pc-dave-test.md)
+[Dave Test](pc-dave-test.md) - утиліта для експериментів з аудіоможливостями чипа Dave.
 
 ## Компресори
 

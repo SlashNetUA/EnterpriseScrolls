@@ -58,6 +58,7 @@
 - △ [Pick 'n' Pile](pick-n-pile-zx.md)
 - 🅂 [Picture Slider](picture-slider-symbos.md)
 - △ [Piggy](piggy-zx.md)
+- △ [Pinball Fantasies](pinball-fantasies-amiga.md)
 - △ [Pinball Power](pinball-power-cpc.md)
 - △ [Ping Pong](ping-pong-zx.md)
 - 🅩 [Pirate Adventure](pirate-adventure-zcode.md)
