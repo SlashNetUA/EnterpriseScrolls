@@ -30,6 +30,11 @@ title: "The Abduction of Oscar Z"
 <img src="screens/scrn_abduction-of-oscar-z-cpc_03.png" width="24%">
 <img src="screens/scrn_abduction-of-oscar-z-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=the-abduction-of-oscar-z&v=game-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The Abduction of Oscar Z (Game)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=the-abduction-of-oscar-z&v=oscar-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The Abduction of Oscar Z (Intro+Game)</a>
+
 
 ## Опис
 
@@ -57,8 +62,10 @@ The ABDUCTION of Oscar Z — це аркадна гра, в якій хлопч�
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/Abduction_Of_Oscar_Z.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/the-abduction-of-oscar-z/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=17793)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Abduction_of_Oscar_Z.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/abduction_of_oscar_z.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1221) *(Telegram-канал Vibrant Waves)*
 
 

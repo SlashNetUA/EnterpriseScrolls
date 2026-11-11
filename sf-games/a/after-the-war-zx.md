@@ -31,10 +31,16 @@ title: "After the War"
 <img src="screens/scrn_after-the-war-zx_03.png" width="24%">
 <img src="screens/scrn_after-the-war-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=after-the-war" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">After the War</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
 - **Кількість гравців:** 1 player
@@ -46,6 +52,9 @@ title: "After the War"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/After_the_War.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/after-the-war/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/101/ZX-Spectrum/After_the_War)
+- [Завантажити](http://www.ep128.hu/Ep_Games/Prg/After_the_War_Part_1.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/after_the_war_part_1.rar)
 
 

@@ -30,6 +30,11 @@ title: "19 Part 1: Boot Camp"
 <img src="screens/scrn_19-part1-boot-camp-zx_03.png" width="24%">
 <img src="screens/scrn_19-part1-boot-camp-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=19-part-i-boot-camp&v=bright" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">19 Part 1: Boot Camp (bright)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=19-part-i-boot-camp&v=dark" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">19 Part 1: Boot Camp (dark)</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська, Угорська
@@ -46,7 +51,9 @@ title: "19 Part 1: Boot Camp"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/19_Part_1.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/19-part-i-boot-camp/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/16/ZX-Spectrum/19_Part_1_Boot_Camp)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/19_Part1.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/19_part1.rar)
 
 

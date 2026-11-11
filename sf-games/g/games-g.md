@@ -11,6 +11,7 @@
 
 
 - △ [G.I. Hero](g-i-hero-zx.md)
+- △ [Galaga](galaga-msx.md)
 - 𝔹 [Galaxians](galaxians-bas.md)
 - △ [Galaxians](galaxians-zx.md)
 - 𝔹 [﻿Galopp](galopp-bas.md)

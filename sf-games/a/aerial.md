@@ -30,6 +30,10 @@ title: "AERIAL"
 <img src="screens/scrn_aerial_03.png" width="24%">
 <img src="screens/scrn_aerial_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=aerial" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">AERIAL</a>
+
 
 ## Опис
 
@@ -53,7 +57,9 @@ title: "AERIAL"
 ## Посилання
 - [Домашня сторінка](http://inufuto.web.fc2.com/8bit/aerial/#ep64)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Aerial.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/aerial/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Aerial.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/aerial.rar)
 - [Завантажити](http://inufuto.web.fc2.com/8bit/ep64/aerial_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/777) *(Telegram-канал Vibrant Waves)*
 

@@ -1,0 +1,1 @@
+Для перегляду репозиторію у вигляді сайту перейдіть за цією адресою: [https://slashnetua.github.io/EnterpriseScrolls/](https://slashnetua.github.io/EnterpriseScrolls/)

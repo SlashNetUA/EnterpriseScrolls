@@ -18,6 +18,9 @@ title: "The Queen of Hearts"
 **ID:** queen-of-hearts-bas
 
 
+**Жанри:** Пригодницька
+
+
 ## Скріншоти
 <img src="screens/scrn_queen-of-hearts-bas_01.png" width="24%">
 <img src="screens/scrn_queen-of-hearts-bas_02.png" width="24%">
@@ -26,6 +29,7 @@ title: "The Queen of Hearts"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic

@@ -29,6 +29,10 @@ title: "10th Frame"
 <img src="screens/scrn_10th-frame-zx_02.png" width="24%">
 <img src="screens/scrn_10th-frame-zx_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=10th-frame" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">10th Frame</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -46,7 +50,9 @@ title: "10th Frame"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/10th-frame/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/11/ZX-Spectrum/10th_Frame)
-- [Завантажити](http://www.ep128.hu/Ep_Games/Prg/10th_Frame.rar)
+- [Завантажити](https://www.ep128.hu/Ep_Games/Prg/10th_Frame.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/10th_frame.rar)
 
 

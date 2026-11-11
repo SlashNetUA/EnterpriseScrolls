@@ -30,6 +30,10 @@ title: "Alternative World Games"
 <img src="screens/scrn_alt-world-games-cpc_03.png" width="24%">
 <img src="screens/scrn_alt-world-games-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=alternative-world-games" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Alternative World Games</a>
+
 
 ## Основна інформація
 ### Геймплей
@@ -37,7 +41,9 @@ title: "Alternative World Games"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/alternative-world-games/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=263)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Alternative_World_Games.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/alternative_world_games.rar)
 
 

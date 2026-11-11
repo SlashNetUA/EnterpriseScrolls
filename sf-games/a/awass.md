@@ -30,6 +30,10 @@ title: "AWASS"
 <img src="screens/scrn_awass_03.png" width="24%">
 <img src="screens/scrn_awass_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=awass" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">AWASS</a>
+
 
 ## Опис
 
@@ -52,7 +56,9 @@ title: "AWASS"
 
 ## Посилання
 - [Домашня сторінка](http://inufuto.web.fc2.com/8bit/awass/#ep64)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/awass/)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Awass.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/awass.rar)
 - [Завантажити](http://inufuto.web.fc2.com/8bit/ep64/awass_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1134) *(Telegram-канал Vibrant Waves)*
 

@@ -30,6 +30,10 @@ title: "ASCEND"
 <img src="screens/scrn_ascend_03.png" width="24%">
 <img src="screens/scrn_ascend_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=ascend" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">ASCEND</a>
+
 
 ## Опис
 
@@ -53,7 +57,9 @@ title: "ASCEND"
 ## Посилання
 - [Домашня сторінка](http://inufuto.web.fc2.com/8bit/ascend/#ep64)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Ascend.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/ascend/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Ascend.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/ascend.rar)
 - [Завантажити](http://inufuto.web.fc2.com/8bit/ep64/ascend_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/785?single) *(Telegram-канал Vibrant Waves)*
 

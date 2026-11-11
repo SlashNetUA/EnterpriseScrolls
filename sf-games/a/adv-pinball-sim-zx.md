@@ -30,10 +30,17 @@ title: "Advanced Pinball Simulator"
 <img src="screens/scrn_adv-pinball-sim-zx_03.png" width="24%">
 <img src="screens/scrn_adv-pinball-sim-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=advanced-pinball-simulator&v=trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Advanced Pinball Simulator (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=advanced-pinball-simulator" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Advanced Pinball Simulator</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Керування:** Keyboard
 - **Кількість гравців:** 1 player, 2 players (alternate), 3 players (alternate)
@@ -45,6 +52,9 @@ title: "Advanced Pinball Simulator"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Advanced_Pinball_S.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/advanced-pinball-simulator/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9301/ZX-Spectrum/Advanced_Pinball_Simulator)
+- [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Advanced_Flipper_Simulator.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/advanced_flipper_simulator.rar)
 
 

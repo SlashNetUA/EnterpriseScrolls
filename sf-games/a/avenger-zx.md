@@ -33,6 +33,10 @@ title: "Avenger"
 <img src="screens/scrn_avenger-zx_03.png" width="24%">
 <img src="screens/scrn_avenger-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=avenger" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Avenger</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -42,7 +46,9 @@ title: "Avenger"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/avenger/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/351/ZX-Spectrum/Avenger)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Avenger.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/avenger.rar)
 
 

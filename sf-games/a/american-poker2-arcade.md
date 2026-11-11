@@ -30,6 +30,10 @@ title: "American Poker II"
 <img src="screens/scrn_american-poker2-arcade_03.png" width="24%">
 <img src="screens/scrn_american-poker2-arcade_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=american-poker-ii" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">American Poker II</a>
+
 
 ## Опис
 
@@ -39,6 +43,8 @@ American Poker II — це культовий відеопокер, розроб
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** Arcade
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Керування:** Keyboard
 - **Кількість гравців:** 1 player
@@ -46,8 +52,10 @@ American Poker II — це культовий відеопокер, розроб
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/american-poker-ii/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/konvertalas/american-poker-ii/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/American_Poker_2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/american_poker_2.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/658?single) *(Telegram-канал Vibrant Waves)*
 
 

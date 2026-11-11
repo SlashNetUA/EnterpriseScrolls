@@ -30,17 +30,25 @@ title: "Altered Beast"
 <img src="screens/scrn_altered-beast-zx_03.png" width="24%">
 <img src="screens/scrn_altered-beast-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=altered-beast" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Altered Beast (TRN)</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Додаткові теги:** Attribute mode
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Altered_Beast.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/altered-beast/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/173/ZX-Spectrum/Altered_Beast)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Altered_Beast.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/altered_beast.rar)
 
 

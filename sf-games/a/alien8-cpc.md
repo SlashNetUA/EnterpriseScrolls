@@ -30,6 +30,10 @@ title: "Alien 8"
 <img src="screens/scrn_alien8-cpc_03.png" width="24%">
 <img src="screens/scrn_alien8-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=alien-8&v=cpc" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Alien 8</a>
+
 
 ## Опис
 
@@ -51,10 +55,12 @@ title: "Alien 8"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Alien_8_CPC.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/alien-8/#alien-8-amstrad-cpc)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/enterprise-devcompo-2-42/conversion-alien-8/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/enterprise-devcompo-2/konverzio-alien-8/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=118)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Alien_8_CPC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/alien_8_cpc.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/62) *(Telegram-канал Vibrant Waves)*
 
 

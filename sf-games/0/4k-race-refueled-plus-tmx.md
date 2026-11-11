@@ -30,6 +30,10 @@ title: "4K Race Refueled+"
 <img src="screens/scrn_4k-race-refueled-plus-tmx_03.png" width="24%">
 <img src="screens/scrn_4k-race-refueled-plus-tmx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=4k-race-refueled" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">4K Race Refueled+</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -47,8 +51,10 @@ title: "4K Race Refueled+"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/4K_Race_Refueled_Plus.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/4k-race-refueled/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4000136/Timex/4K_Race_Refueled)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/4K_Race_Refueled_Plus.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/4k_race_refueled_plus.rar)
 
 
 ## Відео

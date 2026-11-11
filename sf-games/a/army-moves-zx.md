@@ -30,6 +30,10 @@ title: "Army Moves"
 <img src="screens/scrn_army-moves-zx_03.png" width="24%">
 <img src="screens/scrn_army-moves-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=army-moves" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Army Moves (TRN)</a>
+
 
 ## Опис
 
@@ -49,7 +53,9 @@ title: "Army Moves"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/ArmyMoves.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/army-moves/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/273/ZX-Spectrum/Army_Moves)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Army_Moves.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/army_moves.rar)
 
 

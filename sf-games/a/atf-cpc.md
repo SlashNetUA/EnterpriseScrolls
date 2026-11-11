@@ -33,6 +33,10 @@ title: "ATF"
 <img src="screens/scrn_atf-cpc_03.png" width="24%">
 <img src="screens/scrn_atf-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=atf" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">ATF</a>
+
 
 ## Опис
 
@@ -51,8 +55,10 @@ title: "ATF"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/ATF.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/atf/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=238)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/ATF.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/atf.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1030) *(Telegram-канал Vibrant Waves)*
 
 

@@ -33,6 +33,10 @@ title: "Avalon"
 <img src="screens/scrn_avalon-zx_03.png" width="24%">
 <img src="screens/scrn_avalon-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=avalon" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Avalon</a>
+
 
 ## Опис
 
@@ -47,8 +51,10 @@ title: "Avalon"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/avalon/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/348/ZX-Spectrum/Avalon)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Avalon.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/avalon.rar)
 
 
 ## Детальна інформація

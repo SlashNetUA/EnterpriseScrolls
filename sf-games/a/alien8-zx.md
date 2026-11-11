@@ -31,6 +31,10 @@ title: "Alien 8"
 <img src="screens/scrn_alien8-zx_03.png" width="24%">
 <img src="screens/scrn_alien8-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=alien-8&v=alien-8" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Alien 8</a>
+
 
 ## Опис
 
@@ -40,6 +44,8 @@ title: "Alien 8"
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Кількість гравців:** 1 player
 - **Додаткові теги:** Attribute mode, Isometric
@@ -47,8 +53,10 @@ title: "Alien 8"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Alien8.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/alien-8/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9302/ZX-Spectrum/Alien_8)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Alien_8.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/alien_8.rar)
 
 
 ## [Керування](../controllers.md)

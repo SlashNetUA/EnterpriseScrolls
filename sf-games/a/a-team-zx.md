@@ -33,6 +33,11 @@ title: "The A-Team"
 <img src="screens/scrn_a-team-zx_03.png" width="24%">
 <img src="screens/scrn_a-team-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=the-a-team&v=ateam1-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The A-Team (Part 1)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=the-a-team&v=ateam2-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The A-Team (Part 2)</a>
+
 
 ## Опис
 
@@ -52,8 +57,10 @@ A Team — це шутер 1989 року від іспанської компа�
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/ATeam.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/the-a-team/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/303/ZX-Spectrum/El_Equipo_A)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/ATeam.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/ateam.rar)
 
 
 ## Детальна інформація

@@ -30,6 +30,11 @@ title: "Auf Wiedersehen Monty"
 <img src="screens/scrn_auf-wiedersehen-monty-zx_03.png" width="24%">
 <img src="screens/scrn_auf-wiedersehen-monty-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=auf-wiedersehen-monty&v=bright" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Auf Wiedersehen Monty (Bright)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=auf-wiedersehen-monty&v=dark" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Auf Wiedersehen Monty (Dark)</a>
+
 
 ## Опис
 
@@ -45,8 +50,10 @@ title: "Auf Wiedersehen Monty"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Auf_W_Monty.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/auf-wiedersehen-monty/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/328/ZX-Spectrum/Auf_Wiedersehen_Monty)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Auf_Wiedersehen_Monty.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/auf_wiedersehen_monty.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1034) *(Telegram-канал Vibrant Waves)*
 
 

@@ -275,11 +275,11 @@ title: "Стислий опис платформи Enterprise"
 - [Diamonds](sf-games/d/diamonds.md) [(YT)](https://youtu.be/w6S3-q6LCe8) - непоганий клон Діггера.
 - [Dot Collector](sf-games/d/dot-collector.md) [(YT)](https://youtu.be/5Gej81s40po) - доволі проста гра, яка нагадує PacMan, але має дещо інший геймплей. Це перша гра яку я побачив на Ентерпрайзі, і вона завжди залишиться в моєму серці.
 - [GridTrouble](sf-games/g/gridtrouble.md) [(YT)](https://youtu.be/8YCIYo7pJQA) - Гра у жанрі Amidar (треба зафарбовувати клітинки оббігаючи їх з усіх сторін). На перший погляд, гра дуже важка, але попрактикувавшись в неї можна грати, хоч на мій погляд просто нереально пройти усі 32 рівня маючи всього 3 спроби. Гра пізніше отримала "ремастер" для DOS під назвою [DotTrouble](https://youtu.be/WnV6qeR4qI4).
-- [Paszians](sf-games/p/pasziansz.md)z [(YT)](https://www.youtube.com/watch?v=gmiJAzX_8OI) - набір з 4-х пасьянсів з підтримкою миші.
+- [Pasziansz](sf-games/p/pasziansz.md) [(YT)](https://www.youtube.com/watch?v=gmiJAzX_8OI) - набір з 4-х пасьянсів з підтримкою миші.
 - [Turbo Amoeba](sf-games/t/turbo-amoeba.md) [(YT)](https://www.youtube.com/watch?v=Td3z6pIT1W4) - гра 5-в-ряд.
 - [SWAP](sf-games/s/swap.md) [(YT)](https://www.youtube.com/watch?v=XeU5zVaLufg) та [Logiball](sf-games/l/logiball.md) - логічні ігри.
 
-Одним з креативних творців (він і досі працює у сучасному геймдеві) був [Endy](peoples/community/endy.md) ([ORK Soft](http://www.ep128.hu/Ep_Games/Orksoft.htm)), який створив багато самобутніх речей і не боявся експериментувати. В більшості випадків це були текстові адвенчури на угорській мові з гарними екранами, але є і ігри які не потребують знання угорської: [PacMan City](sf-games/p/pacman-city.md) [(YT)](https://www.youtube.com/watch?v=7o1FRxW_Y3s), [Pacman City 2](sf-games/p/pacman-city2.md), [TNT](sf-games/t/tnt.md) [(YT)](https://www.youtube.com/watch?v=TZNVgXYcwsw). Ось ще приклади його ігор: [Book of Life](sf-games/b/book-of-life.md) [(YT)](http://www.ep128.hu/Ep_Games/Pic/Book_of_Life.gif) та [Mutant Test](sf-games/m/mutant-test.md) [(YT)](https://www.youtube.com/watch?v=B0XesECX5HA).  
+Одним з креативних творців (він і досі працює у сучасному геймдеві) був [Endy](peoples/community/endy.md) ([ORK Soft](peoples/community/team/ork-soft.md)), який створив багато самобутніх речей і не боявся експериментувати. В більшості випадків це були текстові адвенчури на угорській мові з гарними екранами, але є і ігри які не потребують знання угорської: [PacMan City](sf-games/p/pacman-city.md) [(YT)](https://www.youtube.com/watch?v=7o1FRxW_Y3s), [Pacman City 2](sf-games/p/pacman-city2.md), [TNT](sf-games/t/tnt.md) [(YT)](https://www.youtube.com/watch?v=TZNVgXYcwsw). Ось ще приклади його ігор: [Book of Life](sf-games/b/book-of-life.md) [(YT)](http://www.ep128.hu/Ep_Games/Pic/Book_of_Life.gif) та [Mutant Test](sf-games/m/mutant-test.md) [(YT)](https://www.youtube.com/watch?v=B0XesECX5HA).  
   
 Інші ігри, які можна лише глянути: [Tombs of Doom](sf-games/c/catacomb.md) [(YT)](https://youtu.be/OXtZEnOI2Vw), [Super Pipeline II](sf-games/s/super-pipeline2.md), [Bulldozer](sf-games/b/bulldozer.md) [(YT)](https://youtu.be/9zU7RjULJJo), [R2D2](sf-games/r/r2d2.md) [(YT)](https://youtu.be/iFxxl7Y68qQ), [Mirror World](sf-games/m/mirror-world.md) [(YT)](https://www.youtube.com/watch?v=tln82A5d_r8), [Eggs of Death](sf-games/e/eggs-of-death.md) [(YT)](https://www.youtube.com/watch?v=N9C0ao_f1_g).  
   
@@ -325,8 +325,6 @@ Bибрані тайтли RetroWorks: [The Sword of Ianna](sf-games/s/sword-of-
 - [Dot Collector: Turbo edition](sf-games/d/dot-collector-turbo-ed-bas.md) [(YT)](https://youtu.be/TF13drj1S2c)  
 
 та інші.
-
-Усі ці ігри можна скачати [тут](http://www.ep128.hu/Ep_Games/Games_AB.htm)
 
 # Демки  
 

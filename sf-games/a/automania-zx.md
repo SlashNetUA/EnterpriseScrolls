@@ -32,6 +32,10 @@ title: "Automania"
 <img src="screens/scrn_automania-zx_02.png" width="24%">
 <img src="screens/scrn_automania-zx_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=automania" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Automania</a>
+
 
 ## Опис
 
@@ -47,8 +51,10 @@ title: "Automania"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Automania.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/automania/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/339/ZX-Spectrum/Automania)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Automania.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/automania.rar)
 
 
 ## Детальна інформація

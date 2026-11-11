@@ -31,16 +31,25 @@ title: "Arcticfox"
 <img src="screens/scrn_arcticfox-zx_03.png" width="24%">
 <img src="screens/scrn_arcticfox-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=arcticfox" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Arcticfox</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Геймплей
 - **Додаткові теги:** Attribute mode, Vector graphics
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/arcticfox/)
 - [Інформація про оригінальну версію](https://worldofspectrum.org//pub/sinclair/games-info/a/Arcticfox.txt)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/245/ZX-Spectrum/Arcticfox)
+- [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Arcticfox.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/arcticfox.rar)
 
 

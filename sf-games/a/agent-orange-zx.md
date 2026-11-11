@@ -30,10 +30,16 @@ title: "Agent Orange"
 <img src="screens/scrn_agent-orange-zx_03.png" width="24%">
 <img src="screens/scrn_agent-orange-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=agent-orange" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Agent Orange</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Кількість гравців:** 1 player
 - **Додаткові теги:** Attribute mode
@@ -44,7 +50,9 @@ title: "Agent Orange"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/agent-orange/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/107/ZX-Spectrum/Agent_Orange)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Agent_Orange.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/agent_orange.rar)
 
 

@@ -30,6 +30,10 @@ title: "Arcadia"
 <img src="screens/scrn_arcadia-zx_03.png" width="24%">
 <img src="screens/scrn_arcadia-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=arcadia" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Arcadia</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -44,7 +48,9 @@ title: "Arcadia"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Arcadia.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/arcadia/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/237/ZX-Spectrum/Arcadia)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Arcadia.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/arcadia.rar)
 
 

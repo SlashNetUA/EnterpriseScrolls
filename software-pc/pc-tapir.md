@@ -6,7 +6,7 @@ title: TAPir
 <div style="text-align:center;">
 <img src="screenshots/scrn_tapir-v092b_01.png" alt="" width="60%"></div>
 
-Автор: [Lukács Árpád](../peoples/community/mrprise.md) (Mr.Prise)  
+Автор: [Арпад Лукач](../peoples/community/mrprise.md) (Mr.Prise)  
 Платформа: Win32, Linux*  
 Рік: 2009-2026
 

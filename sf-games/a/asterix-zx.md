@@ -30,6 +30,10 @@ title: "Asterix and the Magic Cauldron"
 <img src="screens/scrn_asterix-zx_03.png" width="24%">
 <img src="screens/scrn_asterix-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=asterix" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Asterix and the Magic Cauldron</a>
+
 
 ## Опис
 
@@ -43,13 +47,19 @@ title: "Asterix and the Magic Cauldron"
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
+- **Кількість гравців:** 1 player
 - **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1986
+- **Автор:** William Tang, Andrew Pierson, Frank Oldham
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Asterix.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/asterix/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/290/ZX-Spectrum/Asterix_and_the_Magic_Cauldron)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Asterix.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/asterix.rar)
 
 
 ## Детальна інформація

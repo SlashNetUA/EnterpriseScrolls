@@ -30,6 +30,10 @@ title: "Axis"
 <img src="screens/scrn_axis-tvc_03.png" width="24%">
 <img src="screens/scrn_axis-tvc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=axis" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Axis</a>
+
 
 ## Опис
 
@@ -52,8 +56,10 @@ title: "Axis"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/Axis.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/axis/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/tvc-rl/axis/)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Axis.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/axis.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1150) *(Telegram-канал Vibrant Waves)*
 
 

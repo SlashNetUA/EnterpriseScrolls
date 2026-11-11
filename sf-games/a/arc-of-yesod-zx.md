@@ -30,6 +30,10 @@ title: "The Arc of Yesod"
 <img src="screens/scrn_arc-of-yesod-zx_03.png" width="24%">
 <img src="screens/scrn_arc-of-yesod-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=arc-of-yesod" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The Arc of Yesod</a>
+
 
 ## Опис
 
@@ -39,15 +43,21 @@ title: "The Arc of Yesod"
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Кількість гравців:** 1 player
 - **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1985
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Arc_of_Yesod.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/arc-of-yesod/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/232/ZX-Spectrum/The_Arc_of_Yesod)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Arc_of_Yesod.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/arc_of_yesod.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/580) *(Telegram-канал Vibrant Waves)*
 
 

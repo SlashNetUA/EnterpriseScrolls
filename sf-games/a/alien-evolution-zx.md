@@ -28,16 +28,24 @@ title: "Alien Evolution"
 <img src="screens/scrn_alien-evolution-zx_03.png" width="24%">
 <img src="screens/scrn_alien-evolution-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=alien-evolution" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Alien Evolution</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Додаткові теги:** Attribute mode, Isometric
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/alien-evolution/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/149/ZX-Spectrum/Alien_Evolution)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Alien_Evolution.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/alien_evolution.rar)
 
 

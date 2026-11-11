@@ -31,17 +31,26 @@ title: "Arkos"
 <img src="screens/scrn_arkos-zx_03.png" width="24%">
 <img src="screens/scrn_arkos-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=arkos-part-2-3&v=arkos2-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Arkos (Part 2)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=arkos-part-2-3&v=arkos3-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Arkos (Part 3)</a>
+
 
 ## Основна інформація
 - **Мови:** Іспанська
 - **Оригінальна платформа:** ZX Spectrum
 ### Геймплей
 - **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Arkos.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/arkos-part-2-3/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/263/ZX-Spectrum/Arkos)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Arkos_part2-3.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/arkos_part2-3.rar)
 
 

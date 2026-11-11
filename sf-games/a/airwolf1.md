@@ -31,6 +31,13 @@ title: "Airwolf"
 <img src="screens/scrn_airwolf1_03.png" width="24%">
 <img src="screens/scrn_airwolf1_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=airwolf&v=zozosoft" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Airwolf (v0)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=airwolf&v=v1" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Airwolf (v1)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=airwolf&v=v2-airwolf-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Airwolf (v2 TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=airwolf&v=v2-airwolf-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Airwolf (v2)</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -49,8 +56,10 @@ title: "Airwolf"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Airwolf.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/airwolf/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=248)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Airwolf.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/airwolf.rar)
 
 
 ## Відео

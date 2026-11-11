@@ -30,6 +30,11 @@ title: "Amaurote"
 <img src="screens/scrn_amaurote-zx_03.png" width="24%">
 <img src="screens/scrn_amaurote-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=amaurote&v=128k" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Amaurote (128K)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=amaurote&v=48k" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Amaurote (48K)</a>
+
 
 ## Опис
 
@@ -39,6 +44,8 @@ title: "Amaurote"
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Додаткові теги:** Attribute mode
 ### Розробка
@@ -47,8 +54,10 @@ title: "Amaurote"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Amaurote.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/amaurote/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/176/ZX-Spectrum/Amaurote)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Amaurote.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/amaurote.rar)
 
 
 ## Детальна інформація

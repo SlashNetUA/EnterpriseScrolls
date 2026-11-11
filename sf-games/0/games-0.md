@@ -29,6 +29,6 @@
 - △ [4GO](4go.md)
 - △ [4K Race Refueled+](4k-race-refueled-plus-tmx.md)
 - △ [4x4 Off-Road Racing](4x4-offroad-racing-zx.md)
-- △ [﻿720 Degrees](720-degrees-zx.md)
+- △ [720 Degrees](720-degrees-zx.md)
 - 𝔹 [﻿8 Játék](8-jatek-bas.md)
 - 𝔹 [﻿90 Degreeee!!!](90-degreeee-bas.md)

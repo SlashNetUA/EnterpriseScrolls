@@ -30,10 +30,17 @@ title: "Action Reflex"
 <img src="screens/scrn_action-reflex-zx_03.png" width="24%">
 <img src="screens/scrn_action-reflex-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=action-reflex&v=trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Action Reflex (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=action-reflex" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Action Reflex</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
 - **Кількість гравців:** 1 player
@@ -45,7 +52,9 @@ title: "Action Reflex"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Action_Reflex.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/action-reflex/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/78/ZX-Spectrum/Action_Reflex)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Action_Reflex.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/action_reflex.rar)
 
 

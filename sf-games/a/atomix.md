@@ -30,6 +30,10 @@ title: "Atomix"
 <img src="screens/scrn_atomix_03.png" width="24%">
 <img src="screens/scrn_atomix_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=atomix" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Atomix</a>
+
 
 ## Опис
 
@@ -52,6 +56,9 @@ Atomix — це графічна екшен-гра, яка розвиває ко
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/Atomix.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/atomix/)
+- [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Atomix.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/atomix.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/77) *(Telegram-канал Vibrant Waves)*
 
 

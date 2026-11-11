@@ -22,6 +22,10 @@
 
 - △ [Digger](d/digger-coleco.md)
 
+# G
+
+- △ [Galaga](g/galaga-msx.md)
+
 # L
 
 - △ [Lemmings](l/lemmings-tvc.md)

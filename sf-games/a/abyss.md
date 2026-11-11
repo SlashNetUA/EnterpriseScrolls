@@ -30,6 +30,10 @@ title: "The Abyss"
 <img src="screens/scrn_abyss_03.png" width="24%">
 <img src="screens/scrn_abyss_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=the-abyss" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The Abyss</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -48,7 +52,9 @@ title: "The Abyss"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Abyss.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/the-abyss/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Abyss.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/abyss.rar)
 
 
 ## Відео

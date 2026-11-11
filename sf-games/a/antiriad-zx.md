@@ -33,6 +33,12 @@ title: "Antiriad"
 <img src="screens/scrn_antiriad-zx_03.png" width="24%">
 <img src="screens/scrn_antiriad-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=antiriad" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Antiriad (ES)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=antiriad&v=trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Antiriad (ES-TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=antiriad&v=hun" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Antiriad (HU-TRN)</a>
+
 
 ## Опис
 
@@ -44,15 +50,20 @@ title: "Antiriad"
 
 
 ## Основна інформація
-- **Мови:** Іспанська
+- **Мови:** Іспанська, Угорська
 - **Оригінальна платформа:** ZX Spectrum
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
+- **Кількість гравців:** 1 player
 - **Додаткові теги:** Attribute mode
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Antiriad.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/antiriad/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4300/ZX-Spectrum/The_Sacred_Armour_of_Antiriad)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Antiriad.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/antiriad.rar)
 
 

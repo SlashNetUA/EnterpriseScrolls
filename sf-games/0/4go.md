@@ -53,6 +53,9 @@ title: "4GO"
 
 ## Посилання
 - [Домашня сторінка](https://anystone.games/?lang=en#en/game-4go-ep)
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/4Go.htm)
+- [Завантажити](https://downloads.anystone.games/4go-ep-com)
+- [Завантажити](https://www.ep128.hu/Ep_Games/Prg/4Go.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1233) *(Telegram-канал Vibrant Waves)*
 
 

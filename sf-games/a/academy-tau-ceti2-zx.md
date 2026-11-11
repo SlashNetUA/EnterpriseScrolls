@@ -33,6 +33,11 @@ title: "Academy"
 <img src="screens/scrn_academy-tau-ceti2-zx_03.png" width="24%">
 <img src="screens/scrn_academy-tau-ceti2-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=academy&v=academy-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Academy (Game)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=academy&v=starmap-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Academy (StarMap)</a>
+
 
 ## Опис
 
@@ -57,7 +62,9 @@ title: "Academy"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Academy.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/academy/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5156/ZX-Spectrum/Academy)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Academy.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/academy.rar)
 
 

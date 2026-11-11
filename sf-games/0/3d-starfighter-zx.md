@@ -30,6 +30,10 @@ title: "3D Starfighter"
 <img src="screens/scrn_3d-starfighter-zx_03.png" width="24%">
 <img src="screens/scrn_3d-starfighter-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=3d-starfighter" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">3D Starfighter</a>
+
 
 ## Опис
 
@@ -56,8 +60,10 @@ title: "3D Starfighter"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/3D-Starfighter.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/3d-starfighter/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9423/ZX-Spectrum/3D_Starfighter)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/3D-Starfighter.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/3d-starfighter.rar)
 
 
 ## [Керування](../controllers.md)

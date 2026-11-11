@@ -30,8 +30,14 @@ title: "Animal Vegetable Mineral"
 <img src="screens/scrn_animal-vegetable-mineral-bas_03.png" width="24%">
 <img src="screens/scrn_animal-vegetable-mineral-bas_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=animal-vegetable-mineral" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Animal Vegetable Mineral (EN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=animal-vegetable-mineral&v=hun" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Animal Vegetable Mineral (HU)</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська, Угорська
 - **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
@@ -41,11 +47,14 @@ title: "Animal Vegetable Mineral"
 - **Додаткові теги:** Text40 mode
 ### Розробка
 - **Рік випуску:** 1985
+- **Компанія:** Bourne Educational Software
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Animal_Vegetable_Mineral.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/animal-vegetable-mineral/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Animal_Vegetable_Mineral.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/animal_vegetable_mineral.rar)
 
 
 ## Відео

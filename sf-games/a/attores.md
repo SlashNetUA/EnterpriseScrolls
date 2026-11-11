@@ -1,5 +1,5 @@
 ---
-title: "﻿Áttörés"
+title: "Áttörés"
 ---
 
 ﻿[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
@@ -12,7 +12,7 @@ title: "﻿Áttörés"
 
 ----------
 
-# ﻿Áttörés
+# Áttörés
 
 
 **ID:** attores
@@ -28,6 +28,11 @@ title: "﻿Áttörés"
 <img src="screens/scrn_attores_01.png" width="24%">
 <img src="screens/scrn_attores_02.png" width="24%">
 <img src="screens/scrn_attores_03.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=attores&v=v1" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Áttörés (v1)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=attores&v=v2" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Áttörés (v2)</a>
 
 
 ## Опис
@@ -58,7 +63,9 @@ title: "﻿Áttörés"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Attores.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/attores/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Attores.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/attores.rar)
 
 
 ## Відео

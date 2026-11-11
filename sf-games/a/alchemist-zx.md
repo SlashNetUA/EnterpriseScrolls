@@ -28,6 +28,10 @@ title: "Alchemist"
 <img src="screens/scrn_alchemist-zx_03.png" width="24%">
 <img src="screens/scrn_alchemist-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=alchemist" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Alchemist</a>
+
 
 ## Опис
 
@@ -37,13 +41,17 @@ title: "Alchemist"
 ## Основна інформація
 - **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Додаткові теги:** Attribute mode
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/alchemist/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/139/ZX-Spectrum/Alchemist)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Alchemist.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/alchemist.rar)
 
 
 ## Детальна інформація

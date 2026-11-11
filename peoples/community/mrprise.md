@@ -1,13 +1,13 @@
 ---
-title: Lukács Árpád (Mr.Prise)
+title: Árpád Lukács (Mr.Prise)
 ---
-# Lukács Árpád
+# Árpád Lukács
 
 aka **Mr.Prise**
 
-Засновник форуму [Enterprise Forever](https://enterpriseforever.com/).
-
 [YouTube](https://www.youtube.com/@MrPrise)
+
+Засновник форуму [Enterprise Forever](https://enterpriseforever.com/).
 
 Автор програм:
 
