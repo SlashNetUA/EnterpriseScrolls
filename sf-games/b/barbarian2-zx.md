@@ -21,6 +21,8 @@ title: "Barbarian II: The Dungeon of Drax"
 **ID:** barbarian2-zx
 
 
+**Жанри:** Драка
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -30,6 +32,10 @@ title: "Barbarian II: The Dungeon of Drax"
 <img src="screens/scrn_barbarian2-zx_02.png" width="24%">
 <img src="screens/scrn_barbarian2-zx_03.png" width="24%">
 <img src="screens/scrn_barbarian2-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=barbarian-ii" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Barbarian II: The Dungeon of Drax</a>
 
 
 ## Опис
@@ -55,12 +61,19 @@ Barbarian: The Dungeon of Drax — це екшн-гра, випущена в 198
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Barbarian_2.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/barbarian-ii/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/409/ZX-Spectrum/Barbarian_II_The_Dungeon_of_Drax)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Barbarian_2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/barbarian_2.rar)
 
 

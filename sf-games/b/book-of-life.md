@@ -14,6 +14,9 @@ title: "Book of Life"
 
 # Book of Life
 
+**Альтернативні назви:**
+ - Az Élet Könyve
+
 
 **ID:** book-of-life
 
@@ -30,6 +33,11 @@ title: "Book of Life"
 <img src="screens/scrn_book-of-life_03.png" width="24%">
 <img src="screens/scrn_book-of-life_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=book-of-life&v=book-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Book of Life (Game)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=book-of-life&v=intro-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Book of Life (Intro)</a>
+
 
 ## Основна інформація
 - **Мови:** Угорська
@@ -39,13 +47,15 @@ title: "Book of Life"
 - **Додаткові теги:** 256-color mode
 ### Розробка
 - **Рік випуску:** 1994
-- **Автор:** Endi
+- **Автор:** Endre Baráth (Endi)
 - **Компанія:** Ork Software
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Book_of_Life.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/book-of-life/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Book_of_Life.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/book_of_life.rar)
 
 
 ## Відео

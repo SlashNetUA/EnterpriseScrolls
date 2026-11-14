@@ -30,6 +30,10 @@ title: "Cubix"
 <img src="screens/scrn_cubix-zx_03.png" width="24%">
 <img src="screens/scrn_cubix-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=cubix" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cubix</a>
+
 
 ## Опис
 
@@ -51,12 +55,14 @@ title: "Cubix"
 - **Додаткові теги:** Attribute mode
 ### Розробка
 - **Рік випуску:** 2025
-- **Автор:** Sergei Smirnov
+- **Автор:** Sergei Smirnov (gogin)
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/cubix/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/44487/ZX-Spectrum/Cubix)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Cubix.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/cubix.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1138) *(Telegram-канал Vibrant Waves)*
 
 

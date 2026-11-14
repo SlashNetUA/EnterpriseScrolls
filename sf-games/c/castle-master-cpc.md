@@ -18,6 +18,8 @@ title: "Castle Master"
 **ID:** castle-master-cpc
 
 
+**Жанри:** Пригодницька
+
 ## Примітка
 
 ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC.
@@ -28,14 +30,26 @@ title: "Castle Master"
 <img src="screens/scrn_castle-master-cpc_03.png" width="24%">
 <img src="screens/scrn_castle-master-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=castle-master" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Castle Master</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська, Французька, Німецька
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 4-color mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Castle_Master.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/castle-master/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=525)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Castle_Master_CPC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/castle_master_cpc.rar)
 
 

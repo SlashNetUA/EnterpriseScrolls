@@ -18,6 +18,8 @@ title: "Cauldron II: The Pumpkin Strikes Back"
 **ID:** cauldron2-zx
 
 
+**Жанри:** Аркада, Платформер
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,14 +30,28 @@ title: "Cauldron II: The Pumpkin Strikes Back"
 <img src="screens/scrn_cauldron2-zx_03.png" width="24%">
 <img src="screens/scrn_cauldron2-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=cauldron-2&v=bam-cauldr2-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cauldron II: The Pumpkin Strikes Back (BAM - TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=cauldron-2&v=bam-cauldr2-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cauldron II: The Pumpkin Strikes Back (BAM)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=cauldron-2" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cauldron II: The Pumpkin Strikes Back</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Cauldron2.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/cauldron-2/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/851)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Cauldron2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/cauldron2.rar)
 
 

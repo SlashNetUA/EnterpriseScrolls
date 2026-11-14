@@ -18,6 +18,8 @@ title: "Bounces"
 **ID:** bounces-zx
 
 
+**Жанри:** Екшн, Спортивна
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,6 +30,10 @@ title: "Bounces"
 <img src="screens/scrn_bounces-zx_03.png" width="24%">
 <img src="screens/scrn_bounces-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bounces" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bounces</a>
+
 
 ## Опис
 
@@ -35,13 +41,20 @@ Bounces — це спорт майбутнього! І дарма що вигл�
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1985
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Bounces.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bounces/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/653/ZX-Spectrum/Bounces)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bounces.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bounces.rar)
 
 
 ## Детальна інформація

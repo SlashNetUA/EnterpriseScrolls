@@ -18,6 +18,8 @@ title: "Barbarian: The Ultimate Warrior"
 **ID:** barbarian1-zx
 
 
+**Жанри:** Драка
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -27,6 +29,12 @@ title: "Barbarian: The Ultimate Warrior"
 <img src="screens/scrn_barbarian1-zx_02.png" width="24%">
 <img src="screens/scrn_barbarian1-zx_03.png" width="24%">
 <img src="screens/scrn_barbarian1-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=barbarian-the-ultimate-warrior&v=barbarian-bam-soft-part1" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Barbarian: The Ultimate Warrior (Part 1 - BAM)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=barbarian-the-ultimate-warrior&v=barbarian-gyanyi-sanyi-part2" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Barbarian: The Ultimate Warrior (Part 1 - Sandor Gyanyi)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=barbarian-the-ultimate-warrior&v=barbarian-bam-soft-part2" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Barbarian: The Ultimate Warrior (Part 2 - BAM)</a>
 
 
 ## Опис
@@ -53,12 +61,18 @@ Barbarian: The Ultimate Warrior — це екшн-гра, випущена в 19
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player, 2 players (versus)
+- **Додаткові теги:** Attribute mode
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Barbarian.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/barbarian-the-ultimate-warrior/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/407/ZX-Spectrum/Barbarian_The_Ultimate_Warrior)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Barbarian.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/barbarian.rar)
 
 

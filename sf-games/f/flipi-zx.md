@@ -21,19 +21,34 @@ title: "Flipi"
 **ID:** flipi-zx
 
 
+**Жанри:** Пінбол
+
+
 ## Скріншоти
 <img src="screens/scrn_flipi-zx_01.png" width="24%">
 <img src="screens/scrn_flipi-zx_02.png" width="24%">
 <img src="screens/scrn_flipi-zx_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bam-flipper" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Flipi</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player, 2 players (alternate), 3 players (alternate), 4 players (alternate)
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1984
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Flipi.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bam-flipper/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1803/ZX-Spectrum/Flipi)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/BAM_Flipper.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bam_flipper.rar)
 
 

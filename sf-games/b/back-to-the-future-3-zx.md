@@ -18,6 +18,8 @@ title: "Back to the Future Part III"
 **ID:** back-to-the-future-3-zx
 
 
+**Жанри:** Екшн
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,13 +30,22 @@ title: "Back to the Future Part III"
 <img src="screens/scrn_back-to-the-future-3-zx_03.png" width="24%">
 <img src="screens/scrn_back-to-the-future-3-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=back-to-the-future-3" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Back to the Future Part III</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Розробка
+- **Рік випуску:** 1991
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/back-to-the-future-3/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/367/ZX-Spectrum/Back_to_the_Future_Part_III)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Back_to_the_Future3.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/back_to_the_future3.rar)
 
 

@@ -18,6 +18,8 @@ title: "Battle-Tank Simulator"
 **ID:** battle-tank-sim-zx
 
 
+**Жанри:** Екшн, від першої особи
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,6 +30,10 @@ title: "Battle-Tank Simulator"
 <img src="screens/scrn_battle-tank-sim-zx_03.png" width="24%">
 <img src="screens/scrn_battle-tank-sim-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=battle-tank-simulator" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Battle-Tank Simulator</a>
+
 
 ## Опис
 
@@ -37,13 +43,16 @@ title: "Battle-Tank Simulator"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Battle_Tank_Simulator.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/battle-tank-simulator/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5136/ZX-Spectrum/3D_Tank_Duel)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Battle_Tank_Simulator.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/battle_tank_simulator.rar)
 
 
 ## Детальна інформація

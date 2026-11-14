@@ -26,6 +26,10 @@ title: "Caves of the Orb"
 <img src="screens/scrn_caves-of-the-orb-isdos_02.png" width="24%">
 <img src="screens/scrn_caves-of-the-orb-isdos_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=caves-of-the-orb" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Caves of the Orb</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -44,7 +48,9 @@ title: "Caves of the Orb"
 
 ## Посилання
 - [Домашня сторінка](http://www.nyangau.org/memotech/software.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/caves-of-the-orb/)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C5557/Caves+of+Orb.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Caves_of_the_Orb.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/caves_of_the_orb.rar)
 
 

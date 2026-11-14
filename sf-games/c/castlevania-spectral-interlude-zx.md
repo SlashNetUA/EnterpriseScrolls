@@ -30,6 +30,17 @@ title: "Castlevania: Spectral Interlude"
 <img src="screens/scrn_castlevania-spectral-interlude-zx_03.png" width="24%">
 <img src="screens/scrn_castlevania-spectral-interlude-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=castlevania-spectral-interlude" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Castlevania: Spectral Interlude</a>
+
+
+## Опис
+
+Пригодницький екшен-платформер із елементами RPG, що поєднує риси класичних частин серії з новими ідеями. І все це — в обрамленні нової історії, яка досить гармонійно вписується в канон і пояснює, куди на сотні років зникали Бельмонти.  
+
+Замок Дракули чекає на нових гостей!
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -47,10 +58,12 @@ title: "Castlevania: Spectral Interlude"
 
 
 ## Посилання
-- [Домашня сторінка](http://spectralinterlude.com)
+- [Домашня сторінка](https://en.spectralinterlude.ru/)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/castlevania-spectral-interlude/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/spectrum-rol/castlevania/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/30192/ZX-Spectrum/Castlevania_Spectral_Interlude)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Castlevania.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/castlevania.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/134) *(Telegram-канал Vibrant Waves)*
 
 

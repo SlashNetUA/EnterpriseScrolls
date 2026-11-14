@@ -29,6 +29,12 @@ title: "Cyberun"
 <img src="screens/scrn_cyberun-zx_02.png" width="24%">
 <img src="screens/scrn_cyberun-zx_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=cyberun&v=trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cyberun (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=cyberun&v=trainer" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cyberun (TRN2)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=cyberun" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cyberun</a>
+
 
 ## Опис
 
@@ -46,8 +52,10 @@ title: "Cyberun"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Cyberun.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/cyberun/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9329)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Cyberun.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/cyberun.rar)
 
 
 ## Детальна інформація

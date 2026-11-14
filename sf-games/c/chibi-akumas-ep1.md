@@ -33,6 +33,10 @@ title: "Chibi Akumas. Episode 1: Invasion!"
 <img src="screens/scrn_chibi-akumas-ep1_03.png" width="24%">
 <img src="screens/scrn_chibi-akumas-ep1_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=chibi-akumas" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Chibi Akumas. Episode 1: Invasion!</a>
+
 
 ## Опис
 
@@ -67,12 +71,34 @@ title: "Chibi Akumas. Episode 1: Invasion!"
 - **Додаткові теги:** 4-color mode, ExtJoy Multifire
 ### Розробка
 - **Рік випуску:** 2018
-- **Автор:** Keith S
+- **Автор:** Keith Sear
 
 
 ## Посилання
 - [Домашня сторінка](https://www.chibiakumas.com/games/)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/chibi-akumas/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Chibi_Akumas.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/chibi_akumas.rar)
 - [Завантажити](https://www.chibiakumas.com/download/V1666.7z)
 
+
+## [Керування](../controllers.md)
+
+`V`/`B`/`I`/`O`: Fire  
+
+Гравець 1: (за замовчуванням)   
+`Internal Joystick`  
+`I`: стріляти ліворуч  
+`O`: стріляти праворуч  
+`Enter`: S-Bomb  
+
+Гравець 2: (за замовчуванням)   
+`Keyboard`: `W`, `A`, `S`, `D`  
+`V`: стріляти ліворуч  
+`B`: стріляти праворуч  
+`Space`: S-Bomb  
+
+`P`: пауза  
+
+`External Joystick 1-4` (можна задіяти через через перевизначення клавіш)
 

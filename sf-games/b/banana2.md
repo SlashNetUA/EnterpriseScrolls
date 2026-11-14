@@ -30,6 +30,10 @@ title: "Banana 2"
 <img src="screens/scrn_banana2_03.png" width="24%">
 <img src="screens/scrn_banana2_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=banana-2" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Banana 2</a>
+
 
 ## Опис
 
@@ -52,8 +56,10 @@ title: "Banana 2"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Banana_2.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/banana-2/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/jatekok/banana-2/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Banana_2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/banana_2.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/85) *(Telegram-канал Vibrant Waves)*
 
 

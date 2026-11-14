@@ -18,6 +18,8 @@ title: "Blue Max"
 **ID:** blue-max-zx
 
 
+**Жанри:** Екшн, Скролшутер
+
 ## Примітка
 
 ℹ Неофіційна конверсія з платформи ZX Spectrum.
@@ -28,14 +30,25 @@ title: "Blue Max"
 <img src="screens/scrn_blue-max-zx_03.png" width="24%">
 <img src="screens/scrn_blue-max-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=blue-max" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Blue Max</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1984
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/BlueMax.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/blue-max/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/597/ZX-Spectrum/Blue_Max)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/BlueMax.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bluemax.rar)
 
 

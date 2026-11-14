@@ -30,6 +30,10 @@ title: "Cyrus Chess II"
 <img src="screens/scrn_cyrus-chess-2_03.png" width="24%">
 <img src="screens/scrn_cyrus-chess-2_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=cyrus-chess" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cyrus Chess II</a>
+
 
 ## Опис
 
@@ -54,7 +58,9 @@ Cyrus II — це потужна шахова програма, яка на на
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Cyrus_Chess.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/cyrus-chess/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Cyrus_Chess.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/cyrus_chess.rar)
 
 
 ## Відео

@@ -18,6 +18,8 @@ title: "Bloktris"
 **ID:** bloktris
 
 
+**Жанри:** Tetris
+
 ## Примітка
 
 ℹ Хоумбрю-гра.
@@ -28,6 +30,10 @@ title: "Bloktris"
 <img src="screens/scrn_bloktris_03.png" width="24%">
 <img src="screens/scrn_bloktris_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bloktris" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bloktris</a>
+
 
 ## Опис
 
@@ -36,14 +42,23 @@ title: "Bloktris"
 
 
 ## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Multiplatform
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Додаткові теги:** 16-color mode
+### Розробка
+- **Рік випуску:** 2023
+- **Автор:** Under4Mhz
 
 
 ## Посилання
 - [Домашня сторінка](https://under4mhz.itch.io/bloktris)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Bloktris.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bloktris/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bloktris.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bloktris.rar)
 
 
 ## Відео

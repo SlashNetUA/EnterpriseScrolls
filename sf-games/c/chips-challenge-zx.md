@@ -18,6 +18,8 @@ title: "Chip's Challenge"
 **ID:** chips-challenge-zx
 
 
+**Жанри:** Логічна
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,14 +30,25 @@ title: "Chip's Challenge"
 <img src="screens/scrn_chips-challenge-zx_03.png" width="24%">
 <img src="screens/scrn_chips-challenge-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=chips-challenge" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Chip's Challenge</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Chips_Callenge.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/chips-challenge/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/937)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Chips_Challenge.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/chips_challenge.rar)
 
 

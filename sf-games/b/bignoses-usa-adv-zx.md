@@ -22,6 +22,8 @@ title: "Big Nose's American Adventure"
 **ID:** bignoses-usa-adv-zx
 
 
+**Жанри:** Аркада, Платформер
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -31,6 +33,11 @@ title: "Big Nose's American Adventure"
 <img src="screens/scrn_bignoses-usa-adv-zx_02.png" width="24%">
 <img src="screens/scrn_bignoses-usa-adv-zx_03.png" width="24%">
 <img src="screens/scrn_bignoses-usa-adv-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bignoses-usa-adventure&v=trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Big Nose's American Adventure (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=bignoses-usa-adventure" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Big Nose's American Adventure</a>
 
 
 ## Опис
@@ -79,13 +86,21 @@ Bignose's USA Adventure є однією з найкращих платформе
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1992
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Bignoses_USA_Adventure.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bignoses-usa-adventure/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9308/ZX-Spectrum/Big_Noses_American_Adventure)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Big_Noses_USA.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/big_noses_usa.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1014) *(Telegram-канал Vibrant Waves)*
 
 

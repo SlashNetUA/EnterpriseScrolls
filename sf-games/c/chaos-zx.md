@@ -21,6 +21,8 @@ title: "Chaos"
 **ID:** chaos-zx
 
 
+**Жанри:** Стратегія
+
 ## Примітка
 
 ℹ Сучасна неофіційна конверсія з платформи ZX Spectrum.
@@ -31,16 +33,28 @@ title: "Chaos"
 <img src="screens/scrn_chaos-zx_03.png" width="24%">
 <img src="screens/scrn_chaos-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=chaos" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Chaos</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Кількість гравців:** 1 player, 2 players (versus), 3 players (versus), 4 players (versus), 5 players (versus), 6 players (versus), 7 players (versus), 8 players (versus)
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1985
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Chaos.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/chaos/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/894/ZX-Spectrum/Chaos)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Chaos.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/chaos.rar)
 
 

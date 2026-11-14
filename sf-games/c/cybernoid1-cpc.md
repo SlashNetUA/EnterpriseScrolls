@@ -18,6 +18,8 @@ title: "Cybernoid: The Fighting Machine"
 **ID:** cybernoid1-cpc
 
 
+**Жанри:** Екшн
+
 ## Примітка
 
 ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC.
@@ -28,15 +30,27 @@ title: "Cybernoid: The Fighting Machine"
 <img src="screens/scrn_cybernoid1-cpc_03.png" width="24%">
 <img src="screens/scrn_cybernoid1-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=cybernoid&v=cpc" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cybernoid: The Fighting Machine</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 16-color mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Cybernoid_CPC.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/cybernoid/#cybernoid-amstrad-cpc)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=55)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Cybernoid_CPC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/cybernoid_cpc.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/210) *(Telegram-канал Vibrant Waves)*
 
 

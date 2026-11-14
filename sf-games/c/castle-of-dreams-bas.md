@@ -18,6 +18,8 @@ title: "Castle of Dreams"
 **ID:** castle-of-dreams-bas
 
 
+**Жанри:** Пригодницька
+
 ## Примітка
 
 ℹ Офіційний реліз.
@@ -28,14 +30,23 @@ title: "Castle of Dreams"
 <img src="screens/scrn_castle-of-dreams-bas_03.png" width="24%">
 <img src="screens/scrn_castle-of-dreams-bas_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=castle-of-dreams" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Castle of Dreams</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Розробка
+- **Рік випуску:** 1985
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/castle-of-dreams/)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C5309/Castle+of+Dreams.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Castle_of_Dreams.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/castle_of_dreams.rar)
 
 

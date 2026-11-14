@@ -34,6 +34,13 @@ title: "Batman"
 <img src="screens/scrn_batman_03.png" width="24%">
 <img src="screens/scrn_batman_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=batman&v=batman-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Batman (EP128 - TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=batman&v=batman" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Batman (EP128)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=batman&v=ep64-batman-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Batman (EP64 - TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=batman&v=ep64-batman-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Batman (EP64)</a>
+
 
 ## Опис
 
@@ -55,7 +62,10 @@ title: "Batman"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Batman.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/batman/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=98)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/batman.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/batman_ep64.rar)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Batman.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/89) *(Telegram-канал Vibrant Waves)*
 

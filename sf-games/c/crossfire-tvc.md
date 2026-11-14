@@ -18,6 +18,8 @@ title: "CrossFire"
 **ID:** crossfire-tvc
 
 
+**Жанри:** Аркада, Екшн
+
 ## Примітка
 
 ℹ Сучасна неофіційна конверсія з платформи Videoton TVC.
@@ -28,17 +30,28 @@ title: "CrossFire"
 <img src="screens/scrn_crossfire-tvc_03.png" width="24%">
 <img src="screens/scrn_crossfire-tvc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=crossfire" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">CrossFire</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Videoton TVC
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Додаткові теги:** 4-color mode
+### Розробка
+- **Рік випуску:** 2020
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Crossfire.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/crossfire/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/tvc-rl/cross-fire/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/CrossFire.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/crossfire.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/198) *(Telegram-канал Vibrant Waves)*
 
 

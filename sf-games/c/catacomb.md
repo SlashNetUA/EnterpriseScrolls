@@ -21,6 +21,8 @@ title: "Catacomb"
 **ID:** catacomb
 
 
+**Жанри:** Аркада
+
 ## Примітка
 
 ℹ Офіційний реліз (?).
@@ -31,15 +33,28 @@ title: "Catacomb"
 <img src="screens/scrn_catacomb_03.png" width="24%">
 <img src="screens/scrn_catacomb_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=catacomb&v=modified" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Catacomb</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 4-color mode
+### Розробка
+- **Рік випуску:** 1985
+- **Компанія:** Entersoft
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Catacombs.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/catacomb/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Catacomb.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/catacomb.rar)
 
 
 ## Відео

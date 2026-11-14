@@ -18,6 +18,8 @@ title: "Comando Tracer"
 **ID:** comando-tracer-zx
 
 
+**Жанри:** Екшн
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,13 +30,24 @@ title: "Comando Tracer"
 <img src="screens/scrn_comando-tracer-zx_03.png" width="24%">
 <img src="screens/scrn_comando-tracer-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=comando-tracer" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Comando Tracer</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1989
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/comando-tracer/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9892)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Comando_Tracer.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/comando_tracer.rar)
 
 

@@ -21,6 +21,8 @@ title: "Capitan Sevilla"
 **ID:** capitan-sevilla-zx
 
 
+**Жанри:** Екшн
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -31,13 +33,26 @@ title: "Capitan Sevilla"
 <img src="screens/scrn_capitan-sevilla-zx_03.png" width="24%">
 <img src="screens/scrn_capitan-sevilla-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=capitan-sevilla&v=captsev1-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Capitan Sevilla (Part 1)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=capitan-sevilla&v=captsev2-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Capitan Sevilla (Part 2)</a>
+
 
 ## Основна інформація
+- **Мови:** Іспанська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Capitan_Sevilla.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/capitan-sevilla/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/801/ZX-Spectrum/Capitan_Sevilla)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Captain_Sevilla.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/capitan_sevilla.rar)
 
 

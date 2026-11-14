@@ -13,7 +13,7 @@
 - 𝔹 [C.I.A. Adventure](c-i-a-adv-bas.md)
 - △ [Cacorm](cacorm.md)
 - △ [CadCam Warrior](cadcam-warriors.md)
-- △ [﻿Caesar the Cat](caesar-a-cica-zx.md)
+- △ [Caesar the Cat](caesar-a-cica-zx.md)
 - 🅩 [Calypso](calypso-zcode.md)
 - 🅩 [The Candy Striper of St. Asterix](candy-striper-of-st-asterix-zcode.md)
 - △ [Cannibals from Outer Space](cannibals-from-outer-space-zx.md)

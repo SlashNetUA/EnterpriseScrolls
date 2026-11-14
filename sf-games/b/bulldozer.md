@@ -30,6 +30,10 @@ title: "Bulldozer"
 <img src="screens/scrn_bulldozer_03.png" width="24%">
 <img src="screens/scrn_bulldozer_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bulldozer" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bulldozer</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -44,7 +48,9 @@ title: "Bulldozer"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Bulldozer.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bulldozer/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bulldozer.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bulldozer.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/120) *(Telegram-канал Vibrant Waves)*
 
 

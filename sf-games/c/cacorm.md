@@ -56,7 +56,9 @@ title: "Cacorm"
 
 ## Посилання
 - [Домашня сторінка](http://inufuto.web.fc2.com/8bit/cacorm/#ep64)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/cacorm/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Cacorm.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/cacorm.rar)
 - [Завантажити](http://inufuto.web.fc2.com/8bit/ep64/cacorm_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/797) *(Telegram-канал Vibrant Waves)*
 

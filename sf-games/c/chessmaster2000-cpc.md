@@ -18,6 +18,8 @@ title: "The Chessmaster 2000"
 **ID:** chessmaster2000-cpc
 
 
+**Жанри:** Настільна гра, Шахи
+
 ## Примітка
 
 ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC.
@@ -28,16 +30,27 @@ title: "The Chessmaster 2000"
 <img src="screens/scrn_chessmaster2000-cpc_03.png" width="24%">
 <img src="screens/scrn_chessmaster2000-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=the-chessmaster-2000" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The Chessmaster 2000</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Додаткові теги:** 4-color mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/ChessMaster.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/the-chessmaster-2000/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=544)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/ChessMaster_2000.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/chessmaster_2000.rar)
 
 

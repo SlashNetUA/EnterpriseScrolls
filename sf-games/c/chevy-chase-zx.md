@@ -18,6 +18,8 @@ title: "Chevy Chase"
 **ID:** chevy-chase-zx
 
 
+**Жанри:** Перегони
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,14 +30,25 @@ title: "Chevy Chase"
 <img src="screens/scrn_chevy-chase-zx_03.png" width="24%">
 <img src="screens/scrn_chevy-chase-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=chevy-chase" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Chevy Chase</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1991
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Chevy_Chase.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/chevy-chase/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/923)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Chevy_Chase.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/chevy_chase.rar)
 
 

@@ -31,6 +31,10 @@ title: "Bruce Lee"
 <img src="screens/scrn_bruce-lee_03.png" width="24%">
 <img src="screens/scrn_bruce-lee_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bruce-lee" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bruce Lee</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -43,14 +47,16 @@ title: "Bruce Lee"
 - **Додаткові теги:** Attribute mode
 ### Розробка
 - **Рік випуску:** 1984
-- **Автор:** L.T. Software, F. David Thorpe [Frederick David Thorpe]
+- **Автор:** L.T. Software, Frederick David Thorpe
 - **Компанія:** Ocean Software Ltd
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/BruceLee.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bruce-lee/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/718/ZX-Spectrum/Bruce_Lee)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bruce_Lee.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bruce_lee.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/116) *(Telegram-канал Vibrant Waves)*
 
 

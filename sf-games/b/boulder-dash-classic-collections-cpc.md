@@ -18,6 +18,8 @@ title: "Boulder Dash Classic Collections"
 **ID:** boulder-dash-classic-collections-cpc
 
 
+**Жанри:** Екшн
+
 ## Примітка
 
 ℹ Сучасна неофіційна конверсія гри заснована на версіях з платформ Amstrad CPC та Commodore 64.
@@ -28,19 +30,31 @@ title: "Boulder Dash Classic Collections"
 <img src="screens/scrn_boulder-dash-classic-collections-cpc_03.png" width="24%">
 <img src="screens/scrn_boulder-dash-classic-collections-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=boulder-dash-classic-collection-1" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Boulder Dash Classic Collections (Pack 1)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=boulder-dash-classic-collection-2&v=bd2scr-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Boulder Dash Classic Collections (Pack 2)</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
 Commodore 64
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Додаткові теги:** 16-color mode
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Boulder_Dash.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/boulder-dash-classic-collection-1/)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/boulder-dash-classic-collection-2/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/cpc-r337l/boulder-dash/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Boulder_Dash_Classic_Collection_1.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/boulder_dash_classic_collection_1.rar)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Boulder_Dash_Classic_Collection_2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/boulder_dash_classic_collection_2.rar)
 
 
 ## Відео

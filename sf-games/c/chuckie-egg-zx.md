@@ -30,6 +30,11 @@ title: "Chuckie Egg"
 <img src="screens/scrn_chuckie-egg-zx_03.png" width="24%">
 <img src="screens/scrn_chuckie-egg-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=chuckie-egg&v=bright" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Chuckie Egg (Bright)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=chuckie-egg&v=dark" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Chuckie Egg (Dark)</a>
+
 
 ## Опис
 
@@ -48,12 +53,15 @@ title: "Chuckie Egg"
 - **Додаткові теги:** Attribute mode
 ### Розробка
 - **Рік випуску:** 1983
+- **Автор:** Nigel Alderton
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Chuckie_Egg.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/chuckie-egg/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/958)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Chuckie_Egg.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/chuckie_egg.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1022) *(Telegram-канал Vibrant Waves)*
 
 

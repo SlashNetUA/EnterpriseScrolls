@@ -33,18 +33,31 @@ title: "Cross Road Race"
 <img src="screens/scrn_cross-road-race_02.png" width="24%">
 <img src="screens/scrn_cross-road-race_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=crazy-cars" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cross Road Race (fixed)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=cross-road" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cross Road Race (old)</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська, Угорська
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Додаткові теги:** 16-color mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Cross_Road-fixed.htm)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Cross_Road.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/crazy-cars/)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/cross-road/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=630)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Cross_Road-fixed.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/cross_road-fixed_2.rar)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Cross_Road.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/cross_road.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/168) *(Telegram-канал Vibrant Waves)*
 
 

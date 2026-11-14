@@ -18,6 +18,8 @@ title: "Big Trouble in Little China"
 **ID:** big-trouble-in-little-china-zx
 
 
+**Жанри:** Екшн
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,13 +30,24 @@ title: "Big Trouble in Little China"
 <img src="screens/scrn_big-trouble-in-little-china-zx_03.png" width="24%">
 <img src="screens/scrn_big-trouble-in-little-china-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=big-trouble-in-little-china" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Big Trouble in Little China</a>
+
 
 ## Основна інформація
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Big_Trouble_in_Little_China.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/big-trouble-in-little-china/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/519)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Big_Trouble_in_Little_China.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/big_trouble_in_little_china.rar)
 
 

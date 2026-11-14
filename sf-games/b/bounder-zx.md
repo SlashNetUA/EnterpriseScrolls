@@ -18,6 +18,8 @@ title: "Bounder"
 **ID:** bounder-zx
 
 
+**Жанри:** Аркада
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,6 +30,10 @@ title: "Bounder"
 <img src="screens/scrn_bounder-zx_03.png" width="24%">
 <img src="screens/scrn_bounder-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bounder" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bounder</a>
+
 
 ## Опис
 
@@ -35,13 +41,20 @@ title: "Bounder"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Bounder.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bounder/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/657/ZX-Spectrum/Bounder)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bounder.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bounder.rar)
 
 
 ## Детальна інформація

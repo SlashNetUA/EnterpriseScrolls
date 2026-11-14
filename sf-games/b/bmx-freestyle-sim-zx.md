@@ -21,6 +21,8 @@ title: "BMX Freestyle"
 **ID:** bmx-freestyle-sim-zx
 
 
+**Жанри:** Спортивна
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -31,13 +33,25 @@ title: "BMX Freestyle"
 <img src="screens/scrn_bmx-freestyle-sim-zx_03.png" width="24%">
 <img src="screens/scrn_bmx-freestyle-sim-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bmx-freestyle-simulator" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">BMX Freestyle</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player, 2 players (versus)
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1989
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bmx-freestyle-simulator/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9312)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/BMX_Simulator.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bmx_freestyle_simulator.rar)
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Batman: The Caped Crusader - A Bird in the Hand"
+title: "Batman: The Caped Crusader"
 ---
 
 ﻿[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
@@ -12,10 +12,11 @@ title: "Batman: The Caped Crusader - A Bird in the Hand"
 
 ----------
 
-# Batman: The Caped Crusader - A Bird in the Hand
+# Batman: The Caped Crusader
 
 **Альтернативні назви:**
- - Batman: The Caped Crusader - A Fete Worse Than Death
+ - Batman: The Caped Crusader - A Bird in the Hand
+ - Batman: The Caped Crusader - A Fete Worse than Death
 
 
 **ID:** batman-the-caped-crusader-zx
@@ -30,6 +31,11 @@ title: "Batman: The Caped Crusader - A Bird in the Hand"
 <img src="screens/scrn_batman-the-caped-crusader-zx_02.png" width="24%">
 <img src="screens/scrn_batman-the-caped-crusader-zx_03.png" width="24%">
 <img src="screens/scrn_batman-the-caped-crusader-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=batman-the-caped-crusader-part-i" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Batman: The Caped Crusader (1.A Bird in the Hand)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=batman-the-caped-crusader-part-ii" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Batman: The Caped Crusader (2.A Fete Worse than Death)</a>
 
 
 ## Опис
@@ -52,9 +58,13 @@ title: "Batman: The Caped Crusader - A Bird in the Hand"
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Batman_Penguin.htm)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Batman_Joker.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/batman-the-caped-crusader-part-ii/)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/batman-the-caped-crusader-part-i/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/442/ZX-Spectrum/Batman_The_Caped_Crusader)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Batman-Penguin.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/batman-penguin.rar)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Batman-Joker.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/batman-joker.rar)
 
 
 ## Детальна інформація

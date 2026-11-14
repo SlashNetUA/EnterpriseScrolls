@@ -18,6 +18,8 @@ title: "Battle Command"
 **ID:** battle-command-zx
 
 
+**Жанри:** Екшн, від першої особи
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,13 +30,20 @@ title: "Battle Command"
 <img src="screens/scrn_battle-command-zx_03.png" width="24%">
 <img src="screens/scrn_battle-command-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=battle-command" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Battle Command</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/battle-command/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/451/ZX-Spectrum/Battle_Command)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Battle_Command.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/battle_command.rar)
 
 

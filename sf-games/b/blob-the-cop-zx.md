@@ -21,6 +21,8 @@ title: "Blob the Cop"
 **ID:** blob-the-cop-zx
 
 
+**Жанри:** Аркада
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -30,6 +32,10 @@ title: "Blob the Cop"
 <img src="screens/scrn_blob-the-cop-zx_02.png" width="24%">
 <img src="screens/scrn_blob-the-cop-zx_03.png" width="24%">
 <img src="screens/scrn_blob-the-cop-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=blob-the-cop" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Blob the Cop</a>
 
 
 ## Опис
@@ -50,12 +56,18 @@ title: "Blob the Cop"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Розробка
+- **Рік випуску:** 1989
+- **Автор:** Andy Severn
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Blob_the_Cop.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/blob-the-cop/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/572/ZX-Spectrum/Blob_the_Cop)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Blob_the_Cop.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/blob_the_cop.rar)
 
 

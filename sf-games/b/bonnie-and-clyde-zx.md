@@ -30,6 +30,10 @@ title: "Bonnie and Clyde"
 <img src="screens/scrn_bonnie-and-clyde-zx_03.png" width="24%">
 <img src="screens/scrn_bonnie-and-clyde-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bonnie-and-clyde" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bonnie and Clyde</a>
+
 
 ## Опис
 
@@ -54,9 +58,11 @@ title: "Bonnie and Clyde"
 - [Домашня сторінка](https://web.archive.org/web/20240719144217/https://www.zosya.net/product/bonnie-and-clyde/)
 - [Домашня сторінка](http://mkzx.ru)
 - [Опис на ep128.hu (угорською)](http://ep128.hu/Games/Bonnie_and_Clyde.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bonnie-and-clyde/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/spectrum-rol/bonnie-clyde/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/35809/ZX-Spectrum/Bonnie_and_Clyde)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bonnie_and_Clyde.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bonnie_and_clyde.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/93) *(Telegram-канал Vibrant Waves)*
 
 

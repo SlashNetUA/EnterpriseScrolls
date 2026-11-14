@@ -30,6 +30,10 @@ title: "Bootskell"
 <img src="screens/scrn_bootskell_03.png" width="24%">
 <img src="screens/scrn_bootskell_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bootskell" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bootskell</a>
+
 
 ## Опис
 
@@ -54,7 +58,9 @@ title: "Bootskell"
 
 ## Посилання
 - [Домашня сторінка](http://inufuto.web.fc2.com/8bit/bootskell/#ep64)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bootskell/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bootskell.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bootskell.rar)
 - [Завантажити](http://inufuto.web.fc2.com/8bit/ep64/bootskell_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/793) *(Telegram-канал Vibrant Waves)*
 

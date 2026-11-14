@@ -18,6 +18,8 @@ title: "Barbarian: The Ultimate Warrior"
 **ID:** barbarian1-cpc
 
 
+**Жанри:** Драка
+
 ## Примітка
 
 ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC.
@@ -27,6 +29,10 @@ title: "Barbarian: The Ultimate Warrior"
 <img src="screens/scrn_barbarian1-cpc_02.png" width="24%">
 <img src="screens/scrn_barbarian1-cpc_03.png" width="24%">
 <img src="screens/scrn_barbarian1-cpc_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=barbarian-the-ultimate-warrior&v=barbarian-cpc" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Barbarian: The Ultimate Warrior</a>
 
 
 ## Опис
@@ -53,12 +59,18 @@ Barbarian: The Ultimate Warrior — це екшн-гра, випущена в 19
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Кількість гравців:** 1 player, 2 players (versus)
+- **Додаткові теги:** 16-color mode
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Barbarian.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/barbarian-the-ultimate-warrior/#barbarian-the-ultimate-warrior-amstrad-cpc)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=40)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Barbarian_CPC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/barbarian_cpc.rar)
 
 

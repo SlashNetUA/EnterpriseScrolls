@@ -21,6 +21,8 @@ title: "Boulder Dash II: Rockford's Revenge"
 **ID:** boulder-dash2-zx
 
 
+**Жанри:** Екшн
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.  
@@ -32,14 +34,25 @@ title: "Boulder Dash II: Rockford's Revenge"
 <img src="screens/scrn_boulder-dash2-zx_03.png" width="24%">
 <img src="screens/scrn_boulder-dash2-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=boulder-dash-2&v=boulder-dash2" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Boulder Dash II: Rockford's Revenge</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1985
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Boulder_Dash.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/boulder-dash-2/#boulder-dash-boulder-dash-2-boulder-dash-3)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/642/ZX-Spectrum/Boulder_Dash_II_Rockfords_Riot)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Boulder_Dash2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/boulder_dash2.rar)
 
 

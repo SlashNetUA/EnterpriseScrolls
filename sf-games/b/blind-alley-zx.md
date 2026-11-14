@@ -18,6 +18,8 @@ title: "Blind Alley"
 **ID:** blind-alley-zx
 
 
+**Жанри:** Екшн, Tron-подібна
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -27,6 +29,10 @@ title: "Blind Alley"
 <img src="screens/scrn_blind-alley-zx_02.png" width="24%">
 <img src="screens/scrn_blind-alley-zx_03.png" width="24%">
 <img src="screens/scrn_blind-alley-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=blind-alley" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Blind Alley</a>
 
 
 ## Опис
@@ -78,12 +84,20 @@ title: "Blind Alley"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1983
+- **Автор:** Simon Lane
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Blind_Alley.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/blind-alley/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/566/ZX-Spectrum/Blind_Alley)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Blind_Alley.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/blind_alley.rar)
 
 

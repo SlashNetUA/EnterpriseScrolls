@@ -18,6 +18,8 @@ title: "Black Lamp"
 **ID:** black-lamp-zx
 
 
+**Жанри:** Аркада, Платформер, Лабіринт
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -27,6 +29,11 @@ title: "Black Lamp"
 <img src="screens/scrn_black-lamp-zx_02.png" width="24%">
 <img src="screens/scrn_black-lamp-zx_03.png" width="24%">
 <img src="screens/scrn_black-lamp-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=black-lamp&v=blamp-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Black Lamp (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=black-lamp&v=blamp-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Black Lamp</a>
 
 
 ## Опис
@@ -68,12 +75,19 @@ title: "Black Lamp"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Black_Lamp.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/black-lamp/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/551/ZX-Spectrum/Black_Lamp)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Black_Lamp.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/black_lamp.rar)
 
 

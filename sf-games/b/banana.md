@@ -14,6 +14,9 @@ title: "Banana"
 
 # Banana
 
+**Альтернативні назви:**
+ - Banana Plus
+
 
 **ID:** banana
 
@@ -29,6 +32,11 @@ title: "Banana"
 <img src="screens/scrn_banana_02.png" width="24%">
 <img src="screens/scrn_banana_03.png" width="24%">
 <img src="screens/scrn_banana_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=banana&v=plus" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Banana (Plus version)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=banana&v=banana" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Banana</a>
 
 
 ## Опис
@@ -52,9 +60,12 @@ title: "Banana"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Banana.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/banana/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/jatekok/banana/)
-- [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Banana.rar)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Banana_Plus.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/banana_plus.rar)
+- [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Banana.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/banana.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/81) *(Telegram-канал Vibrant Waves)*
 
 

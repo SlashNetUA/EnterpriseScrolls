@@ -31,6 +31,10 @@ title: "Boulder Dash"
 <img src="screens/scrn_boulder-dash-ep_03.png" width="24%">
 <img src="screens/scrn_boulder-dash-ep_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=boulder-dash&v=ep" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Boulder Dash</a>
+
 
 ## Опис
 
@@ -49,7 +53,10 @@ title: "Boulder Dash"
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Boulder_Dash_Ep.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/boulder-dash/#boulder-dash)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Boulder_Dash_Ep.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/boulder_dash_ep.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/106) *(Telegram-канал Vibrant Waves)*
 
 

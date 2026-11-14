@@ -30,6 +30,10 @@ title: "Bricky Prise"
 <img src="screens/scrn_bricky-prise_03.png" width="24%">
 <img src="screens/scrn_bricky-prise_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bricky-prise" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bricky Prise</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -42,12 +46,14 @@ title: "Bricky Prise"
 - **Додаткові теги:** 16-color mode
 ### Розробка
 - **Рік випуску:** 2016
-- **Автор:** Geco, Endi, Szipucsu
+- **Автор:** Endre Baráth (Endi), Noel Persa (Geco), Tamás Bodnár (Szipucsu)
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Bricky_Prise.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bricky-prise/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bricky_Prise.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bricky_prise.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/110) *(Telegram-канал Vibrant Waves)*
 
 

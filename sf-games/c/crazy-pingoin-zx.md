@@ -18,6 +18,8 @@ title: "Crazy Pingoin"
 **ID:** crazy-pingoin-zx
 
 
+**Жанри:** Аркада, Pengo-like
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,14 +30,25 @@ title: "Crazy Pingoin"
 <img src="screens/scrn_crazy-pingoin-zx_03.png" width="24%">
 <img src="screens/scrn_crazy-pingoin-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=crazy-pingoin" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Crazy Pingoin</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Crazy_Pingoin.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/crazy-pingoin/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1134/ZX-Spectrum/Crazy_Pingoin)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Crazy_Pingoin.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/crazy_pingoin.rar)
 
 

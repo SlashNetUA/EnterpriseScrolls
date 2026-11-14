@@ -30,6 +30,10 @@ title: "BATTLOT"
 <img src="screens/scrn_battlot_03.png" width="24%">
 <img src="screens/scrn_battlot_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=battlot" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">BATTLOT</a>
+
 
 ## Опис
 
@@ -53,7 +57,9 @@ title: "BATTLOT"
 ## Посилання
 - [Домашня сторінка](http://inufuto.web.fc2.com/8bit/battlot/#ep64)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Battlot.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/battlot/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Battlot.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/battlot.rar)
 - [Завантажити](http://inufuto.web.fc2.com/8bit/ep64/battlot_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/789) *(Telegram-канал Vibrant Waves)*
 

@@ -18,6 +18,8 @@ title: "Butcher Hill"
 **ID:** butcher-hill-zx
 
 
+**Жанри:** Екшн
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,13 +30,24 @@ title: "Butcher Hill"
 <img src="screens/scrn_butcher-hill-zx_03.png" width="24%">
 <img src="screens/scrn_butcher-hill-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=butcher-hill" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Butcher Hill (TRN)</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/butcher-hill/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/773/ZX-Spectrum/Butcher_Hill)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Butcher_Hill.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/butcher_hill.rar)
 
 

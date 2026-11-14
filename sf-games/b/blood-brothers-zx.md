@@ -18,6 +18,8 @@ title: "Blood Brothers"
 **ID:** blood-brothers-zx
 
 
+**Жанри:** Екшн, Платформер
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,14 +30,26 @@ title: "Blood Brothers"
 <img src="screens/scrn_blood-brothers-zx_03.png" width="24%">
 <img src="screens/scrn_blood-brothers-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=blood-brothers" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Blood Brothers</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player, 2 players (cooperative)
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/blood-brothers/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/584/ZX-Spectrum/Blood_Brothers)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Blood_Brothers.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/blood_brothers.rar)
 
 
 ## Відео

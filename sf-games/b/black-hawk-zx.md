@@ -18,6 +18,8 @@ title: "Black Hawk"
 **ID:** black-hawk-zx
 
 
+**Жанри:** Екшн, Скролшутер
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -27,6 +29,11 @@ title: "Black Hawk"
 <img src="screens/scrn_black-hawk-zx_02.png" width="24%">
 <img src="screens/scrn_black-hawk-zx_03.png" width="24%">
 <img src="screens/scrn_black-hawk-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=black-hawk&v=attus" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Black Hawk (Attus)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=black-hawk" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Black Hawk</a>
 
 
 ## Опис
@@ -83,12 +90,19 @@ title: "Black Hawk"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1984
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Black_Hawk.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/black-hawk/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/549/ZX-Spectrum/Black_Hawk)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Black_Hawk.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/black_hawk.rar)
 
 

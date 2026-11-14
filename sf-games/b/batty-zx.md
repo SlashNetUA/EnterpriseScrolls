@@ -18,6 +18,8 @@ title: "Batty"
 **ID:** batty-zx
 
 
+**Жанри:** Арканоідо-подібна
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,6 +30,10 @@ title: "Batty"
 <img src="screens/scrn_batty-zx_03.png" width="24%">
 <img src="screens/scrn_batty-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=batty" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Batty</a>
+
 
 ## Опис
 
@@ -37,13 +43,21 @@ title: "Batty"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player, 2 players (cooperative)
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Batty.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/batty/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/472/ZX-Spectrum/Batty)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Batty.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/batty.rar)
 
 
 ## Детальна інформація

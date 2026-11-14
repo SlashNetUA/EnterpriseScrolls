@@ -30,6 +30,10 @@ title: "Bomb Squad"
 <img src="screens/scrn_bomb-squad-bas_03.png" width="24%">
 <img src="screens/scrn_bomb-squad-bas_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bomb-squad" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bomb Squad</a>
+
 
 ## Опис
 
@@ -40,6 +44,7 @@ title: "Bomb Squad"
 - **Мови:** Англійська
 - **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
+- **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
@@ -52,7 +57,9 @@ title: "Bomb Squad"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Bomb_Squad.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bomb-squad/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bomb_Squad.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bomb_squad.rar)
 
 
 ## [Керування](../controllers.md)

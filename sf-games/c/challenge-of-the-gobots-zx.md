@@ -18,6 +18,8 @@ title: "Challenge of the Gobots"
 **ID:** challenge-of-the-gobots-zx
 
 
+**Жанри:** Екшн
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,13 +30,24 @@ title: "Challenge of the Gobots"
 <img src="screens/scrn_challenge-of-the-gobots-zx_03.png" width="24%">
 <img src="screens/scrn_challenge-of-the-gobots-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=challenge-of-the-gobots" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Challenge of the Gobots</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/challenge-of-the-gobots/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/878)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Challenge_of_the_Gobots.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/challenge_of_the_gobots.rar)
 
 

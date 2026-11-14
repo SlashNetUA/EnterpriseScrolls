@@ -18,6 +18,8 @@ title: "The Curse of Sherwood"
 **ID:** curse-of-sherwood-zx
 
 
+**Жанри:** Пригодницька, Екшн
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,14 +30,27 @@ title: "The Curse of Sherwood"
 <img src="screens/scrn_curse-of-sherwood-zx_03.png" width="24%">
 <img src="screens/scrn_curse-of-sherwood-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=the-curse-of-sherwood&v=bright-curse-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The Curse of Sherwood (Bright TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=the-curse-of-sherwood&v=bright-curse-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The Curse of Sherwood (Bright)</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Curse_of_sherwood.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/the-curse-of-sherwood/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1189/ZX-Spectrum/The_Curse_of_Sherwood)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Curse_of_Sherwood.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/curse_of_sherwood.rar)
 
 

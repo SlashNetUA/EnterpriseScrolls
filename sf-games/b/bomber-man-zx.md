@@ -33,6 +33,12 @@ title: "Bomberman"
 <img src="screens/scrn_bomber-man-zx_03.png" width="24%">
 <img src="screens/scrn_bomber-man-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bomber-man&v=bomber-man-zozosoft" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bomberman (128k - ZozoSoft)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=bomber-man&v=bomber-man" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bomberman (128k)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=bomber-man&v=ep64" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bomberman (64k)</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -48,7 +54,10 @@ title: "Bomberman"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/BomberMan.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bomber-man/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/625/ZX-Spectrum/Bomberman)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bomber_man.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bomber_man_ep64.rar)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bomber_Man.rar)
 
 

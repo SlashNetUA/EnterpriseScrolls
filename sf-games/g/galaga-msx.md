@@ -41,3 +41,7 @@ Unofficial conversion (WIP)
 - **Компанія:** Namco Ltd.
 
 
+## Посилання
+- [Тема на форумі enterpriseforever](https://enterpriseforever.com/konvertalas/galaga)
+
+

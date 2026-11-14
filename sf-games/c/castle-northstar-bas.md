@@ -18,14 +18,31 @@ title: "Castle Northstar"
 **ID:** castle-northstar-bas
 
 
+## Примітка
+
+ℹ Сучасна неофіційна конверсія.  
+Входить у збірник [Castles & Kingdoms](../c/castles-and-kingdoms-bas.md).
+
 ## Скріншоти
 <img src="screens/scrn_castle-northstar-bas_01.png" width="24%">
 <img src="screens/scrn_castle-northstar-bas_02.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=castles-kingdoms" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Castle Northstar</a>
+
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Castles_and_Kingdoms.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/castles-kingdoms/)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C5484/Castle+Northstar.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Castles_and_Kingdoms.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/castles_and_kingdoms.rar)
 
+
+## [Керування](../controllers.md)
+
+`Keyboard`  
+
+`F1`-`F8`, `Shift`+`F1`-`Shift`+`F8`: швидке введення команд (підказка на стрічці знизу екрану).
 

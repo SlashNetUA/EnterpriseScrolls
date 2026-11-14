@@ -22,6 +22,8 @@ title: "Captain Fizz"
 **ID:** captain-fizz-zx
 
 
+**Жанри:** Екшн
+
 ## Примітка
 
 ℹ Сучасна неофіційна конверсія з платформи ZX Spectrum.
@@ -32,16 +34,28 @@ title: "Captain Fizz"
 <img src="screens/scrn_captain-fizz-zx_03.png" width="24%">
 <img src="screens/scrn_captain-fizz-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=captain-fizz" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Captain Fizz</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Кількість гравців:** 1 player, 2 players (cooperative)
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1989
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Captain_Fizz.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/captain-fizz/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9320/ZX-Spectrum/Captain_Fizz)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Captain_Fizz.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/captain_fizz.rar)
 
 

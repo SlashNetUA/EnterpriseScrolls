@@ -21,21 +21,42 @@ title: "Castle Dracula"
 **ID:** castle-dracula-adv5-bas
 
 
+**Жанри:** Текстова пригода
+
+## Примітка
+
+Recreated game (original release is missing!)
+
 ## Скріншоти
 <img src="screens/scrn_castle-dracula-adv5-bas_01.png" width="24%">
 <img src="screens/scrn_castle-dracula-adv5-bas_02.png" width="24%">
 <img src="screens/scrn_castle-dracula-adv5-bas_03.png" width="24%">
 <img src="screens/scrn_castle-dracula-adv5-bas_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=castle-dracula-adventure-5" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Castle Dracula</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+- **Програмні:** IS-Basic
+### Геймплей
+- **Керування:** Keyboard
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Text40 mode
+### Розробка
+- **Рік випуску:** 1985
+- **Компанія:** Microdeal
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Castle_Dracula_Adventure.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/castle-dracula-adventure-5/)
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,1488/Castle+Dracula.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Castle_Dracula_Adventure_5.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/castle_dracula_adventure_5.rar)
 
 

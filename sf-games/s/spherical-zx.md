@@ -59,6 +59,7 @@ title: "Spherical"
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Spherical.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/4746/ZX-Spectrum/Spherical)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Spherical.rar)
 

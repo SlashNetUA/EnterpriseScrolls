@@ -167,7 +167,6 @@
 - 🅩 [Spellbreaker](spellbreaker-zcode.md)
 - △ [Spherical](spherical-zx.md)
 - 🅩 [Spider and Web](spider-and-web-zcode.md)
-- 𝔹 [Spider Mountain](spider-mountain-bas.md)
 - △ [Spindizzy](spindizzy-zx.md)
 - △ [The Spion](spion.md)
 - △ [Spirits](spirits-zx.md)

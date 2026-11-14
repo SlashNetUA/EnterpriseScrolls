@@ -11,7 +11,7 @@ title: Компанія «Novotrade»
 
 Хоча Novotrade і раніше співпрацювала з компанією Enterprise (на замовлення були створені [Eggs of Death](../sf-games/e/eggs-of-death.md) та [Mirror World](../sf-games/m/mirror-world.md)), спеціальна команда для розробки програм саме під Enterprise сформувалася у 1987 році — після появи цих комп'ютерів в Угорщині. Вона отримала назву ['a' Studio](a-studio.md), а до її складу увійшли [Дьйордь Апор](../peoples/hu/pers_gyorgy-apor.md), [Ласло Сентторняї](../peoples/hu/pers_laszlo-szenttornyai.md), [Вільмош Копачі](../peoples/hu/pers_vilmos-kopacsy.md) та [Ференц Тілеш](../peoples/hu/pers_ferenc-tilesch.md), які й до цього створювали досить успішні ігри для Novotrade.
 
-Штатними співробітниками були [Ігнац Фетсер](../peoples/hu/pers_ignac-fetser.md) та [Ференц Штенглер](../peoples/hu/pers_ferenc-staengler.md), які утворили команду [NASA & Guy](../peoples/community/oldschool/nasa-guy.md). Універсальним керівником був [Вільмош Копачі](../peoples/hu/pers_vilmos-kopacsy.md) — він і був тим самим «Guy» (а також співвласником ['a' Studio](a-studio.md)). Першими роботами цієї команди стали демки NasaGuy.
+Штатними співробітниками були [Ігнац Фетсер](../peoples/hu/pers_ignac-fetser.md) та [Ференц Штенглер](../peoples/hu/pers_ferenc-staengler.md), які утворили команду [NASA & Guy](../peoples/community/oldschool/team_nasa-guy.md). Універсальним керівником був [Вільмош Копачі](../peoples/hu/pers_vilmos-kopacsy.md) — він і був тим самим «Guy» (а також співвласником ['a' Studio](a-studio.md)). Першими роботами цієї команди стали демки NasaGuy.
 
 *(інформація узята з сайту [ep128.hu](https://ep128.hu/Ep_Demo/Leiras/NasaGuy.htm))*
 

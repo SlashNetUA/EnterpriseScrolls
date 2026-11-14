@@ -36,6 +36,8 @@ Unofficial conversion from C64 (WIP)
 - **Оригінальна платформа:** Commodore 64
 ### Загальні системні вимоги
 - **Апаратні:** 2dfx
+### Геймплей
+- **Додаткові теги:** 16-color mode
 ### Розробка
 - **Рік випуску:** 1987
 - **Автор:** Jason Benham, Paul Walker, Robert Westgate

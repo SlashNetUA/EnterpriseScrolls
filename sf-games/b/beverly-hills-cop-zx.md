@@ -18,6 +18,8 @@ title: "Beverly Hills Cop"
 **ID:** beverly-hills-cop-zx
 
 
+**Жанри:** Екшн, Перегони
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,13 +30,25 @@ title: "Beverly Hills Cop"
 <img src="screens/scrn_beverly-hills-cop-zx_03.png" width="24%">
 <img src="screens/scrn_beverly-hills-cop-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=beverly-hills-cop" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Beverly Hills Cop</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Beverly_Hills_Cop.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/beverly-hills-cop/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/511/ZX-Spectrum/Beverly_Hills_Cop)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Beverly_Hills_Cop.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/beverly_hills_cop.rar)
 
 

@@ -30,6 +30,10 @@ title: "Buzzsaw+ (Foxton Locks Mix)"
 <img src="screens/scrn_buzzsaw-plus-zx_03.png" width="24%">
 <img src="screens/scrn_buzzsaw-plus-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=buzzsaw" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Buzzsaw+ (Foxton Locks Mix)</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -39,14 +43,17 @@ title: "Buzzsaw+ (Foxton Locks Mix)"
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1
 - **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
 ### Розробка
 - **Рік випуску:** 2011
 - **Автор:** Jason J. Railton, Mister Beep
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/buzzsaw/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/27057/ZX-Spectrum/Buzzsaw_Foxton_Locks_Mix)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Buzzsaw+.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/buzzsaw.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/124) *(Telegram-канал Vibrant Waves)*
 
 

@@ -21,6 +21,8 @@ title: "Bounty Bob Strikes Back"
 **ID:** bounty-bob-strikes-back-zx
 
 
+**Жанри:** Аркада, Платформер
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -31,14 +33,27 @@ title: "Bounty Bob Strikes Back"
 <img src="screens/scrn_bounty-bob-strikes-back-zx_03.png" width="24%">
 <img src="screens/scrn_bounty-bob-strikes-back-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bounty-bob-strikes-back&v=bounty-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bounty Bob Strikes Back (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=bounty-bob-strikes-back&v=bounty-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bounty Bob Strikes Back</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1984
+- **Автор:** Tim Miller, Bill Hogue, Frederick David Thorpe
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Bounty_Bob.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bounty-bob-strikes-back/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/660/ZX-Spectrum/Bounty_Bob_Strikes_Back)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bounty_Bob.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bounty_bob.rar)
 
 

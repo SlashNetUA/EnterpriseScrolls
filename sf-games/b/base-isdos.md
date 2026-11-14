@@ -27,6 +27,10 @@ title: "The Base"
 <img src="screens/scrn_base-isdos_03.png" width="24%">
 <img src="screens/scrn_base-isdos_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=base" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The Base</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -44,9 +48,11 @@ title: "The Base"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/base/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5991/ZX-Spectrum/The_Base)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=2687)
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,914/Base,+The.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Base.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/base.rar)
 
 

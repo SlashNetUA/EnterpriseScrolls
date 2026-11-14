@@ -18,6 +18,8 @@ title: "Choy-Lee-Fut Kung-Fu Warrior"
 **ID:** choyleefut-kungfu-warrior-zx
 
 
+**Жанри:** Драка
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,14 +30,25 @@ title: "Choy-Lee-Fut Kung-Fu Warrior"
 <img src="screens/scrn_choyleefut-kungfu-warrior-zx_03.png" width="24%">
 <img src="screens/scrn_choyleefut-kungfu-warrior-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=choy-lee-fut-kung-fu-warrior" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Choy-Lee-Fut Kung-Fu Warrior</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Choy_Lee.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/choy-lee-fut-kung-fu-warrior/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/950)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Choy_Lee_KungFu_Warrior.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/choy_lee_kungfu_warrior.rar)
 
 

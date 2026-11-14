@@ -30,6 +30,10 @@ title: "Bomberman Megablast"
 <img src="screens/scrn_bomberman-megablast-tvc_03.png" width="24%">
 <img src="screens/scrn_bomberman-megablast-tvc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bomberman-megablast" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bomberman Megablast</a>
+
 
 ## Основна інформація
 - **Мови:** Угорська
@@ -47,8 +51,10 @@ title: "Bomberman Megablast"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/Bomberman.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bomberman-megablast/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/tvc-rl/bomberman/)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Bomberman_TVC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bomberman_megablast.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1158) *(Telegram-канал Vibrant Waves)*
 
 

@@ -30,6 +30,11 @@ title: "Bobby Bearing"
 <img src="screens/scrn_bobby-bearing-zx_03.png" width="24%">
 <img src="screens/scrn_bobby-bearing-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bobby-bearing&v=bobby-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bobby Bearing (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=bobby-bearing&v=bobby-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bobby Bearing</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -47,7 +52,9 @@ title: "Bobby Bearing"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Bobby_Bearing.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bobby-bearing/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/606/ZX-Spectrum/Bobby_Bearing)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bobby_Bearing.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bobby_bearing.rar)
 
 

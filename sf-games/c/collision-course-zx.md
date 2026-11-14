@@ -18,6 +18,8 @@ title: "Collision Course"
 **ID:** collision-course-zx
 
 
+**Жанри:** Екшн
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,14 +30,26 @@ title: "Collision Course"
 <img src="screens/scrn_collision-course-zx_03.png" width="24%">
 <img src="screens/scrn_collision-course-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=collision-course&v=trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Collision Course (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=collision-course" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Collision Course</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Collision_Course.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/collision-course/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1010/ZX-Spectrum/Collision_Course)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Collission_Course.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/collission_course.rar)
 
 

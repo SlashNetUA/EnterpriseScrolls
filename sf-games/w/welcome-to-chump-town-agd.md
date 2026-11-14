@@ -30,6 +30,10 @@ title: "Welcome to Chump Town!! - Episode 4: A New Joke"
 <img src="screens/scrn_welcome-to-chump-town-agd_03.png" width="24%">
 <img src="screens/scrn_welcome-to-chump-town-agd_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=chump-town-a-new-yoke" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Welcome to Chump Town!! - Episode 4: A New Joke</a>
+
 
 ## Опис
 
@@ -73,8 +77,10 @@ title: "Welcome to Chump Town!! - Episode 4: A New Joke"
 
 ## Посилання
 - [Домашня сторінка](https://ktbproductions.itch.io/enterprise-games)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/chump-town-a-new-yoke/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/44237/ZX-Spectrum/Welcome_To_Chump_Town)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Chump_Town.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/chump_town.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/903) *(Telegram-канал Vibrant Waves)*
 
 

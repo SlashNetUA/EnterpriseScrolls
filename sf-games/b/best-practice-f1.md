@@ -33,6 +33,10 @@ title: "Best Practice"
 <img src="screens/scrn_best-practice-f1_03.png" width="24%">
 <img src="screens/scrn_best-practice-f1_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=best-practice-f1" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Best Practice</a>
+
 
 ## Опис
 
@@ -56,8 +60,10 @@ title: "Best Practice"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/best-practice-f1/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/jatekok/uj-jatek-bestpracticef1/)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Best_Practice_F1.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/best_practice_f1.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1197) *(Telegram-канал Vibrant Waves)*
 
 

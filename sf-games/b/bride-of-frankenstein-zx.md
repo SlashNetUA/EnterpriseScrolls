@@ -18,6 +18,8 @@ title: "Bride of Frankenstein"
 **ID:** bride-of-frankenstein-zx
 
 
+**Жанри:** Пригодницька, Лабіринт
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,14 +30,25 @@ title: "Bride of Frankenstein"
 <img src="screens/scrn_bride-of-frankenstein-zx_03.png" width="24%">
 <img src="screens/scrn_bride-of-frankenstein-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=bride-of-frankenstein" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Bride of Frankenstein</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bride-of-frankenstein/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/700/ZX-Spectrum/Bride_of_Frankenstein)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bride_of_Frankenstein.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/bride_of_frankenstein.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1062) *(Telegram-канал Vibrant Waves)*
 
 

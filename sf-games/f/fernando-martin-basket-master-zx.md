@@ -21,20 +21,33 @@ title: "Fernando Martin Basket Master"
 **ID:** fernando-martin-basket-master-zx
 
 
+**Жанри:** Спортивна
+
+
 ## Скріншоти
 <img src="screens/scrn_fernando-martin-basket-master-zx_01.png" width="24%">
 <img src="screens/scrn_fernando-martin-basket-master-zx_02.png" width="24%">
 <img src="screens/scrn_fernando-martin-basket-master-zx_03.png" width="24%">
 <img src="screens/scrn_fernando-martin-basket-master-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=basket-master" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Fernando Martin Basket Master</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player, 2 players (versus)
+- **Додаткові теги:** Attribute mode
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Basket_Master.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/basket-master/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1741/ZX-Spectrum/Fernando_Martin_Basket_Master)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Basket_Master.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/basket_master.rar)
 
 

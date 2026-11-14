@@ -21,6 +21,8 @@ title: "CentrumBall"
 **ID:** centrumball
 
 
+**Жанри:** Пінбол
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum (яка все ж отримала реліз в Угорщині).
@@ -31,16 +33,30 @@ title: "CentrumBall"
 <img src="screens/scrn_centrumball_03.png" width="24%">
 <img src="screens/scrn_centrumball_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=centrumball" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">CentrumBall</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Керування:** Keyboard
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1983
+- **Компанія:** Sagittarian Software Ltd.
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Centrumball.htm)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Pinball_Wizard.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/centrumball/)
+- [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/3718/ZX-Spectrum/Pinball)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/CentrumBall.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/centrumball.rar)
 
 

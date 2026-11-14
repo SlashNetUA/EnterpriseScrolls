@@ -18,6 +18,8 @@ title: "Carrier Command"
 **ID:** carrier-command-zx
 
 
+**Жанри:** Симулятор
+
 ## Примітка
 
 ℹ Стара неофіційна конверсія з платформи ZX Spectrum.
@@ -28,14 +30,26 @@ title: "Carrier Command"
 <img src="screens/scrn_carrier-command-zx_03.png" width="24%">
 <img src="screens/scrn_carrier-command-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=carrier-command" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Carrier Command</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
+- **Автор:** Andrew Onions, David Lowe, Derrick Austin, Richard Hewison, Ricardo J.M. Pinto, Clare Edgeley, Gary Sheinwald
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Carrier_Command.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/carrier-command/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/825/ZX-Spectrum/Carrier_Command)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Carrier_Command.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/carrier_command.rar)
 
 

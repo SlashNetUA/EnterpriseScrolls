@@ -27,6 +27,10 @@ title: "Curses"
 <img src="screens/scrn_curses-zcode_03.png" width="24%">
 <img src="screens/scrn_curses-zcode_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=curses" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Curses</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -43,7 +47,10 @@ title: "Curses"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/curses/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=14543)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C7312/Curses.html)
+- [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Curses.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/curses.rar)
 
 

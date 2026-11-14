@@ -18,6 +18,8 @@ title: "Cauldron"
 **ID:** cauldron
 
 
+**Жанри:** Пригодницька, Платформер
+
 ## Примітка
 
 ℹ Офіційна конверсія.  
@@ -28,6 +30,12 @@ title: "Cauldron"
 <img src="screens/scrn_cauldron_02.png" width="24%">
 <img src="screens/scrn_cauldron_03.png" width="24%">
 <img src="screens/scrn_cauldron_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=cauldron&v=cauldron-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cauldron (TRN1)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=cauldron&v=cauldron-tr2" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cauldron (TRN2)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=cauldron&v=cauldron-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Cauldron</a>
 
 
 ## Опис
@@ -42,12 +50,19 @@ title: "Cauldron"
 - **Апаратні:** EP128
 ### Геймплей
 - **Кількість гравців:** 1 player
+- **Додаткові теги:** 16-color mode
+### Розробка
+- **Рік випуску:** 1986
+- **Автор:** John Brandwood (elmer), Richard Leinfellner, Steve Brown, Richard Joseph
+- **Компанія:** Entersoft
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Cauldron.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/cauldron/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=529)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Cauldron.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/cauldron.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1086) *(Telegram-канал Vibrant Waves)*
 
 

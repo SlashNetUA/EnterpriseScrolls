@@ -18,6 +18,8 @@ title: "Boulder Dash"
 **ID:** boulder-dash1-cpc
 
 
+**Жанри:** Екшн
+
 ## Примітка
 
 ℹ Сучасна неофіційна конверсія гри заснована на версіях з платформ Amstrad CPC та Commodore 64.
@@ -28,19 +30,32 @@ title: "Boulder Dash"
 <img src="screens/scrn_boulder-dash1-cpc_03.png" width="24%">
 <img src="screens/scrn_boulder-dash1-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=boulder-dash-1&v=c64" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Boulder Dash (C64)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=boulder-dash-1&v=cpc" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Boulder Dash (CPC)</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
 Commodore 64
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Додаткові теги:** 16-color mode
+### Розробка
+- **Рік випуску:** 1984, 1985
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Boulder_Dash.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/boulder-dash-1/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=460)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Boulder_Dash_1_C64.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/boulder_dash_1_c64.rar)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Boulder_Dash_1_CPC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/boulder_dash_1_cpc.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/99) *(Telegram-канал Vibrant Waves)*
 
 
