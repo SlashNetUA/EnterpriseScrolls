@@ -21,11 +21,21 @@ title: "Dizzy 3 and a Half"
 **ID:** dizzy35-zx
 
 
+**Жанри:** Пригодницька, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_dizzy35-zx_01.png" width="24%">
 <img src="screens/scrn_dizzy35-zx_02.png" width="24%">
 <img src="screens/scrn_dizzy35-zx_03.png" width="24%">
 <img src="screens/scrn_dizzy35-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dizzy-3-and-half&v=bright" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dizzy 3 and a Half (Bright)</a>
 
 
 ## Опис
@@ -47,13 +57,21 @@ Dizzy 3 і пів — це захоплююча пригодницька гра,
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Домашня сторінка](https://yolkfolk.com/games/dizzy-3-and-a-half-into-magicland/)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Dizzy_35.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dizzy-3-and-half/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9334/ZX-Spectrum/Dizzy_3_and_a_Half)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dizzy3_and_Half.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dizzy3_and_half.rar)
 
 

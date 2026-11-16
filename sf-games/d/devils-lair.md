@@ -18,20 +18,43 @@ title: "Devil's Lair"
 **ID:** devils-lair
 
 
+**Жанри:** Платформер, Аркада
+
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_devils-lair_01.png" width="24%">
 <img src="screens/scrn_devils-lair_02.png" width="24%">
 <img src="screens/scrn_devils-lair_03.png" width="24%">
 <img src="screens/scrn_devils-lair_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=devils-lair&v=extended" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Devil's Lair (Extended version)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=devils-lair&v=trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Devil's Lair (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=devils-lair" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Devil's Lair</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Керування:** Internal Joy, External Joy 1*, External Joy 2*
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 4-color mode
+### Розробка
+- **Рік випуску:** 1985
+- **Компанія:** Loriciels
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Devils_Lair.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/devils-lair/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Devils_Lair.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/devils_lair.rar)
 
 

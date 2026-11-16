@@ -18,7 +18,7 @@ title: "Down to Earth"
 **ID:** down-to-earth-zx
 
 
-**Жанри:** Екшн
+**Жанри:** Екшн, BoulderDash-подібна
 
 ## Примітка
 
@@ -29,6 +29,11 @@ Unofficial conversion
 <img src="screens/scrn_down-to-earth-zx_02.png" width="24%">
 <img src="screens/scrn_down-to-earth-zx_03.png" width="24%">
 <img src="screens/scrn_down-to-earth-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=down-to-earth&v=down-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Down to Earth (16col darker)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=down-to-earth&v=down8c-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Down to Earth (8col brighter)</a>
 
 
 ## Основна інформація
@@ -48,7 +53,9 @@ Unofficial conversion
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Down_to_Earth.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/down-to-earth/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1470/ZX-Spectrum/Down_to_Earth)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Down_to_Earth.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/down_to_earth.rar)
 
 

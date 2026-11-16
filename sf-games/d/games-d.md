@@ -71,7 +71,7 @@
 - △ [Dig-Dug](dig-dug.md)
 - △ [Digger](digger-coleco.md)
 - △ [Digger Dan](digger-dan-zx.md)
-- △ [﻿Digi Pók](digi-pok.md)
+- △ [Digi Pók](digi-pok.md)
 - △ [Dimension Omega](dimension-omega-zx.md)
 - 🅸 [Dino, the Game](dino-the-game-isdos.md)
 - 𝔹 [Disco Adventure](disco-adv-bas.md)

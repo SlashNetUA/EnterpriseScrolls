@@ -18,19 +18,36 @@ title: "Demon's Revenge"
 **ID:** demons-revenge-zx
 
 
+**Жанри:** Пригодницька
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_demons-revenge-zx_01.png" width="24%">
 <img src="screens/scrn_demons-revenge-zx_02.png" width="24%">
 <img src="screens/scrn_demons-revenge-zx_03.png" width="24%">
 <img src="screens/scrn_demons-revenge-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=demons-revenge" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Demon's Revenge</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/demons-revenge/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1346/ZX-Spectrum/Demons_Revenge)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Demons_Revenge.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/demons_revenge.rar)
 
 

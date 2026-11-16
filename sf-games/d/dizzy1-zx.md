@@ -27,14 +27,20 @@ title: "Dizzy: The Ultimate Cartoon Adventure"
 <img src="screens/scrn_dizzy1-zx_03.png" width="24%">
 <img src="screens/scrn_dizzy1-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dizzy&v=bright" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dizzy: The Ultimate Cartoon Adventure (Bright)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dizzy&v=trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dizzy: The Ultimate Cartoon Adventure (Dark TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dizzy" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dizzy: The Ultimate Cartoon Adventure (Dark)</a>
+
 
 ## Опис
 
-﻿(temp description)
+(temp description)  
 
-Dizzy: The Ultimate Cartoon Adventure — це пригодницька гра-платформер 1987 року від студії Code Masters, створена братами Ендрю та Філіпом Оліверами. Завдяки високоякісному звуковому супроводу, відмінній графіці та яскравим кольорам, гра стала проривом. Вона містить близько 50 добре опрацьованих ігрових зон, а її головний герой — мутант-яйце на ім’я Діззі. Мета гри — допомогти жителям міста Катманду, захопленого злим чарівником Заксом.
+Dizzy: The Ultimate Cartoon Adventure — це пригодницька гра-платформер 1987 року від студії Code Masters, створена братами Ендрю та Філіпом Оліверами. Завдяки високоякісному звуковому супроводу, відмінній графіці та яскравим кольорам, гра стала проривом. Вона містить близько 50 добре опрацьованих ігрових зон, а її головний герой — мутант-яйце на ім’я Діззі. Мета гри — допомогти жителям міста Катманду, захопленого злим чарівником Заксом.  
 
-### Ігровий процес
+### Ігровий процес  
 Діззі повинен досліджувати світ, збирати предмети та використовувати їх для вирішення головоломок.
 
 
@@ -44,7 +50,7 @@ Dizzy: The Ultimate Cartoon Adventure — це пригодницька гра-�
 ### Загальні системні вимоги
 - **Апаратні:** EP128
 ### Геймплей
-- **Керування:** Internal Joy, External Joy 1
+- **Керування:** Internal Joy, External Joy 1, Keyboard
 - **Кількість гравців:** 1 player
 - **Додаткові теги:** Attribute mode
 ### Розробка
@@ -55,21 +61,24 @@ Dizzy: The Ultimate Cartoon Adventure — це пригодницька гра-�
 ## Посилання
 - [Домашня сторінка](https://yolkfolk.com/games/dizzy-tuca/)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Dizzy.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dizzy/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9332/ZX-Spectrum/Dizzy)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dizzy.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dizzy.rar)
 
 
 ## [Керування](../controllers.md)
 
-### Старт гри:
+### Старт гри:  
 
 `K`: грати за допомогою зовнішнього або вбудованого джойстиків.  
-`Space`: грати за допомогою вбудованого джойстиків.
+`Space`: грати за допомогою вбудованого джойстиків.  
 
-### Керування:
+### Керування:  
 
-**Internal Joystick**: `Space` (стрибок), `Enter` (взяти/використати/покласти).  
-**External Joystick 1**: `Fire` (стрибок), `↓` (взяти/використати/покласти).  
+`Keyboard`: `5`, `6`, `7`, `8` + `0`  
+`Internal Joystick`: `Space` (стрибок), `Enter` (взяти/використати/покласти).  
+`External Joystick 1`: `Fire` (стрибок), `↓` (взяти/використати/покласти).  
 
 `Hold/Pause`: пауза.  
 `Stop`: вихід на стартовий екран.

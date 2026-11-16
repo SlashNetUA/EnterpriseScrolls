@@ -1,7 +1,7 @@
 ---
-title: EXOS variables 94-97 Drive Clock
+title: EXOS variables 96-99 Drive Clock
 ---
-# 94-97 Drive Clock
+# 96-99 Drive Clock
 
 Each drive clock variable binary format is:
 
@@ -22,4 +22,4 @@ format that works.
 [^1]: Note that some older non-PC drives use pin **1** to reset the disk change signal so **F** must be `0` for these drives.
 
 
-See also [drive type](exos_var90-93_exdos30.md.md).  
+See also [drive type](exos_var92-95_exdos30.md.md).  

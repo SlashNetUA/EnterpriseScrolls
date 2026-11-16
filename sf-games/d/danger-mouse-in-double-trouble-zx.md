@@ -18,18 +18,33 @@ title: "Danger Mouse in Double Trouble"
 **ID:** danger-mouse-in-double-trouble-zx
 
 
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_danger-mouse-in-double-trouble-zx_01.png" width="24%">
 <img src="screens/scrn_danger-mouse-in-double-trouble-zx_02.png" width="24%">
 <img src="screens/scrn_danger-mouse-in-double-trouble-zx_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=danger-mouse-in-double-trouble" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Danger Mouse in Double Trouble</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1984
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/danger-mouse-in-double-trouble/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1247/ZX-Spectrum/Danger_Mouse_in_Double_Trouble)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Danger_Mouse_in_Double_Trouble.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/danger_mouse_in_double_trouble.rar)
 
 

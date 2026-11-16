@@ -21,11 +21,25 @@ title: "Treasure Island Dizzy"
 **ID:** dizzy2-zx
 
 
+**Жанри:** Пригодницька, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_dizzy2-zx_01.png" width="24%">
 <img src="screens/scrn_dizzy2-zx_02.png" width="24%">
 <img src="screens/scrn_dizzy2-zx_03.png" width="24%">
 <img src="screens/scrn_dizzy2-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dizzy-2&v=bright-dizzy2-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Treasure Island Dizzy (Bright TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dizzy-2&v=bright-dizzy2-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Treasure Island Dizzy (Bright)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dizzy-2&v=hun" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Treasure Island Dizzy (Dark TRN - HUN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dizzy-2&v=dizzy2-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Treasure Island Dizzy (Dark TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dizzy-2&v=dizzy2-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Treasure Island Dizzy (Dark)</a>
 
 
 ## Опис
@@ -50,13 +64,21 @@ Dizzy 2 - це захоплююча пригодницька гра, в якій
 
 
 ## Основна інформація
+- **Мови:** Англійська, Угорська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Домашня сторінка](https://yolkfolk.com/games/treasure-island-dizzy/)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Dizzy_2.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dizzy-2/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9333/ZX-Spectrum/Treasure_Island_Dizzy)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dizzy2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dizzy2.rar)
 
 

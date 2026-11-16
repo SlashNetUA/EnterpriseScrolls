@@ -18,19 +18,36 @@ title: "Delta Wing"
 **ID:** delta-wing-zx
 
 
+**Жанри:** Симулятор
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_delta-wing-zx_01.png" width="24%">
 <img src="screens/scrn_delta-wing-zx_02.png" width="24%">
 <img src="screens/scrn_delta-wing-zx_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=delta-wing" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Delta Wing</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1984
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Delta_Wing.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/delta-wing/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1337/ZX-Spectrum/Delta_Wing)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Delta_Wing.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/delta_wing.rar)
 
 

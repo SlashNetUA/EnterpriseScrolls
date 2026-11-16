@@ -18,21 +18,40 @@ title: "Death Diver"
 **ID:** death-diver-bas
 
 
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_death-diver-bas_01.png" width="24%">
 <img src="screens/scrn_death-diver-bas_02.png" width="24%">
 <img src="screens/scrn_death-diver-bas_03.png" width="24%">
 <img src="screens/scrn_death-diver-bas_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=death-diver" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Death Diver</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic
+### Геймплей
+- **Керування:** Internal Joy, External Joy 1
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1984
+- **Компанія:** Entersoft
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Death_Driver.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/death-diver/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Death_Driver.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/death_diver.rar)
 
 

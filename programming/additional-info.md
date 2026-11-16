@@ -20,7 +20,7 @@ title: "Різноманітна інформація по системі"
 
 [Системні змінні](system-info/info_exos-variables.md)  
 [Функції EXOS](system-info/info_exos-functions.md)  
-[Пристрої](system-info/info-exos-devices.md)  
+[Пристрої](system-info/info_exos-devices.md)  
 [Канали](system-info/info_channels.md)  
 
 [Escape-послідовності та керуючі символи](system-info/info_esc-sequences.md)  

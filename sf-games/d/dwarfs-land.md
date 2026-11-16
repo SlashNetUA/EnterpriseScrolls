@@ -20,11 +20,19 @@ title: "Dwarfs' Land"
 
 **Жанри:** Текстова пригода
 
+## Примітка
+
+Homebrew
 
 ## Скріншоти
 <img src="screens/scrn_dwarfs-land_01.png" width="24%">
 <img src="screens/scrn_dwarfs-land_02.png" width="24%">
 <img src="screens/scrn_dwarfs-land_03.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dwarfs-land&v=dwarf-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dwarfs' Land (Game)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dwarfs-land&v=dwlintro-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dwarfs' Land (Intro)</a>
 
 
 ## Основна інформація
@@ -44,7 +52,9 @@ title: "Dwarfs' Land"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Dwarfs_Land.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dwarfs-land/)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C5438/Dwarfs%27+Land.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dwarfs_Land.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dwarfs_land.rar)
 
 

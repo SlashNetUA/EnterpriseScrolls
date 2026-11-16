@@ -5,7 +5,7 @@ title: Команда «BACKUP» (IS-DOS)
 
 ## Applicable systems
 
-**IS-DOS**: all versions
+**IS-DOS**: all versions up to 3.0
 
 ## Format
 
@@ -53,3 +53,7 @@ Note that this is a transient command, and must be loaded from disk.
 `BACKUP`  
 `BACKUP A: B:/X`  
 `BACKUP A:\DATA B:\DATABACK/D/M/P`  
+
+----
+
+See also [XCOPY](cmd-xcopy.md).

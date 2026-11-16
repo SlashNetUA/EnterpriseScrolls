@@ -95,14 +95,14 @@ title: EXOS variables
 
 ## EXDOS 3.0
 
-90 [Drive A: type](exos-variables/exos_var90-93_exdos30.md)  
-91 [Drive B: type](exos-variables/exos_var90-93_exdos30.md)  
-92 [Drive C: type](exos-variables/exos_var90-93_exdos30.md)  
-93 [Drive D: type](exos-variables/exos_var90-93_exdos30.md)  
-94 [Drive A: clock](exos-variables/exos_var94-97_exdos30.md)  
-95 [Drive B: clock](exos-variables/exos_var94-97_exdos30.md)  
-96 [Drive C: clock](exos-variables/exos_var94-97_exdos30.md)  
-97 [Drive D: clock](exos-variables/exos_var94-97_exdos30.md)  
+90 [Drive A: type](exos-variables/exos_var92-95_exdos30.md.md)  
+91 [Drive B: type](exos-variables/exos_var92-95_exdos30.md.md)  
+92 [Drive C: type](exos-variables/exos_var92-95_exdos30.md.md)  
+93 [Drive D: type](exos-variables/exos_var92-95_exdos30.md.md)  
+94 [Drive A: clock](exos-variables/exos_var96-99_exdos30.md.md)  
+95 [Drive B: clock](exos-variables/exos_var96-99_exdos30.md.md)  
+96 [Drive C: clock](exos-variables/exos_var96-99_exdos30.md.md)  
+97 [Drive D: clock](exos-variables/exos_var96-99_exdos30.md.md)  
 
 ## MODEM / ENTERCOM
 

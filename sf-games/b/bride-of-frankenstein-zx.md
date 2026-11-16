@@ -45,6 +45,7 @@ title: "Bride of Frankenstein"
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Bride_of_Frankenstein.htm)
 - [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/bride-of-frankenstein/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/700/ZX-Spectrum/Bride_of_Frankenstein)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Bride_of_Frankenstein.rar)

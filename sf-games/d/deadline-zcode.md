@@ -25,6 +25,10 @@ title: "Deadline"
 <img src="screens/scrn_deadline-zcode_01.png" width="24%">
 <img src="screens/scrn_deadline-zcode_02.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=deadline" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Deadline</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -41,7 +45,9 @@ title: "Deadline"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/deadline/)
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,134/Deadline.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Deadline.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/deadline.rar)
 
 

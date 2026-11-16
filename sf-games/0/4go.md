@@ -30,6 +30,10 @@ title: "4GO"
 <img src="screens/scrn_4go_03.png" width="24%">
 <img src="screens/scrn_4go_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=4go" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">4GO</a>
+
 
 ## Опис
 
@@ -54,8 +58,10 @@ title: "4GO"
 ## Посилання
 - [Домашня сторінка](https://anystone.games/?lang=en#en/game-4go-ep)
 - [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/4Go.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/4go/)
 - [Завантажити](https://downloads.anystone.games/4go-ep-com)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/4Go.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/4go.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1233) *(Telegram-канал Vibrant Waves)*
 
 

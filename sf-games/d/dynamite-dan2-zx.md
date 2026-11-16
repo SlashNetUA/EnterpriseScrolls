@@ -18,20 +18,37 @@ title: "Dynamite Dan II: Dr Blitzen and the Islands of Arcanum"
 **ID:** dynamite-dan2-zx
 
 
+**Жанри:** Аркада, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_dynamite-dan2-zx_01.png" width="24%">
 <img src="screens/scrn_dynamite-dan2-zx_02.png" width="24%">
 <img src="screens/scrn_dynamite-dan2-zx_03.png" width="24%">
 <img src="screens/scrn_dynamite-dan2-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dynamite-dan-ii" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dynamite Dan II: Dr Blitzen and the Islands of Arcanum</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Dynamite_Dan_2.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dynamite-dan-ii/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1553/ZX-Spectrum/Dynamite_Dan_II)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dynamite_Dan_2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dynamite_dan_2.rar)
 
 

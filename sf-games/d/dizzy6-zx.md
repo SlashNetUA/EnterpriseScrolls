@@ -21,11 +21,21 @@ title: "Dizzy, Prince of the YolkFolk"
 **ID:** dizzy6-zx
 
 
+**Жанри:** Пригодницька, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_dizzy6-zx_01.png" width="24%">
 <img src="screens/scrn_dizzy6-zx_02.png" width="24%">
 <img src="screens/scrn_dizzy6-zx_03.png" width="24%">
 <img src="screens/scrn_dizzy6-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dizzy-6" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dizzy, Prince of the YolkFolk</a>
 
 
 ## Опис
@@ -48,13 +58,21 @@ title: "Dizzy, Prince of the YolkFolk"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1991
 
 
 ## Посилання
 - [Домашня сторінка](https://yolkfolk.com/games/dizzy-prince-of-the-yolkfolk/)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Dizzy_6.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dizzy-6/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9338/ZX-Spectrum/Dizzy_Prince_of_the_YolkFolk)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dizzy6.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dizzy6.rar)
 
 

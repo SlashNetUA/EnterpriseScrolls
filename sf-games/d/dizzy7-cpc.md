@@ -21,11 +21,21 @@ title: "Crystal Kingdom Dizzy"
 **ID:** dizzy7-cpc
 
 
+**Жанри:** Пригодницька, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_dizzy7-cpc_01.png" width="24%">
 <img src="screens/scrn_dizzy7-cpc_02.png" width="24%">
 <img src="screens/scrn_dizzy7-cpc_03.png" width="24%">
 <img src="screens/scrn_dizzy7-cpc_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dizzy-7" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Crystal Kingdom Dizzy</a>
 
 
 ## Опис
@@ -50,13 +60,21 @@ Dizzy 7 – це пригодницька гра, в якій гравці бе�
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 16-color mode
+### Розробка
+- **Рік випуску:** 1992
 
 
 ## Посилання
 - [Домашня сторінка](https://yolkfolk.com/games/crystal-kingdom-dizzy/)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Dizzy_7.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dizzy-7/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=642)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dizzy7.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dizzy7.rar)
 
 

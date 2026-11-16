@@ -21,19 +21,36 @@ title: "Druid II: Enlightenment"
 **ID:** druid2-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_druid2-zx_01.png" width="24%">
 <img src="screens/scrn_druid2-zx_02.png" width="24%">
 <img src="screens/scrn_druid2-zx_03.png" width="24%">
 <img src="screens/scrn_druid2-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=druid-ii-enlightenment" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Druid II: Enlightenment</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/druid-ii-enlightenment/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1530/ZX-Spectrum/Druid_II_Enlightenment)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Druid2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/druid2.rar)
 
 

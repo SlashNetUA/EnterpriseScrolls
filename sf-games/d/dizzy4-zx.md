@@ -21,11 +21,21 @@ title: "Magicland Dizzy"
 **ID:** dizzy4-zx
 
 
+**Жанри:** Пригодницька, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_dizzy4-zx_01.png" width="24%">
 <img src="screens/scrn_dizzy4-zx_02.png" width="24%">
 <img src="screens/scrn_dizzy4-zx_03.png" width="24%">
 <img src="screens/scrn_dizzy4-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dizzy-4" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Magicland Dizzy</a>
 
 
 ## Опис
@@ -50,13 +60,21 @@ title: "Magicland Dizzy"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1989
 
 
 ## Посилання
 - [Домашня сторінка](https://yolkfolk.com/games/magicland-dizzy/)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Dizzy_4.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dizzy-4/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9336/ZX-Spectrum/Magicland_Dizzy)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dizzy4.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dizzy4.rar)
 
 

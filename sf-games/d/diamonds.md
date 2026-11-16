@@ -18,22 +18,42 @@ title: "Diamonds"
 **ID:** diamonds
 
 
+**Жанри:** Екшн, Digger-подібна
+
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_diamonds_01.png" width="24%">
 <img src="screens/scrn_diamonds_02.png" width="24%">
 <img src="screens/scrn_diamonds_03.png" width="24%">
 <img src="screens/scrn_diamonds_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=diamonds" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Diamonds</a>
+
 
 ## Основна інформація
 - **Мови:** Угорська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Керування:** Keyboard, Internal Joy
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 4-color mode, CH256
+### Розробка
+- **Рік випуску:** 1989
+- **Компанія:** Infosoft
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Diamonds.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/diamonds/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Diamonds.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/diamonds.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/238) *(Telegram-канал Vibrant Waves)*
 
 

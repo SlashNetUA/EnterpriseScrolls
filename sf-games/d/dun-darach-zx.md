@@ -18,20 +18,37 @@ title: "Dun Darach"
 **ID:** dun-darach-zx
 
 
+**Жанри:** Пригодницька
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_dun-darach-zx_01.png" width="24%">
 <img src="screens/scrn_dun-darach-zx_02.png" width="24%">
 <img src="screens/scrn_dun-darach-zx_03.png" width="24%">
 <img src="screens/scrn_dun-darach-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dun-darach" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dun Darach</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1985
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Dun_Darach.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dun-darach/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1538/ZX-Spectrum/Dun_Darach)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dun_Darach.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dun_darach.rar)
 
 

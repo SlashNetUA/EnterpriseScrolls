@@ -18,21 +18,38 @@ title: "Donkey Kong"
 **ID:** donkey-kong-cpc
 
 
+**Жанри:** Аркада, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_donkey-kong-cpc_01.png" width="24%">
 <img src="screens/scrn_donkey-kong-cpc_02.png" width="24%">
 <img src="screens/scrn_donkey-kong-cpc_03.png" width="24%">
 <img src="screens/scrn_donkey-kong-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=donkey-kong" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Donkey Kong</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Додаткові теги:** 16-color mode
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Donkey_Kong.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/donkey-kong/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=741)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Donkey_Kong.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/donkey_kong.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/259) *(Telegram-канал Vibrant Waves)*
 
 

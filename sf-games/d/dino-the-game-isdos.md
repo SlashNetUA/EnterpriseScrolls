@@ -25,6 +25,10 @@ title: "Dino, the Game"
 <img src="screens/scrn_dino-the-game-isdos_01.png" width="24%">
 <img src="screens/scrn_dino-the-game-isdos_02.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dino-the-game" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dino, the Game</a>
+
 
 ## Опис
 
@@ -62,6 +66,8 @@ title: "Dino, the Game"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Dino.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dino-the-game/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dino.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dino.rar)
 
 

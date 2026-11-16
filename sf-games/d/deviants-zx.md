@@ -18,20 +18,44 @@ title: "Deviants"
 **ID:** deviants-zx
 
 
+**Жанри:** Екшн, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_deviants-zx_01.png" width="24%">
 <img src="screens/scrn_deviants-zx_02.png" width="24%">
 <img src="screens/scrn_deviants-zx_03.png" width="24%">
 <img src="screens/scrn_deviants-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=deviants&v=modified" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Deviants (Autoarm Bombs Hack)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=deviants&v=trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Deviants (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=deviants" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Deviants</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Загальні системні вимоги
+- **Апаратні:** EP128
+### Геймплей
+- **Керування:** Internal Joy, External Joy 1, External Joy 2
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
+- **Автор:** Colin Swinbourne, Andrew Severn, Martin Severn
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Deviants.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/deviants/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1375/ZX-Spectrum/Deviants)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Deviants.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/deviants.rar)
 
 

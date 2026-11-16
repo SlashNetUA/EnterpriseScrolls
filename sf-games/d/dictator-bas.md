@@ -33,6 +33,11 @@ Official release
 <img src="screens/scrn_dictator-bas_03.png" width="24%">
 <img src="screens/scrn_dictator-bas_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dictator&v=dictator" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dictator (128)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dictator&v=ep64" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dictator (64)</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська, Угорська
@@ -50,6 +55,9 @@ Official release
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Dictator.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dictator/)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dictator.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dictator_ep64.rar)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dictator.rar)
 
 

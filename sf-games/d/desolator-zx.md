@@ -18,19 +18,36 @@ title: "Desolator"
 **ID:** desolator-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_desolator-zx_01.png" width="24%">
 <img src="screens/scrn_desolator-zx_02.png" width="24%">
 <img src="screens/scrn_desolator-zx_03.png" width="24%">
 <img src="screens/scrn_desolator-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=desolator" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Desolator</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/desolator/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1359/ZX-Spectrum/Desolator)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Desolator.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/desolator.rar)
 
 

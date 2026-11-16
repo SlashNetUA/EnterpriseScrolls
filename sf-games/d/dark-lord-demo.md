@@ -18,6 +18,8 @@ title: "Dark Lord (demo version)"
 **ID:** dark-lord-demo
 
 
+**Жанри:** Пригодницька
+
 ## Примітка
 
 Demo of a cancelled game
@@ -28,10 +30,26 @@ Demo of a cancelled game
 <img src="screens/scrn_dark-lord-demo_03.png" width="24%">
 <img src="screens/scrn_dark-lord-demo_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dark-lord-demo" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dark Lord (demo version)</a>
+
+
+## Основна інформація
+- **Мови:** Угорська
+- **Оригінальна платформа:** Enterprise
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Автор:** Endre Baráth (Endi)
+
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Dark_Lord.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dark-lord-demo/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dark_Lord.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dark_lord.rar)
 
 
 ## Відео

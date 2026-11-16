@@ -18,20 +18,37 @@ title: "Dan Dare III: The Escape"
 **ID:** dan-dare3-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_dan-dare3-zx_01.png" width="24%">
 <img src="screens/scrn_dan-dare3-zx_02.png" width="24%">
 <img src="screens/scrn_dan-dare3-zx_03.png" width="24%">
 <img src="screens/scrn_dan-dare3-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dan-dare-3" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dan Dare III: The Escape</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Dan_Dare_3.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dan-dare-3/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1241/ZX-Spectrum/Dan_Dare_III_The_Escape)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/DanDare3.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dandare3.rar)
 
 

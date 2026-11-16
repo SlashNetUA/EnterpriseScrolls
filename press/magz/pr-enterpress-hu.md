@@ -319,5 +319,9 @@ title: Журнал «Enterpress»
     <img src="enterpress-hu/2026-09-10/epress_2026-09-10_01.jpg" width="24%">
     <div class="title">Enterpress #5</div></a>
   </div>
+  <div class="tile"><a href="enterpress-hu/enterpress-2026-11-12.html">
+    <img src="enterpress-hu/2026-11-12/epress_2026-11-12_01.jpg" width="24%">
+    <div class="title">Enterpress #6</div></a>
+  </div>
 </div>
 

@@ -21,20 +21,37 @@ title: "Duet"
 **ID:** duet-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_duet-zx_01.png" width="24%">
 <img src="screens/scrn_duet-zx_02.png" width="24%">
 <img src="screens/scrn_duet-zx_03.png" width="24%">
 <img src="screens/scrn_duet-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=duet" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Duet</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Duet.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/duet/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1534/ZX-Spectrum/Duet)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Duet.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/duet.rar)
 
 

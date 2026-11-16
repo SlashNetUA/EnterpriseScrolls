@@ -30,6 +30,17 @@ title: "Dot Collector"
 <img src="screens/scrn_dot-collector_03.png" width="24%">
 <img src="screens/scrn_dot-collector_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dot-collector&v=mod-dotcol2-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dot Collector (Custom levels 2 TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dot-collector&v=mod-dotcol2-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dot Collector (Custom levels 2)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dot-collector&v=mod-dotcol3-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dot Collector (Custom levels 3 TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dot-collector&v=mod-dotcol3-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dot Collector (Custom levels 3)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dot-collector&v=mod-dotcol4-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dot Collector (Custom levels 4 TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dot-collector&v=mod-dotcol4-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dot Collector (Custom levels 4)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dot-collector&v=dotcolle-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dot Collector (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dot-collector&v=dotcolle-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dot Collector</a>
+
 
 ## Опис
 
@@ -54,7 +65,9 @@ title: "Dot Collector"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Dot_Games.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dot-collector/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dot_Games.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dot_collector.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/8) *(Telegram-канал Vibrant Waves)*
 
 

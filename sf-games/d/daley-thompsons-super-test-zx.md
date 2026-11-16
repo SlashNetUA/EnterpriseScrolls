@@ -21,20 +21,36 @@ title: "Daley Thompson's Supertest"
 **ID:** daley-thompsons-super-test-zx
 
 
+**Жанри:** Спортивна
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_daley-thompsons-super-test-zx_01.png" width="24%">
 <img src="screens/scrn_daley-thompsons-super-test-zx_02.png" width="24%">
 <img src="screens/scrn_daley-thompsons-super-test-zx_03.png" width="24%">
 <img src="screens/scrn_daley-thompsons-super-test-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=daley-thompsons-super-test&v=daley-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Daley Thompson's Supertest (Part 1)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=daley-thompsons-super-test&v=daley2-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Daley Thompson's Supertest (Part 2)</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Daley_Thompsons_SuperTest.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/daley-thompsons-super-test/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1222)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Daley_Thompsons_Super_Test.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/daley_thompsons_super_test.rar)
 
 

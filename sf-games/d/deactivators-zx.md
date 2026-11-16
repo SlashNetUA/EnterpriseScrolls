@@ -18,19 +18,36 @@ title: "Deactivators"
 **ID:** deactivators-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_deactivators-zx_01.png" width="24%">
 <img src="screens/scrn_deactivators-zx_02.png" width="24%">
 <img src="screens/scrn_deactivators-zx_03.png" width="24%">
 <img src="screens/scrn_deactivators-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=deactivators" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Deactivators</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/deactivators/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1278/ZX-Spectrum/Deactivators)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Deactivators.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/deactivators.rar)
 
 

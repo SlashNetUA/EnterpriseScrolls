@@ -18,23 +18,41 @@ title: "Dungeon Adventure"
 **ID:** dungeon-adv
 
 
+**Жанри:** Текстова пригода
+
 ## Примітка
 
-﻿⚠ IS-Basic interpreter is required to run this game.
+⚠ IS-Basic interpreter is required to run this game.
+Official release
 
 ## Скріншоти
 <img src="screens/scrn_dungeon-adv_01.png" width="24%">
 <img src="screens/scrn_dungeon-adv_02.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dungeon-adventure" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dungeon Adventure</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic
+### Геймплей
+- **Керування:** Keyboard
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Text40 mode
+### Розробка
+- **Рік випуску:** 1984
+- **Компанія:** Level 9 Computing
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dungeon-adventure/)
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,160/Dungeon+Adventure.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dungeon_Adventure.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dungeon_adventure.rar)
 
 

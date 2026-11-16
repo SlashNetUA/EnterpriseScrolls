@@ -20,12 +20,19 @@ title: "Dynatron Mission"
 
 **Жанри:** Екшн
 
+## Примітка
+
+Unofficial conversion
 
 ## Скріншоти
 <img src="screens/scrn_dynatron-mission-zx_01.png" width="24%">
 <img src="screens/scrn_dynatron-mission-zx_02.png" width="24%">
 <img src="screens/scrn_dynatron-mission-zx_03.png" width="24%">
 <img src="screens/scrn_dynatron-mission-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dynatron-mission" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dynatron Mission</a>
 
 
 ## Основна інформація
@@ -35,13 +42,16 @@ title: "Dynatron Mission"
 - **Апаратні:** EP128
 ### Геймплей
 - **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
 ### Розробка
 - **Рік випуску:** 1987
 - **Автор:** Paul Hargreaves
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dynatron-mission/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1559/ZX-Spectrum/Dynatron_Mission)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dynatron.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dynatron.rar)
 
 

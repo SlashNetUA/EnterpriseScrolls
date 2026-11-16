@@ -30,6 +30,11 @@ title: "DIA TanX!!"
 <img src="screens/scrn_diatanx-agd_03.png" width="24%">
 <img src="screens/scrn_diatanx-agd_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=diatanx&v=dtanxep-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">DIA TanX!! (EP)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=diatanx&v=dtanxzx-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">DIA TanX!! (ZX)</a>
+
 
 ## Опис
 
@@ -87,8 +92,10 @@ title: "DIA TanX!!"
 
 ## Посилання
 - [Домашня сторінка](https://ktbproductions.itch.io/enterprise-games)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/diatanx/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/44412/ZX-Spectrum/DiaTanX)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/DiaTanX.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/diatanx.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/939) *(Telegram-канал Vibrant Waves)*
 
 

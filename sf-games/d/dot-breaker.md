@@ -30,6 +30,12 @@ title: "Dot Breaker"
 <img src="screens/scrn_dot-breaker_03.png" width="24%">
 <img src="screens/scrn_dot-breaker_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dot-breaker&v=dot-breaker-mod" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dot Breaker (Custom levels)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dot-breaker&v=dot-breaker-dotbreak-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dot Breaker (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dot-breaker&v=dot-breaker-dotbreak-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dot Breaker</a>
+
 
 ## Опис
 
@@ -41,7 +47,6 @@ title: "Dot Breaker"
 - **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
-- **Програмні:** EXOS 2.1
 ### Геймплей
 - **Керування:** Internal Joy, External Joy 1*
 - **Кількість гравців:** 1 player
@@ -54,6 +59,9 @@ title: "Dot Breaker"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Dot_Games.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dot-breaker/)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dot_breaker.zip)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dot_breaker_ep64.zip)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dot_Games.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/266) *(Telegram-канал Vibrant Waves)*
 

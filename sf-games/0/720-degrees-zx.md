@@ -35,9 +35,9 @@ title: "720 Degrees"
 
 ## Запустити у web-емуляторі
 
-<a href="https://epemu.enterpriseforever.com/web/?start=720-degrees&v=720-degrees-zozosoft" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">720 Degrees</a>
-<a href="https://epemu.enterpriseforever.com/web/?start=720-degrees&v=720-degrees" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">720 Degrees</a>
-<a href="https://epemu.enterpriseforever.com/web/?start=720-degrees&v=ep64" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">720 Degrees</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=720-degrees&v=720-degrees-zozosoft" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">720 Degrees (128 Zozosoft)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=720-degrees&v=720-degrees" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">720 Degrees (128)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=720-degrees&v=ep64" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">720 Degrees (64)</a>
 
 
 ## Основна інформація

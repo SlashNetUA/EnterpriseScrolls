@@ -18,20 +18,38 @@ title: "Dark Side"
 **ID:** dark-side-cpc
 
 
+**Жанри:** Пригодницька, від першої особи
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_dark-side-cpc_01.png" width="24%">
 <img src="screens/scrn_dark-side-cpc_02.png" width="24%">
 <img src="screens/scrn_dark-side-cpc_03.png" width="24%">
 <img src="screens/scrn_dark-side-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dark-side" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dark Side</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 4-color mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Dark_Side.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dark-side/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=675)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dark_Side_CPC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dark_side_cpc.rar)
 
 

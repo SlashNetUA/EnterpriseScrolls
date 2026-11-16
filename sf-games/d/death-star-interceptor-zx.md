@@ -18,20 +18,37 @@ title: "Death Star Interceptor"
 **ID:** death-star-interceptor-zx
 
 
+**Жанри:** Екшн, Скролшутер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_death-star-interceptor-zx_01.png" width="24%">
 <img src="screens/scrn_death-star-interceptor-zx_02.png" width="24%">
 <img src="screens/scrn_death-star-interceptor-zx_03.png" width="24%">
 <img src="screens/scrn_death-star-interceptor-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=death-star-interceptor&v=bright" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Death Star Interceptor (Bright)</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1985
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Death_Star_Interceptor.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/death-star-interceptor/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1295/ZX-Spectrum/Death_Star_Interceptor)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Death_Star_Interceptor.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/death_star_interceptor.rar)
 
 

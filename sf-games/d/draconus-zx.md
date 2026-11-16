@@ -18,20 +18,38 @@ title: "Draconus"
 **ID:** draconus-zx
 
 
+**Жанри:** Пригодницька, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_draconus-zx_01.png" width="24%">
 <img src="screens/scrn_draconus-zx_02.png" width="24%">
 <img src="screens/scrn_draconus-zx_03.png" width="24%">
 <img src="screens/scrn_draconus-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=draconus" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Draconus</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Draconus.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/draconus/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1484/ZX-Spectrum/Draconus)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Draconus.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/draconus.rar)
 
 

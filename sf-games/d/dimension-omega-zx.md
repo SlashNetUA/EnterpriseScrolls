@@ -21,19 +21,37 @@ title: "Dimension Omega"
 **ID:** dimension-omega-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_dimension-omega-zx_01.png" width="24%">
 <img src="screens/scrn_dimension-omega-zx_02.png" width="24%">
 <img src="screens/scrn_dimension-omega-zx_03.png" width="24%">
 <img src="screens/scrn_dimension-omega-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=dimension-omega&v=omega1-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dimension Omega (Part 1)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=dimension-omega&v=omega2-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Dimension Omega (Part 2)</a>
+
 
 ## Основна інформація
+- **Мови:** Іспанська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1989
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/dimension-omega/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1395/ZX-Spectrum/Omega_Dimension)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Dimension_Omega.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/dimension_omega.rar)
 
 
