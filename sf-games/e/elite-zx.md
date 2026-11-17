@@ -18,11 +18,21 @@ title: "Elite"
 **ID:** elite-zx
 
 
+**Жанри:** Симулятор, від першої особи, Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_elite-zx_01.png" width="24%">
 <img src="screens/scrn_elite-zx_02.png" width="24%">
 <img src="screens/scrn_elite-zx_03.png" width="24%">
 <img src="screens/scrn_elite-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=elite&v=elite-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Elite</a>
 
 
 ## Опис
@@ -76,13 +86,21 @@ title: "Elite"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode, Wireframe
+### Розробка
+- **Рік випуску:** 1984
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Elite.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/elite/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1601/ZX-Spectrum/Elite)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Elite.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/elite.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/426) *(Telegram-канал Vibrant Waves)*
 
 

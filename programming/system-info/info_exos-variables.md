@@ -84,25 +84,17 @@ title: EXOS variables
 89 [DCH_DIS](exos-variables/exos_var89.md)  
 90 [FAST_VID](exos-variables/exos_var90.md)  
 91 [CD_PROMPT](exos-variables/exos_var91.md)  
-92  
-93  
-94  
-95  
-96  
-97  
-98  
-99  
 
 ## EXDOS 3.0
 
-90 [Drive A: type](exos-variables/exos_var92-95_exdos30.md.md)  
-91 [Drive B: type](exos-variables/exos_var92-95_exdos30.md.md)  
-92 [Drive C: type](exos-variables/exos_var92-95_exdos30.md.md)  
-93 [Drive D: type](exos-variables/exos_var92-95_exdos30.md.md)  
-94 [Drive A: clock](exos-variables/exos_var96-99_exdos30.md.md)  
-95 [Drive B: clock](exos-variables/exos_var96-99_exdos30.md.md)  
-96 [Drive C: clock](exos-variables/exos_var96-99_exdos30.md.md)  
-97 [Drive D: clock](exos-variables/exos_var96-99_exdos30.md.md)  
+92 [Drive A: type](exos-variables/exos_var92-95_exdos30.md)  
+93 [Drive B: type](exos-variables/exos_var92-95_exdos30.md)  
+94 [Drive C: type](exos-variables/exos_var92-95_exdos30.md)  
+95 [Drive D: type](exos-variables/exos_var92-95_exdos30.md)  
+96 [Drive A: clock](exos-variables/exos_var96-99_exdos30.md)  
+97 [Drive B: clock](exos-variables/exos_var96-99_exdos30.md)  
+98 [Drive C: clock](exos-variables/exos_var96-99_exdos30.md)  
+99 [Drive D: clock](exos-variables/exos_var96-99_exdos30.md)  
 
 ## MODEM / ENTERCOM
 
@@ -186,7 +178,32 @@ title: EXOS variables
 
 ## EPDOS 2.x
 
-192-211  
+**192** Номер сегмента SRAM (7)  
+**193** Номер ТЕСТу (0,5-8)  
+**194** Номер каналу клавіатури BAT  
+**195** Виведення помилок BAT (0 = увімк.)   
+**196** Помилка BAT / остання команда EXOS  
+**197** Отримання BAT / останній код клавіші  
+**198** Флаг BAT / b7 = продовжити, b6 = заборона холодного запуску та ініціалізації  
+**199** @ відеорежим (0,2)  
+**200** @ буфер редактора (0-63)  
+**201** Початкове значення змінної CA для INTER /A при холодному запуску.  
+**202** INTER'
+
+ - b7 = 1 Звичайна система переривань EXOS.
+ - b6 = 1 У системі немає картки миші. (відключення драйвера миші)
+ - b5-3 Дозвіл ASCII-коду руху миші. 7 = чутливий, 0 = заборона
+ - b0-2 Дозвіл ASCII-коду кнопок миші.
+
+**203** ASCII-код правої кнопки миші.  
+**204** ASCII-код середньої кнопки миші.  
+**205** ASCII-код лівої кнопки миші.  
+**206** 2-й рядок стану (0 = увімк.)  
+**207** CLOCK (b7 = вимк., b0 = 0 пам'ять, b0 = 1 сегменти сторінок)  
+**208** Захист від вигорання екрана (кількість хвилин, 0=вимк.) Досягнувши нуля, згенерує команду EF, де зараз розміщена команда BEEG!  
+**209** Режим друку. У разі 0 друк здійснюється з переривання 1 кГц. Це не знижує швидкість друку, але скорочує час виконання рутини друку, і компілятор/комп'ютер можна швидше залучити до іншої роботи. У разі 255 дані надсилаються негайно, але через час очікування машина завершує завдання пізніше.  
+**210** Задання типу миші (0 = PC, 255 = MS)  
+**211** Зменшення чутливості миші: (0=швидко) EPDOS 2.1 не використовує, зберігає виключно для програм із підтримкою «миші». Змінна вказує, скільки разів потрібно зсунути вправо (поділити на 2) значення X-Y миші. 
 
 ## Enterprise Plus
 

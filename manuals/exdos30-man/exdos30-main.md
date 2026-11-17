@@ -135,14 +135,14 @@ EXDOS 3 підтримує ці формати через нові змінні 
 
 Нові змінні EXOS:
 
-- [EXOS VAR 92](../../programming/system-info/exos-variables/exos_var92-95_exdos30.md.md): Тип дисковода A:
-- [EXOS VAR 93](../../programming/system-info/exos-variables/exos_var92-95_exdos30.md.md): Тип дисковода B:
-- [EXOS VAR 94](../../programming/system-info/exos-variables/exos_var92-95_exdos30.md.md): Тип дисковода C:
-- [EXOS VAR 95](../../programming/system-info/exos-variables/exos_var92-95_exdos30.md.md): Тип дисковода D:
-- [EXOS VAR 96](../../programming/system-info/exos-variables/exos_var96-99_exdos30.md.md): Налаштування турбо для дисковода A:
-- [EXOS VAR 97](../../programming/system-info/exos-variables/exos_var96-99_exdos30.md.md): Налаштування турбо для дисковода B:
-- [EXOS VAR 98](../../programming/system-info/exos-variables/exos_var96-99_exdos30.md.md): Налаштування турбо для дисковода C:
-- [EXOS VAR 99](../../programming/system-info/exos-variables/exos_var96-99_exdos30.md.md): Налаштування турбо для дисковода D:
+- [EXOS VAR 92](../../programming/system-info/exos-variables/exos_var92-95_exdos30.md): Тип дисковода A:
+- [EXOS VAR 93](../../programming/system-info/exos-variables/exos_var92-95_exdos30.md): Тип дисковода B:
+- [EXOS VAR 94](../../programming/system-info/exos-variables/exos_var92-95_exdos30.md): Тип дисковода C:
+- [EXOS VAR 95](../../programming/system-info/exos-variables/exos_var92-95_exdos30.md): Тип дисковода D:
+- [EXOS VAR 96](../../programming/system-info/exos-variables/exos_var96-99_exdos30.md): Налаштування турбо для дисковода A:
+- [EXOS VAR 97](../../programming/system-info/exos-variables/exos_var96-99_exdos30.md): Налаштування турбо для дисковода B:
+- [EXOS VAR 98](../../programming/system-info/exos-variables/exos_var96-99_exdos30.md): Налаштування турбо для дисковода C:
+- [EXOS VAR 99](../../programming/system-info/exos-variables/exos_var96-99_exdos30.md): Налаштування турбо для дисковода D:
 
 Ці змінні EXOS зберігаються в енергонезалежній пам'яті з живленням від батарейки, якщо система знаходить годинник реального часу (RTC) (див. нижче), тож налаштування дисководів зберігаються і після вимкнення живлення.
 

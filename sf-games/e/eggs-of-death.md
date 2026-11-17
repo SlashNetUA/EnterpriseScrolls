@@ -18,11 +18,22 @@ title: "Eggs of Death"
 **ID:** eggs-of-death
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_eggs-of-death_01.png" width="24%">
 <img src="screens/scrn_eggs-of-death_02.png" width="24%">
 <img src="screens/scrn_eggs-of-death_03.png" width="24%">
 <img src="screens/scrn_eggs-of-death_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=eggs-of-death&v=v1" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Eggs of Death (v1)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=eggs-of-death&v=v2" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Eggs of Death (v2)</a>
 
 
 ## Опис
@@ -55,13 +66,22 @@ title: "Eggs of Death"
 
 
 ## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Додаткові теги:** 16-color mode
+### Розробка
+- **Рік випуску:** 1986
+- **Компанія:** 'á'-Studió
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Eggs_of_Death.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/eggs-of-death/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Eggs_of_Death.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/eggs_of_death.rar)
 
 
 ## Відео

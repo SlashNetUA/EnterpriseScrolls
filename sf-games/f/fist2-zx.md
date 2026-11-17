@@ -18,6 +18,12 @@ title: "Fist II: The Legend Continues"
 **ID:** fist2-zx
 
 
+**Жанри:** Драка
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_fist2-zx_01.png" width="24%">
 <img src="screens/scrn_fist2-zx_02.png" width="24%">
@@ -26,11 +32,20 @@ title: "Fist II: The Legend Continues"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player, 2 players (versus)
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Exploding_Fist_2.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/exploding-fist-2/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5644/ZX-Spectrum/Fist_II_The_Legend_Continues)
+- [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Exploding_Fist_2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/exploding_fist_2.rar)
 
 

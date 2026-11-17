@@ -21,11 +21,21 @@ title: "The Way of the Exploding Fist"
 **ID:** way-of-the-exploding-fist-zx
 
 
+**Жанри:** Драка
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_way-of-the-exploding-fist-zx_01.png" width="24%">
 <img src="screens/scrn_way-of-the-exploding-fist-zx_02.png" width="24%">
 <img src="screens/scrn_way-of-the-exploding-fist-zx_03.png" width="24%">
 <img src="screens/scrn_way-of-the-exploding-fist-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=exploding-fist&v=exploding-fist" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The Way of the Exploding Fist</a>
 
 
 ## Опис
@@ -49,12 +59,20 @@ Exploding Fist – це одна з найвідоміших ігор у жан�
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player, 2 players (versus)
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1985
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Exploding_Fist.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/exploding-fist/#exploding-fist-zx-spectrum)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5643/ZX-Spectrum/The_Way_of_the_Exploding_Fist)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Exploding_Fist.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/exploding_fist.rar)
 
 

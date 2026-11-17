@@ -18,22 +18,38 @@ title: "Exorcist"
 **ID:** exorcist-c16
 
 
+**Жанри:** Аркада
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_exorcist-c16_01.png" width="24%">
 <img src="screens/scrn_exorcist-c16_02.png" width="24%">
 <img src="screens/scrn_exorcist-c16_03.png" width="24%">
 <img src="screens/scrn_exorcist-c16_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=exorcist&v=exorc128-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Exorcist (128)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=exorcist&v=exorcist-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Exorcist (64)</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Commodore 16-Plus/4
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Додаткові теги:** Attribute mode
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Exorcist.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/exorcist/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Exorcist.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/exorcist.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/303?single) *(Telegram-канал Vibrant Waves)*
 
 

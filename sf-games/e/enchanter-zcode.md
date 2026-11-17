@@ -30,6 +30,10 @@ title: "Enchanter"
 <img src="screens/scrn_enchanter-zcode_03.png" width="24%">
 <img src="screens/scrn_enchanter-zcode_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=enchanter" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Enchanter</a>
+
 
 ## Опис
 
@@ -55,8 +59,10 @@ title: "Enchanter"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/enchanter/)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C177/Enchanter.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Enchanter.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/enchanter.rar)
 
 
 ## [Керування](../controllers.md)

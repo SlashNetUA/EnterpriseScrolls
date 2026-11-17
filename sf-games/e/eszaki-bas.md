@@ -18,13 +18,30 @@ title: "Az Eszaki"
 **ID:** eszaki-bas
 
 
+**Жанри:** Текстова пригода
+
+
 ## Скріншоти
 <img src="screens/scrn_eszaki-bas_01.png" width="24%">
 <img src="screens/scrn_eszaki-bas_02.png" width="24%">
 <img src="screens/scrn_eszaki-bas_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=az-eszaki" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Az Eszaki</a>
+
+
+## Основна інформація
+- **Мови:** Угорська
+- **Оригінальна платформа:** Enterprise
+### Геймплей
+- **Керування:** Keyboard
+- **Кількість гравців:** 1 player
+
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/az-eszaki/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Eszaki.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/eszaki.rar)
 
 

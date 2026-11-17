@@ -18,11 +18,23 @@ title: "Enterball"
 **ID:** enterball
 
 
+**Жанри:** Арканоідо-подібна
+
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_enterball_01.png" width="24%">
 <img src="screens/scrn_enterball_02.png" width="24%">
 <img src="screens/scrn_enterball_03.png" width="24%">
 <img src="screens/scrn_enterball_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=enterball&v=a-studio" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Enterball (a-Studio)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=enterball&v=nasaguy" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Enterball (Nasa-Guy)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=enterball&v=zozosoft" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Enterball (Zozosoft)</a>
 
 
 ## Опис
@@ -78,13 +90,23 @@ Enterball — це гра, яка забезпечує тривалі годин
 
 
 ## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
+- **Компанія:** 'á'-Studió
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Enter_Ball.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/enterball/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Enterball.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/enterball.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/288) *(Telegram-канал Vibrant Waves)*
 
 

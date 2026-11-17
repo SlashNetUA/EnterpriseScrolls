@@ -18,11 +18,21 @@ title: "Earth Defense"
 **ID:** earth-defense
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Homebrew
+
 ## Скріншоти
 <img src="screens/scrn_earth-defense_01.png" width="24%">
 <img src="screens/scrn_earth-defense_02.png" width="24%">
 <img src="screens/scrn_earth-defense_03.png" width="24%">
 <img src="screens/scrn_earth-defense_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=earth-defense" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Earth Defense</a>
 
 
 ## Опис
@@ -45,8 +55,20 @@ title: "Earth Defense"
 Гра "Захист Землі" є простою, але захоплюючою, ідеально підходить для тих, хто любить класичні аркадні ігри. Випробуйте свої навички та спробуйте врятувати Землю від знищення!
 
 
+## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
+### Геймплей
+- **Додаткові теги:** Text40 mode
+### Розробка
+- **Рік випуску:** 1991
+- **Автор:** Tamás Richter (Moonlight)
+
+
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Earth_Defense.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/earth-defense/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Earth_Defense.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/earth_defense.rar)
 
 

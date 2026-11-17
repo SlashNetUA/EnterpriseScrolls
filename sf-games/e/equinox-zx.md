@@ -18,11 +18,22 @@ title: "Equinox"
 **ID:** equinox-zx
 
 
+**Жанри:** Платформер, Лабіринт
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_equinox-zx_01.png" width="24%">
 <img src="screens/scrn_equinox-zx_02.png" width="24%">
 <img src="screens/scrn_equinox-zx_03.png" width="24%">
 <img src="screens/scrn_equinox-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=equinox&v=attus" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Equinox (Attus)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=equinox" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Equinox (Zozosoft)</a>
 
 
 ## Опис
@@ -73,12 +84,19 @@ Equinox — це гра, яка, незважаючи на свою високу
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Equinox.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/equinox/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1637/ZX-Spectrum/Equinox)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Equinox.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/equinox.rar)
 
 

@@ -18,11 +18,22 @@ title: "Eddie the Exterminator"
 **ID:** eddie-the-exterminator-bas
 
 
+**Жанри:** Аркада
+
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_eddie-the-exterminator-bas_01.png" width="24%">
 <img src="screens/scrn_eddie-the-exterminator-bas_02.png" width="24%">
 <img src="screens/scrn_eddie-the-exterminator-bas_03.png" width="24%">
 <img src="screens/scrn_eddie-the-exterminator-bas_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=eddie-the-exterminator&v=original" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Eddie the Exterminator (Original)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=eddie-the-exterminator&v=zzzip" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Eddie the Exterminator (Zzziped version)</a>
 
 
 ## Опис
@@ -50,9 +61,15 @@ Eddie the Exterminator — це аркадна гра, випущена комп
 
 
 ## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic
+### Геймплей
+- **Керування:** Internal Joy, External Joy 1
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
 ### Розробка
 - **Рік випуску:** 1984
 - **Компанія:** Entersoft
@@ -60,6 +77,8 @@ Eddie the Exterminator — це аркадна гра, випущена комп
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Eddie_the_Exterminator.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/eddie-the-exterminator/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Eddie_the_Exterminator.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/eddie_the_exterminator.rar)
 
 

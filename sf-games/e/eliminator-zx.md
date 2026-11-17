@@ -18,11 +18,21 @@ title: "Eliminator"
 **ID:** eliminator-zx
 
 
+**Жанри:** Скролшутер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_eliminator-zx_01.png" width="24%">
 <img src="screens/scrn_eliminator-zx_02.png" width="24%">
 <img src="screens/scrn_eliminator-zx_03.png" width="24%">
 <img src="screens/scrn_eliminator-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=eliminator" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Eliminator</a>
 
 
 ## Опис
@@ -57,12 +67,19 @@ title: "Eliminator"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Eliminator.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/eliminator/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1599/ZX-Spectrum/Eliminator)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Eliminator.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/eliminator.rar)
 
 

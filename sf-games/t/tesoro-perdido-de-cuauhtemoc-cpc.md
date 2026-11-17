@@ -18,11 +18,21 @@ title: "El Tesoro Perdido de Cuauhtemoc"
 **ID:** tesoro-perdido-de-cuauhtemoc-cpc
 
 
+**Жанри:** Аркада, Платформер
+
+## Примітка
+
+Approved conversion
+
 ## Скріншоти
 <img src="screens/scrn_tesoro-perdido-de-cuauhtemoc-cpc_01.png" width="24%">
 <img src="screens/scrn_tesoro-perdido-de-cuauhtemoc-cpc_02.png" width="24%">
 <img src="screens/scrn_tesoro-perdido-de-cuauhtemoc-cpc_03.png" width="24%">
 <img src="screens/scrn_tesoro-perdido-de-cuauhtemoc-cpc_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=el-tesoro-perdido-de-cuauhtemoc" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">El Tesoro Perdido de Cuauhtemoc</a>
 
 
 ## Опис
@@ -46,14 +56,23 @@ title: "El Tesoro Perdido de Cuauhtemoc"
 
 
 ## Основна інформація
+- **Мови:** Іспанська
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 16-color mode
+### Розробка
+- **Рік випуску:** 2017
+- **Компанія:** 4Mhz
 
 
 ## Посилання
 - [Домашня сторінка](https://www.4mhz.es/el-tesoro-perdido-de-cuauhtemoc/)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/El_Tesoro_Perdido_De_Cuauhtemoc.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/el-tesoro-perdido-de-cuauhtemoc/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=14207)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/El_Tesoro_Perdido_De_Cuauhtemoc.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/el_tesoro_perdido_de_cuauhtemoc.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/281) *(Telegram-канал Vibrant Waves)*
 
 

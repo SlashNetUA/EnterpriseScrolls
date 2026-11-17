@@ -18,11 +18,21 @@ title: "Enter-Stack"
 **ID:** enterstack
 
 
+**Жанри:** Тетрісо-подібна
+
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_enterstack_01.png" width="24%">
 <img src="screens/scrn_enterstack_02.png" width="24%">
 <img src="screens/scrn_enterstack_03.png" width="24%">
 <img src="screens/scrn_enterstack_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=enter-stack" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Enter-Stack</a>
 
 
 ## Опис
@@ -63,10 +73,20 @@ Enter-Stack - це захоплююча ігрова пригода, яка пе
 
 ## Основна інформація
 - **Мови:** Угорська, Англійська
+- **Оригінальна платформа:** Enterprise
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1986, 1987
+- **Автор:** Szabo Gabor
+- **Компанія:** 'á'-Studió
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Enter_Stack.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/enter-stack/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/EnterStack.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/enterstack.rar)
 
 

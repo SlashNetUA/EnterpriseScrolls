@@ -22,4 +22,4 @@ format that works.
 [^1]: Note that some older non-PC drives use pin **1** to reset the disk change signal so **F** must be `0` for these drives.
 
 
-See also [drive type](exos_var92-95_exdos30.md.md).  
+See also [drive type](exos_var92-95_exdos30.md).  

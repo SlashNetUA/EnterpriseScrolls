@@ -21,19 +21,34 @@ title: "Eden Blues"
 **ID:** eden-blues-cpc
 
 
+**Жанри:** Аркада, Пригодницька
+
+## Примітка
+
+Semi-official conversion
+
 ## Скріншоти
 <img src="screens/scrn_eden-blues-cpc_01.png" width="24%">
 <img src="screens/scrn_eden-blues-cpc_02.png" width="24%">
 <img src="screens/scrn_eden-blues-cpc_03.png" width="24%">
 <img src="screens/scrn_eden-blues-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=eden-blues" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Eden Blues</a>
+
 
 ## Основна інформація
+- **Мови:** Угорська
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Додаткові теги:** 4-color mode
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/eden-blues/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=744)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Eden_Blues.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/eden_blues.rar)
 
 

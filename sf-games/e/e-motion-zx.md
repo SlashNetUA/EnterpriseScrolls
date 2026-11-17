@@ -18,19 +18,36 @@ title: "E-motion"
 **ID:** e-motion-zx
 
 
+**Жанри:** Логічна
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_e-motion-zx_01.png" width="24%">
 <img src="screens/scrn_e-motion-zx_02.png" width="24%">
 <img src="screens/scrn_e-motion-zx_03.png" width="24%">
 <img src="screens/scrn_e-motion-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=e-motion" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">E-motion</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/e-motion/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1617/ZX-Spectrum/E-motion)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/E-Motion.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/e-motion.rar)
 
 

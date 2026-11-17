@@ -22,16 +22,22 @@ title: "Emerald Isle"
 
 ## Примітка
 
-﻿⚠ IS-Basic interpreter is required to run this game.
+⚠ IS-Basic interpreter is required to run this game.
+Official release
 
 ## Скріншоти
 <img src="screens/scrn_emerald-isle_01.png" width="24%">
 <img src="screens/scrn_emerald-isle_02.png" width="24%">
 <img src="screens/scrn_emerald-isle_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=emerald-isle" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Emerald Isle</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic
@@ -42,11 +48,13 @@ title: "Emerald Isle"
 ### Розробка
 - **Рік випуску:** 1985
 - **Автор:** Pete Austin, Shaun D. Abbott
-- **Компанія:** Level 9
+- **Компанія:** Level 9 Computing
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/emerald-isle/)
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,172/Emerald+Isle.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Emerald_Isle.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/emerald_isle.rar)
 
 

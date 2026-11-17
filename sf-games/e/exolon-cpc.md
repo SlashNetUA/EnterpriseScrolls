@@ -18,22 +18,43 @@ title: "Exolon"
 **ID:** exolon-cpc
 
 
+**Жанри:** Екшн, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_exolon-cpc_01.png" width="24%">
 <img src="screens/scrn_exolon-cpc_02.png" width="24%">
 <img src="screens/scrn_exolon-cpc_03.png" width="24%">
 <img src="screens/scrn_exolon-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=exolon&v=cpc-bias-17-25-exolon17-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Exolon (BIAS 17)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=exolon&v=cpc-bias-21-no-flash" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Exolon (BIAS 21)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=exolon&v=cpc-bias-17-25-exolon25-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Exolon (BIAS 25)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=exolon&v=cpc-bias-9" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Exolon (BIAS 9)</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 16-color mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Exolon.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/exolon/#exolon-amstrad-cpc)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/cpc-rl/exolon/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=54)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Exolon_cpc.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/exolon_cpc.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/310) *(Telegram-канал Vibrant Waves)*
 
 

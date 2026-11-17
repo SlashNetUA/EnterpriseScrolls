@@ -18,11 +18,21 @@ title: "Eat it Up"
 **ID:** eat-it-up
 
 
+**Жанри:** Аркада, Pacman-подібна
+
+## Примітка
+
+Homebrew
+
 ## Скріншоти
 <img src="screens/scrn_eat-it-up_01.png" width="24%">
 <img src="screens/scrn_eat-it-up_02.png" width="24%">
 <img src="screens/scrn_eat-it-up_03.png" width="24%">
 <img src="screens/scrn_eat-it-up_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=eat-it-up" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Eat it Up</a>
 
 
 ## Опис
@@ -59,13 +69,22 @@ title: "Eat it Up"
 
 
 ## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Додаткові теги:** SpeakEasy, Attribute mode
+### Розробка
+- **Рік випуску:** 1989
+- **Автор:** Anders Nielsen
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Eat_it_Up.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/eat-it-up/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Eat_it_Up.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/eat_it_up.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/277) *(Telegram-канал Vibrant Waves)*
 
 

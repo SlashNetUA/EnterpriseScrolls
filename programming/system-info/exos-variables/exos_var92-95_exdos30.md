@@ -27,4 +27,4 @@ When an overclocked EXDOS card is being used EXDOS 3 reduces the clock rate back
 [^2]: Note that older non-PC-compatible drives use pin **34** for **/RDY**, which previous versions of EXDOS required. EXDOS 3 does not need **/RDY**, but **P** must be `0` for these drives or EXDOS 3 could constantly and incorrectly think the disk has changed when it has not.
 
 
-See also [drive clock](exos_var96-99_exdos30.md.md).  
+See also [drive clock](exos_var96-99_exdos30.md).  

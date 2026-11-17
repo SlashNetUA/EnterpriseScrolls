@@ -18,22 +18,41 @@ title: "Excalibur: Sword of Kings"
 **ID:** excalibur-sword-of-kings-zx
 
 
+**Жанри:** Текстова пригода
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_excalibur-sword-of-kings-zx_01.png" width="24%">
 <img src="screens/scrn_excalibur-sword-of-kings-zx_02.png" width="24%">
 <img src="screens/scrn_excalibur-sword-of-kings-zx_03.png" width="24%">
 <img src="screens/scrn_excalibur-sword-of-kings-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=excalibur-sword-of-kings" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Excalibur: Sword of Kings</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Керування:** Keyboard
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Excalibur_Sword_of_Kings.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/excalibur-sword-of-kings/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/6272/ZX-Spectrum/Excalibur_Sword_of_Kings)
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,191/Excalibur:+Sword+of+Kings.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Excalibur.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/excalibur.rar)
 
 
 ## Відео
