@@ -1,5 +1,5 @@
 ---
-title: "﻿Five in a Row"
+title: "Five in a Row"
 ---
 
 ﻿[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
@@ -12,7 +12,7 @@ title: "﻿Five in a Row"
 
 ----------
 
-# ﻿Five in a Row
+# Five in a Row
 
 **Альтернативні назви:**
  - Пять в ряд
@@ -21,22 +21,44 @@ title: "﻿Five in a Row"
 **ID:** five-in-a-row-bas
 
 
+**Жанри:** Настільна гра, Стратегія
+
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_five-in-a-row-bas_01.png" width="24%">
 <img src="screens/scrn_five-in-a-row-bas_02.png" width="24%">
 <img src="screens/scrn_five-in-a-row-bas_03.png" width="24%">
 <img src="screens/scrn_five-in-a-row-bas_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=five-in-a-row&v=coloured" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Five in a Row (Alt colors)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=five-in-a-row&v=entermice-mouse-xr" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Five in a Row (Mouse control)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=five-in-a-row&v=entersoft" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Five in a Row (Original)</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська, Угорська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 - **Програмні:** IS-Basic
+### Геймплей
+- **Керування:** Internal Joy, Mouse
+- **Кількість гравців:** 1 player, 2 players (versus)
+### Розробка
+- **Рік випуску:** 1984
+- **Компанія:** Entersoft Ltd.
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Five_in_a_Row.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/five-in-a-row/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Five_in_a_Row.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/five_in_a_row.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/339) *(Telegram-канал Vibrant Waves)*
 
 

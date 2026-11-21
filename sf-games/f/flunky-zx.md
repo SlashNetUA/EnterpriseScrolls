@@ -18,19 +18,37 @@ title: "Flunky"
 **ID:** flunky-zx
 
 
+**Жанри:** Пригодницька
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_flunky-zx_01.png" width="24%">
 <img src="screens/scrn_flunky-zx_02.png" width="24%">
 <img src="screens/scrn_flunky-zx_03.png" width="24%">
 <img src="screens/scrn_flunky-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=flunky" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Flunky</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/flunky/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1809/ZX-Spectrum/Flunky)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Flunky.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/flunky.rar)
 
 

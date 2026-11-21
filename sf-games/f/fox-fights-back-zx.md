@@ -27,6 +27,10 @@ title: "Foxx Fights Back"
 <img src="screens/scrn_fox-fights-back-zx_03.png" width="24%">
 <img src="screens/scrn_fox-fights-back-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=fox-fights-back" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Foxx Fights Back</a>
+
 
 ## Основна інформація
 - **Оригінальна платформа:** ZX Spectrum
@@ -34,7 +38,9 @@ title: "Foxx Fights Back"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Fox_Fights_Back.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/fox-fights-back/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1846/ZX-Spectrum/Foxx_Fights_Back)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Foxback.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/foxback.rar)
 
 

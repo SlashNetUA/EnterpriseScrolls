@@ -18,20 +18,38 @@ title: "Flight Simulation"
 **ID:** flight-simulation-zx
 
 
+**Жанри:** Симулятор
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_flight-simulation-zx_01.png" width="24%">
 <img src="screens/scrn_flight-simulation-zx_02.png" width="24%">
 <img src="screens/scrn_flight-simulation-zx_03.png" width="24%">
 <img src="screens/scrn_flight-simulation-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=flight-simulation&v=attus" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Flight Simulation (Attus)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=flight-simulation" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Flight Simulation</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1982
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Flight_Simulation.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/flight-simulation/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1797/ZX-Spectrum/Flight_Simulation)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Flight_Simulation.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/flight_simulation.rar)
 
 

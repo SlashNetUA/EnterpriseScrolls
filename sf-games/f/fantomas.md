@@ -18,15 +18,37 @@ title: "Fantomas"
 **ID:** fantomas
 
 
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_fantomas_01.png" width="24%">
 <img src="screens/scrn_fantomas_02.png" width="24%">
 <img src="screens/scrn_fantomas_03.png" width="24%">
 <img src="screens/scrn_fantomas_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=fantomas" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Fantomas</a>
+
+
+## Основна інформація
+- **Мови:** Угорська
+- **Оригінальна платформа:** Enterprise
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 2-color mode
+### Розробка
+- **Рік випуску:** 1987
+- **Автор:** Béla Biro, Andrea Csonka
+- **Компанія:** 'á'-Studió
+
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Fantomas.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/fantomas/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Fantomas.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/fantomas.rar)
 
 

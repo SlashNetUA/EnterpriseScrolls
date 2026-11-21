@@ -18,11 +18,18 @@ title: "Frog"
 **ID:** frog-bas
 
 
+**Жанри:** Аркада
+
+
 ## Скріншоти
 <img src="screens/scrn_frog-bas_01.png" width="24%">
 <img src="screens/scrn_frog-bas_02.png" width="24%">
 <img src="screens/scrn_frog-bas_03.png" width="24%">
 <img src="screens/scrn_frog-bas_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=frog" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Frog</a>
 
 
 ## Опис
@@ -44,15 +51,22 @@ title: "Frog"
 
 ## Основна інформація
 - **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Програмні:** IS-Basic
 ### Геймплей
 - **Керування:** Internal Joy, External Joy 1
+- **Кількість гравців:** 1 player
 - **Додаткові теги:** PaintBox images
+### Розробка
+- **Рік випуску:** 1991
+- **Компанія:** GTL Games
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Frog.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/frog/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Frog.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/frog.rar)
 
 

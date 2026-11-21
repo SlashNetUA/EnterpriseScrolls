@@ -30,6 +30,7 @@ title: "Sweevo's Whirled"
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Sweevos_Whirled.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5086/ZX-Spectrum/Sweevos_Whirled)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Sweevos_Whirled.rar)
 

@@ -31,6 +31,10 @@ title: "Fitter"
 <img src="screens/scrn_fitter-tvc_03.png" width="24%">
 <img src="screens/scrn_fitter-tvc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=fitter" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Fitter</a>
+
 
 ## Опис
 
@@ -54,8 +58,10 @@ Fitter - це гра на кмітливість та логіку. Мета г�
 ## Посилання
 - [Домашня сторінка](https://www.doberdobrothers.hu/?page_id=2854)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Fitter.htm)
-- [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Fitter.rar)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/fitter/)
 - [Завантажити](http://doberdobrothers.hu/ep128_files/fitter_ep128.rar)
+- [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Fitter.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/fitter.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/761) *(Telegram-канал Vibrant Waves)*
 
 

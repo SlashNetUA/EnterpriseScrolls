@@ -18,11 +18,21 @@ title: "Fred"
 **ID:** fred-zx
 
 
+**Жанри:** Аркада, Платформер, Лабіринт
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_fred-zx_01.png" width="24%">
 <img src="screens/scrn_fred-zx_02.png" width="24%">
 <img src="screens/scrn_fred-zx_03.png" width="24%">
 <img src="screens/scrn_fred-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=fred&v=fred" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Fred</a>
 
 
 ## Опис
@@ -46,12 +56,20 @@ title: "Fred"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1983
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Fred.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/fred/#fred-zx-spectrum)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1858/ZX-Spectrum/Fred)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Fred.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/fred.rar)
 
 

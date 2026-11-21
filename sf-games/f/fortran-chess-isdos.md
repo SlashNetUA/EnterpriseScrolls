@@ -21,13 +21,31 @@ title: "FORTRAN Chess"
 **ID:** fortran-chess-isdos
 
 
+**Жанри:** Настільна гра, Шахи
+
+
 ## Скріншоти
 <img src="screens/scrn_fortran-chess-isdos_01.png" width="24%">
 <img src="screens/scrn_fortran-chess-isdos_02.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=fortran-chess" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">FORTRAN Chess</a>
+
+
+## Основна інформація
+- **Мови:** Англійська
+### Загальні системні вимоги
+- **Апаратні:** EXDOS
+- **Програмні:** IS-DOS
+### Геймплей
+- **Керування:** Keyboard
+
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Fortran_Chess.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/fortran-chess/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Fortran_Chess.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/fortran_chess.rar)
 
 

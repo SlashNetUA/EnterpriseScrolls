@@ -6,7 +6,7 @@ title: "2dfx: посібник програміста"
 (переклад з угорської)
 
 > [!Примітка]
-> книга базується на прошивці [2dfx](../hardware/hv-2dfx.md) **v1.0.1** та ревізії схеми **v7** (TVC: **v1**)
+> книга базується на прошивці [2dfx](../hardware/hv-2dfx.md) **v1.1.4** та ревізії схеми **v8** (TVC: **v2**)
 
 [Висловлення подяки](2dfx/0_acknowledgement.md)
 
@@ -66,6 +66,9 @@ title: "2dfx: посібник програміста"
 - [EGG_D0 (D0h / 208) – стрес-тест оновлення зображення «TVC»](2dfx/commands/egg_d0.md)
 - [EGG_D1 (D1h / 209) – координати видимої області екрана](2dfx/commands/egg_d1.md)
 - [EGG_D2 (D2h / 210) – анімований 2DPT та демонстрація SET_XY_OFFSET](2dfx/commands/egg_d2.md)
+- [EGG_D2 (D2h / 211) – ](commands/egg_d3.md)
+- [EGG_D2 (D2h / 212) – ](commands/egg_d4.md)
+- [EGG_D2 (D2h / 213) – ](commands/egg_d5.md)
 
 ----
 

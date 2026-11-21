@@ -18,11 +18,21 @@ title: "Fred: Reloaded"
 **ID:** fred-reloaded
 
 
+**Жанри:** Екшн, Платформер, Лабіринт
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_fred-reloaded_01.png" width="24%">
 <img src="screens/scrn_fred-reloaded_02.png" width="24%">
 <img src="screens/scrn_fred-reloaded_03.png" width="24%">
 <img src="screens/scrn_fred-reloaded_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=fred&v=reloaded" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Fred: Reloaded</a>
 
 
 ## Опис
@@ -43,13 +53,21 @@ title: "Fred: Reloaded"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 Amstrad CPC
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 4-color mode, 16-color mode, Attribute mode
+### Розробка
+- **Рік випуску:** 1983, 2022
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Fred.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/fred/#fred-enterprise)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Fred_Reloaded.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/fred_reloaded.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/342) *(Telegram-канал Vibrant Waves)*
 
 

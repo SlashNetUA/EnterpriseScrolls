@@ -20,11 +20,18 @@ title: "Filler"
 
 **Жанри:** Логічна, Стратегія
 
+## Примітка
+
+Official conversion
 
 ## Скріншоти
 <img src="screens/scrn_filler-zx_01.png" width="24%">
 <img src="screens/scrn_filler-zx_02.png" width="24%">
 <img src="screens/scrn_filler-zx_03.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=filler" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Filler</a>
 
 
 ## Основна інформація
@@ -35,12 +42,16 @@ title: "Filler"
 ### Геймплей
 - **Кількість гравців:** 1 player, 2 players (versus)
 - **Додаткові теги:** Gradient colours
+### Розробка
+- **Автор:** goblinish
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Filler.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/filler/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/12842/ZX-Spectrum/Filler)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Filler.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/filler.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/324) *(Telegram-канал Vibrant Waves)*
 
 

@@ -33,6 +33,7 @@ title: "Hydrofool"
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Hydrofool.htm)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2408/ZX-Spectrum/Hydrofool)
 
 

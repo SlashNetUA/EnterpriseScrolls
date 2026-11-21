@@ -20,12 +20,19 @@ title: "Frankee Goes Home"
 
 **Жанри:** Аркада, Платформер
 
+## Примітка
+
+Approved conversion
 
 ## Скріншоти
 <img src="screens/scrn_frankee-goes-home-agd_01.png" width="24%">
 <img src="screens/scrn_frankee-goes-home-agd_02.png" width="24%">
 <img src="screens/scrn_frankee-goes-home-agd_03.png" width="24%">
 <img src="screens/scrn_frankee-goes-home-agd_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=frankee-goes-home" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Frankee Goes Home</a>
 
 
 ## Опис
@@ -52,8 +59,10 @@ title: "Frankee Goes Home"
 ## Посилання
 - [Домашня сторінка](https://radical-reflux.itch.io/frankee-goes-home)
 - [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Frankee_Goes_Home.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/frankee-goes-home/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/44119/ZX-Spectrum/Frankee_Goes_Home)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Frankee_Goes_Home.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/frankee_goes_home.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/962) *(Telegram-канал Vibrant Waves)*
 
 

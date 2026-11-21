@@ -18,23 +18,39 @@ title: "Fire Ant"
 **ID:** fire-ant-c16
 
 
+**Жанри:** Екшн, Аркада
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_fire-ant-c16_01.png" width="24%">
 <img src="screens/scrn_fire-ant-c16_02.png" width="24%">
 <img src="screens/scrn_fire-ant-c16_03.png" width="24%">
 <img src="screens/scrn_fire-ant-c16_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=fire-ant" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Fire Ant</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Commodore 16-Plus/4
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 16-color mode
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/FireAnt.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/fire-ant/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/commodore-rol/fire-ant-c16/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Fire_Ant.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/fire_ant.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/328) *(Telegram-канал Vibrant Waves)*
 
 

@@ -30,6 +30,10 @@ title: "11-a-Side Soccer"
 <img src="screens/scrn_11aside-soccer-zx_03.png" width="24%">
 <img src="screens/scrn_11aside-soccer-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=four-soccer-simulators&v=soccer-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">11-a-Side Soccer</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -45,7 +49,9 @@ title: "11-a-Side Soccer"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/four-soccer-simulators/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9296/ZX-Spectrum/11-a-Side_Soccer)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Four_Soccer_Simulator.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/four_soccer_simulator.rar)
 
 

@@ -18,19 +18,36 @@ title: "Indoor Soccer"
 **ID:** indoor-soccer-zx
 
 
+**Жанри:** Спортивна
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_indoor-soccer-zx_01.png" width="24%">
 <img src="screens/scrn_indoor-soccer-zx_02.png" width="24%">
 <img src="screens/scrn_indoor-soccer-zx_03.png" width="24%">
 <img src="screens/scrn_indoor-soccer-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=four-soccer-simulators&v=indoor-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Indoor Soccer</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/four-soccer-simulators/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/17304/ZX-Spectrum/Indoor_Soccer)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/four_soccer_simulator.rar)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Four_Soccer_Simulator.rar)
 
 

@@ -52,3 +52,6 @@ OUT 248,xxx   ! xxx = командний код «великодки»
 - [EGG_D0 (D0h / 208) – стрес-тест оновлення зображення «TVC»](commands/egg_d0.md)
 - [EGG_D1 (D1h / 209) – координати видимої області екрана](commands/egg_d1.md)
 - [EGG_D2 (D2h / 210) – анімований 2DPT та демонстрація SET_XY_OFFSET](commands/egg_d2.md)
+- [EGG_D2 (D2h / 211) – ](commands/egg_d3.md)
+- [EGG_D2 (D2h / 212) – ](commands/egg_d4.md)
+- [EGG_D2 (D2h / 213) – ](commands/egg_d5.md)

@@ -30,6 +30,10 @@ Unofficial conversion
 <img src="screens/scrn_fist2-zx_03.png" width="24%">
 <img src="screens/scrn_fist2-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=exploding-fist-2" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Fist II: The Legend Continues</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська

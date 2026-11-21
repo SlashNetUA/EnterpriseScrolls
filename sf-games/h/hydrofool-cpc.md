@@ -30,6 +30,7 @@ title: "Hydrofool"
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/Hydrofool.htm)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/cpc-rl/hydrofool/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1128)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hydrofool_CPC.rar)

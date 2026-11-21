@@ -18,21 +18,41 @@ title: "Fantasia Diamond"
 **ID:** fantasia-diamond
 
 
+**Жанри:** Текстова пригода
+
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_fantasia-diamond_01.png" width="24%">
 <img src="screens/scrn_fantasia-diamond_02.png" width="24%">
 <img src="screens/scrn_fantasia-diamond_03.png" width="24%">
 <img src="screens/scrn_fantasia-diamond_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=fantasia-diamond" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Fantasia Diamond</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Керування:** Keyboard
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Text40 mode, 4-color mode
+### Розробка
+- **Рік випуску:** 1985
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Fantasia_Diamond.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/fantasia-diamond/)
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id%2C197/Fantasia+Diamond.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Fantasia_Diamond.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/fantasia_diamond.rar)
 
 

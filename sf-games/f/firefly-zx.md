@@ -18,6 +18,12 @@ title: "Firefly"
 **ID:** firefly-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_firefly-zx_01.png" width="24%">
 <img src="screens/scrn_firefly-zx_02.png" width="24%">
@@ -26,12 +32,19 @@ title: "Firefly"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/FireFly.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/firefly/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1772/ZX-Spectrum/Firefly)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/FireFly.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/firefly.rar)
 
 

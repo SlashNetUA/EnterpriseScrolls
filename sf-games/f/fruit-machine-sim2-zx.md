@@ -18,11 +18,21 @@ title: "Fruit Machine Simulator 2"
 **ID:** fruit-machine-sim2-zx
 
 
+**Жанри:** Гемблінг
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_fruit-machine-sim2-zx_01.png" width="24%">
 <img src="screens/scrn_fruit-machine-sim2-zx_02.png" width="24%">
 <img src="screens/scrn_fruit-machine-sim2-zx_03.png" width="24%">
 <img src="screens/scrn_fruit-machine-sim2-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=fruit-machine-simulator-2" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Fruit Machine Simulator 2</a>
 
 
 ## Опис
@@ -46,11 +56,18 @@ Fruit Machine Simulator 2 — це продовження гри Codemasters Fru
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/fruit-machine-simulator-2/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9349/ZX-Spectrum/Fruit_Machine_Simulator_2)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Fruit_Machine2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/fruit_machine2.rar)
 
 

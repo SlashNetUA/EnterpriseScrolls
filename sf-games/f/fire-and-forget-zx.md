@@ -18,20 +18,37 @@ title: "Fire and Forget"
 **ID:** fire-and-forget-zx
 
 
+**Жанри:** Екшн, Перегони
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_fire-and-forget-zx_01.png" width="24%">
 <img src="screens/scrn_fire-and-forget-zx_02.png" width="24%">
 <img src="screens/scrn_fire-and-forget-zx_03.png" width="24%">
 <img src="screens/scrn_fire-and-forget-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=fire-and-forget" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Fire and Forget</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Fire_and_Forget.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/fire-and-forget/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1765/ZX-Spectrum/Fire_and_Forget)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Fire_and_Forget.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/fire_and_forget.rar)
 
 

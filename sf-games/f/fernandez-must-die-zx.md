@@ -21,20 +21,38 @@ title: "Fernandez Must Die"
 **ID:** fernandez-must-die-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_fernandez-must-die-zx_01.png" width="24%">
 <img src="screens/scrn_fernandez-must-die-zx_02.png" width="24%">
 <img src="screens/scrn_fernandez-must-die-zx_03.png" width="24%">
 <img src="screens/scrn_fernandez-must-die-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=fernandez-must-die&v=trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Fernandez Must Die (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=fernandez-must-die" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Fernandez Must Die</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Fernandez_must_Die.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/fernandez-must-die/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1739/ZX-Spectrum/Fernandez_Must_Die)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Fernandez.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/fernandez.rar)
 
 

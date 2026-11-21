@@ -32,10 +32,10 @@ Unofficial conversion
 
 ## Запустити у web-емуляторі
 
+<a href="https://epemu.enterpriseforever.com/web/?start=exolon&v=cpc-bias-9" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Exolon (BIAS 09)</a>
 <a href="https://epemu.enterpriseforever.com/web/?start=exolon&v=cpc-bias-17-25-exolon17-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Exolon (BIAS 17)</a>
 <a href="https://epemu.enterpriseforever.com/web/?start=exolon&v=cpc-bias-21-no-flash" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Exolon (BIAS 21)</a>
 <a href="https://epemu.enterpriseforever.com/web/?start=exolon&v=cpc-bias-17-25-exolon25-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Exolon (BIAS 25)</a>
-<a href="https://epemu.enterpriseforever.com/web/?start=exolon&v=cpc-bias-9" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Exolon (BIAS 9)</a>
 
 
 ## Основна інформація

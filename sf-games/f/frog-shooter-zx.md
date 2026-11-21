@@ -21,11 +21,21 @@ title: "Frog Shooter"
 **ID:** frog-shooter-zx
 
 
+**Жанри:** Скролшутер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_frog-shooter-zx_01.png" width="24%">
 <img src="screens/scrn_frog-shooter-zx_02.png" width="24%">
 <img src="screens/scrn_frog-shooter-zx_03.png" width="24%">
 <img src="screens/scrn_frog-shooter-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=frog-shooter" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Frog Shooter</a>
 
 
 ## Опис
@@ -47,14 +57,21 @@ Frog Shooter — це аркадна гра, в якій ви керуєте к�
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1984
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Frog_Shooter.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/frog-shooter/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1882/ZX-Spectrum/Frog_Shooter)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Frog_Shooter.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/frog_shooter.rar)
 
 

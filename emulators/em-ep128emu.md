@@ -12,16 +12,22 @@ title: Емулятор «ep128emu»
 <img src="manual/scrn_ep128emu_tvc.png" alt="Головне вікно емулятора ep128emu (емуляція Videoton TVC)" width="20%"></div>
 
 Платформа: Windows (32 bit), Linux & MacOS X (32 and 64 bit)  
-Автор: [István Varga](../peoples/community/istvanv.md)  
+Автор: [Іштван Варга](../peoples/community/istvanv.md)  
+Підтримка та розширення функціоналу: [Золтан Балог](../peoples/community/zoldalma.md); [Аттіла Гальгоці](../peoples/community/tango.md)  
+
 [Сторінка проекту](https://ep128emu.enterpriseforever.com)  
 [Сторінка проекту](http://ep128emu.sourceforge.net)  
-✨ [Найактуальніша версія](https://zoltanvb.github.io/ep128emu/)  
+✨ [Найактуальніша версія](https://github.com/ep-tango/ep128emu/releases) від [Аттіли Гальгоці](../peoples/community/tango.md)  
+[Найактуальніша версія](https://zoltanvb.github.io/ep128emu/) від [Золтана Балога](../peoples/community/zoldalma.md)  
 
 
 > ep128emu — це портативний емулятор комп'ютерів **Enterprise 128**, ZX Spectrum 48/128, Amstrad CPC 464/664/6128 та Videoton TVC із відкритим вихідним кодом. Він написаний на C++ та підтримує платформи Windows і POSIX (успішно протестований на 32- та 64-бітних версіях Windows, Linux, а також на MacOS X.  
 > Програма забезпечує точну та високоякісну апаратну емуляцію, проте її системні вимоги є вищими, ніж у більшості інших емуляторів.
 
 На сьогоднішній день EP128Emu є найбільш точним емулятором Enterprise для ПК і надає найбільшу кількість можливостей, хоча новачкам він може здатися складним у використанні. 
+
+Версія 2.0.11.2 - остання версія емулятора створена Іштваном.
+
 
 [EP Wiki](https://wiki.enterpriseforever.com/index.php?title=EP128Emu_manual)
 
