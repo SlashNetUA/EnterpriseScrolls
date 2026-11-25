@@ -21,21 +21,37 @@ title: "International Rugby Simulator"
 **ID:** international-rugby-sim-zx
 
 
+**Жанри:** Спортивна
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_international-rugby-sim-zx_01.png" width="24%">
 <img src="screens/scrn_international-rugby-sim-zx_02.png" width="24%">
 <img src="screens/scrn_international-rugby-sim-zx_03.png" width="24%">
 <img src="screens/scrn_international-rugby-sim-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=international-rugby-simulator" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">International Rugby Simulator</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1988
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/international-rugby-simulator/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/9359/ZX-Spectrum/International_Rugby_Simulator)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/International_Rugby_Simulator.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/international_rugby_simulator.rar)
 
 

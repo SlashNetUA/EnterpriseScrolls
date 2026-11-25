@@ -18,21 +18,39 @@ title: "Game of Life"
 **ID:** game-of-life
 
 
+**Жанри:** Симулятор
+
+## Примітка
+
+Homebrew
+
 ## Скріншоти
 <img src="screens/scrn_game-of-life_01.png" width="24%">
 <img src="screens/scrn_game-of-life_02.png" width="24%">
 <img src="screens/scrn_game-of-life_03.png" width="24%">
 <img src="screens/scrn_game-of-life_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=game-of-life" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Game of Life</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Кількість гравців:** 1 player
 ### Розробка
-- **Автор:** Povi
+- **Рік випуску:** 2015
+- **Автор:** Zoltán Povázsay (Povi)
+- **Компанія:** PovySoft
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/game-of-life/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Game_of_Life.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/game_of_life.rar)
 
 

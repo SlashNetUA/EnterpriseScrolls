@@ -15,7 +15,7 @@
 - △ [I.C.U.P.S.](i-c-u-p-s-zx.md)
 - △ [Ice Breaker](ice-breaker-zx.md)
 - △ [The Ice Dragon](ice-dragon.md)
-- 𝔹 [﻿Időrobot](idorobot-bas.md)
+- 𝔹 [Időrobot](idorobot-bas.md)
 - △ [Ikari Warriors](ikari-warriors-cpc.md)
 - 𝔹 [Imperial Castle](imperial-castle-bas.md)
 - △ [IMPETUS](impetus.md)

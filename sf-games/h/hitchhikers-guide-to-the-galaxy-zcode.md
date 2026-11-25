@@ -24,6 +24,10 @@ title: "The Hitchhiker's Guide to the Galaxy"
 ## Скріншоти
 <img src="screens/scrn_hitchhikers-guide-to-the-galaxy-zcode_01.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=the-hitchhikers-guide-to-the-galaxy" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The Hitchhiker's Guide to the Galaxy</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -40,7 +44,9 @@ title: "The Hitchhiker's Guide to the Galaxy"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/the-hitchhikers-guide-to-the-galaxy/)
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,257/Hitchhiker's+Guide+to+the+Galaxy,+The.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hitchhikers_Guide_to_the_Galaxy.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hitchhikers_guide_to_the_galaxy.rar)
 
 

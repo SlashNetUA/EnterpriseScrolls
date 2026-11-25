@@ -21,21 +21,40 @@ title: "Heathrow A.T.C."
 **ID:** heathrow-atc
 
 
+**Жанри:** Симулятор
+
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_heathrow-atc_01.png" width="24%">
 <img src="screens/scrn_heathrow-atc_02.png" width="24%">
 <img src="screens/scrn_heathrow-atc_03.png" width="24%">
 <img src="screens/scrn_heathrow-atc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=heathrow-atc" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Heathrow A.T.C.</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Керування:** Keyboard
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode, ROM-version
+### Розробка
+- **Рік випуску:** 1984
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Heathrow_ATC.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/heathrow-atc/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Heathrow_ATC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/heathrow_atc.rar)
 
 

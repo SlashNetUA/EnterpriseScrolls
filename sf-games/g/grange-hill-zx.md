@@ -21,11 +21,21 @@ title: "Grange Hill"
 **ID:** grange-hill-zx
 
 
+**Жанри:** Пригодницька
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_grange-hill-zx_01.png" width="24%">
 <img src="screens/scrn_grange-hill-zx_02.png" width="24%">
 <img src="screens/scrn_grange-hill-zx_03.png" width="24%">
 <img src="screens/scrn_grange-hill-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=grange-hill" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Grange Hill</a>
 
 
 ## Опис
@@ -43,13 +53,20 @@ title: "Grange Hill"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Grange_Hill.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/grange-hill/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2120/ZX-Spectrum/Grange_Hill)
 - [Інформація про гру (SolutionArchive.com)](https://solutionarchive.com/game/id%2C233/Grange+Hill.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Grange_Hill.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/grange_hill.rar)
 
 

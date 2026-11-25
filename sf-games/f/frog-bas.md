@@ -20,6 +20,9 @@ title: "Frog"
 
 **Жанри:** Аркада
 
+## Примітка
+
+Homebrew
 
 ## Скріншоти
 <img src="screens/scrn_frog-bas_01.png" width="24%">
@@ -60,6 +63,7 @@ title: "Frog"
 - **Додаткові теги:** PaintBox images
 ### Розробка
 - **Рік випуску:** 1991
+- **Автор:** Attila Gröb
 - **Компанія:** GTL Games
 
 

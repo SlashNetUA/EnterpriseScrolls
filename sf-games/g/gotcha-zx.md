@@ -18,11 +18,21 @@ title: "Gotcha"
 **ID:** gotcha-zx
 
 
+**Жанри:** Аркада
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_gotcha-zx_01.png" width="24%">
 <img src="screens/scrn_gotcha-zx_02.png" width="24%">
 <img src="screens/scrn_gotcha-zx_03.png" width="24%">
 <img src="screens/scrn_gotcha-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=gotcha" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Gotcha</a>
 
 
 ## Опис
@@ -44,14 +54,20 @@ title: "Gotcha"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Геймплей
 - **Керування:** Keyboard (Z, X, K, M), Internal Joy, External Joy 1, External Joy 2
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1983
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Gotcha.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/gotcha/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2106/ZX-Spectrum/Gotcha)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Gotcha.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/gotcha.rar)
 
 

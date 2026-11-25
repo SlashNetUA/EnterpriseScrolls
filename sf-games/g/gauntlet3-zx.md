@@ -18,11 +18,21 @@ title: "Gauntlet III: The Final Quest"
 **ID:** gauntlet3-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_gauntlet3-zx_01.png" width="24%">
 <img src="screens/scrn_gauntlet3-zx_02.png" width="24%">
 <img src="screens/scrn_gauntlet3-zx_03.png" width="24%">
 <img src="screens/scrn_gauntlet3-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=gauntlet-3-the-final-quest" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Gauntlet III: The Final Quest</a>
 
 
 ## Опис
@@ -44,11 +54,18 @@ Gauntlet III — це гра в жанрі екшен, що поєднує в с
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1991
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/gauntlet-3-the-final-quest/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1993/ZX-Spectrum/Gauntlet_III_The_Final_Quest)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Gauntlet3.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/gauntlet3.rar)
 
 

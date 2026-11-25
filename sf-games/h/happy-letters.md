@@ -18,22 +18,41 @@ title: "Happy Letters"
 **ID:** happy-letters
 
 
+**Жанри:** Навчальний
+
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_happy-letters_01.png" width="24%">
 <img src="screens/scrn_happy-letters_02.png" width="24%">
 <img src="screens/scrn_happy-letters_03.png" width="24%">
 <img src="screens/scrn_happy-letters_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=happy-letters" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Happy Letters</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+- **Програмні:** IS-Basic
+### Геймплей
+- **Керування:** Keyboard
+### Розробка
+- **Рік випуску:** 1985
+- **Компанія:** Bourne Educational Software
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Happy_Letters.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/happy-letters/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1051)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Happy_Letters.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/happy_letters.rar)
 
 

@@ -18,11 +18,22 @@ title: "Hypaball"
 **ID:** hypaball-zx
 
 
+**Жанри:** Спортивна, Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_hypaball-zx_01.png" width="24%">
 <img src="screens/scrn_hypaball-zx_02.png" width="24%">
 <img src="screens/scrn_hypaball-zx_03.png" width="24%">
 <img src="screens/scrn_hypaball-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=hypaball&v=hun" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Hypaball (HUN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=hypaball" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Hypaball</a>
 
 
 ## Основна інформація
@@ -30,11 +41,16 @@ title: "Hypaball"
 - **Оригінальна платформа:** ZX Spectrum
 ### Геймплей
 - **Керування:** Internal Joy, External Joy 1, External Joy 2
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Hypaball.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/hypaball/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2412/ZX-Spectrum/Hypaball)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hypaball.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hypaball.rar)
 
 

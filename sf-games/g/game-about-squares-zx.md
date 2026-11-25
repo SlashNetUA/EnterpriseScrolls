@@ -18,20 +18,40 @@ title: "Game About Squares"
 **ID:** game-about-squares-zx
 
 
+**Жанри:** Логічна
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_game-about-squares-zx_01.png" width="24%">
 <img src="screens/scrn_game-about-squares-zx_02.png" width="24%">
 <img src="screens/scrn_game-about-squares-zx_03.png" width="24%">
 <img src="screens/scrn_game-about-squares-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=game-about-squares" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Game About Squares</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Керування:** Keyboard
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 2014
+- **Автор:** Andrey Shevchuk, SinDiKat
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/game-about-squares/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/30136/ZX-Spectrum/Game_About_Squares)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Game_About_Squares.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/game_about_squares.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/159) *(Telegram-канал Vibrant Waves)*
 
 

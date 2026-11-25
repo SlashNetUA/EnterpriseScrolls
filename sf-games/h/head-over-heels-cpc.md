@@ -18,21 +18,38 @@ title: "Head Over Heels"
 **ID:** head-over-heels-cpc
 
 
+**Жанри:** Аркада, Пригодницька
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_head-over-heels-cpc_01.png" width="24%">
 <img src="screens/scrn_head-over-heels-cpc_02.png" width="24%">
 <img src="screens/scrn_head-over-heels-cpc_03.png" width="24%">
 <img src="screens/scrn_head-over-heels-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=head-over-heels&v=cpc" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Head Over Heels</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Додаткові теги:** 4-color mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Head_Over_Heels.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/head-over-heels/#head-over-heels-amstrad-cpc)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1066)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Head_Over_Heels_CPC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/head_over_heels_cpc.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/379) *(Telegram-канал Vibrant Waves)*
 
 

@@ -30,6 +30,10 @@ title: "Hyper Active"
 <img src="screens/scrn_hyper-active-zx_03.png" width="24%">
 <img src="screens/scrn_hyper-active-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=hyper-active" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Hyper Active</a>
+
 
 ## Опис
 
@@ -53,9 +57,11 @@ title: "Hyper Active"
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Hyper_Active.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/hyper-active/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/spectrum-rol/hyperactive/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2413/ZX-Spectrum/Hyper_Active)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hyper_Active.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hyper_active.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/738) *(Telegram-канал Vibrant Waves)*
 
 

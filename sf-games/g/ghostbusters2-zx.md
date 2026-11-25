@@ -18,10 +18,20 @@ title: "Ghostbusters II"
 **ID:** ghostbusters2-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_ghostbusters2-zx_01.png" width="24%">
 <img src="screens/scrn_ghostbusters2-zx_02.png" width="24%">
 <img src="screens/scrn_ghostbusters2-zx_03.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=ghostbusters-ii" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Ghostbusters II</a>
 
 
 ## Опис
@@ -43,13 +53,20 @@ title: "Ghostbusters II"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1989
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Ghostbusters2.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/ghostbusters-ii/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2031/ZX-Spectrum/Ghostbusters_II)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Ghostbusters2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/ghostbusters2.rar)
 
 
 ## Відео

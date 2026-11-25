@@ -30,6 +30,7 @@ title: "XORgame"
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/XorGame.htm)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/programozas/xorgame-pascal/)
 
 

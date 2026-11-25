@@ -1,5 +1,5 @@
 ---
-title: "﻿Időrobot"
+title: "Időrobot"
 ---
 
 ﻿[0-9](../0/games-0.md) - [A](../a/games-a.md) - [B](../b/games-b.md) - [C](../c/games-c.md) - [D](../d/games-d.md) - [E](../e/games-e.md) - [F](../f/games-f.md) - [G](../g/games-g.md) - [H](../h/games-h.md) - [I](../i/games-i.md) - [J](../j/games-j.md) - [K](../k/games-k.md) - [L](../l/games-l.md) - [M](../m/games-m.md) - [N](../n/games-n.md) - [O](../o/games-o.md) - [P](../p/games-p.md) - [Q](../q/games-q.md) - [R](../r/games-r.md) - [S](../s/games-s.md) - [T](../t/games-t.md) - [U](../u/games-u.md) - [V](../v/games-v.md) - [W](../w/games-w.md) - [X](../x/games-x.md) - [Y](../y/games-y.md) - [Z](../z/games-z.md)
@@ -12,23 +12,43 @@ title: "﻿Időrobot"
 
 ----------
 
-# ﻿Időrobot
+# Időrobot
 
 
 **ID:** idorobot-bas
 
+
+**Жанри:** Текстова пригода
+
+## Примітка
+
+Homebrew
 
 ## Скріншоти
 <img src="screens/scrn_idorobot-bas_01.png" width="24%">
 <img src="screens/scrn_idorobot-bas_02.png" width="24%">
 <img src="screens/scrn_idorobot-bas_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=idorobot" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Időrobot</a>
+
 
 ## Основна інформація
 - **Мови:** Угорська
+- **Оригінальна платформа:** Enterprise
+### Загальні системні вимоги
+- **Програмні:** IS-Basic
+### Геймплей
+- **Додаткові теги:** Text40 mode, 4-color mode
+### Розробка
+- **Рік випуску:** 1991
+- **Компанія:** BABSOFT
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/idorobot/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Idorobot.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/idorobot.rar)
 
 

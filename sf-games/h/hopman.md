@@ -30,6 +30,10 @@ title: "HOPMAN"
 <img src="screens/scrn_hopman_03.png" width="24%">
 <img src="screens/scrn_hopman_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=hopman" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">HOPMAN</a>
+
 
 ## Опис
 
@@ -53,7 +57,9 @@ title: "HOPMAN"
 
 ## Посилання
 - [Домашня сторінка](http://inufuto.web.fc2.com/8bit/hopman/#ep64)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/hopman/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hopman.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hopman.rar)
 - [Завантажити](http://inufuto.web.fc2.com/8bit/ep64/hopman_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/813) *(Telegram-канал Vibrant Waves)*
 

@@ -18,21 +18,40 @@ title: "Into the Eagle's Nest"
 **ID:** into-the-eagles-nest-zx
 
 
+**Жанри:** Екшн, Лабіринт
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_into-the-eagles-nest-zx_01.png" width="24%">
 <img src="screens/scrn_into-the-eagles-nest-zx_02.png" width="24%">
 <img src="screens/scrn_into-the-eagles-nest-zx_03.png" width="24%">
 <img src="screens/scrn_into-the-eagles-nest-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=into-the-eagles-nest" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Into the Eagle's Nest (128k)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=into-the-eagles-nest&v=48k" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Into the Eagle's Nest (48k)</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Games/Into_the_Eagles_Nest.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/into-the-eagles-nest/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2523/ZX-Spectrum/Into_the_Eagles_Nest)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Into_the_Eagles_Nest.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/into_the_eagles_nest.rar)
 
 

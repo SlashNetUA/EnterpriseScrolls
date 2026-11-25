@@ -18,15 +18,37 @@ title: "Invaders II"
 **ID:** invaders2
 
 
+**Жанри:** Екшн, Space Invaders-подібна
+
+## Примітка
+
+Homebrew
+
 ## Скріншоти
 <img src="screens/scrn_invaders2_01.png" width="24%">
 <img src="screens/scrn_invaders2_02.png" width="24%">
 <img src="screens/scrn_invaders2_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=invaders-ii" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Invaders II</a>
+
+
+## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
+### Геймплей
+- **Додаткові теги:** 4-color mode
+### Розробка
+- **Рік випуску:** 1990
+- **Компанія:** Apollo Soft
+
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Invaders_2.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/invaders-ii/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Invaders_2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/invaders_2.rar)
 
 
 ## Відео

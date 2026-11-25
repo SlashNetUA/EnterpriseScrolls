@@ -18,22 +18,38 @@ title: "Hammerfist"
 **ID:** hammerfist-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_hammerfist-zx_01.png" width="24%">
 <img src="screens/scrn_hammerfist-zx_02.png" width="24%">
 <img src="screens/scrn_hammerfist-zx_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=hammerfist" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Hammerfist</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
 ### Геймплей
 - **Керування:** Keyboard, External Joy 1
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/hammerfist/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2218/ZX-Spectrum/Hammerfist)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hammerfist.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hammerfist.rar)
 
 

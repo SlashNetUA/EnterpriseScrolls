@@ -18,11 +18,21 @@ title: "Galaxians"
 **ID:** galaxians-zx
 
 
+**Жанри:** Аркада, Space Invaders-подібна
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_galaxians-zx_01.png" width="24%">
 <img src="screens/scrn_galaxians-zx_02.png" width="24%">
 <img src="screens/scrn_galaxians-zx_03.png" width="24%">
 <img src="screens/scrn_galaxians-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=galaxians&v=classic" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Galaxians</a>
 
 
 ## Опис
@@ -51,12 +61,19 @@ Galaxians - це класична аркадна гра, яка є розвит�
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1982
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Galaxian2.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/galaxians/#galaxians-zx-spectrum)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1934/ZX-Spectrum/Galaxians)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Galaxians_Classic.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/galaxians_classic.rar)
 
 

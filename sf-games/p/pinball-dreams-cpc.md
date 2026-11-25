@@ -22,7 +22,7 @@ title: "Pinball Dreams"
 
 ## Примітка
 
-ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC	.
+ℹ Сучасна неофіційна конверсія з платформи Amstrad CPC.
 
 ## Скріншоти
 <img src="screens/scrn_pinball-dreams-cpc_01.png" width="24%">
@@ -52,7 +52,12 @@ title: "Pinball Dreams"
 
 
 ## Посилання
+- [Домашня сторінка](https://anystone.games/?lang=en#en/game-pinballdreams-ep)
+- [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/Pinball_Dreams.htm)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=16736)
+- [Завантажити](https://downloads.anystone.games/pinball-dreams-ep-wav)
+- [Завантажити](https://downloads.anystone.games/pinball-dreams-ep)
+- [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Pinball_Dreams.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1237) *(Telegram-канал Vibrant Waves)*
 
 

@@ -18,11 +18,22 @@ title: "Hammer Boy"
 **ID:** hammer-boy-zx
 
 
+**Жанри:** Аркада, Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_hammer-boy-zx_01.png" width="24%">
 <img src="screens/scrn_hammer-boy-zx_02.png" width="24%">
 <img src="screens/scrn_hammer-boy-zx_03.png" width="24%">
 <img src="screens/scrn_hammer-boy-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=hammer-boy&v=hammerboy-1" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Hammer Boy (Part 1.Fort)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=hammer-boy&v=hammerboy-2" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Hammer Boy (Part 2.Castle)</a>
 
 
 ## Опис
@@ -44,13 +55,21 @@ Hammer Boy - це захоплююча аркадна гра, випущена �
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1991
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Hammer_Boy.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/hammer-boy/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2216/ZX-Spectrum/Hammer_Boy)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hammerboy_1.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hammerboy_1.rar)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hammerboy_2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hammerboy_2.rar)
 
 

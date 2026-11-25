@@ -18,6 +18,12 @@ title: "Indiana Jones and the Temple of Doom"
 **ID:** indiana-jones-and-the-temple-of-doom-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_indiana-jones-and-the-temple-of-doom-zx_01.png" width="24%">
 <img src="screens/scrn_indiana-jones-and-the-temple-of-doom-zx_02.png" width="24%">
@@ -26,12 +32,19 @@ title: "Indiana Jones and the Temple of Doom"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Indiana_Jones_Temple_of_Doom.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/indiana-jones-and-the-temple-of-doom/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2475/ZX-Spectrum/Indiana_Jones_and_the_Temple_of_Doom)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Indiana_Jones_and_the_Temple_of_Doom.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/indiana_jones_and_the_temple_of_doom.rar)
 
 

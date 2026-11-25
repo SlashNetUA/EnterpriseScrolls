@@ -18,21 +18,46 @@ title: "Impossible Mission II"
 **ID:** impossible-mission2-cpc
 
 
+**Жанри:** Екшн, Пригодницька, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_impossible-mission2-cpc_01.png" width="24%">
 <img src="screens/scrn_impossible-mission2-cpc_02.png" width="24%">
 <img src="screens/scrn_impossible-mission2-cpc_03.png" width="24%">
 <img src="screens/scrn_impossible-mission2-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=impossible-mission-2&v=impossible-mission2-cpc-ver1-im2-07-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Impossible Mission II (PAL 1 - BIAS 07)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=impossible-mission-2&v=impossible-mission2-cpc-ver1-im2-15-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Impossible Mission II (PAL 1 - BIAS 15)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=impossible-mission-2&v=impossible-mission2-cpc-ver2-im2-07-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Impossible Mission II (PAL 2 - BIAS 07)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=impossible-mission-2&v=impossible-mission2-cpc-ver2-im2-15-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Impossible Mission II (PAL 2 - BIAS 15)</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
+### Загальні системні вимоги
+- **Апаратні:** EP128
+### Геймплей
+- **Керування:** Internal Joy, External Joy 1
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 16-color mode
+### Розробка
+- **Рік випуску:** 1988
+- **Компанія:** Novotrade Rt.
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Impossible_Mission_2.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/impossible-mission-2/#impossible-mission-2-amstrad-cpc)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1146)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Impossible_Mission2_CPC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/impossible_mission2_cpc.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/446) *(Telegram-канал Vibrant Waves)*
 
 

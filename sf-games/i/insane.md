@@ -18,24 +18,40 @@ title: "Insane"
 **ID:** insane
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Official release
+
 ## Скріншоти
 <img src="screens/scrn_insane_01.png" width="24%">
 <img src="screens/scrn_insane_02.png" width="24%">
 <img src="screens/scrn_insane_03.png" width="24%">
 <img src="screens/scrn_insane_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=insane&v=insane-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Insane (Game)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=insane&v=sprdef-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Insane (Res editor)</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy
 - **Кількість гравців:** 1 player
+- **Додаткові теги:** 16-color mode
 ### Розробка
+- **Рік випуску:** 1988
 - **Автор:** Andrew Richards
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/insane/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Insane.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/insane.rar)
 
 
 ## Відео

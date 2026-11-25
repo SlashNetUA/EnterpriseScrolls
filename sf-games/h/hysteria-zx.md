@@ -18,19 +18,35 @@ title: "Hysteria"
 **ID:** hysteria-zx
 
 
+**Жанри:** Аркада
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_hysteria-zx_01.png" width="24%">
 <img src="screens/scrn_hysteria-zx_02.png" width="24%">
 <img src="screens/scrn_hysteria-zx_03.png" width="24%">
 <img src="screens/scrn_hysteria-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=hysteria" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Hysteria</a>
+
 
 ## Основна інформація
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/hysteria/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2424/ZX-Spectrum/Hysteria)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hysteria.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hysteria.rar)
 
 

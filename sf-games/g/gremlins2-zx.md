@@ -18,11 +18,21 @@ title: "Gremlins 2: The New Batch"
 **ID:** gremlins2-zx
 
 
+**Жанри:** Аркада, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_gremlins2-zx_01.png" width="24%">
 <img src="screens/scrn_gremlins2-zx_02.png" width="24%">
 <img src="screens/scrn_gremlins2-zx_03.png" width="24%">
 <img src="screens/scrn_gremlins2-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=gremlins-2" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Gremlins 2: The New Batch</a>
 
 
 ## Опис
@@ -45,11 +55,18 @@ title: "Gremlins 2: The New Batch"
 
 
 ## Основна інформація
+- **Мови:** Іспанська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/gremlins-2/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2139/ZX-Spectrum/Gremlins_2_La_Nueva_Generación)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Gremlins2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/gremlins2.rar)
 
 

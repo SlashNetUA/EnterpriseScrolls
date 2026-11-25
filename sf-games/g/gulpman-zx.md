@@ -18,11 +18,21 @@ title: "Gulpman"
 **ID:** gulpman-zx
 
 
+**Жанри:** Аркада, Pacman-подібна
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_gulpman-zx_01.png" width="24%">
 <img src="screens/scrn_gulpman-zx_02.png" width="24%">
 <img src="screens/scrn_gulpman-zx_03.png" width="24%">
 <img src="screens/scrn_gulpman-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=gulpman" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Gulpman</a>
 
 
 ## Опис
@@ -46,12 +56,19 @@ Gulpman — це класична аркадна гра, що нагадує PAC
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1982
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Gulpman.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/gulpman/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2175/ZX-Spectrum/Gulpman)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Gulpman.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/gulpman.rar)
 
 

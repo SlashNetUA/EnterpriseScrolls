@@ -18,20 +18,37 @@ title: "I, Ball"
 **ID:** i-ball-zx
 
 
+**Жанри:** Екшн, Шутем-ап
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_i-ball-zx_01.png" width="24%">
 <img src="screens/scrn_i-ball-zx_02.png" width="24%">
 <img src="screens/scrn_i-ball-zx_03.png" width="24%">
 <img src="screens/scrn_i-ball-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=i-ball" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">I, Ball</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/I_Ball.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/i-ball/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2429/ZX-Spectrum/I_Ball)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/IBall.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/iball.rar)
 
 

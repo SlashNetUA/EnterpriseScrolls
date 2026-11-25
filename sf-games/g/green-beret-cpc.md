@@ -18,11 +18,21 @@ title: "Green Beret"
 **ID:** green-beret-cpc
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_green-beret-cpc_01.png" width="24%">
 <img src="screens/scrn_green-beret-cpc_02.png" width="24%">
 <img src="screens/scrn_green-beret-cpc_03.png" width="24%">
 <img src="screens/scrn_green-beret-cpc_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=green-beret&v=cpc" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Green Beret</a>
 
 
 ## Опис
@@ -54,15 +64,22 @@ Green Beret – це аркадна гра, в якій гравець пови�
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Додаткові теги:** 16-color mode, SID-card
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Green_Beret.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/green-beret/#green-beret-amstrad-cpc)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1009)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Green_Beret_CPC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/green_beret_cpc.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/357) *(Telegram-канал Vibrant Waves)*
 
 

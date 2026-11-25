@@ -33,7 +33,8 @@ title: Емулятор «ep128emu»
 
 ## web-версія
 
-[https://kks2003.github.io/Ep128web/](https://kks2003.github.io/Ep128web/)
+[https://kks2003.github.io/Ep128web/](https://kks2003.github.io/Ep128web/)  
+[Github](https://github.com/kks2003/Ep128web)   
 
 ## libretro core
 

@@ -22,22 +22,40 @@ title: "Driller Tanks"
 **ID:** driller-tanks-zx
 
 
+**Жанри:** Аркада, Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_driller-tanks-zx_01.png" width="24%">
 <img src="screens/scrn_driller-tanks-zx_02.png" width="24%">
 <img src="screens/scrn_driller-tanks-zx_03.png" width="24%">
 <img src="screens/scrn_driller-tanks-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=itasundorious" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Driller Tanks</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1983
+- **Автор:** F. Itagaki
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Itasundorious.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/itasundorious/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1524/ZX-Spectrum/Driller_Tanks)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Itasundorious.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/itasundorious.rar)
 
 

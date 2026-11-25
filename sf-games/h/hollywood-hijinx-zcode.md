@@ -26,6 +26,10 @@ title: "Hollywood Hijinx"
 <img src="screens/scrn_hollywood-hijinx-zcode_02.png" width="24%">
 <img src="screens/scrn_hollywood-hijinx-zcode_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=hollywood-hijinx" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Hollywood Hijinx</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -42,7 +46,9 @@ title: "Hollywood Hijinx"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/hollywood-hijinx/)
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,261/Hollywood+Hijinx.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hollywood_Hijinx.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hollywood_hijinx.rar)
 
 

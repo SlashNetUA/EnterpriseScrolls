@@ -26,6 +26,10 @@ title: "Infidel"
 <img src="screens/scrn_infidel-zcode_02.png" width="24%">
 <img src="screens/scrn_infidel-zcode_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=infidel" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Infidel</a>
+
 
 ## Основна інформація
 - **Мови:** Англійська
@@ -42,7 +46,9 @@ title: "Infidel"
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/infidel/)
 - [Інформація про гру (SolutionArchive.com)](http://solutionarchive.com/game/id,623/Infidel.html)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Infidel.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/infidel.rar)
 
 

@@ -2,6 +2,7 @@
 
 - △ [IMPETUS](i/impetus.md)
 - △ [Impetus+](i/impetus-plus.md)
+- △ [Inside Outing](i/inside-outing-cpc.md)
 - △ [International Karate Plus: Reloaded](i/international-karate-plus-reloaded-cpc.md)
 - △ [International Karate Plus](i/international-karate-plus-zx.md)
 - 𝔹 [Irmy's Master Mind](i/irmys-master-mind-bas.md)

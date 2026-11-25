@@ -18,19 +18,38 @@ title: "HunchBack"
 **ID:** hunchback-zx
 
 
+**Жанри:** Аркада
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_hunchback-zx_01.png" width="24%">
 <img src="screens/scrn_hunchback-zx_02.png" width="24%">
 <img src="screens/scrn_hunchback-zx_03.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=hunchback&v=attus" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">HunchBack (Attus)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=hunchback&v=hunch-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">HunchBack (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=hunchback&v=hunch-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">HunchBack</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1983
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Hunch_Back.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/hunchback/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2383/ZX-Spectrum/Hunchback)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/HunchBack.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hunchback.rar)
 
 

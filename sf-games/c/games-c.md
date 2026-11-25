@@ -125,7 +125,7 @@
 - 𝔹 [﻿Csak a lyukba!](csak-a-lyukba-bas.md)
 - 𝔹 [Csak Egyet a Fiókokba!](csak-egyet-a-fiokokba-bas.md)
 - 𝔹 [﻿Csapda-Játék](csapda-jatek-bas.md)
-- △ [﻿Csavargás a gombák birodalmában](csavargas-a-gombak-birodalmaban.md)
+- △ [Csavargás a gombák birodalmában](csavargas-a-gombak-birodalmaban.md)
 - △ [Cubix](cubix-zx.md)
 - 𝔹 [Cuboid](cuboid-bas.md)
 - 🅸 [The Cup](cup-isdos.md)

@@ -18,11 +18,23 @@ title: "Game Over"
 **ID:** game-over-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_game-over-zx_01.png" width="24%">
 <img src="screens/scrn_game-over-zx_02.png" width="24%">
 <img src="screens/scrn_game-over-zx_03.png" width="24%">
 <img src="screens/scrn_game-over-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=game-over&v=game1-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Game Over (Part 1 - TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=game-over&v=game1-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Game Over (Part 1)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=game-over&v=game2-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Game Over (Part 2)</a>
 
 
 ## Опис
@@ -45,12 +57,20 @@ title: "Game Over"
 
 
 ## Основна інформація
+- **Мови:** Іспанська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/GameOver.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/game-over/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/1958/ZX-Spectrum/Game_Over)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/GameOver.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/gameover.rar)
 
 

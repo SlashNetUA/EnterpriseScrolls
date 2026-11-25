@@ -18,11 +18,21 @@ title: "Glug Glug"
 **ID:** glug-glug-zx
 
 
+**Жанри:** Аркада
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_glug-glug-zx_01.png" width="24%">
 <img src="screens/scrn_glug-glug-zx_02.png" width="24%">
 <img src="screens/scrn_glug-glug-zx_03.png" width="24%">
 <img src="screens/scrn_glug-glug-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=glug-glug" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Glug Glug</a>
 
 
 ## Опис
@@ -50,12 +60,19 @@ Glug Glug — це проста, але креативна та розважал
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1984
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/GlugGlug.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/glug-glug/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2062/ZX-Spectrum/Glug_Glug)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Glug_Glug.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/glug_glug.rar)
 
 

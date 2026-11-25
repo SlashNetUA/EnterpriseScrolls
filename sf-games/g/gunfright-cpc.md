@@ -18,11 +18,21 @@ title: "Gunfright"
 **ID:** gunfright-cpc
 
 
+**Жанри:** Аркада, Пригодницька
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_gunfright-cpc_01.png" width="24%">
 <img src="screens/scrn_gunfright-cpc_02.png" width="24%">
 <img src="screens/scrn_gunfright-cpc_03.png" width="24%">
 <img src="screens/scrn_gunfright-cpc_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=gunfright&v=cpc" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Gunfright</a>
 
 
 ## Опис
@@ -47,15 +57,23 @@ title: "Gunfright"
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
 ### Загальні системні вимоги
 - **Апаратні:** EP64, EP128
+### Геймплей
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** 4-color mode
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Gunfright.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/gunfright/#gunfright-amstrad-cpc)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1031)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Gunfright_CPC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/gunfright_cpc.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/368) *(Telegram-канал Vibrant Waves)*
 
 

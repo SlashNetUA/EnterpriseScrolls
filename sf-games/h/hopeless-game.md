@@ -18,16 +18,39 @@ title: "Hopeless Game"
 **ID:** hopeless-game
 
 
+**Жанри:** Аркада, Екшн
+
+## Примітка
+
+Homebrew
+
 ## Скріншоти
 <img src="screens/scrn_hopeless-game_01.png" width="24%">
 <img src="screens/scrn_hopeless-game_02.png" width="24%">
 <img src="screens/scrn_hopeless-game_03.png" width="24%">
 <img src="screens/scrn_hopeless-game_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=hopeless-game" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Hopeless Game</a>
+
+
+## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
+### Геймплей
+- **Керування:** Internal Joy, External Joy 1, External Joy 2
+- **Додаткові теги:** 4-color mode
+### Розробка
+- **Автор:** Lászlo Német, Zoltán Vass, Ferenc Kiss
+- **Компанія:** FlyingTime Studio
+
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Hopeless_Game.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/hopeless-game/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hopeless_Game.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hopeless_game.rar)
 
 
 ## Відео

@@ -18,22 +18,40 @@ title: "International Karate"
 **ID:** international-karate-c64
 
 
+**Жанри:** Драка
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_international-karate-c64_01.png" width="24%">
 <img src="screens/scrn_international-karate-c64_02.png" width="24%">
 <img src="screens/scrn_international-karate-c64_03.png" width="24%">
 <img src="screens/scrn_international-karate-c64_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=international-karate" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">International Karate</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Commodore 64
+### Загальні системні вимоги
+- **Апаратні:** EP128
 ### Геймплей
 - **Додаткові теги:** 16-color mode, SID-card
+### Розробка
+- **Рік випуску:** 1986
+- **Автор:** Mark Cale, Archer Maclean, Rob Hubbard
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/International_Karate.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/international-karate/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/International_Karate.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/international_karate.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/458) *(Telegram-канал Vibrant Waves)*
 
 

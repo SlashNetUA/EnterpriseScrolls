@@ -18,23 +18,42 @@ title: "Inside Outing"
 **ID:** inside-outing-cpc
 
 
+**Жанри:** Аркада, Пригодницька, Платформер, Лабіринт
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_inside-outing-cpc_01.png" width="24%">
 <img src="screens/scrn_inside-outing-cpc_02.png" width="24%">
 <img src="screens/scrn_inside-outing-cpc_03.png" width="24%">
 <img src="screens/scrn_inside-outing-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=inside-outing" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Inside Outing</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
+### Загальні системні вимоги
+- **Апаратні:** EP64, EP128
 ### Геймплей
+- **Керування:** Internal Joy, External Joy 1, External Joy 2
+- **Кількість гравців:** 1 player
 - **Додаткові теги:** 16-color mode, SID-card
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Inside_Outing.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/inside-outing/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=170)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Inside_Outing.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/inside_outing.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/453) *(Telegram-канал Vibrant Waves)*
 
 

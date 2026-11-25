@@ -21,20 +21,38 @@ title: "International Karate Plus"
 **ID:** international-karate-plus-cpc
 
 
+**Жанри:** Драка
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_international-karate-plus-cpc_01.png" width="24%">
 <img src="screens/scrn_international-karate-plus-cpc_02.png" width="24%">
 <img src="screens/scrn_international-karate-plus-cpc_03.png" width="24%">
 <img src="screens/scrn_international-karate-plus-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=international-karate-plus&v=cpc" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">International Karate Plus</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Додаткові теги:** 16-color mode
+### Розробка
+- **Рік випуску:** 1988
+- **Автор:** Archer Maclean, Dan Michek, Rob Hubbard
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/International_Karate_Plus.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/international-karate-plus/#international-karate-amstrad-cpc)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1168)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/International_Karate_Plus_CPC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/international_karate_plus_cpc.rar)
 
 

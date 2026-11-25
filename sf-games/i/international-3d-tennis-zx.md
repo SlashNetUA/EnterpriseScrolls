@@ -18,19 +18,36 @@ title: "International 3D Tennis"
 **ID:** international-3d-tennis-zx
 
 
+**Жанри:** Спортивна, Tennis
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_international-3d-tennis-zx_01.png" width="24%">
 <img src="screens/scrn_international-3d-tennis-zx_02.png" width="24%">
 <img src="screens/scrn_international-3d-tennis-zx_03.png" width="24%">
 <img src="screens/scrn_international-3d-tennis-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=international-3d-tennis" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">International 3D Tennis</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/international-3d-tennis/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2495/ZX-Spectrum/International_3D_Tennis)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/International_3d_Tennis.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/international_3d_tennis.rar)
 
 

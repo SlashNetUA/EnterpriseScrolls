@@ -18,10 +18,20 @@ title: "Grand Prix Circuit"
 **ID:** grand-prix-circuit-zx
 
 
+**Жанри:** Перегони
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_grand-prix-circuit-zx_01.png" width="24%">
 <img src="screens/scrn_grand-prix-circuit-zx_02.png" width="24%">
 <img src="screens/scrn_grand-prix-circuit-zx_03.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=grand-prix-circuit" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Grand Prix Circuit</a>
 
 
 ## Опис
@@ -42,13 +52,19 @@ Grand Prix Circuit — це симулятор гонок Формули-1, ви
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Геймплей
 - **Керування:** External Joy 1
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/grand-prix-circuit/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2116/ZX-Spectrum/Grand_Prix_Circuit)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Grand_Prix_Circuit.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/grand_prix_circuit.rar)
 
 

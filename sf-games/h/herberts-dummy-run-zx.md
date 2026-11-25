@@ -18,11 +18,22 @@ title: "Herbert's Dummy Run"
 **ID:** herberts-dummy-run-zx
 
 
+**Жанри:** Аркада, Пригодницька
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_herberts-dummy-run-zx_01.png" width="24%">
 <img src="screens/scrn_herberts-dummy-run-zx_02.png" width="24%">
 <img src="screens/scrn_herberts-dummy-run-zx_03.png" width="24%">
 <img src="screens/scrn_herberts-dummy-run-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=herberts-dummy-run&v=attus" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Herbert's Dummy Run (Attus)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=herberts-dummy-run" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Herbert's Dummy Run</a>
 
 
 ## Основна інформація
@@ -30,11 +41,17 @@ title: "Herbert's Dummy Run"
 - **Оригінальна платформа:** ZX Spectrum
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1985
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Herbert%27s_Dummy_Run.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/herberts-dummy-run/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2295/ZX-Spectrum/Herberts_Dummy_Run)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Herbert%27s_Dummy_Run.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/herbert_s_dummy_run.rar)
 
 

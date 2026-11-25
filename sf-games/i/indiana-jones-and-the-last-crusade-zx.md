@@ -18,20 +18,37 @@ title: "Indiana Jones and the Last Crusade"
 **ID:** indiana-jones-and-the-last-crusade-zx
 
 
+**Жанри:** Екшн, Платформер
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_indiana-jones-and-the-last-crusade-zx_01.png" width="24%">
 <img src="screens/scrn_indiana-jones-and-the-last-crusade-zx_02.png" width="24%">
 <img src="screens/scrn_indiana-jones-and-the-last-crusade-zx_03.png" width="24%">
 <img src="screens/scrn_indiana-jones-and-the-last-crusade-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=indiana-jones-and-the-last-crusade" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Indiana Jones and the Last Crusade</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1989
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Indiana_Jones.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/indiana-jones-and-the-last-crusade/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2473/ZX-Spectrum/Indiana_Jones_and_the_Last_Crusade)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Indyana_Jones.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/indyana_jones.rar)
 
 

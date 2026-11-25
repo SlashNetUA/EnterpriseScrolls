@@ -21,11 +21,22 @@ title: "Who Dares Wins II"
 **ID:** who-dares-wins2-zx
 
 
+**Жанри:** Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_who-dares-wins2-zx_01.png" width="24%">
 <img src="screens/scrn_who-dares-wins2-zx_02.png" width="24%">
 <img src="screens/scrn_who-dares-wins2-zx_03.png" width="24%">
 <img src="screens/scrn_who-dares-wins2-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=hard-commander&v=hardcomm-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Who Dares Wins II (TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=hard-commander&v=hardcomm-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Who Dares Wins II</a>
 
 
 ## Опис
@@ -48,12 +59,19 @@ Who Dares Wins II — це екшн-гра, випущена у 1986 році к
 
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
+### Геймплей
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1986
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Who_Dares_Wins2.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/hard-commander/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/5673/ZX-Spectrum/Who_Dares_Wins_II)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hard_Commander.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hard_commander.rar)
 
 

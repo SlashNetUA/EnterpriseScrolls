@@ -21,22 +21,38 @@ title: "Howard the Duck"
 **ID:** howard-the-duck-zx
 
 
+**Жанри:** Аркада, Екшн
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_howard-the-duck-zx_01.png" width="24%">
 <img src="screens/scrn_howard-the-duck-zx_02.png" width="24%">
 <img src="screens/scrn_howard-the-duck-zx_03.png" width="24%">
 <img src="screens/scrn_howard-the-duck-zx_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=howard-the-duck" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Howard the Duck</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** ZX Spectrum
 ### Геймплей
 - **Керування:** Internal Joy, External Joy 1, External Joy 2
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Howard_the_Duck.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/howard-the-duck/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2370/ZX-Spectrum/Howard_the_Duck)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Howard_the_Duck.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/howard_the_duck.rar)
 
 

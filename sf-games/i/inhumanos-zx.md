@@ -18,11 +18,21 @@ title: "Los Inhumanos"
 **ID:** inhumanos-zx
 
 
+**Жанри:** Аркада
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_inhumanos-zx_01.png" width="24%">
 <img src="screens/scrn_inhumanos-zx_02.png" width="24%">
 <img src="screens/scrn_inhumanos-zx_03.png" width="24%">
 <img src="screens/scrn_inhumanos-zx_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=los-inhumanos" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Los Inhumanos</a>
 
 
 ## Основна інформація
@@ -30,10 +40,15 @@ title: "Los Inhumanos"
 - **Оригінальна платформа:** ZX Spectrum
 ### Геймплей
 - **Керування:** Keyboard, Internal Joy, External Joy 1, External Joy 2
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1990
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/los-inhumanos/)
 - [Інформація про оригінальну версію](https://spectrumcomputing.co.uk/entry/2486/ZX-Spectrum/Los_Inhumanos)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Inhumanos.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/inhumanos.rar)
 
 

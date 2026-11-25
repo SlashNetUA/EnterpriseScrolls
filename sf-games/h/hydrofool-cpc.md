@@ -18,22 +18,39 @@ title: "Hydrofool"
 **ID:** hydrofool-cpc
 
 
+**Жанри:** Аркада, Пригодницька, Лабіринт
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_hydrofool-cpc_01.png" width="24%">
 <img src="screens/scrn_hydrofool-cpc_02.png" width="24%">
 <img src="screens/scrn_hydrofool-cpc_03.png" width="24%">
 <img src="screens/scrn_hydrofool-cpc_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=hydrofool" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Hydrofool</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
 - **Оригінальна платформа:** Amstrad CPC
+### Геймплей
+- **Додаткові теги:** 4-color mode, Isometric
+### Розробка
+- **Рік випуску:** 1987
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](https://www.ep128.hu/Ep_Games/Leiras/Hydrofool.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/hydrofool/)
 - [Тема на форумі enterpriseforever](https://enterpriseforever.com/cpc-rl/hydrofool/)
 - [Інформація про оригінальну версію](https://www.cpc-power.com/index.php?page=detail&num=1128)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hydrofool_CPC.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hydrofool_cpc.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/398) *(Telegram-канал Vibrant Waves)*
 
 

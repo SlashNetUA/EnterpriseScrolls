@@ -30,6 +30,10 @@ title: "Impetus+"
 <img src="screens/scrn_impetus-plus_03.png" width="24%">
 <img src="screens/scrn_impetus-plus_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=impetus&v=plus" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Impetus+</a>
+
 
 ## Опис
 
@@ -53,7 +57,9 @@ title: "Impetus+"
 
 ## Посилання
 - [Домашня сторінка](http://inufuto.web.fc2.com/8bit/impetusp/#ep64)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/impetus/)
 - [Завантажити](https://www.ep128.hu/Ep_Games/Prg/Impetus_Plus.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/impetus_plus.rar)
 - [Завантажити](http://inufuto.web.fc2.com/8bit/ep64/impetusp_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/1018) *(Telegram-канал Vibrant Waves)*
 

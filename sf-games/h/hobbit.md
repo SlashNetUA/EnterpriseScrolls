@@ -18,20 +18,40 @@ title: "The Hobbit"
 **ID:** hobbit
 
 
+**Жанри:** Текстова пригода
+
+## Примітка
+
+Unofficial conversion
+
 ## Скріншоти
 <img src="screens/scrn_hobbit_01.png" width="24%">
 <img src="screens/scrn_hobbit_02.png" width="24%">
 <img src="screens/scrn_hobbit_03.png" width="24%">
 <img src="screens/scrn_hobbit_04.png" width="24%">
 
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=the-hobbit&v=hobbit-ep" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">The Hobbit</a>
+
 
 ## Основна інформація
+- **Мови:** Англійська
+- **Оригінальна платформа:** Enterprise
 ### Загальні системні вимоги
 - **Апаратні:** EP128, EP128+RAM
+### Геймплей
+- **Керування:** Keyboard
+- **Кількість гравців:** 1 player
+- **Додаткові теги:** Attribute mode
+### Розробка
+- **Рік випуску:** 1982, 2016
 
 
 ## Посилання
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/the-hobbit/#hobbit-the)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Hobbit_Ep.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/hobbit_ep.rar)
 
 
 ## Відео

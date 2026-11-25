@@ -24,12 +24,24 @@ title: "Gridtrouble"
 
 **Жанри:** Аркада, Amidar-подібна
 
+## Примітка
+
+Official release
 
 ## Скріншоти
 <img src="screens/scrn_gridtrouble_01.png" width="24%">
 <img src="screens/scrn_gridtrouble_02.png" width="24%">
 <img src="screens/scrn_gridtrouble_03.png" width="24%">
 <img src="screens/scrn_gridtrouble_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=grid-trouble-ii&v=gridtr-2-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Gridtrouble (Custom Levels 2 - TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=grid-trouble-ii&v=gridtr-2-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Gridtrouble (Custom Levels 2)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=grid-trouble-iii&v=gridtr-3-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Gridtrouble (Custom Levels 3 - TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=grid-trouble-iii&v=gridtr-3-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Gridtrouble (Custom Levels 3)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=grid-trouble&v=grid-trn" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Gridtrouble (Original Levels - TRN)</a>
+<a href="https://epemu.enterpriseforever.com/web/?start=grid-trouble&v=grid-com" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">Gridtrouble (Original Levels)</a>
 
 
 ## Опис
@@ -61,16 +73,24 @@ Grid Trouble – це класичний представник ігрового
 ### Геймплей
 - **Керування:** Internal Joy
 - **Кількість гравців:** 1 player
+- **Додаткові теги:** Text40 mode
 ### Розробка
+- **Рік випуску:** 1987
 - **Автор:** Juergen Letzel
 
 
 ## Посилання
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Grid_Trouble.htm)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Ep_Games/Leiras/Grid_Trouble2.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/grid-trouble-iii/)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/grid-trouble-ii/)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/grid-trouble/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Grid_Trouble.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/grid_trouble.rar)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Grid_Trouble_2.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/grid_trouble_2.rar)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Grid_Trouble_3.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/grid_trouble_3.rar)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/364) *(Telegram-канал Vibrant Waves)*
 
 

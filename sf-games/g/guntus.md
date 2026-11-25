@@ -18,7 +18,7 @@ title: "GUNTUS"
 **ID:** guntus
 
 
-**Жанри:** Аркада
+**Жанри:** Аркада, Шутем-ап
 
 ## Примітка
 
@@ -29,6 +29,10 @@ title: "GUNTUS"
 <img src="screens/scrn_guntus_02.png" width="24%">
 <img src="screens/scrn_guntus_03.png" width="24%">
 <img src="screens/scrn_guntus_04.png" width="24%">
+
+## Запустити у web-емуляторі
+
+<a href="https://epemu.enterpriseforever.com/web/?start=guntus" target="_blank" rel="noopener" style="display:inline-block; padding:8px 16px; margin:4px 8px 4px 0; background-color:#2d6cdf; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold;">GUNTUS</a>
 
 
 ## Опис
@@ -53,7 +57,9 @@ title: "GUNTUS"
 ## Посилання
 - [Домашня сторінка](http://inufuto.web.fc2.com/8bit/guntus/#ep64)
 - [Опис на ep128.hu (угорською)](http://www.ep128.hu/Games/Guntus.htm)
+- [Опис на programs.enterpriseforever.com (угорською)](https://programs.enterpriseforever.com/en/guntus/)
 - [Завантажити](http://www.ep128.hu/Ep_Games/Prg/Guntus.rar)
+- [Завантажити](https://programs.enterpriseforever.com/downloads/guntus.rar)
 - [Завантажити](http://inufuto.web.fc2.com/8bit/ep64/guntus_rom.zip)
 - [Easy Load&Play](https://t.me/EP128k_Load_n_Play/809?single) *(Telegram-канал Vibrant Waves)*
 
